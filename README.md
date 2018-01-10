@@ -1,6 +1,7 @@
 # Guldkorpus
 
 # Liste af diplomer i korpuset
+- LIX, 27 (1399, nedertysk)
 - LX, 18 (1406, nedertysk)
 - LX, 22 (1408, dansk)
 - LX, 28 (1412, dansk)
