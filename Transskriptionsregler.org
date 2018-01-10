@@ -1,6 +1,7 @@
 * Transskriptionsregler
 
 
+
 Første udkast (27.10.2017) fra N-drevet
 
 1)	Generelt:
@@ -37,3 +38,24 @@ Første udkast (27.10.2017) fra N-drevet
 Hvad gør vi i tilfælde af et ord, der er skrevet over 2 linier (og der er ikke indikeret bindestreg eller lignende)?
 -	Svært læselig tekst, bogstaver som kun delvis er synlige, eller noget som ikke kan bestemmes med sikkerhed sættes indenfor <unclear>…</unclear>, fx ”F<unclear>ø</unclear>rste”. Alternativt kan her anvendes tuborgklammer: ”F{ø}rste”.
 -	If there is too much text, i.e. a scribe repeated a word or parts of a word withput noticing and deleting it, the word(s) are palced inside of <surplus>, e.g. ”ett offentligt <surplus>be<surplus> beseglet bref”
+
+==========
+
+** Generelt
+
+** Bogstavsformer mm.
+
+** Abbreviaturer
+- forkortelser :: transskriberes som forkortelsestegn, fx ⟨sō⟩ (/som/) indkoderes 'so&bar;'
+- punktum :: og andre forkortelsestegn, der ellers kan fortolkes som almindelige tegn, markeres i parenteser, fx ⟨A.D.⟩ (/Anno Domini/) indkoderes 'A(.)D(.)'
+- mid-dot :: bruges for punktum, der står både for forkortelsestegn /og/ sig selv, fx. ⟨NN skal betale 10 m.s.⟩ (/mark sølv/) indkoderes 'm(.)s&middot;'
+
+** Ændringer og problematiske læsninger
+- ADD :: 
+- DEL ::
+- GAP :: 
+- SUPPLIED :: 
+  + illegible :: [ ]
+  + omitted :: ⟨ ⟩
+- UNCLEAR :: { }
+- SURPLUS ::
