@@ -1,6 +1,7 @@
 # Guldkorpus
 
 # Liste af diplomer i korpuset
+- LI, 1 (1263, latin)
 - LI, 23 (1258, latin)
 - LI, 24 (latin)
 - LIX, 27 (1399, nedertysk)
