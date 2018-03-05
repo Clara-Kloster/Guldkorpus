@@ -21,6 +21,7 @@ Første udkast (27.10.2017) fra N-drevet
 -	Initialer bliver som udgangspunkt behandlet som store bogstaver.
 -	Diakritiske tegn skal transskriberes på alle vokaler + y (inkl. ligaturer). Dvs. der skelnes mellem ”ı” (&inodot;), ”i”, ”í”, ”ï” og ”” (&idblac;) mellem ”y”,  ”ẏ” (&ydot;), ”ý”  (&yacute;), ”ÿ” (&yuml;), ”” (&ydblac;) o.s.v. Skelnes mellem kodes streg over u og u uden streg?
 -	Det er lige meget om man vil sætte MUFI tegn ind med det sammen, eller om man hellere vil bruge entiteter for særtegn. MUFI character listen findes her: http://folk.uib.no/hnooh/mufi/specs/MUFI-Alphabetic-3-0.pdf 
+- At der sættes diakritiske tegn hvor de egentlig tilhører, ikke hvor de evt. befinder sig i håndskriftet (fx. íu og ikke ıú)
  
 3)	Abbreviaturer:
 -	Forkortelsestegn transskriberes som forkortelsestegn, dvs. ikke opløst, og i deres `standard form’ (se fil ”Forkortelser.pdf”). Hvilket tegn bruger vi for et rigtigt ampersand (og/et)? Og hvordan opmærkes d med en lille krølle nedenfor for at indikere afsluttende e?
