@@ -44,7 +44,6 @@ Hvad gør vi i tilfælde af et ord, der er skrevet over 2 linier (og der er ikke
 - LIX, 27 (1399, nedertysk)
 - LX, 18 (1406, nedertysk)
 - LX, 22 (1408, dansk)
-- Andet diplom
 - LX, 28 (1412, dansk)
 - LXI, 11 (1432, dansk)
 - LXI, 12 (1433, dansk)
