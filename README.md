@@ -4,7 +4,7 @@
 -	Vi transskriberer i rentekst-format (dvs .txt i hvilken som helst teksteditor eller .docx i Word). Hvis man arbejder i Word kan der dog ikke bruges formateringsfunktionerne, dvs. kursivering, farver, …
 -	Brug en MUFI-kompatibel font, fx Andron Scriptor Web eller Junicode (kan downloades her: http://folk.uib.no/hnooh/mufi/fonts/index.html).
 -	Vi transskriberer kun på faksimilært niveau.
--	En linie i diplomet bliver gengivet med en linie i transskriptionen. Efter hver linie sættes dobbelt linieskift (2 x return).
+-	En linje i diplomet bliver gengivet med en linje i transskriptionen. Efter hver linie sættes dobbelt linieskift (2 x return).
 -	Interpunktuationstegn transskriberes som de forekommer i diplomet (fx ”.”,  ”,” og  ”/”), men et punktum der er skrevet lidt højere (en so-kaldt punctus elevatus) gengives som almindeligt punktum.
 -	Ord bliver separeret af mellemrum. Hvis noget er skrevet som to ord, der burde være ét, bruges ”=” (fx ”Hellig=ånd”, ”konge=magten”, ). Hvis noget er skrevet sammen, men burde behandles som to ord, indsættes ”==” (fx ”e==foruden”, ”før==sagt”, ”at==i”).
 -	Noter med kommentarer, fx når man har spørgsmål eller har lagt mærke til noget særligt, skrives indenfor <note>…</note>, fx ”<note>BS: Need to double check this!</note>
