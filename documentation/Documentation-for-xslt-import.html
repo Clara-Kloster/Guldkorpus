@@ -1,0 +1,1323 @@
+<!doctype html>
+<html lang="english">
+<head>
+<title>Documentation for XML import into MenotaB using XSLT</title>
+<!-- 2018-03-05 Mon 11:38 -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="generator" content="Org-mode">
+<meta name="author" content="Beeke Stegmann">
+
+<link  href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<style type="text/css">
+/* org mode styles on top of twbs */
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    font-size: 18px;
+    margin-bottom: 105px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 101px;
+    background-color: #f5f5f5;
+}
+
+footer > div {
+    padding: 10px;
+}
+
+footer p {
+    margin: 0 0 5px;
+    text-align: center;
+    font-size: 16px;
+}
+
+#table-of-contents {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+blockquote p {
+    font-size: 18px;
+}
+
+pre {
+    font-size: 16px;
+}
+
+.footpara {
+    display: inline-block;
+}
+
+figcaption {
+  font-size: 16px;
+  color: #666;
+  font-style: italic;
+  padding-bottom: 15px;
+}
+
+/* from twbs docs */
+
+.bs-docs-sidebar.affix {
+    position: static;
+}
+@media (min-width: 768px) {
+    .bs-docs-sidebar {
+        padding-left: 20px;
+    }
+}
+
+/* All levels of nav */
+.bs-docs-sidebar .nav > li > a {
+    display: block;
+    padding: 4px 20px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #999;
+}
+.bs-docs-sidebar .nav > li > a:hover,
+.bs-docs-sidebar .nav > li > a:focus {
+    padding-left: 19px;
+    color: #A1283B;
+    text-decoration: none;
+    background-color: transparent;
+    border-left: 1px solid #A1283B;
+}
+.bs-docs-sidebar .nav > .active > a,
+.bs-docs-sidebar .nav > .active:hover > a,
+.bs-docs-sidebar .nav > .active:focus > a {
+    padding-left: 18px;
+    font-weight: bold;
+    color: #A1283B;
+    background-color: transparent;
+    border-left: 2px solid #A1283B;
+}
+
+/* Nav: second level (shown on .active) */
+.bs-docs-sidebar .nav .nav {
+    display: none; /* Hide by default, but at >768px, show it */
+    padding-bottom: 10px;
+}
+.bs-docs-sidebar .nav .nav > li > a {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 30px;
+    font-size: 12px;
+    font-weight: normal;
+}
+.bs-docs-sidebar .nav .nav > li > a:hover,
+.bs-docs-sidebar .nav .nav > li > a:focus {
+    padding-left: 29px;
+}
+.bs-docs-sidebar .nav .nav > .active > a,
+.bs-docs-sidebar .nav .nav > .active:hover > a,
+.bs-docs-sidebar .nav .nav > .active:focus > a {
+    padding-left: 28px;
+    font-weight: 500;
+}
+
+/* Nav: third level (shown on .active) */
+.bs-docs-sidebar .nav .nav .nav {
+    padding-bottom: 10px;
+}
+.bs-docs-sidebar .nav .nav .nav > li > a {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 40px;
+    font-size: 12px;
+    font-weight: normal;
+}
+.bs-docs-sidebar .nav .nav .nav > li > a:hover,
+.bs-docs-sidebar .nav .nav .nav > li > a:focus {
+    padding-left: 39px;
+}
+.bs-docs-sidebar .nav .nav .nav > .active > a,
+.bs-docs-sidebar .nav .nav .nav > .active:hover > a,
+.bs-docs-sidebar .nav .nav .nav > .active:focus > a {
+    padding-left: 38px;
+    font-weight: 500;
+}
+
+/* Show and affix the side nav when space allows it */
+@media (min-width: 992px) {
+    .bs-docs-sidebar .nav > .active > ul {
+        display: block;
+    }
+    /* Widen the fixed sidebar */
+    .bs-docs-sidebar.affix,
+    .bs-docs-sidebar.affix-bottom {
+        width: 213px;
+    }
+    .bs-docs-sidebar.affix {
+        position: fixed; /* Undo the static from mobile first approach */
+        top: 20px;
+    }
+    .bs-docs-sidebar.affix-bottom {
+        position: absolute; /* Undo the static from mobile first approach */
+    }
+    .bs-docs-sidebar.affix .bs-docs-sidenav,.bs-docs-sidebar.affix-bottom .bs-docs-sidenav {
+        margin-top: 0;
+        margin-bottom: 0
+    }
+}
+@media (min-width: 1200px) {
+    /* Widen the fixed sidebar again */
+    .bs-docs-sidebar.affix-bottom,
+    .bs-docs-sidebar.affix {
+        width: 263px;
+    }
+}
+</style>
+<script type="text/javascript">
+$(function() {
+    'use strict';
+
+    $('.bs-docs-sidebar li').first().addClass('active');
+
+    $(document.body).scrollspy({target: '.bs-docs-sidebar'});
+
+    $('.bs-docs-sidebar').affix();
+});
+</script>
+</head>
+<body>
+<div id="content" class="container">
+<div class="row"><div class="col-md-9"><h1 class="title">Documentation for XML import into MenotaB using XSLT</h1>
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> General information</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+This is the documentation for the XML import into MenotaB using one XSLT
+stylesheet (<code>XML-to-MenotaB-transform.xsl</code>), which, when run on an XML
+file, produces text output in the format that is expected by MenotaB.
+</p>
+
+<p>
+The XSLT works both on pure TEI P5 XML and Menotic XML according to
+Menota Handbook v.2 and v.3. 
+Please note, however, that the Menotic elements &lt;me:textSpan&gt;, &lt;me:all&gt; 
+and &lt;me:ass&gt; are currently not processed by the stylesheet.
+</p>
+
+<p>
+It expects the most common XML elements and attributes. Special elements
+or variant forms of encoding which might validate but are not
+recommended by the standards (such as non-standardized attribute values)
+might not be taken into consideration.
+The stylesheet expects all words to be wrabbed in <code>&lt;w&gt;</code> elements
+and also requires <code>&lt;pb&gt;</code> abd <code>&lt;lb&gt;</code> element with <code>@n</code> attributes
+to mark the page and line breaks in the artefact being transcribed.
+</p>
+
+<p>
+The XSLT only works on a valid XML file that is validated against the
+TEI-namespace (and optionally also the Menota namespace). In other
+words, the <code>&lt;TEI&gt;</code> element is expected as the outermost element and it
+needs to have the attribute @xmlns="<a href="http://www.tei-c.org/ns/1.0">http://www.tei-c.org/ns/1.0</a>".
+For Menotic XML, the namespace @xmlns:me="<a href="http://menota.org/ns/1.0">http://menota.org/ns/1.0</a>"
+can be added.
+</p>
+
+<p>
+The XSLT produces output in pure text format which can be understood by
+org-mode.
+</p>
+
+<p>
+ASK: Midlertidig tilføjelse
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> Document structure</h2>
+<div class="outline-text-2" id="text-2">
+<p>
+The output document follows the org-mode syntax and includes some raw
+XML-code. First, a line for the internal identifier (i.e. text number)
+is produced, but since the XSLT cannot automatically assign this number 
+from a sinlge XML-imput file, the output currently produces two asterisks
+followed by "(TEXT-NUMBER)".
+</p>
+
+
+<p>
+Second, one line with 17 fields (separated by pipe characters)
+containing meta information is addet to the output document.
+</p>
+
+<ul class="org-ul">
+<li>This line is identified by <code>:m:</code> in the first field.
+</li>
+<li>The second field is reserved for the text number, i.e. a running number 
+within a given corpus, which might be project specific.
+</li>
+<li>The third field gives the identifier of the artefact in question
+(i.e. either the shelfmark or any other ID specified in
+<code>&lt;msIdentifier&gt;</code> or, if not encoded, the contents of <code>&lt;titleStmt&gt;</code>).
+</li>
+<li>The fourth field gives the date, if present from <code>&lt;origDate&gt;</code>, if not
+from a potentially present <code>&lt;date&gt;</code> element in <code>&lt;origin&gt;</code>.
+</li>
+</ul>
+
+<p>
+<b>[:TODO: The following fields have not yet been assigned. Check! Which other</b>
+<b>info to include?] Det er endnu lidt uafklaret hvilken type meta-information vi</b>
+<b>ender med. Her må vi regne med at at der vil ske ændringer.]</b>
+</p>
+
+<p>
+Third, the output file has a section for notes (three asterisks), with
+subsections for the XML header and potentially information on facsimile mapping,
+the front and/or back matter. All XML files are expected to have a
+<code>&lt;teiHeader&gt;</code>, but the other subsections are only produced in cases where
+<code>&lt;facsimile&gt;</code>, <code>&lt;front&gt;</code> and <code>&lt;back&gt;</code>, respectively, are present. All
+subsections simply copy over the XML from the input file and print the code
+within an XML source code block.<sup><a id="fnr.1" name="fnr.1" class="footref" href="#fn.1">1</a></sup>
+</p>
+
+<p>
+Fourth, the output file gives the transcription (three asterisks) in
+MenotaB format: Each line has 17 fields (separated by pipe characters)
+that are allocated to slightly varying values or types of information
+depending on the nature of the encoded element (e.g. if it is a word,
+punctuation character etc.). The different elements, their expected
+XML-encoding, and how the values and attributes are converted and
+represented in the 17 fields of each line in the output are described
+below. The transcription (expected to be found inside <code>&lt;body&gt;</code> as a
+child of <code>&lt;text&gt;</code>) is processed and returned inside enclosing lines with
+<code>:s:</code> and <code>:e:</code> for "start" end "end".
+</p>
+</div>
+
+
+<div id="outline-container-sec-2-1" class="outline-3">
+<h3 id="sec-2-1"><span class="section-number-3">2.1</span> Regular words, punctuation characters and numbers</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+In general, words that are encoded using <code>&lt;w&gt;</code> in the XML file are
+imported in the following way (a = Menotic XML; b = TEI P5; c = a
+fictive example with even more information, output only). Please note:
+For words with additional markup for e.g. emendations or defects
+additional rules may apply; see further below. Punctuation characters
+(encoded either as <code>&lt;pc&gt;</code> or <code>&lt;me:punct&gt;</code>) and numbers (encoded as
+<code>&lt;num&gt;</code>) are treated in the same way as words (as far as applicable).
+</p>
+
+<div class="org-src-container">
+<label class="org-src-name">(a)</label>
+<pre class="src src-xml">&lt;<span style="color: #edd400; font-weight: bold;">w</span> <span style="color: #729fcf;">me</span>:<span style="color: #ff6347;">msa</span>=<span style="color: #ad7fa8; font-style: italic;">"xVB fF tPT mIN p3 nS vA iST"</span> <span style="color: #ff6347;">lemma</span>=<span style="color: #ad7fa8; font-style: italic;">"gefa"</span>&gt;
+    &lt;<span style="color: #edd400; font-weight: bold;">choice</span>&gt;
+        &lt;<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">facs</span>&gt;ga&#42876;&lt;/<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">facs</span>&gt;
+        &lt;<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">dipl</span>&gt;gaf&lt;/<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">dipl</span>&gt;
+        &lt;<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">norm</span>&gt;gaf&lt;/<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">norm</span>&gt;
+    &lt;/<span style="color: #edd400; font-weight: bold;">choice</span>&gt;
+&lt;/<span style="color: #edd400; font-weight: bold;">w</span>&gt;
+</pre>
+</div>
+
+<div class="org-src-container">
+
+<pre class="src src-orgmode">| type | lemma1 | lemma2 | msa                         | norm1 | norm2 | dipl | facs | word/image nummer | palaeogr. annot. | graphophon. annot. | notes | language | extra1 | extra2 | spacing? | position in source |
+| w    |        | gefa   | xVB fF tPT mIN p3 nS vA iST |       | gaf   | gaf  | gaꝼ  |            000001 |                  |                    |       |          |        |        |          | 168r-01            |
+</pre>
+</div>
+
+
+<div class="org-src-container">
+<label class="org-src-name">(b)</label>
+<pre class="src src-xml">&lt;<span style="color: #edd400; font-weight: bold;">w</span> <span style="color: #ff6347;">n</span>=<span style="color: #ad7fa8; font-style: italic;">"14"</span> <span style="color: #ff6347;">lemma</span>=<span style="color: #ad7fa8; font-style: italic;">"menneske"</span> <span style="color: #ff6347;">type</span>=<span style="color: #ad7fa8; font-style: italic;">"sb"</span>&gt;
+    &lt;<span style="color: #edd400; font-weight: bold;">choice</span>&gt;
+        &lt;<span style="color: #edd400; font-weight: bold;">reg</span>&gt;mennesken&lt;/<span style="color: #edd400; font-weight: bold;">reg</span>&gt;
+        &lt;<span style="color: #edd400; font-weight: bold;">orig</span>&gt;me&lt;<span style="color: #edd400; font-weight: bold;">choice</span>&gt;&lt;<span style="color: #edd400; font-weight: bold;">am</span>&gt;&#773;&lt;/<span style="color: #edd400; font-weight: bold;">am</span>&gt;&lt;<span style="color: #edd400; font-weight: bold;">ex</span>&gt;n&lt;/<span style="color: #edd400; font-weight: bold;">ex</span>&gt;&lt;/<span style="color: #edd400; font-weight: bold;">choice</span>&gt;n&#237;&#383;ken&lt;/<span style="color: #edd400; font-weight: bold;">orig</span>&gt;
+    &lt;/<span style="color: #edd400; font-weight: bold;">choice</span>&gt;
+&lt;/<span style="color: #edd400; font-weight: bold;">w</span>&gt;
+</pre>
+</div>
+
+<div class="org-src-container">
+
+<pre class="src src-orgmode">| type | lemma1 | lemma2   | msa | norm1 | norm2    | dipl        | facs     | word/image nummer | palaeogr. annot. | grapho-phon. annot. | notes | language | extra1 | extra2 | spacing? | position in source |
+| w    |        | menneske | sb  |       | menneske | me(n)níſken | men̅íſken |            000023 |                  |                     |       |          |        |        |          | 023ra-10           |
+</pre>
+</div>
+
+
+<div class="org-src-container">
+<label class="org-src-name">(c)</label>
+<pre class="src src-orgmode">| type | lemma1 | lemma2 | msa          | norm1         | norm2     | dipl  | facs | word/image nummer | palaeogr. annot. | grapho-phon. annot. | notes | language | extra1 | extra2 | spacing? | position in source |
+| w    | ég     | vér    | xPE p1 nP cN | vér           | vér       | W(ær) | W͛   |            000001 |                  | {W:v}{͛:[ér,ǽr]}    |       | oic      |        |        | =        |            168-01  |
+</pre>
+</div>
+
+<p>
+In both cases, the first field (= type) takes the value <code>w</code> for "word".
+The only exception is when the <code>&lt;w&gt;</code> in question is encoded as a
+descendant of <code>&lt;gap&gt;</code>, in which case the entire word is assumed to be
+lost and the value <code>L</code> is printed instead. For punctuation characters
+the first field takes <code>p</code>; for numbers <code>n</code>.
+</p>
+
+<p>
+The second and third field are for lemma1 and lemma2, which are read
+from @lemma on <code>&lt;w&gt;</code> or <code>&lt;num&gt;</code> if encoded (and if present
+@me:orig-lemma). If only one lemma is present, it is assumed to be
+@lemma (as is the case in both a and b), and its value is read into the
+third field (= lemma2), while the second field is left empty. If an
+additional lemma is encoded, i.e. @me:org-lemma, its value is read into
+the second field (= lemma1) as can be seen in example (c). If there are
+any homonymous lemmata encoded in any of the two attributes (using a
+pipe character as a separator), that character is replaced by a broken
+bar.
+</p>
+
+<p>
+The fourth field (= msa) is populated with the morphosyntactic
+annotation if present. If encoded, the value of the attribute @me:msa is
+imported. Otherwise, the value of a potentially present attribute @type
+is read in. If none of these are encoded, the field is left empty.
+</p>
+
+<p>
+The fifth and sixth field (= norm1 and norm2) contain the normalized
+form(s) of the word. If only one normalized form is present, it is
+imported into the sixth field (= norm2). A second or alternative
+normalized form may be placed in the fifth field (= norm1). For Menotic
+XML (a), the value is taken from the element <code>&lt;me:norm&gt;</code>, for TEI P5 XML
+(b) it is taken from <code>&lt;reg&gt;</code>. All descending elements of <code>&lt;me:norm&gt;</code> or
+&lt;reg&gt; are processed (see below). If the word in question is marked up as
+a descendant of <code>&lt;unclear&gt;</code>, <code>&lt;supplied&gt;</code>, <code>&lt;add&gt;</code>, <code>&lt;del&gt;</code>, <code>&lt;sic&gt;</code>,
+<code>&lt;corr&gt;</code> or <code>&lt;surplus&gt;</code> / <code>&lt;me:suppressed&gt;</code> (or <code>&lt;me:expunged&gt;</code>) the
+relevant editorial markup is automatically inserted around the word
+form. The characters used are the same as for changes or emendations
+within a word (see below).
+</p>
+
+<p>
+The seventh field (= dipl) is populated with the diplomatic word form.
+In Menotic XML (a) it is read from the element <code>&lt;me:dipl&gt;</code>, in TEI P5
+XML (b) from <code>&lt;orig&gt;</code> with the contents of all descendant <code>&lt;ex&gt;</code>
+elements (displayed in parentheses), while the contents of <code>&lt;am&gt;</code> is
+suppressed. All other descending elements of <code>&lt;orig&gt;</code> and <code>&lt;me:dipl&gt;</code>
+are processed as normal. If the word in question is marked up as a
+descendant of <code>&lt;unclear&gt;</code>, <code>&lt;supplied&gt;</code>, <code>&lt;add&gt;</code>, <code>&lt;del&gt;</code>, <code>&lt;sic&gt;</code>,
+<code>&lt;corr&gt;</code> or <code>&lt;surplus&gt;</code> / <code>&lt;me:suppressed&gt;</code> (or <code>&lt;me:expunged&gt;</code>) the
+relevant editorial markup is automatically inserted around the word
+form. The characters used are the same as for changes or emendations
+within a word (see below). If the input contains a single-level
+transcription, in which the text is simply transcribed within <code>&lt;w&gt;</code>
+(i.e. without any <code>&lt;choice&gt;</code> and respective child elements, the
+transcription is assumed to be on the diplomatic level and therefore
+read into the seventh field. In case there are both a <code>&lt;sic&gt;</code> and
+<code>&lt;corr&gt;</code> form encoded for a word in a single-level transcription the
+corrected form is printed in the current field (whereas the sic-form is
+given in the eighth field).
+</p>
+
+<p>
+The eighth field (= facs) is populated with the facsimile word form. In
+Menotic XML (a) it is read from the element <code>&lt;me:facs&gt;</code>, in TEI P5 XML
+(b) from <code>&lt;orig&gt;</code> with the contents of all descendant <code>&lt;am&gt;</code> elements,
+while the contents of <code>&lt;ex&gt;</code> is suppressed. All other descending
+elements of <code>&lt;orig&gt;</code> and <code>&lt;me:facs&gt;</code> are processed as normal. If the
+word in question is marked up as a descendant of <code>&lt;unclear&gt;</code>,
+<code>&lt;supplied&gt;</code>, <code>&lt;add&gt;</code>, <code>&lt;del&gt;</code>, <code>&lt;sic&gt;</code>, <code>&lt;corr&gt;</code> or
+<code>&lt;surplus&gt;</code> / <code>&lt;me:suppressed&gt;</code> (or <code>&lt;me:expunged&gt;</code>) the relevant
+editorial markup is automatically inserted around the word form. The
+characters used are the same as for changes or emendations within a word
+(see below).
+</p>
+
+<p>
+The ninth field (= word/image nummer) is populated automatically, counting all
+<code>&lt;w&gt;</code>, <code>&lt;pc&gt;</code> (or <code>&lt;me:punct&gt;</code>) and <code>&lt;num&gt;</code> elements in the <code>&lt;body&gt;</code>. The output
+is given as a six digit number. If @n is encoded for <code>&lt;w&gt;</code> it is not
+considered. If the actual order of words in an artefact differs from the
+logical order (or the order it should be read in), the reordering of
+the words in question is noted in this field by adding additional
+numbers in parentheses behind the numbers. Note that the expected format for 
+marking up reordered text follows the guidelines of the Menota Handbook v.3 with 
+multiple <code>&lt;lb&gt;</code> milestones that carry different <code>@rend</code> attributes
+to indicate the physical rendition of the part of the lines
+in question.) The parentheses first print the value of <code>@rend</code> of 
+the preceding &lt;lb&gt; (if it has one), followed by a hyphen and the 
+position of the word or punctuation character within the given part 
+of the line. *<sup><a id="fnr.2" name="fnr.2" class="footref" href="#fn.2">2</a></sup>*
+</p>
+
+<p>
+The tenth field (= paleograph. annot.) reads in palaeogaphic
+information. More specifically, it imports the contents of <code>&lt;me:pal&gt;</code> if
+present. Furthermore, if initials are encoded using <code>&lt;c&gt;</code>
+or <code>&lt;hi&gt;</code>, the values of all potential attributes are read and printed in this field,
+separated by broken pipe characters. The contents of <code>&lt;c&gt;</code> or <code>&lt;hi&gt;</code> is 
+reproduced in the fields for the facsimile (and potentially diplomatic)
+form of the word according to the XML encoding.
+<b>[Note that in case a hyphen is encoded with <code>&lt;c&gt;</code> and <code>@type</code> of the value <code>hyphen</code> this attribute value as well as potential others,
+such as <code>@resp</code> are reproduced here.]</b>
+</p>
+
+<p>
+The eleventh field (= grapho-phon. annot.) does at present not read in
+anything from the XML input.
+</p>
+
+<p>
+The twelfth field (= notes) imports the contents of any <code>&lt;note&gt;</code>
+elements that might be associated with a <code>&lt;w&gt;</code>. Please note that only
+<code>&lt;note&gt;</code> elements <i>within</i> <code>&lt;w&gt;</code> are processed correctly, while
+potential <code>&lt;note&gt;</code> elements placed immediately following or elsewhere
+are not considered.
+</p>
+
+<p>
+The thirteenth field (= language) holds the language key for the word.
+If any ancestor element (e.g. <code>&lt;div&gt;</code>, <code>&lt;p&gt;</code>, <code>&lt;seg&gt;</code>) has an attribute
+@xml:lang, the attribute's value of the closest element with such an
+attribute is inserted. Otherwise, the stylesheet checks for the presence
+of the element <code>&lt;langUsage&gt;</code> in the header and reads out any descendant
+elements <code>&lt;language&gt;</code> for their respective @ident. If several
+<code>&lt;language&gt;</code> elements are present, the different values of @ident are
+imported and separated by white space.
+</p>
+
+<p>
+The fourteenth and fifteenth field (= extra1 and extra2) are additional
+fields for project specific information. Currently, the fourteenth field
+(= extra1) is used for reading in information on multiple morphemes if
+encoded in the XML. The information from the separate <code>&lt;m&gt;</code> elements, as
+in the example below, is represented by the same number of pairs of
+curly brackets that contain a mapping of the contents to the value of
+@baseform separated by a colon (see example).
+</p>
+
+
+<div class="org-src-container">
+<label class="org-src-name">Example of XML with <code>&lt;m&gt;</code> elements</label>
+<pre class="src src-xml">&lt;<span style="color: #edd400; font-weight: bold;">w</span> <span style="color: #729fcf;">me</span>:<span style="color: #ff6347;">msa</span>=<span style="color: #ad7fa8; font-style: italic;">"xNP gM nS cD sI"</span> <span style="color: #ff6347;">lemma</span>=<span style="color: #ad7fa8; font-style: italic;">"I&#240;av&#491;llr"</span>&gt;
+                            &lt;<span style="color: #edd400; font-weight: bold;">m</span> <span style="color: #ff6347;">baseForm</span>=<span style="color: #ad7fa8; font-style: italic;">"i&#240;"</span>&gt;I&#240;a&lt;/<span style="color: #edd400; font-weight: bold;">m</span>&gt;
+                            &lt;<span style="color: #edd400; font-weight: bold;">m</span> <span style="color: #ff6347;">baseForm</span>=<span style="color: #ad7fa8; font-style: italic;">"v&#491;llr"</span>&gt;v&#491;llr&lt;/<span style="color: #edd400; font-weight: bold;">m</span>&gt;
+                            &lt;<span style="color: #edd400; font-weight: bold;">choice</span>&gt;
+                                &lt;<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">facs</span>&gt;&#305;&#240;a uell&#305;&lt;/<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">facs</span>&gt;
+                                &lt;<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">dipl</span>&gt;i&#240;a uelli&lt;/<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">dipl</span>&gt;
+                                &lt;<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">norm</span>&gt;I&#240;avelli&lt;/<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">norm</span>&gt;
+                            &lt;/<span style="color: #edd400; font-weight: bold;">choice</span>&gt;
+                        &lt;/<span style="color: #edd400; font-weight: bold;">w</span>&gt;
+</pre>
+</div>
+
+<div class="org-src-container">
+
+<pre class="src src-orgmode">| {ið:Iða}{vǫllr:vǫllr} |
+</pre>
+</div>
+
+<p>
+In case of an additional attribute <code>@type</code> (e.g. with the value of
+"prefix", "root" or "suffix"), this value is added at the end, separated
+by another colon.
+</p>
+
+<p>
+The sixteenth field (= spacing?) holds information on two (or more)
+words, numbers or punctuation characters that are written together in
+the original. If an element <code>&lt;seg&gt;</code> with an attribute <code>@type</code> and the
+value <code>nb</code> or <code>enc</code> is present in the transcription enclosing the words
+in question, the XSL stylesheet inserts equal signs or not-equal signs, respectively.
+For the first word
+of the segment either one equal sign or a non-equal sign is printed
+ and an additional equal sign/non-equal sign for every following. E.g. if
+three words are written together in the original and encoded in the XML
+using <code>&lt;seg&gt;</code> with <code>@type</code> of the value <code>nb</code>, the output will show a single equal sign in the
+sixteenth field of the first word, two equal signs in the sixteenth
+field of the second word, and three equal signs in the respective field
+for the third word.
+<b>[Note: The number of equal signs (or non-equal signs) in case of three or more element is to be changed in the elisp handling in such a way that the last element of such a 
+sequence always has two equal signs, while the intermediate ones can have more]</b>
+</p>
+
+<p>
+The seventeenth and final field (= position in source) is automatically
+populated with the information of both the page/folio and line
+information of where the word is located based on the present encoding
+of <code>&lt;pb/&gt;</code>, <code>&lt;lb/&gt;</code> and potentially <code>&lt;cb/&gt;</code> and the values of their
+respective <code>@n</code>. Any markup for page breaks, line breaks or column
+breaks found in editions (expected to be marked with @type="ed" or @ed)
+are ignored.
+</p>
+
+<p>
+For <code>&lt;pb/&gt;</code> <code>@n</code> is expected to contain a string of up to four
+characters, i.e. usually a number of one to three digits
+ combined with r or v for
+<i>recto</i> or <i>verso</i>; for <code>&lt;lb/&gt;</code> <code>@n</code> is expected to
+contain a single number (no letters!) of a maximum of two digits; for
+<code>&lt;cb/&gt;</code> the value of @n is expected to be a single letter. The output
+format is <code>[0-9][0-9][0-9][rv]-[0-9][0-9]</code> for folio/page-leaf (e.g.
+023r-09). In case the primary source is written in more than one column
+and this in encoded in the XML using <code>&lt;cb/&gt;</code>, the letter of the column
+is added to the end of the folio/page information (e.g. 023ra-07). If a
+word is written on more than one line and this fact is encoded with a
+<code>&lt;lb/&gt;</code> (and potentially also <code>&lt;pb/&gt;</code> or <code>&lt;cb/&gt;</code>) inside the <code>&lt;w&gt;</code> in
+question, the seventeenth field also reads in the location of the second
+and potentially further parts of the word. The format for the position
+is always the same; the multiple elements are separated by an m-dash
+(e.g. 123v-09&#x2014;123v-10).
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-sec-2-2" class="outline-3">
+<h3 id="sec-2-2"><span class="section-number-3">2.2</span> Page breaks, line breaks and column breaks (including hyphenation)</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+Markup for page breaks, line breaks, column breaks
+ is treated differently depending on whether the milestone
+elements <code>&lt;pb&gt;</code>, <code>&lt;lb&gt;</code> and <code>&lt;cb&gt;</code>, are found outside of words or
+within. In the former case, the milestone elements are simply converted
+into a line in the output as shown in the example.
+</p>
+
+<div class="org-src-container">
+<label class="org-src-name">Example of <code>&lt;lb/&gt;</code> in XML input (with its preceding <code>&lt;pb/&gt;</code> and <code>&lt;cb/&gt;</code>)</label>
+<pre class="src src-xml">&lt;<span style="color: #edd400; font-weight: bold;">pb</span> <span style="color: #ff6347;">n</span>=<span style="color: #ad7fa8; font-style: italic;">"126r"</span> <span style="color: #ff6347;">type</span>=<span style="color: #ad7fa8; font-style: italic;">"ms"</span>/&gt;&lt;<span style="color: #edd400; font-weight: bold;">cb</span> <span style="color: #ff6347;">n</span>=<span style="color: #ad7fa8; font-style: italic;">"a"</span>/&gt;
+.....
+&lt;<span style="color: #edd400; font-weight: bold;">lb</span> <span style="color: #ff6347;">n</span>=<span style="color: #ad7fa8; font-style: italic;">"15"</span> <span style="color: #ff6347;">type</span>=<span style="color: #ad7fa8; font-style: italic;">"ms"</span> <span style="color: #ff6347;">rend</span>=<span style="color: #ad7fa8; font-style: italic;">"3"</span>/&gt;
+</pre>
+</div>
+
+<div class="org-src-container">
+
+<pre class="src src-orgmode">| lm | 126ra-15 |  | 3 | | | | | | | | | | | | | |
+</pre>
+</div>
+
+<p>
+The first field of that line holds the type designation:
+</p>
+
+<ul class="org-ul">
+<li><code>pm</code> for a page break found in a manuscript
+</li>
+<li><code>pe</code> for a page break in a relevant edition (expected to be specified
+with either @ed or @type="ed" if encoded)
+</li>
+<li><code>lm</code> for a line break in a manuscript
+</li>
+<li><code>le</code> for a line break in a relevant edition (expected to be specified
+with either @ed or @type="ed")
+</li>
+<li><code>cm</code> for a column break in a manuscript
+</li>
+<li><code>ce</code> for a column break in a relevant edition (expected to specified
+with either @ed or @type="ed")
+</li>
+<li><code>gb</code> for a gathering break in a manuscript
+</li>
+<li><code>hs</code> for a hand shift in a manuscript
+</li>
+</ul>
+
+<p>
+The second field holds information about the place, i.e. the number of
+the break in question. For <code>&lt;pb/&gt;</code> the number is read from its <code>@n</code>,
+which is expected to contain a string of up to four characters, i.e.
+usually a number of one to three digits combined with 'r' or 'v' for
+ <i>recto</i> or <i>verso</i>
+for a page break in a manuscript or a number of up to four digits for a
+page break in an edition. If a format with less numbers are encoded, the
+stylesheet automatically prepends zeros to produce a string of four
+characters. For <code>&lt;cb/&gt;</code> (if present) the number is a combination of the
+preceding <code>&lt;pb&gt;</code> and its own <code>@n</code> attributes, the latter being expected
+to contain a single letter. The four digits from the page break and the
+letter from the column break are printed without any additional syntax
+(e.g. "126ra"). For <code>&lt;lb/&gt;</code> the number is a combination of the preceding
+<code>&lt;pb&gt;</code>, potentially <code>&lt;cb&gt;</code>, and its own <code>@n</code> attributes, the latter
+being expected to contain a single number (no letters!) of a maximum of
+two digits. The folio/page number (potentially including the column
+number) and the line number are separated in the output by a hyphen if
+the line break is found in a manuscript (e.g. 023r-09 or 023rb-10) and
+by a dot if the line break is from an edition (e.g. 0126.12). Line
+numbers below 10 are automatically rendered with a preceding zero. In
+case line breaks, page breaks and potentially column breaks from both
+the manuscript and an edition are encoded, only preceding milestone
+elements of the same type are considered.
+</p>
+
+<p>
+The third field reads in any value of a potentially present <code>@facs</code>
+attribute (which is e.g. common for <code>&lt;pb&gt;</code> if there is a mapping to
+facsimile images.
+</p>
+
+<p>
+The fourth field reads in any value of a potentially present <code>@rend</code>
+attribute, which is common for <code>&lt;lb&gt;</code> if the logical order of
+the words does not agree with the physical order (in this case &lt;lb&gt;
+is expected to be encoded for each part of the line, with the same 
+value of <code>@n</code>, but the
+multiple milestone elements are distinguished by a counting <code>@rend</code>).
+</p>
+
+<p>
+The remaining fields of the output line are left empty.
+</p>
+
+<p>
+If page breaks, line breaks or column breaks occur within a word the
+exact location of the milestone element is retained by means of
+inserting a double pipe character for page breaks in a manuscript and
+double forward slashes (&amp;dblsol;) for a page break in an edition; a single broken
+pipe character for a line break in a manuscript and a single &amp;fracsol; (⁄)
+ for a line break in an edition; double closing parentheses for a 
+column break in a manuscript and double opening
+parentheses for a column break in an edition.
+In case a line break element also has a <code>@rend</code> attribute, because the 
+logical order differs from the physical, the stylesheet prints
+a broken pipe character + '@rend' + the value of the rend-attribute +
+a broken pipe character.
+<b>[ This additional markup for <code>&lt;lb&gt;</code> in words with @rend is expected to be removed after handling the text in elisp, as the word/image number field 
+will contain that information.]</b>  
+</p>
+
+<p>
+In case of hyphenation at a line break the stylesheet simply reproduces
+any hyphens that are marked up in the XML as present in the manuscript, 
+i.e. not as supplied, without further markup. That is also the case
+when the element <code>&lt;lb/&gt;</code> has a <code>@rend</code> with the value <code>hyphen</code> or when 
+a hyphen is typed as such and additionally wrapped in <code>&lt;c&gt;</code> with a 
+<code>@type</code> of the value <code>hyphen</code>. 
+If a hyphen is supplied and wrapped in <code>&lt;supplied&gt;</code>, it is treated like
+other supplied characters. If it is wrapped in <code>&lt;me:punct&gt;</code> (inside of a word) with a
+<code>@type</code> of the value <code>supplied</code> it is treated in the same way as if it 
+was wrapped in <code>&lt;supplied&gt;</code> the only difference being that potential information
+about the reason for the supplement, i.e. <code>omitted</code> or <code>illegible</code> is expected
+to be the value of <code>@subtype</code> instead of <code>@reason</code>.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-sec-2-3" class="outline-3">
+<h3 id="sec-2-3"><span class="section-number-3">2.3</span> Gathering boundaries, hand shift, gaps (when not indicating lost words), space and metamarks</h3>
+<div class="outline-text-3" id="text-2-3">
+<p>
+While metamarks are expected
+to only occur outside of words, the markup for gaps, gathering breaks, space and
+ hand shift is treated differently
+depending on whether the milestone elements <code>&lt;gb/&gt;</code>, <code>&lt;handShift/&gt;</code>, <code>&lt;gap/&gt;</code> and
+<code>&lt;space/&gt;</code> are found outside of words or within. In the former case, the
+elements are simply converted into a line in the output (see example below). 
+In the latter case, both a special character is
+printed within the word to indicate the exact location (see below) and a line 
+is produced preceding the word that contains the milestone element in order
+to retain potential additional information from any present attributes. 
+</p>
+
+<div class="org-src-container">
+<label class="org-src-name">Example of XML with <code>&lt;space/&gt;</code> element</label>
+<pre class="src src-xml">&lt;<span style="color: #edd400; font-weight: bold;">space</span> <span style="color: #ff6347;">extent</span>=<span style="color: #ad7fa8; font-style: italic;">"3"</span> <span style="color: #ff6347;">unit</span>=<span style="color: #ad7fa8; font-style: italic;">"lines"</span> <span style="color: #ff6347;">dim</span>=<span style="color: #ad7fa8; font-style: italic;">"vertical"</span> <span style="color: #ff6347;">resp</span>=<span style="color: #ad7fa8; font-style: italic;">"BS"</span>/&gt;
+</pre>
+</div>
+
+<div class="org-src-container">
+
+<pre class="src src-orgmode">| sp |  | 3_lines | vertical |  | BS | | | | | | | | | | | |
+</pre>
+</div>
+
+<p>
+The first field of that line holds the type designation: Gathering
+breaks are marked with <code>gb</code>, hand shifts with <code>hs</code>, space with <code>sp</code>, gap
+with <code>ga</code> and metamarks with <code>mm</code>.
+</p>
+
+<p>
+The second field contains an <code>X</code> if the element in question
+occurs within a word. 
+</p>
+
+<p>
+The third field holds different information depending on the element in
+question:
+</p>
+
+<ul class="org-ul">
+<li>For <code>&lt;gb/&gt;</code> the number is printed unchanged from the attribute <code>@n</code>
+(which is expected to be present).
+</li>
+<li>For <code>&lt;handShift/&gt;</code> the ID of the new scribe is taken from the
+attribute <code>@new</code> (which is also expected).
+</li>
+<li>For <code>&lt;space&gt;</code> and <code>&lt;gap&gt;</code> the second field holds information on the
+extent of the space or gap and its unit if encoded in the XML. The
+value for the extent is read from either <code>@quantity</code> or <code>@extent</code>,
+followed by the value of <code>@unit</code>, which is preceded by an underscore
+if present.
+</li>
+<li>For <code>&lt;metamark&gt;</code>, the second field reads in the value of <code>@function</code>
+if present.
+</li>
+</ul>
+
+<p>
+If the element in question is <code>&lt;space&gt;</code> the fourth field reads in the
+value of any present <code>@dim</code> attribute (i.e. "horizontal" or "vertical").
+For <code>&lt;metamark&gt;</code>, the value of any present <code>@target</code> attribute is
+printed, and for <code>&lt;gap&gt;</code>, the value of <code>@reason</code>. For the other elements
+this field is currently left blank.
+</p>
+
+<p>
+The fifth field reads in information of any present <code>@rend</code> attribute
+on <code>&lt;metamark&gt;</code> or <code>@agent</code> attribute on <code>&lt;gap&gt;</code>.
+</p>
+
+<p>
+The sixth field gives the value of any present <code>@resp</code> attributes on
+both <code>&lt;gap&gt;</code> and <code>&lt;space&gt;</code>, or <code>@ana</code> attribute on <code>&lt;metamark&gt;</code>.
+</p>
+
+<p>
+The seventh field grabs any textual contents of <code>&lt;metamark&gt;</code> (on any level).
+</p>
+
+<p>
+The eighth field retains information about potential descendant elements of 
+<code>&lt;metamark&gt;</code>. In other words, if <code>&lt;metamark&gt;</code> holds child elements, this field
+ prints for each contained element the element name followed by an underscore,
+the name of a potential attribute or attributes, an equal sign and the value of
+the attribute or attributes. Finally, the information on an individual 
+element is closed by a broken pipe character. If a contained element
+does not have any attribute, the stylesheet prints 
+"<sub>instant</sub>=false" for the non-existing attribute and its value.
+</p>
+
+<p>
+The remaining fields are left empty.
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-2-4" class="outline-3">
+<h3 id="sec-2-4"><span class="section-number-3">2.4</span> Names</h3>
+<div class="outline-text-3" id="text-2-4">
+<p>
+Words that are names receive an additional code line both in front and
+after the line marked as "w". These two lines correspond to beginning and
+end tags as in XML and are marked with <code>b</code> or <code>e</code>, respectively, in the
+second field as shown in example (a):
+</p>
+
+<div class="org-src-container">
+<label class="org-src-name">(a)</label>
+<pre class="src src-xml">&lt;<span style="color: #edd400; font-weight: bold;">persName</span> <span style="color: #ff6347;">type</span>=<span style="color: #ad7fa8; font-style: italic;">"forename"</span>&gt;
+    &lt;<span style="color: #edd400; font-weight: bold;">w</span> <span style="color: #729fcf;">me</span>:<span style="color: #ff6347;">msa</span>=<span style="color: #ad7fa8; font-style: italic;">"xNP gM nS cN sI"</span> <span style="color: #ff6347;">lemma</span>=<span style="color: #ad7fa8; font-style: italic;">"&#193;rni"</span> <span style="color: #729fcf;">me</span>:<span style="color: #ff6347;">lemma-orig</span>=<span style="color: #ad7fa8; font-style: italic;">"&#225;rni"</span>&gt;
+        &lt;<span style="color: #edd400; font-weight: bold;">choice</span>&gt;
+            &lt;<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">facs</span>&gt;arn&lt;<span style="color: #edd400; font-weight: bold;">am</span>&gt;<span style="color: #8ae234;">&amp;</span><span style="color: #8ae234;">bar</span><span style="color: #8ae234;">;</span>&lt;/<span style="color: #edd400; font-weight: bold;">am</span>&gt;&#230;&lt;/<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">facs</span>&gt;
+            &lt;<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">dipl</span>&gt;arn&lt;<span style="color: #edd400; font-weight: bold;">ex</span>&gt;n&lt;/<span style="color: #edd400; font-weight: bold;">ex</span>&gt;&#230;&lt;/<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">dipl</span>&gt;
+            &lt;<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">norm</span>&gt;&#193;rni&lt;/<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">norm</span>&gt;
+        &lt;/<span style="color: #edd400; font-weight: bold;">choice</span>&gt;
+    &lt;/<span style="color: #edd400; font-weight: bold;">w</span>&gt;
+&lt;/<span style="color: #edd400; font-weight: bold;">persName</span>&gt;
+</pre>
+</div>
+
+<div class="org-src-container">
+
+<pre class="src src-orgmode">| PE | b    | AsvTho001 | forename        |      |      |         |    |        |        |                          |   |     |   |   |   |         |   |
+| w  | árni | Árni      | xNP gM nS cN sI | Árni | Árni | arn(n)æ | arn̅æ | 000036 | a2;æ2; | {a:[á,a]}{r:r}{n̅:n}{æ:I}   |   | oic |   |   |   | 168r-03 |   |
+| PE | e    | AsvTho001 | forename        |      |      |         |    |        |        |                          |   |     |   |   |   |         |   |
+</pre>
+</div>
+
+<p>
+The beginning and end lines are structured in (almost) the same way,
+taking into consideration the most common ways of marking up names in
+XML. The stylesheet expects that when the plain <code>&lt;name&gt;</code> element is
+used, it always has at least a <code>@type</code> attribute, since it cannot be
+processed otherwise. If any naming elements are nested, beginning and
+ending lines are only be inserted for the lowest level of naming elements.
+In other words, an encoding such as the following (example (b) results in
+ the below
+code. Please note that any <code>&lt;w&gt;</code> that might be contained
+in a higher level name element, but is not surrounded by a lower level
+element that is comparable to the encoding of the other sibling <code>&lt;w&gt;</code>
+elements, is treated as if it were not a name.
+</p>
+
+<div class="org-src-container">
+<label class="org-src-name">(b)</label>
+<pre class="src src-xml">       &lt;<span style="color: #edd400; font-weight: bold;">w</span> <span style="color: #ff6347;">lemma</span>=<span style="color: #ad7fa8; font-style: italic;">"fr&#250;"</span> <span style="color: #729fcf;">me</span>:<span style="color: #ff6347;">msa</span>=<span style="color: #ad7fa8; font-style: italic;">"xNC gF nS cN sI"</span>&gt;
+            &lt;<span style="color: #edd400; font-weight: bold;">choice</span>&gt;
+                &lt;<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">facs</span>&gt;&lt;/<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">facs</span>&gt;
+                &lt;<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">dipl</span>&gt;fru&lt;/<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">dipl</span>&gt;
+                &lt;<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">norm</span>&gt;fr&#250;&lt;/<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">norm</span>&gt;
+            &lt;/<span style="color: #edd400; font-weight: bold;">choice</span>&gt;
+        &lt;/<span style="color: #edd400; font-weight: bold;">w</span>&gt;
+&lt;<span style="color: #edd400; font-weight: bold;">name</span> <span style="color: #ff6347;">type</span>=<span style="color: #ad7fa8; font-style: italic;">"person"</span> <span style="color: #ff6347;">key</span>=<span style="color: #ad7fa8; font-style: italic;">"HalJon001"</span>&gt;
+    &lt;<span style="color: #edd400; font-weight: bold;">persName</span> <span style="color: #ff6347;">type</span>=<span style="color: #ad7fa8; font-style: italic;">"forename"</span>&gt;
+        &lt;<span style="color: #edd400; font-weight: bold;">w</span> <span style="color: #ff6347;">lemma</span>=<span style="color: #ad7fa8; font-style: italic;">"hallbera"</span> <span style="color: #729fcf;">me</span>:<span style="color: #ff6347;">msa</span>=<span style="color: #ad7fa8; font-style: italic;">"xNP gF nS cG sI"</span>&gt;
+            &lt;<span style="color: #edd400; font-weight: bold;">choice</span>&gt;
+                &lt;<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">facs</span>&gt;&lt;/<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">facs</span>&gt;
+                &lt;<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">dipl</span>&gt;Hallb&lt;<span style="color: #edd400; font-weight: bold;">ex</span>&gt;er&lt;/<span style="color: #edd400; font-weight: bold;">ex</span>&gt;a&lt;/<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">dipl</span>&gt;
+                &lt;<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">norm</span>&gt;Hallbera&lt;/<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">norm</span>&gt;
+            &lt;/<span style="color: #edd400; font-weight: bold;">choice</span>&gt;
+        &lt;/<span style="color: #edd400; font-weight: bold;">w</span>&gt;
+    &lt;/<span style="color: #edd400; font-weight: bold;">persName</span>&gt;
+    &lt;<span style="color: #edd400; font-weight: bold;">w</span> <span style="color: #ff6347;">lemma</span>=<span style="color: #ad7fa8; font-style: italic;">"abbad&#237;s"</span> <span style="color: #729fcf;">me</span>:<span style="color: #ff6347;">msa</span>=<span style="color: #ad7fa8; font-style: italic;">"xNC gF nS cN sI"</span>&gt;
+        &lt;<span style="color: #edd400; font-weight: bold;">choice</span>&gt;
+            &lt;<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">facs</span>&gt;&lt;/<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">facs</span>&gt;
+            &lt;<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">dipl</span>&gt;abbadis&lt;/<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">dipl</span>&gt;
+            &lt;<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">norm</span>&gt;abbad&#237;s&lt;/<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">norm</span>&gt;
+        &lt;/<span style="color: #edd400; font-weight: bold;">choice</span>&gt;
+    &lt;/<span style="color: #edd400; font-weight: bold;">w</span>&gt;
+    &lt;<span style="color: #edd400; font-weight: bold;">addName</span> <span style="color: #ff6347;">type</span>=<span style="color: #ad7fa8; font-style: italic;">"patronym"</span>&gt;
+        &lt;<span style="color: #edd400; font-weight: bold;">w</span> <span style="color: #ff6347;">lemma</span>=<span style="color: #ad7fa8; font-style: italic;">"J&#243;nsd&#243;ttir"</span> <span style="color: #729fcf;">me</span>:<span style="color: #ff6347;">msa</span>=<span style="color: #ad7fa8; font-style: italic;">"xNC gF nS cN sI"</span>&gt;
+            &lt;<span style="color: #edd400; font-weight: bold;">choice</span>&gt;
+                &lt;<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">facs</span>&gt;&lt;/<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">facs</span>&gt;
+                &lt;<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">dipl</span>&gt;jonsd&lt;<span style="color: #edd400; font-weight: bold;">ex</span>&gt;ottir&lt;/<span style="color: #edd400; font-weight: bold;">ex</span>&gt;&lt;/<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">dipl</span>&gt;
+                &lt;<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">norm</span>&gt;J&#243;nsd&#243;ttir&lt;/<span style="color: #729fcf;">me</span>:<span style="color: #edd400; font-weight: bold;">norm</span>&gt;
+            &lt;/<span style="color: #edd400; font-weight: bold;">choice</span>&gt;
+        &lt;/<span style="color: #edd400; font-weight: bold;">w</span>&gt;
+    &lt;/<span style="color: #edd400; font-weight: bold;">persName</span>&gt;
+&lt;/<span style="color: #edd400; font-weight: bold;">name</span>&gt;
+</pre>
+</div>
+
+<div class="org-src-container">
+
+<pre class="src src-orgmode">| w  | frú        |           | xNC gF nS cN sI |     | frú             | fru          |   | 000003 |   |   |   | oic |   |   |   | 003r-02 |   |
+| PE | b          | HalJon001 | forename        | np1 | →HalJon001/3-02 |              |   |        |   |   |   |     |   |   |   |      |   |
+| w  | hallbera   |           | xNP gF nS cG sI |     | Hallbera        | halb(er)a    |   | 000004 |   |   |   | oic |   |   |   | 003r-02 |   |
+| PE | e          | HalJon001 | forename        | np1 |                 |              |   |        |   |   |   |     |   |   |   |      |   |
+| w  | abbadís    |           | xNC gF nS cN sI |     | abbadís         | abbadis      |   | 000005 |   |   |   | oic |   |   |   | 003r-02 |   |
+| PE | b          | HalJon001 | patronym        | np2 | #HalJon001/3-02 |              |   |        |   |   |   |     |   |   |   |      |   |
+| w  | Jónsdóttir |           | xNC gF nS cN sI |     | Jónsdóttir      | jonsd(ottir) |   | 000006 |   |   |   | oic |   |   |   | 003r-02 |   |
+| PE | e          | HalJon001 | patronym        | np2 |                 |              |   |        |   |   |   |     |   |   |   |      |   |
+</pre>
+</div>
+
+
+<p>
+The first field holds the type designation (the same for beg. and end).
+For the elements <code>&lt;persName&gt;</code>, <code>&lt;forename&gt;</code>, <code>&lt;surname&gt;</code>, <code>&lt;addName&gt;</code>,
+<code>&lt;roleName&gt;</code>, <code>&lt;nameLink&gt;</code> and <code>&lt;name&gt;</code> with @type="name", the type is
+given as <code>PE</code> (for Personal Name). For the elements <code>&lt;placeName&gt;</code> or
+<code>&lt;name&gt;</code> with @type="place", <code>PL</code> is printed, and finally for <code>&lt;name&gt;</code>
+with @type="org" or "organization" <code>OR</code> is inserted.
+</p>
+
+<p>
+The second field holds <code>b</code> in the beginning line to mark the start of a
+name and <code>e</code> in the end line.
+</p>
+
+<p>
+The third field takes the ID or a reference to an authority file if such
+information is encoded. The stylesheet reads in the value of potential
+<code>@ref/@me:ref</code> or <code>@key/me:key</code>. If no key or reference is encoded on
+the element in question, XSLT checks if a potential ancestor naming
+element carries such information, and inserts it. If not, the field is
+left empty.
+</p>
+
+<p>
+The fourth field reads in additional information on the type of name if
+it is a personal name. Depending on the encoding of the XML, the
+information is either directly read from the element name (e.g.
+<code>&lt;forename&gt;</code>, <code>&lt;surname&gt;</code>) or from attributes (e.g. <code>@type</code>,
+<code>@subtype</code>). For place names and other names, no additional information
+is expected.
+</p>
+
+<p>
+The fifth field is used to indicate when a name consists of several
+parts (as in example (b). If the individual name parts are nested inside
+a common naming element (<code>&lt;name&gt;</code>, <code>&lt;persName&gt;</code> or <code>&lt;placeName&gt;</code>), the
+stylesheet inserts automatically information of where the individual
+parts are placed within the common ancestor element as <code>np1</code> (= name
+part 1), <code>np2</code>, <code>np3</code> or <code>np4</code>.
+</p>
+
+<p>
+The following fields are currently not used and are not populated by the
+stylesheet. The sixth field will probably be used for references in case
+of multi-part names, in order to be able to point from one part to the
+other with a (more or less) unique identifier. The example shows a 
+pointer in a prelimiary format. <b>[:TODO: Is this inserted
+in EMACS using LISP? ASK sørger for at det sker fra elisp.]</b>
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-2-5" class="outline-3">
+<h3 id="sec-2-5"><span class="section-number-3">2.5</span> Divisions, heads, segments, paragraphs, line groups and verse lines</h3>
+<div class="outline-text-3" id="text-2-5">
+<p>
+The structural elements <code>&lt;div&gt;</code>, <code>&lt;head&gt;</code>, <code>&lt;seg&gt;</code>, <code>&lt;p&gt;</code>, <code>&lt;lg&gt;</code> and
+<code>&lt;l&gt;</code> are transformed into beginning and ending lines surrounding the
+transcribed text (similar to the markup for names) as shown in the example.
+</p>
+
+<div class="org-src-container">
+<label class="org-src-name">Example of <code>&lt;div&gt;</code> in XML input</label>
+<pre class="src src-xml">&lt;<span style="color: #edd400; font-weight: bold;">div</span> <span style="color: #ff6347;">n</span>=<span style="color: #ad7fa8; font-style: italic;">"2.2"</span> <span style="color: #ff6347;">type</span>=<span style="color: #ad7fa8; font-style: italic;">"chapter"</span> <span style="color: #ff6347;">subtype</span>=<span style="color: #ad7fa8; font-style: italic;">"subchapter"</span>&gt;
+....
+&lt;/<span style="color: #edd400; font-weight: bold;">div</span>&gt;
+</pre>
+</div>
+
+<div class="org-src-container">
+
+<pre class="src src-orgmode">| d | b | 3 | 2.2 | chapter | subchapter | | | | | | | | | | | |
+....
+| d | e | 3 |     |         |            | | | | | | | | | | | |
+</pre>
+</div>
+
+<p>
+The first field is occupied by the type designation, i.e. <code>d</code> for
+<code>&lt;div&gt;</code>, <code>h</code> for <code>&lt;head&gt;</code>, <code>s</code> for <code>&lt;seg&gt;</code>, <code>pa</code> for <code>&lt;p&gt;</code>, <code>lg</code> for
+<code>&lt;lg&gt;</code> and <code>l</code> for <code>&lt;l&gt;</code>.
+</p>
+
+<p>
+The second field contains either <code>b</code> to mark a beginning line or <code>e</code> for
+the end.
+</p>
+
+<p>
+The third field holds an internal counter, giving the position of the
+element in question in <code>&lt;body&gt;</code> (only counting elements of the same name
+as self). This internal counter is repeated in the ending line.
+</p>
+
+<p>
+The fourth field of a beginning line reads in the value of any present
+<code>@n</code> attribute. The end line does not repeat this information. For
+<code>&lt;div&gt;</code> elements the value of <code>@n</code> is expected to agree with the <code>@n</code> of
+the relevant <code>&lt;msItem&gt;</code> in the <code>&lt;msDesc&gt;</code> part of the header.
+</p>
+
+<p>
+The fifth field of a beginning line reads in the value of any present
+<code>@type</code> attribute. The end line does not repeat this information.
+</p>
+
+<p>
+The sixth field of a beginning line reads in the value of any present
+<code>@subtype</code> attribute. The end line does not repeat this information.
+</p>
+
+<p>
+The seventh field of a beginning line reads in the value of any present
+<code>@xml:id</code> attribute. The end line does not repeat this information.
+</p>
+
+<p>
+The eighth field of a beginning line reads in the value of any present
+<code>@rend</code> attribute. The end line does not repeat this information.
+</p>
+
+<p>
+The ninth field of a beginning line reads in the value of any present <code>@met</code>
+attribute (e.g. on <code>&lt;l&gt;</code>). The end line does not repeat this information.
+</p>
+
+<p>
+The tenth field of a beginning line reads in the contents of the element
+if it contains text that is not further marked up by means of <code>&lt;w&gt;</code>,
+<code>&lt;pc&gt;</code> or <code>&lt;me:punct&gt;</code>. The end line does not repeat this information.
+</p>
+
+<p>
+The remaining fields are currently left empty.
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-2-6" class="outline-3">
+<h3 id="sec-2-6"><span class="section-number-3">2.6</span> Additions, deletions, supplied, suppressed/surplus, unclear word, quotes and forme work</h3>
+<div class="outline-text-3" id="text-2-6">
+<p>
+Elements that mark editorial or scribal changes or emendation and are not
+found within words in the XML but rather surrounding words are
+transformed into beginning and end lines surrounding the transcribed
+text (similar to the markup for names and structural markup). In
+addition to that, the word forms in question receive additional
+editorial mark-up on all transcriptional levels. If such elements occur
+within words, they are converted to the relevant
+editorial mark-up (see below) in addition to a single preceding line
+that follows the structure of an opening line, but takes <code>X</code> in the 
+second field.
+</p>
+
+<div class="org-src-container">
+<label class="org-src-name">Example of <code>&lt;supplied&gt;</code> in XML input</label>
+<pre class="src src-xml">&lt;<span style="color: #edd400; font-weight: bold;">supplied</span> <span style="color: #ff6347;">reason</span>=<span style="color: #ad7fa8; font-style: italic;">"omitted"</span> <span style="color: #ff6347;">resp</span>=<span style="color: #ad7fa8; font-style: italic;">"FinJon"</span>&gt;
+....
+&lt;/<span style="color: #edd400; font-weight: bold;">supplied</span>&gt;
+</pre>
+</div>
+
+<div class="org-src-container">
+
+<pre class="src src-orgmode">| su | b | 15 |  | omitted | FinJon | | | | | | | | | | | |
+....
+| su | e | 15 |  |         |        | | | | | | | | | | | | 
+</pre>
+</div>
+
+<p>
+The first field of both the beginning and end line is occupied by the
+type designation, i.e. <code>ad</code> for <code>&lt;add&gt;</code>, <code>de</code> for <code>&lt;del&gt;</code>, <code>su</code> for
+<code>&lt;supplied&gt;</code>, <code>uc</code> for <code>&lt;unclear&gt;</code>, <code>sd</code> for <code>&lt;me:suppressed&gt;</code>,
+<code>&lt;surplus&gt;</code> (as well as the older element <code>&lt;me:expunged&gt;</code>), <code>q</code> for
+<code>&lt;quote&gt;</code>, <code>&lt;q&gt;</code> and <code>fw</code> for <code>&lt;fw&gt;</code>.
+</p>
+
+<p>
+The second field contains either <code>b</code> to mark a beginning line or <code>e</code> for
+the end. If the markup in question occurs within a word, this field
+takes <code>X</code>.
+</p>
+
+<p>
+The third field holds an internal counter, giving the position of the
+element in question in <code>&lt;body&gt;</code> (only counting elements of the same name
+as self). This internal counter is repeated in the end line.
+</p>
+
+<p>
+The fourth field of a beginning line reads in the value of any present
+<code>@type</code> attribute. The end line does not repeat this information.
+</p>
+
+<p>
+The fifth field of a beginning line reads in the value of any present
+<code>@reason</code> attribute. The end line does not repeat this information.
+</p>
+
+<p>
+The sixth field of a beginning line reads in the value of any present
+<code>@resp</code> attribute. The end line does not repeat this information.
+</p>
+
+<p>
+The seventh field of a beginning line reads in the value of any present
+<code>@hand</code> attribute. The end line does not repeat this information.
+</p>
+
+<p>
+The eighth field of a beginning line reads in the value of any present
+<code>@rend</code> attribute. The end line does not repeat this information.
+</p>
+
+<p>
+The ninth field of a beginning line reads in the value of any present
+<code>@place</code> attribute. The end line does not repeat this information.
+</p>
+
+<p>
+The ninth field of a beginning line reads in the value of any present
+<code>@agent</code> attribute. The end line does not repeat this information.
+</p>
+
+<p>
+The ninth field of a beginning line reads in the value of any present
+<code>@source</code> attribute. The end line does not repeat this information.
+</p>
+
+<p>
+The remaining fields are currently left empty.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-sec-2-7" class="outline-3">
+<h3 id="sec-2-7"><span class="section-number-3">2.7</span> Editorial markup for parts of words or inside of words</h3>
+<div class="outline-text-3" id="text-2-7">
+<p>
+Where editorial mark-up occurs within words (or applies to punctuation
+characters), e.g. to mark individual letters as unclear, added or
+deleted, this information is retained. On the one hande, the information
+is reproduced on the transcriptional level and in the same place within
+the word where it is found in the XML input, by means of special characters. 
+Moreover, in order to account for additional information that might be encoded 
+in the form of attributes, an extra line is inserted infront of the 
+line for the word (just like the beginning line for editorial markup that
+applies to several words, but this line is marked with an
+<code>X</code> in the second field instead of <code>b</code> or <code>e</code>; see above). 
+<b>[ Note: the plan was to only insert such an additional line, if the element in question has additional attributes. However, currently such a line is inserted in all cases, but 
+ if it is empty, it can be removed in elisp.]</b>
+</p>
+
+<p>
+Parts of words that are marked with <code>&lt;unclear&gt;</code> are rendered within
+curly brackets.
+</p>
+
+<p>
+Parts of words that are marked with <code>&lt;supplied&gt;</code> are rendered either
+inside of wide pointy brackets (if the reason is stated as
+@reason="omitted") or inside of square brackets (if the reason is stated
+as @reason="illegible"). If no reason is stated, it is assumed to be
+"omitted".
+</p>
+
+<p>
+Parts of words that are marked with <code>&lt;add&gt;</code> are rendered with various
+superscript or sublinear slashes depending on the specified place of the
+addition:
+</p>
+
+<ul class="org-ul">
+<li>@place="margin": ⸍ ⸌
+</li>
+<li>@place="margin-right: ⸍ ⸌⸌
+</li>
+<li>@place="margin-left": ⸍⸍ ⸌
+</li>
+<li>@place="margin-top": ⸌⸌ ⸍⸍
+</li>
+<li>@place="margin-bot": ⸍⸍ ⸌⸌
+</li>
+<li>@place="above" or @place="supralinear": ⸌ ⸍
+</li>
+<li>@place="below" or @place="infralinear": ⸝ ⸜
+</li>
+<li>@place="inline" or @place="interlinear": ⸜ ⸝
+</li>
+</ul>
+
+<p>
+If no placement is indicated with a suitable attribute, by default the
+markup for supralinear additions is inserted: ⸌ ⸍.
+</p>
+
+<p>
+Words or parts of words that are marked with <code>&lt;sic&gt;</code> are rendered with a
+preceding exclamation mark and a following upside-down exclamation mark.
+</p>
+
+<p>
+Words or parts of words that are marked with <code>&lt;corr&gt;</code> are rendered with
+a asterisk preceding the entire word.
+</p>
+
+<p>
+Parts of words that are marked with <code>&lt;del&gt;</code> are rendered inside of
+vertical bars with quills turning inwards (⸠ ⸡).
+</p>
+
+<p>
+Parts of words that are marked with <code>&lt;surplus&gt;</code>, <code>&lt;me:suppressed&gt;</code> (or
+the older <code>&lt;me:expunged&gt;</code>) are rendered inside of vertical bars with
+quills facing outwards (⸡ ⸠).
+</p>
+
+<p>
+When the milestone element <code>&lt;gap&gt;</code> occurs within a 
+word, this is indicated by a Euro sign (€).  
+</p>
+
+<p>
+When the milestone element  <code>&lt;space&gt;</code> occurs within a word, this is 
+indicated by a paragraph sign (§).
+</p>
+
+<p>
+When the milestone element <code>&lt;gb&gt;</code> occurs within a word, this is
+indicated by a pound sign (£).
+</p>
+
+<p>
+When the milestone element <code>&lt;handShift&gt;</code> occurs within a word, 
+this is indicated by an at-sign (@).
+</p>
+
+<p>
+Parts of words that are marked as abbreviations using <code>&lt;am&gt;</code>  are
+printed without further markup on the facsimile level (= facs).
+If an entire word is marked as abbreviated using <code>&lt;abbr&gt;</code>, the word is printed 
+inside round parentheses on the facsimile level. For
+Menotic XML, the word form is taken from <code>&lt;me:facs&gt;</code>, for TEI P5 XML the
+form is taken from <code>&lt;orig&gt;</code>. In the latter case, any part of a word
+marked with <code>&lt;am&gt;</code> (or an entire form marked as <code>&lt;abbr&gt;</code>) is suppressed on 
+the diplomatic level in the output (= dipl).
+</p>
+
+<p>
+Parts of words that are marked as expansions using <code>&lt;ex&gt;</code> or entire words
+that are marked as expanded using <code>&lt;expan&gt;</code> are rendered
+within parentheses on the diplomatic level (= dipl). For Menotic XML,
+the word form is taken from <code>&lt;me:dipl&gt;</code>, for TEI P5 XML the form is
+taken from <code>&lt;orig&gt;</code>. In the latter case, any part of a word that is
+marked with <code>&lt;ex&gt;</code> (an entire form marked as <code>&lt;expan&gt;</code>) is suppressed 
+on the facsimile level in the output (= facs). Please note: The import
+script does not expect the elements <code>&lt;ex&gt;</code> and <code>&lt;expan&gt;</code> to occur
+inside the same word, but either or.
+</p>
+</div>
+</div>
+</div>
+<div id="footnotes">
+<h2 class="footnotes">Footnotes: </h2>
+<div id="text-footnotes">
+
+<div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum" href="#fnr.1">1</a></sup> Currently the transformation adds some
+unnecessary attributes here if the Menota schema is used.</div>
+
+<div class="footdef"><sup><a id="fn.2" name="fn.2" class="footnum" href="#fnr.2">2</a></sup> Neither 
+of these counts consider words spanning more than one line (e.g. at the end of 
+a line) twice, i.e. in terms of images, but rather counts nodes in the XML file.
+Later this is fixed by an elisp function which overwrites the erroneous numbers. 
+ASK: husk også at ord, der indeholder et <code>&lt;lb&gt;</code> med <code>@rend</code> ikke får paranteserne
+indlagt (fordi funktionen går på hele ord). Disse ord er dog markeret med en særlig
+tegnkombination i transskriptionsfelterne, hvor <code>&lt;lb&gt;</code> elementet bliver
+transformeret til broken pipe character + @rend + værdien af rend + broken pipe
+ character i stedet for en enkel broken pipe character.</div>
+
+
+</div>
+</div></div><div class="col-md-3"><nav id="table-of-contents">
+<div id="text-table-of-contents" class="bs-docs-sidebar">
+<ul class="nav">
+<li><a href="#sec-1">1. General information</a></li>
+<li><a href="#sec-2">2. Document structure</a>
+<ul class="nav">
+<li><a href="#sec-2-1">2.1. Regular words, punctuation characters and numbers</a></li>
+<li><a href="#sec-2-2">2.2. Page breaks, line breaks and column breaks (including hyphenation)</a></li>
+<li><a href="#sec-2-3">2.3. Gathering boundaries, hand shift, gaps (when not indicating lost words), space and metamarks</a></li>
+<li><a href="#sec-2-4">2.4. Names</a></li>
+<li><a href="#sec-2-5">2.5. Divisions, heads, segments, paragraphs, line groups and verse lines</a></li>
+<li><a href="#sec-2-6">2.6. Additions, deletions, supplied, suppressed/surplus, unclear word, quotes and forme work</a></li>
+<li><a href="#sec-2-7">2.7. Editorial markup for parts of words or inside of words</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</nav>
+</div></div></div>
+<footer id="postamble" class="">
+<div><p class="author">Author: Beeke Stegmann</p>
+<p class="date">Created: 2018-03-05 Mon 11:38</p>
+<p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 27.0.50 (<a href="http://orgmode.org">Org-mode</a> 9.1.7)</p>
+</div>
+</footer>
+</body>
+</html>

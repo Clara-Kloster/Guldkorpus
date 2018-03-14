@@ -1,0 +1,821 @@
+#+TITLE: Documentation for XML import into MenotaB using XSLT
+#+AUTHOR: Beeke Stegmann 
+#+OPTIONS: toc:t
+#+LANGUAGE: english
+#+LATEX_HEADER: \cohead{{\scshape Documentation for XML import into MenotaB using XSLT}}
+#  #+DATE: \today{}
+** General information
+This is the documentation for the XML import into MenotaB using one XSLT
+stylesheet (=XML-to-MenotaB-transform.xsl=), which, when run on an XML
+file, produces text output in the format that is expected by MenotaB.
+
+The XSLT works both on pure TEI P5 XML and Menotic XML according to
+Menota Handbook v.2 and v.3. 
+Please note, however, that the Menotic elements <me:textSpan>, <me:all> 
+and <me:ass> are currently not processed by the stylesheet.
+
+It expects the most common XML elements and attributes. Special elements
+or variant forms of encoding which might validate but are not
+recommended by the standards (such as non-standardized attribute values)
+might not be taken into consideration.
+The stylesheet expects all words to be wrabbed in =<w>= elements
+and also requires =<pb>= abd =<lb>= element with =@n= attributes
+to mark the page and line breaks in the artefact being transcribed.
+
+The XSLT only works on a valid XML file that is validated against the
+TEI-namespace (and optionally also the Menota namespace). In other
+words, the =<TEI>= element is expected as the outermost element and it
+needs to have the attribute @xmlns="[[http://www.tei-c.org/ns/1.0]]".
+For Menotic XML, the namespace @xmlns:me="[[http://menota.org/ns/1.0]]"
+can be added.
+
+The XSLT produces output in pure text format which can be understood by
+org-mode.
+
+** Document structure
+The output document follows the org-mode syntax and includes some raw
+XML-code. First, a line for the internal identifier (i.e. text number)
+is produced, but since the XSLT cannot automatically assign this number 
+from a sinlge XML-imput file, the output currently produces two asterisks
+followed by "(TEXT-NUMBER)".
+
+
+Second, one line with 17 fields (separated by pipe characters)
+containing meta information is addet to the output document.
+
+ - This line is identified by =:m:= in the first field.
+ - The second field is reserved for the text number, i.e. a running number 
+   within a given corpus, which might be project specific.
+ - The third field gives the identifier of the artefact in question
+   (i.e. either the shelfmark or any other ID specified in
+   =<msIdentifier>= or, if not encoded, the contents of =<titleStmt>=).
+ - The fourth field gives the date, if present from =<origDate>=, if not
+   from a potentially present =<date>= element in =<origin>=.
+
+*[:TODO: The following fields have not yet been assigned. Check! Which other*
+*info to include?] Det er endnu lidt uafklaret hvilken type meta-information vi*
+*ender med. Her må vi regne med at at der vil ske ændringer.]*
+
+Third, the output file has a section for notes (three asterisks), with
+subsections for the XML header and potentially information on facsimile mapping,
+the front and/or back matter. All XML files are expected to have a
+=<teiHeader>=, but the other subsections are only produced in cases where
+=<facsimile>=, =<front>= and =<back>=, respectively, are present. All
+subsections simply copy over the XML from the input file and print the code
+within an XML source code block.[fn:: Currently the transformation adds some
+unnecessary attributes here if the Menota schema is used.]
+
+Fourth, the output file gives the transcription (three asterisks) in
+MenotaB format: Each line has 17 fields (separated by pipe characters)
+that are allocated to slightly varying values or types of information
+depending on the nature of the encoded element (e.g. if it is a word,
+punctuation character etc.). The different elements, their expected
+XML-encoding, and how the values and attributes are converted and
+represented in the 17 fields of each line in the output are described
+below. The transcription (expected to be found inside =<body>= as a
+child of =<text>=) is processed and returned inside enclosing lines with
+=:s:= and =:e:= for "start" end "end".
+
+
+*** Regular words, punctuation characters and numbers
+In general, words that are encoded using =<w>= in the XML file are
+imported in the following way (a = Menotic XML; b = TEI P5; c = a
+fictive example with even more information, output only). Please note:
+For words with additional markup for e.g. emendations or defects
+additional rules may apply; see further below. Punctuation characters
+(encoded either as =<pc>= or =<me:punct>=) and numbers (encoded as
+=<num>=) are treated in the same way as words (as far as applicable).
+
+#+CAPTION: (a)
+#+BEGIN_SRC xml
+    <w me:msa="xVB fF tPT mIN p3 nS vA iST" lemma="gefa">
+        <choice>
+            <me:facs>gaꝼ</me:facs>
+            <me:dipl>gaf</me:dipl>
+            <me:norm>gaf</me:norm>
+        </choice>
+    </w>
+#+END_SRC
+
+#+BEGIN_SRC orgmode
+    | type | lemma1 | lemma2 | msa                         | norm1 | norm2 | dipl | facs | word/image nummer | palaeogr. annot. | graphophon. annot. | notes | language | extra1 | extra2 | spacing? | position in source |
+    | w    |        | gefa   | xVB fF tPT mIN p3 nS vA iST |       | gaf   | gaf  | gaꝼ  |            000001 |                  |                    |       |          |        |        |          | 168r-01            |
+#+END_SRC
+
+
+#+CAPTION: (b)
+#+BEGIN_SRC xml
+    <w n="14" lemma="menneske" type="sb">
+        <choice>
+            <reg>mennesken</reg>
+            <orig>me<choice><am>̅</am><ex>n</ex></choice>níſken</orig>
+        </choice>
+    </w>
+#+END_SRC
+
+#+BEGIN_SRC orgmode
+    | type | lemma1 | lemma2   | msa | norm1 | norm2    | dipl        | facs     | word/image nummer | palaeogr. annot. | grapho-phon. annot. | notes | language | extra1 | extra2 | spacing? | position in source |
+    | w    |        | menneske | sb  |       | menneske | me(n)níſken | men̅íſken |            000023 |                  |                     |       |          |        |        |          | 023ra-10           |
+#+END_SRC
+
+
+#+CAPTION: (c)
+#+BEGIN_SRC orgmode
+    | type | lemma1 | lemma2 | msa          | norm1         | norm2     | dipl  | facs | word/image nummer | palaeogr. annot. | grapho-phon. annot. | notes | language | extra1 | extra2 | spacing? | position in source |
+    | w    | ég     | vér    | xPE p1 nP cN | vér           | vér       | W(ær) | W͛   |            000001 |                  | {W:v}{͛:[ér,ǽr]}    |       | oic      |        |        | =        |            168-01  |
+#+END_SRC
+
+In both cases, the first field (= type) takes the value =w= for "word".
+The only exception is when the =<w>= in question is encoded as a
+descendant of =<gap>=, in which case the entire word is assumed to be
+lost and the value =L= is printed instead. For punctuation characters
+the first field takes =p=; for numbers =n=.
+
+The second and third field are for lemma1 and lemma2, which are read
+from @lemma on =<w>= or =<num>= if encoded (and if present
+@me:orig-lemma). If only one lemma is present, it is assumed to be
+@lemma (as is the case in both a and b), and its value is read into the
+third field (= lemma2), while the second field is left empty. If an
+additional lemma is encoded, i.e. @me:org-lemma, its value is read into
+the second field (= lemma1) as can be seen in example (c). If there are
+any homonymous lemmata encoded in any of the two attributes (using a
+pipe character as a separator), that character is replaced by a broken
+bar.
+
+The fourth field (= msa) is populated with the morphosyntactic
+annotation if present. If encoded, the value of the attribute @me:msa is
+imported. Otherwise, the value of a potentially present attribute @type
+is read in. If none of these are encoded, the field is left empty.
+
+The fifth and sixth field (= norm1 and norm2) contain the normalized
+form(s) of the word. If only one normalized form is present, it is
+imported into the sixth field (= norm2). A second or alternative
+normalized form may be placed in the fifth field (= norm1). For Menotic
+XML (a), the value is taken from the element =<me:norm>=, for TEI P5 XML
+(b) it is taken from =<reg>=. All descending elements of =<me:norm>= or
+<reg> are processed (see below). If the word in question is marked up as
+a descendant of =<unclear>=, =<supplied>=, =<add>=, =<del>=, =<sic>=,
+=<corr>= or =<surplus>= / =<me:suppressed>= (or =<me:expunged>=) the
+relevant editorial markup is automatically inserted around the word
+form. The characters used are the same as for changes or emendations
+within a word (see below).
+
+The seventh field (= dipl) is populated with the diplomatic word form.
+In Menotic XML (a) it is read from the element =<me:dipl>=, in TEI P5
+XML (b) from =<orig>= with the contents of all descendant =<ex>=
+elements (displayed in parentheses), while the contents of =<am>= is
+suppressed. All other descending elements of =<orig>= and =<me:dipl>=
+are processed as normal. If the word in question is marked up as a
+descendant of =<unclear>=, =<supplied>=, =<add>=, =<del>=, =<sic>=,
+=<corr>= or =<surplus>= / =<me:suppressed>= (or =<me:expunged>=) the
+relevant editorial markup is automatically inserted around the word
+form. The characters used are the same as for changes or emendations
+within a word (see below). If the input contains a single-level
+transcription, in which the text is simply transcribed within =<w>=
+(i.e. without any =<choice>= and respective child elements, the
+transcription is assumed to be on the diplomatic level and therefore
+read into the seventh field. In case there are both a =<sic>= and
+=<corr>= form encoded for a word in a single-level transcription the
+corrected form is printed in the current field (whereas the sic-form is
+given in the eighth field).
+
+The eighth field (= facs) is populated with the facsimile word form. In
+Menotic XML (a) it is read from the element =<me:facs>=, in TEI P5 XML
+(b) from =<orig>= with the contents of all descendant =<am>= elements,
+while the contents of =<ex>= is suppressed. All other descending
+elements of =<orig>= and =<me:facs>= are processed as normal. If the
+word in question is marked up as a descendant of =<unclear>=,
+=<supplied>=, =<add>=, =<del>=, =<sic>=, =<corr>= or
+=<surplus>= / =<me:suppressed>= (or =<me:expunged>=) the relevant
+editorial markup is automatically inserted around the word form. The
+characters used are the same as for changes or emendations within a word
+(see below).
+
+The ninth field (= word/image nummer) is populated automatically, counting all
+=<w>=, =<pc>= (or =<me:punct>=) and =<num>= elements in the =<body>=. The output
+is given as a six digit number. If @n is encoded for =<w>= it is not
+considered. If the actual order of words in an artefact differs from the
+logical order (or the order it should be read in), the reordering of
+the words in question is noted in this field by adding additional
+numbers in parentheses behind the numbers. Note that the expected format for 
+marking up reordered text follows the guidelines of the Menota Handbook v.3 with 
+multiple =<lb>= milestones that carry different =@rend= attributes
+to indicate the physical rendition of the part of the lines
+in question.) The parentheses first print the value of =@rend= of 
+the preceding <lb> (if it has one), followed by a hyphen and the 
+position of the word or punctuation character within the given part 
+of the line. *[fn:: Neither 
+of these counts consider words spanning more than one line (e.g. at the end of 
+a line) twice, i.e. in terms of images, but rather counts nodes in the XML file.
+Later this is fixed by an elisp function which overwrites the erroneous numbers. 
+ASK: husk også at ord, der indeholder et =<lb>= med =@rend= ikke får paranteserne
+indlagt (fordi funktionen går på hele ord). Disse ord er dog markeret med en særlig
+tegnkombination i transskriptionsfelterne, hvor =<lb>= elementet bliver
+transformeret til broken pipe character + @rend + værdien af rend + broken pipe
+ character i stedet for en enkel broken pipe character. ]*
+
+The tenth field (= paleograph. annot.) reads in palaeogaphic
+information. More specifically, it imports the contents of =<me:pal>= if
+present. Furthermore, if initials are encoded using =<c>=
+or =<hi>=, the values of all potential attributes are read and printed in this field,
+separated by broken pipe characters. The contents of =<c>= or =<hi>= is 
+reproduced in the fields for the facsimile (and potentially diplomatic)
+form of the word according to the XML encoding.
+*[Note that in case a hyphen is encoded with =<c>= and =@type= of the value =hyphen= this attribute value as well as potential others,
+such as =@resp= are reproduced here.]*
+
+The eleventh field (= grapho-phon. annot.) does at present not read in
+anything from the XML input.
+
+The twelfth field (= notes) imports the contents of any =<note>=
+elements that might be associated with a =<w>=. Please note that only
+=<note>= elements /within/ =<w>= are processed correctly, while
+potential =<note>= elements placed immediately following or elsewhere
+are not considered.
+
+The thirteenth field (= language) holds the language key for the word.
+If any ancestor element (e.g. =<div>=, =<p>=, =<seg>=) has an attribute
+@xml:lang, the attribute's value of the closest element with such an
+attribute is inserted. Otherwise, the stylesheet checks for the presence
+of the element =<langUsage>= in the header and reads out any descendant
+elements =<language>= for their respective @ident. If several
+=<language>= elements are present, the different values of @ident are
+imported and separated by white space.
+
+The fourteenth and fifteenth field (= extra1 and extra2) are additional
+fields for project specific information. Currently, the fourteenth field
+(= extra1) is used for reading in information on multiple morphemes if
+encoded in the XML. The information from the separate =<m>= elements, as
+in the example below, is represented by the same number of pairs of
+curly brackets that contain a mapping of the contents to the value of
+@baseform separated by a colon (see example).
+
+
+#+CAPTION: Example of XML with =<m>= elements
+#+BEGIN_SRC xml
+    <w me:msa="xNP gM nS cD sI" lemma="Iðavǫllr">
+                                <m baseForm="ið">Iða</m>
+                                <m baseForm="vǫllr">vǫllr</m>
+                                <choice>
+                                    <me:facs>ıða uellı</me:facs>
+                                    <me:dipl>iða uelli</me:dipl>
+                                    <me:norm>Iðavelli</me:norm>
+                                </choice>
+                            </w>
+#+END_SRC
+
+#+BEGIN_SRC orgmode
+    | {ið:Iða}{vǫllr:vǫllr} |
+#+END_SRC
+
+In case of an additional attribute =@type= (e.g. with the value of
+"prefix", "root" or "suffix"), this value is added at the end, separated
+by another colon.
+
+The sixteenth field (= spacing?) holds information on two (or more)
+words, numbers or punctuation characters that are written together in
+the original. If an element =<seg>= with an attribute =@type= and the
+value =nb= or =enc= is present in the transcription enclosing the words
+in question, the XSL stylesheet inserts equal signs or not-equal signs, respectively.
+For the first word
+of the segment either one equal sign or a non-equal sign is printed
+ and an additional equal sign/non-equal sign for every following. E.g. if
+three words are written together in the original and encoded in the XML
+using =<seg>= with =@type= of the value =nb=, the output will show a single equal sign in the
+sixteenth field of the first word, two equal signs in the sixteenth
+field of the second word, and three equal signs in the respective field
+for the third word.
+*[Note: The number of equal signs (or non-equal signs) in case of three or more element is to be changed in the elisp handling in such a way that the last element of such a 
+sequence always has two equal signs, while the intermediate ones can have more]*
+
+The seventeenth and final field (= position in source) is automatically
+populated with the information of both the page/folio and line
+information of where the word is located based on the present encoding
+of =<pb/>=, =<lb/>= and potentially =<cb/>= and the values of their
+respective =@n=. Any markup for page breaks, line breaks or column
+breaks found in editions (expected to be marked with @type="ed" or @ed)
+are ignored.
+
+For =<pb/>= =@n= is expected to contain a string of up to four
+characters, i.e. usually a number of one to three digits
+ combined with r or v for
+/recto/ or /verso/; for =<lb/>= =@n= is expected to
+contain a single number (no letters!) of a maximum of two digits; for
+=<cb/>= the value of @n is expected to be a single letter. The output
+format is =[0-9][0-9][0-9][rv]-[0-9][0-9]= for folio/page-leaf (e.g.
+023r-09). In case the primary source is written in more than one column
+and this in encoded in the XML using =<cb/>=, the letter of the column
+is added to the end of the folio/page information (e.g. 023ra-07). If a
+word is written on more than one line and this fact is encoded with a
+=<lb/>= (and potentially also =<pb/>= or =<cb/>=) inside the =<w>= in
+question, the seventeenth field also reads in the location of the second
+and potentially further parts of the word. The format for the position
+is always the same; the multiple elements are separated by an m-dash
+(e.g. 123v-09---123v-10).
+
+
+*** Page breaks, line breaks and column breaks (including hyphenation)
+Markup for page breaks, line breaks, column breaks
+ is treated differently depending on whether the milestone
+elements =<pb>=, =<lb>= and =<cb>=, are found outside of words or
+within. In the former case, the milestone elements are simply converted
+into a line in the output as shown in the example.
+
+#+CAPTION: Example of =<lb/>= in XML input (with its preceding =<pb/>= and =<cb/>=)
+#+BEGIN_SRC xml
+    <pb n="126r" type="ms"/><cb n="a"/>
+    .....
+    <lb n="15" type="ms" rend="3"/>
+#+END_SRC
+
+#+BEGIN_SRC orgmode
+    | lm | 126ra-15 |  | 3 | | | | | | | | | | | | | |
+#+END_SRC
+
+The first field of that line holds the type designation:
+
+-  =pm= for a page break found in a manuscript
+-  =pe= for a page break in a relevant edition (expected to be specified
+   with either @ed or @type="ed" if encoded)
+-  =lm= for a line break in a manuscript
+-  =le= for a line break in a relevant edition (expected to be specified
+   with either @ed or @type="ed")
+-  =cm= for a column break in a manuscript
+-  =ce= for a column break in a relevant edition (expected to specified
+   with either @ed or @type="ed")
+-  =gb= for a gathering break in a manuscript
+-  =hs= for a hand shift in a manuscript
+
+The second field holds information about the place, i.e. the number of
+the break in question. For =<pb/>= the number is read from its =@n=,
+which is expected to contain a string of up to four characters, i.e.
+usually a number of one to three digits combined with 'r' or 'v' for
+ /recto/ or /verso/
+for a page break in a manuscript or a number of up to four digits for a
+page break in an edition. If a format with less numbers are encoded, the
+stylesheet automatically prepends zeros to produce a string of four
+characters. For =<cb/>= (if present) the number is a combination of the
+preceding =<pb>= and its own =@n= attributes, the latter being expected
+to contain a single letter. The four digits from the page break and the
+letter from the column break are printed without any additional syntax
+(e.g. "126ra"). For =<lb/>= the number is a combination of the preceding
+=<pb>=, potentially =<cb>=, and its own =@n= attributes, the latter
+being expected to contain a single number (no letters!) of a maximum of
+two digits. The folio/page number (potentially including the column
+number) and the line number are separated in the output by a hyphen if
+the line break is found in a manuscript (e.g. 023r-09 or 023rb-10) and
+by a dot if the line break is from an edition (e.g. 0126.12). Line
+numbers below 10 are automatically rendered with a preceding zero. In
+case line breaks, page breaks and potentially column breaks from both
+the manuscript and an edition are encoded, only preceding milestone
+elements of the same type are considered.
+
+The third field reads in any value of a potentially present =@facs=
+attribute (which is e.g. common for =<pb>= if there is a mapping to
+facsimile images.
+
+The fourth field reads in any value of a potentially present =@rend=
+attribute, which is common for =<lb>= if the logical order of
+the words does not agree with the physical order (in this case <lb>
+is expected to be encoded for each part of the line, with the same 
+value of =@n=, but the
+multiple milestone elements are distinguished by a counting =@rend=).
+
+The remaining fields of the output line are left empty.
+
+If page breaks, line breaks or column breaks occur within a word the
+exact location of the milestone element is retained by means of
+inserting a double pipe character for page breaks in a manuscript and
+double forward slashes (&dblsol;) for a page break in an edition; a single broken
+pipe character for a line break in a manuscript and a single &fracsol; (⁄)
+ for a line break in an edition; double closing parentheses for a 
+column break in a manuscript and double opening
+parentheses for a column break in an edition.
+In case a line break element also has a =@rend= attribute, because the 
+logical order differs from the physical, the stylesheet prints
+a broken pipe character + '@rend' + the value of the rend-attribute +
+a broken pipe character.
+*[ This additional markup for =<lb>= in words with @rend is expected to be removed after handling the text in elisp, as the word/image number field 
+will contain that information.]*  
+
+In case of hyphenation at a line break the stylesheet simply reproduces
+any hyphens that are marked up in the XML as present in the manuscript, 
+i.e. not as supplied, without further markup. That is also the case
+when the element =<lb/>= has a =@rend= with the value =hyphen= or when 
+a hyphen is typed as such and additionally wrapped in =<c>= with a 
+=@type= of the value =hyphen=. 
+If a hyphen is supplied and wrapped in =<supplied>=, it is treated like
+other supplied characters. If it is wrapped in =<me:punct>= (inside of a word) with a
+=@type= of the value =supplied= it is treated in the same way as if it 
+was wrapped in =<supplied>= the only difference being that potential information
+about the reason for the supplement, i.e. =omitted= or =illegible= is expected
+to be the value of =@subtype= instead of =@reason=.
+
+
+*** Gathering boundaries, hand shift, gaps (when not indicating lost words), space and metamarks 
+While metamarks are expected
+to only occur outside of words, the markup for gaps, gathering breaks, space and
+ hand shift is treated differently
+depending on whether the milestone elements =<gb/>=, =<handShift/>=, =<gap/>= and
+=<space/>= are found outside of words or within. In the former case, the
+elements are simply converted into a line in the output (see example below). 
+In the latter case, both a special character is
+printed within the word to indicate the exact location (see below) and a line 
+is produced preceding the word that contains the milestone element in order
+to retain potential additional information from any present attributes. 
+
+#+CAPTION: Example of XML with =<space/>= element
+#+BEGIN_SRC xml
+    <space extent="3" unit="lines" dim="vertical" resp="BS"/>
+#+END_SRC
+
+#+BEGIN_SRC orgmode
+    | sp |  | 3_lines | vertical |  | BS | | | | | | | | | | | |
+#+END_SRC
+
+The first field of that line holds the type designation: Gathering
+breaks are marked with =gb=, hand shifts with =hs=, space with =sp=, gap
+with =ga= and metamarks with =mm=.
+
+The second field contains an =X= if the element in question
+occurs within a word. 
+
+The third field holds different information depending on the element in
+question:
+
+-  For =<gb/>= the number is printed unchanged from the attribute =@n=
+   (which is expected to be present).
+-  For =<handShift/>= the ID of the new scribe is taken from the
+   attribute =@new= (which is also expected).
+-  For =<space>= and =<gap>= the second field holds information on the
+   extent of the space or gap and its unit if encoded in the XML. The
+   value for the extent is read from either =@quantity= or =@extent=,
+   followed by the value of =@unit=, which is preceded by an underscore
+   if present.
+-  For =<metamark>=, the second field reads in the value of =@function=
+   if present.
+
+If the element in question is =<space>= the fourth field reads in the
+value of any present =@dim= attribute (i.e. "horizontal" or "vertical").
+For =<metamark>=, the value of any present =@target= attribute is
+printed, and for =<gap>=, the value of =@reason=. For the other elements
+this field is currently left blank.
+
+The fifth field reads in information of any present =@rend= attribute
+on =<metamark>= or =@agent= attribute on =<gap>=.
+
+The sixth field gives the value of any present =@resp= attributes on
+both =<gap>= and =<space>=, or =@ana= attribute on =<metamark>=.
+
+The seventh field grabs any textual contents of =<metamark>= (on any level).
+
+The eighth field retains information about potential descendant elements of 
+=<metamark>=. In other words, if =<metamark>= holds child elements, this field
+ prints for each contained element the element name followed by an underscore,
+the name of a potential attribute or attributes, an equal sign and the value of
+the attribute or attributes. Finally, the information on an individual 
+element is closed by a broken pipe character. If a contained element
+does not have any attribute, the stylesheet prints 
+"_instant=false" for the non-existing attribute and its value.
+
+The remaining fields are left empty.
+
+*** Names
+Words that are names receive an additional code line both in front and
+after the line marked as "w". These two lines correspond to beginning and
+end tags as in XML and are marked with =b= or =e=, respectively, in the
+second field as shown in example (a):
+
+#+CAPTION: (a)
+#+BEGIN_SRC xml
+    <persName type="forename">
+        <w me:msa="xNP gM nS cN sI" lemma="Árni" me:lemma-orig="árni">
+            <choice>
+                <me:facs>arn<am>&bar;</am>æ</me:facs>
+                <me:dipl>arn<ex>n</ex>æ</me:dipl>
+                <me:norm>Árni</me:norm>
+            </choice>
+        </w>
+    </persName>
+#+END_SRC
+
+#+BEGIN_SRC orgmode
+    | PE | b    | AsvTho001 | forename        |      |      |         |    |        |        |                          |   |     |   |   |   |         |   |
+    | w  | árni | Árni      | xNP gM nS cN sI | Árni | Árni | arn(n)æ | arn̅æ | 000036 | a2;æ2; | {a:[á,a]}{r:r}{n̅:n}{æ:I}   |   | oic |   |   |   | 168r-03 |   |
+    | PE | e    | AsvTho001 | forename        |      |      |         |    |        |        |                          |   |     |   |   |   |         |   |
+#+END_SRC
+
+The beginning and end lines are structured in (almost) the same way,
+taking into consideration the most common ways of marking up names in
+XML. The stylesheet expects that when the plain =<name>= element is
+used, it always has at least a =@type= attribute, since it cannot be
+processed otherwise. If any naming elements are nested, beginning and
+ending lines are only be inserted for the lowest level of naming elements.
+In other words, an encoding such as the following (example (b) results in
+ the below
+code. Please note that any =<w>= that might be contained
+in a higher level name element, but is not surrounded by a lower level
+element that is comparable to the encoding of the other sibling =<w>=
+elements, is treated as if it were not a name.
+
+#+CAPTION: (b)
+#+BEGIN_SRC xml
+           <w lemma="frú" me:msa="xNC gF nS cN sI">
+                <choice>
+                    <me:facs></me:facs>
+                    <me:dipl>fru</me:dipl>
+                    <me:norm>frú</me:norm>
+                </choice>
+            </w>
+    <name type="person" key="HalJon001">
+        <persName type="forename">
+            <w lemma="hallbera" me:msa="xNP gF nS cG sI">
+                <choice>
+                    <me:facs></me:facs>
+                    <me:dipl>Hallb<ex>er</ex>a</me:dipl>
+                    <me:norm>Hallbera</me:norm>
+                </choice>
+            </w>
+        </persName>
+        <w lemma="abbadís" me:msa="xNC gF nS cN sI">
+            <choice>
+                <me:facs></me:facs>
+                <me:dipl>abbadis</me:dipl>
+                <me:norm>abbadís</me:norm>
+            </choice>
+        </w>
+        <addName type="patronym">
+            <w lemma="Jónsdóttir" me:msa="xNC gF nS cN sI">
+                <choice>
+                    <me:facs></me:facs>
+                    <me:dipl>jonsd<ex>ottir</ex></me:dipl>
+                    <me:norm>Jónsdóttir</me:norm>
+                </choice>
+            </w>
+        </persName>
+    </name>
+#+END_SRC
+
+#+BEGIN_SRC orgmode
+| w  | frú        |           | xNC gF nS cN sI |     | frú             | fru          |   | 000003 |   |   |   | oic |   |   |   | 003r-02 |   |
+| PE | b          | HalJon001 | forename        | np1 | →HalJon001/3-02 |              |   |        |   |   |   |     |   |   |   |      |   |
+| w  | hallbera   |           | xNP gF nS cG sI |     | Hallbera        | halb(er)a    |   | 000004 |   |   |   | oic |   |   |   | 003r-02 |   |
+| PE | e          | HalJon001 | forename        | np1 |                 |              |   |        |   |   |   |     |   |   |   |      |   |
+| w  | abbadís    |           | xNC gF nS cN sI |     | abbadís         | abbadis      |   | 000005 |   |   |   | oic |   |   |   | 003r-02 |   |
+| PE | b          | HalJon001 | patronym        | np2 | #HalJon001/3-02 |              |   |        |   |   |   |     |   |   |   |      |   |
+| w  | Jónsdóttir |           | xNC gF nS cN sI |     | Jónsdóttir      | jonsd(ottir) |   | 000006 |   |   |   | oic |   |   |   | 003r-02 |   |
+| PE | e          | HalJon001 | patronym        | np2 |                 |              |   |        |   |   |   |     |   |   |   |      |   |
+#+END_SRC
+
+
+The first field holds the type designation (the same for beg. and end).
+For the elements =<persName>=, =<forename>=, =<surname>=, =<addName>=,
+=<roleName>=, =<nameLink>= and =<name>= with @type="name", the type is
+given as =PE= (for Personal Name). For the elements =<placeName>= or
+=<name>= with @type="place", =PL= is printed, and finally for =<name>=
+with @type="org" or "organization" =OR= is inserted.
+
+The second field holds =b= in the beginning line to mark the start of a
+name and =e= in the end line.
+
+The third field takes the ID or a reference to an authority file if such
+information is encoded. The stylesheet reads in the value of potential
+=@ref/@me:ref= or =@key/me:key=. If no key or reference is encoded on
+the element in question, XSLT checks if a potential ancestor naming
+element carries such information, and inserts it. If not, the field is
+left empty.
+
+The fourth field reads in additional information on the type of name if
+it is a personal name. Depending on the encoding of the XML, the
+information is either directly read from the element name (e.g.
+=<forename>=, =<surname>=) or from attributes (e.g. =@type=,
+=@subtype=). For place names and other names, no additional information
+is expected.
+
+The fifth field is used to indicate when a name consists of several
+parts (as in example (b). If the individual name parts are nested inside
+a common naming element (=<name>=, =<persName>= or =<placeName>=), the
+stylesheet inserts automatically information of where the individual
+parts are placed within the common ancestor element as =np1= (= name
+part 1), =np2=, =np3= or =np4=.
+
+The following fields are currently not used and are not populated by the
+stylesheet. The sixth field will probably be used for references in case
+of multi-part names, in order to be able to point from one part to the
+other with a (more or less) unique identifier. The example shows a 
+pointer in a prelimiary format. *[:TODO: Is this inserted
+in EMACS using LISP? ASK sørger for at det sker fra elisp.]*
+
+*** Divisions, heads, segments, paragraphs, line groups and verse lines
+The structural elements =<div>=, =<head>=, =<seg>=, =<p>=, =<lg>= and
+=<l>= are transformed into beginning and ending lines surrounding the
+transcribed text (similar to the markup for names) as shown in the example.
+
+#+CAPTION: Example of =<div>= in XML input
+#+BEGIN_SRC xml
+    <div n="2.2" type="chapter" subtype="subchapter">
+    ....
+    </div>
+#+END_SRC
+
+#+BEGIN_SRC orgmode
+    | d | b | 3 | 2.2 | chapter | subchapter | | | | | | | | | | | |
+    ....
+    | d | e | 3 |     |         |            | | | | | | | | | | | |
+#+END_SRC
+
+The first field is occupied by the type designation, i.e. =d= for
+=<div>=, =h= for =<head>=, =s= for =<seg>=, =pa= for =<p>=, =lg= for
+=<lg>= and =l= for =<l>=.
+
+The second field contains either =b= to mark a beginning line or =e= for
+the end.
+
+The third field holds an internal counter, giving the position of the
+element in question in =<body>= (only counting elements of the same name
+as self). This internal counter is repeated in the ending line.
+
+The fourth field of a beginning line reads in the value of any present
+=@n= attribute. The end line does not repeat this information. For
+=<div>= elements the value of =@n= is expected to agree with the =@n= of
+the relevant =<msItem>= in the =<msDesc>= part of the header.
+
+The fifth field of a beginning line reads in the value of any present
+=@type= attribute. The end line does not repeat this information.
+
+The sixth field of a beginning line reads in the value of any present
+=@subtype= attribute. The end line does not repeat this information.
+
+The seventh field of a beginning line reads in the value of any present
+=@xml:id= attribute. The end line does not repeat this information.
+
+The eighth field of a beginning line reads in the value of any present
+=@rend= attribute. The end line does not repeat this information.
+
+The ninth field of a beginning line reads in the value of any present =@met=
+attribute (e.g. on =<l>=). The end line does not repeat this information.
+
+The tenth field of a beginning line reads in the contents of the element
+if it contains text that is not further marked up by means of =<w>=,
+=<pc>= or =<me:punct>=. The end line does not repeat this information.
+
+The remaining fields are currently left empty.
+
+*** Additions, deletions, supplied, suppressed/surplus, unclear word, quotes and forme work
+Elements that mark editorial or scribal changes or emendation and are not
+found within words in the XML but rather surrounding words are
+transformed into beginning and end lines surrounding the transcribed
+text (similar to the markup for names and structural markup). In
+addition to that, the word forms in question receive additional
+editorial mark-up on all transcriptional levels. If such elements occur
+within words, they are converted to the relevant
+editorial mark-up (see below) in addition to a single preceding line
+that follows the structure of an opening line, but takes =X= in the 
+second field.
+
+#+CAPTION: Example of =<supplied>= in XML input
+#+BEGIN_SRC xml
+    <supplied reason="omitted" resp="FinJon">
+    ....
+    </supplied>
+#+END_SRC
+
+#+BEGIN_SRC orgmode
+    | su | b | 15 |  | omitted | FinJon | | | | | | | | | | | |
+    ....
+    | su | e | 15 |  |         |        | | | | | | | | | | | | 
+#+END_SRC
+
+The first field of both the beginning and end line is occupied by the
+type designation, i.e. =ad= for =<add>=, =de= for =<del>=, =su= for
+=<supplied>=, =uc= for =<unclear>=, =sd= for =<me:suppressed>=,
+=<surplus>= (as well as the older element =<me:expunged>=), =q= for
+=<quote>=, =<q>= and =fw= for =<fw>=.
+
+The second field contains either =b= to mark a beginning line or =e= for
+the end. If the markup in question occurs within a word, this field
+takes =X=.
+
+The third field holds an internal counter, giving the position of the
+element in question in =<body>= (only counting elements of the same name
+as self). This internal counter is repeated in the end line.
+
+The fourth field of a beginning line reads in the value of any present
+=@type= attribute. The end line does not repeat this information.
+
+The fifth field of a beginning line reads in the value of any present
+=@reason= attribute. The end line does not repeat this information.
+
+The sixth field of a beginning line reads in the value of any present
+=@resp= attribute. The end line does not repeat this information.
+
+The seventh field of a beginning line reads in the value of any present
+=@hand= attribute. The end line does not repeat this information.
+
+The eighth field of a beginning line reads in the value of any present
+=@rend= attribute. The end line does not repeat this information.
+
+The ninth field of a beginning line reads in the value of any present
+=@place= attribute. The end line does not repeat this information.
+
+The ninth field of a beginning line reads in the value of any present
+=@agent= attribute. The end line does not repeat this information.
+
+The ninth field of a beginning line reads in the value of any present
+=@source= attribute. The end line does not repeat this information.
+
+The remaining fields are currently left empty.
+
+
+*** Editorial markup for parts of words or inside of words
+
+Where editorial mark-up occurs within words (or applies to punctuation
+characters), e.g. to mark individual letters as unclear, added or
+deleted, this information is retained. On the one hande, the information
+is reproduced on the transcriptional level and in the same place within
+the word where it is found in the XML input, by means of special characters. 
+Moreover, in order to account for additional information that might be encoded 
+in the form of attributes, an extra line is inserted infront of the 
+line for the word (just like the beginning line for editorial markup that
+applies to several words, but this line is marked with an
+=X= in the second field instead of =b= or =e=; see above). 
+*[ Note: the plan was to only insert such an additional line, if the element in question has additional attributes. However, currently such a line is inserted in all cases, but 
+ if it is empty, it can be removed in elisp.]*
+
+Parts of words that are marked with =<unclear>= are rendered within
+curly brackets.
+
+Parts of words that are marked with =<supplied>= are rendered either
+inside of wide pointy brackets (if the reason is stated as
+@reason="omitted") or inside of square brackets (if the reason is stated
+as @reason="illegible"). If no reason is stated, it is assumed to be
+"omitted".
+
+Parts of words that are marked with =<add>= are rendered with various
+superscript or sublinear slashes depending on the specified place of the
+addition:
+
+- @place="margin": ⸍ ⸌
+- @place="margin-right: ⸍ ⸌⸌
+- @place="margin-left": ⸍⸍ ⸌
+- @place="margin-top": ⸌⸌ ⸍⸍
+- @place="margin-bot": ⸍⸍ ⸌⸌
+- @place="above" or @place="supralinear": ⸌ ⸍
+- @place="below" or @place="infralinear": ⸝ ⸜
+- @place="inline" or @place="interlinear": ⸜ ⸝
+
+If no placement is indicated with a suitable attribute, by default the
+markup for supralinear additions is inserted: ⸌ ⸍.
+
+Words or parts of words that are marked with =<sic>= are rendered with a
+preceding exclamation mark and a following upside-down exclamation mark.
+
+Words or parts of words that are marked with =<corr>= are rendered with
+a asterisk preceding the entire word.
+
+Parts of words that are marked with =<del>= are rendered inside of
+vertical bars with quills turning inwards (⸠ ⸡).
+
+Parts of words that are marked with =<surplus>=, =<me:suppressed>= (or
+the older =<me:expunged>=) are rendered inside of vertical bars with
+quills facing outwards (⸡ ⸠).
+
+When the milestone element =<gap>= occurs within a 
+word, this is indicated by a Euro sign (€).  
+
+When the milestone element  =<space>= occurs within a word, this is 
+indicated by a paragraph sign (§).
+
+When the milestone element =<gb>= occurs within a word, this is
+indicated by a pound sign (£).
+
+When the milestone element =<handShift>= occurs within a word, 
+this is indicated by an at-sign (@).
+
+Parts of words that are marked as abbreviations using =<am>=  are
+printed without further markup on the facsimile level (= facs).
+If an entire word is marked as abbreviated using =<abbr>=, the word is printed 
+inside round parentheses on the facsimile level. For
+Menotic XML, the word form is taken from =<me:facs>=, for TEI P5 XML the
+form is taken from =<orig>=. In the latter case, any part of a word
+marked with =<am>= (or an entire form marked as =<abbr>=) is suppressed on 
+the diplomatic level in the output (= dipl).
+
+Parts of words that are marked as expansions using =<ex>= or entire words
+that are marked as expanded using =<expan>= are rendered
+within parentheses on the diplomatic level (= dipl). For Menotic XML,
+the word form is taken from =<me:dipl>=, for TEI P5 XML the form is
+taken from =<orig>=. In the latter case, any part of a word that is
+marked with =<ex>= (an entire form marked as =<expan>=) is suppressed 
+on the facsimile level in the output (= facs). Please note: The import
+script does not expect the elements =<ex>= and =<expan>= to occur
+inside the same word, but either or.
+ 
+
+** COMMENT Ekstra spørgsmål
+ - “l” (fra <l>) skal blive vist som begyndeles/end-tags. Det var forkert i
+   notater-filen. [ASK retter i notater-filen]
+
+ - XSLT stylesheet'et kan ikke indsætte tekstnummer efter de to '**'. I stedet
+   indsætter det en foreløbig markør, nemlig "(TEXT-NUMBER)", som senere skal
+   korrigeres fra elisp
