@@ -1,0 +1,25 @@
+/* Menota-style CSS for VELUX project */
+/* Written by Seán D Vrieland */
+
+body {
+    display: block;
+    font-family: "Andron Scriptor Web";
+    margin-left: 25pt;
+    margin-right: 15pt;
+    margin-top: 15pt;
+    margin-bottom: 15pt;
+    font-size: 12pt;
+    line-height: 14pt;
+    text-align: left
+}
+
+w:after {
+content: "\00a0"
+}
+
+note:before {
+    content: "[["
+}
+note:after {
+    content: "]]"
+}
