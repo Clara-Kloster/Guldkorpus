@@ -23,3 +23,7 @@ note:before {
 note:after {
     content: "]]"
 }
+lb:after {
+    content: "\A";
+    white-space: pre;
+}
