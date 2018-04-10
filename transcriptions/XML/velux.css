@@ -17,12 +17,29 @@ w:after {
 content: "\00a0"
 }
 
-note:before {
+
+note {
+    color: green;
+    float: right;
+    font-size: 10pt;
+    width: 150pt;
+}
+/* note::before {
+    content: "*";
+    color: green;
+    on-hover: 
+}
+note {
+    float: right;
+    font-size: 10pt;
+    width: 150pt;
+} */
+/* note:before {
     content: "[["
 }
 note:after {
     content: "]]"
-}
+} */
 lb:after {
     content: "\A";
     white-space: pre;
