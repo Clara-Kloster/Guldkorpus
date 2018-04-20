@@ -1726,21 +1726,22 @@ Until further notice, the old codepoints in the Private Use Area subrange 12 sho
 <!ENTITY pk "&#x033D;">
 <!ENTITY dhlig "d&#xA76D;">
 <!ENTITY ghlig "g&#xA76D;">
+<!ENTITY desup "&#x1DD9;">
 ]>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:me="http://www.menota.org/ns/1.0">
 <teiHeader/>
 <text>
 <body><lb n="1"/>
-<w>Alexanꝺer</w><w>ep̅s</w><w>ſeruus</w><w>ſeruoꝝ</w><w>dej</w><w>ᴄariſſimo</w><w>i</w><w>xp̅o</w><w>filío.</w><w>.</w><w>Jlluﬅri</w><w>ꝛegi/</w><w>ᴅacie</w><w>sal̅t</w><w>et</w><lb n="2"/>
-<w>apl̅icam</w><w>be̅.</w><w>Dilecta</w><w>i</w><w>xp̅o</w><w>filia</w><w>obilis</w><w>mulier</w><w>Jngarꝺis</w><w>relicta</w><w>quonꝺa</w><w>ᴄonraꝺí</w><w>ᴄomitis</w><lb n="3"/>
-<w>ꝺe</w><w>ʀegeﬅe</w><w>ꝺiuínis</w><w>accenſa</w><w>monitis/</w><w>ta</w><w>pro</w><w>ſe</w><w>qua</w><w>pro</w><w>futuris</w><w>ororibus/</w><w>quoꝺꝺa</w><w>onaﬅe/</w><lb n="4"/>
-<w>ríu/</w><w>quoꝺ</w><w>orꝺinis</w><w>ancti</w><w>Daminí</w><w>regularibus</w><w>inﬅitutís</w><w>ínformarj</w><w>ꝺeſiꝺerat/</w><w>funꝺare</w><w>intenꝺít</w><lb n="5"/>
-<w>proprís</w><w>ſumptibꝫ</w><w>⁊</w><w>ꝺotare.</w><w>Cu</w><w>igitur</w><w>ꝺicta</w><w>obilís</w><w>ſit</w><w>propter</w><w>hoc</w><w>ꝺignis</w><w>fauoribus</w><w>at/</w><lb n="6"/>
-<w>tollenꝺa/</w><w>erenitate</w><w>regia</w><w>rogamus</w><w>⁊</w><w>hortamur</w><w>attente.</w><w>quatiꝰ</w><w>ꝺictu</w><w>onaﬅeríu</w><lb n="7"/>
-<w>quoꝺ</w><w>eﬅ</w><w>nouella</w><w>plantatío/</w><w>habens</w><w>pro</w><w>nr̅a</w><w>⁊</w><w>apl̅ice</w><w>ſeꝺis</w><w>reuerentía</w><w>co̅menꝺatu[NOTE:</w><w>co</w><w>i</w><w>ligatur]/</w><w>illuꝺ</w><w>í/[NOTE:</w><w>skråstreg,</w><w>ikke</w><w>orddeling</w><w>over</w><w>linje]</w><lb n="8"/>
-<w>perſonis</w><w>⁊</w><w>rebus/</w><w>a</w><w>quoqua</w><w>quantu</w><w>i</w><w>te</w><w>fuerít/</w><w>no</w><w>permíttas</w><w>inꝺebite</w><w>moleﬅarj/</w><lb n="9"/>
-<w>Jta</w><w>qꝺ[NOTE:</w><w>usikker</w><w>abbr.</w><w>på</w><w>ꝺ]</w><w>eeꝺe[NOTE:</w><w>dobbeltstreg</w><w>over</w><w>det</w><w>andet</w><w>e,</w><w>burde</w><w>være</w><w>a]</w><w>preces</w><w>nr̅as</w><w>i</w><w>hac</w><w>parte</w><w>ſibi</w><w>profuiſſe</w><w>letetur/</w><w>⁊</w><w>nos</w><w>celſituꝺine</w><w>tua</w><lb n="10"/>
-<w>ꝺignis</w><w>i</w><w>ꝺomíno</w><w>lauꝺibus</w><w>co̅menꝺemus[NOTE:</w><w>co</w><w>i</w><w>ligatur].</w><w>Dat̅[NOTE:</w><w>herfra</w><w>lange</w><w>mellemrum]</w><w>Latera̅</w><w>xvj</w><w>kl̅</w><w>Februarii[NOTE:</w><w>usikker</w><w>i-abbr.]</w><lb n="11"/>
-<w>pontificatꝰ[NOTE:</w><w>p</w><w>med</w><w>streg]</w><w>nr̅i</w><w>nno</w><w>ᴛertio:/</w></body>
+<w>Alexanꝺer</w><w>ep̅s</w><w>ſeruus</w><w>ſeruoꝝ</w><w>deȷ</w><w>Carıſſımo</w><w>ı</w><w>xp̅o</w><w>fılío</w><w>.</w><w>.</w><w>Jlluſtrı</w><w>Regı/</w><w>Dacıe</w><w>Sal̅t</w><w>et</w><lb n="2"/>
+<w>apl̅ıca&mrdes;</w><w>be̅.</w><w>Dılecta</w><w>ı</w><w>xp̅o</w><w>fılıa</w><w>obılıs</w><w>mulıer</w><w>Jngarꝺıs</w><w>relıcta</w><w>quonꝺa</w><w>Conraꝺí</w><w>Comıtıs</w><lb n="3"/>
+<w>ꝺe</w><w>Regeſte</w><w>ꝺıuínıs</w><w>accenſa</w><w>monıtıs/</w><w>ta</w><w>pro</w><w>ſe</w><w>qua</w><w>pro</w><w>futurıs</w><w>ororıbus/</w><w>quoꝺꝺa</w><w>onaſte-</w><lb n="4"/>
+<w>ríu/</w><w>quoꝺ</w><w>orꝺınıs</w><w>anctı</w><w>Damıní</w><w>regularıbus</w><w>ınſtıtutís</w><w>ínformarȷ</w><w>ꝺeſıꝺerat/</w><w>funꝺare</w><w>ıntenꝺít</w><lb n="5"/>
+<w>proprís</w><w>ſumptıbꝫ</w><w>⁊</w><w>ꝺotare.</w><w>Cu</w><w>ıgıtur</w><w>ꝺıcta</w><w>obılís</w><w>ſıt</w><w>propter</w><w>hoc</w><w>ꝺıgnıs</w><w>fauorıbus</w><w>at-</w><lb n="6"/>
+<w>tollenꝺa/</w><w>erenıtate</w><w>regıa</w><w>rogamus</w><w>⁊</w><w>hortamur</w><w>attente.</w><w>quatıꝰ</w><w>ꝺıctu</w><w>onaſteríu</w><lb n="7"/>
+<w>quoꝺ</w><w>eſt</w><w>nouella</w><w>plantatío/</w><w>habens</w><w>pro</w><w>nr̅a</w><w>⁊</w><w>apl̅ıce</w><w>ſeꝺıs</w><w>reuerentía</w><w>co̅menꝺatu/</w><w>ılluꝺ</w><w>í</w><lb n="8"/>
+<w>perſonıs</w><w>⁊</w><w>rebus/</w><w>a</w><w>quoqua</w><w>quantu</w><w>ı</w><w>te</w><w>fuerít/</w><w>no</w><w>permíttas</w><w>ınꝺebıte</w><w>moleſtarȷ/</w><lb n="9"/>
+<w>Jta</w><w>q</w><w>ee&dblovl;ꝺe</w><w>preces</w><w>nr̅as</w><w>ı</w><w>hac</w><w>parte</w><w>ſıbı</w><w>profuıſſe</w><w>letetur/</w><w>⁊</w><w>nos</w><w>celſıtuꝺıne</w><w>tua</w><lb n="10"/>
+<w>ꝺıgnıs</w><w>ı</w><w>ꝺomíno</w><w>lauꝺıbus</w><w>co̅menꝺemus.</w><w>Dat̅</w><w>Latera̅</w><w>xỽȷ</w><w>kl</w><w>Februa&rscaptailstrok;</w><lb n="11"/>
+<w>Pontıfıcatꝰ</w><w>nr̅ı</w><w>nno</w><w>Tertıo&colmidcomposit;</w></body>
 </text>
 </TEI>
