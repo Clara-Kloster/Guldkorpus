@@ -1726,24 +1726,25 @@ Until further notice, the old codepoints in the Private Use Area subrange 12 sho
 <!ENTITY pk "&#x033D;">
 <!ENTITY dhlig "d&#xA76D;">
 <!ENTITY ghlig "g&#xA76D;">
+<!ENTITY desup "&#x1DD9;">
 ]>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:me="http://www.menota.org/ns/1.0">
 <teiHeader/>
 <text>
 <body><lb n="1"/>
-<w>Alecanꝺer</w><w>ep̅s</w><w>ſeruus</w><w>ſeruoꝝ</w><w>ꝺej.</w><w>venerabilj</w><w>fr̅i.</w><w>.</w><w>rchiep̅o</w><w>Lunꝺe̅</w><w>ꜱal̅t</w><lb n="2"/>
-<w>⁊</w><w>apl̅ica</w><w>be̅.</w><w>Dilecta</w><w>i</w><w>xp̅i</w><w>filía/</w><w>obilis</w><w>mulier</w><w>Jngarꝺís/</w><w>relicta</w><w>quonꝺa</w><lb n="3"/>
-<w>ᴄonradi</w><w>ᴄomitis</w><w>ꝺe</w><w>ʀegeﬅe/</w><w>nobis</w><w>ſignificare</w><w>curauít./</w><w>qꝺ[NOTE:</w><w>usikker</w><w>abbr.</w><w>på</w><w>ꝺ]</w><w>i</w><w>firmo</w><w>ge/</w><lb n="4"/>
-<w>rit</w><w>propoſíto/</w><w>qoꝺꝺa</w><w>onaﬅeriu</w><w>orꝺinis</w><w>ſc̅i</w><w>Damiai̅j/</w><w>aꝺ</w><w>honore</w><w>ꝺej</w><w>⁊</w><w>ani</w><lb n="5"/>
-<w>maꝝ</w><w>ſalute/</w><w>proprís</w><w>funꝺare</w><w>ſumptibꝫ</w><w>⁊</w><w>ꝺotare/</w><w>Quare</w><w>nobis</w><w>humiliter</w><lb n="6"/>
-<w>ſulicauít/</w><w>ut</w><w>ſi</w><w>ɴobile[NOTE:</w><w>n</w><w>small</w><w>cap?]</w><w>aꝺ</w><w>co̅ſumatione[NOTE:</w><w>co</w><w>i</w><w>ligatur]</w><w>huiꝰmoꝺi</w><w>operis/</w><w>ꝺe</w><w>bonis[NOTE:</w><w>bo</w><w>i</w><w>ligatur]</w><w>proprís</w><lb n="7"/>
-<w>uenꝺere</w><w>forte</w><w>contingeret[NOTE:</w><w>co</w><w>i</w><w>ligatur]/</w><w>uel</w><w>uenꝺiꝺiſſe/</w><w>ut</w><w>ſuper</w><w>hoc/</w><w>a</w><w>ſuís</w><w>uel</w><w>alís</w><w>im/</w><lb n="8"/>
-<w>peꝺiri/</w><w>uel</w><w>imoleﬅari</w><w>no</w><w>poſſít/</w><w>prouiꝺere</w><w>ſibi</w><w>ꝺe</w><w>benígnítate</w><w>ſeꝺis</w><w>apl̅ice</w><w>cura/</w><lb n="9"/>
-<w>remus.</w><w>vt</w><w>igitur/</w><w>ta</w><w>pí</w><w>propoſiti</w><w>executío/</w><w>alicuiꝰ</w><w>impeꝺimenti</w><w>obice/</w><w>nequeat</w><lb n="10"/>
-<w>impeꝺiri/</w><w>fr̅nitati</w><w>tue/</w><w>per</w><w>apl̅ica</w><w>ſcripta</w><w>manꝺamus./</w><w>quatinus/</w><w>cl̅icos[NOTE:</w><w>co</w><w>i</w><w>ligatur]</w><w>⁊</w><w>laicos[NOTE:</w><w>co</w><w>i</w><w>ligatur]</w><w>ſí</w><lb n="11"/>
-<w>quos</w><w>tibi</w><w>conﬅiterít[NOTE:</w><w>co</w><w>i</w><w>ligatur]/</w><w>eanꝺe</w><w>nobile[NOTE:</w><w>højt</w><w>n]</w><w>ſup̲</w><w>preꝺictis</w><w>omnibus</w><w>inꝺebite</w><w>moleﬅare/</w><lb n="12"/>
-<w>ut</w><w>ab</w><w>huiꝰmoꝺi</w><w>moleﬅatione</w><w>omníno</w><w>ꝺeſiﬅant/</w><w>monítione</w><w>premiſſa/</w><w>per</w><w>conſu/</w><lb n="13"/>
-<w>ra</w><w>eccl̅iaﬅica/</w><w>all̅one</w><w>remota</w><w>co̅pellas[NOTE:</w><w>co</w><w>i</w><w>ligatur].</w><w>Dat̅[NOTE:</w><w>herfra</w><w>lange</w><w>mellemrum]</w><w>Latera̅</w><w>xvj</w><w>k̅l</w><w>Februarii[NOTE:</w><w>ii-abbr.</w><w>usikker]</w><lb n="14"/>
-<w>pontificatꝰ[NOTE:</w><w>p</w><w>med</w><w>streg</w><w>og</w><w>enlarged/small</w><w>cap?]</w><w>nr̅j</w><w>nno</w><w>ᴛertio:/</w></body>
+<w>Alexanꝺer</w><w>ep̅s</w><w>ſeruus</w><w>ſeruoꝝ</w><w>ꝺe&jnodot;</w><w>.</w><w>ỽenerabılȷ</w><w>fr̅ı.</w><w>.</w><w>rchıep̅o</w><w>Lunꝺe̅</w><w>Sal̅t</w><lb n="2"/>
+<w>⁊</w><w>apl̅ıca</w><w>be.</w><w>Dılecta</w><w>ı</w><w>xp̅o</w><w>fılía/</w><w>obılıs</w><w>mulıer</w><w>Jngarꝺís/</w><w>relıcta</w><w>quonꝺa</w><lb n="3"/>
+<w>Conradı</w><w>Comıtıs</w><w>ꝺe</w><w>Regeſte/</w><w>nobıs</w><w>ſıgnıfıcare</w><w>curauít</w><w>&punctelev;</w><w>q&drotacute;</w><w>ea&drot;e&mrdes;</w><w>ı</w><w>fırmo</w><w>ge-</w><lb n="4"/>
+<w>rıt</w><w>propoſíto/</w><w>quoꝺꝺa</w><w>onaſterıu</w><w>orꝺınıs</w><w>ſc̅ı</w><w>Damıa̅ıȷ/</w><w>aꝺ</w><w>honore</w><w>ꝺeȷ</w><w>⁊</w><w>anı-</w><lb n="5"/>
+<w>maꝝ</w><w>ſalute/</w><w>proprís</w><w>funꝺare</w><w>ſumptıbꝫ</w><w>⁊</w><w>ꝺotare/</w><w>Quare</w><w>nobıs</w><w>humılıter</w><lb n="6"/>
+<w>ſulıcauít/</w><w>ut</w><w>ſı</w><w>Nobıle</w><w>&inodot;p&bar;a&mrdes;</w><w>/</w><w>aꝺ</w><w>co̅ſumatıone</w><w>huıꝰmoꝺı</w><w>operıs/</w><w>ꝺe</w><w>bonıs</w><w>proprís</w><lb n="7"/>
+<w>uenꝺere</w><w>forte</w><w>contıngeret/</w><w>uel</w><w>uenꝺıꝺıſſe/</w><w>ut</w><w>ſuper</w><w>hoc/</w><w>a</w><w>ſuís</w><w>uel</w><w>alís</w><w>ım-</w><lb n="8"/>
+<w>peꝺırı/</w><w>uel</w><w>moleſtarı</w><w>no</w><w>poſſít/</w><w>prouıꝺere</w><w>ſıbı</w><w>ꝺe</w><w>benígnítate</w><w>ſeꝺıs</w><w>apl̅ıce</w><w>cura-</w><lb n="9"/>
+<w>remus.</w><w>ỽt</w><w>ıgıtur/</w><w>ta</w><w>pí</w><w>propoſıtı</w><w>executío/</w><w>alıcuıꝰ</w><w>ımpeꝺımentı</w><w>obıce/</w><w>nequeat</w><lb n="10"/>
+<w>ımpeꝺırı/</w><w>fr̅nıtatı</w><w>tue/</w><w>per</w><w>apl̅ıca</w><w>ſcrıpta</w><w>manꝺamus./</w><w>quatınus/</w><w>cl̅ıcos</w><w>⁊</w><w>laıcos</w><w>ſí</w><lb n="11"/>
+<w>quos</w><w>tıbı</w><w>conſtıterít/</w><w>eanꝺe</w><w>obıle</w><w>ſu&pbardes;</w><w>preꝺıctıs</w><w>omnıbus</w><w>ınꝺebıte</w><w>moleſtare/</w><lb n="12"/>
+<w>ut</w><w>ab</w><w>huıꝰmoꝺı</w><w>moleſtatıone</w><w>omníno</w><w>ꝺeſıſtant/</w><w>monítıone</w><w>premıſſa/</w><w>per</w><w>cenſu-</w><lb n="13"/>
+<w>ra</w><w>eccl̅ıaſtıca/</w><w>all̅one</w><w>remota</w><w>co̅pellas.</w><w>Dat̅</w><w>Latera̅</w><w>xỽȷ</w><w>k̅l</w><w>Februa&rscaptailstrok;</w><lb n="14"/>
+<w>Pontıfıcatꝰ</w><w>nr̅ȷ</w><w>nno</w><w>Tertıo&colmidcomposit;</w></body>
 </text>
 </TEI>
