@@ -1726,24 +1726,25 @@ Until further notice, the old codepoints in the Private Use Area subrange 12 sho
 <!ENTITY pk "&#x033D;">
 <!ENTITY dhlig "d&#xA76D;">
 <!ENTITY ghlig "g&#xA76D;">
+<!ENTITY desup "&#x1DD9;">
 ]>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:me="http://www.menota.org/ns/1.0">
 <teiHeader/>
 <text>
 <body><lb n="1"/>
-<w>P.</w><w>ꝺei</w><w>gr&pk;a</w><w>ʀoſkilꝺenſis</w><w>p&pk;s</w><w>vníu&pk;ſiſ</w><w>p͛ſenſ</w><w>ſcptum</w><w>ínſpeurus</w><w>ſal̅t</w><w>in</w><w>ꝺn̅o</w><w>pͤſentem</w><w>et</w><w>eternam.</w><lb n="2"/>
-<w>Nou&pk;ínt</w><w>tam</w><w>preſenteſ</w><w>quam</w><w>poﬅerí</w><w>ꝙ</w><w>volenteſ</w><w>ín</w><w>quibꝫ</w><w>poſſumꝰ</w><w>utílít͛</w><w>ccl̅ie</w><w>ꝯmoꝺítatí</w><lb n="3"/>
-<w>ꝓuíꝺere</w><w>pro</w><w>manſíone</w><w>ín</w><w>ᴀugthæhøꝛ/</w><w>qm</w><w>vír</w><w>nobílís</w><w>Jacobuſ</w><w>Sunoniſ</w><w>fílíuſ</w><w>píe</w><w>memo/</w><lb n="4"/>
-<w>ríe</w><w>ín</w><w>ſuo</w><w>teﬅímonío</w><w>legauít</w><w>ultíma</w><w>uoluntate</w><w>aꝺ</w><w>uínum</w><w>ꝺíﬅríbuendum</w><w>ſíngulis</w><w>ccle/</w><lb n="5"/>
-<w>ſíís</w><w>ᴄíuítatiſ</w><w>ʀoſk̅(.)[NOTE:</w><w>bar</w><w>med</w><w>krølle]</w><w></w><w>ꝺẏoc&pk;(.)</w><w>ſíngulis</w><w>annís</w><w>ſcotauímꝰ</w><w>manſíonem</w><w>menſe</w><w>&pk;palí</w><w>ttínente̅</w><lb n="6"/>
-<w>cíuítatí</w><w>uícínam</w><w>cum</w><w>ſuiſ</w><w>p̲tínentíís</w><w>ín</w><w>Sothæthoꝛp/</w><w>aꝺ</w><w>uſuſ</w><w>memoꝛatos</w><w>íure</w><w>perpetuo</w><lb n="7"/>
-<w>poſſiꝺenꝺam/</w><w>unanímí</w><w>ᴄapl̅í</w><w>nr&pk;i</w><w>conſenſu</w><w>reqſíto</w><w></w><w>optento.</w><w>Cet͛um</w><w>ut</w><w>uoluntas</w><w>díí</w><lb n="8"/>
-<w>teﬅatoꝛíſ</w><w>fírmíꝰ</w><w>effeum</w><w>habeat</w><w></w><w>fiꝺeliꝰ</w><w>ꝯſeruet᷑/</w><w>eanꝺem</w><w>díleo</w><w>nobiſ</w><w>canoníco</w><w>nr&pk;o</w><w>ꝺn̅o</w><lb n="9"/>
-<w>petro[NOTE:</w><w>p</w><w>med</w><w>streg]</w><w>øthn̅ſun[NOTE:</w><w>ø</w><w>small</w><w>cap]</w><w>ípſiꝰ</w><w>qͦnꝺa̅</w><w>ᴄapll̅o</w><w></w><w>ꝯſn̅tíente</w><w>capl̅o</w><w>aꝺ</w><w>ꝺieſ</w><w>ſuoſ</w><w>libere</w><w>ꝺímíſímuſ</w><w>aꝺ</w><lb n="10"/>
-<w>pͤfatoſ</w><w>uſꝰ</w><w>oꝛꝺinanꝺa̅.</w><w>Et</w><w>eiꝺem</w><w>ꝺímíſímꝰ</w><w>pro</w><w>ꝺuobꝫ</w><w>bol</w><w>pͤbenꝺe</w><w>ſue</w><w>attínentibus/</w><w>ín</w><lb n="11"/>
-<w>walbẏ.</w><w>íuxta</w><w>hafnæ</w><w>bol.</w><w></w><w>ꝺímíꝺ[NOTE:</w><w>sidste</w><w>ꝺ</w><w>med</w><w>krølle]</w><w>ín</w><w>walbẏ.</w><w>øﬅre[NOTE:</w><w>ø</w><w>small</w><w>cap]</w><w>íuxta</w><w>ᴄíuítatem</w><w></w><w>ꝺímiꝺ[NOTE:</w><w>sidste</w><w>ꝺ</w><w>med</w><w>krølle]</w><w>bol.</w><w>ín</w><lb n="12"/>
-<w>Svau͛eſlef</w><w>ſímílít͛</w><w>ín</w><w>ᴄapl̅o.</w><w>ɴe</w><w>g</w><w>ſup̲</w><w>huiꝰmoꝺi</w><w>ꝯmutatíone</w><w>poſſít</w><w>ccl̅íe</w><w>ul̅</w><w>p̲ſone</w><lb n="13"/>
-<w>ſuboꝛrírí</w><w>calumpnía</w><w>pͤſens</w><w>ſctum</w><w>ſígíllo</w><w>nr&pk;o</w><w></w><w>ſigillo</w><w>ᴄapl̅i</w><w>roborarí</w><w>fecímꝰ</w><w>aꝺ</w><w>caute/</w><lb n="14"/>
-<w>lam.</w><w>Aﬅum</w><w>ʀoſk̅[NOTE:</w><w>usikker</w><w>abbr.</w><w>efter</w><w>k].</w><w>Anno</w><w>ꝺn&pk;í[NOTE:</w><w>ꝺ</w><w>med</w><w>streg]</w><w>(.)ᴍͦ(.)</w><w>ᴄͦᴄͦ(.)</w><w>lviͦj(.)</w><w>iiiͦj(.)</w><w>ẏꝺus</w><w>ᴏobꝛis[NOTE:</w><w>Slutter</w><w>med</w><w>linefiller]</w></body>
+<w>P.</w><w>ꝺeı</w><w>gr&pk;a</w><w>Roſkılꝺenſıs</w><w>p&pk;s</w><w>ỽníu&pk;ſıſ</w><w>p&esup;ſenſ</w><w>ſcptum</w><w>ínſpeur&inodot;s</w><w>ſalt</w><w>ın</w><w>ꝺno</w><w>pͤſentem</w><w>et</w><w>eternam.</w><lb n="2"/>
+<w>Nou&pk;ínt</w><w>tam</w><w>preſenteſ</w><w>quam</w><w>poſterí</w><w>ꝙ</w><w>ỽolenteſ</w><w>ín</w><w>qu&iacute;bꝫ</w><w>poſſumꝰ</w><w>utílít͛</w><w>ccl̅ıe</w><w>ꝯmoꝺítatí</w><lb n="3"/>
+<w>ꝓuíꝺere</w><w>&punctelev;</w><w>pro</w><w>manſíone</w><w>ín</w><w>Augthæhøʀ/</w><w>qm</w><w>ỽír</w><w>nobílís</w><w>Jacobuſ</w><w>Sunonıſ</w><w>fílíuſ</w><w>píe</w><w>memo-</w><lb n="4"/>
+<w>ríe</w><w>ín</w><w>ſuo</w><w>teſtímonío</w><w>legauít</w><w>ultíma</w><w>uoluntate</w><w>aꝺ</w><w>uínum</w><w>ꝺíſtríbuendum</w><w>ſíngulıs</w><w>ccle-</w><lb n="5"/>
+<w>ſíís</w><w>Cíuítatıſ</w><w>Roſk(.)</w><w></w><w>ꝺẏoc&pk;(.)</w><w>ſíngulıs</w><w>annís</w><w>ſcotauímꝰ</w><w>manſíonem</w><w>menſe</w><w>&pk;palí</w><w>ttínente</w><lb n="6"/>
+<w>cíuítatí</w><w>uícínam</w><w>cum</w><w>ſuıſ</w><w>&pbardes;tínentíís</w><w>ín</w><w>Sothæthoꝛp/</w><w>aꝺ</w><w>uſuſ</w><w>memoꝛatos</w><w>íure</w><w>perpetuo</w><lb n="7"/>
+<w>poſſıꝺenꝺam/</w><w>unanímí</w><w>Capl̅í</w><w>nr&pk;ı</w><w>conſenſu</w><w>reqſíto</w><w></w><w>optento.</w><w>Cet͛um</w><w>ut</w><w>uoluntas</w><w>díí</w><lb n="8"/>
+<w>teſtatoꝛíſ</w><w>fírmíꝰ</w><w>effeum</w><w>habeat</w><w></w><w>fıꝺelıꝰ</w><w>ꝯſeruet᷑/</w><w>eanꝺem</w><w>díleo</w><w>nobıſ</w><w>canoníco</w><w>nr&pk;o</w><w>ꝺno</w><lb n="9"/>
+<w>Petro</w><w>&Oslash;thnſun</w><w>ípſıꝰ</w><w>qͦnꝺa</w><w>Capllo</w><w>&bar;</w><w>ꝯſntíente</w><w>caplo</w><w>aꝺ</w><w>ꝺıeſ</w><w>ſuoſ</w><w>lıbere</w><w>ꝺímíſímuſ</w><w>aꝺ</w><lb n="10"/>
+<w>pͤfatoſ</w><w>uſꝰ</w><w>oꝛꝺınanꝺa̅.</w><w>t</w><w>eıꝺem</w><w>ꝺímíſímꝰ</w><w>pro</w><w>ꝺuobꝫ</w><w>bol</w><w>pͤbenꝺe</w><w>ſue</w><w>attínentıbus//</w><w>ín</w><lb n="11"/>
+<w>Walbẏ.</w><w>íuxta</w><w>Hafnæ</w><w>bol.</w><w></w><w>ꝺímí&de;</w><w>ín</w><w>Walbẏ.</w><w>&Oslash;ſtre</w><w>íuxta</w><w>Cíuítatem</w><w></w><w>ꝺímı&de;</w><w>bol.</w><w>ín</w><lb n="12"/>
+<w>Svau͛eſlef</w><w>ſímílít͛</w><w>ín</w><w>Capl̅o.</w><w>Ne</w><w>g</w><w>ſu&pbardes;</w><w>huıꝰmoꝺı</w><w>ꝯmutatíone</w><w>poſſít</w><w>ccl̅íe</w><w>ul̅</w><w>&pbardes;ſone</w><lb n="13"/>
+<w>ſuboꝛrírí</w><w>calumpnía</w><w>pͤſens</w><w>ſctum</w><w>ſígíllo</w><w>nr&pk;o</w><w></w><w>ſıgıllo</w><w>Capl̅ı</w><w>roborarí</w><w>fecímꝰ</w><w>aꝺ</w><w>caute-</w><lb n="14"/>
+<w>lam.</w><w>A&ctlig;um</w><w>Roſk̅.</w><w>Anno</w><w>Dn&pk;í</w><w>(.)ͦ(.)</w><w>ᴄͦᴄͦ(.)</w><w>lỽıͦȷ(.)</w><w>ıııͦȷ(.)</w><w>ẏꝺus</w><w>Oobꝛıs</w></body>
 </text>
 </TEI>

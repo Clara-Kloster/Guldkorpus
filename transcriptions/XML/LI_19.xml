@@ -1726,16 +1726,17 @@ Until further notice, the old codepoints in the Private Use Area subrange 12 sho
 <!ENTITY pk "&#x033D;">
 <!ENTITY dhlig "d&#xA76D;">
 <!ENTITY ghlig "g&#xA76D;">
+<!ENTITY desup "&#x1DD9;">
 ]>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:me="http://www.menota.org/ns/1.0">
 <teiHeader/>
 <text>
 <body><lb n="1"/>
-<w>vniu͛ſis</w><w>xp͛i</w><w>fiꝺelibꝫ</w><w>pꝛeſens</w><w>ſcɼiptu</w><w>inſpeuɼis</w><w>⁊</w><w>uꝺituɼís/</w><w>Jngeɼth</w><lb n="2"/>
-<w>ʀelia</w><w>ᴄomitis</w><w>ᴄonɼaꝺj/</w><w>ꝺe</w><w>ɼeẏnﬅe</w><w>ſalute</w><w>in</w><w>ꝺn͛o.</w><w>vniu͛ſitte</w><w>uɼ̅a</w><lb n="3"/>
-<w>ſciɼe</w><w>voluꝰ/</w><w>Dn̅</w><w>(.)ᴘ(.)</w><w>ep̅</w><w>ʀoſkilꝺe̅/</w><w>in</w><w>p͛ſenti</w><w>ꝺn͛i</w><w>(.)ᴄ(.)</w><w>Regis</w><w>ꝺnoꝝ</w><lb n="4"/>
-<w>illuﬅris</w><w>tutoꝛe</w><w>nr̅</w><w>foꝛe</w><w>conﬅitutu.</w><w>vnꝺe</w><w>quicquiꝺ</w><w>p͛ꝺius</w><w>ꝺn̅s</w><lb n="5"/>
-<w>ꝺe</w><w>bonis</w><w>nɼ̅is</w><w>feceɼit</w><w></w><w>oꝛꝺinaueɼit/</w><w>gɼatu</w><w>habeꝰ</w><w></w><w>cceptu</w><lb n="6"/>
-<w>Jn</w><w>huiꝰ</w><w>ʀei</w><w>teﬅimoniu</w><w>p͛ſente</w><w>pagina̅[NOTE:</w><w>bue</w><w>over</w><w>første</w><w>a,</w><w>usikker</w><w>betydning]</w><w>ſigillo</w><w>nɼ̅o</w><w>ꝺiximꝰ</w><w>ſigillanꝺa</w></body>
+<w>ỽnıu͛ſıs</w><w>xp͛ı</w><w>fıꝺelıbꝫ</w><w>pꝛeſens</w><w>ſcɼıptu</w><w>ınſpeuɼıs</w><w>⁊</w><w>uꝺıtuɼís/</w><w>Jngeɼth</w><lb n="2"/>
+<w>Relıa</w><w>Comıtıs</w><w>Conɼaꝺȷ/</w><w>ꝺe</w><w>ɼeẏnſte</w><w>ſalute</w><w>ın</w><w>ꝺn͛o.</w><w>ỽnıu͛ſıtte</w><w>uɼ̅a</w><lb n="3"/>
+<w>ſcıɼe</w><w>voluꝰ/</w><w>Dn̅</w><w>(.)P(.)</w><w>ep̅</w><w>Roſkılꝺe̅/</w><w>ın</w><w>p͛ſentı</w><w>ꝺn͛ı</w><w>(.)C(.)</w><w>Regıs</w><w>ꝺnoꝝ</w><lb n="4"/>
+<w>ılluſtɼıs</w><w>tutoꝛe</w><w>nɼ̅</w><w>foꝛe</w><w>conſtıtutu.</w><w>ỽnꝺe</w><w>quıcquıꝺ</w><w>p͛ꝺıus</w><w>ꝺn̅s</w><lb n="5"/>
+<w>ꝺe</w><w>bonıs</w><w>nɼ̅ıs</w><w>feceɼıt</w><w></w><w>oꝛꝺınaueɼıt/</w><w>gratu</w><w>habeꝰ</w><w></w><w>cceptu</w><lb n="6"/>
+<w>Jn</w><w>huıꝰ</w><w>Reı</w><w>teſtımonıu</w><w>p͛ſente</w><w>pagına̅</w><w>ſıgıllo</w><w>nɼ̅o</w><w>ꝺuxımꝰ</w><w>ſıgıllanꝺa</w></body>
 </text>
 </TEI>
