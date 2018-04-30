@@ -1,0 +1,1 @@
+cat *.txt | sed -e $'s/\(.\)/\\1\\\n/g' | sort -u | perl -ne 'print unless $dup{$_}++;' > Chars_sorted.txt
