@@ -49,6 +49,8 @@ Hvad gør vi i tilfælde af et ord, der er skrevet over 2 linier (og der er ikke
 | s | ſ &slong; |  &sclose; |
 | r | ꝛ &rrot;  |            |
 | d | ꝺ &drot;  |            |
+- Ligaturer :: Ligaturer bevares, hvis de deler en minim eller downstroke eller får en anderledes bogstavform:
+| st | ﬆ |
 ** Abbreviaturer
 - forkortelser :: transskriberes som forkortelsestegn, fx ⟨sō⟩ (/som/) indkoderes 'so&bar;'
 - punktum :: og andre forkortelsestegn, der ellers kan fortolkes som almindelige tegn, markeres i parenteser, fx ⟨A.D.⟩ (/Anno Domini/) indkoderes 'A(.)D(.)'
