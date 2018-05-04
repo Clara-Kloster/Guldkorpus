@@ -1,21 +1,39 @@
 #+TITLE: Syntactic annotation
 
-* Sentence level
-In general a /sentence/ is defined as a clause containing a single finite verb.
+* Sentences and clauses
+A *clause* is defined as any phrase containing a finite verb. The verb is then considered the *root* of the clause. A *sentence* is a top-level clause, meaning it is not dependent on any other clause (i.e. is not a relative clause, etc.).
+
+** Simple sentences
+The finite verb is the root of the sentence. Normally the finite verb is also the main (meaning-bearing) verb, though it can also be an auxiliary or modal verb. In the case of the latter, the main (meaning-bearing) verb is dependent on the auxiliary:
+
+#+BEGIN_src org  
+- Main verb
+| Iæk | Annæ | Pæthærs=doter | hærræ | Michæl | Rwds | æfter=lewende | helser | allæ |
+|     |      |               |       |        |      |               | ROOT   |      |
+- Auxiliary verb
+| Thæt | skal | alle | wære   | wederlecht |
+|      | ROOT |      | (skal) |            |
+#+END_src
 
 * Complex sentences
 ** Conjunctions
 At times a sentence may contain two finite verbs combined with a conjunction such as /ok/ 'and', /æller/ 'or', etc. In such cases the conjunction is the root of the sentence/clause, while the finite verbs are dependent on the conjunction:
 
+#+BEGIN_src org 
 | (hwilkæn) | pa | boor | Lassæ | Brun | ok             | giuer | hwært | aar | thre | skiling | grat |
 |           |    | (ok) |       |      | ROOT (hwilkæn) | (ok)  |       |     |      |         |      |
+#+END_src
 
 Note that /Lassæ (Brun)/ is the subject of both verbs in the above example, and is therefore dependent on the conjunction /ok/ as well:
 
+#+BEGIN_src org 
 | (hwilkæn) | pa | boor | Lassæ | Brun    | ok             | giuer | hwært | aar | thre | skiling | grat |
 |           |    |      | (ok)  | (Lassæ) | ROOT (hwilkæn) |       |       |     |      |         |      |
+#+END_src
 
 The direct object /tre skiling grat/, on the other hand, is only the object of the verb /giuer/. Similarly the adverbial phrase /hwært aar/ is only dependent on /giuer/:
 
+#+BEGIN_src org 
 | (hwilkæn) | pa | boor | Lassæ | Brun | ok             | giuer | hwært | aar     | thre      | skiling | grat      |
 |           |    |      |       |      | ROOT (hwilkæn) |       | (aar) | (giuer) | (skiling) | (giuer) | (skiling) |
+#+END_src
