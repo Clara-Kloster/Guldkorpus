@@ -1,0 +1,13 @@
+#+TITLE: Syntactic annotation
+
+* Sentence level
+In general a /sentence/ is defined as a clause containing a single finite verb.
+
+* Complex sentences
+** Conjunctions
+At times a sentence may contain two finite verbs combined with a conjunction such as /ok/ `and', /æller/ `or', etc. In such cases the conjunction is the root of the sentence, while the finite verbs are dependent on the conjunction:
+
+#+BEGIN_src org
+| hwilkæn | pa | boor | Lassæ | Brun | ok   | giuer | hwært | aar | thre | skiling | grat |
+|         |    | (ok) |       |      | ROOT | (ok)  |       |     |      |         |      |
+#+END_src
