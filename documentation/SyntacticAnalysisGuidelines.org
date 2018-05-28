@@ -16,7 +16,12 @@ The finite verb is the root of the sentence. Normally the finite verb is also th
 #+END_src
 
 ** Subordinate clauses
+A subordinate or dependent clause modifies a word in the main clause, often through the use of a relative pronoun. The finite verb of the subordinate clause is the root of the clause, in the same way the finite verb is the root of the main clause. In the case of a subordinate clause, however, the finite verb (root) is dependent on the word in the main clause the subordinate clause modifies.
 
+#+BEGIN_src org
+| mæth | sa dant | skiæl | at | nar | hun | aff | gaar         |
+|      |         |       |    |     |     |     | ROOT (skiæl) |
+#+END_src org
 
 * Complex sentences
 ** Conjunctions
