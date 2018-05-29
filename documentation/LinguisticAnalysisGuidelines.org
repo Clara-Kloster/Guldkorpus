@@ -3,10 +3,23 @@
 * Lemmatization
 Forms for the lemmas are those from /Gammeldansk Ordbog/ (gammeldanskordbog.dk)
 
-** Normalization
+** Features of GDO's orthographic practice
 - Etymological /p t k/ given as such, e.g. /take/
 - Unstressed schwa is given as ⟨e⟩, e.g. /køpe/
 - Etymological /þ/ and /ð/ are given as ⟨th⟩, e.g. /then/
 - The semivowels /v j/ are given as such, e.g. /jorth/, /kvik/
 - Adjectives lack any nom.sg.masc. ending /*-r/, e.g. /goth/
 - The oldest possible form is given, e.g. /sva/ (not /÷sa/)
+
+* Normalization
+The normalized level will be given in modern Danish spelling:
+#+BEGIN_src org
+| Jæk | Annæ | Pæthærs=doter | hærræ | Michæl  | Rwds | æfter=lewende | helser | allæ |
+| Jeg | Anne | Pedersdatter  | herre | Michael | Ruds | efterlevende  | helser | alle |
+#+END_src
+
+However, the Late Middle/Early Modern morphology is retained. This is especially relevant for e.g. plural conjugations for verbs:
+#+BEGIN_src org
+| Alle | mæn  | thettæ | breff | see | ællær | høre | læsæt | Helssæ | wy |
+| Alle | mend | dette  | brev  | se  | eller | høre | læst  | helse  | vi |
+#+END_src
