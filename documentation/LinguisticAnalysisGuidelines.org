@@ -1,0 +1,12 @@
+#+TITLE: Guidelines for Linguistic Analysis
+
+* Lemmatization
+Forms for the lemmas are those from /Gammeldansk Ordbog/ (gammeldanskordbog.dk)
+
+** Normalization
+- Etymological /p t k/ given as such, e.g. /take/
+- Unstressed schwa is given as ⟨e⟩, e.g. /køpe/
+- Etymological /þ/ and /ð/ are given as ⟨th⟩, e.g. /then/
+- The semivowels /v j/ are given as such, e.g. /jorth/, /kvik/
+- Adjectives lack any nom.sg.masc. ending /*-r/, e.g. /goth/
+- The oldest possible form is given, e.g. /sva/ (not /÷sa/)
