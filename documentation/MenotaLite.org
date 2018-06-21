@@ -4,6 +4,7 @@
 |------------+--------+--------+------+---------|
 | xNC        | gMF    | nS     | cNAD | sI      |
 | xNP        | gN     | nP     | cG   | sD      |
+|            | gU     | nU     | cU   | sU      |
 |------------+--------+--------+------+---------|
 - NC :: Noun, common
 - NP :: Noun, proper
@@ -13,22 +14,68 @@
 | Word class | Grade | Gender | Number | Case | Species |
 |------------+-------+--------+--------+------+---------|
 | xAJ        | rP    | gMF    | nS     | cNAD | sD      |
-|            | rC    | gN     | nP     | cG   | SI      |
+|            | rC    | gN     | nP     | cG   | sI      |
 |            | rS    |        |        |      |         |
+|            | rU    | gU     | nU     | cU   | sU      |
 |------------+-------+--------+--------+------+---------|
+
+* Numerals (NA and NO)
+|------------+--------+--------+------+---------|
+| Word class | Gender | Number | Case | Species |
+|------------+--------+--------+------+---------|
+| xNO        | gMF    | nS     | cNAD | sD      |
+| xNA        | gN     | nP     | cG   | sI      |
+| xNU        | gU     | nU     | cU   | sU      |
+|------------+--------+--------+------+---------|
 
 * Pronouns and Determiners
 |------------+--------+--------+--------+------|
 | Word class | Person | Gender | Number | Case |
 |------------+--------+--------+--------+------|
 | xPE        | p1     | gM     | nS     | cN   |
-| xPR        | p2     | gF     | nP     | cAD  |
-| xPQ        | p3     | gN     |        | cG   |
-| xPI        |        |        |        |      |
-| xDD        |        |        |        |      |
-| xDQ        |        |        |        |      |
-| xDP        |        |        |        |      |
+|            | p2     | gF     | nP     | cAD  |
+|            | p3     | gN     |        | cG   |
 |------------+--------+--------+--------+------|
+
+|------------+--------+--------+------|
+| Word class | Gender | Number | Case |
+|------------+--------+--------+------|
+| xPQ        | gM     | nS     | cN   |
+|            | gF     | nP     | cAD  |
+|            | gN     |        | cG   |
+|------------+--------+--------+------|
+
+|------------+--------+--------+------|
+| Word class | Gender | Number | Case |
+|------------+--------+--------+------|
+| xPI        | gM     | nS     | cN   |
+|            | gF     | nP     | cAD  |
+|            | gN     |        | cG   |
+|------------+--------+--------+------|
+
+|------------+--------+--------+------|
+| Word class | Gender | Number | Case |
+|------------+--------+--------+------|
+| xDD        | gM     | nS     | cN   |
+|            | gF     | nP     | cAD  |
+|            | gN     |        | cG   |
+|------------+--------+--------+------|
+
+|------------+--------+--------+------|
+| Word class | Gender | Number | Case |
+|------------+--------+--------+------|
+| xDQ        | gM     | nS     | cN   |
+|            | gF     | nP     | cAD  |
+|            | gN     |        | cG   |
+|------------+--------+--------+------|
+
+|------------+--------+--------+------|
+| Word class | Gender | Number | Case |
+|------------+--------+--------+------|
+| xDP        | gM     | nS     | cN   |
+|            | gF     | nP     | cAD  |
+|            | gN     |        | cG   |
+|------------+--------+--------+------|
 
 - PE :: Pronoun, personal
 - PR :: Pronoun, reflexive
@@ -36,6 +83,16 @@
 - PI :: Pronoun, indefinite
 - DD :: Determiner, demonstrative
 - DQ :: Determiner, quantifier
+
+* Articles (AT)
+|------------+--------+--------+------+---------|
+| Word class | Gender | Number | Case | Species |
+|------------+--------+--------+------+---------|
+| xAT        | gMF    | nS     | cNAD | sD      |
+|            | gN     | nP     | cG   | sI      |
+|            |        |        |      |         |
+|            | gU     | nU     | cU   | sU      |
+|------------+--------+--------+------+---------|
 
 * Verbs (VB)
 ** Finite 
@@ -45,13 +102,15 @@
 | xVB        | fF         | tPS   | mIN  | nS     | vA    |
 |            |            | tPT   | mSU  | nP     | vR    |
 |            |            |       | mIP  |        |       |
+|            |            | tU    | mU   | nU     | vU    |
 |------------+------------+-------+------+--------+-------|
 ** Participles
 |------------+------------+-------+-------+--------+--------+------+---------|
 | Word class | Finiteness | Tense | Voice | Gender | Number | Case | Species |
 |------------+------------+-------+-------+--------+--------+------+---------|
-| xVB        | xP         | tPS   | vA    | gMF    | nS     | cNAD | sD      |
+| xVB        | fP         | tPS   | vA    | gMF    | nS     | cNAD | sD      |
 |            |            | tPT   | vR    | gN     | nP     | cG   | sI      |
+|            |            | tU    | vU    | gU     | nU     | cU   | sU      |
 |------------+------------+-------+-------+--------+--------+------+---------|
 ** Infinitives
 |------------+------------+-------|
@@ -59,6 +118,7 @@
 |------------+------------+-------|
 | xVB        | fI         | vA    |
 |            |            | vR    |
+|            |            | vU    |
 |------------+------------+-------|
 * Adverbs (AV)
 |------------+-------|
@@ -67,9 +127,11 @@
 | xAV        | rP    |
 |            | rC    |
 |            | rS    |
+|            | rU    |
 |------------+-------|
 * Uninflected categories
-- AP :: Preposition
+- AP :: Preposition (vi angiver ikke rektionsforhold)
+- RP :: Relative Particle
 - CC :: Conjunction, coordinating
 - CS :: Conjunction, subordinating
 - IM :: Infinitive marker
