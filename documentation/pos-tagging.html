@@ -1,0 +1,1015 @@
+<!doctype html>
+<html lang="da">
+<head>
+<title>Tag-set used for POS-tagging of Danish Medieval Charters</title>
+<!-- 2018-06-21 Thu 11:59 -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="generator" content="Org-mode">
+<meta name="author" content="Sean Vrieland &amp; Alex Speed Kjeldsen">
+
+<link  href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<style type="text/css">
+/* org mode styles on top of twbs */
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    font-size: 18px;
+    margin-bottom: 105px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 101px;
+    background-color: #f5f5f5;
+}
+
+footer > div {
+    padding: 10px;
+}
+
+footer p {
+    margin: 0 0 5px;
+    text-align: center;
+    font-size: 16px;
+}
+
+#table-of-contents {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+blockquote p {
+    font-size: 18px;
+}
+
+pre {
+    font-size: 16px;
+}
+
+.footpara {
+    display: inline-block;
+}
+
+figcaption {
+  font-size: 16px;
+  color: #666;
+  font-style: italic;
+  padding-bottom: 15px;
+}
+
+/* from twbs docs */
+
+.bs-docs-sidebar.affix {
+    position: static;
+}
+@media (min-width: 768px) {
+    .bs-docs-sidebar {
+        padding-left: 20px;
+    }
+}
+
+/* All levels of nav */
+.bs-docs-sidebar .nav > li > a {
+    display: block;
+    padding: 4px 20px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #999;
+}
+.bs-docs-sidebar .nav > li > a:hover,
+.bs-docs-sidebar .nav > li > a:focus {
+    padding-left: 19px;
+    color: #A1283B;
+    text-decoration: none;
+    background-color: transparent;
+    border-left: 1px solid #A1283B;
+}
+.bs-docs-sidebar .nav > .active > a,
+.bs-docs-sidebar .nav > .active:hover > a,
+.bs-docs-sidebar .nav > .active:focus > a {
+    padding-left: 18px;
+    font-weight: bold;
+    color: #A1283B;
+    background-color: transparent;
+    border-left: 2px solid #A1283B;
+}
+
+/* Nav: second level (shown on .active) */
+.bs-docs-sidebar .nav .nav {
+    display: none; /* Hide by default, but at >768px, show it */
+    padding-bottom: 10px;
+}
+.bs-docs-sidebar .nav .nav > li > a {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 30px;
+    font-size: 12px;
+    font-weight: normal;
+}
+.bs-docs-sidebar .nav .nav > li > a:hover,
+.bs-docs-sidebar .nav .nav > li > a:focus {
+    padding-left: 29px;
+}
+.bs-docs-sidebar .nav .nav > .active > a,
+.bs-docs-sidebar .nav .nav > .active:hover > a,
+.bs-docs-sidebar .nav .nav > .active:focus > a {
+    padding-left: 28px;
+    font-weight: 500;
+}
+
+/* Nav: third level (shown on .active) */
+.bs-docs-sidebar .nav .nav .nav {
+    padding-bottom: 10px;
+}
+.bs-docs-sidebar .nav .nav .nav > li > a {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 40px;
+    font-size: 12px;
+    font-weight: normal;
+}
+.bs-docs-sidebar .nav .nav .nav > li > a:hover,
+.bs-docs-sidebar .nav .nav .nav > li > a:focus {
+    padding-left: 39px;
+}
+.bs-docs-sidebar .nav .nav .nav > .active > a,
+.bs-docs-sidebar .nav .nav .nav > .active:hover > a,
+.bs-docs-sidebar .nav .nav .nav > .active:focus > a {
+    padding-left: 38px;
+    font-weight: 500;
+}
+
+/* Show and affix the side nav when space allows it */
+@media (min-width: 992px) {
+    .bs-docs-sidebar .nav > .active > ul {
+        display: block;
+    }
+    /* Widen the fixed sidebar */
+    .bs-docs-sidebar.affix,
+    .bs-docs-sidebar.affix-bottom {
+        width: 213px;
+    }
+    .bs-docs-sidebar.affix {
+        position: fixed; /* Undo the static from mobile first approach */
+        top: 20px;
+    }
+    .bs-docs-sidebar.affix-bottom {
+        position: absolute; /* Undo the static from mobile first approach */
+    }
+    .bs-docs-sidebar.affix .bs-docs-sidenav,.bs-docs-sidebar.affix-bottom .bs-docs-sidenav {
+        margin-top: 0;
+        margin-bottom: 0
+    }
+}
+@media (min-width: 1200px) {
+    /* Widen the fixed sidebar again */
+    .bs-docs-sidebar.affix-bottom,
+    .bs-docs-sidebar.affix {
+        width: 263px;
+    }
+}
+</style>
+<script type="text/javascript">
+$(function() {
+    'use strict';
+
+    $('.bs-docs-sidebar li').first().addClass('active');
+
+    $(document.body).scrollspy({target: '.bs-docs-sidebar'});
+
+    $('.bs-docs-sidebar').affix();
+});
+</script>
+</head>
+<body>
+<div id="content" class="container">
+<div class="row"><div class="col-md-9"><h1 class="title">Tag-set used for POS-tagging of Danish Medieval Charters</h1>
+
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> Nouns (NC and NP)</h2>
+<div class="outline-text-2" id="text-1">
+<table class="table table-striped table-bordered table-hover table-condensed">
+
+
+<colgroup>
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="text-left">Word class</th>
+<th scope="col" class="text-left">Gender</th>
+<th scope="col" class="text-left">Number</th>
+<th scope="col" class="text-left">Case</th>
+<th scope="col" class="text-left">Species</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="text-left">xNC</td>
+<td class="text-left">gMF</td>
+<td class="text-left">nS</td>
+<td class="text-left">cNAD</td>
+<td class="text-left">sI</td>
+</tr>
+
+<tr>
+<td class="text-left">xNP</td>
+<td class="text-left">gN</td>
+<td class="text-left">nP</td>
+<td class="text-left">cG</td>
+<td class="text-left">sD</td>
+</tr>
+
+<tr>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">gU</td>
+<td class="text-left">nU</td>
+<td class="text-left">cU</td>
+<td class="text-left">sU</td>
+</tr>
+</tbody>
+</table>
+<dl class="org-dl">
+<dt> NC </dt><dd>Noun, common
+</dd>
+<dt> NP </dt><dd>Noun, proper
+</dd>
+</dl>
+</div>
+</div>
+
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> Adjectives (AJ)</h2>
+<div class="outline-text-2" id="text-2">
+<table class="table table-striped table-bordered table-hover table-condensed">
+
+
+<colgroup>
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="text-left">Word class</th>
+<th scope="col" class="text-left">Grade</th>
+<th scope="col" class="text-left">Gender</th>
+<th scope="col" class="text-left">Number</th>
+<th scope="col" class="text-left">Case</th>
+<th scope="col" class="text-left">Species</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="text-left">xAJ</td>
+<td class="text-left">rP</td>
+<td class="text-left">gMF</td>
+<td class="text-left">nS</td>
+<td class="text-left">cNAD</td>
+<td class="text-left">sD</td>
+</tr>
+
+<tr>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">rC</td>
+<td class="text-left">gN</td>
+<td class="text-left">nP</td>
+<td class="text-left">cG</td>
+<td class="text-left">sI</td>
+</tr>
+
+<tr>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">rS</td>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">rU</td>
+<td class="text-left">gU</td>
+<td class="text-left">nU</td>
+<td class="text-left">cU</td>
+<td class="text-left">sU</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3"><span class="section-number-2">3</span> Numerals (NA and NO)</h2>
+<div class="outline-text-2" id="text-3">
+<table class="table table-striped table-bordered table-hover table-condensed">
+
+
+<colgroup>
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="text-left">Word class</th>
+<th scope="col" class="text-left">Gender</th>
+<th scope="col" class="text-left">Number</th>
+<th scope="col" class="text-left">Case</th>
+<th scope="col" class="text-left">Species</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="text-left">xNO</td>
+<td class="text-left">gMF</td>
+<td class="text-left">nS</td>
+<td class="text-left">cNAD</td>
+<td class="text-left">sD</td>
+</tr>
+
+<tr>
+<td class="text-left">xNA</td>
+<td class="text-left">gN</td>
+<td class="text-left">nP</td>
+<td class="text-left">cG</td>
+<td class="text-left">sI</td>
+</tr>
+
+<tr>
+<td class="text-left">xNU</td>
+<td class="text-left">gU</td>
+<td class="text-left">nU</td>
+<td class="text-left">cU</td>
+<td class="text-left">sU</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-sec-4" class="outline-2">
+<h2 id="sec-4"><span class="section-number-2">4</span> Pronouns and Determiners</h2>
+<div class="outline-text-2" id="text-4">
+<table class="table table-striped table-bordered table-hover table-condensed">
+
+
+<colgroup>
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="text-left">Word class</th>
+<th scope="col" class="text-left">Person</th>
+<th scope="col" class="text-left">Gender</th>
+<th scope="col" class="text-left">Number</th>
+<th scope="col" class="text-left">Case</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="text-left">xPE</td>
+<td class="text-left">p1</td>
+<td class="text-left">gM</td>
+<td class="text-left">nS</td>
+<td class="text-left">cN</td>
+</tr>
+
+<tr>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">p2</td>
+<td class="text-left">gF</td>
+<td class="text-left">nP</td>
+<td class="text-left">cAD</td>
+</tr>
+
+<tr>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">p3</td>
+<td class="text-left">gN</td>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">cG</td>
+</tr>
+</tbody>
+</table>
+
+<table class="table table-striped table-bordered table-hover table-condensed">
+
+
+<colgroup>
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="text-left">Word class</th>
+<th scope="col" class="text-left">Gender</th>
+<th scope="col" class="text-left">Number</th>
+<th scope="col" class="text-left">Case</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="text-left">xPQ</td>
+<td class="text-left">gM</td>
+<td class="text-left">nS</td>
+<td class="text-left">cN</td>
+</tr>
+
+<tr>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">gF</td>
+<td class="text-left">nP</td>
+<td class="text-left">cAD</td>
+</tr>
+
+<tr>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">gN</td>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">cG</td>
+</tr>
+</tbody>
+</table>
+
+<table class="table table-striped table-bordered table-hover table-condensed">
+
+
+<colgroup>
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="text-left">Word class</th>
+<th scope="col" class="text-left">Gender</th>
+<th scope="col" class="text-left">Number</th>
+<th scope="col" class="text-left">Case</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="text-left">xPI</td>
+<td class="text-left">gM</td>
+<td class="text-left">nS</td>
+<td class="text-left">cN</td>
+</tr>
+
+<tr>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">gF</td>
+<td class="text-left">nP</td>
+<td class="text-left">cAD</td>
+</tr>
+
+<tr>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">gN</td>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">cG</td>
+</tr>
+</tbody>
+</table>
+
+<table class="table table-striped table-bordered table-hover table-condensed">
+
+
+<colgroup>
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="text-left">Word class</th>
+<th scope="col" class="text-left">Gender</th>
+<th scope="col" class="text-left">Number</th>
+<th scope="col" class="text-left">Case</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="text-left">xDD</td>
+<td class="text-left">gM</td>
+<td class="text-left">nS</td>
+<td class="text-left">cN</td>
+</tr>
+
+<tr>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">gF</td>
+<td class="text-left">nP</td>
+<td class="text-left">cAD</td>
+</tr>
+
+<tr>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">gN</td>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">cG</td>
+</tr>
+</tbody>
+</table>
+
+<table class="table table-striped table-bordered table-hover table-condensed">
+
+
+<colgroup>
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="text-left">Word class</th>
+<th scope="col" class="text-left">Gender</th>
+<th scope="col" class="text-left">Number</th>
+<th scope="col" class="text-left">Case</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="text-left">xDQ</td>
+<td class="text-left">gM</td>
+<td class="text-left">nS</td>
+<td class="text-left">cN</td>
+</tr>
+
+<tr>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">gF</td>
+<td class="text-left">nP</td>
+<td class="text-left">cAD</td>
+</tr>
+
+<tr>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">gN</td>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">cG</td>
+</tr>
+</tbody>
+</table>
+
+<table class="table table-striped table-bordered table-hover table-condensed">
+
+
+<colgroup>
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="text-left">Word class</th>
+<th scope="col" class="text-left">Gender</th>
+<th scope="col" class="text-left">Number</th>
+<th scope="col" class="text-left">Case</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="text-left">xDP</td>
+<td class="text-left">gM</td>
+<td class="text-left">nS</td>
+<td class="text-left">cN</td>
+</tr>
+
+<tr>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">gF</td>
+<td class="text-left">nP</td>
+<td class="text-left">cAD</td>
+</tr>
+
+<tr>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">gN</td>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">cG</td>
+</tr>
+</tbody>
+</table>
+
+<dl class="org-dl">
+<dt> PE </dt><dd>Pronoun, personal
+</dd>
+<dt> PR </dt><dd>Pronoun, reflexive
+</dd>
+<dt> PQ </dt><dd>Pronoun, interrogative
+</dd>
+<dt> PI </dt><dd>Pronoun, indefinite
+</dd>
+<dt> DD </dt><dd>Determiner, demonstrative
+</dd>
+<dt> DQ </dt><dd>Determiner, quantifier
+</dd>
+</dl>
+</div>
+</div>
+
+<div id="outline-container-sec-5" class="outline-2">
+<h2 id="sec-5"><span class="section-number-2">5</span> Articles (AT)</h2>
+<div class="outline-text-2" id="text-5">
+<table class="table table-striped table-bordered table-hover table-condensed">
+
+
+<colgroup>
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="text-left">Word class</th>
+<th scope="col" class="text-left">Gender</th>
+<th scope="col" class="text-left">Number</th>
+<th scope="col" class="text-left">Case</th>
+<th scope="col" class="text-left">Species</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="text-left">xAT</td>
+<td class="text-left">gMF</td>
+<td class="text-left">nS</td>
+<td class="text-left">cNAD</td>
+<td class="text-left">sD</td>
+</tr>
+
+<tr>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">gN</td>
+<td class="text-left">nP</td>
+<td class="text-left">cG</td>
+<td class="text-left">sI</td>
+</tr>
+
+<tr>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">gU</td>
+<td class="text-left">nU</td>
+<td class="text-left">cU</td>
+<td class="text-left">sU</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-sec-6" class="outline-2">
+<h2 id="sec-6"><span class="section-number-2">6</span> Verbs (VB)</h2>
+<div class="outline-text-2" id="text-6">
+</div><div id="outline-container-sec-6-1" class="outline-3">
+<h3 id="sec-6-1"><span class="section-number-3">6.1</span> Finite</h3>
+<div class="outline-text-3" id="text-6-1">
+<table class="table table-striped table-bordered table-hover table-condensed">
+
+
+<colgroup>
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="text-left">Word class</th>
+<th scope="col" class="text-left">Finiteness</th>
+<th scope="col" class="text-left">Tense</th>
+<th scope="col" class="text-left">Mood</th>
+<th scope="col" class="text-left">Number</th>
+<th scope="col" class="text-left">Voice</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="text-left">xVB</td>
+<td class="text-left">fF</td>
+<td class="text-left">tPS</td>
+<td class="text-left">mIN</td>
+<td class="text-left">nS</td>
+<td class="text-left">vA</td>
+</tr>
+
+<tr>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">tPT</td>
+<td class="text-left">mSU</td>
+<td class="text-left">nP</td>
+<td class="text-left">vR</td>
+</tr>
+
+<tr>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">mIP</td>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">tU</td>
+<td class="text-left">mU</td>
+<td class="text-left">nU</td>
+<td class="text-left">vU</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="outline-container-sec-6-2" class="outline-3">
+<h3 id="sec-6-2"><span class="section-number-3">6.2</span> Participles</h3>
+<div class="outline-text-3" id="text-6-2">
+<table class="table table-striped table-bordered table-hover table-condensed">
+
+
+<colgroup>
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="text-left">Word class</th>
+<th scope="col" class="text-left">Finiteness</th>
+<th scope="col" class="text-left">Tense</th>
+<th scope="col" class="text-left">Voice</th>
+<th scope="col" class="text-left">Gender</th>
+<th scope="col" class="text-left">Number</th>
+<th scope="col" class="text-left">Case</th>
+<th scope="col" class="text-left">Species</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="text-left">xVB</td>
+<td class="text-left">fP</td>
+<td class="text-left">tPS</td>
+<td class="text-left">vA</td>
+<td class="text-left">gMF</td>
+<td class="text-left">nS</td>
+<td class="text-left">cNAD</td>
+<td class="text-left">sD</td>
+</tr>
+
+<tr>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">tPT</td>
+<td class="text-left">vR</td>
+<td class="text-left">gN</td>
+<td class="text-left">nP</td>
+<td class="text-left">cG</td>
+<td class="text-left">sI</td>
+</tr>
+
+<tr>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">tU</td>
+<td class="text-left">vU</td>
+<td class="text-left">gU</td>
+<td class="text-left">nU</td>
+<td class="text-left">cU</td>
+<td class="text-left">sU</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="outline-container-sec-6-3" class="outline-3">
+<h3 id="sec-6-3"><span class="section-number-3">6.3</span> Infinitives</h3>
+<div class="outline-text-3" id="text-6-3">
+<table class="table table-striped table-bordered table-hover table-condensed">
+
+
+<colgroup>
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="text-left">Word class</th>
+<th scope="col" class="text-left">Finiteness</th>
+<th scope="col" class="text-left">Voice</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="text-left">xVB</td>
+<td class="text-left">fI</td>
+<td class="text-left">vA</td>
+</tr>
+
+<tr>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">vR</td>
+</tr>
+
+<tr>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">vU</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-7" class="outline-2">
+<h2 id="sec-7"><span class="section-number-2">7</span> Adverbs (AV)</h2>
+<div class="outline-text-2" id="text-7">
+<table class="table table-striped table-bordered table-hover table-condensed">
+
+
+<colgroup>
+<col  class="left">
+
+<col  class="left">
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="text-left">Word class</th>
+<th scope="col" class="text-left">Grade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="text-left">xAV</td>
+<td class="text-left">rP</td>
+</tr>
+
+<tr>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">rC</td>
+</tr>
+
+<tr>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">rS</td>
+</tr>
+
+<tr>
+<td class="text-left">&#xa0;</td>
+<td class="text-left">rU</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="outline-container-sec-8" class="outline-2">
+<h2 id="sec-8"><span class="section-number-2">8</span> Uninflected categories</h2>
+<div class="outline-text-2" id="text-8">
+<ul class="org-ul">
+<li>AP: Preposition (we do not specify what the prepositions govern)
+</li>
+<li>RP: Relative Particle
+</li>
+<li>CC: Conjunction, coordinating
+</li>
+<li>CS: Conjunction, subordinating
+</li>
+<li>IM: Infinitive marker
+</li>
+<li>IT: Interjection
+</li>
+<li>UA: Unassigned
+</li>
+<li>FW: Foreign word
+</li>
+</ul>
+</div>
+</div>
+</div><div class="col-md-3"><nav id="table-of-contents">
+<div id="text-table-of-contents" class="bs-docs-sidebar">
+<ul class="nav">
+<li><a href="#sec-1">1. Nouns (NC and NP)</a></li>
+<li><a href="#sec-2">2. Adjectives (AJ)</a></li>
+<li><a href="#sec-3">3. Numerals (NA and NO)</a></li>
+<li><a href="#sec-4">4. Pronouns and Determiners</a></li>
+<li><a href="#sec-5">5. Articles (AT)</a></li>
+<li><a href="#sec-6">6. Verbs (VB)</a>
+<ul class="nav">
+<li><a href="#sec-6-1">6.1. Finite</a></li>
+<li><a href="#sec-6-2">6.2. Participles</a></li>
+<li><a href="#sec-6-3">6.3. Infinitives</a></li>
+</ul>
+</li>
+<li><a href="#sec-7">7. Adverbs (AV)</a></li>
+<li><a href="#sec-8">8. Uninflected categories</a></li>
+</ul>
+</div>
+</nav>
+</div></div></div>
+<footer id="postamble" class="">
+<div><p class="author">Forfatter: Sean Vrieland &amp; Alex Speed Kjeldsen</p>
+<p class="date">Created: 2018-06-21 Thu 11:59</p>
+<p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 27.0.50 (<a href="http://orgmode.org">Org-mode</a> 9.1.7)</p>
+</div>
+</footer>
+</body>
+</html>
