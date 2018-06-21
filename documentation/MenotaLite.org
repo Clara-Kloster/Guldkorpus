@@ -1,0 +1,78 @@
+* Nouns (NC and NP)
+|------------+--------+--------+------+---------|
+| Word class | Gender | Number | Case | Species |
+|------------+--------+--------+------+---------|
+| xNC        | gMF    | nS     | cNAD | sI      |
+| xNP        | gN     | nP     | cG   | sD      |
+|------------+--------+--------+------+---------|
+- NC :: Noun, common
+- NP :: Noun, proper
+
+* Adjectives (AJ)
+|------------+-------+--------+--------+------+---------|
+| Word class | Grade | Gender | Number | Case | Species |
+|------------+-------+--------+--------+------+---------|
+| xAJ        | rP    | gMF    | nS     | cNAD | sD      |
+|            | rC    | gN     | nP     | cG   | SI      |
+|            | rS    |        |        |      |         |
+|------------+-------+--------+--------+------+---------|
+
+* Pronouns and Determiners
+|------------+--------+--------+--------+------|
+| Word class | Person | Gender | Number | Case |
+|------------+--------+--------+--------+------|
+| xPE        | p1     | gM     | nS     | cN   |
+| xPR        | p2     | gF     | nP     | cAD  |
+| xPQ        | p3     | gN     |        | cG   |
+| xPI        |        |        |        |      |
+| xDD        |        |        |        |      |
+| xDQ        |        |        |        |      |
+| xDP        |        |        |        |      |
+|------------+--------+--------+--------+------|
+
+- PE :: Pronoun, personal
+- PR :: Pronoun, reflexive
+- PQ :: Pronoun, interrogative
+- PI :: Pronoun, indefinite
+- DD :: Determiner, demonstrative
+- DQ :: Determiner, quantifier
+
+* Verbs (VB)
+** Finite 
+|------------+------------+-------+------+--------+-------|
+| Word class | Finiteness | Tense | Mood | Number | Voice |
+|------------+------------+-------+------+--------+-------|
+| xVB        | fF         | tPS   | mIN  | nS     | vA    |
+|            |            | tPT   | mSU  | nP     | vR    |
+|            |            |       | mIP  |        |       |
+|------------+------------+-------+------+--------+-------|
+** Participles
+|------------+------------+-------+-------+--------+--------+------+---------|
+| Word class | Finiteness | Tense | Voice | Gender | Number | Case | Species |
+|------------+------------+-------+-------+--------+--------+------+---------|
+| xVB        | xP         | tPS   | vA    | gMF    | nS     | cNAD | sD      |
+|            |            | tPT   | vR    | gN     | nP     | cG   | sI      |
+|------------+------------+-------+-------+--------+--------+------+---------|
+** Infinitives
+|------------+------------+-------|
+| Word class | Finiteness | Voice |
+|------------+------------+-------|
+| xVB        | fI         | vA    |
+|            |            | vR    |
+|------------+------------+-------|
+* Adverbs (AV)
+|------------+-------|
+| Word class | Grade |
+|------------+-------|
+| xAV        | rP    |
+|            | rC    |
+|            | rS    |
+|------------+-------|
+* Uninflected categories
+- AP :: Preposition
+- CC :: Conjunction, coordinating
+- CS :: Conjunction, subordinating
+- IM :: Infinitive marker
+- IT :: Interjection
+- UA :: Unassigned
+- FW :: Foreign word
