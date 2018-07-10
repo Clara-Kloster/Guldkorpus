@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.menota.org/menotaP5.rng" type="xml" ?>
+<!DOCTYPE TEI
+[
+<!ENTITY % Menota_entities SYSTEM
+'http://www.menota.org/menota-entities.txt' >
+%Menota_entities;
+<!ENTITY % Extra-entities SYSTEM
+'ExtraEntities.txt' >
+%Extra-entities;]>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:me="http://www.menota.org/ns/1.0">
+<teiHeader/>
+<text>
+<body>
+<lb n="1"/>
+<w>AM</w><w>Dipl.</w><w>Dan.</w><w>56,27r.</w><lb n="2"/>
+<w>Om̅ibus</w><w>pn̅s</w><w>ſcptu̅</w><w>cnentibꝫ/</w><w>petrus</w><w>grubbæ</w><w>ꝺe</w><w>oꝛæbyærgh/</w><w>ꜱalt̅m</w><w>ín</w><w>ꝺn̅o</w><w>ſempitna̅.</w><w>Notͫ</w><w>facío</w><lb n="3"/>
+<w>ỽniu͛ſís/</w><w>ꝙ</w><w>olenꝺínu̅</w><w>qͦꝺꝺam/</w><w>pᷙ</w><w>thoꝛſlunꝺæ</w><w>litlæ</w><w>ín</w><w>litlæh/</w><w>ſitͫ//</w><w>qͦnꝺa̅</w><w>he̅míngo</w><w>pæt͛</w><w>bone</w><lb n="4"/>
+<w>memoꝛíe</w><w>pꝛ̅i</w><w>ꝺilc̅e</w><w>ꝯſoꝛtís</w><w>mee/</w><w>p̲</w><w>pet᷑m</w><w>ꝺc̅m</w><w>ſnubbæ/</w><w>ꝓ</w><w>ꝺucentís</w><w></w><w>oogínt</w><w>mr</w><w>ꝺen͛</w><w>ỽſul̅</w><lb n="5"/>
+<w>monete</w><w>ſyellenꝺen̅</w><w>impign͛atͫ/</w><w>placito</w><w>litlæh͛</w><w>ꝓxiͦ</w><w>n̅</w><w>ꝺie̅</w><w>be̅i</w><w>nicholí</w><w>nní</w><w>cuicu̅qꝫ</w><w>Reꝺí=</w><lb n="6"/>
+<w>m̅ꝺu̅</w><w>quoꝺ</w><w>qꝺem</w><w>molenꝺínu̅</w><w>boeci</w><w>ꝺyræ</w><w>cui</w><w>i̅e</w><w>ícíet/</w><w>ꝺe</w><w>ꝺilc̅e</w><w>mee</w><w>ỽxoꝛís</w><w>mꝛit</w><lb n="7"/>
+<w>ꝺn̅o</w><w>bboní</w><w>Joh̅is</w><w>canoníco</w><w>Roſkilꝺen̅/</w><w>ín</w><w>Reco̅penſam</w><w>ꝓ</w><w>bonís</w><w>ſuís</w><w>ín</w><w>Ríngſbyærgh</w><w>byæu͛=</w><lb n="8"/>
+<w>ſcoghſh͛/</w><w>Retbuít</w><w></w><w>ſcotauít/</w><w>xhi̅toꝛí</w><w>pn̅c</w><w>Joh̅i</w><w>mgnuſ/</w><w>ꝺ</w><w>mn</w><w>ſuꜱ</w><w>cͫ</w><w>iuribꝫ</w><lb n="9"/>
+<w></w><w>cauſís</w><w>qbꝫ</w><w>m</w><w>ſtare</w><w>ꝺínoſcít</w><w>ꝺímítto</w><w></w><w>Reſigno</w><w>p̲</w><w>pn̅tes/</w><w>ꝓ</w><w>ſuís</w><w>ỽſibꝫ</w><w></w><w>h͛eꝺͫ</w><w>ſuoꝝ</w><lb n="10"/>
+<w>lib͛e</w><w>oꝛꝺínanꝺu̅/</w><w>Jn</w><w>cui</w><w>Reí</w><w>teſtimoͫ</w><w>ſigll̅m</w><w>meu̅</w><w>pn̅tibꝫ</w><w>eſt</w><w>enſum.</w><w>ꝺtͫ</w><w>̅no</w><w>ꝺn̅i</w><lb n="11"/>
+<w>ͦ(.)</w><w>cccͦ(.)</w><w>xxxͦ(.)</w><w>ſexto/</w><w>ſabb̅o</w><w>ꝓxímo</w><w>poſt</w><w>oaua̅</w><w>coꝛp̲is</w><w>xp̅i.</w><lb n="12"/>
+<w>[2-11-301]</w></body>
+</text>
+</TEI>
