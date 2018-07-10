@@ -313,7 +313,6 @@ and potentially further parts of the word. The format for the position
 is always the same; the multiple elements are separated by an m-dash
 (e.g. 123v-09---123v-10).
 
-
 *** Page breaks, line breaks and column breaks (including hyphenation)
 Markup for page breaks, line breaks, column breaks
  is treated differently depending on whether the milestone
@@ -410,7 +409,6 @@ other supplied characters. If it is wrapped in =<me:punct>= (inside of a word) w
 was wrapped in =<supplied>= the only difference being that potential information
 about the reason for the supplement, i.e. =omitted= or =illegible= is expected
 to be the value of =@subtype= instead of =@reason=.
-
 
 *** Gathering boundaries, hand shift, gaps (when not indicating lost words), space and metamarks 
 While metamarks are expected
@@ -725,7 +723,6 @@ The ninth field of a beginning line reads in the value of any present
 =@source= attribute. The end line does not repeat this information.
 
 The remaining fields are currently left empty.
-
 
 *** Editorial markup for parts of words or inside of words
 
