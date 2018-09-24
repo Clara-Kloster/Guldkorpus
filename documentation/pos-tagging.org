@@ -2,7 +2,7 @@
 #+AUTHOR: Sean Vrieland & Alex Speed Kjeldsen
 #+EMAIL: sean.vrieland@hum.ku.dk & alex@hum.ku.dk    
 
-* Nouns (NC and NP)
+* Nouns (xNC and xNP)
 |------------+--------+--------+------+---------|
 | Word class | Gender | Number | Case | Species |
 |------------+--------+--------+------+---------|
@@ -10,10 +10,10 @@
 | xNP        | gN     | nP     | cG   | sD      |
 |            | gU     | nU     | cU   | sU      |
 |------------+--------+--------+------+---------|
-- NC :: Noun, common
-- NP :: Noun, proper
+ - xNC: Noun, common
+ - xNP: Noun, proper
 
-* Adjectives (AJ)
+* Adjectives (xAJ)
 |------------+-------+--------+--------+------+---------|
 | Word class | Grade | Gender | Number | Case | Species |
 |------------+-------+--------+--------+------+---------|
@@ -23,7 +23,7 @@
 |            | rU    | gU     | nU     | cU   | sU      |
 |------------+-------+--------+--------+------+---------|
 
-* Numerals (NA and NO)
+* Numerals (xNA and xNO)
 |------------+--------+--------+------+---------|
 | Word class | Gender | Number | Case | Species |
 |------------+--------+--------+------+---------|
@@ -32,7 +32,7 @@
 | xNU        | gU     | nU     | cU   | sU      |
 |------------+--------+--------+------+---------|
 
-* Pronouns and Determiners
+* Pronouns and Determiners (xPE, xPQ, xPI, xDD, xDQ, xDP)
 |------------+--------+--------+--------+------|
 | Word class | Person | Gender | Number | Case |
 |------------+--------+--------+--------+------|
@@ -81,12 +81,12 @@
 |            | gN     |        | cG   |
 |------------+--------+--------+------|
 
-- PE :: Pronoun, personal
-- PR :: Pronoun, reflexive
-- PQ :: Pronoun, interrogative
-- PI :: Pronoun, indefinite
-- DD :: Determiner, demonstrative
-- DQ :: Determiner, quantifier
+ - xPE: Pronoun, personal
+ - xPQ: Pronoun, interrogative
+ - xPI: Pronoun, indefinite
+ - xDD: Determiner, demonstrative
+ - xDQ: Determiner, quantifier
+ - xDP: Determiner, possessive
 
 * Articles (AT)
 |------------+--------+--------+------+---------|
@@ -94,12 +94,11 @@
 |------------+--------+--------+------+---------|
 | xAT        | gMF    | nS     | cNAD | sD      |
 |            | gN     | nP     | cG   | sI      |
-|            |        |        |      |         |
 |            | gU     | nU     | cU   | sU      |
 |------------+--------+--------+------+---------|
 
-* Verbs (VB)
-** Finite 
+* Verbs (xVB)
+** Finite (xVB fF)
 |------------+------------+-------+------+--------+-------|
 | Word class | Finiteness | Tense | Mood | Number | Voice |
 |------------+------------+-------+------+--------+-------|
@@ -108,7 +107,7 @@
 |            |            |       | mIP  |        |       |
 |            |            | tU    | mU   | nU     | vU    |
 |------------+------------+-------+------+--------+-------|
-** Participles
+** Participles (xVB fP)
 |------------+------------+-------+-------+--------+--------+------+---------|
 | Word class | Finiteness | Tense | Voice | Gender | Number | Case | Species |
 |------------+------------+-------+-------+--------+--------+------+---------|
@@ -116,7 +115,7 @@
 |            |            | tPT   | vR    | gN     | nP     | cG   | sI      |
 |            |            | tU    | vU    | gU     | nU     | cU   | sU      |
 |------------+------------+-------+-------+--------+--------+------+---------|
-** Infinitives
+** Infinitives (xVB fI)
 |------------+------------+-------|
 | Word class | Finiteness | Voice |
 |------------+------------+-------|
@@ -124,7 +123,8 @@
 |            |            | vR    |
 |            |            | vU    |
 |------------+------------+-------|
-* Adverbs (AV)
+
+* Adverbs (xAV)
 |------------+-------|
 | Word class | Grade |
 |------------+-------|
@@ -133,12 +133,13 @@
 |            | rS    |
 |            | rU    |
 |------------+-------|
+
 * Uninflected categories
-- AP: Preposition (we do not specify what the prepositions govern)
-- RP: Relative Particle
-- CC: Conjunction, coordinating
-- CS: Conjunction, subordinating
-- IM: Infinitive marker
-- IT: Interjection
-- UA: Unassigned
-- FW: Foreign word
+ - xAP: Preposition (we do not specify what the prepositions govern)
+ - xRP: Relative Particle
+ - xCC: Conjunction, coordinating
+ - xCS: Conjunction, subordinating
+ - xIM: Infinitive marker
+ - xIT: Interjection
+ - xUA: Unassigned
+ - xFW: Foreign word
