@@ -10821,3 +10821,274 @@ Efter lidt oprydning i listen ender vi med det følgende:
                    (mt-import-correct-numerals)
                    (save-buffer)
                    (kill-buffer)))
+
+** Tekstnummer-fasc-korrespondencer
+(loop for i in '(16
+                 43
+                 68
+                 76
+                 77
+                 78
+                 79
+                 80
+                 81
+                 82
+                 83
+                 85
+                 86
+                 87
+                 88
+                 89
+                 90
+                 91
+                 92
+                 93
+                 104
+                 113
+                 115
+                 116
+                 117
+                 118
+                 119
+                 120
+                 121
+                 122
+                 123
+                 124
+                 125
+                 129
+                 144
+                 145
+                 146
+                 147
+                 148
+                 149
+                 150
+                 151
+                 172
+                 178
+                 180
+                 188
+                 189
+                 190
+                 191
+                 192
+                 193
+                 211
+                 212
+                 213
+                 214
+                 215
+                 216
+                 217
+                 218
+                 219
+                 220
+                 221
+                 222
+                 223
+                 224
+                 226
+                 228
+                 229
+                 230
+                 232
+                 234
+                 235
+                 236
+                 237
+                 238
+                 239
+                 240
+                 241
+                 242
+                 243
+                 244
+                 245
+                 246
+                 247
+                 249
+                 250
+                 251
+                 252
+                 254
+                 255
+                 256
+                 257
+                 258
+                 259
+                 260
+                 263
+                 264
+                 265
+                 266
+                 267
+                 268
+                 269
+                 270
+                 271
+                 272
+                 321
+                 338
+                 363
+                 371
+                 390
+                 394
+                 418
+                 419
+                 429
+                 432
+                 428
+                 454
+                 455
+                 456
+                 458
+                 459
+                 460
+                 462
+                 463
+                 464
+                 465
+                 467
+                 468
+                 469
+                 470
+                 385
+                 403
+                 423) do
+                 (insert (cdr (assoc (number-to-string i) *mt-import-klara-number-fasc-mapping*)))
+                 (insert "\n"))
+** Filer der skal laves 7/11-18
+"~/Dropbox/Guldkorpus/transcriptions/txt/LI_3.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LI_30.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LII_24.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LII_32.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LII_33.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LII_34.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LII_35.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LII_36.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LII_37.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LII_38.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LII_39.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LII_41.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LII_42.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LII_43.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LII_44.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LII_45.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LII_46.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LII_47.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LII_48.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LII_49.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LIII_11.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LIII_20.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LIII_22.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LIII_23.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LIII_24.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LIII_25.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LIII_26.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LIII_27.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LIII_28.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LIII_29.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LIII_30.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LIII_31.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LIII_32.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LIV_4.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LIV_17.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LIV_18.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LIV_19.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LIV_20.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LIV_21.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LIV_22.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LIV_22.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LIV_23.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LV_16.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LV_22.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LV_24.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVI_5.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVI_6.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVI_7.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVI_8.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVI_9.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVI_10.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVI_28.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVI_29.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVI_30.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVI_31.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVI_32.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVI_33.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVI_34.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVI_35.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVI_36.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVI_37.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVI_38.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVI_39.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVI_40.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVI_41.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVII_2.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVII_4.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVII_5.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVII_6.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVII_7.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVII_9.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVII_10.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVII_11.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVII_12.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVII_13.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVII_13.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVII_14.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVII_15.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVII_16.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVII_17.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVII_18.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVII_19.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVII_20.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVII_21.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVII_23.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVII_23.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVII_24.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVII_25.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVII_26b.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVII_27.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVII_28.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVII_29.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVIII_1.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVIII_2.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVIII_3.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVIII_6.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVIII_7.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVIII_8.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVIII_9.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVIII_10.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVIII_11.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVIII_12.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVIII_13.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVIII_14.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LVIII_15.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LX_9.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LX_26.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LXI_13.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LXI_21.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LXII_7.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LXII_11.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LXIII_17.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LXIII_18.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LXIII_28.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LXIV_2.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LXIII_27.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LXIV_24.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LXIV_25.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LXIV_26.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LXIV_28.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LXIV_29.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LXIV_30.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LXIV_32.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LXIV_33.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LXIV_34.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LXIV_35.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LXIV_37.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LXIV_38.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LXIV_39.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LXIV_40.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LXII_2.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LXIII_2.txt"
+"~/Dropbox/Guldkorpus/transcriptions/txt/LXIII_22.txt"
