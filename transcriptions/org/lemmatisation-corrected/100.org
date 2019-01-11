@@ -20,198 +20,200 @@
 
 
 *** Transcription
-| :s: |        |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
-| pm  | 1r     |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
-| lm  | 100-01 |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
-| w   |        | omnis       | ADJ            |   |omnibus            | Om(n)ib(us)       | Om̅ıbꝫ        |   |   |   |   | lat |   |   |   |        100-01 |
-| w   |        | preso       | VERB           |   |presens            | p(re)sens         | p͛ſens        |   |   |   |   | lat |   |   |   |        100-01 |
-| w   |        | scribo      | VERB           |   |scriptum           | sc(ri)ptum        | scptu      |   |   |   |   | lat |   |   |   |        100-01 |
-| w   |        | cerno       | VERB           |   |cernentibus        | C(er)ne(n)tib(us) | C͛ne̅tıbꝫ      |   |   |   |   | lat |   |   |   |        100-01 |
-| p   |        | .           | PUNCT          |   |.                  | .                 | .            |   |   |   |   | lat |   |   |   |        100-01 |
-| PE  | b      |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
-| w   |        | niels       | NOUN           |   |niels              | N(iels)           | N.           |   |   |   |   | lat |   |   |   |        100-01 |
-| w   |        | herman      | PROPN          |   |herman             | h(er)man          | h͛m         |   |   |   |   | lat |   |   |   |        100-01 |
-| w   |        | sun         | PROPN          |   |sun                | sun               | ſu          |   |   |   |   | lat |   |   |   |        100-01 |
-| PE  | e      |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
-| p   |        | .           | PUNCT          |   |.                  | .                 | .            |   |   |   |   | lat |   |   |   |        100-01 |
-| w   |        | ciuis       | NOUN           |   |ciuis              | Ciuis             | Cíuís        |   |   |   |   | lat |   |   |   |        100-01 |
-| PL  | b      |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
-| w   |        | roskildendo | NOUN           |   |roskildensis       | Roskilden(sis)    | ɼoskılꝺen̅    |   |   |   |   | lat |   |   |   |        100-01 |
-| PL  | e      |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
-| w   |        | in          | ADP            |   |in                 | in                | ín           |   |   |   |   | lat |   |   |   |        100-01 |
-| w   |        | dominus     | NOUN           |   |domino             | d(omi)no          | ꝺn̅o          |   |   |   |   | lat |   |   |   |        100-01 |
-| w   |        | saluto      | NOUN           |   |salutem            | Sal(u)t(e)m       | Slt̅m        |   |   |   |   | lat |   |   |   |        100-01 |
-| w   |        | nosco       | VERB           |   |notum              | Notum             | Notu        |   |   |   |   | lat |   |   |   |        100-01 |
-| w   |        | edo         | AUX            |   |esse               | esse              | eſſe         |   |   |   |   | lat |   |   |   |        100-01 |
-| w   |        | uolo        | VERB           |   |uolo               | volo              | ỽolo         |   |   |   |   | lat |   |   |   |        100-01 |
-| p   |        | .           | PUNCT          |   |.                  | .                 | .            |   |   |   |   | lat |   |   |   |        100-01 |
-| w   |        | preso       | NOUN           |   |presentibus        | p(re)sentib(us)   | p͛ſentıbꝫ     |   |   |   |   | lat |   |   |   |        100-01 |
-| lm  | 100-02 |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
-| w   |        | et          | CCONJ          |   |et                 | (et)              |             |   |   |   |   | lat |   |   |   |        100-02 |
-| w   |        | posterus    | ADJ            |   |posteros           | post(er)os        | poﬅ͛os        |   |   |   |   | lat |   |   |   |        100-02 |
-| w   |        | non         | ADV            |   |non                | no(n)             | no̅           |   |   |   |   | lat |   |   |   |        100-02 |
-| w   |        | later       | VERB           |   |latere             | lat(er)e          | lt͛e         |   |   |   |   | lat |   |   |   |        100-02 |
-| w   |        | qui         | SCONJ          |   |quod               | q(uo)d            | q           |   |   |   |   | lat |   |   |   |        100-02 |
-| w   |        | curia       | NOUN           |   |curiam             | Curiam            | Curí       |   |   |   |   | lat |   |   |   |        100-02 |
-| w   |        | meus        | ADJ            |   |meam               | meam              | mem         |   |   |   |   | lat |   |   |   |        100-02 |
-| w   |        | queo        | CCONJ          |   |que                | que               | que          |   |   |   |   | lat |   |   |   |        100-02 |
-| w   |        | dico        | VERB           |   |dicitur            | dicit(ur)         | ꝺícít᷑        |   |   |   |   | lat |   |   |   |        100-02 |
-| PL  | b      |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
-| w   |        | lothenstofo | VERB           |   |lothenstoft        | lothenstoft       | lothenstoft  |   |   |   |   | lat |   |   |   |        100-02 |
-| PL  | e      |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
-| w   |        | in          | ADP            |   |in                 | in                | ín           |   |   |   |   | lat |   |   |   |        100-02 |
-| w   |        | parrochia   | NOUN           |   |parrochia          | p(ar)rochia       | ꝑrochía      |   |   |   |   | lat |   |   |   |        100-02 |
-| w   |        | beatus      | ADJ            |   |beati              | b(eat)i           | bı̅           |   |   |   |   | lat |   |   |   |        100-02 |
-| w   |        | martinus    | ADJ            |   |martini            | martini           | mrtíní      |   |   |   |   | lat |   |   |   |        100-02 |
-| w   |        | sio         | VERB           |   |sitam              | sitam             | ſít        |   |   |   |   | lat |   |   |   |        100-02 |
-| w   |        | cum         | ADP            |   |cum                | cu(m)             | cu̅           |   |   |   |   | lat |   |   |   |        100-02 |
-| w   |        | domus       | NOUN           |   |domibus            | domib(us)         | ꝺomıbꝫ       |   |   |   |   | lat |   |   |   |        100-02 |
-| lm  | 100-03 |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
-| w   |        | terra       | NOUN           |   |terris             | t(er)ris          | t͛ríſ         |   |   |   |   | lat |   |   |   |        100-03 |
-| w   |        | atque       | CCONJ          |   |ac                 | ac                | c           |   |   |   |   | lat |   |   |   |        100-03 |
-| w   |        | is          | PRON           |   |eius               | eius              | eíuſ         |   |   |   |   | lat |   |   |   |        100-03 |
-| w   |        | attinencia  | NOUN           |   |attinenciis        | attine(n)ciis     | ttıne̅cíís   |   |   |   |   | lat |   |   |   |        100-03 |
-| w   |        | uniuersus   | ADJ            |   |uniuersis          | vniu(er)sis       | ỽnıu͛ſís      |   |   |   |   | lat |   |   |   |        100-03 |
-| w   |        | is          | PRON           |   |eo                 | eo                | eo           |   |   |   |   | lat |   |   |   |        100-03 |
-| w   |        | ius         | NOUN           |   |iure               | jure              | ȷure         |   |   |   |   | lat |   |   |   |        100-03 |
-| w   |        | eoquus      | PRON           |   |eoque              | eo q(ue)          | eo qꝫ        |   |   |   |   | lat |   |   |   |        100-03 |
-| w   |        | modus       | NOUN           |   |modo               | modo              | moꝺo         |   |   |   |   | lat |   |   |   |        100-03 |
-| p   |        | .           | PUNCT          |   |.                  | .                 | .            |   |   |   |   | lat |   |   |   |        100-03 |
-| w   |        | quo         | PRON           |   |quo                | quo               | quo          |   |   |   |   | lat |   |   |   |        100-03 |
-| w   |        | dominus     | NOUN           |   |dominus            | d(omi)n(u)s       | ꝺn̅s          |   |   |   |   | lat |   |   |   |        100-03 |
-| PE  | b      |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
-| w   |        | thrugotus   | NOUN           |   |thrugotus          | Thrugot(us)       | Thrugot     |   |   |   |   | lat |   |   |   |        100-03 |
-| w   |        | romelde     | ADV            |   |romelde            | romelde           | ɼomelꝺe      |   |   |   |   | lat |   |   |   |        100-03 |
-| w   |        | sun         | ADV            |   |sun                | s(un)             | ẜ            |   |   |   |   | lat |   |   |   |        100-03 |
-| PE  | e      |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
-| w   |        | pius        | ADV            |   |pie                | pie               | píe          |   |   |   |   | lat |   |   |   |        100-03 |
-| w   |        | recordacio  | NOUN           |   |recordacionis      | recordac(i)onis   | ɼecoꝛꝺc̅onís |   |   |   |   | lat |   |   |   |        100-03 |
-| lm  | 100-04 |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
-| w   |        | is          | PRON           |   |eam                | eam               | e          |   |   |   |   | lat |   |   |   |        100-04 |
-| w   |        | habeo       | VERB           |   |habuit             | habuit            | hbuít       |   |   |   |   | lat |   |   |   |        100-04 |
-| w   |        | et          | CCONJ          |   |et                 | (et)              |             |   |   |   |   | lat |   |   |   |        100-04 |
-| w   |        | possideo    | VERB           |   |possedit           | possedit          | poſſeꝺıt     |   |   |   |   | lat |   |   |   |        100-04 |
-| p   |        |            | NOUN           |   |                  |                  |             |   |   |   |   | lat |   |   |   |        100-04 |
-| w   |        | deuotus     | ADJ            |   |deuotis            | deuotis           | ꝺeuotíſ      |   |   |   |   | lat |   |   |   |        100-04 |
-| w   |        | in          | ADP            |   |in                 | in                | ín           |   |   |   |   | lat |   |   |   |        100-04 |
-| w   |        | christus    | PROPN          |   |christo            | (Christ)o         | xp̅o          |   |   |   |   | lat |   |   |   |        100-04 |
-| w   |        | domina      | NOUN           |   |dominabus          | d(omi)nab(us)     | ꝺn̅abꝫ        |   |   |   |   | lat |   |   |   |        100-04 |
-| p   |        | .           | PUNCT          |   |.                  | .                 | .            |   |   |   |   | lat |   |   |   |        100-04 |
-| w   |        | abbato      | VERB           |   |abbatisse          | Abbatisse         | bbtıſſe    |   |   |   |   | lat |   |   |   |        100-04 |
-| w   |        | et          | CCONJ          |   |et                 | (et)              |             |   |   |   |   | lat |   |   |   |        100-04 |
-| w   |        | soror       | NOUN           |   |sororibus          | sororib(us)       | ſoꝛoꝛıbꝫ     |   |   |   |   | lat |   |   |   |        100-04 |
-| p   |        | .           | PUNCT          |   |.                  | .                 | .            |   |   |   |   | lat |   |   |   |        100-04 |
-| w   |        | de          | ADP            |   |de                 | de                | ꝺe           |   |   |   |   | lat |   |   |   |        100-04 |
-| w   |        | claustrum   | NOUN           |   |claustro           | claustro          | clauﬅro      |   |   |   |   | lat |   |   |   |        100-04 |
-| p   |        | .           | PUNCT          |   |.                  | .                 | .            |   |   |   |   | lat |   |   |   |        100-04 |
-| w   |        | beatus      | NOUN           |   |beate              | b(eat)e           | be̅           |   |   |   |   | lat |   |   |   |        100-04 |
-| w   |        | clo         | VERB           |   |clare              | clare             | clre        |   |   |   |   | lat |   |   |   |        100-04 |
-| PL  | b      |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
-| w   |        | roskilda    | NOUN           |   |roskildis          | roskild(is)       | ɼoskıl      |   |   |   |   | lat |   |   |   |        100-04 |
-| PL  | e      |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
-| lm  | 100-05 |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
-| w   |        | in          | ADP            |   |in                 | in                | ín           |   |   |   |   | lat |   |   |   |        100-05 |
-| w   |        | communis    | ADJ            |   |communi            | (com)m(un)i       | ꝯm̅ı          |   |   |   |   | lat |   |   |   |        100-05 |
-| w   |        | placeo      | VERB           |   |placito            | placito           | plcıto      |   |   |   |   | lat |   |   |   |        100-05 |
-| PL  | b      |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
-| w   |        | roskildendo | NOUN           |   |roskildensi        | roskilden(si)     | ɼoſkılꝺen̅    |   |   |   |   | lat |   |   |   |        100-05 |
-| PL  | e      |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
-| w   |        | preso       | VERB           |   |presentibus        | p(re)sentib(us)   | p͛ſentıbꝫ     |   |   |   |   | lat |   |   |   |        100-05 |
-| p   |        | .           | PUNCT          |   |.                  | .                 | .            |   |   |   |   | lat |   |   |   |        100-05 |
-| w   |        | plerusque   | ADJ            |   |plerisque          | plerisq(ue)       | plerıſqꝫ     |   |   |   |   | lat |   |   |   |        100-05 |
-| w   |        | bonus       | ADJ            |   |melioribus         | meliorib(us)      | melıoꝛıbꝫ    |   |   |   |   | lat |   |   |   |        100-05 |
-| p   |        | .           | PUNCT          |   |.                  | .                 | .            |   |   |   |   | lat |   |   |   |        100-05 |
-| w   |        | uir         | NOUN           |   |uiris              | viris             | ỽíríſ        |   |   |   |   | lat |   |   |   |        100-05 |
-| w   |        | ciuitas     | NOUN           |   |ciuitatis          | Ciuitatis         | Cíuíttíſ    |   |   |   |   | lat |   |   |   |        100-05 |
-| w   |        | memoro      | VERB           |   |memorate           | memorate          | memoꝛte     |   |   |   |   | lat |   |   |   |        100-05 |
-| p   |        | .           | PUNCT          |   |.                  | .                 | .            |   |   |   |   | lat |   |   |   |        100-05 |
-| w   |        | uendo       | NOUN           |   |uendidi            | vendidi           | ỽenꝺıꝺı      |   |   |   |   | lat |   |   |   |        100-05 |
-| p   |        | .           | PUNCT          |   |.                  | .                 | .            |   |   |   |   | lat |   |   |   |        100-05 |
-| w   |        | scoto       | VERB           |   |scotaui            | scotaui           | ſcotuí      |   |   |   |   | lat |   |   |   |        100-05 |
-| p   |        | .           | PUNCT          |   |.                  | .                 | .            |   |   |   |   | lat |   |   |   |        100-05 |
-| w   |        | et          | CCONJ          |   |et                 | (et)              |             |   |   |   |   | lat |   |   |   |        100-05 |
-| w   |        | manus       | NOUN           |   |manu               | ma¦nu             | m¦nu        |   |   |   |   | lat |   |   |   | 100-05—100-06 |
-| w   |        | committo    | VERB           |   |commisi            | co(m)misi         | co̅míſí       |   |   |   |   | lat |   |   |   |        100-06 |
-| w   |        | ius         | NOUN           |   |iure               | jure              | ȷure         |   |   |   |   | lat |   |   |   |        100-06 |
-| w   |        | perpetuus   | ADJ            |   |perpetuo           | p(er)petuo        | ꝑpetuo       |   |   |   |   | lat |   |   |   |        100-06 |
-| w   |        | possideo    | VERB           |   |possidendam        | possidendam       | poſſıꝺenꝺ  |   |   |   |   | lat |   |   |   |        100-06 |
-| p   |        | .           | PUNCT          |   |.                  | .                 | .            |   |   |   |   | lat |   |   |   |        100-06 |
-| w   |        | recognosco  | VERB           |   |recognoscens       | recognoscens      | ɼecognoſcens |   |   |   |   | lat |   |   |   |        100-06 |
-| p   |        | .           | PUNCT          |   |.                  | .                 | .            |   |   |   |   | lat |   |   |   |        100-06 |
-| w   |        | ego         | PRON           |   |me                 | me                | me           |   |   |   |   | lat |   |   |   |        100-06 |
-| w   |        | pro         | ADP            |   |pro                | p(ro)             | ꝓ            |   |   |   |   | lat |   |   |   |        100-06 |
-| w   |        | idem        | DET            |   |eadem              | eadem             | eꝺem        |   |   |   |   | lat |   |   |   |        100-06 |
-| w   |        | curia       | NOUN           |   |curia              | curia             | curía        |   |   |   |   | lat |   |   |   |        100-06 |
-| w   |        | plenus      | ADJ            |   |plenum             | plenu(m)          | plenu̅        |   |   |   |   | lat |   |   |   |        100-06 |
-| w   |        | et          | CCONJ          |   |et                 | (et)              |             |   |   |   |   | lat |   |   |   |        100-06 |
-| w   |        | integer     | ADJ            |   |integrum           | integru(m)        | íntegru̅      |   |   |   |   | lat |   |   |   |        100-06 |
-| w   |        | prex        | NOUN           |   |precium            | p(re)ciu(m)       | p͛cıu̅         |   |   |   |   | lat |   |   |   |        100-06 |
-| w   |        | secundus    | ADP            |   |secundum           | s(e)c(un)d(u)m    | scm         |   |   |   |   | lat |   |   |   |        100-06 |
-| w   |        | uoluntas    | NOUN           |   |uoluntatem         | vo¦luntate(m)     | ỽo¦luntte̅   |   |   |   |   | lat |   |   |   | 100-06—100-07 |
-| w   |        | meus        | ADJ            |   |meam               | mea(m)            | me̅          |   |   |   |   | lat |   |   |   |        100-07 |
-| w   |        | habeo       | VERB           |   |habuisse           | habuisse          | habuíſſe     |   |   |   |   | lat |   |   |   |        100-07 |
-| p   |        | .           | PUNCT          |   |.                  | .                 | .            |   |   |   |   | lat |   |   |   |        100-07 |
-| w   |        | in          | ADP            |   |in                 | Jn                | Jn           |   |   |   |   | lat |   |   |   |        100-07 |
-| w   |        | cuius       | PRON           |   |cuius              | cui(us)           | cuıꝰ         |   |   |   |   | lat |   |   |   |        100-07 |
-| w   |        | reus        | NOUN           |   |rei                | rei               | ɼeı          |   |   |   |   | lat |   |   |   |        100-07 |
-| w   |        | testimonium | NOUN           |   |testimonium        | Testimo(n)i(u)m   | Teﬅımo̅ım     |   |   |   |   | lat |   |   |   |        100-07 |
-| w   |        | sigillum    | NOUN           |   |sigillum           | sigillu(m)        | sıgıllu̅      |   |   |   |   | lat |   |   |   |        100-07 |
-| w   |        | ciuitas     | NOUN           |   |ciuitatis          | Ciuitatis         | Cíuíttíſ    |   |   |   |   | lat |   |   |   |        100-07 |
-| PL  | b      |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
-| w   |        | roskildendo | VERB           |   |roskildensis       | roskilden(sis)    | ɼoskılꝺen̅    |   |   |   |   | lat |   |   |   |        100-07 |
-| PL  | e      |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
-| w   |        | una         | ADV            |   |una                | vna               | ỽn          |   |   |   |   | lat |   |   |   |        100-07 |
-| w   |        | cum         | ADP            |   |cum                | cu(m)             | cu̅           |   |   |   |   | lat |   |   |   |        100-07 |
-| w   |        | sigillum    | NOUN           |   |sigillis           | sigillis          | ſıgıllíſ     |   |   |   |   | lat |   |   |   |        100-07 |
-| w   |        | discerno    | VERB           |   |discretorum        | discretor(um)     | ꝺıſcretoꝝ    |   |   |   |   | lat |   |   |   |        100-07 |
-| lm  | 100-08 |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
-| w   |        | uir         | NOUN           |   |uirorum            | viror(um)         | ỽíroꝝ        |   |   |   |   | lat |   |   |   |        100-08 |
-| PE  | b      |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
-| w   |        | lydik       | PROPN          |   |lydik              | lydik             | lyꝺık        |   |   |   |   | lat |   |   |   |        100-08 |
-| PE  | e      |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
-| w   |        | frater      | NOUN           |   |fratris            | fr(atr)is         | fr̅ıs         |   |   |   |   | lat |   |   |   |        100-08 |
-| w   |        | meus        | PRON           |   |mei                | mej               | meȷ          |   |   |   |   | lat |   |   |   |        100-08 |
-| p   |        | .           | PUNCT          |   |.                  | .                 | .            |   |   |   |   | lat |   |   |   |        100-08 |
-| PE  | b      |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
-| w   |        | lydikæ      | PROPN          |   |lydikæ             | Lydikæ            | Lyꝺıkæ       |   |   |   |   | lat |   |   |   |        100-08 |
-| w   |        | møøn        | PROPN          |   |møøn               | møøn              | møø         |   |   |   |   | lat |   |   |   |        100-08 |
-| PE  | e      |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
-| p   |        | .           | PUNCT          |   |.                  | .                 | .            |   |   |   |   | lat |   |   |   |        100-08 |
-| PE  | b      |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
-| w   |        | byorn       | NOUN           |   |byorn              | byorn             | byoꝛ        |   |   |   |   | lat |   |   |   |        100-08 |
-| w   |        | pæto        | NOUN           |   |pæter              | pæt(er)           | pæt͛          |   |   |   |   | lat |   |   |   |        100-08 |
-| w   |        | sun         | DET            |   |sun                | sun               | ſu          |   |   |   |   | lat |   |   |   |        100-08 |
-| PE  | e      |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
-| p   |        | .           | PUNCT          |   |.                  | .                 | .            |   |   |   |   | lat |   |   |   |        100-08 |
-| w   |        | et          | CCONJ          |   |et                 | (et)              |             |   |   |   |   | lat |   |   |   |        100-08 |
-| w   |        | meus        | ADJ            |   |meo                | meo               | meo          |   |   |   |   | lat |   |   |   |        100-08 |
-| w   |        | proprius    | ADJ            |   |proprio            | p(ro)p(ri)o       | o          |   |   |   |   | lat |   |   |   |        100-08 |
-| p   |        | .           | PUNCT          |   |.                  | .                 | .            |   |   |   |   | lat |   |   |   |        100-08 |
-| w   |        | preso       | VERB           |   |presentem          | p(re)sente(m)     | p͛ſente̅       |   |   |   |   | lat |   |   |   |        100-08 |
-| w   |        | pagina      | NOUN           |   |paginam            | pagina(m)         | pgına̅       |   |   |   |   | lat |   |   |   |        100-08 |
-| w   |        | roboro      | VERB           |   |roboraui           | roboraui          | ɼoboꝛuí     |   |   |   |   | lat |   |   |   |        100-08 |
-| p   |        | .           | PUNCT          |   |.                  | .                 | .            |   |   |   |   | lat |   |   |   |        100-08 |
-| w   |        | acio        | NOUN           |   |actum              | Actum             | u         |   |   |   |   | lat |   |   |   |        100-08 |
-| lm  | 100-09 |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
-| w   |        | roskilda    | NOUN           |   |roskildis          | roskild(is)       | roſkıl      |   |   |   |   | lat |   |   |   |        100-09 |
-| w   |        | annus       | NOUN           |   |anno               | Anno              | nno         |   |   |   |   | lat |   |   |   |        100-09 |
-| w   |        | dominus     | NOUN           |   |domini             | d(omi)ni          | ꝺn̅ı          |   |   |   |   | lat |   |   |   |        100-09 |
-| p   |        | .           | PUNCT          |   |.                  | .                 | .            |   |   |   |   | lat |   |   |   |        100-09 |
-| n   |        | mͦ          | NOUN           |   |mͦ                  | mͦ                 | ͦ            |   |   |   |   | lat |   |   |   |        100-09 |
-| p   |        | .           | PUNCT          |   |.                  | .                 | .            |   |   |   |   | lat |   |   |   |        100-09 |
-| n   |        | ccͦ         | NOUN           |   |ccͦ                 | CCͦ                | CCͦ           |   |   |   |   | lat |   |   |   |        100-09 |
-| p   |        | .           | PUNCT          |   |.                  | .                 | .            |   |   |   |   | lat |   |   |   |        100-09 |
-| n   |        | lxxxͦ       | NOUN           |   |lxxxͦ               | lxxxͦ              | lxxͦx         |   |   |   |   | lat |   |   |   |        100-09 |
-| p   |        | .           | PUNCT          |   |.                  | .                 | .            |   |   |   |   | lat |   |   |   |        100-09 |
-| n   |        | uiͦ         | NOUN           |   |uiͦ                 | vjͦ                | ỽȷͦ           |   |   |   |   | lat |   |   |   |        100-09 |
-| p   |        | .           | PUNCT          |   |.                  | .                 | .            |   |   |   |   | lat |   |   |   |        100-09 |
-| w   |        | circo       | ADP            |   |circa              | c(ir)ca           | cc         |   |   |   |   | lat |   |   |   |        100-09 |
-| w   |        | festus      | ADJ            |   |festum             | festum            | feﬅum        |   |   |   |   | lat |   |   |   |        100-09 |
-| w   |        | beatus      | ADJ            |   |beati              | b(eat)i           | bı̅           |   |   |   |   | lat |   |   |   |        100-09 |
-| w   |        | iohannes    | PROPN          |   |iohannis           | Joh(ann)is        | Joh̅ıs        |   |   |   |   | lat |   |   |   |        100-09 |
-| w   |        | baptistus   | NOUN           |   |baptiste           | baptiste          | bptıﬅe      |   |   |   |   | lat |   |   |   |        100-09 |
-| p   |        | .           | PUNCT          |   |.                  | .                 | .            |   |   |   |   | lat |   |   |   |        100-09 |
-| :e: |        |             |                |   |                   |                   |              |   |   |   |   |     |   |   |   |               |
+| :s: |        |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| pm  | 1r     |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| lm  | 100-01 |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| w   |        | omnis        | ADJ   |   | omnibus       | Om(n)ib(us)       | Om̅ıbꝫ        |   |   |   |   | lat |   |   |   |        100-01 |
+| w   |        | presum       | VERB  |   | presens       | p(re)sens         | p͛ſens        |   |   |   |   | lat |   |   |   |        100-01 |
+| w   |        | scribo       | VERB  |   | scriptum      | sc(ri)ptum        | scptu      |   |   |   |   | lat |   |   |   |        100-01 |
+| w   |        | cerno        | VERB  |   | cernentibus   | C(er)ne(n)tib(us) | C͛ne̅tıbꝫ      |   |   |   |   | lat |   |   |   |        100-01 |
+| p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-01 |
+| PE  | b      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| w   |        | niels        | PROPN |   | niels         | N(iels)           | N.           |   |   |   |   | dan |   |   |   |        100-01 |
+| w   |        | herman       | PROPN |   | herman        | h(er)man          | h͛m         |   |   |   |   | dan |   |   |   |        100-01 |
+| w   |        | sun          | NOUN  |   | sun           | sun               | ſu          |   |   |   |   | dan |   |   |   |        100-01 |
+| PE  | e      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-01 |
+| w   |        | ciuis        | NOUN  |   | ciuis         | Ciuis             | Cíuís        |   |   |   |   | lat |   |   |   |        100-01 |
+| PL  | b      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| w   |        | roskildensis | ADJ   |   | roskildensis  | Roskilden(sis)    | ɼoskılꝺen̅    |   |   |   |   | lat |   |   |   |        100-01 |
+| PL  | e      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| w   |        | in           | ADP   |   | in            | in                | ín           |   |   |   |   | lat |   |   |   |        100-01 |
+| w   |        | dominus      | NOUN  |   | domino        | d(omi)no          | ꝺn̅o          |   |   |   |   | lat |   |   |   |        100-01 |
+| w   |        | salus        | NOUN  |   | salutem       | Sal(u)t(e)m       | Slt̅m        |   |   |   |   | lat |   |   |   |        100-01 |
+| w   |        | nosco        | VERB  |   | notum         | Notum             | Notu        |   |   |   |   | lat |   |   |   |        100-01 |
+| w   |        | sum          | AUX   |   | esse          | esse              | eſſe         |   |   |   |   | lat |   |   |   |        100-01 |
+| w   |        | uolo         | VERB  |   | uolo          | volo              | ỽolo         |   |   |   |   | lat |   |   |   |        100-01 |
+| p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-01 |
+| w   |        | presum       | VERB  |   | presentibus   | p(re)sentib(us)   | p͛ſentıbꝫ     |   |   |   |   | lat |   |   |   |        100-01 |
+| lm  | 100-02 |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| w   |        | et           | CCONJ |   | et            | (et)              |             |   |   |   |   | lat |   |   |   |        100-02 |
+| w   |        | posterus     | ADJ   |   | posteros      | post(er)os        | poﬅ͛os        |   |   |   |   | lat |   |   |   |        100-02 |
+| w   |        | non          | ADV   |   | non           | no(n)             | no̅           |   |   |   |   | lat |   |   |   |        100-02 |
+| w   |        | lateo        | VERB  |   | latere        | lat(er)e          | lt͛e         |   |   |   |   | lat |   |   |   |        100-02 |
+| w   |        | qui          | SCONJ |   | quod          | q(uo)d            | q           |   |   |   |   | lat |   |   |   |        100-02 |
+| w   |        | curia        | NOUN  |   | curiam        | Curiam            | Curí       |   |   |   |   | lat |   |   |   |        100-02 |
+| w   |        | meus         | ADJ   |   | meam          | meam              | mem         |   |   |   |   | lat |   |   |   |        100-02 |
+| w   |        | qui          | CCONJ |   | que           | que               | que          |   |   |   |   | lat |   |   |   |        100-02 |
+| w   |        | dico         | VERB  |   | dicitur       | dicit(ur)         | ꝺícít᷑        |   |   |   |   | lat |   |   |   |        100-02 |
+| PL  | b      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| w   |        | lothenstoft  | PROPN |   | lothenstoft   | lothenstoft       | lothenstoft  |   |   |   |   | dan |   |   |   |        100-02 |
+| PL  | e      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| w   |        | in           | ADP   |   | in            | in                | ín           |   |   |   |   | lat |   |   |   |        100-02 |
+| w   |        | parrochia    | NOUN  |   | parrochia     | p(ar)rochia       | ꝑrochía      |   |   |   |   | lat |   |   |   |        100-02 |
+| w   |        | beatus       | ADJ   |   | beati         | b(eat)i           | bı̅           |   |   |   |   | lat |   |   |   |        100-02 |
+| w   |        | martinus     | ADJ   |   | martini       | martini           | mrtíní      |   |   |   |   | lat |   |   |   |        100-02 |
+| w   |        | sino         | VERB  |   | sitam         | sitam             | ſít        |   |   |   |   | lat |   |   |   |        100-02 |
+| w   |        | cum          | ADP   |   | cum           | cu(m)             | cu̅           |   |   |   |   | lat |   |   |   |        100-02 |
+| w   |        | domus        | NOUN  |   | domibus       | domib(us)         | ꝺomıbꝫ       |   |   |   |   | lat |   |   |   |        100-02 |
+| lm  | 100-03 |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| w   |        | terra        | NOUN  |   | terris        | t(er)ris          | t͛ríſ         |   |   |   |   | lat |   |   |   |        100-03 |
+| w   |        | atque        | CCONJ |   | ac            | ac                | c           |   |   |   |   | lat |   |   |   |        100-03 |
+| w   |        | is           | PRON  |   | eius          | eius              | eíuſ         |   |   |   |   | lat |   |   |   |        100-03 |
+| w   |        | attinencia   | NOUN  |   | attinenciis   | attine(n)ciis     | ttıne̅cíís   |   |   |   |   | lat |   |   |   |        100-03 |
+| w   |        | uniuersus    | ADJ   |   | uniuersis     | vniu(er)sis       | ỽnıu͛ſís      |   |   |   |   | lat |   |   |   |        100-03 |
+| w   |        | is           | PRON  |   | eo            | eo                | eo           |   |   |   |   | lat |   |   |   |        100-03 |
+| w   |        | ius          | NOUN  |   | iure          | jure              | ȷure         |   |   |   |   | lat |   |   |   |        100-03 |
+| w   |        | is           | PRON  |   | eoque         | eo q(ue)          | eo qꝫ        |   |   |   |   | lat |   |   |   |        100-03 |
+| w   |        | modus        | NOUN  |   | modo          | modo              | moꝺo         |   |   |   |   | lat |   |   |   |        100-03 |
+| p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-03 |
+| w   |        | quo          | PRON  |   | quo           | quo               | quo          |   |   |   |   | lat |   |   |   |        100-03 |
+| w   |        | dominus      | NOUN  |   | dominus       | d(omi)n(u)s       | ꝺn̅s          |   |   |   |   | lat |   |   |   |        100-03 |
+| PE  | b      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| w   |        | thrugotus    | PROPN |   | thrugotus     | Thrugot(us)       | Thrugot     |   |   |   |   | lat |   |   |   |        100-03 |
+| w   |        | romelde      | PROPN |   | romelde       | romelde           | ɼomelꝺe      |   |   |   |   | dan |   |   |   |        100-03 |
+| w   |        | sun          | NOUN  |   | sun           | s(un)             | ẜ            |   |   |   |   | dan |   |   |   |        100-03 |
+| PE  | e      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| w   |        | pius         | ADJ   |   | pie           | pie               | píe          |   |   |   |   | lat |   |   |   |        100-03 |
+| w   |        | recordacio   | NOUN  |   | recordacionis | recordac(i)onis   | ɼecoꝛꝺc̅onís |   |   |   |   | lat |   |   |   |        100-03 |
+| lm  | 100-04 |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| w   |        | is           | PRON  |   | eam           | eam               | e          |   |   |   |   | lat |   |   |   |        100-04 |
+| w   |        | habeo        | VERB  |   | habuit        | habuit            | hbuít       |   |   |   |   | lat |   |   |   |        100-04 |
+| w   |        | et           | CCONJ |   | et            | (et)              |             |   |   |   |   | lat |   |   |   |        100-04 |
+| w   |        | possideo     | VERB  |   | possedit      | possedit          | poſſeꝺıt     |   |   |   |   | lat |   |   |   |        100-04 |
+| p   |        |             | PUNCT |   |              |                  |             |   |   |   |   | lat |   |   |   |        100-04 |
+| w   |        | deuotus      | ADJ   |   | deuotis       | deuotis           | ꝺeuotíſ      |   |   |   |   | lat |   |   |   |        100-04 |
+| w   |        | in           | ADP   |   | in            | in                | ín           |   |   |   |   | lat |   |   |   |        100-04 |
+| w   |        | christus     | PROPN |   | christo       | (Christ)o         | xp̅o          |   |   |   |   | lat |   |   |   |        100-04 |
+| w   |        | domina       | NOUN  |   | dominabus     | d(omi)nab(us)     | ꝺn̅abꝫ        |   |   |   |   | lat |   |   |   |        100-04 |
+| p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-04 |
+| w   |        | abbatissa    | NOUN  |   | abbatisse     | Abbatisse         | bbtıſſe    |   |   |   |   | lat |   |   |   |        100-04 |
+| w   |        | et           | CCONJ |   | et            | (et)              |             |   |   |   |   | lat |   |   |   |        100-04 |
+| w   |        | soror        | NOUN  |   | sororibus     | sororib(us)       | ſoꝛoꝛıbꝫ     |   |   |   |   | lat |   |   |   |        100-04 |
+| p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-04 |
+| w   |        | de           | ADP   |   | de            | de                | ꝺe           |   |   |   |   | lat |   |   |   |        100-04 |
+| w   |        | claustrum    | NOUN  |   | claustro      | claustro          | clauﬅro      |   |   |   |   | lat |   |   |   |        100-04 |
+| p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-04 |
+| w   |        | beatus       | ADJ   |   | beate         | b(eat)e           | be̅           |   |   |   |   | lat |   |   |   |        100-04 |
+| w   |        | clara        | PROPN |   | clare         | clare             | clre        |   |   |   |   | lat |   |   |   |        100-04 |
+| PL  | b      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| w   |        | roskilda     | PROPN |   | roskildis     | roskild(is)       | ɼoskıl      |   |   |   |   | lat |   |   |   |        100-04 |
+| PL  | e      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| lm  | 100-05 |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| w   |        | in           | ADP   |   | in            | in                | ín           |   |   |   |   | lat |   |   |   |        100-05 |
+| w   |        | communis     | ADJ   |   | communi       | (com)m(un)i       | ꝯm̅ı          |   |   |   |   | lat |   |   |   |        100-05 |
+| w   |        | placitum     | NOUN  |   | placito       | placito           | plcıto      |   |   |   |   | lat |   |   |   |        100-05 |
+| PL  | b      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| w   |        | roskildensis | ADJ   |   | roskildensi   | roskilden(si)     | ɼoſkılꝺen̅    |   |   |   |   | lat |   |   |   |        100-05 |
+| PL  | e      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| w   |        | presum       | VERB  |   | presentibus   | p(re)sentib(us)   | p͛ſentıbꝫ     |   |   |   |   | lat |   |   |   |        100-05 |
+| p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-05 |
+| w   |        | plerusque    | ADJ   |   | plerisque     | plerisq(ue)       | plerıſqꝫ     |   |   |   |   | lat |   |   |   |        100-05 |
+| w   |        | bonus        | ADJ   |   | melioribus    | meliorib(us)      | melıoꝛıbꝫ    |   |   |   |   | lat |   |   |   |        100-05 |
+| p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-05 |
+| w   |        | uir          | NOUN  |   | uiris         | viris             | ỽíríſ        |   |   |   |   | lat |   |   |   |        100-05 |
+| w   |        | ciuitas      | NOUN  |   | ciuitatis     | Ciuitatis         | Cíuíttíſ    |   |   |   |   | lat |   |   |   |        100-05 |
+| w   |        | memoro       | VERB  |   | memorate      | memorate          | memoꝛte     |   |   |   |   | lat |   |   |   |        100-05 |
+| p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-05 |
+| w   |        | uendo        | NOUN  |   | uendidi       | vendidi           | ỽenꝺıꝺı      |   |   |   |   | lat |   |   |   |        100-05 |
+| p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-05 |
+| w   |        | scoto        | VERB  |   | scotaui       | scotaui           | ſcotuí      |   |   |   |   | lat |   |   |   |        100-05 |
+| p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-05 |
+| w   |        | et           | CCONJ |   | et            | (et)              |             |   |   |   |   | lat |   |   |   |        100-05 |
+| w   |        | manus        | NOUN  |   | manu          | ma¦nu             | m¦nu        |   |   |   |   | lat |   |   |   | 100-05—100-06 |
+| w   |        | committo     | VERB  |   | commisi       | co(m)misi         | co̅míſí       |   |   |   |   | lat |   |   |   |        100-06 |
+| w   |        | ius          | NOUN  |   | iure          | jure              | ȷure         |   |   |   |   | lat |   |   |   |        100-06 |
+| w   |        | perpetuus    | ADJ   |   | perpetuo      | p(er)petuo        | ꝑpetuo       |   |   |   |   | lat |   |   |   |        100-06 |
+| w   |        | possideo     | VERB  |   | possidendam   | possidendam       | poſſıꝺenꝺ  |   |   |   |   | lat |   |   |   |        100-06 |
+| p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-06 |
+| w   |        | recognosco   | VERB  |   | recognoscens  | recognoscens      | ɼecognoſcens |   |   |   |   | lat |   |   |   |        100-06 |
+| p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-06 |
+| w   |        | ego          | PRON  |   | me            | me                | me           |   |   |   |   | lat |   |   |   |        100-06 |
+| w   |        | pro          | ADP   |   | pro           | p(ro)             | ꝓ            |   |   |   |   | lat |   |   |   |        100-06 |
+| w   |        | idem         | DET   |   | eadem         | eadem             | eꝺem        |   |   |   |   | lat |   |   |   |        100-06 |
+| w   |        | curia        | NOUN  |   | curia         | curia             | curía        |   |   |   |   | lat |   |   |   |        100-06 |
+| w   |        | plenus       | ADJ   |   | plenum        | plenu(m)          | plenu̅        |   |   |   |   | lat |   |   |   |        100-06 |
+| w   |        | et           | CCONJ |   | et            | (et)              |             |   |   |   |   | lat |   |   |   |        100-06 |
+| w   |        | integer      | ADJ   |   | integrum      | integru(m)        | íntegru̅      |   |   |   |   | lat |   |   |   |        100-06 |
+| w   |        | pretium      | NOUN  |   | precium       | p(re)ciu(m)       | p͛cıu̅         |   |   |   |   | lat |   |   |   |        100-06 |
+| w   |        | secundus     | ADP   |   | secundum      | s(e)c(un)d(u)m    | scm         |   |   |   |   | lat |   |   |   |        100-06 |
+| w   |        | uoluntas     | NOUN  |   | uoluntatem    | vo¦luntate(m)     | ỽo¦luntte̅   |   |   |   |   | lat |   |   |   | 100-06—100-07 |
+| w   |        | meus         | ADJ   |   | meam          | mea(m)            | me̅          |   |   |   |   | lat |   |   |   |        100-07 |
+| w   |        | habeo        | VERB  |   | habuisse      | habuisse          | habuíſſe     |   |   |   |   | lat |   |   |   |        100-07 |
+| p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-07 |
+| w   |        | in           | ADP   |   | in            | Jn                | Jn           |   |   |   |   | lat |   |   |   |        100-07 |
+| w   |        | qui          | PRON  |   | cuius         | cui(us)           | cuıꝰ         |   |   |   |   | lat |   |   |   |        100-07 |
+| w   |        | res          | NOUN  |   | rei           | rei               | ɼeı          |   |   |   |   | lat |   |   |   |        100-07 |
+| w   |        | testimonium  | NOUN  |   | testimonium   | Testimo(n)i(u)m   | Teﬅımo̅ım     |   |   |   |   | lat |   |   |   |        100-07 |
+| w   |        | sigillum     | NOUN  |   | sigillum      | sigillu(m)        | sıgıllu̅      |   |   |   |   | lat |   |   |   |        100-07 |
+| w   |        | ciuitas      | NOUN  |   | ciuitatis     | Ciuitatis         | Cíuíttíſ    |   |   |   |   | lat |   |   |   |        100-07 |
+| PL  | b      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| w   |        | roskildensis | ADJ   |   | roskildensis  | roskilden(sis)    | ɼoskılꝺen̅    |   |   |   |   | lat |   |   |   |        100-07 |
+| PL  | e      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| w   |        | una          | ADV   |   | una           | vna               | ỽn          |   |   |   |   | lat |   |   |   |        100-07 |
+| w   |        | cum          | ADP   |   | cum           | cu(m)             | cu̅           |   |   |   |   | lat |   |   |   |        100-07 |
+| w   |        | sigillum     | NOUN  |   | sigillis      | sigillis          | ſıgıllíſ     |   |   |   |   | lat |   |   |   |        100-07 |
+| w   |        | discerno     | VERB  |   | discretorum   | discretor(um)     | ꝺıſcretoꝝ    |   |   |   |   | lat |   |   |   |        100-07 |
+| lm  | 100-08 |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| w   |        | uir          | NOUN  |   | uirorum       | viror(um)         | ỽíroꝝ        |   |   |   |   | lat |   |   |   |        100-08 |
+| PE  | b      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| w   |        | lydik        | PROPN |   | lydik         | lydik             | lyꝺık        |   |   |   |   | dan |   |   |   |        100-08 |
+| PE  | e      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| w   |        | frater       | NOUN  |   | fratris       | fr(atr)is         | fr̅ıs         |   |   |   |   | lat |   |   |   |        100-08 |
+| w   |        | meus         | ADJ   |   | mei           | mej               | meȷ          |   |   |   |   | lat |   |   |   |        100-08 |
+| p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-08 |
+| PE  | b      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| w   |        | lydeke       | PROPN |   | lydikæ        | Lydikæ            | Lyꝺıkæ       |   |   |   |   | dan |   |   |   |        100-08 |
+| w   |        | møn          | PROPN |   | møøn          | møøn              | møø         |   |   |   |   | dan |   |   |   |        100-08 |
+| PE  | e      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-08 |
+| PE  | b      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| w   |        | bjørn        | PROPN |   | byorn         | byorn             | byoꝛ        |   |   |   |   | dan |   |   |   |        100-08 |
+| w   |        | peder        | PROPN |   | pæter         | pæt(er)           | pæt͛          |   |   |   |   | dan |   |   |   |        100-08 |
+| w   |        | sun          | NOUN  |   | sun           | sun               | ſu          |   |   |   |   | dan |   |   |   |        100-08 |
+| PE  | e      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-08 |
+| w   |        | et           | CCONJ |   | et            | (et)              |             |   |   |   |   | lat |   |   |   |        100-08 |
+| w   |        | meus         | ADJ   |   | meo           | meo               | meo          |   |   |   |   | lat |   |   |   |        100-08 |
+| w   |        | proprius     | ADJ   |   | proprio       | p(ro)p(ri)o       | o          |   |   |   |   | lat |   |   |   |        100-08 |
+| p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-08 |
+| w   |        | presum       | VERB  |   | presentem     | p(re)sente(m)     | p͛ſente̅       |   |   |   |   | lat |   |   |   |        100-08 |
+| w   |        | pagina       | NOUN  |   | paginam       | pagina(m)         | pgına̅       |   |   |   |   | lat |   |   |   |        100-08 |
+| w   |        | roboro       | VERB  |   | roboraui      | roboraui          | ɼoboꝛuí     |   |   |   |   | lat |   |   |   |        100-08 |
+| p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-08 |
+| w   |        | ago          | VERB  |   | actum         | Actum             | u         |   |   |   |   | lat |   |   |   |        100-08 |
+| lm  | 100-09 |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| PL  | b      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| w   |        | roskilda     | PROPN |   | roskildis     | roskild(is)       | roſkıl      |   |   |   |   | lat |   |   |   |        100-09 |
+| PL  | e      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| w   |        | annus        | NOUN  |   | anno          | Anno              | nno         |   |   |   |   | lat |   |   |   |        100-09 |
+| w   |        | dominus      | NOUN  |   | domini        | d(omi)ni          | ꝺn̅ı          |   |   |   |   | lat |   |   |   |        100-09 |
+| p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-09 |
+| n   |        | mͦ            | NOUN  |   | mͦ             | mͦ                 | ͦ            |   |   |   |   | lat |   |   |   |        100-09 |
+| p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-09 |
+| n   |        | ccͦ           | NOUN  |   | ccͦ            | CCͦ                | CCͦ           |   |   |   |   | lat |   |   |   |        100-09 |
+| p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-09 |
+| n   |        | lxxxͦ         | NOUN  |   | lxxxͦ          | lxxxͦ              | lxxͦx         |   |   |   |   | lat |   |   |   |        100-09 |
+| p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-09 |
+| n   |        | uiͦ           | NOUN  |   | uiͦ            | vjͦ                | ỽȷͦ           |   |   |   |   | lat |   |   |   |        100-09 |
+| p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-09 |
+| w   |        | circo        | ADP   |   | circa         | c(ir)ca           | cc         |   |   |   |   | lat |   |   |   |        100-09 |
+| w   |        | festum       | NOUN  |   | festum        | festum            | feﬅum        |   |   |   |   | lat |   |   |   |        100-09 |
+| w   |        | beatus       | ADJ   |   | beati         | b(eat)i           | bı̅           |   |   |   |   | lat |   |   |   |        100-09 |
+| w   |        | iohannes     | PROPN |   | iohannis      | Joh(ann)is        | Joh̅ıs        |   |   |   |   | lat |   |   |   |        100-09 |
+| w   |        | baptista     | NOUN  |   | baptiste      | baptiste          | bptıﬅe      |   |   |   |   | lat |   |   |   |        100-09 |
+| p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-09 |
+| :e: |        |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
 
 
 
