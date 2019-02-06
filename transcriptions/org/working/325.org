@@ -21,7 +21,7 @@ Seal strips contain a draft version of the same text.
 
 *** Transcription
 | :s: |        |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
-| pm  |     1r |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
+| pm  | 1r     |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
 | lm  | 325-01 |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | Alle            | Alle          |   |   |   |   | dan |   |   |   |        325-01 |
 | w   |        |   |   |   |   | men             | me           |   |   |   |   | dan |   |   |   |        325-01 |
@@ -190,7 +190,7 @@ Seal strips contain a draft version of the same text.
 | w   |        |   |   |   |   | nytte           | nytte         |   |   |   |   | dan |   |   |   |        325-12 |
 | w   |        |   |   |   |   | at              | at            |   |   |   |   | dan |   |   |   |        325-12 |
 | w   |        |   |   |   |   | skykke          | ſkykke        |   |   |   |   | dan |   |   |   |        325-12 |
-| w   |        |   |   |   |   | Jt(em)          | Jtꝭ           |   |   |   |   | dan |   |   |   |        325-12 |
+| w   |        |   |   |   |   | Jt(em)          | Jtꝭ           |   |   |   |   | lat |   |   |   |        325-12 |
 | w   |        |   |   |   |   | nar             | nar           |   |   |   |   | dan |   |   |   |        325-12 |
 | w   |        |   |   |   |   | thesse          | theſſe        |   |   |   |   | dan |   |   |   |        325-12 |
 | w   |        |   |   |   |   | for(nefnde)     | foꝛͩͤ           |   |   |   |   | dan |   |   |   |        325-12 |
@@ -226,7 +226,7 @@ Seal strips contain a draft version of the same text.
 | w   |        |   |   |   |   | nogher          | nogher        |   |   |   |   | dan |   |   |   |        325-14 |
 | w   |        |   |   |   |   | mans            | man          |   |   |   |   | dan |   |   |   |        325-14 |
 | w   |        |   |   |   |   | til tale        | til tale      |   |   |   |   | dan |   |   |   |        325-14 |
-| w   |        |   |   |   |   | Jt(em)          | Jtꝭ           |   |   |   |   | dan |   |   |   |        325-14 |
+| w   |        |   |   |   |   | Jt(em)          | Jtꝭ           |   |   |   |   | lat |   |   |   |        325-14 |
 | lm  | 325-15 |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | til bind(e)r    | til bindr    |   |   |   |   | dan |   |   |   |        325-15 |
 | w   |        |   |   |   |   | jak             | ȷak           |   |   |   |   | dan |   |   |   |        325-15 |
@@ -272,56 +272,78 @@ Seal strips contain a draft version of the same text.
 | w   |        |   |   |   |   | alle            | alle          |   |   |   |   | dan |   |   |   |        325-17 |
 | w   |        |   |   |   |   | me(n)ne         | me̅ne          |   |   |   |   | dan |   |   |   |        325-17 |
 | w   |        |   |   |   |   | til¦tale        | til¦tale      |   |   |   |   | dan |   |   |   | 325-17-325-18 |
-| w   |        |   |   |   |   | Jn              | Jn            |   |   |   |   | dan |   |   |   |        325-18 |
-| w   |        |   |   |   |   | Cui(us)         | Cui          |   |   |   |   | dan |   |   |   |        325-18 |
-| w   |        |   |   |   |   | r(e)i           | rí           |   |   |   |   | dan |   |   |   |        325-18 |
-| w   |        |   |   |   |   | testi(m)o(niu)m | teſtı̅om       |   |   |   |   | dan |   |   |   |        325-18 |
-| w   |        |   |   |   |   | sigillum        | sigillu      |   |   |   |   | dan |   |   |   |        325-18 |
-| w   |        |   |   |   |   | meum            | meu          |   |   |   |   | dan |   |   |   |        325-18 |
-| w   |        |   |   |   |   | vna             | vna           |   |   |   |   | dan |   |   |   |        325-18 |
-| w   |        |   |   |   |   | cu(m)           | cu̅            |   |   |   |   | dan |   |   |   |        325-18 |
-| w   |        |   |   |   |   | sigill(is)      | sigill̅        |   |   |   |   | dan |   |   |   |        325-18 |
-| w   |        |   |   |   |   | viror(um)       | viroꝝ         |   |   |   |   | dan |   |   |   |        325-18 |
-| w   |        |   |   |   |   | disc(re)tor(um) | diſcͤtoꝝ       |   |   |   |   | dan |   |   |   |        325-18 |
-| w   |        |   |   |   |   | v(idelicet)     | vꝫ            |   |   |   |   | dan |   |   |   |        325-18 |
-| w   |        |   |   |   |   | d(omi)nj        | dn̅ȷ           |   |   |   |   | dan |   |   |   |        325-18 |
+| w   |        |   |   |   |   | Jn              | Jn            |   |   |   |   | lat |   |   |   |        325-18 |
+| w   |        |   |   |   |   | Cui(us)         | Cui          |   |   |   |   | lat |   |   |   |        325-18 |
+| w   |        |   |   |   |   | r(e)i           | rí           |   |   |   |   | lat |   |   |   |        325-18 |
+| w   |        |   |   |   |   | testi(m)o(niu)m | teſtı̅om       |   |   |   |   | lat |   |   |   |        325-18 |
+| w   |        |   |   |   |   | sigillum        | sigillu      |   |   |   |   | lat |   |   |   |        325-18 |
+| w   |        |   |   |   |   | meum            | meu          |   |   |   |   | lat |   |   |   |        325-18 |
+| w   |        |   |   |   |   | vna             | vna           |   |   |   |   | lat |   |   |   |        325-18 |
+| w   |        |   |   |   |   | cu(m)           | cu̅            |   |   |   |   | lat |   |   |   |        325-18 |
+| w   |        |   |   |   |   | sigill(is)      | sigill̅        |   |   |   |   | lat |   |   |   |        325-18 |
+| w   |        |   |   |   |   | viror(um)       | viroꝝ         |   |   |   |   | lat |   |   |   |        325-18 |
+| w   |        |   |   |   |   | disc(re)tor(um) | diſcͤtoꝝ       |   |   |   |   | lat |   |   |   |        325-18 |
+| w   |        |   |   |   |   | v(idelicet)     | vꝫ            |   |   |   |   | lat |   |   |   |        325-18 |
+| w   |        |   |   |   |   | d(omi)nj        | dn̅ȷ           |   |   |   |   | lat |   |   |   |        325-18 |
 | lm  | 325-19 |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
-| w   |        |   |   |   |   | pet(ri)         | pet          |   |   |   |   | dan |   |   |   |        325-19 |
+| PE  | b      |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
+| w   |        |   |   |   |   | pet(ri)         | pet          |   |   |   |   | lat |   |   |   |        325-19 |
 | w   |        |   |   |   |   | lwnge           | lwnge         |   |   |   |   | dan |   |   |   |        325-19 |
-| w   |        |   |   |   |   | canonici        | canonici      |   |   |   |   | dan |   |   |   |        325-19 |
-| w   |        |   |   |   |   | hafnis          | hafnis        |   |   |   |   | dan |   |   |   |        325-19 |
-| w   |        |   |   |   |   | Ioh(ann)is      | Ioh̅is         |   |   |   |   | dan |   |   |   |        325-19 |
+| PE  | e      |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
+| w   |        |   |   |   |   | canonici        | canonici      |   |   |   |   | lat |   |   |   |        325-19 |
+| PL  | b      |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
+| w   |        |   |   |   |   | hafnis          | hafnis        |   |   |   |   | lat |   |   |   |        325-19 |
+| PL  | e      |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
+| PE  | b      |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
+| w   |        |   |   |   |   | Ioh(ann)is      | Ioh̅is         |   |   |   |   | lat |   |   |   |        325-19 |
 | w   |        |   |   |   |   | skitte          | ſkitte        |   |   |   |   | dan |   |   |   |        325-19 |
-| w   |        |   |   |   |   | de              | de            |   |   |   |   | dan |   |   |   |        325-19 |
+| PE  | e      |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
+| w   |        |   |   |   |   | de              | de            |   |   |   |   | lat |   |   |   |        325-19 |
+| PL  | b      |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | sandby          | ſandby        |   |   |   |   | dan |   |   |   |        325-19 |
-| w   |        |   |   |   |   | armig(er)i      | armigi       |   |   |   |   | dan |   |   |   |        325-19 |
-| w   |        |   |   |   |   | Joh(ann)is      | Joh̅ıs         |   |   |   |   | dan |   |   |   |        325-19 |
-| w   |        |   |   |   |   | Jacobi          | Jacobi        |   |   |   |   | dan |   |   |   |        325-19 |
-| w   |        |   |   |   |   | henrici         | henrici       |   |   |   |   | dan |   |   |   |        325-19 |
+| PL  | e      |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
+| w   |        |   |   |   |   | armig(er)i      | armigi       |   |   |   |   | lat |   |   |   |        325-19 |
+| PE  | b      |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
+| w   |        |   |   |   |   | Joh(ann)is      | Joh̅ıs         |   |   |   |   | lat |   |   |   |        325-19 |
+| w   |        |   |   |   |   | Jacobi          | Jacobi        |   |   |   |   | lat |   |   |   |        325-19 |
+| PE  | e      |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
+| PE  | b      |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
+| w   |        |   |   |   |   | henrici         | henrici       |   |   |   |   | lat |   |   |   |        325-19 |
 | lm  | 325-20 |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | van             | van           |   |   |   |   | dan |   |   |   |        325-20 |
 | w   |        |   |   |   |   | berghen         | berghen       |   |   |   |   | dan |   |   |   |        325-20 |
-| w   |        |   |   |   |   | magnj           | magnj         |   |   |   |   | dan |   |   |   |        325-20 |
+| PE  | e      |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
+| PE  | b      |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
+| w   |        |   |   |   |   | magnj           | magnj         |   |   |   |   | lat |   |   |   |        325-20 |
 | w   |        |   |   |   |   | niels(øn)       | niel         |   |   |   |   | dan |   |   |   |        325-20 |
-| w   |        |   |   |   |   | Jacobi          | Jacobi        |   |   |   |   | dan |   |   |   |        325-20 |
+| PE  | e      |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
+| PE  | b      |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
+| w   |        |   |   |   |   | Jacobi          | Jacobi        |   |   |   |   | lat |   |   |   |        325-20 |
 | w   |        |   |   |   |   | Jenss(øn)       | Jenſ         |   |   |   |   | dan |   |   |   |        325-20 |
-| w   |        |   |   |   |   | co(n)consulum   | co̅conſulu    |   |   |   |   | dan |   |   |   |        325-20 |
-| w   |        |   |   |   |   | hafnen(sium)    | hafn̅e        |   |   |   |   | dan |   |   |   |        325-20 |
-| w   |        |   |   |   |   | (et)            |              |   |   |   |   | dan |   |   |   |        325-20 |
-| w   |        |   |   |   |   | Joh(ann)is      | Joh̅is         |   |   |   |   | dan |   |   |   |        325-20 |
+| PE  | e      |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
+| w   |        |   |   |   |   | co(n)consulum   | co̅conſulu    |   |   |   |   | lat |   |   |   |        325-20 |
+| PL  | b      |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
+| w   |        |   |   |   |   | hafnen(sium)    | hafn̅e        |   |   |   |   | lat |   |   |   |        325-20 |
+| PL  | e      |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
+| w   |        |   |   |   |   | (et)            |              |   |   |   |   | lat |   |   |   |        325-20 |
+| PE  | b      |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
+| w   |        |   |   |   |   | Joh(ann)is      | Joh̅is         |   |   |   |   | lat |   |   |   |        325-20 |
 | w   |        |   |   |   |   | Jenss(øn)       | Jenſ         |   |   |   |   | dan |   |   |   |        325-20 |
-| w   |        |   |   |   |   | d(ic)ti         | d̅tı           |   |   |   |   | dan |   |   |   |        325-20 |
+| PE  | e      |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
+| w   |        |   |   |   |   | d(ic)ti         | d̅tı           |   |   |   |   | lat |   |   |   |        325-20 |
 | lm  | 325-21 |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
+| PE  | b      |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | wlf             | wlf           |   |   |   |   | dan |   |   |   |        325-21 |
-| w   |        |   |   |   |   | pre(sen)tib(us) | pre̅tıbꝫ       |   |   |   |   | dan |   |   |   |        325-21 |
-| w   |        |   |   |   |   | est             | eſt           |   |   |   |   | dan |   |   |   |        325-21 |
-| w   |        |   |   |   |   | appenssum       | aenſſu      |   |   |   |   | dan |   |   |   |        325-21 |
-| w   |        |   |   |   |   | Datum           | Datu         |   |   |   |   | dan |   |   |   |        325-21 |
-| w   |        |   |   |   |   | Anno            | Anno          |   |   |   |   | dan |   |   |   |        325-21 |
-| w   |        |   |   |   |   | d(omi)nj        | dn̅ȷ           |   |   |   |   | dan |   |   |   |        325-21 |
-| w   |        |   |   |   |   | m°              | °            |   |   |   |   | dan |   |   |   |        325-21 |
-| w   |        |   |   |   |   | cd°             | cd°           |   |   |   |   | dan |   |   |   |        325-21 |
-| w   |        |   |   |   |   | quarto          | quarto        |   |   |   |   | dan |   |   |   |        325-21 |
-| w   |        |   |   |   |   | vigilia         | vigilia       |   |   |   |   | dan |   |   |   |        325-21 |
-| w   |        |   |   |   |   | pentecost(is)   | pentecoſtꝭ    |   |   |   |   | dan |   |   |   |        325-21 |
+| PE  | e      |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
+| w   |        |   |   |   |   | pre(sen)tib(us) | pre̅tıbꝫ       |   |   |   |   | lat |   |   |   |        325-21 |
+| w   |        |   |   |   |   | est             | eſt           |   |   |   |   | lat |   |   |   |        325-21 |
+| w   |        |   |   |   |   | !appenssum¡     | !aenſſu¡    |   |   |   |   | lat |   |   |   |        325-21 |
+| w   |        |   |   |   |   | Datum           | Datu         |   |   |   |   | lat |   |   |   |        325-21 |
+| w   |        |   |   |   |   | Anno            | Anno          |   |   |   |   | lat |   |   |   |        325-21 |
+| w   |        |   |   |   |   | d(omi)nj        | dn̅ȷ           |   |   |   |   | lat |   |   |   |        325-21 |
+| n   |        |   |   |   |   | m°              | °            |   |   |   |   | lat |   |   |   |        325-21 |
+| n   |        |   |   |   |   | cd°             | cd°           |   |   |   |   | lat |   |   |   |        325-21 |
+| w   |        |   |   |   |   | quarto          | quarto        |   |   |   |   | lat |   |   |   |        325-21 |
+| w   |        |   |   |   |   | vigilia         | vigilia       |   |   |   |   | lat |   |   |   |        325-21 |
+| w   |        |   |   |   |   | pentecost(es)   | pentecoſtꝭ    |   |   |   |   | lat |   |   |   |        325-21 |
 | :e: |        |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |               |
