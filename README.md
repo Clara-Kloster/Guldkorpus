@@ -7,6 +7,8 @@
 -	En linje i diplomet bliver gengivet med en linje i transskriptionen. Efter hver linie sættes dobbelt linjeskift (2 x return).
 -	Interpunktuationstegn transskriberes som de forekommer i diplomet (fx ”.”,  ”,” og  ”/”), men et punktum der er skrevet lidt højere (en so-kaldt punctus elevatus) gengives som almindeligt punktum.
 -	Ord bliver separeret af mellemrum. Hvis noget er skrevet som to ord, der burde være ét, bruges ”=” (fx ”Hellig=ånd”, ”konge=magten”, ). Hvis noget er skrevet sammen, men burde behandles som to ord, indsættes ”==” (fx ”e==foruden”, ”før==sagt”, ”at==i”).
+
+
 -	Noter med kommentarer, fx når man har spørgsmål eller har lagt mærke til noget særligt, skrives indenfor <note>…</note>, fx ”<note>BS: Need to double check this! Really!</note>
 
 # 2)	Bogstavsformer mm.:
