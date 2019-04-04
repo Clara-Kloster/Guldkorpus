@@ -32,7 +32,7 @@ ASK: Remember to remove XML-tag and introduce correct notation instead.
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-01 |
 | PE  | b      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | N(icholaus)       | N.           |   |   |   |   | lat |   |   |   |        111-01 |
-| w   |        |   |   |   |   | h(er)mans(un)     | h͛mnẜ        |   |   |   |   | lat |   |   |   |        111-01 |
+| w   |        |   |   |   |   | h(er)mans(un)     | h͛mnẜ        |   |   |   |   | dan |   |   |   |        111-01 |
 | PE  | e      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | PL  | b      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | !roskidis¡        | !roſkıꝺís¡   |   |   |   |   | lat |   |   |   |        111-01 |
@@ -85,14 +85,14 @@ ASK: Remember to remove XML-tag and introduce correct notation instead.
 | PE  | b      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | thrugoto          | thrugoto     |   |   |   |   | lat |   |   |   |        111-03 |
 | lm  | 111-04 |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
-| w   |        |   |   |   |   | Romildæ           | Romíldæ      |   |   |   |   | lat |   |   |   |        111-04 |
-| w   |        |   |   |   |   | s(un)             | ẜ            |   |   |   |   | lat |   |   |   |        111-04 |
+| w   |        |   |   |   |   | Romildæ           | Romíldæ      |   |   |   |   | dan |   |   |   |        111-04 |
+| w   |        |   |   |   |   | s(un)             | ẜ            |   |   |   |   | dan |   |   |   |        111-04 |
 | PE  | e      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-04 |
 | w   |        |   |   |   |   | &amp;             | &amp;        |   |   |   |   | lat |   |   |   |        111-04 |
 | PE  | b      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | tuuone            | tuuone       |   |   |   |   | lat |   |   |   |        111-04 |
-| w   |        |   |   |   |   | Arnfasts(un)      | rnfﬅẜ      |   |   |   |   | lat |   |   |   |        111-04 |
+| w   |        |   |   |   |   | Arnfasts(un)      | rnfﬅẜ      |   |   |   |   | dan |   |   |   |        111-04 |
 | PE  | e      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | p(ro)             | ꝓ            |   |   |   |   | lat |   |   |   |        111-04 |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-04 |
@@ -179,7 +179,7 @@ ASK: Remember to remove XML-tag and introduce correct notation instead.
 | w   |        |   |   |   |   | fr(atr)is         | fr̅ıs         |   |   |   |   | lat |   |   |   |        111-09 |
 | w   |        |   |   |   |   | mei               | meı          |   |   |   |   | lat |   |   |   |        111-09 |
 | PE  | b      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
-| w   |        |   |   |   |   | ludikæ            | luꝺıkæ       |   |   |   |   | lat |   |   |   |        111-09 |
+| w   |        |   |   |   |   | ludikæ            | luꝺıkæ       |   |   |   |   | dan |   |   |   |        111-09 |
 | PE  | e      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-09 |
 | w   |        |   |   |   |   | generor(um)       | generoꝝ      |   |   |   |   | lat |   |   |   |        111-09 |
@@ -196,8 +196,8 @@ ASK: Remember to remove XML-tag and introduce correct notation instead.
 | PE  | b      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | laurencii         | lurencíí    |   |   |   |   | lat |   |   |   |        111-09 |
 | lm  | 111-10 |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
-| w   |        |   |   |   |   | peter             | peter        |   |   |   |   | lat |   |   |   |        111-10 |
-| w   |        |   |   |   |   | s(un)             | ẜ            |   |   |   |   | lat |   |   |   |        111-10 |
+| w   |        |   |   |   |   | peter             | peter        |   |   |   |   | dan |   |   |   |        111-10 |
+| w   |        |   |   |   |   | s(un)             | ẜ            |   |   |   |   | dan |   |   |   |        111-10 |
 | PE  | e      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-10 |
 | w   |        |   |   |   |   | (et)              |             |   |   |   |   | lat |   |   |   |        111-10 |
