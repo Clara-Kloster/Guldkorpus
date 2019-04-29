@@ -1,3 +1,10 @@
 * Lemmatization Praxis
 ** Words not found in Gammeldansk Ordbog
 - compounds :: lemmatized as two parts separated by plus (+): af+vapn = /afvapn/
+
+* For future lemmatization
+- POS-tag xDP (determiner, possessive) incorrectly tagged as xPD
+- punctuation consistently tagged as "prop" or other
+- /thær/ incorrectly lemmatized as /thæn/
+- <j> never caught as /i/ (preposition)
+- /ok/ not properly tagged as xCC
