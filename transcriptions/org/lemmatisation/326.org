@@ -25,19 +25,21 @@
 | lm  | 326-01 |                |      |            |   |                    |                 |   |   |   |   |     |   |   |    |               |
 | w   |        | al             | xAJ  | Alle       |   | Allæ               | Allæ            |   |   |   |   | dan |   |   |    |        326-01 |
 | w   |        | man            | xNC  | mænd       |   | mæn                | mæ             |   |   |   |   | dan |   |   |    |        326-01 |
-| w   |        | thænne         | xDD  | dette      |   | th(et)tæ           | thꝫtæ           |   |   |   |   | dan |   |   |    |        326-01 |
+| w   |        | thænne         | xAT  | dette      |   | th(et)tæ           | thꝫtæ           |   |   |   |   | dan |   |   |    |        326-01 |
 | w   |        | brev           | xNC  | brev       |   | b(re)f             | bͤf              |   |   |   |   | dan |   |   |    |        326-01 |
 | w   |        | høre           | xVB  | hører      |   | hørær              | hørær           |   |   |   |   | dan |   |   |    |        326-01 |
 | w   |        | læse           | xVB  | læst       |   | læsit              | læſıt           |   |   |   |   | dan |   |   |    |        326-01 |
 | w   |        | æller          | xCC  | æller      |   | ællæs              | ællæ           |   |   |   |   | dan |   |   |    |        326-01 |
 | w   |        | se             | xVB  | ser        |   | seer               | ſeer            |   |   |   |   | dan |   |   |    |        326-01 |
 | w   |        | helse          | xVB  | hilser     |   | Helsær             | Helſær          |   |   |   |   | dan |   |   |    |        326-01 |
-| w   |        | jak            | xPE  | jeg        |   | jæk                | ȷæk             |   |   |   |   | dan |   |   |    |        326-01 |
+| w   |        | jak            | xPD  | jeg        |   | jæk                | ȷæk             |   |   |   |   | dan |   |   |    |        326-01 |
 | PE  | b      |                |      |            |   |                    |                 |   |   |   |   |     |   |   |    |               |
 | w   |        |                | xNP  | Anders     |   | andirs             | andır          |   |   |   |   | dan |   |   |    |        326-01 |
 | w   |        |                | xNP  | Jepsen     |   | jæipss(øn)         | ȷæıpſ          |   |   |   |   | dan |   |   |    |        326-01 |
-| w   |        | thær           | xRP  |            |   | th(er)             | th             |   |   |   |   | dan |   |   |    |        326-01 |
+| PE  | e      |                |      |            |   |                    |                 |   |   |   |   |     |   |   |    |               |
+| w   |        | thær           | xPD  |            |   | th(er)             | th             |   |   |   |   | dan |   |   |    |        326-01 |
 | w   |        | kalle          | xVB  |            |   | kallæs             | kallæ          |   |   |   |   | dan |   |   |    |        326-01 |
+| PE  | b      |                |      |            |   |                    |                 |   |   |   |   |     |   |   |    |               |
 | w   |        |                | xNP  | Lunge      |   | lwngæ              | lwngæ           |   |   |   |   | dan |   |   |    |        326-01 |
 | PE  | e      |                |      |            |   |                    |                 |   |   |   |   |     |   |   |    |               |
 | w   |        | riddere        | xNC  |            |   | riddær             | rıddær          |   |   |   |   | dan |   |   |    |        326-01 |
@@ -96,10 +98,12 @@
 | w   |        | eghen          | xAJ  |            |   | eghyn              | eghy           |   |   |   |   | dan |   |   |    |        326-04 |
 | w   |        | aker           | xNC  |            |   | aghær              | aghær           |   |   |   |   | dan |   |   |    |        326-04 |
 | w   |        | i              | xAP  |            |   | j                  | ȷ               |   |   |   |   | dan |   |   |    |        326-04 |
+| PL  | b      |                |      |            |   |                    |                 |   |   |   |   |     |   |   |    |               |
 | w   |        |                | xNP  |            |   | bagnæ⸠hy⸡va(n)ghyn | bagnæ⸠hy⸡va̅ghy |   |   |   |   | dan |   |   |    |        326-04 |
+| PL  | e      |                |      |            |   |                    |                 |   |   |   |   |     |   |   |    |               |
 | p   |        |                |      |            |   | .                  | .               |   |   |   |   | dan |   |   |    |        326-04 |
 | w   |        | thæn           | xAT  |            |   | the                | the             |   |   |   |   | dan |   |   |    |        326-04 |
-| w   |        | thær           | xRP  |            |   | th(er)             | th             |   |   |   |   | dan |   |   |    |        326-04 |
+| w   |        | thær           | xPD  |            |   | th(er)             | th             |   |   |   |   | dan |   |   |    |        326-04 |
 | w   |        | for            | xAV  |            |   | førræ              | føꝛræ           |   |   |   |   | dan |   |   |    |        326-04 |
 | w   |        | ligje          | xVB  |            |   | laghæ              | laghæ           |   |   |   |   | dan |   |   |    |        326-04 |
 | w   |        | til            | xAP  |            |   | til                | tıl             |   |   |   |   | dan |   |   |    |        326-04 |
@@ -255,9 +259,9 @@
 | w   |        | myk            | xNC  |            |   | myk                | myk             |   |   |   |   | dan |   |   |    |        326-10 |
 | w   |        | til            | xAP  |            |   | til                | tıl             |   |   |   |   | dan |   |   |    |        326-10 |
 | w   |        | ok             | xAV  |            |   | ok                 | ok              |   |   |   |   | dan |   |   |    |        326-10 |
-| w   |        | min            | lat  |            |   | mynæ               | mynæ            |   |   |   |   | dan |   |   |    |        326-10 |
-| w   |        | ærvingge       | lat  |            |   | ærw⟨i⟩nggæ         | ærw⟨i⟩nggæ      |   |   |   |   | dan |   |   |    |        326-10 |
-| w   |        | at             | lat  |            |   | at                 | at              |   |   |   |   | dan |   |   |    |        326-10 |
+| w   |        | min            | xPD  |            |   | mynæ               | mynæ            |   |   |   |   | dan |   |   |    |        326-10 |
+| w   |        | ærving         | xNC  |            |   | ærw⟨i⟩nggæ         | ærw⟨i⟩nggæ      |   |   |   |   | dan |   |   |    |        326-10 |
+| w   |        | at             | xIM  |            |   | at                 | at              |   |   |   |   | dan |   |   |    |        326-10 |
 | w   |        | fri            | xVB  |            |   | fri                | frı             |   |   |   |   | dan |   |   |    |        326-10 |
 | w   |        | ok             | xAV  |            |   | ok                 | ok              |   |   |   |   | dan |   |   |    |        326-10 |
 | w   |        | hæmle          | xAJ  |            |   | hemlæ              | hemlæ           |   |   |   |   | dan |   |   |    |        326-10 |
@@ -275,7 +279,7 @@
 | w   |        | aghræ          | xNC  |            |   | aghræ              | aghræ           |   |   |   |   | dan |   |   |    |        326-11 |
 | w   |        | fare           | xAP  |            |   | for                | foꝛ             |   |   |   |   | dan |   |   |    |        326-11 |
 | w   |        | huars          | xNC  |            |   | hwars              | hwar           |   |   |   |   | dan |   |   |    |        326-11 |
-| w   |        | mans           | lat  |            |   | mans               | man            |   |   |   |   | dan |   |   |    |        326-11 |
+| w   |        | mans           | xNC  |            |   | mans               | man            |   |   |   |   | dan |   |   |    |        326-11 |
 | w   |        | til            | xAP  |            |   | til                | tıl             |   |   |   |   | dan |   |   |    |        326-11 |
 | w   |        | thole          | xVB  |            |   | taal               | taal            |   |   |   |   | dan |   |   |    |        326-11 |
 | w   |        | svm            | xAJ  |            |   | swm                | ſwm             |   |   |   |   | dan |   |   |    |        326-11 |
