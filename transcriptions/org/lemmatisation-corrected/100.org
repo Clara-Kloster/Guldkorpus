@@ -79,11 +79,11 @@
 | p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-03 |
 | w   |        | quo          | PRON  |   | quo           | quo               | quo          |   |   |   |   | lat |   |   |   |        100-03 |
 | w   |        | dominus      | NOUN  |   | dominus       | d(omi)n(u)s       | ꝺn̅s          |   |   |   |   | lat |   |   |   |        100-03 |
-| PE  | b      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| PE  | b      | TruRom001             |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
 | w   |        | thrugotus    | PROPN |   | thrugotus     | Thrugot(us)       | Thrugot     |   |   |   |   | lat |   |   |   |        100-03 |
 | w   |        | romelde      | PROPN |   | romelde       | romelde           | ɼomelꝺe      |   |   |   |   | dan |   |   |   |        100-03 |
 | w   |        | sun          | NOUN  |   | sun           | s(un)             | ẜ            |   |   |   |   | dan |   |   |   |        100-03 |
-| PE  | e      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| PE  | e      | TruRom001             |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
 | w   |        | pius         | ADJ   |   | pie           | pie               | píe          |   |   |   |   | lat |   |   |   |        100-03 |
 | w   |        | recordacio   | NOUN  |   | recordacionis | recordac(i)onis   | ɼecoꝛꝺc̅onís |   |   |   |   | lat |   |   |   |        100-03 |
 | lm  | 100-04 |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
@@ -166,22 +166,28 @@
 | w   |        | discerno     | VERB  |   | discretorum   | discretor(um)     | ꝺıſcretoꝝ    |   |   |   |   | lat |   |   |   |        100-07 |
 | lm  | 100-08 |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
 | w   |        | uir          | NOUN  |   | uirorum       | viror(um)         | ỽíroꝝ        |   |   |   |   | lat |   |   |   |        100-08 |
-| PE  | b      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| PE  | b      | LydHer001
+             |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
 | w   |        | lydik        | PROPN |   | lydik         | lydik             | lyꝺık        |   |   |   |   | dan |   |   |   |        100-08 |
-| PE  | e      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| PE  | e      | LydHer001
+            |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
 | w   |        | frater       | NOUN  |   | fratris       | fr(atr)is         | fr̅ıs         |   |   |   |   | lat |   |   |   |        100-08 |
 | w   |        | meus         | ADJ   |   | mei           | mej               | meȷ          |   |   |   |   | lat |   |   |   |        100-08 |
 | p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-08 |
-| PE  | b      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| PE  | b      | LydMøn001
+             |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
 | w   |        | lydeke       | PROPN |   | lydikæ        | Lydikæ            | Lyꝺıkæ       |   |   |   |   | dan |   |   |   |        100-08 |
 | w   |        | møn          | PROPN |   | møøn          | møøn              | møø         |   |   |   |   | dan |   |   |   |        100-08 |
-| PE  | e      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| PE  | e      | LydMøn001
+             |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
 | p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-08 |
-| PE  | b      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| PE  | b      | BjøPed001
+             |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
 | w   |        | bjørn        | PROPN |   | byorn         | byorn             | byoꝛ        |   |   |   |   | dan |   |   |   |        100-08 |
 | w   |        | peder        | PROPN |   | pæter         | pæt(er)           | pæt͛          |   |   |   |   | dan |   |   |   |        100-08 |
 | w   |        | sun          | NOUN  |   | sun           | sun               | ſu          |   |   |   |   | dan |   |   |   |        100-08 |
-| PE  | e      |              |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
+| PE  | e      | BjøPed001
+             |       |   |               |                   |              |   |   |   |   |     |   |   |   |               |
 | p   |        | .            | PUNCT |   | .             | .                 | .            |   |   |   |   | lat |   |   |   |        100-08 |
 | w   |        | et           | CCONJ |   | et            | (et)              |             |   |   |   |   | lat |   |   |   |        100-08 |
 | w   |        | meus         | ADJ   |   | meo           | meo               | meo          |   |   |   |   | lat |   |   |   |        100-08 |
