@@ -34,59 +34,103 @@ org-mode.
 
 ** Document structure
 The output document follows the org-mode syntax and includes some raw
-XML-code. First, a line for the internal identifier (i.e. text number)
-is produced, but since the XSLT cannot automatically assign this number 
-from a sinlge XML-imput file, the output currently produces two asterisks
-followed by "(TEXT-NUMBER)".
+XML-code. First, a line for an internal identifier is produced (here called "main text number"),
+ i.e. a running number within a given
+ corpus or a comparable project specific identifier. This main text number
+is prefixed with one asterisk.
+PLEASE NOTE: Since the XSLT cannot automatically assign this number 
+from a sinlge XML-imput file, this number needs to be set manually before
+every transformation. See "(TEXT-NUMBER)" in line 9 of the XSLT file.
 
+Next, a line with 17 fields (separated by pipe characters)
+containing meta information is printed in the output document (see example a).
+An additional and very similar line for meta data is inserted at the beginning 
+og each text or chapter (expected to be marked up with =<div>= 
+ as direct child of =<body>=) (see example b).[fn::Note that this requires all the markup,
+ including =<pb>=, =<lb>= and =<figure>=, to be nested within the respective outermost =<div>= element.] 
+That means if more than one text or chapter
+are indicated in the XML file, the output will be seperated into 
+multiple sections. Each section starts with a line giving the chapter count as natural number (and 
+potentially the chapter title in parantheses), prefixed by two asterisks. The subsequent line 
+is the mentioned meta data line for that chapter/text. 
 
-Second, one line with 17 fields (separated by pipe characters)
-containing meta information is addet to the output document.
+#+CAPTION: (a) Example of meta data line for entire file
+#+BEGIN_SRC orgmode
+    |   1 | 2 | 3 |           4 |    5 | 6 |                                     7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+    | :m: | 1 |   | AM 421 12mo | 1514 |   | Den Arnamagnæanske Samling, København |   |   |    |    |    |    |    |    |    |
+#+END_SRC
 
- - This line is identified by =:m:= in the first field.
- - The second field is reserved for the text number, i.e. a running number 
-   within a given corpus, which might be project specific.
- - The third field gives the identifier of the artefact in question
-   (i.e. either the shelfmark or any other ID specified in
-   =<msIdentifier>= or, if not encoded, the contents of =<titleStmt>=).
- - The fourth field gives the date, if present from =<origDate>=, if not
-   from a potentially present =<date>= element in =<origin>=.
+#+CAPTION: (b) Example of meta data line for chapter/text
+#+BEGIN_SRC orgmode
+    |   1 |   2 |               3 |           4 |    5 | 6 |                                     7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+    | :m: | 1:2 | Hil dig, Maria  | AM 421 12mo | 1514 |   | Den Arnamagnæanske Samling, København |   |   |    |    |    |    |    |    |    |
+#+END_SRC
 
-*[:TODO: The following fields have not yet been assigned. Check! Which other*
-*info to include?] Det er endnu lidt uafklaret hvilken type meta-information vi*
-*ender med. Her må vi regne med at at der vil ske ændringer.]*
+The meta data line is identified by =:m:= in the first field.
 
-Third, the output file has a section for notes (three asterisks), with
-subsections for the XML header and potentially information on facsimile mapping,
-the front and/or back matter. All XML files are expected to have a
-=<teiHeader>=, but the other subsections are only produced in cases where
-=<facsimile>=, =<front>= and =<back>=, respectively, are present. All
-subsections simply copy over the XML from the input file and print the code
-within an XML source code block.[fn:: Currently the transformation adds some
+The second field is always holds the main text number. In case of meta data lines for
+multiple texts of chapters, the subnumbers are added to this separated by a colon.
+The subnumber is generated automatically based on the position of the relevant =<div>=
+as child of =<body>=.
+
+The third field is reserved for a text or chapter title (only populated for meta data lines for chapters).
+The stylesheet reads in the contents of a potential =<head>= element as child of the relevant =<div>=.
+
+The fourth field gives the identifier of the artefact in question
+ (i.e. either the shelfmark or any other ID specified in =<idno>= within
+ =<msIdentifier>= or, if not encoded, the contents of =<titleStmt>=).
+
+The fifth field holds the year(s) of origin of the source. If present the information
+is read in from =<origDate>=, otherwise from a potentially present =<date>= element in =<origin>=.
+ 
+The sixth field is reserved for the day and month of origin, if known and encoded (e.g. for charters). 
+If present the information is read in from =<origDate>=, otherwise from a potentially present =<date>= element in =<origin>=,
+where it is expected to be in ISO-format, i.e. YYYY-MM-DD. The output has the format MM-DD.
+
+The seventh field gives the city and repository where the artefact is housed (separated by a comma).
+The data is expected to be encoded as =<settlement>= and  =<repository>= within
+=<msItentifier>= in the XML.
+
+The remaining fields are not generally assigned but can be used for various project specific information.
+
+Following each meta data line the output file has a section for notes (two or three asterisks).
+The first note section of the file (two asterisks) has subsections for
+ the XML header and potentially information on facsimile mapping as well as
+the front and/or back matter. These subsections simply copy over the raw XML from the input 
+file and print the code within an XML source code block.[fn:: Currently the transformation adds some
 unnecessary attributes here if the Menota schema is used.]
+All XML files are expected to have a
+=<teiHeader>=, but the other subsections are only produced in cases where
+=<facsimile>=, =<front>= and =<back>=, respectively, are present. 
 
-Fourth, the output file gives the transcription (three asterisks) in
+Finally, the output file reproduces the transcription (three asterisks) for each text or chapter 
+(depending on the markup of the XML file). The transcription is transformed into
 MenotaB format: Each line has 17 fields (separated by pipe characters)
-that are allocated to slightly varying values or types of information
+that are allocated to varying values or types of information
 depending on the nature of the encoded element (e.g. if it is a word,
-punctuation character etc.). The different elements, their expected
+a name etc.). The different elements, their expected
 XML-encoding, and how the values and attributes are converted and
 represented in the 17 fields of each line in the output are described
-below. The transcription (expected to be found inside =<body>= as a
-child of =<text>=) is processed and returned inside enclosing lines with
+below. Each transcription (expected to be found inside =<div>= that is a direct child of =<body>=, iteself a
+child of =<text>=) is processed and returned within enclosing lines marked with
 =:s:= and =:e:= for "start" end "end".
 
 
 *** Regular words, punctuation characters and numbers
 In general, words that are encoded using =<w>= in the XML file are
-imported in the following way (a = Menotic XML; b = TEI P5; c = a
-fictive example with even more information, output only). Please note:
-For words with additional markup for e.g. emendations or defects
-additional rules may apply; see further below. Punctuation characters
-(encoded either as =<pc>= or =<me:punct>=) and numbers (encoded as
-=<num>=) are treated in the same way as words (as far as applicable).
+imported in the following way (c = Menotic XML; d = TEI P5; e = a
+fictive example with even more information: output only). The 
+output code in the examples also shows an aiding line above the proper code that
+ specifies which kind of information is expected in the respective fields
+for words, punctuation and numbers. 
 
-#+CAPTION: (a)
+Please note: For words with additional markup for e.g. emendations or defects
+additional rules may apply (see below). Punctuation characters
+(encoded in XML either as =<pc>= or =<me:punct>=) and numbers (encoded in XML as
+=<num>=) are treated in the same way as words (as far as applicable),
+but with a different value in the first field (= type).
+
+#+CAPTION: (c)
 #+BEGIN_SRC xml
     <w me:msa="xVB fF tPT mIN p3 nS vA iST" lemma="gefa">
         <choice>
@@ -98,12 +142,13 @@ additional rules may apply; see further below. Punctuation characters
 #+END_SRC
 
 #+BEGIN_SRC orgmode
+    |    1 |      2 |      3 |                           4 |     5 |     6 |    7 |    8 |                 9 |               10 |                11 |     12 |       13 |     14 |     15 |       16 |                 17 |
     | type | lemma1 | lemma2 | msa                         | norm1 | norm2 | dipl | facs | word/image nummer | palaeogr. annot. | graphophon. annot. | notes | language | extra1 | extra2 | spacing? | position in source |
     | w    |        | gefa   | xVB fF tPT mIN p3 nS vA iST |       | gaf   | gaf  | gaꝼ  |            000001 |                  |                    |       |          |        |        |          | 168r-01            |
 #+END_SRC
 
 
-#+CAPTION: (b)
+#+CAPTION: (d)
 #+BEGIN_SRC xml
     <w n="14" lemma="menneske" type="sb">
         <choice>
@@ -114,26 +159,30 @@ additional rules may apply; see further below. Punctuation characters
 #+END_SRC
 
 #+BEGIN_SRC orgmode
+    |    1 |      2 |        3 |   4 |     5 |        6 |           7 |        8 |                 9 |               10 |                  11 |    12 |       13 |     14 |     15 |       16 |                 17 |
     | type | lemma1 | lemma2   | msa | norm1 | norm2    | dipl        | facs     | word/image nummer | palaeogr. annot. | grapho-phon. annot. | notes | language | extra1 | extra2 | spacing? | position in source |
     | w    |        | menneske | sb  |       | menneske | me(n)níſken | men̅íſken |            000023 |                  |                     |       |          |        |        |          | 023ra-10           |
 #+END_SRC
 
 
-#+CAPTION: (c)
+#+CAPTION: (e)
 #+BEGIN_SRC orgmode
+    |    1 |      2 |      3 |            4 |             5 |         6 |     7 |    8 |                 9 |               10 |                  11 |    12 |       13 |     14 |     15 |       16 |                 17 |
     | type | lemma1 | lemma2 | msa          | norm1         | norm2     | dipl  | facs | word/image nummer | palaeogr. annot. | grapho-phon. annot. | notes | language | extra1 | extra2 | spacing? | position in source |
     | w    | ég     | vér    | xPE p1 nP cN | vér           | vér       | W(ær) | W͛   |            000001 |                  | {W:v}{͛:[ér,ǽr]}    |       | oic      |        |        | =        |            168-01  |
 #+END_SRC
 
-In both cases, the first field (= type) takes the value =w= for "word".
-The only exception is when the =<w>= in question is encoded as a
-descendant of =<gap>=, in which case the entire word is assumed to be
+In all three examples, the first field (= type) takes the value =w= for "word"
+(which is also employed when the XML markup uses =<num>= ). 
+When the =<w>= in question is encoded as a
+descendant of =<gap>= the entire word is assumed to be
 lost and the value =L= is printed instead. For punctuation characters
-the first field takes =p=; for numbers =n=.
+the first field takes =p=.
 
 The second and third field are for lemma1 and lemma2, which are read
-from @lemma on =<w>= or =<num>= if encoded (and if present
-@me:orig-lemma). If only one lemma is present, it is assumed to be
+from @lemma on =<w>= if encoded (and if present
+@me:orig-lemma). For =<num>= it is tested if it has a child =<w>= with the relevant 
+markup. If only one lemma is present on =<w>=, it is expected to be
 @lemma (as is the case in both a and b), and its value is read into the
 third field (= lemma2), while the second field is left empty. If an
 additional lemma is encoded, i.e. @me:org-lemma, its value is read into
@@ -141,11 +190,21 @@ the second field (= lemma1) as can be seen in example (c). If there are
 any homonymous lemmata encoded in any of the two attributes (using a
 pipe character as a separator), that character is replaced by a broken
 bar.
+If =<num>= does not have a child =<w>= with information on the lemma encoded
+the value of a potential attribute =@value= on =<num>= is read in. 
 
 The fourth field (= msa) is populated with the morphosyntactic
-annotation if present. If encoded, the value of the attribute @me:msa is
+annotation of =<w>= if present. If so, the value of the attribute @me:msa is
 imported. Otherwise, the value of a potentially present attribute @type
-is read in. If none of these are encoded, the field is left empty.
+on either =<w>= is read in. If none of these are encoded, the field is left empty.
+If =<num>= does not have a child =<w>= with information on morphpsyntactitc analysis 
+the value of a potential attribute =@type= on =<num>= is converted
+in the following way:
+='ordinal'= is printed as =xNO=
+='cardinal'= is printed as =xNA=
+='fraction'= is printed as =xNF=
+='percentage'= is printed as =xNH=.
+If not no =@type= attribute is present, the default is =xNA=.
 
 The fifth and sixth field (= norm1 and norm2) contain the normalized
 form(s) of the word. If only one normalized form is present, it is
@@ -196,17 +255,18 @@ The ninth field (= word/image nummer) is populated automatically, counting all
 is given as a six digit number. If @n is encoded for =<w>= it is not
 considered. If the actual order of words in an artefact differs from the
 logical order (or the order it should be read in), the reordering of
-the words in question is noted in this field by adding additional
-numbers in parentheses behind the numbers. Note that the expected format for 
-marking up reordered text follows the guidelines of the Menota Handbook v.3 with 
+the words in question is noted in this field as well. The XML input is expected to follow
+the logical order of words, which is the one counted by the main number in this field. 
+(The expected markup for reordered text in XML is markup propsed in the guidelines of the Menota Handbook v.3 with 
 multiple =<lb>= milestones that carry different =@rend= attributes
 to indicate the physical rendition of the part of the lines
-in question.) The parentheses first print the value of =@rend= of 
-the preceding <lb> (if it has one), followed by a hyphen and the 
-position of the word or punctuation character within the given part 
-of the line. *[fn:: Neither 
-of these counts consider words spanning more than one line (e.g. at the end of 
-a line) twice, i.e. in terms of images, but rather counts nodes in the XML file.
+in question.)
+In order to indicate that a reordering has occurred and the physical place is different,
+an additional six digit number is supposed to be shown in parentheses behind the first, showing the
+ alternative, physical place. Note, however, that the XSLT transfortmation simply printes the value of =@rend= in
+parantheses and this number is to be corrected in elisp. *[fn:: Neither 
+of these counts consider words spanning more than one line, e.g. at the end of 
+a line, twice (i.e. the count is not based on physical images) but rather counts nodes in the XML file.
 Later this is fixed by an elisp function which overwrites the erroneous numbers. 
 ASK: husk også at ord, der indeholder et =<lb>= med =@rend= ikke får paranteserne
 indlagt (fordi funktionen går på hele ord). Disse ord er dog markeret med en særlig
@@ -217,12 +277,52 @@ transformeret til broken pipe character + @rend + værdien af rend + broken pipe
 The tenth field (= paleograph. annot.) reads in palaeogaphic
 information. More specifically, it imports the contents of =<me:pal>= if
 present. Furthermore, if initials are encoded using =<c>=
-or =<hi>=, the values of all potential attributes are read and printed in this field,
-separated by broken pipe characters. The contents of =<c>= or =<hi>= is 
+or =<hi>=, information from potential attributes is imported into this field.
+
+Potential attributes on =<hi>= have not been standardized and can thus only
+be read in and printed as they appear, and multiple attribute values will be
+ separated by a broken pipe characte.
+
+In case =<c>= is marked up with the standardized attributes for initials according to the 
+Menota Guidelines v. 3.0 these are treated in the following way (otherwise they are read in like attributes on =<hi>=):
+The relevant details on initials are printed in curley brackets that always start with a specification
+of which letter(s) of the word is/are described or if the details concern the entire word.
+This first information is prefixed by "l" (for "location") and counts letters within the 
+respective word, e.g. ={l1}= for the first letter and ={l1-2}= for the first two letters. 
+Alternatively ={lW}= can be used for the entire word.[fn::The XSLT expects initials to be
+located a the beginning of a word with a maximum of two =<c>= elements with =@type=
+of the value ='initial'= per word. If several letters have the same characteristics they can
+be treated in a common =<c>= element.]
+A colon is printed following the specification of the location,
+after which one or multiple values may be listed separated by white spaces. 
+The individual values are prefixed by characteristic letters denoting the kind of 
+information.
+
+- The value of any present =@type= of =<c>= is prefixed by =t= and converted so that 
+ ='initial'= becomes =tIN= in 
+MenotaB and ='noInitial'= becomes =tNO=.
+
+- The value of any present =@subtype= of =<c>= is prefixed by =b= and converted so that
+ ='opening'= is given as =bOP=, ='text'= as =bTE=, ='chapt'= converts into =bCH=, ='para'=
+into =bPa= and ='litNot'= is printed as =bLI=.
+
+- The value of any present =@style= of =<c>= is read in and printed as is, meaning that 
+the prfix =u= continues to stand for "up", =d= for "down", =mu= for "margin up", =md=
+for "margin down" and =c= for "colour".
+
+- The value(s) of any present =@rend= of =<c>= is prefixed by =r= and converted so that 
+='historiated'= is converted into =rHi=, ='foliate'= into =rFo=, ='pen-flourished'=
+is given as =rPf=, ='penwork'= as =rPw=, ='interlaced'= as =rIl=, ='puzzle'= as =rPu=,
+='zoomorphic'= as =rZo=, ='dragon'= as =cDr=, ='inhabited'= as =rIh=,
+='lombard'= as =rLo=, ='versal'= as =rVe=, ='colourStroked'= as =rCs=,
+ ='guideLetter'= as =rGl=, ='other'= as rcOt=. 
+If =@rend= has multiple values separated by white spaces, these are reproduced in the 
+same order, but with underscores in between the shortened codes, e.g. =rPu_Pf= for a puzzle initial
+with pen flourish.
+
+The actual contents of =<c>= or =<hi>= is 
 reproduced in the fields for the facsimile (and potentially diplomatic)
 form of the word according to the XML encoding.
-*[Note that in case a hyphen is encoded with =<c>= and =@type= of the value =hyphen= this attribute value as well as potential others,
-such as =@resp= are reproduced here.]*
 
 The eleventh field (= grapho-phon. annot.) does at present not read in
 anything from the XML input.
@@ -313,6 +413,15 @@ and potentially further parts of the word. The format for the position
 is always the same; the multiple elements are separated by an m-dash
 (e.g. 123v-09---123v-10).
 
+For any words, numbers or punctuation that are childen of =<figure>=, i.e. transcribed
+from illuminations, an additional letter "f" is added in front of the line number 
+(which is expected to be marked-up as =@n= of =<lb>= inside of =<figure>=). It is
+expected to count (manuscript) lines in illuminations per page, starting with 1.
+ For any words, numbers or punctuation that are part of larger
+additions that have nested =<lb>= elements, an additional letter "a" is added in front of the line number.
+Again, the markup in the XML-input is expected to count
+ line numbers separately for those additions (per page).
+
 *** Page breaks, line breaks and column breaks (including hyphenation)
 Markup for page breaks, line breaks, column breaks
  is treated differently depending on whether the milestone
@@ -328,7 +437,8 @@ into a line in the output as shown in the example.
 #+END_SRC
 
 #+BEGIN_SRC orgmode
-    | lm | 126ra-15 |  | 3 | | | | | | | | | | | | | |
+    | 1  |        2 |  3 |  4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+    | lm | 126ra-15 |    |  3 |   |   |   |   |   |    |    |    |    |    |    |    |    |
 #+END_SRC
 
 The first field of that line holds the type designation:
@@ -384,29 +494,32 @@ The remaining fields of the output line are left empty.
 
 If page breaks, line breaks or column breaks occur within a word the
 exact location of the milestone element is retained by means of
-inserting a double pipe character for page breaks in a manuscript and
-double forward slashes (&dblsol;) for a page break in an edition; a single broken
-pipe character for a line break in a manuscript and a single &fracsol; (⁄)
- for a line break in an edition; double closing parentheses for a 
-column break in a manuscript and double opening
-parentheses for a column break in an edition.
+inserting the following characters: 
+
+- ‖ (double pipe character) for page breaks in a manuscript 
+- ⫽ (double forward slashes (i.e. &dblsol;)) for a page break in an edition
+- ¦ (a single broken pipe character) for a line break in a manuscript 
+-  ⁄ (a single &fracsol;) for a line break in an edition
+- ⸩ (double closing parentheses (i.e. &rdblpar;)) for a column break in a manuscript 
+- ⸨ (double opening parentheses (i.e. &ldblpar;)) for a column break in an edition
+
 In case a line break element also has a =@rend= attribute, because the 
 logical order differs from the physical, the stylesheet prints
 a broken pipe character + '@rend' + the value of the rend-attribute +
 a broken pipe character.
-*[ This additional markup for =<lb>= in words with @rend is expected to be removed after handling the text in elisp, as the word/image number field 
-will contain that information.]*  
+*[ This additional markup for =<lb>= in words with @rend is expected to be removed after handling the text in elisp,
+ as the word/image number field will contain that information.]*  
 
 In case of hyphenation at a line break the stylesheet simply reproduces
-any hyphens that are marked up in the XML as present in the manuscript, 
-i.e. not as supplied, without further markup. That is also the case
-when the element =<lb/>= has a =@rend= with the value =hyphen= or when 
+any hyphens that are present in the XML as present in the manuscript, 
+(i.e. not =<supplied>=), without any further markup. 
+A hyphen is also printed in case the element =<lb/>= has a =@rend= with the value =hyphen= or when 
 a hyphen is typed as such and additionally wrapped in =<c>= with a 
 =@type= of the value =hyphen=. 
-If a hyphen is supplied and wrapped in =<supplied>=, it is treated like
+If a hyphen is wrapped in =<supplied>=, it is treated like
 other supplied characters. If it is wrapped in =<me:punct>= (inside of a word) with a
 =@type= of the value =supplied= it is treated in the same way as if it 
-was wrapped in =<supplied>= the only difference being that potential information
+was wrapped in =<supplied>=, the only difference being that potential information
 about the reason for the supplement, i.e. =omitted= or =illegible= is expected
 to be the value of =@subtype= instead of =@reason=.
 
@@ -604,10 +717,13 @@ other with a (more or less) unique identifier. The example shows a
 pointer in a prelimiary format. *[:TODO: Is this inserted
 in EMACS using LISP? ASK sørger for at det sker fra elisp.]*
 
-*** Divisions, heads, segments, paragraphs, line groups and verse lines
-The structural elements =<div>=, =<head>=, =<seg>=, =<p>=, =<lg>= and
+*** Structural elements
+
+**** Divisions, heads, segments, paragraphs, sentences, line groups, verse lines
+
+The structural elements =<div>=, =<head>=, =<seg>=, =<p>=, =<s>=, =<lg>= and
 =<l>= are transformed into beginning and ending lines surrounding the
-transcribed text (similar to the markup for names) as shown in the example.
+transcribed text (similar to the markup for names) as shown in the examples.
 
 #+CAPTION: Example of =<div>= in XML input
 #+BEGIN_SRC xml
@@ -617,14 +733,31 @@ transcribed text (similar to the markup for names) as shown in the example.
 #+END_SRC
 
 #+BEGIN_SRC orgmode
-    | d | b | 3 | 2.2 | chapter | subchapter | | | | | | | | | | | |
+    | 1 | 2 | 3 |   4 |       5 |          6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+    | d | b | 3 | 2.2 | chapter | subchapter |   |   |   |    |    |    |    |    |    |    |    |
     ....
-    | d | e | 3 |     |         |            | | | | | | | | | | | |
+    | d | e | 3 |     |         |            |   |   |   |    |    |    |    |    |    |    |    |
 #+END_SRC
 
+
+#+CAPTION: Example of =<lg>= in XML input
+#+BEGIN_SRC xml
+    <lg n="2" type="stanza" met="iambic dimeter" rhyme="ddeeC">
+    ....
+    </lg>
+#+END_SRC
+
+#+BEGIN_SRC orgmode
+    | 1  | 2 |  3 |  4 |      5 | 6 | 7 | 8 |              9 | 10 |    11 | 12 | 13 | 14 | 15 | 16 | 17 |
+    | lg | b | 11 | 04 | stanza |   |   |   | iambic dimeter |    | ddeeC |    |    |    |    |    |    |
+    ...
+    | lg | e | 11 |    |        |   |   |   |                |    |       |    |    |    |    |    |    |
+#+END_SRC
+
+
 The first field is occupied by the type designation, i.e. =d= for
-=<div>=, =h= for =<head>=, =s= for =<seg>=, =pa= for =<p>=, =lg= for
-=<lg>= and =l= for =<l>=.
+=<div>=, =h= for =<head>=, =sg= for =<seg>=, =pa= for =<p>=, =s= for =<s>, =lg= for
+=<lg>= or =l= for =<l>=.
 
 The second field contains either =b= to mark a beginning line or =e= for
 the end.
@@ -651,13 +784,73 @@ The eighth field of a beginning line reads in the value of any present
 =@rend= attribute. The end line does not repeat this information.
 
 The ninth field of a beginning line reads in the value of any present =@met=
-attribute (e.g. on =<l>=). The end line does not repeat this information.
+attribute (e.g. on =<lg>= or =<l>= ). The end line does not repeat this information.
 
-The tenth field of a beginning line reads in the contents of the element
-if it contains text that is not further marked up by means of =<w>=,
-=<pc>= or =<me:punct>=. The end line does not repeat this information.
+The tenth field of a beginning line reads in the value of any present =@real=
+attribute (e.g. on =<lg>= or =<l>=). The end line does not repeat this information.
+
+The eleventh field of a beginning line reads in the value of any present =@rhyme=
+attribute (e.g. on =<lg>= or =<l>=). The end line does not repeat this information.
 
 The remaining fields are currently left empty.
+
+**** Figures
+
+The produced code for illuminations other than initials (expected to be encoded with =<figure>=
+in the XML) is similar to the output for other structural elements as 
+ both a beginning and ending line are created. The individual fields, 
+however, are populated with slightly different information.
+Moreover, any transcription of words inside of =<figure>= are marked as such 
+in the seventeeth field (position in source). There, the line number
+ (counted internally in the illumination) is preceeded by the letter "f".
+
+#+BEGIN_SRC orgmode
+    |  1 | 2 |    3 |    4 |               5 |               6 |         7 |                 8 |           9 |     10 | 11 | 12 | 13 | 14 | 15 | 16 |         17 |
+    | fi | b | (ID) | (ID2)| (Title)         | (Iconclass nr.) |    (type) |          (colors) | (technique) | (Hand) |    |    |    |    |    |    | (location) |
+    | fi | b |    8 |    9 | Anna selvtredje |          73A221 | full_page | red, blue, yellow |  gold_brush |        |    |    |    |    |    |    | 033v       |   
+ ...
+    | fi | e | (ID) |      |                 |                 |           |                   |             |        |    |    |    |    |    |    |            |
+    | fi | e |    8 |      |                 |                 |           |                   |             |        |    |    |    |    |    |    |            |
+#+END_SRC 
+
+ The first field is occupied by the type designation, i.e. =fi= for
+=<figure>=.
+
+The second field contains either =b= to mark a beginning line or =e= for
+the end.
+
+The third field holds an internal counter, giving the position of the
+element =<figure>= in =<body>= as a natural number. This internal counter is 
+repeated in the ending line.
+
+The fourth field of a beginning line reads in the value of any present
+=@n= attribute of =<figure>=. The end line does not repeat this information.
+
+The fifth field of a beginning line may contain the title of the illumination.
+If present, the contents of a descending =<head>= element is read into
+this field.
+
+The sixth field of a beginning line may contain an identification of the motif
+in form of an Iconclass number, the standard classification system for cultural contents 
+(see www.iconclass.org). At present the field is not populated automatically.
+ 
+The seventh field of a beginning line may contain information on the colours used.
+At present the field is not populated automatically.
+
+The eighth field of a beginning line may contain information on the artistic technique used.
+At present the field is not populated automatically.
+
+The ninth field of a beginning line may contain information on the individaul responsible
+for the illumination (if available). Again, this field is currently not populated automatically.
+
+The tenth through sixteenth field are currently unassigned.
+
+The seventeenth field has the location of the illumination, i.e. is reads in the value of 
+the directly preceeding =<pb>= (and potentially =<cb>=). In case an illumination expands
+ over more than one page or column, this information is expected to be encoded by means of 
+ =<pb>= or =<cb>= within =<figure>=. 
+The output will then add the additional locations separated by an m-dash.
+
 
 *** Additions, deletions, supplied, suppressed/surplus, unclear word, quotes and forme work
 Elements that mark editorial or scribal changes or emendation and are not
@@ -679,9 +872,10 @@ second field.
 #+END_SRC
 
 #+BEGIN_SRC orgmode
-    | su | b | 15 |  | omitted | FinJon | | | | | | | | | | | |
+    | 1  | 2 |  3 | 4 |       5 |      6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+    | su | b | 15 |   | omitted | FinJon |   |   |   |    |    |    |    |    |    |    |    |
     ....
-    | su | e | 15 |  |         |        | | | | | | | | | | | | 
+    | su | e | 15 |   |         |        |   |   |   |    |    |    |    |    |    |    |    | 
 #+END_SRC
 
 The first field of both the beginning and end line is occupied by the
@@ -723,6 +917,12 @@ The ninth field of a beginning line reads in the value of any present
 =@source= attribute. The end line does not repeat this information.
 
 The remaining fields are currently left empty.
+
+Please note that for marginalia that are deemed irrelevant for the 
+transcription the markup is the same as for other longer additions
+but the transcription is placed in the notes section at the beginning of
+each text/chapter and is linked with a unique reference to its location
+relative to the main text.
 
 *** Editorial markup for parts of words or inside of words
 
@@ -809,10 +1009,6 @@ script does not expect the elements =<ex>= and =<expan>= to occur
 inside the same word, but either or.
  
 
-** COMMENT Ekstra spørgsmål
- - “l” (fra <l>) skal blive vist som begyndeles/end-tags. Det var forkert i
-   notater-filen. [ASK retter i notater-filen]
 
- - XSLT stylesheet'et kan ikke indsætte tekstnummer efter de to '**'. I stedet
-   indsætter det en foreløbig markør, nemlig "(TEXT-NUMBER)", som senere skal
-   korrigeres fra elisp
+
+
