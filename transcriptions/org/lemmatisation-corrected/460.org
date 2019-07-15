@@ -34,10 +34,10 @@ vdblac = v with breve
 | w   |        | læse        | vb   |   |   | lesse             | lee          |             |   |   |   | dan |   |   |    |        460-01 |
 | w   |        | helse       | vb   |   |   | Helße             | Helße         |             |   |   |   | dan |   |   |    |        460-01 |
 | w   |        | vi          | pron |   |   | wy                | wÿ            |             |   |   |   | dan |   |   |    |        460-01 |
-| PE  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | b      | BoxJen002            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Bo          | prop |   |   | Bo                | Bo            |             |   |   |   | dan |   |   |    |        460-01 |
 | w   |        | Jenssøn     | prop |   |   | iens(øn)          | ıen          |             |   |   |   | dan |   |   |    |        460-01 |
-| PE  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | e      | BoxJen002            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | lm  | 460-02 |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | af          | præp |   |   | aff               | aﬀ            |             |   |   |   | dan |   |   |    |        460-02 |
 | PL  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
@@ -56,19 +56,19 @@ vdblac = v with breve
 | PL  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | harritt     | vb   |   |   | herrittz          | heꝛꝛittz      |             |   |   |   | dan |   |   |    |        460-03 |
 | w   |        | thing       | sb   |   |   | tingh             | tıngh         |             |   |   |   | dan |   |   |    |        460-03 |
-| PE  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | b      | PerLyk001            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Peter       | prop |   |   | p(er)             | p̲             |             |   |   |   | dan |   |   |    |        460-03 |
 | w   |        | Lykkessøn   | prop |   |   | lyckesßenn        | lyckeſßenn    |             |   |   |   | dan |   |   |    |        460-03 |
-| PE  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | e      | PerLyk001            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | i           | pron |   |   | y                 | ÿ             |             |   |   |   | dan |   |   |    |        460-03 |
 | PL  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        |             | prop |   |   | broerstelle       | bꝛoeꝛﬅelle    |             |   |   |   | dan |   |   |    |        460-03 |
 | PL  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
-| PE  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | b      | JenMad002            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Jens        | adj  |   |   | iens              | ıen          |             |   |   |   | dan |   |   |    |        460-03 |
 | lm  | 460-04 |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Mattssøn    | sb   |   |   | mattzenn(n)       | mattzenn̅      |             |   |   |   | dan |   |   |    |        460-04 |
-| PE  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | e      | JenMad002            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | i           | pron |   |   | y                 | ÿ             |             |   |   |   | dan |   |   |    |        460-04 |
 | PL  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        |             | sb   |   |   | nye(rv)p          | nÿeͮp          |             |   |   |   | dan |   |   |    |        460-04 |
@@ -109,10 +109,10 @@ vdblac = v with breve
 | w   |        | beskethen   | adj  |   |   | besken(n)         | beſken̅        |             |   |   |   | dan |   |   |    |        460-07 |
 | lm  | 460-08 |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | man         | sb   |   |   | mand              | mand          |             |   |   |   | dan |   |   |    |        460-08 |
-| PE  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | b      | MogAnd002            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Moens       | prop |   |   | moens             | moen         |             |   |   |   | dan |   |   |    |        460-08 |
 | w   |        | Anderssøn   | prop |   |   | and(er)sßenn(m)   | andſßenn̅     |             |   |   |   | dan |   |   |    |        460-08 |
-| PE  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | e      | MogAnd002            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | i           | præp |   |   | y                 | ÿ             |             |   |   |   | dan |   |   |    |        460-08 |
 | PL  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Taastrup    | prop |   |   | taast(rv)p        | taaﬅͮp         |             |   |   |   | dan |   |   |    |        460-08 |
@@ -127,11 +127,11 @@ vdblac = v with breve
 | w   |        | vi          | pron |   |   | wor               | woꝛ           |             |   |   |   | dan |   |   |    |        460-09 |
 | w   |        | beskethen   | adj  |   |   | beskenn(n)        | beſkenn̅       |             |   |   |   | dan |   |   |    |        460-09 |
 | w   |        | man         | sb   |   |   | mandtt            | mandtt        |             |   |   |   | dan |   |   |    |        460-09 |
-| PE  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | b      | HanSve001            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Hans        | prop |   |   | Hans              | Han          |             |   |   |   | dan |   |   |    |        460-09 |
 | lm  | 460-10 |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Svendssøn   | prop |   |   | Suenßenn(n)       | ŭenßenn̅      |             |   |   |   | dan |   |   |    |        460-10 |
-| PE  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | e      | HanSve001            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | i           | præp |   |   | y                 | ÿ             |             |   |   |   | dan |   |   |    |        460-10 |
 | PL  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Taastrup    | prop |   |   | tost(rv)p         | toﬅͮp          |             |   |   |   | dan |   |   |    |        460-10 |
@@ -184,10 +184,10 @@ vdblac = v with breve
 | w   |        | lethe       | vb   |   |   | leedt             | leedt         |             |   |   |   | dan |   |   |    |        460-13 |
 | lm  | 460-14 |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | til         | præp |   |   | till              | till          |             |   |   |   | dan |   |   |    |        460-14 |
-| PE  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | b      | MogAnd002            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Moens       | prop |   |   | Moens             | Moen         |             |   |   |   | dan |   |   |    |        460-14 |
 | w   |        | Anders      | prop |   |   | anders            | andeꝛ        |             |   |   |   | dan |   |   |    |        460-14 |
-| PE  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | e      | MogAnd002            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | garth       | sb   |   |   | gaardtt           | gaaꝛdtt       |             |   |   |   | dan |   |   |    |        460-14 |
 | w   |        | i           | præp |   |   | y                 | ÿ             |             |   |   |   | dan |   |   |    |        460-14 |
 | PL  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
@@ -223,10 +223,10 @@ vdblac = v with breve
 | PL  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | lm  | 460-17 |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | ok          | konj |   |   | och               | och           |             |   |   |   | dan |   |   |    |        460-17 |
-| PE  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | b      | HanDey001            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Hans        | prop |   |   | Hans              | Han          |             |   |   |   | dan |   |   |    |        460-17 |
 | w   |        | Deyssen     | prop |   |   | deysßen(n)        | deÿſßen̅       |             |   |   |   | dan |   |   |    |        460-17 |
-| PE  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | e      | HanDey001            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | i           | præp |   |   | y                 | ÿ             |             |   |   |   | dan |   |   |    |        460-17 |
 | PL  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Uggerløse   | prop |   |   | wgg(er)losse      | wggloe      |             |   |   |   | dan |   |   |    |        460-17 |
@@ -261,10 +261,10 @@ vdblac = v with breve
 | w   |        | gange       | vb   |   |   | gick              | gick          |             |   |   |   | dan |   |   |    |        460-20 |
 | w   |        | beskethen   | adj  |   |   | beskenn(n)        | beſkenn̅       |             |   |   |   | dan |   |   |    |        460-20 |
 | w   |        | man         | sb   |   |   | mandtt            | mandtt        |             |   |   |   | dan |   |   |    |        460-20 |
-| PE  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | b      | OluJen005            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Oluf        | pron |   |   | oluff             | olŭﬀ          |             |   |   |   | dan |   |   |    |        460-20 |
 | w   |        | Jensen      | pron |   |   | iensßen(n)        | ıenſßen̅       |             |   |   |   | dan |   |   |    |        460-20 |
-| PE  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | e      | OluJen005            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | i           | præp |   |   | y                 | ÿ             |             |   |   |   | dan |   |   |    |        460-20 |
 | PL  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Uggerløse   | prop |   |   | wgg(er)¦løsse     | wgg¦løe     |             |   |   |   | dan |   |   |    | 460-20—460-21 |
@@ -279,10 +279,10 @@ vdblac = v with breve
 | w   |        | sanhet      | sb   |   |   | ßandh(et)         | ßandhꝫ        |             |   |   |   | dan |   |   |    |        460-21 |
 | w   |        | æfter       | adv  |   |   | ept(er)           | ept          |             |   |   |   | dan |   |   |    |        460-21 |
 | lm  | 460-22 |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
-| PE  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | b      | JenJud001            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Jens        | prop |   |   | iens              | ıen          |             |   |   |   | dan |   |   |    |        460-22 |
 | w   |        | Jude        | prop |   |   | iudes             | ıŭde         |             |   |   |   | dan |   |   |    |        460-22 |
-| PE  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | e      | JenJud001            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | orth        | sb   |   |   | ordtt             | oꝛdtt         |             |   |   |   | dan |   |   |    |        460-22 |
 | w   |        | sum         | pron |   |   | ßom(m)            | ßom̅           |             |   |   |   | dan |   |   |    |        460-22 |
 | w   |        | døth        | adj  |   |   | død               | død           |             |   |   |   | dan |   |   |    |        460-22 |
@@ -311,10 +311,10 @@ vdblac = v with breve
 | w   |        | minde       | sb   |   |   | minde             | minde         |             |   |   |   | dan |   |   |    |        460-24 |
 | w   |        | mæth        | præp |   |   | ⸠m(et)⸡           | ⸠mꝫ⸡          |             |   |   |   | dan |   |   |    |        460-24 |
 | w   |        | af          | præp |   |   | aff               | aﬀ            |             |   |   |   | dan |   |   |    |        460-24 |
-| PE  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | b      | AndHen001            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Anders      | prop |   |   | and(er)s          | and         |             |   |   |   | dan |   |   |    |        460-24 |
 | w   |        | Henningsen  | prop |   |   | henninghzen(n)    | henninghzen̅   |             |   |   |   | dan |   |   |    |        460-24 |
-| PE  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | e      | AndHen001            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | lm  | 460-25 |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | sum         | pron |   |   | ßom(m)            | ßom̅           |             |   |   |   | dan |   |   |    |        460-25 |
 | w   |        | døth        | adj  |   |   | død               | død           |             |   |   |   | dan |   |   |    |        460-25 |
@@ -330,10 +330,10 @@ vdblac = v with breve
 | w   |        | fa          | vb   |   |   | ffyck             | ﬀÿck          |             |   |   |   | dan |   |   |    |        460-25 |
 | w   |        | fornævnd    | adj  |   |   | ffor(nefnde)      | ﬀoꝛᷠͤ           |             |   |   |   | dan |   |   |    |        460-25 |
 | lm  | 460-26 |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
-| PE  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | b      | MogAnd002            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Moens       | prop |   |   | moens             | moen         |             |   |   |   | dan |   |   |    |        460-26 |
 | w   |        | Andersen    | prop |   |   | and(er)sßenn(n)   | andſßenn̅     |             |   |   |   | dan |   |   |    |        460-26 |
-| PE  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | e      | MogAnd002            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | et          | art  |   |   | Ett               | Ett           |             |   |   |   | dan |   |   |    |        460-26 |
 | w   |        | villigh     | adj  |   |   | wuilligtt         | wŭilligtt     |             |   |   |   | dan |   |   |    |        460-26 |
 | w   |        | thing       | sb   |   |   | ting(is)          | tingꝭ         |             |   |   |   | dan |   |   |    |        460-26 |
@@ -350,10 +350,10 @@ vdblac = v with breve
 | w   |        | beskethen   | adj  |   |   | besken(n)         | beſken̅        |             |   |   |   | dan |   |   |    |        460-27 |
 | lm  | 460-28 |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | man         | sb   |   |   | mandtt            | mandtt        |             |   |   |   | dan |   |   |    |        460-28 |
-| PE  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | b      |OluSke001             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Oluf        | prop |   |   | Oloff             | Oloﬀ          |             |   |   |   | dan |   |   |    |        460-28 |
 | w   |        | Skænk       | prop |   |   | skenck            | ſkenck        |             |   |   |   | dan |   |   |    |        460-28 |
-| PE  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | e      | OluSke001            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | i           | præp |   |   | y                 | ÿ             |             |   |   |   | dan |   |   |    |        460-28 |
 | PL  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Sten        | prop |   |   | sten(n)           | ﬅen̅           |             |   |   |   | dan |   |   |    |        460-28 |
@@ -379,77 +379,77 @@ vdblac = v with breve
 | lm  | 460-30 |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | beskethen   | adj  |   |   | beskenn(n)        | beſkenn̅       |             |   |   |   | dan |   |   |    |        460-30 |
 | w   |        | man         | sb   |   |   | mand              | mand          |             |   |   |   | dan |   |   |    |        460-30 |
-| PE  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | b      | OluSme001            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Oluf        | prop |   |   | oluff             | olŭﬀ          |             |   |   |   | dan |   |   |    |        460-30 |
 | w   |        | Smed        | prop |   |   | ßmed              | ßmed          |             |   |   |   | dan |   |   |    |        460-30 |
-| PE  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | e      | OluSme001            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | i           | præp |   |   | y                 | ÿ             |             |   |   |   | dan |   |   |    |        460-30 |
 | PL  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Lunderot    | prop |   |   | lunderodtt        | lŭndeꝛodtt    |             |   |   |   | dan |   |   |    |        460-30 |
 | PL  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
-| PE  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | b      | JenBon003            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Jens        | prop |   |   | iens              | ien          |             |   |   |   | dan |   |   |    |        460-30 |
 | w   |        | Bonne       | prop |   |   | bo(n)ne           | bo̅ne          |             |   |   |   | dan |   |   |    |        460-30 |
-| PE  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | e      | JenBon003            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | af          | præp |   |   | aff               | aﬀ            |             |   |   |   | dan |   |   |    |        460-30 |
 | lm  | 460-31 |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | PL  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Moenstrup   | prop |   |   | moenst(rv)p       | moenﬅͮp        |             |   |   |   | dan |   |   |    |        460-31 |
 | PL  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
-| PE  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | b      | LarXxx001            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Lasse       | prop |   |   | lasse             | lae          |             |   |   |   | dan |   |   |    |        460-31 |
-| PE  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | e      | LarXxx001            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | foghet      | sb   |   |   | ffogidtt          | ﬀogidtt       |             |   |   |   | dan |   |   |    |        460-31 |
 | w   |        | i           | præp |   |   | y                 | ÿ             |             |   |   |   | dan |   |   |    |        460-31 |
 | PL  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Jernløse    | prop |   |   | iern(n)løsse      | ıeꝛn̅løe      |             |   |   |   | dan |   |   |    |        460-31 |
 | PL  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
-| PE  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | b      | LarMog001            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Lasse       | prop |   |   | lasse             | lae          |             |   |   |   | dan |   |   |    |        460-31 |
 | w   |        | Moensen     | prop |   |   | moe(n)s(øn)       | moe̅          |             |   |   |   | dan |   |   |    |        460-31 |
-| PE  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | e      | LarMog001            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | i           | præp |   |   | i                 | i             |             |   |   |   | dan |   |   |    |        460-31 |
 | PL  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Grandløse   | prop |   |   | grandløsse        | grandløe     |             |   |   |   | dan |   |   |    |        460-31 |
 | PL  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | lm  | 460-32 |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
-| PE  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | b      | MogJen001            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Moens       | prop |   |   | moens             | moen         |             |   |   |   | dan |   |   |    |        460-32 |
 | w   |        | Jensen      | prop |   |   | ies(øn)           | ıe           |             |   |   |   | dan |   |   |    |        460-32 |
-| PE  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | e      | MogJen001            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | i           | præp |   |   | y                 | ÿ             |             |   |   |   | dan |   |   |    |        460-32 |
 | PL  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Sten        | prop |   |   | sten(n)           | ﬅen̅           |             |   |   |   | dan |   |   |    |        460-32 |
 | w   |        | magle       | prop |   |   | magle             | magle         |             |   |   |   | dan |   |   |    |        460-32 |
 | PL  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
-| PE  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | b      | JenSka002            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Jens        | prop |   |   | iens              | ıen          |             |   |   |   | dan |   |   |    |        460-32 |
 | w   |        | Skanager    | prop |   |   | skanag(e)re       | ſkanagꝛe     |             |   |   |   | dan |   |   |    |        460-32 |
-| PE  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | e      | JenSka002            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | af          | præp |   |   | aff               | aﬀ            |             |   |   |   | dan |   |   |    |        460-32 |
 | PL  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Østerup     | prop |   |   | øste(rv)p         | øﬅeͮp          |             |   |   |   | dan |   |   |    |        460-32 |
 | PL  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
-| PE  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | b      | PerJen002            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Per         | prop |   |   | p(er)             | p̲             |             |   |   |   | dan |   |   |    |        460-32 |
 | w   |        | Jensen      | prop |   |   | ien¦s(øn)         | ien¦         |             |   |   |   | dan |   |   |    | 460-32—460-33 |
-| PE  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | e      | PerJen002            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | af          | præp |   |   | aff               | aﬀ            |             |   |   |   | dan |   |   |    |        460-33 |
 | PL  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Tyrnet      | prop |   |   | tyrnett           | tyꝛnett       |             |   |   |   | dan |   |   |    |        460-33 |
 | PL  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
-| PE  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | b      | PerLau002            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Per         | prop |   |   | p(er)             | p̲             |             |   |   |   | dan |   |   |    |        460-33 |
 | w   |        | Lauritsen   | prop |   |   | lauridsßen(n)     | lauꝛidſßen̅    |             |   |   |   | dan |   |   |    |        460-33 |
-| PE  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | e      | PerLau002            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | af          | præp |   |   | aff               | aﬀ            |             |   |   |   | dan |   |   |    |        460-33 |
 | PL  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Sønderup    | prop |   |   | ßønne(rv)p        | ßønneͮp        |             |   |   |   | dan |   |   |    |        460-33 |
 | PL  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
-| PE  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | b      | HanStr001            |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | Hans        | prop |   |   | Hans              | Han          |             |   |   |   | dan |   |   |    |        460-33 |
 | w   |        | Strangesen  | prop |   |   | stranges(øn)      | ﬅꝛange       |             |   |   |   | dan |   |   |    |        460-33 |
-| PE  | e      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
+| PE  | e      | HanStr001           |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | w   |        | i           | præp |   |   | {y}               | {ÿ}           |             |   |   |   | dan |   |   |    |        460-33 |
 | lm  | 460-34 |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
 | PL  | b      |             |      |   |   |                   |               |             |   |   |   |     |   |   |    |               |
