@@ -30,11 +30,11 @@
 | w   |        | uel          | CCONJ |   | uel           | v(e)l            | ỽl̅           |   |   |   |   | lat |   |   |   |        102-01 |
 | w   |        | audio        | NOUN  |   | audituris     | audituris        | uꝺıturís    |   |   |   |   | lat |   |   |   |        102-01 |
 | p   |        | .            | PUNCT |   | .             | .                | .            |   |   |   |   | lat |   |   |   |        102-01 |
-| PE  | b      |              |       |   |               |                  |              |   |   |   |   |     |   |   |   |               |
+| PE  | b      | NieHer001             |       |   |               |                  |              |   |   |   |   |     |   |   |   |               |
 | w   |        | nicholaus    | PROPN |   | nicholaus     | Nicholaus        | Nıcholus    |   |   |   |   | lat |   |   |   |        102-01 |
 | w   |        | herman       | PROPN |   | herman        | h(er)man         | h͛mn         |   |   |   |   | dan |   |   |   |        102-01 |
 | w   |        | sun          | PROPN |   | sun           | sun              | sun          |   |   |   |   | dan |   |   |   |        102-01 |
-| PE  | e      |              |       |   |               |                  |              |   |   |   |   |     |   |   |   |               |
+| PE  | e      | NieHer001             |       |   |               |                  |              |   |   |   |   |     |   |   |   |               |
 | p   |        | .            | PUNCT |   | .             | .                | .            |   |   |   |   | lat |   |   |   |        102-01 |
 | w   |        | ciuis        | NOUN  |   | ciuis         | Ciuis            | Cíuís        |   |   |   |   | lat |   |   |   |        102-01 |
 | PL  | b      |              |       |   |               |                  |              |   |   |   |   |     |   |   |   |               |
@@ -64,9 +64,9 @@
 | w   |        | dominus      | NOUN  |   | domini        | d(omi)ni         | ꝺn̅ı          |   |   |   |   | lat |   |   |   |        102-02 |
 | w   |        | meus         | ADJ   |   | mei           | mei              | meı          |   |   |   |   | lat |   |   |   |        102-02 |
 | w   |        | rex          | NOUN  |   | regis         | regis            | regís        |   |   |   |   | lat |   |   |   |        102-02 |
-| PE  | b      |              |       |   |               |                  |              |   |   |   |   |     |   |   |   |               |
+| PE  | b      |  RexEri005            |       |   |               |                  |              |   |   |   |   |     |   |   |   |               |
 | w   |        | ericus       | PROPN |   | erici         | Erici            | rıcí        |   |   |   |   | lat |   |   |   |        102-02 |
-| PE  | e      |              |       |   |               |                  |              |   |   |   |   |     |   |   |   |               |
+| PE  | e      | RexEri005             |       |   |               |                  |              |   |   |   |   |     |   |   |   |               |
 | w   |        | pius         | ADJ   |   | pie           | pie              | píe          |   |   |   |   | lat |   |   |   |        102-02 |
 | w   |        | recordacio   | NOUN  |   | recordacionis | recordac(i)onis  | recoꝛꝺc̅onís |   |   |   |   | lat |   |   |   |        102-02 |
 | lm  | 102-03 |              |       |   |               |                  |              |   |   |   |   |     |   |   |   |               |
@@ -123,14 +123,14 @@
 | w   |        | meus         | ADJ   |   | meum          | meu(m)           | meu̅          |   |   |   |   | lat |   |   |   |        102-05 |
 | w   |        | frater       | NOUN  |   | fratris       | fr(atr)is        | fr̅ıs         |   |   |   |   | lat |   |   |   |        102-05 |
 | w   |        | meus         | PRON  |   | mei           | mei              | meı          |   |   |   |   | lat |   |   |   |        102-05 |
-| PE  | b      |              |       |   |               |                  |              |   |   |   |   |     |   |   |   |               |
+| PE  | b      | LydHer001             |       |   |               |                  |              |   |   |   |   |     |   |   |   |               |
 | w   |        | lydikæ       | PROPN |   | lydikæ        | lydikæ           | lyꝺıkæ       |   |   |   |   | dan |   |   |   |        102-05 |
-| PE  | e      |              |       |   |               |                  |              |   |   |   |   |     |   |   |   |               |
+| PE  | e      | LydHer001             |       |   |               |                  |              |   |   |   |   |     |   |   |   |               |
 | p   |        | .            | PUNCT |   | .             | .                | .            |   |   |   |   | lat |   |   |   |        102-05 |
 | w   |        | et           | CCONJ |   | et            | (et)             |             |   |   |   |   | lat |   |   |   |        102-05 |
-| PE  | b      |              |       |   |               |                  |              |   |   |   |   |     |   |   |   |               |
+| PE  | b      | BjøPed001              |       |   |               |                  |              |   |   |   |   |     |   |   |   |               |
 | w   |        | bero         | PROPN |   | beronis       | beronis          | beronıs      |   |   |   |   | lat |   |   |   |        102-05 |
-| PE  | e      |              |       |   |               |                  |              |   |   |   |   |     |   |   |   |               |
+| PE  | e      | BjøPed001             |       |   |               |                  |              |   |   |   |   |     |   |   |   |               |
 | w   |        | gener        | NOUN  |   | generi        | generi           | generı       |   |   |   |   | lat |   |   |   |        102-05 |
 | w   |        | meus         | ADJ   |   | mei           | mei              | meí          |   |   |   |   | lat |   |   |   |        102-05 |
 | w   |        | appono       | VERB  |   | apposui       | apposui          | oſuí       |   |   |   |   | lat |   |   |   |        102-05 |
