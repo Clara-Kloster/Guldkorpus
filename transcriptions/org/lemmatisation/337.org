@@ -45,7 +45,7 @@ Not in Dipl.Dan? Bekendtgørelse DD 14111217001
 | w   |        | æller        | xCC  |   |   | æll(e)r             | ællr            |   |   |   |   | dan |   |   |    |        337-01 |
 | w   |        | høre         | xAV  |   |   | høræ                | høræ             |   |   |   |   | dan |   |   |    |        337-01 |
 | w   |        | at           | xAV  |   |   | At                  | At               |   |   |   |   | dan |   |   |    |        337-01 |
-| w   |        | affthy       | xAP  |   |   | aff                 | aff              |   |   |   |   | dan |   |   | =  |        337-01 |
+| w   |        | af           | xAP  |   |   | aff                 | aff              |   |   |   |   | dan |   |   | =  |        337-01 |
 | w   |        | thi          | xDP  |   |   | thy                 | thy              |   |   |   |   | dan |   |   | == |               |
 | w   |        | at           | xCC  |   |   | at                  | at               |   |   |   |   | dan |   |   |    |        337-01 |
 | lm  | 337-02 |              |      |   |   |                     |                  |   |   |   |   |     |   |   |    |               |
@@ -289,133 +289,7 @@ Not in Dipl.Dan? Bekendtgørelse DD 14111217001
 | w   |        | altere       | xNC  |   |   | alteræ              | alteræ           |   |   |   |   | dan |   |   |    |        337-10 |
 | w   |        | ok           | xCC  |   |   | oc                  | oc               |   |   |   |   | dan |   |   |    |        337-10 |
 | w   |        | en           | xNA  |   |   | een                 | ee              |   |   |   |   | dan |   |   |    |        337-10 |
-| w   |        | evig         | xAJ  |   |   | ewich               | ewích            |   |   |   |   | dan |   |   |    |        337-10 |
-| w   |        | misse        | xNC  |   |   | mæssæ               | mæſſæ            |   |   |   |   | dan |   |   |    |        337-10 |
-| p   |        |              |      |   |   | .                   | .                |   |   |   |   | dan |   |   |    |        337-10 |
-| w   |        | ok           | xCC  |   |   | oc                  | oc               |   |   |   |   | dan |   |   |    |        337-10 |
-| w   |        | en           | xNA  |   |   | een                 | ee              |   |   |   |   | dan |   |   |    |        337-10 |
-| w   |        | artith       | xNC  |   |   | aartidh             | aartıdh          |   |   |   |   | dan |   |   |    |        337-10 |
-| w   |        | i            | xPD  |   |   | j                   | ȷ                |   |   |   |   | dan |   |   |    |        337-10 |
-| w   |        | fornævnd     | xAJ  |   |   | for(nefnde)         | foꝛͩͤ              |   |   |   |   | dan |   |   |    |        337-10 |
-| PL  | b      |              |      |   |   |                     |                  |   |   |   |   |     |   |   |    |               |
-| w   |        |              | xVB  |   |   | Roskilde            | Roſkılde         |   |   |   |   | dan |   |   |    |        337-10 |
-| PL  | e      |              |      |   |   |                     |                  |   |   |   |   |     |   |   |    |               |
-| w   |        | domkirkje    | xNC  |   |   | domkirkæ            | domkırkæ         |   |   |   |   | dan |   |   |    |        337-10 |
-| w   |        | in           | xAV  |   |   | Jn                  | Jn               |   |   |   |   | dan |   |   |    |        337-10 |
-| w   |        | til          | xAP  |   |   | til                 | tıl              |   |   |   |   | dan |   |   |    |        337-10 |
-| w   |        | domedagh     | xNC  |   |   | domedagh            | domedagh         |   |   |   |   | dan |   |   |    |        337-10 |
-| w   |        | ævinnelik    | xAV  |   |   | ewi(n)nælighæ       | ewı̅nælighæ       |   |   |   |   | dan |   |   |    |        337-10 |
-| w   |        | at           | xIM  |   |   | at                  | at               |   |   |   |   | dan |   |   |    |        337-10 |
-| w   |        | halde        | xVB  |   |   | haldes              | halde           |   |   |   |   | dan |   |   |    |        337-10 |
-| w   |        | i            | xAP  |   |   | j                   | ȷ                |   |   |   |   | dan |   |   |    |        337-10 |
-| w   |        | thæn         | xAT  |   |   | then                | the             |   |   |   |   | dan |   |   |    |        337-10 |
-| lm  | 337-11 |              |      |   |   |                     |                  |   |   |   |   |     |   |   |    |               |
-| w   |        | mate         | xNC  |   |   | madæ                | madæ             |   |   |   |   | dan |   |   |    |        337-11 |
-| w   |        | sum          | xPD  |   |   | som                 | ſo              |   |   |   |   | dan |   |   |    |        337-11 |
-| w   |        | hær          | xAV  |   |   | hær                 | hær              |   |   |   |   | dan |   |   |    |        337-11 |
-| w   |        | æfter        | xAP  |   |   | æffter              | æffter           |   |   |   |   | dan |   |   |    |        337-11 |
-| w   |        | skrive       | xVB  |   |   | screuit             | ſcreuit          |   |   |   |   | dan |   |   |    |        337-11 |
-| w   |        | sta          | xVB  |   |   | star                | ſtar             |   |   |   |   | dan |   |   |    |        337-11 |
-| p   |        |              |      |   |   | .                   | .                |   |   |   |   | dan |   |   |    |        337-11 |
-| w   |        | sva          | xAV  |   |   | Swa                 | wa              |   |   |   |   | dan |   |   |    |        337-11 |
-| w   |        | at           | xCS  |   |   | at                  | at               |   |   |   |   | dan |   |   |    |        337-11 |
-| w   |        | kapitel      | xNC  |   |   | Capitel             | Capıtel          |   |   |   |   | dan |   |   |    |        337-11 |
-| w   |        | i            | xPD  |   |   | j                   | ȷ                |   |   |   |   | dan |   |   |    |        337-11 |
-| w   |        | fornævnd     | xAJ  |   |   | for(nefnde)         | foꝛͩͤ              |   |   |   |   | dan |   |   |    |        337-11 |
-| PL  | b      |              |      |   |   |                     |                  |   |   |   |   |     |   |   |    |               |
-| w   |        |              | xNP  |   |   | Roskilde            | Roſkılde         |   |   |   |   | dan |   |   |    |        337-11 |
-| PL  | e      |              |      |   |   |                     |                  |   |   |   |   |     |   |   |    |               |
-| w   |        | domkirkje    | xNC  |   |   | domkirkæ            | domkirkæ         |   |   |   |   | dan |   |   |    |        337-11 |
-| p   |        |              |      |   |   | .                   | .                |   |   |   |   | dan |   |   |    |        337-11 |
-| w   |        | skule        | xVB  |   |   | scal                | ſcal             |   |   |   |   | dan |   |   |    |        337-11 |
-| w   |        | gen          | xAV  |   |   | gienisten           | gíeníſte        |   |   |   |   | dan |   |   |    |        337-11 |
-| w   |        | late         | xVB  |   |   | ladæ                | ladæ             |   |   |   |   | dan |   |   |    |        337-11 |
-| w   |        | bygje        | xNC  |   |   | byggiæs             | byggıæ          |   |   |   |   | dan |   |   |    |        337-11 |
-| p   |        |              |      |   |   | /                   | /                |   |   |   |   | dan |   |   |    |        337-11 |
-| w   |        | i            | xAP  |   |   | j                   | ȷ                |   |   |   |   | dan |   |   |    |        337-11 |
-| w   |        | thæn         | xAT  |   |   | th(et)              | thꝫ              |   |   |   |   | dan |   |   |    |        337-11 |
-| w   |        | sunner       | xAJ  |   |   | søndræ              | ſøndræ           |   |   |   |   | dan |   |   |    |        337-11 |
-| w   |        | torn         | xNC  |   |   | torn                | tor             |   |   |   |   | dan |   |   |    |        337-11 |
-| w   |        | væsten       | xAJ  |   |   | wæsten              | wæſte           |   |   |   |   | dan |   |   |    |        337-11 |
-| w   |        | i            | xAP  |   |   | j                   | ȷ                |   |   |   |   | dan |   |   |    |        337-11 |
-| lm  | 337-12 |              |      |   |   |                     |                  |   |   |   |   |     |   |   |    |               |
-| PL  | b      |              |      |   |   |                     |                  |   |   |   |   |     |   |   |    |               |
-| w   |        | sankte       | xAJ  |   |   | sancti              | ſancti           |   |   |   |   | lat |   |   |    |        337-12 |
-| w   |        |              | rom  |   |   | lucij               | luciȷ            |   |   |   |   | lat |   |   |    |        337-12 |
-| w   |        | kirke        | xNC  |   |   | kirkæ               | kırkæ            |   |   |   |   | dan |   |   |    |        337-12 |
-| PL  | e      |              |      |   |   |                     |                  |   |   |   |   |     |   |   |    |               |
-| w   |        | i            | xPD  |   |   | j                   | ȷ                |   |   |   |   | dan |   |   |    |        337-12 |
-| PL  | b      |              |      |   |   |                     |                  |   |   |   |   |     |   |   |    |               |
-| w   |        |              | xNP  |   |   | Roskilde            | Roſkılde         |   |   |   |   | dan |   |   |    |        337-12 |
-| PL  | e      |              |      |   |   |                     |                  |   |   |   |   |     |   |   |    |               |
-| p   |        |              |      |   |   | .                   | .                |   |   |   |   | dan |   |   |    |        337-12 |
-| w   |        | en           | xNA  |   |   | een                 | ee              |   |   |   |   | dan |   |   |    |        337-12 |
-| w   |        | kapellan     | xNC  |   |   | Capellæ             | Capellæ          |   |   |   |   | dan |   |   |    |        337-12 |
-| w   |        | mæth         | xAP  |   |   | m(et)               | mꝫ               |   |   |   |   | dan |   |   |    |        337-12 |
-| w   |        | tve          | xNA  |   |   | two                 | two              |   |   |   |   | dan |   |   |    |        337-12 |
-| w   |        | hvælning     | xNC  |   |   | hwælni(n)g(er)      | hwælnı̅g         |   |   |   |   | dan |   |   |    |        337-12 |
-| p   |        |              |      |   |   | .                   | .                |   |   |   |   | dan |   |   |    |        337-12 |
-| w   |        | ok           | xCC  |   |   | oc                  | oc               |   |   |   |   | dan |   |   |    |        337-12 |
-| w   |        | mæth         | xAP  |   |   | m(et)               | mꝫ               |   |   |   |   | dan |   |   |    |        337-12 |
-| w   |        | goth         | xAJ  |   |   | godhæ               | godhæ            |   |   |   |   | dan |   |   |    |        337-12 |
-| w   |        | ny           | xAJ  |   |   | ny                  | ny               |   |   |   |   | dan |   |   |    |        337-12 |
-| w   |        | glarvindughe | xNC  |   |   | glarwindwe          | glarwindwe       |   |   |   |   | dan |   |   |    |        337-12 |
-| p   |        |              |      |   |   | .                   | .                |   |   |   |   | dan |   |   |    |        337-12 |
-| w   |        | ok           | xCC  |   |   | oc                  | oc               |   |   |   |   | dan |   |   |    |        337-12 |
-| w   |        | mæth         | xAP  |   |   | m(et)               | mꝫ               |   |   |   |   | dan |   |   |    |        337-12 |
-| w   |        | ornament     | xNC  |   |   | ornament(is)        | ornamentꝭ        |   |   |   |   | dan |   |   |    |        337-12 |
-| w   |        | ok           | xAV  |   |   | oc                  | oc               |   |   |   |   | dan |   |   |    |        337-12 |
-| w   |        | pictura      | xNC  |   |   | pictur(is)          | picturꝭ          |   |   |   |   | dan |   |   |    |        337-12 |
-| w   |        | ok           | xCC  |   |   | oc                  | oc               |   |   |   |   | dan |   |   |    |        337-12 |
-| w   |        | mæth         | xAP  |   |   | m(et)               | mꝫ               |   |   |   |   | dan |   |   |    |        337-12 |
-| w   |        | anner        | xPD  |   |   | andræ               | andræ            |   |   |   |   | dan |   |   |    |        337-12 |
-| lm  | 337-13 |              |      |   |   |                     |                  |   |   |   |   |     |   |   |    |               |
-| w   |        | stykke       | xNC  |   |   | styckæ              | ſtyckæ           |   |   |   |   | dan |   |   |    |        337-13 |
-| w   |        | sum          | xPD  |   |   | som                 | ſo              |   |   |   |   | dan |   |   |    |        337-13 |
-| w   |        | thær         | xAV  |   |   | th(e)r              | thr             |   |   |   |   | dan |   |   |    |        337-13 |
-| w   |        | til          | xAP  |   |   | til                 | til              |   |   |   |   | dan |   |   |    |        337-13 |
-| w   |        | høre         | xNC  |   |   | høræ                | høræ             |   |   |   |   | dan |   |   |    |        337-13 |
-| p   |        |              |      |   |   | .                   | .                |   |   |   |   | dan |   |   |    |        337-13 |
-| w   |        | sva          | xAV  |   |   | Swa                 | wa              |   |   |   |   | dan |   |   |    |        337-13 |
-| w   |        | at           | xCS  |   |   | at                  | at               |   |   |   |   | dan |   |   |    |        337-13 |
-| w   |        | thæn         | xAT  |   |   | then                | the             |   |   |   |   | dan |   |   |    |        337-13 |
-| w   |        | same         | xAJ  |   |   | sa(m)mæ             | ſa̅mæ             |   |   |   |   | dan |   |   |    |        337-13 |
-| w   |        | kapel        | xNC  |   |   | Capella             | Capella          |   |   |   |   | dan |   |   |    |        337-13 |
-| w   |        | varthe       | xVB  |   |   | wordh(e)r           | wordhr          |   |   |   |   | dan |   |   |    |        337-13 |
-| w   |        | bathe        | xPD  |   |   | badhæ               | badhæ            |   |   |   |   | dan |   |   |    |        337-13 |
-| w   |        | væl          | xAV  |   |   | wæl                 | wæl              |   |   |   |   | dan |   |   |    |        337-13 |
-| w   |        | ljus         | xAJ  |   |   | lywser              | lywſer           |   |   |   |   | dan |   |   |    |        337-13 |
-| p   |        |              |      |   |   | .                   | .                |   |   |   |   | dan |   |   |    |        337-13 |
-| w   |        | ok           | xCC  |   |   | oc                  | oc               |   |   |   |   | dan |   |   |    |        337-13 |
-| w   |        | væl          | xAV  |   |   | wæl                 | wæl              |   |   |   |   | dan |   |   |    |        337-13 |
-| w   |        | fagher       | xAJ  |   |   | fauwer              | fauwer           |   |   |   |   | dan |   |   |    |        337-13 |
-| w   |        | ok           | xCC  |   |   | oc                  | oc               |   |   |   |   | dan |   |   |    |        337-13 |
-| w   |        | goth         | xAJ  |   |   | godh(e)r            | godhr           |   |   |   |   | dan |   |   |    |        337-13 |
-| w   |        | mæth         | xAP  |   |   | m(et)               | mꝫ               |   |   |   |   | dan |   |   |    |        337-13 |
-| w   |        | guth         | xNC  |   |   | gudz                | gudz             |   |   |   |   | dan |   |   |    |        337-13 |
-| w   |        | hjalp        | xNC  |   |   | hiælp               | hıælp            |   |   |   |   | dan |   |   |    |        337-13 |
-| p   |        |              |      |   |   | .                   | .                |   |   |   |   | dan |   |   |    |        337-13 |
-| p   |        |              |      |   |   | /                   | /                |   |   |   |   | dan |   |   |    |        337-13 |
-| w   |        | ok           | xCC  |   |   | Oc                  | Oc               |   |   |   |   | dan |   |   |    |        337-13 |
-| w   |        | thæn         | xAT  |   |   | th(e)n              | th̅              |   |   |   |   | dan |   |   |    |        337-13 |
-| w   |        | same         | xAJ  |   |   | sa(m)me             | ſa̅me             |   |   |   |   | dan |   |   |    |        337-13 |
-| w   |        |              |      |   |   |                     |                  |   |   |   |   | dan |   |   |    |        337-13 |
-| lm  | 337-14 |              |      |   |   |                     |                  |   |   |   |   |     |   |   |    |               |
-| w   |        | kapellan     | xNC  |   |   | Capella             | Capella          |   |   |   |   | dan |   |   |    |        337-14 |
-| w   |        | skule        | xVB  |   |   | scal                | ſcal             |   |   |   |   | dan |   |   |    |        337-14 |
-| w   |        | vikje        | xVB  |   |   | wighes              | wıghe           |   |   |   |   | dan |   |   |    |        337-14 |
-| w   |        | var          | xVB  |   |   | war                 | war              |   |   |   |   | dan |   |   |    |        337-14 |
-| w   |        | frue         | xNC  |   |   | frwæ                | frwæ             |   |   |   |   | dan |   |   |    |        337-14 |
-| w   |        | til          | xAP  |   |   | til                 | tıl              |   |   |   |   | dan |   |   |    |        337-14 |
-| w   |        | hether       | xNC  |   |   | hedher              | hedher           |   |   |   |   | dan |   |   |    |        337-14 |
-| p   |        |              |      |   |   | /                   | /                |   |   |   |   | dan |   |   |    |        337-14 |
-| w   |        | ok           | xCC  |   |   | oc                  | oc               |   |   |   |   | dan |   |   |    |        337-14 |
-| w   |        | hete         | xVB  |   |   | hedæ                | hedæ             |   |   |   |   | dan |   |   |    |        337-14 |
-| PL  | b      |              |      |   |   |                     |                  |   |   |   |   |     |   |   |    |               |
-| w   |        |              | xNP  |   |   | bethlehem           | bethlehe        |   |   |   |   | dan |   |   |    |        337-14 |
-| PL  | e      |              |      |   |   |                     |                  |   |   |   |   |     |   |   |    |               |
-| p   |        |              |      |   |   | /                   | /                |   |   |   |   | dan |   |   |    |        337-14 |
-| w   |        | var          | xVB  |   |   | war                 | war              |   |   |   |   | dan |   |   |    |        337-14 |
+| w   |        | evigh        | xAJ  |   |   |                     | 337-14           |   |   |   |   |     |   |   |    |               |
 | w   |        | frue         | xNC  |   |   | frwæ                | frwæ             |   |   |   |   | dan |   |   |    |        337-14 |
 | w   |        | ok           | xCC  |   |   | oc                  | oc               |   |   |   |   | dan |   |   |    |        337-14 |
 | w   |        | hun          | xPD  |   |   | he(n)næs            | he̅næ            |   |   |   |   | dan |   |   |    |        337-14 |
@@ -423,7 +297,7 @@ Not in Dipl.Dan? Bekendtgørelse DD 14111217001
 | w   |        | sum          | xPD  |   |   | som                 | ſo              |   |   |   |   | dan |   |   |    |        337-14 |
 | w   |        | i            | xAP  |   |   | j                   | ȷ                |   |   |   |   | dan |   |   |    |        337-14 |
 | PL  | b      |              |      |   |   |                     |                  |   |   |   |   |     |   |   |    |               |
-| w   |        | bethlehem    | xAT  |   |   | bethlehem           | bethlehe        |   |   |   |   | dan |   |   |    |        337-14 |
+| w   |        |              | xNP  |   |   | bethlehem           | bethlehe        |   |   |   |   | dan |   |   |    |        337-14 |
 | PL  | e      |              |      |   |   |                     |                  |   |   |   |   |     |   |   |    |               |
 | w   |        | føthe        | xVB  |   |   | føder               | føder            |   |   |   |   | dan |   |   |    |        337-14 |
 | w   |        | være         | xVB  |   |   | war                 | war              |   |   |   |   | dan |   |   |    |        337-14 |
