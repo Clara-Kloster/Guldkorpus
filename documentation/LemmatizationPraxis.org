@@ -1,7 +1,7 @@
 * Lemmatization Praxis
 ** Words not found in Gammeldansk Ordbog
 - compounds :: lemmatized as two parts separated by plus (+): af+vapn = /afvapn/
-
+- Note all parts of compound need to be found in GDO; thus /komeskulende/ = kome + skule xVB
 * For future lemmatization
 - POS-tag xDP (determiner, possessive) incorrectly tagged as xPD
 - punctuation consistently tagged as "prop" or other
