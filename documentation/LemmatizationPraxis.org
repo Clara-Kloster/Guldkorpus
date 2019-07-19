@@ -2,8 +2,10 @@
 ** Words not found in Gammeldansk Ordbog
 - compounds :: lemmatized as two parts separated by plus (+): af+vapn = /afvapn/
 - Note all parts of compound need to be found in GDO; thus /komeskulende/ = kome + skule xVB
+** POS tags
+- Parts of speech (POS) are tagged for the part of speech as found in the lemma entry in GDO. For example, adjectives used adverbially such as /arlik/ are tagged as adjectives.
+- all pronouns and determiners are tagged as xPD (not xPI, xPE, etc)
 * For future lemmatization
-- POS-tag xDP (determiner, possessive) incorrectly tagged as xPD
 - punctuation consistently tagged as "prop" or other
 - /thær/ incorrectly lemmatized as /thæn/
 - <j> never caught as /i/ (preposition)
