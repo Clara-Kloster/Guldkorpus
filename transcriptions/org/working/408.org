@@ -34,10 +34,10 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        |   |             |   |   | hielsær               | hıelſæꝛ      |   |   |   |   | dan |   |   |    |        408-01 |
 | w   |        |   |             |   |   | jegh                  | ȷegh         |   |   |   |   | dan |   |   |    |        408-01 |
 | w   |        |   |             |   |   | mesth(e)r             | meﬅh̅ꝛ        |   |   |   |   | dan |   |   |    |        408-01 |
-| PE  | b      |   |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
+| PE  | b      | HanOlu001  |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        |   |             |   |   | hans                  | han         |   |   |   |   | dan |   |   |    |        408-01 |
 | w   |        |   |             |   |   | Olss(øn)              | Olſ         |   |   |   |   | dan |   |   |    |        408-01 |
-| PE  | e      |   |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
+| PE  | e      | HanOlu001  |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        |   |             |   |   | Canich                | Canich       |   |   |   |   | dan |   |   |    |        408-01 |
 | w   |        |   |             |   |   | i                     | i            |   |   |   |   | dan |   |   |    |        408-01 |
 | PL  | b      |   |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
@@ -61,10 +61,10 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        |   |             |   |   | och                   | och          |   |   |   |   | dan |   |   |    |        408-02 |
 | w   |        |   |             |   |   | h(er)r(is)            | h̅rꝭ          |   |   |   |   | dan |   |   |    |        408-02 |
 | w   |        |   |             |   |   | her                   | heꝛ          |   |   |   |   | dan |   |   |    |        408-02 |
-| PE  | b      |   |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
+| PE  | b      | OluMor001  |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        |   |             |   |   | Oluff                 | Oluff        |   |   |   |   | dan |   |   |    |        408-02 |
 | w   |        |   |             |   |   | morth(e)nss(øn)       | moꝛth̅nſ     |   |   |   |   | dan |   |   |    |        408-02 |
-| PE  | e      |   |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
+| PE  | e      | OluMor001  |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        |   |             |   |   | biscop                | bıſcop       |   |   |   |   | dan |   |   |    |        408-02 |
 | w   |        |   |             |   |   | i                     | i            |   |   |   |   | dan |   |   |    |        408-02 |
 | PL  | b      |   |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
@@ -94,10 +94,10 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        |   |             |   |   | hedh(e)rligh          | hedh̅ꝛlıgh    |   |   |   |   | dan |   |   |    |        408-04 |
 | w   |        |   |             |   |   | ma(n)                 | ma̅           |   |   |   |   | dan |   |   |    |        408-04 |
 | w   |        |   |             |   |   | h(er)                 | h̅            |   |   |   |   | dan |   |   |    |        408-04 |
-| PE  | b      |   |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
+| PE  | b      | OddHan001  |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        |   |             |   |   | Oddæ                  | Oddæ         |   |   |   |   | dan |   |   |    |        408-04 |
 | w   |        |   |             |   |   | hanss(øn)             | hanſ        |   |   |   |   | dan |   |   |    |        408-04 |
-| PE  | e      |   |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
+| PE  | e      | OddHan001  |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        |   |             |   |   | Cantor(e)             | Cantor      |   |   |   |   | dan |   |   |    |        408-04 |
 | w   |        |   |             |   |   | och                   | och          |   |   |   |   | dan |   |   |    |        408-04 |
 | w   |        |   |             |   |   | Canich                | Canich       |   |   |   |   | dan |   |   |    |        408-04 |
@@ -137,9 +137,9 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        |   |             |   |   | for(skreffne)         | foꝛᷠͤ          |   |   |   |   | dan |   |   |    |        408-05 |
 | w   |        |   |             |   |   | h(er)                 | h̅            |   |   |   |   | dan |   |   |    |        408-05 |
 | lm  | 408-06 |   |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
-| PE  | b      |   |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
+| PE  | b      | OddHan001  |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        |   |             |   |   | oddæ                  | oddæ         |   |   |   |   | dan |   |   |    |        408-06 |
-| PE  | e      |   |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
+| PE  | e      | OddHan001  |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        |   |             |   |   | och                   | och          |   |   |   |   | dan |   |   |    |        408-06 |
 | w   |        |   |             |   |   | allæ                  | allæ         |   |   |   |   | dan |   |   |    |        408-06 |
 | w   |        |   |             |   |   | hans                  | han         |   |   |   |   | dan |   |   |    |        408-06 |
@@ -220,10 +220,10 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        |   |             |   |   | gaardh                | gaaꝛdh       |   |   |   |   | dan |   |   |    |        408-10 |
 | w   |        |   |             |   |   | som                   | ſom          |   |   |   |   | dan |   |   |    |        408-10 |
 | w   |        |   |             |   |   | h(er)                 | h̅            |   |   |   |   | dan |   |   |    |        408-10 |
-| PE  | b      |   |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
+| PE  | b      | MogHan001  |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        |   |             |   |   | mawens                | mawen       |   |   |   |   | dan |   |   |    |        408-10 |
 | w   |        |   |             |   |   | hanss(øn)             | hanſ        |   |   |   |   | dan |   |   |    |        408-10 |
-| PE  | e      |   |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
+| PE  | e      | MogHan001  |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        |   |             |   |   | nw                    | nw           |   |   |   |   | dan |   |   |    |        408-10 |
 | w   |        |   |             |   |   | i                     | ı            |   |   |   |   | dan |   |   |    |        408-10 |
 | w   |        |   |             |   |   | boor                  | booꝛ         |   |   |   |   | dan |   |   |    |        408-10 |
@@ -341,9 +341,9 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        |   |             |   |   | skulænd(e)            | ſkulæn      |   |   |   |   | dan |   |   |    |        408-16 |
 | w   |        |   |             |   |   | for(skreffne)         | foꝛᷠͤ          |   |   |   |   | dan |   |   |    |        408-16 |
 | w   |        |   |             |   |   | h(er)                 | h̅            |   |   |   |   | dan |   |   |    |        408-16 |
-| PE  | b      |   |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
+| PE  | b      | OddHan001  |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        |   |             |   |   | Odd(e)                | Od          |   |   |   |   | dan |   |   |    |        408-16 |
-| PE  | e      |   |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
+| PE  | e      | OddHan001  |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        |   |             |   |   | gardh                 | gaꝛdh        |   |   |   |   | dan |   |   |    |        408-16 |
 | w   |        |   |             |   |   | {oc}                  | {oc}         |   |   |   |   | dan |   |   |    |        408-16 |
 | w   |        |   |             |   |   | residencia(m)         | reſıdencıa̅   |   |   |   |   | lat |   |   |    |        408-16 |
@@ -428,10 +428,10 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        |   |             |   |   | gardh                 | gaꝛdh        |   |   |   |   | dan |   |   |    |        408-20 |
 | lm  | 408-21 |   |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        |   |             |   |   | h(er)                 | h̅            |   |   |   |   | dan |   |   |    |        408-21 |
-| PE  | b      |   |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
+| PE  | b      | HenHan001  |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        |   |             |   |   | hænrich               | hænrich      |   |   |   |   | dan |   |   |    |        408-21 |
 | w   |        |   |             |   |   | hanss(øn)             | hanſ        |   |   |   |   | dan |   |   |    |        408-21 |
-| PE  | e      |   |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
+| PE  | e      | HenHan001  |             |   |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        |   |             |   |   | paa                   | paa          |   |   |   |   | dan |   |   |    |        408-21 |
 | w   |        |   |             |   |   | th(e)n                | th̅          |   |   |   |   | dan |   |   |    |        408-21 |
 | w   |        |   |             |   |   | {tidh}                | {tidh}       |   |   |   |   | dan |   |   |    |        408-21 |
