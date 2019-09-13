@@ -26,10 +26,10 @@ wdblac = w with breve
 | lm  | 467-01 |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Wij                       | Wij                |             |   |   |     | dan |   |   |    |        467-01 |
 | w   |        |   |   |   |   | epther(screffne)          | eptherᷠͤ             |             |   |   |     | dan |   |   |    |        467-01 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | OluAnd003  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Oluff                     | Olŭff              |             |   |   |     | dan |   |   |    |        467-01 |
 | w   |        |   |   |   |   | anders(øn)                | ander             |             |   |   |     | dan |   |   |    |        467-01 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | OluAnd003  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-01 |
 | PL  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | gørsløff                  | gørſløff           |             |   |   |     | dan |   |   |    |        467-01 |
@@ -42,15 +42,15 @@ wdblac = w with breve
 | w   |        |   |   |   |   | heritt                    | heritt             |             |   |   |     | dan |   |   |    |        467-01 |
 | PL  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | lm  | 467-02 |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | LauChr001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | laffwris                  | laffwri           |             |   |   |     | dan |   |   |    |        467-02 |
 | w   |        |   |   |   |   | christens(øn)             | chriſten          |             |   |   |     | dan |   |   |    |        467-02 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | LauChr001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-02 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | PedJør002  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-02 |
 | w   |        |   |   |   |   | Jørgens(øn)               | Jørgen            |             |   |   |     | dan |   |   |    |        467-02 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | PedJør002  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-02 |
 | PL  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | herføgle                  | herføgle           |             |   |   |     | dan |   |   |    |        467-02 |
@@ -101,64 +101,64 @@ wdblac = w with breve
 | w   |        |   |   |   |   | fiin                      | fiin               |             |   |   | Fyn | dan |   |   |    |        467-05 |
 | PL  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | p   |        |   |   |   |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-05 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | PedTor003  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-05 |
 | w   |        |   |   |   |   | thors(øn)                 | thor              |             |   |   |     | dan |   |   |    |        467-05 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | PedTor003  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-05 |
 | PL  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | stran¦by                  | ſtran¦bÿ           |             |   |   |     | dan |   |   |    | 467-05—467-06 |
 | PL  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | p   |        |   |   |   |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-06 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | JenJes001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Jens                      | Jen               |             |   |   |     | dan |   |   |    |        467-06 |
 | w   |        |   |   |   |   | Jespers(øn)               | Jeſper            |             |   |   |     | dan |   |   |    |        467-06 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | JenJes001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-06 |
 | PL  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | baritt                    | baritt             |             |   |   |     | dan |   |   |    |        467-06 |
 | PL  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | JenPed014  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Jens                      | Jen               |             |   |   |     | dan |   |   |    |        467-06 |
 | w   |        |   |   |   |   | pers(øn)                  | per               |             |   |   |     | dan |   |   |    |        467-06 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | JenPed014  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | ibid(em)                  | ibid̅.              |             |   |   |     | dan |   |   |    |        467-06 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | JørFin001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Jørgen                    | Jørgen             |             |   |   |     | dan |   |   |    |        467-06 |
 | w   |        |   |   |   |   | finds(øn)                 | find              |             |   |   |     | dan |   |   |    |        467-06 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | JørFin001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-06 |
 | PL  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | kindstrop                 | kindſtrop          |             |   |   |     | dan |   |   |    |        467-06 |
 | PL  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | JenPed016  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Jens                      | Jen               |             |   |   |     | dan |   |   |    |        467-06 |
 | lm  | 467-07 |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | pers(øn)                  | per               |             |   |   |     | dan |   |   |    |        467-07 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | JenPed016  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | ibid(em)                  | ibid̅               |             |   |   |     | lat |   |   |    |        467-07 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | MadDie001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Mas                       | Ma                |             |   |   |     | dan |   |   |    |        467-07 |
 | w   |        |   |   |   |   | diens(øn)                 | dien              |             |   |   |     | dan |   |   |    |        467-07 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | MadDie001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-07 |
 | PL  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | thange                    | thange             |             |   |   |     | dan |   |   |    |        467-07 |
 | PL  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | PedStr002  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-07 |
 | w   |        |   |   |   |   | Strøm                     | trøm              |             |   |   |     | dan |   |   |    |        467-07 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | PedStr002  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-07 |
 | PL  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Staffwerby                | taffwerbÿ         |             |   |   |     | dan |   |   |    |        467-07 |
 | PL  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-07 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | RasJør001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | rasmus                    | raſmŭ             |             |   |   |     | dan |   |   |    |        467-07 |
 | lm  | 467-08 |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Jørgens(øn)               | Jørgen            |             |   |   |     | dan |   |   |    |        467-08 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | RasJør001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-08 |
 | PL  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | maalund                   | maalŭnd            |             |   |   |     | dan |   |   |    |        467-08 |
@@ -187,11 +187,11 @@ wdblac = w with breve
 | w   |        |   |   |   |   | welbiurdiig               | welbiŭrdiig        |             |   |   |     | dan |   |   |    |        467-09 |
 | w   |        |   |   |   |   | fru                       | frŭ                |             |   |   |     | dan |   |   |    |        467-09 |
 | w   |        |   |   |   |   | f(ru)                     | f(:)               |             |   |   |     | dan |   |   |    |        467-09 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | MetRos001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | mette                     | mette              |             |   |   |     | dan |   |   |    |        467-09 |
 | lm  | 467-10 |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Rosenkrantz               | Roſenkrantz        |             |   |   |     | dan |   |   |    |        467-10 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | MetRos001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | thill                     | thill              |             |   |   |     | dan |   |   |    |        467-10 |
 | PL  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | walø                      | walø               |             |   |   |     | dan |   |   |    |        467-10 |
@@ -232,10 +232,10 @@ wdblac = w with breve
 | w   |        |   |   |   |   | welbiurdiige              | welbiŭrdiige       |             |   |   |     | dan |   |   |    |        467-12 |
 | w   |        |   |   |   |   | mand                      | mand               |             |   |   |     | dan |   |   |    |        467-12 |
 | lm  | 467-13 |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | HerSka002  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | herluff                   | herlŭff            |             |   |   |     | dan |   |   |    |        467-13 |
 | w   |        |   |   |   |   | skaffwe                   | ſkaffwe            |             |   |   |     | dan |   |   |    |        467-13 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | HerSka002  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | thiil                     | thiil              |             |   |   |     | dan |   |   |    |        467-13 |
 | PL  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | eskiilstrop               | eſkiiltrop        |             |   |   |     | dan |   |   |    |        467-13 |
@@ -244,10 +244,10 @@ wdblac = w with breve
 | w   |        |   |   |   |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-13 |
 | w   |        |   |   |   |   | welbiurdiig               | welbiŭrdiig        |             |   |   |     | dan |   |   |    |        467-13 |
 | w   |        |   |   |   |   | mand                      | mand               |             |   |   |     | dan |   |   |    |        467-13 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | JakSee001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Jacop                     | Jacop              |             |   |   |     | dan |   |   |    |        467-13 |
 | w   |        |   |   |   |   | se¦ffeld                  | ſe¦ffeld           |             |   |   |     | dan |   |   |    | 467-13—467-14 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | JakSee001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | til                       | til                |             |   |   |     | dan |   |   |    |        467-14 |
 | PL  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | wissborh                  | wiſſborh           |             |   |   |     | dan |   |   |    |        467-14 |
@@ -258,10 +258,10 @@ wdblac = w with breve
 | w   |        |   |   |   |   | welbiurdiig               | welbiŭrdiig        |             |   |   |     | dan |   |   |    |        467-14 |
 | w   |        |   |   |   |   | fru                       | frŭ                |             |   |   |     | dan |   |   |    |        467-14 |
 | w   |        |   |   |   |   | f(ru)                     | f(:)               |             |   |   |     | dan |   |   |    |        467-14 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | BirRos001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | birritte                  | birritte           |             |   |   |     | dan |   |   |    |        467-14 |
 | w   |        |   |   |   |   | rosen krantz              | roſen krantz       |             |   |   |     | dan |   |   |    |        467-14 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | BirRos001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | lm  | 467-15 |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | wegne                     | wegne              |             |   |   |     | dan |   |   |    |        467-15 |
 | w   |        |   |   |   |   | thiil                     | thiil              |             |   |   |     | dan |   |   |    |        467-15 |
@@ -274,10 +274,10 @@ wdblac = w with breve
 | w   |        |   |   |   |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-15 |
 | w   |        |   |   |   |   | welbiurdiige              | welbiŭrdiige       |             |   |   |     | dan |   |   |    |        467-15 |
 | w   |        |   |   |   |   | mand                      | mand               |             |   |   |     | dan |   |   |    |        467-15 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | OluBil001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Oloff                     | Oloff              |             |   |   |     | dan |   |   |    |        467-15 |
 | w   |        |   |   |   |   | bilde                     | bilde              |             |   |   |     | dan |   |   |    |        467-15 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | OluBil001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | lm  | 467-16 |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | thill                     | thill              |             |   |   |     | dan |   |   |    |        467-16 |
 | PL  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
@@ -291,10 +291,10 @@ wdblac = w with breve
 | w   |        |   |   |   |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-16 |
 | w   |        |   |   |   |   | welbiurdiig               | welbiŭrdiig        |             |   |   |     | dan |   |   |    |        467-16 |
 | w   |        |   |   |   |   | fru                       | frŭ                |             |   |   |     | dan |   |   |    |        467-16 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | BirRos001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | birritte                  | birritte           |             |   |   |     | dan |   |   |    |        467-16 |
 | w   |        |   |   |   |   | rosen¦krantzis            | roſen¦krantzi     |             |   |   |     | dan |   |   |    | 467-16—467-17 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | BirRos001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | wegne                     | wegne              |             |   |   |     | dan |   |   |    |        467-17 |
 | p   |        |   |   |   |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-17 |
 | w   |        |   |   |   |   | disligiste                | diſligiſte         |             |   |   |     | dan |   |   |    |        467-17 |
@@ -303,11 +303,11 @@ wdblac = w with breve
 | w   |        |   |   |   |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-17 |
 | w   |        |   |   |   |   | welbiurdiige              | welbiŭrdiige       |             |   |   |     | dan |   |   |    |        467-17 |
 | w   |        |   |   |   |   | Mand                      | Mand               |             |   |   |     | dan |   |   |    |        467-17 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | OluRos002  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | oluff                     | olŭff              |             |   |   |     | dan |   |   |    |        467-17 |
 | lm  | 467-18 |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | rosenspar                 | roſenſpar          |             |   |   |     | dan |   |   |    |        467-18 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | OluRos002  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | thiil                     | thiil              |             |   |   |     | dan |   |   |    |        467-18 |
 | PL  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Skarolt                   | karolt            |             |   |   |     | dan |   |   |    |        467-18 |
@@ -320,10 +320,10 @@ wdblac = w with breve
 | w   |        |   |   |   |   | welbiurdiige              | welbiŭrdiige       |             |   |   |     | dan |   |   |    |        467-18 |
 | lm  | 467-19 |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Fru                       | Frŭ                |             |   |   |     | dan |   |   |    |        467-19 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | MetRos001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Mette                     | Mette              |             |   |   |     | dan |   |   |    |        467-19 |
 | w   |        |   |   |   |   | Rosenkrantz               | Roſenkrantz        |             |   |   |     | dan |   |   |    |        467-19 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | MetRos001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | thiil                     | thiıl              |             |   |   |     | dan |   |   |    |        467-19 |
 | PL  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | waløs                     | walø              |             |   |   |     | dan |   |   |    |        467-19 |
@@ -336,10 +336,10 @@ wdblac = w with breve
 | lm  | 467-20 |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | welbiurdiige              | welbiŭrdiige       |             |   |   |     | dan |   |   |    |        467-20 |
 | w   |        |   |   |   |   | fru                       | frŭ                |             |   |   |     | dan |   |   |    |        467-20 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | KriBøl001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | kirstine                  | kirſtine           |             |   |   |     | dan |   |   |    |        467-20 |
 | w   |        |   |   |   |   | bøllers                   | bøller            |             |   |   |     | dan |   |   |    |        467-20 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | KriBøl001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | fogitt                    | fogitt             |             |   |   |     | dan |   |   |    |        467-20 |
 | w   |        |   |   |   |   | pa                        | pa                 |             |   |   |     | dan |   |   |    |        467-20 |
 | PL  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
@@ -349,9 +349,9 @@ wdblac = w with breve
 | w   |        |   |   |   |   | for(nefnde)               | for.ᷠͤ               |             |   |   |     | dan |   |   |    |        467-20 |
 | w   |        |   |   |   |   | fru                       | frŭ                |             |   |   |     | dan |   |   |    |        467-20 |
 | lm  | 467-21 |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | KriBøl001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | kirstinis                 | kirſtini          |             |   |   |     | dan |   |   |    |        467-21 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | KriBøl001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | wegne                     | wegne              |             |   |   |     | dan |   |   |    |        467-21 |
 | p   |        |   |   |   |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-21 |
 | w   |        |   |   |   |   | ud                        | ŭd                 |             |   |   |     | dan |   |   |    |        467-21 |
@@ -363,10 +363,10 @@ wdblac = w with breve
 | w   |        |   |   |   |   | wel for standiige         | wel for tandiige  |             |   |   |     | dan |   |   |    |        467-21 |
 | w   |        |   |   |   |   | Mand                      | Mand               |             |   |   |     | dan |   |   |    |        467-21 |
 | lm  | 467-22 |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | NieSkr001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Nils                      | Nil               |             |   |   |     | dan |   |   |    |        467-22 |
 | w   |        |   |   |   |   | skriffwer                 | ſkriffwer          |             |   |   |     | dan |   |   |    |        467-22 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | NieSkr001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | aff                       | aff                |             |   |   |     | dan |   |   |    |        467-22 |
 | PL  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | købing haffwin            | købing haffwin     |             |   |   |     | dan |   |   |    |        467-22 |
@@ -850,17 +850,17 @@ wdblac = w with breve
 | w   |        |   |   |   |   | følger                    | følger             |             |   |   |     | dan |   |   |    |        467-53 |
 | p   |        |   |   |   |   | .                         | .                  |             |   |   |     | dan |   |   |    |        467-53 |
 | w   |        |   |   |   |   | først                     | førſt              |             |   |   |     | dan |   |   |    |        467-53 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | PedJør002  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-53 |
 | w   |        |   |   |   |   | Jørgens(øn)               | Jørgen            |             |   |   |     | dan |   |   |    |        467-53 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | PedJør002  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-53 |
 | p   |        |   |   |   |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-53 |
 | lm  | 467-54 |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | LauNie003  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | laffris                   | laffri            |             |   |   |     | dan |   |   |    |        467-54 |
 | w   |        |   |   |   |   | Niels(øn)                 | Niel              |             |   |   |     | dan |   |   |    |        467-54 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | LauNie003  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | thiil ko(m)mir            | thiil ko̅mir        |             |   |   |     | dan |   |   |    |        467-54 |
 | w   |        |   |   |   |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-54 |
 | w   |        |   |   |   |   | Sinderste                 | inderſte          |             |   |   |     | dan |   |   |    |        467-54 |
@@ -887,19 +887,19 @@ wdblac = w with breve
 | w   |        |   |   |   |   | thiil                     | thiil              |             |   |   |     | dan |   |   |    |        467-56 |
 | w   |        |   |   |   |   | holt                      | holt               |             |   |   |     | dan |   |   |    |        467-56 |
 | p   |        |   |   |   |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-56 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | FraJør001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | frantz                    | frantz             |             |   |   |     | dan |   |   |    |        467-56 |
 | w   |        |   |   |   |   | Jørgens(øn)               | Jørgen            |             |   |   |     | dan |   |   |    |        467-56 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | FraJør001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | HanOls002  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | hans                      | han               |             |   |   |     | dan |   |   |    |        467-56 |
 | w   |        |   |   |   |   | ols(øn)                   | ol                |             |   |   |     | dan |   |   |    |        467-56 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | HanOls002  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-56 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | OluAnd003  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | oluff                     | olŭff              |             |   |   |     | dan |   |   |    |        467-56 |
 | w   |        |   |   |   |   | anders(øn)                | ander             |             |   |   |     | dan |   |   |    |        467-56 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | OluAnd003  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | thiil ko(m)mir            | thiil ko̅mir        |             |   |   |     | dan |   |   |    |        467-56 |
 | lm  | 467-57 |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-57 |
@@ -911,76 +911,76 @@ wdblac = w with breve
 | w   |        |   |   |   |   | nest                      | neſt               |             |   |   |     | dan |   |   |    |        467-57 |
 | w   |        |   |   |   |   | opthiil                   | opthiil            |             |   |   |     | dan |   |   |    |        467-57 |
 | p   |        |   |   |   |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-57 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | JenMor004  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Jens                      | Jen               |             |   |   |     | dan |   |   |    |        467-57 |
 | w   |        |   |   |   |   | morthens(øn)              | morthen           |             |   |   |     | dan |   |   |    |        467-57 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | JenMor004  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | ChrJiu001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | christen                  | chriſten           |             |   |   |     | dan |   |   |    |        467-57 |
 | lm  | 467-58 |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Jiunde                    | Jiŭnde             |             |   |   |     | dan |   |   |    |        467-58 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | ChrJiu001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | MogLau001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | mons                      | mon               |             |   |   |     | dan |   |   |    |        467-58 |
 | w   |        |   |   |   |   | laffris(øn)               | laffri            |             |   |   |     | dan |   |   |    |        467-58 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | MogLau001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | PerKnu001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | per                       | per                |             |   |   |     | dan |   |   |    |        467-58 |
 | w   |        |   |   |   |   | knuds(øn)                 | knŭd              |             |   |   |     | dan |   |   |    |        467-58 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | PerKnu001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-58 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | PedBun001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-58 |
 | w   |        |   |   |   |   | bundde                    | bŭndde             |             |   |   |     | dan |   |   |    |        467-58 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | PedBun001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | thiil komer               | thiil komer        |             |   |   |     | dan |   |   |    |        467-58 |
 | w   |        |   |   |   |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-58 |
 | lm  | 467-59 |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | triidde                   | triidde            |             |   |   |     | dan |   |   |    |        467-59 |
 | w   |        |   |   |   |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-59 |
 | p   |        |   |   |   |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-59 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | MogLau001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | mons                      | mon               |             |   |   |     | dan |   |   |    |        467-59 |
 | w   |        |   |   |   |   | laffris(øn)               | laffri            |             |   |   |     | dan |   |   |    |        467-59 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | MogLau001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-59 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | PerKnu001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-59 |
 | w   |        |   |   |   |   | knuds(øn)                 | knŭd              |             |   |   |     | dan |   |   |    |        467-59 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | PerKnu001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | thiil komir               | thiil komir        |             |   |   |     | dan |   |   |    |        467-59 |
 | w   |        |   |   |   |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-59 |
 | w   |        |   |   |   |   | fierdde                   | fierdde            |             |   |   |     | dan |   |   |    |        467-59 |
 | lm  | 467-60 |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-60 |
 | p   |        |   |   |   |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-60 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | PedNie010  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-60 |
 | w   |        |   |   |   |   | nilsen                    | nilſen             |             |   |   |     | dan |   |   |    |        467-60 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | PedNie010  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-60 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | LauMog001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | laffris                   | laffri            |             |   |   |     | dan |   |   |    |        467-60 |
 | w   |        |   |   |   |   | mons(øn)                  | mon               |             |   |   |     | dan |   |   |    |        467-60 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | LauMog001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | thiil komir               | thiil komir        |             |   |   |     | dan |   |   |    |        467-60 |
 | w   |        |   |   |   |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-60 |
 | w   |        |   |   |   |   | femptte                   | femptte            |             |   |   |     | dan |   |   |    |        467-60 |
 | w   |        |   |   |   |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-60 |
 | lm  | 467-61 |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | NieJør001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Niels                     | Niel              |             |   |   |     | dan |   |   |    |        467-61 |
 | w   |        |   |   |   |   | Jørgens(øn)               | Jørgen            |             |   |   |     | dan |   |   |    |        467-61 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | NieJør001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | PedBun001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-61 |
 | w   |        |   |   |   |   | bundde                    | bŭndde             |             |   |   |     | dan |   |   |    |        467-61 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | PedBun001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-61 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | OluIps002  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | oluff                     | olŭff              |             |   |   |     | dan |   |   |    |        467-61 |
 | w   |        |   |   |   |   | ips(øn)                   | ip                |             |   |   |     | dan |   |   |    |        467-61 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | OluIps002  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | thiil komir               | thiil komir        |             |   |   |     | dan |   |   |    |        467-61 |
 | w   |        |   |   |   |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-61 |
 | w   |        |   |   |   |   | Siette                    | iette             |             |   |   |     | dan |   |   |    |        467-61 |
@@ -1040,20 +1040,20 @@ wdblac = w with breve
 | w   |        |   |   |   |   | epther                    | epther             |             |   |   |     | dan |   |   |    |        467-65 |
 | w   |        |   |   |   |   | laaden                    | laaden             |             |   |   |     | dan |   |   |    |        467-65 |
 | w   |        |   |   |   |   | thiil kom                 | thiil ko          |             |   |   |     | dan |   |   |    |        467-65 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | NieJør001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Nils                      | Nil               |             |   |   |     | dan |   |   |    |        467-65 |
 | w   |        |   |   |   |   | Jøri(n)s(øn)              | Jøri̅              |             |   |   |     | dan |   |   |    |        467-65 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | NieJør001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | lm  | 467-66 |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | PedBun001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-66 |
 | w   |        |   |   |   |   | bundde                    | bŭndde             |             |   |   |     | dan |   |   |    |        467-66 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | PedBun001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-66 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | OluIps002  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | oluff                     | olŭff              |             |   |   |     | dan |   |   |    |        467-66 |
 | w   |        |   |   |   |   | ips(øn)                   | ip                |             |   |   |     | dan |   |   |    |        467-66 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | OluIps002  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | p   |        |   |   |   |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-66 |
 | w   |        |   |   |   |   | Nest                      | Neſt               |             |   |   |     | dan |   |   |    |        467-66 |
 | w   |        |   |   |   |   | op                        | op                 |             |   |   |     | dan |   |   |    |        467-66 |
@@ -1062,76 +1062,76 @@ wdblac = w with breve
 | w   |        |   |   |   |   | skuffs                    | ſkŭff             |             |   |   |     | dan |   |   |    |        467-66 |
 | w   |        |   |   |   |   | gierde                    | gierde             |             |   |   |     | dan |   |   |    |        467-66 |
 | p   |        |   |   |   |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-66 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | FraJør001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | frans                     | fran              |             |   |   |     | dan |   |   |    |        467-66 |
 | lm  | 467-67 |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Jørins(øn)                | Jørin             |             |   |   |     | dan |   |   |    |        467-67 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | FraJør001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | HanOls002  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | hans                      | han               |             |   |   |     | dan |   |   |    |        467-67 |
 | w   |        |   |   |   |   | ols(øn)                   | ol                |             |   |   |     | dan |   |   |    |        467-67 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | HanOls002  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-67 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | OluAnd003  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | oluff                     | olŭff              |             |   |   |     | dan |   |   |    |        467-67 |
 | w   |        |   |   |   |   | anders(øn)                | ander             |             |   |   |     | dan |   |   |    |        467-67 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | OluAnd003  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | thiil komir               | thiil komir        |             |   |   |     | dan |   |   |    |        467-67 |
 | w   |        |   |   |   |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-67 |
 | w   |        |   |   |   |   | anden                     | anden              |             |   |   |     | dan |   |   |    |        467-67 |
 | w   |        |   |   |   |   | boeel                     | boeel              |             |   |   |     | dan |   |   |    |        467-67 |
 | p   |        |   |   |   |   | :                         | :                  |             |   |   |     | dan |   |   |    |        467-67 |
 | pb  | 467-68 |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | PedJør002  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Peder                     | Peder              |             |   |   |     | dan |   |   |    |        467-68 |
 | w   |        |   |   |   |   | Jørins(øn)                | Jørin             |             |   |   |     | dan |   |   |    |        467-68 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | PedJør002  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-68 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | LauNie003  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | laffris                   | laffri            |             |   |   |     | dan |   |   |    |        467-68 |
 | w   |        |   |   |   |   | Nils(øn)                  | Nil               |             |   |   |     | dan |   |   |    |        467-68 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | LauNie003  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | thiil komir               | thiil komir        |             |   |   |     | dan |   |   |    |        467-68 |
 | w   |        |   |   |   |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-68 |
 | w   |        |   |   |   |   | triidde                   | triidde            |             |   |   |     | dan |   |   |    |        467-68 |
 | w   |        |   |   |   |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-68 |
 | p   |        |   |   |   |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-68 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | JenMor004  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Jens                      | Jen               |             |   |   |     | dan |   |   |    |        467-68 |
 | w   |        |   |   |   |   | morthens(øn)              | morthen           |             |   |   |     | dan |   |   |    |        467-68 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | JenMor004  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | lm  | 467-69 |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | ChrJiu001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | christen                  | chriſten           |             |   |   |     | dan |   |   |    |        467-69 |
 | w   |        |   |   |   |   | Jiude                     | Jiŭde              |             |   |   |     | dan |   |   |    |        467-69 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | ChrJiu001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | MogLau001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Mons                      | Mon               |             |   |   |     | dan |   |   |    |        467-69 |
 | w   |        |   |   |   |   | laffris(øn)               | laffri            |             |   |   |     | dan |   |   |    |        467-69 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | MogLau001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | PerKnu001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-69 |
 | w   |        |   |   |   |   | knuds(øn)                 | knŭd              |             |   |   |     | dan |   |   |    |        467-69 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | PerKnu001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-69 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | PedBun001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-69 |
 | w   |        |   |   |   |   | bunde                     | bŭnde              |             |   |   |     | dan |   |   |    |        467-69 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | PedBun001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | thiil¦komir               | thiil¦komir        |             |   |   |     | dan |   |   |    | 467-69—467-70 |
 | w   |        |   |   |   |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-70 |
 | w   |        |   |   |   |   | fierde                    | fierde             |             |   |   |     | dan |   |   |    |        467-70 |
 | w   |        |   |   |   |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-70 |
 | p   |        |   |   |   |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-70 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | PedNie010  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-70 |
 | w   |        |   |   |   |   | nils(øn)                  | nil               |             |   |   |     | dan |   |   |    |        467-70 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | PedNie010  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-70 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | MogLau001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | mons                      | mon               |             |   |   |     | dan |   |   |    |        467-70 |
 | w   |        |   |   |   |   | laffris(øn)               | laffri            |             |   |   |     | dan |   |   |    |        467-70 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | MogLau001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | thiil komir               | thiil komir        |             |   |   |     | dan |   |   |    |        467-70 |
 | p   |        |   |   |   |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-70 |
 | lm  | 467-71 |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
@@ -1144,15 +1144,15 @@ wdblac = w with breve
 | w   |        |   |   |   |   | Nordiste                  | Nordiſte           |             |   |   |     | dan |   |   |    |        467-71 |
 | w   |        |   |   |   |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-71 |
 | w   |        |   |   |   |   | thiil komir               | thiil komir        |             |   |   |     | dan |   |   |    |        467-71 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | MogLau001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | mons                      | mon               |             |   |   |     | dan |   |   |    |        467-71 |
 | w   |        |   |   |   |   | laff¦risen                | laff¦riſen         |             |   |   |     | dan |   |   |    | 467-71—467-72 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | MogLau001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-72 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | PerKnu001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-72 |
 | w   |        |   |   |   |   | knuds(øn)                 | knŭd              |             |   |   |     | dan |   |   |    |        467-72 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | PerKnu001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | p   |        |   |   |   |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-72 |
 | w   |        |   |   |   |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-72 |
 | w   |        |   |   |   |   | pa                        | pa                 |             |   |   |     | dan |   |   |    |        467-72 |
@@ -1171,10 +1171,10 @@ wdblac = w with breve
 | de  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | mand                      | mand               |             |   |   |     | dan |   |   |    |        467-73 |
 | de  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | NieSkr001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Nils                      | Nil               |             |   |   |     | dan |   |   |    |        467-73 |
 | w   |        |   |   |   |   | skriffwere                | ſkriffwere         |             |   |   |     | dan |   |   |    |        467-73 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | NieSkr001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | aff                       | aff                |             |   |   |     | dan |   |   |    |        467-73 |
 | PL  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | kø¦bing haffwin           | kø¦bing haffwin    |             |   |   |     | dan |   |   |    | 467-73—467-74 |
@@ -1200,66 +1200,66 @@ wdblac = w with breve
 | w   |        |   |   |   |   | som                       | ſom                |             |   |   |     | dan |   |   |    |        467-75 |
 | w   |        |   |   |   |   | er                        | er                 |             |   |   |     | dan |   |   |    |        467-75 |
 | lm  | 467-76 |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | NiePed013  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Nils                      | Nil               |             |   |   |     | dan |   |   |    |        467-76 |
 | w   |        |   |   |   |   | pers(øn)                  | per               |             |   |   |     | dan |   |   |    |        467-76 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | NiePed013  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-76 |
 | PL  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | skrosbierh                | ſkroſbierh         |             |   |   |     | dan |   |   |    |        467-76 |
 | PL  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | JenPed014  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Jens                      | Jen               |             |   |   |     | dan |   |   |    |        467-76 |
 | w   |        |   |   |   |   | pers(øn)                  | per               |             |   |   |     | dan |   |   |    |        467-76 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | JenPed014  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | JenPou005  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Jens                      | Jen               |             |   |   |     | dan |   |   |    |        467-76 |
 | w   |        |   |   |   |   | pouls(øn)                 | poŭl              |             |   |   |     | dan |   |   |    |        467-76 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | JenPou005  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | PerJen003  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | per                       | per                |             |   |   |     | dan |   |   |    |        467-76 |
 | w   |        |   |   |   |   | Jens(øn)                  | Jen               |             |   |   |     | dan |   |   |    |        467-76 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | PerJen003  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | lm  | 467-77 |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | MogIps001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | mons                      | mon               |             |   |   |     | dan |   |   |    |        467-77 |
 | w   |        |   |   |   |   | ips(øn)                   | ip                |             |   |   |     | dan |   |   |    |        467-77 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | MogIps001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | JenMad003  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Jens                      | Jen               |             |   |   |     | dan |   |   |    |        467-77 |
 | w   |        |   |   |   |   | matzin                    | matzin             |             |   |   |     | dan |   |   |    |        467-77 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | JenMad003  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | LauMor001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | laffris                   | laffri            |             |   |   |     | dan |   |   |    |        467-77 |
 | w   |        |   |   |   |   | Morthens(øn)              | Morthen           |             |   |   |     | dan |   |   |    |        467-77 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | LauMor001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | TroKnu001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | troels                    | troel             |             |   |   |     | dan |   |   |    |        467-77 |
 | w   |        |   |   |   |   | knudßen                   | knŭdßen            |             |   |   |     | dan |   |   |    |        467-77 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | TroKnu001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | lm  | 467-78 |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | JørAnd001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Jørgen                    | Jørgen             |             |   |   |     | dan |   |   |    |        467-78 |
 | w   |        |   |   |   |   | ander[ßen]                | ander[ßen]         |             |   |   |     | dan |   |   |    |        467-78 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | JørAnd001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | HanIps002  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | hans                      | han               |             |   |   |     | dan |   |   |    |        467-78 |
 | w   |        |   |   |   |   | ips(øn)                   | ip                |             |   |   |     | dan |   |   |    |        467-78 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | HanIps002  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-78 |
 | PL  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | herfø⸌l⸍gle               | herfø⸌l⸍gle        |             |   |   |     | dan |   |   |    |        467-78 |
 | PL  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | AndAnd001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | [a]nders                  | [a]nder           |             |   |   |     | dan |   |   |    |        467-78 |
 | w   |        |   |   |   |   | anders(øn)                | ander             |             |   |   |     | dan |   |   |    |        467-78 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | AndAnd001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-78 |
-| PE  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | b      | JørIps001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | Jørin                     | Jørin              |             |   |   |     | dan |   |   |    |        467-78 |
 | lm  | 467-79 |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | ips(øn)                   | ip                |             |   |   |     | dan |   |   |    |        467-79 |
-| PE  | e      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PE  | e      | JørIps001  |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-79 |
 | PL  | b      |   |   |   |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |   |   |   |   | thornby                   | thornbÿ            |             |   |   |     | dan |   |   |    |        467-79 |
