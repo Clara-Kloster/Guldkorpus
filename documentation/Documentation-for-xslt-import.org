@@ -252,19 +252,19 @@ characters used are the same as for changes or emendations within a word
 
 The ninth field (= word/image nummer) is populated automatically, counting all
 =<w>=, =<pc>= (or =<me:punct>=) and =<num>= elements in the =<body>=. The output
-is given as a six digit number. If @n is encoded for =<w>= it is not
+is given as a six digit number. If @n is encoded for =<w>= in the input file it is not
 considered. If the actual order of words in an artefact differs from the
-logical order (or the order it should be read in), the reordering of
+logical order (or the order it should be read in) such as in discontinuous rubrics, the reordering of
 the words in question is noted in this field as well. The XML input is expected to follow
 the logical order of words, which is the one counted by the main number in this field. 
-(The expected markup for reordered text in XML is markup propsed in the guidelines of the Menota Handbook v.3 with 
+(The expected XML markup for reordered text with regards to rubrics is the markup proposed in the guidelines of the Menota Handbook v.3 with 
 multiple =<lb>= milestones that carry different =@rend= attributes
 to indicate the physical rendition of the part of the lines
 in question.)
 In order to indicate that a reordering has occurred and the physical place is different,
 an additional six digit number is supposed to be shown in parentheses behind the first, showing the
  alternative, physical place. Note, however, that the XSLT transfortmation simply printes the value of =@rend= in
-parantheses and this number is to be corrected in elisp. *[fn:: Neither 
+parantheses and this number is to be corrected in elisp.*[fn:: Neither 
 of these counts consider words spanning more than one line, e.g. at the end of 
 a line, twice (i.e. the count is not based on physical images) but rather counts nodes in the XML file.
 Later this is fixed by an elisp function which overwrites the erroneous numbers. 
@@ -274,10 +274,25 @@ tegnkombination i transskriptionsfelterne, hvor =<lb>= elementet bliver
 transformeret til broken pipe character + @rend + værdien af rend + broken pipe
  character i stedet for en enkel broken pipe character. ]*
 
+For cases of transposition of words, that is indicated in the manuscript, the first (six digit) number indicates the corrected
+place of the word in question. A second number is supposed to be printed in round brackets, indicating
+the original ordering. These numbers are single digits that count separately within each enclosing set of lines 
+for transposition (marked =ts=). Since the stylesheet does not produce these numbers for the original order
+automatically, it prints either the original or desired order above the relevant opening line for the transpostition and expects 
+post-processing to generate the right numbers.[fn:: For XML input according to Menota, the original order of words is indicated by means of a separate line per word that is prefixed with
+ORDER OF WORDS PRIOR TO TRANSPOSITION, which are expected to be substituted. In the word counter in the line for
+each individual word has the space holder ADD-ORIGINAL-NUMBER is printed. For XML input according to TEI the desired order of words
+is indicated by such additional lines before the opening line for the transposition, but these lines are prefixed by DESIRED ORDER OF WORDS ACCORDING TO
+TRANSPOSITION. They give the value =@target= attributes on =<ptr>= elements --in that order-- in a relevant =<transpose>=
+element anywhere in the document. These numbers are matched by the values of individual @xml:id attributes for every element to which 
+the transposition applies. These values are printed in square brackets behind the word
+counter behind for each word and expected to be replaced.] 
+
+
 The tenth field (= paleograph. annot.) reads in palaeogaphic
 information. More specifically, it imports the contents of =<me:pal>= if
-present. Furthermore, if initials are encoded using =<c>=
-or =<hi>=, information from potential attributes is imported into this field.
+present. In addition, if initials are encoded using =<c>=
+or =<hi>=, information from their attributes is imported into this field.
 
 Potential attributes on =<hi>= have not been standardized and can thus only
 be read in and printed as they appear, and multiple attribute values will be
@@ -285,7 +300,7 @@ be read in and printed as they appear, and multiple attribute values will be
 
 In case =<c>= is marked up with the standardized attributes for initials according to the 
 Menota Guidelines v. 3.0 these are treated in the following way (otherwise they are read in like attributes on =<hi>=):
-The relevant details on initials are printed in curley brackets that always start with a specification
+The encoded details on initials are printed in curley brackets that always start with a specification
 of which letter(s) of the word is/are described or if the details concern the entire word.
 This first information is prefixed by "l" (for "location") and counts letters within the 
 respective word, e.g. ={l1}= for the first letter and ={l1-2}= for the first two letters. 
@@ -294,7 +309,7 @@ located a the beginning of a word with a maximum of two =<c>= elements with =@ty
 of the value ='initial'= per word. If several letters have the same characteristics they can
 be treated in a common =<c>= element.]
 A colon is printed following the specification of the location,
-after which one or multiple values may be listed separated by white spaces. 
+after which one or multiple values may be listed, separated by white spaces. 
 The individual values are prefixed by characteristic letters denoting the kind of 
 information.
 
@@ -304,10 +319,10 @@ MenotaB and ='noInitial'= becomes =tNO=.
 
 - The value of any present =@subtype= of =<c>= is prefixed by =b= and converted so that
  ='opening'= is given as =bOP=, ='text'= as =bTE=, ='chapt'= converts into =bCH=, ='para'=
-into =bPa= and ='litNot'= is printed as =bLI=.
+into =bPa= and ='littNot'= is printed as =bLI=.
 
 - The value of any present =@style= of =<c>= is read in and printed as is, meaning that 
-the prfix =u= continues to stand for "up", =d= for "down", =mu= for "margin up", =md=
+the prefix =u= continues to stand for "up", =d= for "down", =mu= for "margin up", =md=
 for "margin down" and =c= for "colour".
 
 - The value(s) of any present =@rend= of =<c>= is prefixed by =r= and converted so that 
@@ -315,7 +330,7 @@ for "margin down" and =c= for "colour".
 is given as =rPf=, ='penwork'= as =rPw=, ='interlaced'= as =rIl=, ='puzzle'= as =rPu=,
 ='zoomorphic'= as =rZo=, ='dragon'= as =cDr=, ='inhabited'= as =rIh=,
 ='lombard'= as =rLo=, ='versal'= as =rVe=, ='colourStroked'= as =rCs=,
- ='guideLetter'= as =rGl=, ='other'= as rcOt=. 
+ ='guideLetter'= as =rGl=, ='other'= as rOt=. 
 If =@rend= has multiple values separated by white spaces, these are reproduced in the 
 same order, but with underscores in between the shortened codes, e.g. =rPu_Pf= for a puzzle initial
 with pen flourish.
@@ -535,7 +550,7 @@ printed within the word to indicate the exact location (see below) and a line
 is produced preceding the word that contains the milestone element in order
 to retain potential additional information from any present attributes. 
 
-#+CAPTION: Example of XML with =<space/>= element
+#+CAPTION: XML example of a =<space/>= element
 #+BEGIN_SRC xml
     <space extent="3" unit="lines" dim="vertical" resp="BS"/>
 #+END_SRC
@@ -852,14 +867,15 @@ the directly preceeding =<pb>= (and potentially =<cb>=). In case an illumination
 The output will then add the additional locations separated by an m-dash.
 
 
-*** Additions, deletions, supplied, suppressed/surplus, unclear word, quotes and forme work
-Elements that mark editorial or scribal changes or emendation and are not
-found within words in the XML but rather surrounding words are
+*** Additions, deletions, supplied, suppressed/surplus, unclear word, quotes, forme work and transposition
+Elements that mark editorial or scribal changes or emendations and are treated differently
+ depending on whether they concern wholes words or individual letters within a word.
+When this kind of markup is found surrounding word-tags in the XML, it is 
 transformed into beginning and end lines surrounding the transcribed
 text (similar to the markup for names and structural markup). In
 addition to that, the word forms in question receive additional
 editorial mark-up on all transcriptional levels. If such elements occur
-within words, they are converted to the relevant
+within words, on the other hand, they are converted to the relevant
 editorial mark-up (see below) in addition to a single preceding line
 that follows the structure of an opening line, but takes =X= in the 
 second field.
@@ -882,18 +898,51 @@ The first field of both the beginning and end line is occupied by the
 type designation, i.e. =ad= for =<add>=, =de= for =<del>=, =su= for
 =<supplied>=, =uc= for =<unclear>=, =sd= for =<me:suppressed>=,
 =<surplus>= (as well as the older element =<me:expunged>=), =q= for
-=<quote>=, =<q>= and =fw= for =<fw>=.
+=<quote>=,  =fw= for =<fw>= and =ts= for transpositions, the XML markup of
+which differs between pure TEI XML and Menota v. 3.0 conformat encoding.
+
+For transpositions encoded according to the Menota handbook, the stylesheet
+expects the elements =<orig>= and =<reg>= within a common =<choice>= element.
+While for =<reg>= the attribute =@type= with the value ="transposition"= is 
+required, =<orig>= is expected to have an attribute =@rend=. The stylesheet only
+reads in the words enclosed in the =<reg>= element and suppresses the contents
+of the =<orig>= to avoid duplicates.[fn::Since the stylesheet cannot automatically supply the enclosed 
+lines for individual words with the correct numbers for the original word order,
+ the XSLT prints additional lines in front of the enclosing
+=ts= lines giving the order of words as they occur in =<orig>= on norm-level prefixed with ORDER OF WORDS PRIOR TO TRASPOSITION.]
+ For encodings of this
+phenomenon according to the TEI guidelines, the stylesheet expects a consecutive 
+series of elements of the same name (other than the also expected =<w>=) that each 
+have an attribute =@xml:id=, for which it
+is able to find the matching values in =@target= (with preceding #) in a
+list of =<ptr>= elements that are nested inside a common =<transpose>=
+ (anywhere in the XML docuement). Please note that the stylesheet expects all words
+within a such sequence to be tagged, even if words in the middle would stay in there place,
+i.e. if the manuscript has "word3 word2 word1" all three words need to be tagged instead 
+of simply tagging a transposition of word3 and word1. Any present transposition sign
+are expected to be encoded with the element =<metamark>= that is nested within
+the element that encloses the relevant word or words.[fn::Please note that for this encoding
+the stylesheet does currently not correct the order of the words to be transposed but
+prints them in the order they occur in the input XML. Further, the stylesheet prints an individual line per element 
+to be transposed above the opening line for =ts= that indicates the desired order of words by printing the values of
+their associated =@xml:id= attributes prefixed by DESIRED ORDER OF WORDS ACCORDING TO TRANSPOSITION.]
 
 The second field contains either =b= to mark a beginning line or =e= for
 the end. If the markup in question occurs within a word, this field
-takes =X=.
+takes =X=.[fn::Since the standards for XML do not have options 
+for encoding transposition, the stylesheet does not expect any in-word
+encoding on transpositions in XML.]
 
 The third field holds an internal counter, giving the position of the
 element in question in =<body>= (only counting elements of the same name
-as self). This internal counter is repeated in the end line.
+as self). This internal counter is repeated in the end line. Note that 
+transpositions do not have such an internal counter, meaning this field
+is left empty.[fn::Alex: I dette følger jeg Rasmuses kodning, men er ikke sikker, om det er noget I har diskuteret.]
 
 The fourth field of a beginning line reads in the value of any present
-=@type= attribute. The end line does not repeat this information.
+=@type= attribute. The end line does not repeat this information. Note
+that this is not the case for transpositions (when encoded according 
+to Menota v. 3.0), because the value of =@type= is expected to always be ="transposition"=.
 
 The fifth field of a beginning line reads in the value of any present
 =@reason= attribute. The end line does not repeat this information.
@@ -903,23 +952,34 @@ The sixth field of a beginning line reads in the value of any present
 
 The seventh field of a beginning line reads in the value of any present
 =@hand= attribute. The end line does not repeat this information.
+For transpositions encoded according to TEI the value of =@resp=
+on any present =<metamark>= element is read in instead.
 
 The eighth field of a beginning line reads in the value of any present
 =@rend= attribute. The end line does not repeat this information.
+For transpositions encoded according to Menota v.3.0 this line reads in the value
+of that attribute on the =<orig>= element. For encodings according to TEI the
+content of any present =<metamark>= element within 
+the element of choice that is used for marking up a sequence for transposition is read in.
+If multiple metamarks are encoded, the stylesheet prints them separated by white spaces.
 
 The ninth field of a beginning line reads in the value of any present
 =@place= attribute. The end line does not repeat this information.
+For transpositions encoded according to TEI the value of =@place=
+on any present =<metamark>= element is read in instead.
 
 The ninth field of a beginning line reads in the value of any present
 =@agent= attribute. The end line does not repeat this information.
 
-The ninth field of a beginning line reads in the value of any present
+The tenth field of a beginning line reads in the value of any present
 =@source= attribute. The end line does not repeat this information.
+For transpositions encoded according to TEI the value of =@source=
+on any present =<metamark>= element is read in instead.
 
 The remaining fields are currently left empty.
 
-Please note that for marginalia that are deemed irrelevant for the 
-transcription the markup is the same as for other longer additions
+Please note that for marginalia which are deemed irrelevant for the 
+transcription, the markup is the same as for other longer additions
 but the transcription is placed in the notes section at the beginning of
 each text/chapter and is linked with a unique reference to its location
 relative to the main text.
