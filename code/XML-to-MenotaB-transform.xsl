@@ -5,7 +5,8 @@
     <xsl:output encoding="UTF-8" method="xml" />
     <xsl:strip-space elements="*"/>
     
-    
+    <!-- !! TEXT-NUMBER to be filled in manually before transformation !! -->
+    <xsl:variable name="text-number" select="1"/>
     
 <!-- Copyright (C) 2018 Beeke Stegmann
 
@@ -25,13 +26,19 @@ GNU General Public License for more details.
 The GNU General Public License is available at <http://www.gnu.org/licenses/>. -->
     
     <xsl:template match="TEI"> 
-        <xsl:text>&#x0a;** (TEXT-NUMBER) </xsl:text> <!-- create org-mode syntax -->
-        <!-- text number to be filled in -->
         
+        <!-- create main text number -->
+        <xsl:text>&#x0a;* </xsl:text><xsl:value-of select="$text-number"/><xsl:text> (TEXT-NUMBER)</xsl:text>
+      
+      
         <!-- create line with meta information (drawn from header) -->
         <xsl:text>&#x0a;| :m: | </xsl:text>
         
-        <!-- empty field for text number (project specific running number) -->
+        <!-- main text number (project specific running number) -->
+        <xsl:value-of select="$text-number"/>
+        <xsl:text> | </xsl:text>
+        
+        <!-- empty field (can be used for title, which is usually only used for chapters -->
         <xsl:text> | </xsl:text>
         
         <!-- add ID (i.e. shelfmark or main title of document) -->
@@ -41,32 +48,89 @@ The GNU General Public License is available at <http://www.gnu.org/licenses/>. -
         </xsl:choose>
         <xsl:text> | </xsl:text>
         
-        <!-- add date (from origDate or origin) -->
+        <!-- add year (from origDate or origin) -->
         <xsl:choose>
         <xsl:when test="descendant::origDate">
             <xsl:choose>
-                <xsl:when test="descendant::origDate[attribute::when]"><xsl:value-of select="descendant::origDate/@when"/></xsl:when>
+                <xsl:when test="descendant::origDate[attribute::when]">
+                    <xsl:choose>
+                        <xsl:when test="descendant::origDate/@when/contains(., '-')">
+                            <xsl:value-of select="descendant::origDate/@when/substring-before(., '-')"/>
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <xsl:value-of select="descendant::origDate/@when"/>
+                        </xsl:otherwise>
+                    </xsl:choose>
+                </xsl:when>
                 <xsl:when test="descendant::origDate[attribute::notBefore]"><xsl:value-of select="descendant::origDate/@notBefore"/><xsl:text>-</xsl:text><xsl:value-of select="descendant::origDate/@notAfter"/></xsl:when>
                 <xsl:otherwise><xsl:value-of select="descendant::origDate"/></xsl:otherwise>
             </xsl:choose>
         </xsl:when>
             <xsl:when test="descendant::origin/descendant::date">
                 <xsl:choose>
-                    <xsl:when test="descendant::origin/descendant::date/attribute::when"><xsl:value-of select="descendant::origin/descendant::date/date/@when"/></xsl:when>
-                    <xsl:when test="descendant::origin/descendant::date/attribute::notBefore"><xsl:value-of select="descendant::origin/descendant::date/date/@notBefore"/><xsl:text>-</xsl:text><xsl:value-of select="descendant::origin/descendant::date/date/@notAfter"/></xsl:when>
-                    <xsl:otherwise><xsl:value-of select="descendant::origin/descendant::date/date"/></xsl:otherwise>
+                    <xsl:when test="descendant::origin/descendant::date/attribute::when">
+                        
+                        <xsl:choose>
+                            <xsl:when test="descendant::origin/descendant::date/@when/contains(., '-')">
+                                <xsl:value-of select="descendant::origin/descendant::date/@when/substring-before(., '-')"/>
+                            </xsl:when>
+                            <xsl:otherwise>
+                                <xsl:value-of select="descendant::origin/descendant::date/@when"/>
+                            </xsl:otherwise>
+                        </xsl:choose>
+                        
+                    </xsl:when>
+                    <xsl:when test="descendant::origin/descendant::date/attribute::notBefore"><xsl:value-of select="descendant::origin/descendant::date/@notBefore"/><xsl:text>-</xsl:text><xsl:value-of select="descendant::origin/descendant::date/@notAfter"/></xsl:when>
+                    <xsl:otherwise><xsl:value-of select="descendant::origin/descendant::date"/></xsl:otherwise>
                 </xsl:choose>
             </xsl:when>
         </xsl:choose>
         <xsl:text> | </xsl:text>
         
-        <xsl:text> |  |  |  |  |  |  |  |  |  |  |  |  |</xsl:text> <!-- end meta info line -->
+        <!-- add date (month and day) (from origDate or origin) -->
+        <xsl:choose>
+            <xsl:when test="descendant::origDate">
+                <xsl:choose>
+                    <xsl:when test="descendant::origDate[attribute::when]">
+                        <xsl:choose>
+                            <xsl:when test="descendant::origDate/@when/contains(., '-')">
+                                <xsl:value-of select="descendant::origDate/@when/substring-after(., '-')"/>
+                            </xsl:when>
+                            <xsl:otherwise></xsl:otherwise>
+                        </xsl:choose>
+                    </xsl:when>
+                </xsl:choose>
+            </xsl:when>
+            <xsl:when test="descendant::origin/descendant::date">
+                <xsl:choose>
+                    <xsl:when test="descendant::origin/descendant::date/attribute::when">
+                        
+                        <xsl:choose>
+                            <xsl:when test="descendant::origin/descendant::date/@when/contains(., '-')">
+                                <xsl:value-of select="descendant::origin/descendant::date/@when/substring-after(., '-')"/>
+                            </xsl:when>
+                            <xsl:otherwise>
+                            </xsl:otherwise>
+                        </xsl:choose>
+                    </xsl:when>
+                     </xsl:choose>
+            </xsl:when>
+        </xsl:choose>
+        <xsl:text> | </xsl:text>
+        
+        <!-- add repositorya and settlement-->
+        <xsl:if test="descendant::msIdentifier/descendant::settlement"><xsl:value-of select="descendant::msIdentifier/descendant::settlement"/></xsl:if>
+        <xsl:if test="descendant::msIdentifier/descendant::repository"><xsl:text>, </xsl:text><xsl:value-of select="descendant::msIdentifier/descendant::repository"/></xsl:if>
+        
+        <xsl:text> | </xsl:text>
+        
+        <xsl:text> |  |  |  |  |  |  |  |  |  |</xsl:text> <!-- end meta info line -->
        
        <!-- create org-mode syntax for note -->
-        <xsl:text>&#x0a;*** Notes</xsl:text>
+        <xsl:text>&#x0a;** Notes</xsl:text>
         
         <!-- copy-paste header info as subchapter of notes -->
-        <xsl:text>&#x0a;**** XML header</xsl:text>
+        <xsl:text>&#x0a;*** XML header</xsl:text>
         <xsl:text>&#x0a;#+BEGIN_SRC xml&#x0a;</xsl:text>
        <xsl:copy-of select="teiHeader" copy-namespaces="no" /> <!-- Note: inserts too many attributes if Menota schema is present in input -->
         <xsl:text>&#x0a;#+END_SRC</xsl:text>
@@ -74,7 +138,7 @@ The GNU General Public License is available at <http://www.gnu.org/licenses/>. -
         <!-- copy-paste facsimile info (if present) as subchapter of notes -->
        <xsl:choose>
            <xsl:when test="descendant::facsimile">
-        <xsl:text>&#x0a;**** XML facsimile info</xsl:text>
+        <xsl:text>&#x0a;*** XML facsimile info</xsl:text>
                <xsl:text>&#x0a;#+BEGIN_SRC xml&#x0a;</xsl:text>
                <xsl:copy-of select="facsimile" copy-namespaces="no"/>
                <xsl:text>&#x0a;#+END_SRC</xsl:text>
@@ -83,21 +147,18 @@ The GNU General Public License is available at <http://www.gnu.org/licenses/>. -
         
         <!-- copy-paste front/back info (if present) as subchapter of notes -->
             <xsl:if test="descendant::text[descendant::front]">
-                <xsl:text>&#x0a;**** XML front matter</xsl:text>
+                <xsl:text>&#x0a;*** XML front matter</xsl:text>
                 <xsl:text>&#x0a;#+BEGIN_SRC xml&#x0a;</xsl:text>
                 <xsl:copy-of select="descendant::text/descendant::front" copy-namespaces="no"/>
                 <xsl:text>&#x0a;#+END_SRC</xsl:text>
             </xsl:if>
         <xsl:if test="descendant::text[descendant::back]">
-            <xsl:text>&#x0a;**** XML back matter</xsl:text>
+            <xsl:text>&#x0a;*** XML back matter</xsl:text>
             <xsl:text>&#x0a;#+BEGIN_SRC xml&#x0a;</xsl:text>
             <xsl:copy-of select="descendant::text/descendant::back" copy-namespaces="no"/>
             <xsl:text>&#x0a;#+END_SRC</xsl:text>
         </xsl:if>
         
-       
-        <!-- create org-mode syntax for transcriotion -->
-        <xsl:text>&#x0a;*** Transcription&#x0a;</xsl:text>
         <xsl:apply-templates/> <!-- call templates for transcription transformation -->
     </xsl:template>
       
@@ -105,19 +166,134 @@ The GNU General Public License is available at <http://www.gnu.org/licenses/>. -
     <xsl:template match="teiHeader|facsimile|front|back"/>
     
     
-    <xsl:template match="text/body">
+    <xsl:template match="text/body"> 
+        
+        <!-- create the same syntax for each text (or chapter) starting with subline for meta data, followed by space for notes and the transcription -->
+        <xsl:for-each select="child::div">
+            
+            <!-- create text number (for individual chapter) and potentially show the title -->
+            <xsl:text>&#x0a;** </xsl:text><xsl:number format="1" from="body" level="single" count="//div"/> 
+            <xsl:if test="head"><xsl:text> (</xsl:text><xsl:value-of select="head"/><xsl:text>)</xsl:text></xsl:if>
+            
+            <!-- create line with meta information (drawn from header) -->
+            <xsl:text>&#x0a;| :m: | </xsl:text>
+            
+            <!-- text and chapter number -->
+            <xsl:value-of select="$text-number"/><xsl:text>:</xsl:text><xsl:number format="1" from="body" level="single" count="//div"/> 
+            <xsl:text> | </xsl:text>
+            
+            <!-- add title -->
+            <xsl:if test="head"><xsl:text>(</xsl:text><xsl:value-of select="head"/><xsl:text>)</xsl:text></xsl:if>
+            <xsl:text> | </xsl:text>
+            
+            <!-- add ID (i.e. shelfmark or main title of document) -->
+            <xsl:choose>
+                <xsl:when test="ancestor::TEI/descendant::msIdentifier/descendant::idno"><xsl:value-of select="ancestor::TEI/descendant::msIdentifier/descendant::idno"/></xsl:when>
+                <xsl:otherwise><xsl:value-of select="ancestor::TEI/descendant::titleStmt/title"/></xsl:otherwise>
+            </xsl:choose>
+            <xsl:text> | </xsl:text>
+            
+            <!-- add year (from origDate or origin) -->
+            <xsl:choose>
+                <xsl:when test="ancestor::TEI/descendant::origDate">
+                    <xsl:choose>
+                        <xsl:when test="ancestor::TEI/descendant::origDate[attribute::when]">
+                            <xsl:choose>
+                                <xsl:when test="ancestor::TEI/descendant::origDate/@when/contains(., '-')">
+                                    <xsl:value-of select="ancestor::TEI/descendant::origDate/@when/substring-before(., '-')"/>
+                                </xsl:when>
+                                <xsl:otherwise>
+                                    <xsl:value-of select="ancestor::TEI/descendant::origDate/@when"/>
+                                </xsl:otherwise>
+                            </xsl:choose>
+                        </xsl:when>
+                        <xsl:when test="ancestor::TEI/descendant::origDate[attribute::notBefore]"><xsl:value-of select="ancestor::TEI/descendant::origDate/@notBefore"/><xsl:text>-</xsl:text><xsl:value-of select="ancestor::TEI/descendant::origDate/@notAfter"/></xsl:when>
+                        <xsl:otherwise><xsl:value-of select="ancestor::TEI/descendant::origDate"/></xsl:otherwise>
+                    </xsl:choose>
+                </xsl:when>
+                <xsl:when test="ancestor::TEI/descendant::origin/descendant::date">
+                    <xsl:choose>
+                        <xsl:when test="ancestor::TEI/descendant::origin/descendant::date/attribute::when">
+                            
+                            <xsl:choose>
+                                <xsl:when test="ancestor::TEI/descendant::origin/descendant::date/@when/contains(., '-')">
+                                    <xsl:value-of select="ancestor::TEI/descendant::origin/descendant::date/@when/substring-before(., '-')"/>
+                                </xsl:when>
+                                <xsl:otherwise>
+                                    <xsl:value-of select="ancestor::TEI/descendant::origin/descendant::date/@when"/>
+                                </xsl:otherwise>
+                            </xsl:choose>
+                            
+                        </xsl:when>
+                        <xsl:when test="ancestor::TEI/descendant::origin/descendant::date/attribute::notBefore"><xsl:value-of select="ancestor::TEI/descendant::origin/descendant::date/@notBefore"/><xsl:text>-</xsl:text><xsl:value-of select="ancestor::TEI/descendant::origin/descendant::date/@notAfter"/></xsl:when>
+                        <xsl:otherwise><xsl:value-of select="ancestor::TEI/descendant::origin/descendant::date"/></xsl:otherwise>
+                    </xsl:choose>
+                </xsl:when>
+            </xsl:choose>
+            <xsl:text> | </xsl:text>
+            
+            <!-- add date (month and day) (from origDate or origin) -->
+            <xsl:choose>
+                <xsl:when test="ancestor::TEI/descendant::origDate">
+                    <xsl:choose>
+                        <xsl:when test="ancestor::TEI/descendant::origDate[attribute::when]">
+                            <xsl:choose>
+                                <xsl:when test="ancestor::TEI/descendant::origDate/@when/contains(., '-')">
+                                    <xsl:value-of select="ancestor::TEI/descendant::origDate/@when/substring-after(., '-')"/>
+                                </xsl:when>
+                                <xsl:otherwise></xsl:otherwise>
+                            </xsl:choose>
+                        </xsl:when>
+                    </xsl:choose>
+                </xsl:when>
+                <xsl:when test="ancestor::TEI/descendant::origin/descendant::date">
+                    <xsl:choose>
+                        <xsl:when test="ancestor::TEI/descendant::origin/descendant::date/attribute::when">
+                            
+                            <xsl:choose>
+                                <xsl:when test="ancestor::TEI/descendant::origin/descendant::date/@when/contains(., '-')">
+                                    <xsl:value-of select="ancestor::TEI/descendant::origin/descendant::date/@when/substring-after(., '-')"/>
+                                </xsl:when>
+                                <xsl:otherwise>
+                                </xsl:otherwise>
+                            </xsl:choose>
+                        </xsl:when>
+                    </xsl:choose>
+                </xsl:when>
+            </xsl:choose>
+            <xsl:text> | </xsl:text>
+            
+            <!-- add repository and settlement-->
+            <xsl:if test="ancestor::TEI/descendant::msIdentifier/descendant::settlement"><xsl:value-of select="ancestor::TEI/descendant::msIdentifier/descendant::settlement"/></xsl:if>
+            <xsl:if test="ancestor::TEI/descendant::msIdentifier/descendant::repository"><xsl:text>, </xsl:text><xsl:value-of select="ancestor::TEI/descendant::msIdentifier/descendant::repository"/></xsl:if>
+            
+            <xsl:text> | </xsl:text>
+            
+            <xsl:text> |  |  |  |  |  |  |  |  |  |</xsl:text> <!-- end meta info line -->
+            
+            <!-- create org-mode syntax for note -->
+            <xsl:text>&#x0a;*** Notes</xsl:text>
+            
+            <!-- create org-mode syntax for transcriotion -->
+            <xsl:text>&#x0a;*** Transcription&#x0a;</xsl:text>
+            
+        
+      
         <!-- create framing structure with :s: and :e: around transcription -->
         <xsl:text>| :s: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | &#x0a;</xsl:text>
         <xsl:apply-templates/>
         <xsl:text>| :e: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | &#x0a;</xsl:text> 
        
+        </xsl:for-each>
     </xsl:template>
     
     <!-- for words, punctuation characters and numbers -->
-    <xsl:template match="w|me:punct|pc|num"> 
+    <xsl:template match="w[not(ancestor::orig[@rend])]|me:punct|pc|num"> 
         
-        <!-- add additional opening line for editorial markup within word, punctuation or number, that carries extra attributes -->
+        <!-- add additional opening line for editorial markup within word, punctuation or number, that carries extra attributes --> 
+        <!-- OBS: Since non of the XML standards have an in-word coding for transposition, this is not taken into consideration here. -->
         <xsl:if test="descendant::add|descendant::del|descendant::supplied|descendant::supplied|descendant::me:suppressed|descendant::me:expunged|descendant::surplus|descendant::unclear|descendant::gap|descendant::gb|descendant::space|descendant::handShift|descendant::me:punct[attribute::type='supplied']">
+            
             
             <xsl:choose><!-- test for extra attributes and insert beginning line with correct type desgination followed bz "X" to mark that it onlz related to part of the following word -->
                 <xsl:when test="descendant::add[attribute::*]"><xsl:text>| ad  | X | </xsl:text></xsl:when>
@@ -342,54 +518,71 @@ The GNU General Public License is available at <http://www.gnu.org/licenses/>. -
         
         <xsl:text>| </xsl:text>         <!-- beginning of ordenary line -->
         <xsl:choose> <!-- insert correct type designation -->
-            <xsl:when test="self::w[not(ancestor::gap)]"><xsl:text>w</xsl:text></xsl:when>  <!-- regular words (not marked as gap) -->
+            <xsl:when test="self::w[not(ancestor::gap)][not(ancestor::orig[@rend])]"><xsl:text>w</xsl:text></xsl:when>  <!-- regular words (not marked as gap or original order in transposition acc. to Menota) -->
             <xsl:when test="self::w[ancestor::gap]"><xsl:text>L</xsl:text></xsl:when> <!-- words that are marked completely as gap (i.e. lost words) -->
             <xsl:when test="self::me:punct[not(ancestor::w)]|self::pc"><xsl:text>p</xsl:text></xsl:when>   <!-- punctuation -->
-            <xsl:when test="self::num"><xsl:text>n</xsl:text></xsl:when> <!-- numbers -->
+            <xsl:when test="self::num"><xsl:text>w</xsl:text></xsl:when> <!-- numbers -->
         </xsl:choose>                       
         <xsl:text> | </xsl:text>  
        
         <xsl:choose><!-- lemma1 (i.e. alternative lemma) -->
-            <xsl:when test="self::w/attribute::me:orig-lemma">
+            <xsl:when test="self::w[not(ancestor::orig[@rend])]/attribute::me:orig-lemma">
                     <xsl:choose>
                         <xsl:when test="self::w/attribute::me:orig-lemma/contains(., '|')"><xsl:value-of select="self::w/attribute::me:orig-lemma/replace(., '|', '¦')"/></xsl:when>
                         <xsl:otherwise><xsl:value-of select="self::w/attribute::me:orig-lemma"/></xsl:otherwise>
                     </xsl:choose>
                 </xsl:when>
-            <xsl:when test="self::num/attribute::me:orig-lemma">
+            <xsl:when test="self::num/child::w[not(ancestor::orig[@rend])]/attribute::me:orig-lemma">
                     <xsl:choose>
-                        <xsl:when test="self::num/attribute::me:orig-lemma/contains(., '|')"><xsl:value-of select="self::num/attribute::me:orig-lemma/replace(., '|', '¦')"/></xsl:when>
-                        <xsl:otherwise><xsl:value-of select="self::num/attribute::me:orig-lemma"/></xsl:otherwise>
+                        <xsl:when test="self::num/child::w[not(ancestor::orig[@rend])]/attribute::me:orig-lemma/contains(., '|')"><xsl:value-of select="self::num/child::w[not(ancestor::orig[@rend])]/attribute::me:orig-lemma/replace(., '|', '¦')"/></xsl:when>
+                        <xsl:otherwise><xsl:value-of select="self::num/child::w[not(ancestor::orig[@rend])]/attribute::me:orig-lemma"/></xsl:otherwise>
                     </xsl:choose>
                 </xsl:when>
         </xsl:choose>
         <xsl:text> | </xsl:text>
         
         <xsl:choose><!-- lemma2 (i.e. primary lemma) -->
-            <xsl:when test="self::w/attribute::lemma">
+            <xsl:when test="self::w[not(ancestor::orig[@rend])]/attribute::lemma">
                 <xsl:choose>
-                    <xsl:when test="self::w/attribute::lemma/contains(., '|')"><xsl:value-of select="self::w/attribute::lemma/replace(., '|', '¦')"/></xsl:when>
+                    <xsl:when test="self::w[not(ancestor::orig[@rend])]/attribute::lemma/contains(., '|')"><xsl:value-of select="self::w[not(ancestor::orig[@rend])]/attribute::lemma/replace(., '|', '¦')"/></xsl:when>
                     <xsl:otherwise><xsl:value-of select="self::w/attribute::lemma"/></xsl:otherwise>
                 </xsl:choose>
             </xsl:when>
-            <xsl:when test="self::num/attribute::lemma">
+            <xsl:when test="self::num/child::w[not(ancestor::orig[@rend])]/attribute::lemma">
                 <xsl:choose>
-                    <xsl:when test="self::num/attribute::lemma/contains(., '|')"><xsl:value-of select="self::num/attribute::lemma/replace(., '|', '¦')"/></xsl:when>
-                    <xsl:otherwise><xsl:value-of select="self::num/attribute::lemma"/></xsl:otherwise>
+                    <xsl:when test="self::num/child::w[not(ancestor::orig[@rend])]/attribute::lemma/contains(., '|')"><xsl:value-of select="self::num/child::w[not(ancestor::orig[@rend])]/attribute::lemma/replace(., '|', '¦')"/></xsl:when>
+                    <xsl:otherwise><xsl:value-of select="self::num/child::w[not(ancestor::orig[@rend])]/attribute::lemma"/></xsl:otherwise>
                 </xsl:choose>
+            </xsl:when>
+            <xsl:when test="self::num[not(child::w)]/attribute::value">
+                <xsl:value-of select="self::num[not(child::w)]/attribute::value"/>
+            </xsl:when>
+            <xsl:when test="self::num[child::w/not(attribute::lemma)]/attribute::value">
+                <xsl:value-of select="self::num[child::w/not(attribute::lemma)]/attribute::value"/>
             </xsl:when>
         </xsl:choose>
         <xsl:text> | </xsl:text>
         
         <xsl:choose><!-- msa --> <!-- if homonymous msa separated by pipe character, replace with broken bar -->
-            <xsl:when test="self::w/attribute::me:msa[contains(., '|')]"><xsl:value-of select="attribute::me:msa/replace(., '|', '¦')"/></xsl:when> 
-            <xsl:when test="self::w/attribute::me:msa[not(contains(., '|'))]"><xsl:value-of select="attribute::me:msa"/></xsl:when>  
-            <xsl:when test="self::w/attribute::type[contains(., '|')]"><xsl:value-of select="attribute::type/replace(., '|', '¦')"/></xsl:when>  
-            <xsl:when test="self::w/attribute::type[not(contains(., '|'))]"><xsl:value-of select="attribute::type"/></xsl:when>  
-            <xsl:when test="self::num/attribute::me:msa[contains(., '|')]"><xsl:value-of select="attribute::me:msa/replace(., '|', '¦')"/></xsl:when> 
-            <xsl:when test="self::num/attribute::me:msa[not(contains(., '|'))]"><xsl:value-of select="attribute::me:msa"/></xsl:when>  
+            <xsl:when test="self::w[not(ancestor::orig[@rend])]/attribute::me:msa[contains(., '|')]"><xsl:value-of select="attribute::me:msa/replace(., '|', '¦')"/></xsl:when> 
+            <xsl:when test="self::w[not(ancestor::orig[@rend])]/attribute::me:msa[not(contains(., '|'))]"><xsl:value-of select="attribute::me:msa"/></xsl:when>  
+            <xsl:when test="self::w[not(ancestor::orig[@rend])]/attribute::type[contains(., '|')]"><xsl:value-of select="attribute::type/replace(., '|', '¦')"/></xsl:when>  
+            <xsl:when test="self::w[not(ancestor::orig[@rend])]/attribute::type[not(contains(., '|'))]"><xsl:value-of select="attribute::type"/></xsl:when>  
+            <xsl:when test="self::num[not(attribute::type)][not(child::w)]"><xsl:text>xNA</xsl:text></xsl:when>
+            
+            <xsl:when test="self::num/child::w[not(ancestor::orig[@rend])]/attribute::me:msa[contains(., '|')]"><xsl:value-of select="self::num/child::w/attribute::me:msa/replace(., '|', '¦')"/></xsl:when> 
+            <xsl:when test="self::num/child::w[not(ancestor::orig[@rend])]/attribute::me:msa[not(contains(., '|'))]"><xsl:value-of select="self::num/child::w/attribute::me:msa"/></xsl:when>   
             <xsl:when test="self::num/attribute::type[contains(., '|')]"><xsl:value-of select="attribute::type/replace(., '|', '¦')"/></xsl:when>  
-            <xsl:when test="self::num/attribute::type[not(contains(., '|'))]"><xsl:value-of select="attribute::type"/></xsl:when>  
+            <xsl:when test="self::num/attribute::type[not(contains(., '|'))]">
+                <xsl:choose>
+                    <xsl:when test="attribute::type='cardinal'"><xsl:text>xNA</xsl:text></xsl:when>
+                    <xsl:when test="attribute::type='ordinal'"><xsl:text>xNO</xsl:text></xsl:when>
+                    <xsl:when test="attribute::fraction"><xsl:text>xNF</xsl:text></xsl:when>
+                    <xsl:when test="attribute::percentage"><xsl:text>xNH</xsl:text></xsl:when> 
+                    <xsl:otherwise><xsl:value-of select="attribute::type"/></xsl:otherwise>
+                </xsl:choose>
+            </xsl:when>  
+            <xsl:when test="self::num[not(attribute::type)][child::w[not(ancestor::orig[@rend])]/not(attribute::me:msa)]"><xsl:text>xNA</xsl:text></xsl:when>
             
         </xsl:choose>
         <xsl:text> | </xsl:text>
@@ -421,8 +614,11 @@ The GNU General Public License is available at <http://www.gnu.org/licenses/>. -
             <xsl:if test="ancestor::surplus|ancestor::me:suppressed|ancestor::me:expunged"><xsl:text>⸡</xsl:text></xsl:if>
              
             <!-- get contents (including editorial markup within <w>) -->
-            <xsl:if test="descendant-or-self::me:norm"><xsl:apply-templates select="descendant::me:norm"/></xsl:if>
-            <xsl:if test="descendant-or-self::reg"><xsl:apply-templates select="descendant::reg"/></xsl:if>
+            <xsl:if test="descendant::me:norm"><xsl:apply-templates select="descendant::me:norm"/></xsl:if>
+            <xsl:if test="descendant::reg"><xsl:apply-templates select="descendant::reg"/></xsl:if>
+            <xsl:if test="self::num[not(child::w)][descendant::reg]"><xsl:value-of select="descendant::reg"></xsl:value-of></xsl:if>
+            <xsl:if test="self::num[not(child::w)][descendant::me:norm]"><xsl:value-of select="descendant::me:norm"></xsl:value-of></xsl:if>
+            
         
         <!-- add repeated markup for editorial markup that is outside of <w>  -->
             <xsl:if test="ancestor::unclear"><xsl:text>}</xsl:text></xsl:if>
@@ -469,7 +665,7 @@ The GNU General Public License is available at <http://www.gnu.org/licenses/>. -
                 <xsl:if test="ancestor::del"><xsl:text>⸠</xsl:text></xsl:if>
                 <xsl:if test="ancestor::surplus|ancestor::me:suppressed|ancestor::me:expunged"><xsl:text>⸡</xsl:text></xsl:if>
                 
-                <!-- get contents (including editorial markup within <w>) -->
+                <!-- get contents (including editorial markup within <w> if present) -->
                <xsl:choose>
                    <xsl:when test="descendant-or-self::me:dipl"><xsl:apply-templates select="descendant-or-self::me:dipl"/></xsl:when>
                 <xsl:when test="descendant-or-self::orig">
@@ -477,6 +673,8 @@ The GNU General Public License is available at <http://www.gnu.org/licenses/>. -
                 </xsl:when>
                    <xsl:otherwise><xsl:apply-templates select="child::text()|descendant::unclear[not(ancestor::sic)]|descendant::ex|descendant::expan|descendant::supplied|descendant::gap|descendant::surplus|descendant::suppressed|descendant::me:expunged|descendant::corr|descendant::lb|descendant::pb|descendant::cb|descendant::c|descendant::hi"/></xsl:otherwise>
                </xsl:choose>
+                <xsl:if test="self::num[not(child::w)][descendant::orig]"><xsl:value-of select="self::num[not(child::w)]/descendant::orig"/></xsl:if>
+                <xsl:if test="self::num[not(child::w)][descendant::me:dipl]"><xsl:value-of select="self::num[not(child::w)]/descendant::me:dipl"/></xsl:if>
                 
                 <!-- add repeated markup (end) for editorial markup that is outside of <w>  -->
                 <xsl:if test="ancestor::unclear"><xsl:text>}</xsl:text></xsl:if>
@@ -532,6 +730,9 @@ The GNU General Public License is available at <http://www.gnu.org/licenses/>. -
                     </xsl:when>
                     <xsl:otherwise><xsl:apply-templates select="descendant-or-self::sic"></xsl:apply-templates></xsl:otherwise>
                 </xsl:choose>
+                <xsl:if test="self::num[not(child::w)][descendant::orig]"><xsl:value-of select="self::num[not(child::w)]/descendant::orig"/></xsl:if>
+                <xsl:if test="self::num[not(child::w)][descendant::me:facs]"><xsl:value-of select="self::num[not(child::w)]/descendant::me:facs"/></xsl:if>
+                
                 
                 <!-- add repeated markup (end) for editorial markup that is outside of <w>  -->
                 <xsl:if test="ancestor::unclear"><xsl:text>}</xsl:text></xsl:if>
@@ -558,30 +759,119 @@ The GNU General Public License is available at <http://www.gnu.org/licenses/>. -
         
         <!-- word/punctuation counter  --> 
         <!-- NOTE: This function counts elements (nodes), not images and thus does not give two counts for words that are written over two lines. 
-         A correcting counter function that counts images rather than words supposed to be run in the elisp part of the program and to overwrite the numbers generated here. -->
+         A correcting counter function that counts images rather than words is supposed to be run in the elisp part of the program and to overwrite the numbers generated here.
+         The word count is also thrown off by potential encoding of transposition and needs to be corrected for that. -->
         <xsl:number format="000001" from="body" level="any" count="//w|//me:punct|//pc|//num">  
         </xsl:number>
-        <!-- if reordering of words is present (marked up by means of <lb/> with @rend), add the relative place in line in parentheses -->
+        <!-- if reordering of words is present (marked up by means of <lb/> with @rend), add the relative value of @rend in parentheses to mark the place in line (needs afterprocessing by eLisp)  -->
         <xsl:if test="preceding::lb[1][attribute::rend]">
             <xsl:choose>
                 <xsl:when test="preceding::lb[1][attribute::rend='hyphen']"></xsl:when> <!-- if rend indicates a hyphen don't do anything -->
                 <xsl:otherwise> <!-- otherwise (i.e. if rend indicates reordering) print number -->
-                    <xsl:variable name="lb-number" select="self::lb/attribute::n"/>
+                <!--    <xsl:variable name="lb-number" select="self::lb/attribute::n"/>  -->  
                     <xsl:variable name="transposition-number" select="preceding::lb[1]/attribute::rend"/>
                     <xsl:text> (</xsl:text>
                     <xsl:value-of select="$transposition-number"/> <!-- get @rend number -->
-                    <xsl:text>-</xsl:text> <!-- get relative position within rend (on that line) -->
-                    <xsl:number format="1" from="body//lb[attribute::n = $lb-number][attribute::rend = $transposition-number]" level="any" count="//w|//me:punct|//pc|//num"></xsl:number>
                     <xsl:text>)</xsl:text>
                 </xsl:otherwise>
             </xsl:choose>
+        </xsl:if> 
+        <!-- if words are part of transposition (marked in manuscript), add square brackets for original number in sequence 
+            (OBS: Currently not working! Needs to be filled in by hand) -->
+        
+        <xsl:if test="self::w/parent::reg[@type='transposition']">  <!-- for XML input accord. to Menota -->
+            <xsl:text>[ADD-ORIGINAL-NUMBER</xsl:text>
+         
+            <xsl:text>]</xsl:text>
+        </xsl:if>
+        
+        <xsl:if test="self::w/parent::*[@xml:id=//ptr/@target/substring-after(., '#')]">    <!-- for XML input acc. to TEI -->
+            <xsl:text>[</xsl:text>
+            <xsl:value-of select="self::w/parent::*/attribute::xml:id"/>
+            <xsl:text>]</xsl:text>
         </xsl:if>
         <xsl:text> | </xsl:text>
         
          <!-- palaeographic annotation -->
             <xsl:if test="descendant::me:pal"><xsl:apply-templates select="descendant::me:pal"/></xsl:if>
-        <xsl:if test="descendant::c"><xsl:for-each select="descendant::c/attribute::*"><xsl:value-of select="."/><xsl:text>¦</xsl:text></xsl:for-each></xsl:if>
         <xsl:if test="descendant::hi"><xsl:for-each select="descendant::hi/attribute::*"><xsl:value-of select="."/><xsl:text>¦</xsl:text></xsl:for-each></xsl:if>
+        
+        <!-- for Menota 3.0 encoded initials -->
+        <xsl:if test="descendant::c">
+            <xsl:choose>
+                <xsl:when test="descendant::c/attribute::type='hyphen'"></xsl:when>
+                <xsl:when test="descendant::c[attribute::type='initial']|descendant::c[attribute::type='noInitial']">
+                    <xsl:for-each select="descendant::c[attribute::type='initial']|descendant::c[attribute::type='noInitial']">
+                    <xsl:text>{l</xsl:text> <!-- print l with number(s) of which letterof the word is an initial -->
+                    <xsl:choose>  
+                                <xsl:when test="self::c[following-sibling::text()][not(preceding-sibling::c)]">
+                                    <xsl:text>1</xsl:text>
+                                    <xsl:if test="self::c/string-length() > 1">
+                                        <xsl:text>-</xsl:text>
+                                        <xsl:value-of select="self::c/string-length()"/>
+                                    </xsl:if>
+                                </xsl:when>
+                                <xsl:when test="self::c[following-sibling::text()][preceding-sibling::c]">
+                                    <xsl:value-of select="self::c/preceding-sibling::c/string-length() + 1"/>
+                                    <xsl:if test="self::c/string-length() > 1">
+                                        <xsl:text>-</xsl:text>
+                                        <xsl:value-of select="self::c/string-length() + preceding-sibling::c/string-length()"/>
+                                    </xsl:if>
+                                </xsl:when>
+                                <xsl:otherwise><xsl:text>W</xsl:text></xsl:otherwise> <!-- for whole word -->
+                    </xsl:choose>
+                        
+                        <!-- print colon + and type desgination-->
+                        <xsl:text>:t</xsl:text>
+                         <xsl:if test="self::c/attribute::type='initial'"><xsl:text>IN</xsl:text></xsl:if>
+                        <xsl:if test="self::c/attribute::type='noInitial'"><xsl:text>NO</xsl:text></xsl:if>
+                        
+                        <!-- print subtype info -->
+                        <xsl:if test="self::c/attribute::subtype">
+                            <xsl:text> b</xsl:text>
+                            <xsl:if test="self::c/attribute::subtype='opening'"><xsl:text>OP</xsl:text></xsl:if>
+                            <xsl:if test="self::c/attribute::subtype='text'"><xsl:text>TE</xsl:text></xsl:if>
+                            <xsl:if test="self::c/attribute::subtype='chapt'"><xsl:text>CH</xsl:text></xsl:if>
+                            <xsl:if test="self::c/attribute::subtype='para'"><xsl:text>PA</xsl:text></xsl:if>
+                            <xsl:if test="self::c/attribute::subtype='littNot'"><xsl:text>LI</xsl:text></xsl:if>
+                        </xsl:if>
+                        
+                        <!-- print style info (as is) -->
+                        <xsl:if test="self::c/attribute::style">
+                            <xsl:text> </xsl:text><xsl:value-of select="self::c/attribute::style"/></xsl:if>
+                        
+                        <!-- print rend info -->
+                        <xsl:if test="self::c/attribute::rend">
+                            <xsl:variable name="IniRend" select="self::c/attribute::rend/translate(., ' ', '_')"/>
+                            <xsl:text> r</xsl:text>
+                            <xsl:variable name="IniRend_1" select="replace($IniRend, 'lombard', 'Lo')"/>
+                            <xsl:variable name="IniRend_2" select="replace($IniRend_1, 'historiated', 'Hi')"/>
+                            <xsl:variable name="IniRend_3" select="replace($IniRend_2, 'foliate', 'Fo')"/>
+                            <xsl:variable name="IniRend_4" select="replace($IniRend_3, 'penFlourish', 'Pf')"/>
+                            <xsl:variable name="IniRend_5" select="replace($IniRend_4, 'penwork', 'Pw')"/>
+                            <xsl:variable name="IniRend_6" select="replace($IniRend_5, 'interlaced', 'Il')"/>
+                            <xsl:variable name="IniRend_7" select="replace($IniRend_6, 'puzzle', 'Pu')"/>
+                            <xsl:variable name="IniRend_8" select="replace($IniRend_7, 'zoomorphic', 'Zo')"/>
+                            <xsl:variable name="IniRend_9" select="replace($IniRend_8, 'dragon', 'Dr')"/>
+                            <xsl:variable name="IniRend_10" select="replace($IniRend_9, 'inhabited', 'Ih')"/>
+                            <xsl:variable name="IniRend_11" select="replace($IniRend_10, 'versal', 'Ve')"/>
+                            <xsl:variable name="IniRend_12" select="replace($IniRend_11, 'colourStroked', 'Cs')"/>
+                            <xsl:variable name="IniRend_13" select="replace($IniRend_12, 'guideLetter', 'Gl')"/>
+                            <xsl:variable name="IniRend_14" select="replace($IniRend_13, 'other', 'Ot')"/>
+                            <xsl:value-of select="$IniRend_14"/>
+                        </xsl:if>
+                        
+                    <xsl:text>}</xsl:text>
+                    </xsl:for-each>
+                </xsl:when>
+                
+                <!-- for other usage of <c> -->
+                <xsl:otherwise>
+                    <xsl:for-each select="descendant::c/attribute::*"><xsl:value-of select="."/><xsl:text>¦</xsl:text></xsl:for-each>
+                </xsl:otherwise>
+            </xsl:choose>
+            </xsl:if>
+        
         
         <xsl:text> | </xsl:text>
         
@@ -664,8 +954,11 @@ The GNU General Public License is available at <http://www.gnu.org/licenses/>. -
         
         <xsl:text>-</xsl:text> <!-- separator -->
         
+        <xsl:if test="ancestor::figure"><xsl:text>f</xsl:text></xsl:if> <!-- insert f if word is transcribed from illumination -->
+        <xsl:if test="ancestor::add[descendant::lb]"><xsl:text>a</xsl:text></xsl:if> <!-- insert a if word is transcribed from illumination -->
+        
         <xsl:choose>
-            <xsl:when test="preceding::lb[not(attribute::ed)][1]/@n &lt; 10">  <!--  line number -->
+             <xsl:when test="preceding::lb[not(attribute::ed)][1]/@n &lt; 10">  <!--  line number -->
                 <xsl:text>0</xsl:text><xsl:value-of select="preceding::lb[not(attribute::ed)][1]/@n"/>
             </xsl:when>
             <xsl:otherwise>
@@ -727,6 +1020,16 @@ The GNU General Public License is available at <http://www.gnu.org/licenses/>. -
             <xsl:text>&#x0a;</xsl:text> <!-- end of line -->
     </xsl:template>
     
+    
+    <!-- template to insert helping info for transposition when encoded acc. to Menota v.3.0 -->
+    <xsl:template match="w[ancestor::orig[@rend]]">
+        <xsl:text>ORDER OF WORDS PRIOR TO TRANSPOSITION:</xsl:text>
+        <xsl:value-of select="descendant::me:norm"/><xsl:text> </xsl:text>
+        <xsl:text>&#x0a;</xsl:text>
+    </xsl:template> 
+    
+   
+   
     
     <!-- template for pb, lb and cb (regular, i.e. not inside of a word) -->  
     <xsl:template match="pb[not(ancestor::w)]|lb[not(ancestor::w)]|cb[not(ancestor::w)]">
@@ -947,14 +1250,14 @@ The GNU General Public License is available at <http://www.gnu.org/licenses/>. -
     </xsl:template>
     
     
-    <!-- template for gb and handShift, space (regular, i.e. not inside of a word), metamark and gap (when neither part of a word not containing words)-->  
-    <xsl:template match="gb[not(ancestor::w)]|handShift[not(ancestor::w)]|space[not(ancestor::w)]|metamark|gap[not(ancestor::w or descendant::w)]">
+    <!-- template for gb and handShift, space (regular, i.e. not inside of a word), metamark (when not part of tranposition) and gap (when neither part of a word not containing words)-->  
+    <xsl:template match="gb[not(ancestor::w)]|handShift[not(ancestor::w)]|space[not(ancestor::w)]|metamark[not(@function='transposition')]|gap[not(ancestor::w or descendant::w)]">
         <xsl:text>| </xsl:text>  <!-- beginning of line -->
         <xsl:choose> <!-- insert correct type desgination -->
             <xsl:when test="self::gb"><xsl:text>bg</xsl:text></xsl:when>
             <xsl:when test="self::handShift"><xsl:text>hs</xsl:text></xsl:when>
             <xsl:when test="self::space"><xsl:text>sp</xsl:text></xsl:when>
-            <xsl:when test="self::metamark"><xsl:text>mm</xsl:text></xsl:when>
+            <xsl:when test="self::metamark[not(@function='transposition')]"><xsl:text>mm</xsl:text></xsl:when>
             <xsl:when test="self::gap"><xsl:text>ga</xsl:text></xsl:when>
         </xsl:choose>
         
@@ -974,7 +1277,7 @@ The GNU General Public License is available at <http://www.gnu.org/licenses/>. -
         </xsl:choose>
                 <xsl:if test="attribute::unit"><xsl:text>_</xsl:text><xsl:value-of select="attribute::unit"/></xsl:if></xsl:if>
         <!-- for metamark get @function -->
-        <xsl:if test="self::metamark"><xsl:value-of select="attribute::function"/></xsl:if>
+        <xsl:if test="self::metamark[not(@function='transposition')]"><xsl:value-of select="attribute::function"/></xsl:if>
         <!-- for gap get extent of gap and potentially unit -->
         <xsl:if test="self::gap">
             <xsl:choose>
@@ -988,14 +1291,14 @@ The GNU General Public License is available at <http://www.gnu.org/licenses/>. -
         <!-- for space get value of @dim, i.e. horizontal or vertical -->
         <xsl:if test="self::space"><xsl:value-of select="attribute::dim"/></xsl:if>
         <!-- for metamark get @target -->
-        <xsl:if test="self::metamark"><xsl:value-of select="attribute::target"/></xsl:if>
+        <xsl:if test="self::metamark[not(@function='transposition')]"><xsl:value-of select="attribute::target"/></xsl:if>
         <!-- for gap get @reason -->
         <xsl:if test="self::gap"><xsl:value-of select="attribute::reason"/></xsl:if>
         
         <xsl:text> | </xsl:text>
         
         <!-- for metamark get @rend -->
-        <xsl:if test="self::metamark"><xsl:value-of select="attribute::rend"/></xsl:if>
+        <xsl:if test="self::metamark[not(@function='transposition')]"><xsl:value-of select="attribute::rend"/></xsl:if>
         <!-- for gap get @agent -->
         <xsl:if test="self::gap"><xsl:value-of select="attribute::agent"/></xsl:if>
         
@@ -1006,15 +1309,15 @@ The GNU General Public License is available at <http://www.gnu.org/licenses/>. -
         <!-- for space get @resp -->
         <xsl:if test="self::space"><xsl:value-of select="attribute::resp"/></xsl:if>
         <!-- for metamark get @ana -->
-        <xsl:if test="self::metamark"><xsl:value-of select="attribute::ana"/></xsl:if>
+        <xsl:if test="self::metamark[not(@function='transposition')]"><xsl:value-of select="attribute::ana"/></xsl:if>
         
         <xsl:text> | </xsl:text>
         <!-- for metamark get contained text -->
-        <xsl:if test="self::metamark"><xsl:value-of select="descendant-or-self::text()"/></xsl:if>
+        <xsl:if test="self::metamark[not(@function='transposition')]"><xsl:value-of select="descendant-or-self::text()"/></xsl:if>
         
         <xsl:text> | </xsl:text>
         <!-- for metamark get contained elements and potential attribute with their values (separated by broken pipe) -->
-        <xsl:if test="self::metamark/descendant::*"><xsl:for-each select="descendant::*">
+        <xsl:if test="self::metamark[not(@function='transposition')]/descendant::*"><xsl:for-each select="descendant::*">
             <xsl:value-of select="name(.)"/>
             <xsl:if test="attribute::*"><xsl:text>_</xsl:text><xsl:value-of select="attribute::*/local-name()"/><xsl:text>=</xsl:text><xsl:value-of select="attribute::*"/></xsl:if>
             <xsl:text>¦</xsl:text>
@@ -1199,28 +1502,28 @@ The GNU General Public License is available at <http://www.gnu.org/licenses/>. -
     
     
     <!-- beginning/end lines for structural markup (not names, not for emmendations or editorial markup) -->
-    <xsl:template match="div|head|p|seg|lg|l|figure">  
+    <xsl:template match="div|head|p|seg|lg|l|s">  
         <xsl:text>| </xsl:text>         <!-- beginning line -->
         <xsl:choose><!-- insert correct type -->
             <xsl:when test="self::div"><xsl:text>d</xsl:text></xsl:when>
             <xsl:when test="self::head"><xsl:text>h</xsl:text></xsl:when>
             <xsl:when test="self::p"><xsl:text>pa</xsl:text></xsl:when>
-            <xsl:when test="self::seg"><xsl:text>s</xsl:text></xsl:when>
+            <xsl:when test="self::seg"><xsl:text>sg</xsl:text></xsl:when>    <!-- new: 5/7 2019: <seg> is translated into sg, while <s> is s -->
             <xsl:when test="self::lg"><xsl:text>lg</xsl:text></xsl:when>
             <xsl:when test="self::l"><xsl:text>l</xsl:text></xsl:when>
-            <xsl:when test="self::figure"><xsl:text>fi</xsl:text></xsl:when>
+            <xsl:when test="self::s"><xsl:text>s</xsl:text></xsl:when>
         </xsl:choose>
         <xsl:text> | b | </xsl:text>  <!-- beginning tag -->
         
         <!-- internal counter -->
         <xsl:choose>
-            <xsl:when test="self::div"><xsl:number format="1" from="body" level="any" count="//div"/></xsl:when>
+            <xsl:when test="self::div"><xsl:number format="1" from="body" level="any" count="//div[parent::div]"/></xsl:when> <!-- does not count outer <div>, which is used for generating sections -->
             <xsl:when test="self::head"><xsl:number format="1" from="body" level="any" count="//head"/></xsl:when>
             <xsl:when test="self::p"><xsl:number format="1" from="body" level="any" count="//p"/></xsl:when>
             <xsl:when test="self::seg"><xsl:number format="1" from="body" level="any" count="//seg"/></xsl:when>
             <xsl:when test="self::lg"><xsl:number format="1" from="body" level="any" count="//lg"/></xsl:when>
             <xsl:when test="self::l"><xsl:number format="1" from="body" level="any" count="//l"/></xsl:when>
-            <xsl:when test="self::figure"><xsl:number format="1" from="body" level="any" count="//figure"/></xsl:when>
+            <xsl:when test="self::s"><xsl:number format="1" from="body" level="any" count="//s"/></xsl:when>
         </xsl:choose>
         
         <!-- not in use! -->
@@ -1252,12 +1555,21 @@ The GNU General Public License is available at <http://www.gnu.org/licenses/>. -
         <xsl:if test="attribute::met"><xsl:value-of select="attribute::met"/></xsl:if>
         <xsl:text> | </xsl:text>
         
+        <!-- add value of @real-->
+        <xsl:if test="attribute::real"><xsl:value-of select="attribute::real"/></xsl:if>
+        <xsl:text> | </xsl:text>
+        
+        <!-- add value of @rhyme-->
+        <xsl:if test="attribute::rhyme"><xsl:value-of select="attribute::rhyme"/></xsl:if>
+        <xsl:text> | </xsl:text>
+        
+        <!-- not in use -->
         <!-- retrieve other text --> 
-        <xsl:if test="self::*/text()[not(ancestor::w or ancestor::pc or ancestor::me:punct)]"><xsl:value-of select="."/></xsl:if>
+        <!-- <xsl:if test="self::*/text()[not(ancestor::w or ancestor::pc or ancestor::me:punct)]"><xsl:value-of select="."/></xsl:if> -->
         <xsl:text> | </xsl:text> 
         
         <!-- empty fields -->
-        <xsl:text> |  |  |  |  |  | </xsl:text>
+        <xsl:text> |  |  |  | </xsl:text>
         
         <xsl:text> | &#x0a;</xsl:text> <!-- close beginning line-->
         
@@ -1268,22 +1580,22 @@ The GNU General Public License is available at <http://www.gnu.org/licenses/>. -
             <xsl:when test="self::div"><xsl:text>d</xsl:text></xsl:when>
             <xsl:when test="self::head"><xsl:text>h</xsl:text></xsl:when>
             <xsl:when test="self::p"><xsl:text>pa</xsl:text></xsl:when>
-            <xsl:when test="self::seg"><xsl:text>s</xsl:text></xsl:when>
+            <xsl:when test="self::seg"><xsl:text>sg</xsl:text></xsl:when> <!-- new: 5/7 2019: <seg> is translated into sg, while <s> is s -->
             <xsl:when test="self::lg"><xsl:text>lg</xsl:text></xsl:when>
             <xsl:when test="self::l"><xsl:text>l</xsl:text></xsl:when>
-            <xsl:when test="self::figure"><xsl:text>fi</xsl:text></xsl:when>
+            <xsl:when test="self::s"><xsl:text>s</xsl:text></xsl:when>
         </xsl:choose>
         <xsl:text> | e | </xsl:text> 
         
         <!-- internal counter -->
         <xsl:choose>
-            <xsl:when test="self::div"><xsl:number format="1" from="body" level="any" count="//div"/></xsl:when>
+            <xsl:when test="self::div"><xsl:number format="1" from="body" level="any" count="//div[parent::div]"/></xsl:when>  <!-- does not count outer <div>, which is used for generating sections -->
             <xsl:when test="self::head"><xsl:number format="1" from="body" level="any" count="//head"/></xsl:when>
             <xsl:when test="self::p"><xsl:number format="1" from="body" level="any" count="//p"/></xsl:when>
             <xsl:when test="self::seg"><xsl:number format="1" from="body" level="any" count="//seg"/></xsl:when>
             <xsl:when test="self::lg"><xsl:number format="1" from="body" level="any" count="//lg"/></xsl:when>
             <xsl:when test="self::l"><xsl:number format="1" from="body" level="any" count="//l"/></xsl:when>
-            <xsl:when test="self::figure"><xsl:number format="1" from="body" level="any" count="//figure"/></xsl:when>
+            <xsl:when test="self::s"><xsl:number format="1" from="body" level="any" count="//s"/></xsl:when>
         </xsl:choose>
         <xsl:text> | </xsl:text>
         
@@ -1295,10 +1607,106 @@ The GNU General Public License is available at <http://www.gnu.org/licenses/>. -
     </xsl:template>
     
     
-      
-    <!-- beginning/end lines for editorial markup (not within words), quote/q, forme work -->
-    <xsl:template match="add[not(ancestor::w or ancestor::num or ancestor::pc or ancestor::me:punct)]|del[not(ancestor::w or ancestor::num or ancestor::pc or ancestor::me:punct)]|supplied[not(ancestor::w or ancestor::num or ancestor::pc or ancestor::me:punct)]|me:suppressed[not(ancestor::w or ancestor::num or ancestor::pc or ancestor::me:punct)]|surplus[not(ancestor::w or ancestor::num or ancestor::pc or ancestor::me:punct)]|me:expunged[not(ancestor::w or ancestor::num or ancestor::pc or ancestor::me:punct)]|unclear[not(ancestor::w or ancestor::num or ancestor::pc or ancestor::me:punct)]|quote|q|fw"> 
+    
+    <!-- beginning/end lines for figures (i.e. illumination that are not initials) -->
+    <xsl:template match="figure">  
+        <xsl:text>| fi</xsl:text>         <!-- beginning line -->
+       
+        <xsl:text> | b | </xsl:text>  <!-- beginning tag -->
         
+        <!-- internal counter -->
+      <xsl:number format="1" from="body" level="any" count="//figure"/>
+       <xsl:text> | </xsl:text>
+        
+        <!-- add value of @n-->
+        <xsl:if test="attribute::n"><xsl:value-of select="attribute::n"/></xsl:if>
+        <xsl:text> | </xsl:text>
+        
+        <!-- add contents of descending <head>-->
+        <xsl:if test="descendant::head"><xsl:value-of select="descendant::head"/></xsl:if>
+        <xsl:text> | </xsl:text>
+        
+        <!-- space for Iconclass number-->
+        <xsl:text> | </xsl:text>
+        
+        <!-- space for colours --> 
+         <xsl:text> | </xsl:text>
+        
+        <!-- space for artistic technique -->
+        <xsl:text> | </xsl:text>
+        
+        <!-- space for info on artist -->
+        <xsl:text> | </xsl:text>
+        
+        <!-- empty fields -->
+        <xsl:text> |  |  |  |  |  |  | </xsl:text> 
+        
+       <!-- add location (fol. and potentially column) -->
+        <xsl:choose>
+            <xsl:when test="preceding::pb[not(attribute::ed)][1]/@n/string-length() = 2">  
+                <xsl:text>00</xsl:text><xsl:value-of select="preceding::pb[not(attribute::ed)][1]/@n"/>
+            </xsl:when>
+            <xsl:when test="preceding::pb[not(attribute::ed)][1]/@n/string-length() = 3">
+                <xsl:text>0</xsl:text><xsl:value-of select="preceding::pb[not(attribute::ed)][1]/@n"/>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:value-of select="preceding::pb[not(attribute::ed)][1]/@n"/>
+            </xsl:otherwise>
+        </xsl:choose>
+        
+        <xsl:if test="preceding::cb[not(attribute::ed)]"> <!-- insert letter from column break if present -->
+            <xsl:value-of select="preceding::cb[not(attribute::ed)][1]/@n"/>
+        </xsl:if>
+        
+        <xsl:if test="descendant::pb"> <!-- insert additional location info if figure exentends over more than one page (and potentially column) -->
+            <xsl:text>—</xsl:text>
+            <xsl:choose>
+                <xsl:when test="descendant::pb[not(attribute::ed)][1]/@n/string-length() = 2">  
+                    <xsl:text>00</xsl:text><xsl:value-of select="descendant::pb[not(attribute::ed)]/@n"/>
+                </xsl:when>
+                <xsl:when test="descendant::pb[not(attribute::ed)][1]/@n/string-length() = 3">
+                    <xsl:text>0</xsl:text><xsl:value-of select="descendant::pb[not(attribute::ed)]/@n"/>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:value-of select="descendant::pb[not(attribute::ed)]/@n"/>
+                </xsl:otherwise>
+            </xsl:choose>
+            <xsl:if test="descendant::cb[not(attribute::ed)]"> <!-- insert letter from column break if present -->
+                <xsl:value-of select="descendant::cb[not(attribute::ed)]/@n"/>
+            </xsl:if>
+            
+        </xsl:if>
+        
+        <xsl:if test="descendant::cb[not(attribute::ed)][not(ancestor::figure/descendant::pb)]"> <!-- insert letter from column break if no pb present in figure -->
+            <xsl:text>—</xsl:text>
+            <xsl:value-of select="descendant::cb[not(attribute::ed)]/@n"/>
+        </xsl:if>
+        
+        <xsl:text> | &#x0a;</xsl:text> <!-- close beginning line-->
+        
+        <xsl:apply-templates/> <!-- process everything in between, i.e. enclosed w, pc, etc. -->
+        
+        <xsl:text>| fi</xsl:text> <!--  ending line -->
+        
+        <xsl:text> | e | </xsl:text> 
+        
+        <!-- internal counter -->
+        <xsl:number format="1" from="body" level="any" count="//figure"/>
+        
+        <xsl:text> | </xsl:text>
+        
+        <!-- empty fields -->
+        <xsl:text>  |  |  |  |  |  |  |  |  |  |  |  | </xsl:text>
+        
+        <xsl:text> |&#x0a;</xsl:text> <!-- close tag-->
+        
+    </xsl:template>
+    
+    
+      
+    <!-- beginning/end lines for editorial markup (not within words), quote/q, forme work and for transposition of entire words (when encoded acc. to Menota v. 3.0) -->
+    <xsl:template match="add[not(ancestor::w or ancestor::num or ancestor::pc or ancestor::me:punct)]|del[not(ancestor::w or ancestor::num or ancestor::pc or ancestor::me:punct)]|supplied[not(ancestor::w or ancestor::num or ancestor::pc or ancestor::me:punct)]|me:suppressed[not(ancestor::w or ancestor::num or ancestor::pc or ancestor::me:punct)]|surplus[not(ancestor::w or ancestor::num or ancestor::pc or ancestor::me:punct)]|me:expunged[not(ancestor::w or ancestor::num or ancestor::pc or ancestor::me:punct)]|unclear[not(ancestor::w or ancestor::num or ancestor::pc or ancestor::me:punct)]|quote|q|fw|reg[@type='transposition']"> 
+        <!-- OBS: because all <w>s within <orig> are suppressed for coding of transposition acc. to Menota, this causes the word count to be off and it has to be adjusted in eLisp -->
         
         <xsl:text>| </xsl:text>         <!-- beginning line -->
         <xsl:choose><!-- insert correct type desgination -->
@@ -1309,10 +1717,11 @@ The GNU General Public License is available at <http://www.gnu.org/licenses/>. -
             <xsl:when test="self::unclear"><xsl:text>uc</xsl:text></xsl:when>
             <xsl:when test="self::quote|self::q">q</xsl:when>
             <xsl:when test="self::fw">fw</xsl:when>
-        </xsl:choose>
+            <xsl:when test="self::reg[@type='transposition']">ts</xsl:when> <!-- for transposition (in Menotic XML). The corrected order is printed -->
+           </xsl:choose>
         <xsl:text> | b | </xsl:text>  <!-- beginning tag -->
         
-        <!--Add internal counter?-->
+        <!--Add internal counter-->
         <xsl:choose>
             <xsl:when test="self::add"><xsl:number format="1" from="body" level="any" count="//add[not(ancestor::w)]"/></xsl:when>
             <xsl:when test="self::del"><xsl:number format="1" from="body" level="any" count="//del[not(ancestor::w)]"/></xsl:when>
@@ -1324,11 +1733,15 @@ The GNU General Public License is available at <http://www.gnu.org/licenses/>. -
             <xsl:when test="self::quote"><xsl:number format="1" from="body" level="any" count="//quote"/></xsl:when>
             <xsl:when test="self::q"><xsl:number format="1" from="body" level="any" count="//q"/></xsl:when>
             <xsl:when test="self::fw"><xsl:number format="1" from="body" level="any" count="//fw"/></xsl:when>
+        <!--    <xsl:when test="self::reg[@type='transposition']"><xsl:number format="1" from="body" level="any" count="//reg[@type='transposition']"/></xsl:when> --> <!-- not part of Rasmus Bjørn's encoding practice -->
         </xsl:choose>
         <xsl:text> | </xsl:text>
         
-        <!-- add value of @type-->
-        <xsl:if test="attribute::type"><xsl:value-of select="attribute::type"/></xsl:if>
+        <!-- add value of @type (except for transpositions)-->
+        <xsl:choose>
+            <xsl:when test="self::reg[@type='transposition']"></xsl:when>
+            <xsl:otherwise><xsl:if test="attribute::type"><xsl:value-of select="attribute::type"/></xsl:if></xsl:otherwise>
+        </xsl:choose>
         <xsl:text> | </xsl:text>
         
         <!-- add value of @reason-->
@@ -1345,6 +1758,7 @@ The GNU General Public License is available at <http://www.gnu.org/licenses/>. -
         
         <!-- add value of @rend-->
         <xsl:if test="attribute::rend"><xsl:value-of select="attribute::rend"/></xsl:if>
+        <xsl:if test="self::reg[@type='transposition']"><xsl:value-of select="parent::choice/child::orig/@rend"/></xsl:if>
         <xsl:text> | </xsl:text>
         
         <!-- add value of @place-->
@@ -1375,7 +1789,8 @@ The GNU General Public License is available at <http://www.gnu.org/licenses/>. -
             <xsl:when test="self::unclear"><xsl:text>uc</xsl:text></xsl:when>
             <xsl:when test="self::quote|self::q"><xsl:text>q</xsl:text></xsl:when>
             <xsl:when test="self::fw"><xsl:text>fw</xsl:text></xsl:when>
-        </xsl:choose>
+            <xsl:when test="self::reg[@type='transposition']">ts</xsl:when> <!-- for transposition (in Menotic XML). -->
+            </xsl:choose>
         <xsl:text> | e | </xsl:text>  <!-- end tag -->
         
         <!--Add internal counter?-->
@@ -1390,14 +1805,90 @@ The GNU General Public License is available at <http://www.gnu.org/licenses/>. -
             <xsl:when test="self::quote"><xsl:number format="1" from="body" level="any" count="//quote"/></xsl:when>
             <xsl:when test="self::q"><xsl:number format="1" from="body" level="any" count="//q"/></xsl:when>
             <xsl:when test="self::fw"><xsl:number format="1" from="body" level="any" count="//fw"/></xsl:when>
-        </xsl:choose>
+          <!--  <xsl:when test="self::reg[@type='transposition']"><xsl:number format="1" from="body" level="any" count="//reg[@type='transposition']"/></xsl:when> -->
+               </xsl:choose>
         <xsl:text> | </xsl:text>
         
         <!-- empty fields-->
         <xsl:text> |  |  |  |  |  |  |  |  |  |  |  |  | </xsl:text>
         
         <xsl:text> | &#x0a;</xsl:text> <!-- close line-->
+          
     </xsl:template>
+    
+    
+    <!-- beginning/end lines for transposition of entire words when encoded according to TEI. OBS! All words in a reordered sequence need to be inlcuded in element of same name and re-ordered in the <transpose> element-->
+    <xsl:template match="*[@xml:id=//ptr/@target/substring-after(., '#')]">
+        
+        <xsl:choose>
+            <xsl:when test="self::*[@xml:id=//ptr/@target/substring-after(., '#')]/not(preceding-sibling::*[@xml:id=//ptr/@target/substring-after(., '#')][1])">
+                <xsl:variable name="local-transposition-ID" select="self::*/attribute::xml:id"/>
+                
+                <xsl:for-each select="//transpose[descendant::ptr/@target/substring-after(., '#') = $local-transposition-ID]/child::ptr">
+                    <xsl:text>DESIRED ORDER OF WORDS ACCORDING TO TRANSPOSITION: </xsl:text>
+                    <xsl:value-of select="attribute::target/substring-after(.,'#')"/>
+                    <xsl:text>&#x0a;</xsl:text>
+                </xsl:for-each>
+                
+               
+                <xsl:text>| ts | b | </xsl:text>  <!-- beginning tag -->
+                
+                
+                <!--empty fields-->
+                <xsl:text> |  |  |  | </xsl:text>
+                
+                <!-- add value of @resp on metamark (i.e. which hand was responsible for the mark)-->
+                <xsl:if test="child::metamark[@function='transposition']/@resp"><xsl:value-of select="child::metamark[@function='transposition']/@resp"/></xsl:if>
+                <xsl:text> | </xsl:text>
+                
+                <!-- read in the transposition signs -->
+                <xsl:if test="child::metamark[@function='transposition']">
+                    <xsl:value-of select="child::metamark[@function='transposition']"/>
+                    <xsl:if test="following-sibling::*[@xml:id=//ptr/@target/substring-after(., '#')][child::metamark]"> <!-- if further metamarks are present, read in, preceded by white space -->
+                        <xsl:text> </xsl:text><xsl:value-of select="following-sibling::*[@xml:id=//ptr/@target/substring-after(., '#')]/child::metamark"/>
+                    </xsl:if>
+                </xsl:if>
+                <xsl:text> | </xsl:text>
+                
+                <!-- add value of @place on metamark-->
+                <xsl:if test="child::metamark[@function='transposition']/attribute::place"><xsl:value-of select="child::metamark[@function='transposition']/attribute::place"/></xsl:if>
+                <xsl:text> | </xsl:text>
+                
+                <!-- non value for @agent expected -->
+                 <xsl:text> | </xsl:text>
+                
+                <!-- add value of @source when encoded for metamark-->
+                <xsl:if test="child::metamark[@function='transposition']/attribute::source"><xsl:value-of select="child::metamark[@function='transposition']/attribute::source"/></xsl:if>
+                <xsl:text> | </xsl:text>
+                
+                <!-- empty fields  -->
+                <xsl:text>  |  |  |  |  |  </xsl:text>
+                
+                <xsl:text> | &#x0a;</xsl:text> <!-- close beginning line-->
+                
+                <xsl:apply-templates/> <!-- process everything that is supposed to be in between the enclosing lines --> 
+                
+            </xsl:when>
+            <xsl:otherwise>
+            
+            <xsl:apply-templates/> <!-- process everything that is supposed to be in between the enclosing lines --> 
+                
+                <!-- for last element in sequence print closing line -->
+                <xsl:if test="self::*[@xml:id=//ptr/@target/substring-after(., '#')]/not(following-sibling::*[@xml:id=//ptr/@target/substring-after(., '#')])">
+                
+                <xsl:text> | ts | e | </xsl:text>  <!-- end tag -->
+                
+                <!-- empty fields-->
+                <xsl:text> |  |  |  |  |  |  |  |  |  |  |  |  |  | </xsl:text>
+                
+                <xsl:text> | &#x0a;</xsl:text> <!-- close line-->
+                </xsl:if>
+                
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
+    
+ 
     
     
     <!-- templates for text altering markup inside of words or me:punct/pc-->
