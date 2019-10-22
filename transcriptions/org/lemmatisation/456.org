@@ -23,7 +23,7 @@
 | :s: |        |             |     |            |               |               |               |   |   |   |   |     |   |   |   |        |
 | pm  |     1r |             |     |            |               |               |               |   |   |   |   |     |   |   |   |        |
 | lm  | 456-01 |             |     |            |               |               |               |   |   |   |   |     |   |   |   |        |
-| w   |        | jak         | xPD | Jeg        | ieg           | Jeg           | Jeg           |   |   |   |   | dan |   |   |   | 456-01 |
+| w   |        | jak         | xPD | jeg        | ieg           | Jeg           | Jeg           |   |   |   |   | dan |   |   |   | 456-01 |
 | PE  |      b |             |     |            |               |               |               |   |   |   |   |     |   |   |   |        |
 | w   |        |             | xNP | Oluf       | oluff         | oluff         | oluff         |   |   |   |   | dan |   |   |   | 456-01 |
 | w   |        |             | xNP | Mikkelsen  | meckælssøn    | meckælss(øn)  | meckælſ      |   |   |   |   | dan |   |   |   | 456-01 |
@@ -59,14 +59,14 @@
 | w   |        | hva         | xPD | hvis       | hwis          | hwis          | hı          |   |   |   |   | dan |   |   |   | 456-03 |
 | lm  | 456-04 |             |     |            |               |               |               |   |   |   |   |     |   |   |   |        |
 | w   |        | sjal        | xNC | sjæl       | siæll         | Siæll         | ıæll         |   |   |   |   | dan |   |   |   | 456-04 |
-| w   |        | guth        | xNC | gud        | guud          | guud          | guud          |   |   |   |   | dan |   |   |   | 456-04 |
+| w   |        | guth        | xNC | Gud        | guud          | guud          | guud          |   |   |   |   | dan |   |   |   | 456-04 |
 | w   |        | have        | xVB | have       | haffue        | haffue        | haffue        |   |   |   |   | dan |   |   |   | 456-04 |
 | w   |        | ok          | xCC | og         | och           | och           | och           |   |   |   |   | dan |   |   |   | 456-04 |
 | w   |        | menigh      | xAJ | menige     | menynge       | meny(n)ge     | meny̅ge        |   |   |   |   | dan |   |   |   | 456-04 |
 | w   |        | jungfrue    | xNC | jomfruer   | iomffrwer     | iomffrwer     | ıomffrwer     |   |   |   |   | dan |   |   |   | 456-04 |
 | w   |        | i           | xAP | i          | i             | i             | ı             |   |   |   |   | dan |   |   |   | 456-04 |
 | PL  |      b |             |     |            |               |               |               |   |   |   |   |     |   |   |   |        |
-| w   |        | sankte      | xAJ | sankt      | sancte        | S(anc)te      | te̅           |   |   |   |   | dan |   |   |   | 456-04 |
+| w   |        | sankte      | xAJ | sankte      | sancte        | S(anc)te      | te̅           |   |   |   |   | dan |   |   |   | 456-04 |
 | lm  | 456-05 |             |     |            |               |               |               |   |   |   |   |     |   |   |   |        |
 | w   |        |             | xNP | Clara      | claer         | Cla(er)       | Cla          |   |   |   |   | dan |   |   |   | 456-05 |
 | w   |        | kloster     | xNC | kloster    | kloster       | kloster       | kloſter       |   |   |   |   | dan |   |   |   | 456-05 |
@@ -76,12 +76,12 @@
 | w   |        |             | xNP | Roskilde   | roskylle      | Roskylle      | Roſkylle      |   |   |   |   | dan |   |   |   | 456-05 |
 | PL  |      e |             |     |            |               |               |               |   |   |   |   |     |   |   |   |        |
 | w   |        | thakke      | xVB | takkendes  | tackynndis    | Tackynnd(is)  | Tackynn      |   |   |   |   | dan |   |   |   | 456-05 |
-| w   |        | thæn        | xPD | denom      | thønomm       | thønom(m)     | thønom̅        |   |   |   |   | dan |   |   |   | 456-05 |
+| w   |        | thæn        | xPD | dem      | thønomm       | thønom(m)     | thønom̅        |   |   |   |   | dan |   |   |   | 456-05 |
 | w   |        | al          | xAJ | alle       | alle          | alle          | alle          |   |   |   |   | dan |   |   |   | 456-05 |
 | w   |        | samen       | xAJ | sammen     | sammen        | sam(m)en      | ſam̅en         |   |   |   |   | dan |   |   |   | 456-05 |
 | lm  | 456-06 |             |     |            |               |               |               |   |   |   |   |     |   |   |   |        |
 | w   |        | for         | xAP | for        | for           | for           | for           |   |   |   |   | dan |   |   |   | 456-06 |
-| w   |        | goth        | xAJ | god        | godz          | godz          | godz          |   |   |   |   | dan |   |   |   | 456-06 |
+| w   |        | goth        | xAJ | gods        | godz          | godz          | godz          |   |   |   |   | dan |   |   |   | 456-06 |
 | w   |        | rethelik    | xAJ | redelig    | redeliige     | redeliige     | ꝛedeliige     |   |   |   |   | dan |   |   |   | 456-06 |
 | w   |        | betaling    | xNC | betaling   | betallinge    | betallinge    | betallınge    |   |   |   |   | dan |   |   |   | 456-06 |
 | w   |        | i           | xAP | i          | i             | i             | i             |   |   |   |   | dan |   |   |   | 456-06 |
@@ -97,7 +97,7 @@
 | w   |        | thi         | xCS | thi        | thy           | Thy           | Thÿ           |   |   |   |   | dan |   |   |   | 456-07 |
 | w   |        | late        | xVB | lader      | ladher        | ladhe(r)      | ladhe        |   |   |   |   | dan |   |   |   | 456-07 |
 | w   |        | jak         | xPD | jeg        | ieg           | ieg           | ıeg           |   |   |   |   | dan |   |   |   | 456-07 |
-| w   |        | thæn        | xPD | denom      | thonom        | thonom        | thonom        |   |   |   |   | dan |   |   |   | 456-07 |
+| w   |        | thæn        | xPD | dem      | thonom        | thonom        | thonom        |   |   |   |   | dan |   |   |   | 456-07 |
 | lm  | 456-08 |             |     |            |               |               |               |   |   |   |   |     |   |   |   |        |
 | w   |        | kvit        | xAJ | kvit       | quytt         | quytt         | qűytt         |   |   |   |   | dan |   |   |   | 456-08 |
 | w   |        | fri         | xAJ | fri        | fry           | fry           | frÿ           |   |   |   |   | dan |   |   |   | 456-08 |
