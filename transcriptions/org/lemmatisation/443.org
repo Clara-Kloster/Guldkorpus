@@ -24,8 +24,8 @@
 | lm  | 443-01 |                            |                |   |   |                            |                            |   |   |   |   |     |   |   |    |               |
 | w   |        | vi                         | xPD            |   |   | Wij                        | Wij                        |   |   |   |   | dan |   |   |    |        443-01 |
 | PE  |      b |                            |                |   |   |                            |                            |   |   |   |   |     |   |   |    |               |
-| w   |        | ligje                      | xVB            |   |   | laghæ                      | laghæ                      |   |   |   |   | dan |   |   |    |        443-01 |
-| w   |        | vrne                       | xNC            |   |   | vrne                       | vꝛne                       |   |   |   |   | dan |   |   |    |        443-01 |
+| w   |        |                        | xNP            |   |   | laghæ                      | laghæ                      |   |   |   |   | dan |   |   |    |        443-01 |
+| w   |        |                         | xNP            |   |   | vrne                       | vꝛne                       |   |   |   |   | dan |   |   |    |        443-01 |
 | PE  |      e |                            |                |   |   |                            |                            |   |   |   |   |     |   |   |    |               |
 | w   |        | mæth                       | xAP            |   |   | mett                       | mett                       |   |   |   |   | dan |   |   |    |        443-01 |
 | w   |        | guth                       | xNC            |   |   | gudz                       | gudz                       |   |   |   |   | dan |   |   |    |        443-01 |
@@ -33,90 +33,90 @@
 | w   |        | biskop                     | xNC            |   |   | biscop                     | bıſcop                     |   |   |   |   | dan |   |   |    |        443-01 |
 | w   |        | i                          | xAP            |   |   | i                          | i                          |   |   |   |   | dan |   |   |    |        443-01 |
 | PL  |      b |                            |                |   |   |                            |                            |   |   |   |   |     |   |   |    |               |
-| w   |        | Roskilde                   | xNP            |   |   | Rosk(ilde)                 | Roſkꝭ̅ͤ                      |   |   |   |   | dan |   |   |    |        443-01 |
+| w   |        |                     | xNP            |   |   | Rosk(ilde)                 | Roſkꝭ̅ͤ                      |   |   |   |   | dan |   |   |    |        443-01 |
 | PL  |      e |                            |                |   |   |                            |                            |   |   |   |   |     |   |   |    |               |
 | w   |        | gøre                       | xVB            |   |   | Giør(e)                    | Gıør                      |   |   |   |   | dan |   |   |    |        443-01 |
-| w   |        | vitherlig                  | xAJ            |   |   | with(e)rligt               | wıthꝛ̅lıgt                  |   |   |   |   | dan |   |   |    |        443-01 |
-| w   |        | at                         | xIM            |   |   | At                         | At                         |   |   |   |   | dan |   |   |    |        443-01 |
+| w   |        | vitherlik                  | xAJ            |   |   | with(e)rligt               | wıthꝛ̅lıgt                  |   |   |   |   | dan |   |   |    |        443-01 |
+| w   |        | at                         | xCS            |   |   | At                         | At                         |   |   |   |   | dan |   |   |    |        443-01 |
 | w   |        | vi                         | xPD            |   |   | wij                        | wij                        |   |   |   |   | dan |   |   |    |        443-01 |
 | w   |        | mæth                       | xAP            |   |   | mett                       | mett                       |   |   |   |   | dan |   |   |    |        443-01 |
-| w   |        | varthe                     | xVB            |   |   | wort                       | woꝛt                       |   |   |   |   | dan |   |   |    |        443-01 |
-| w   |        | elskelik                   | xAJ            |   |   | elsk(elige)                | elſkꝭͤ                      |   |   |   |   | dan |   |   |    |        443-01 |
+| w   |        | var                     | xDP            |   |   | wort                       | woꝛt                       |   |   |   |   | dan |   |   |    |        443-01 |
+| w   |        | ælskelik                   | xAJ            |   |   | elsk(elige)                | elſkꝭͤ                      |   |   |   |   | dan |   |   |    |        443-01 |
 | lm  | 443-02 |                            |                |   |   |                            |                            |   |   |   |   |     |   |   |    |               |
 | w   |        | kapitel                    | xNC            |   |   | capitels                   | capıtel                   |   |   |   |   | dan |   |   |    |        443-02 |
-| w   |        | i                          | xPD            |   |   | i                          | i                          |   |   |   |   | dan |   |   |    |        443-02 |
+| w   |        | i                          | xAP            |   |   | i                          | i                          |   |   |   |   | dan |   |   |    |        443-02 |
 | PL  |      b |                            |                |   |   |                            |                            |   |   |   |   |     |   |   |    |               |
-| w   |        | Roschiilthe                | xVB            |   |   | Roschiildhæ                | Roſchiildhæ                |   |   |   |   | dan |   |   |    |        443-02 |
+| w   |        |                 | xNP            |   |   | Roschiildhæ                | Roſchiildhæ                |   |   |   |   | dan |   |   |    |        443-02 |
 | PL  |      e |                            |                |   |   |                            |                            |   |   |   |   |     |   |   |    |               |
 | w   |        | vilje                      | xNC            |   |   | wilghæ                     | wılghæ                     |   |   |   |   | dan |   |   |    |        443-02 |
-| w   |        | 000                        | NUM            |   |   | ⸠000⸡                      | ⸠000⸡                      |   |   |   |   | dan |   |   |    |        443-02 |
-| w   |        | fuldburd                   | xAJ            |   |   | fuldburd                   | fuldburd                   |   |   |   |   | dan |   |   |    |        443-02 |
-| w   |        | ok                         | xAV            |   |   | oc                         | oc                         |   |   |   |   | dan |   |   |    |        443-02 |
-| w   |        | sambthykje                 | xNC            |   |   | sambtyckæ                  | ſambtyckæ                  |   |   |   |   | dan |   |   |    |        443-02 |
+| w   |        |                          | XX            |   |   | ⸠000⸡                      | ⸠000⸡                      |   |   |   |   | dan |   |   |    |        443-02 |
+| w   |        | fulbyrth                   | xNC            |   |   | fuldburd                   | fuldburd                   |   |   |   |   | dan |   |   |    |        443-02 |
+| w   |        | ok                         | xCC            |   |   | oc                         | oc                         |   |   |   |   | dan |   |   |    |        443-02 |
+| w   |        | samthykke                 | xNC            |   |   | sambtyckæ                  | ſambtyckæ                  |   |   |   |   | dan |   |   |    |        443-02 |
 | w   |        | have                       | xVB            |   |   | haffwer                    | haffwer                    |   |   |   |   | dan |   |   |    |        443-02 |
-| w   |        | undt                       | xAJ            |   |   | wndt                       | wndt                       |   |   |   |   | dan |   |   |    |        443-02 |
-| w   |        | ok                         | xAV            |   |   | oc                         | oc                         |   |   |   |   | dan |   |   |    |        443-02 |
-| w   |        | tilladet                   | xAJ            |   |   | tilladet                   | tılladet                   |   |   |   |   | dan |   |   |    |        443-02 |
-| w   |        | ok                         | xAV            |   |   | oc                         | oc                         |   |   |   |   | dan |   |   |    |        443-02 |
+| w   |        | unne                       | xVB            |   |   | wndt                       | wndt                       |   |   |   |   | dan |   |   |    |        443-02 |
+| w   |        | ok                         | xCC            |   |   | oc                         | oc                         |   |   |   |   | dan |   |   |    |        443-02 |
+| w   |        | tillate                   | xVB            |   |   | tilladet                   | tılladet                   |   |   |   |   | dan |   |   |    |        443-02 |
+| w   |        | ok                         | xCC            |   |   | oc                         | oc                         |   |   |   |   | dan |   |   |    |        443-02 |
 | w   |        | mæth                       | xAP            |   |   | mett                       | mett                       |   |   |   |   | dan |   |   |    |        443-02 |
 | w   |        | thænne                     | xDD            |   |   | th(ette)                   | thꝫͤ                        |   |   |   |   | dan |   |   |    |        443-02 |
 | lm  | 443-03 |                            |                |   |   |                            |                            |   |   |   |   |     |   |   |    |               |
-| w   |        | varthe                     | xVB            |   |   | wort                       | woꝛt                       |   |   |   |   | dan |   |   |    |        443-03 |
+| w   |        | var                     | xDP            |   |   | wort                       | woꝛt                       |   |   |   |   | dan |   |   |    |        443-03 |
 | w   |        | open                       | xAJ            |   |   | obne                       | obne                       |   |   |   |   | dan |   |   |    |        443-03 |
 | w   |        | brev                       | xNC            |   |   | breff                      | bꝛeff                      |   |   |   |   | dan |   |   |    |        443-03 |
-| w   |        | vnde                       | lat            |   |   | vnde                       | vnde                       |   |   |   |   | dan |   |   |    |        443-03 |
-| w   |        | ok                         | xAV            |   |   | oc                         | oc                         |   |   |   |   | dan |   |   |    |        443-03 |
-| w   |        | tiillate                   | xNC            |   |   | tiillade                   | tiillade                   |   |   |   |   | dan |   |   |    |        443-03 |
-| w   |        | at                         | xIM            |   |   | At                         | At                         |   |   |   |   | dan |   |   |    |        443-03 |
+| w   |        | unne                       | xVB            |   |   | vnde                       | vnde                       |   |   |   |   | dan |   |   |    |        443-03 |
+| w   |        | ok                         | xCC            |   |   | oc                         | oc                         |   |   |   |   | dan |   |   |    |        443-03 |
+| w   |        | tillate                   | xVB            |   |   | tiillade                   | tiillade                   |   |   |   |   | dan |   |   |    |        443-03 |
+| w   |        | at                         | xCS            |   |   | At                         | At                         |   |   |   |   | dan |   |   |    |        443-03 |
 | w   |        | hetherlik                  | xAJ            |   |   | hed(er)lig                 | hedlıg                    |   |   |   |   | dan |   |   |    |        443-03 |
 | w   |        | man                        | xNC            |   |   | mand                       | mand                       |   |   |   |   | dan |   |   |    |        443-03 |
 | w   |        | vi                         | xPD            |   |   | oss                        | oſſ                        |   |   |   |   | dan |   |   |    |        443-03 |
-| w   |        | elskelik                   | xAJ            |   |   | elsk(elige)                | elſkꝭͤ                      |   |   |   |   | dan |   |   |    |        443-03 |
+| w   |        | ælskelik                   | xAJ            |   |   | elsk(elige)                | elſkꝭͤ                      |   |   |   |   | dan |   |   |    |        443-03 |
 | w   |        | hærre                      | xNC            |   |   | her                        | her                        |   |   |   |   | dan |   |   |    |        443-03 |
 | PE  |      b |                            |                |   |   |                            |                            |   |   |   |   |     |   |   |    |               |
-| w   |        | Otte                       | xNC            |   |   | Otthe                      | Otthe                      |   |   |   |   | dan |   |   |    |        443-03 |
+| w   |        |                        | xNP            |   |   | Otthe                      | Otthe                      |   |   |   |   | dan |   |   |    |        443-03 |
 | PE  |      e |                            |                |   |   |                            |                            |   |   |   |   |     |   |   |    |               |
 | ga  |      8 |                            |                |   |   |                            |                            |   |   |   |   |     |   |   |    |               |
-| w   |        | Canik                      | xNC            |   |   | Canick                     | Canick                     |   |   |   |   | dan |   |   |    |        443-03 |
-| w   |        | uti                        | xAV            |   |   | wtj                        | wtj                        |   |   |   |   | dan |   |   |    |        443-03 |
-| w   |        | være                       | xVB            |   |   | wor                        | wor                        |   |   |   |   | dan |   |   |    |        443-03 |
+| w   |        | kanik                      | xNC            |   |   | Canick                     | Canick                     |   |   |   |   | dan |   |   |    |        443-03 |
+| w   |        | uti                        | xAP            |   |   | wtj                        | wtj                        |   |   |   |   | dan |   |   |    |        443-03 |
+| w   |        | var                       | xDP            |   |   | wor                        | wor                        |   |   |   |   | dan |   |   |    |        443-03 |
 | lm  | 443-04 |                            |                |   |   |                            |                            |   |   |   |   |     |   |   |    |               |
-| w   |        | domkirkke                  | xNC            |   |   | do(m)kircke                | do̅kıꝛcke                   |   |   |   |   | dan |   |   |    |        443-04 |
+| w   |        | domkirkje                  | xNC            |   |   | do(m)kircke                | do̅kıꝛcke                   |   |   |   |   | dan |   |   |    |        443-04 |
 | PL  |      b |                            |                |   |   |                            |                            |   |   |   |   |     |   |   |    |               |
-| w   |        | Roskilde                   | xNP            |   |   | Rosk(ilde)                 | Roſk̅ꝭ                      |   |   |   |   | dan |   |   |    |        443-04 |
+| w   |        |                     | xNP            |   |   | Rosk(ilde)                 | Roſk̅ꝭ                      |   |   |   |   | dan |   |   |    |        443-04 |
 | PL  |      e |                            |                |   |   |                            |                            |   |   |   |   |     |   |   |    |               |
 | w   |        | mughe                      | xVB            |   |   | maa                        | maa                        |   |   |   |   | dan |   |   |    |        443-04 |
-| w   |        | ok                         | xAV            |   |   | oc                         | oc                         |   |   |   |   | dan |   |   |    |        443-04 |
+| w   |        | ok                         | xCC            |   |   | oc                         | oc                         |   |   |   |   | dan |   |   |    |        443-04 |
 | w   |        | skule                      | xVB            |   |   | schall                     | ſchall                     |   |   |   |   | dan |   |   |    |        443-04 |
 | w   |        | have                       | xVB            |   |   | haffwæ                     | haffwæ                     |   |   |   |   | dan |   |   |    |        443-04 |
 | w   |        | nyte                       | xVB            |   |   | nyde                       | nÿde                       |   |   |   |   | dan |   |   |    |        443-04 |
-| w   |        | ok                         | xAV            |   |   | oc                         | oc                         |   |   |   |   | dan |   |   |    |        443-04 |
-| w   |        | i                          | xPD            |   |   | i                          | i                          |   |   |   |   | dan |   |   |    |        443-04 |
-| w   |        | syn                        | xAJ            |   |   | syn                        | ſyn                        |   |   |   |   | dan |   |   |    |        443-04 |
-| w   |        | liiffs                     | xNC            |   |   | liiffs                     | liiff                     |   |   |   |   | dan |   |   |    |        443-04 |
+| w   |        | ok                         | xCC            |   |   | oc                         | oc                         |   |   |   |   | dan |   |   |    |        443-04 |
+| w   |        | i                          | xAP            |   |   | i                          | i                          |   |   |   |   | dan |   |   |    |        443-04 |
+| w   |        | sin                        | xDP            |   |   | syn                        | ſyn                        |   |   |   |   | dan |   |   |    |        443-04 |
+| w   |        | liv                     | xNC            |   |   | liiffs                     | liiff                     |   |   |   |   | dan |   |   |    |        443-04 |
 | w   |        | tith                       | xNC            |   |   | tiid                       | tiid                       |   |   |   |   | dan |   |   |    |        443-04 |
 | w   |        | behalde                    | xVB            |   |   | behollæ                    | behollæ                    |   |   |   |   | dan |   |   |    |        443-04 |
-| w   |        | helligesthus               | xNC            |   |   | helligesthwss              | hellıgeſthwſſ              |   |   |   |   | dan |   |   |    |        443-04 |
+| w   |        | helagh               | xAJ            |   |   | helligesthwss              | hellıgeſthwſſ              |   |   |   |   | dan |   |   |    |        443-04 |
 | w   |        | hærre                      | xNC            |   |   | her                        | her                        |   |   |   |   | dan |   |   |    |        443-04 |
-| w   |        | i                          | xPD            |   |   | i                          | i                          |   |   |   |   | dan |   |   |    |        443-04 |
+| w   |        | i                          | xAP            |   |   | i                          | i                          |   |   |   |   | dan |   |   |    |        443-04 |
 | PL  |      b |                            |                |   |   |                            |                            |   |   |   |   |     |   |   |    |               |
-| w   |        | Roschilthe                 | xVB            |   |   | Roschildhe                 | Roſchıldhe                 |   |   |   |   | dan |   |   |    |        443-04 |
+| w   |        |                  | xNP            |   |   | Roschildhe                 | Roſchıldhe                 |   |   |   |   | dan |   |   |    |        443-04 |
 | PL  |      e |                            |                |   |   |                            |                            |   |   |   |   |     |   |   |    |               |
 | lm  | 443-05 |                            |                |   |   |                            |                            |   |   |   |   |     |   |   |    |               |
-| w   |        | sum                        | xPD            |   |   | Som                        | om                        |   |   |   |   | dan |   |   |    |        443-05 |
+| w   |        | sum                        | xRP            |   |   | Som                        | om                        |   |   |   |   | dan |   |   |    |        443-05 |
 | w   |        | vi                         | xPD            |   |   | oss                        | oſſ                        |   |   |   |   | dan |   |   |    |        443-05 |
-| w   |        | elskelik                   | xAJ            |   |   | elsk(elige)                | elſkꝭͤ                      |   |   |   |   | dan |   |   |    |        443-05 |
+| w   |        | ælskelik                   | xAJ            |   |   | elsk(elige)                | elſkꝭͤ                      |   |   |   |   | dan |   |   |    |        443-05 |
 | w   |        | mæstere                    | xNC            |   |   | mester                     | meſter                     |   |   |   |   | dan |   |   |    |        443-05 |
 | PE  |      b |                            |                |   |   |                            |                            |   |   |   |   |     |   |   |    |               |
-| w   |        | jørghen                    | xAJ            |   |   | jørgh(e)n                  | jøꝛghn̅                     |   |   |   |   | dan |   |   |    |        443-05 |
-| w   |        | scøtborek                  | xAJ            |   |   | scøtbor(e)g                | ſcøtborg                  |   |   |   |   | dan |   |   |    |        443-05 |
+| w   |        |                     | xNP            |   |   | jørgh(e)n                  | jøꝛghn̅                     |   |   |   |   | dan |   |   |    |        443-05 |
+| w   |        |                   | xNP            |   |   | scøtbor(e)g                | ſcøtborg                  |   |   |   |   | dan |   |   |    |        443-05 |
 | PE  |      e |                            |                |   |   |                            |                            |   |   |   |   |     |   |   |    |               |
-| w   |        | friit                      | xNC            |   |   | friitt                     | fꝛiitt                     |   |   |   |   | dan |   |   |    |        443-05 |
-| w   |        | vdj                        | xAV            |   |   | wdj                        | wdj                        |   |   |   |   | dan |   |   |    |        443-05 |
-| w   |        | være                       | xVB            |   |   | waare                      | aare                      |   |   |   |   | dan |   |   |    |        443-05 |
+| w   |        | fri                      | xAJ            |   |   | friitt                     | fꝛiitt                     |   |   |   |   | dan |   |   |    |        443-05 |
+| w   |        | uti                        | xAP            |   |   | wdj                        | wdj                        |   |   |   |   | dan |   |   |    |        443-05 |
+| w   |        | var                       | xDP            |   |   | waare                      | aare                      |   |   |   |   | dan |   |   |    |        443-05 |
 | w   |        | hand                       | xNC            |   |   | hender                     | hender                     |   |   |   |   | dan |   |   |    |        443-05 |
-| w   |        | ræsignnere                 | xVB            |   |   | resig(n)nerede             | ꝛeſig̅nerede                |   |   |   |   | dan |   |   |    |        443-05 |
-| w   |        | ok                         | xAV            |   |   | oc                         | oc                         |   |   |   |   | dan |   |   |    |        443-05 |
+| w   |        | resignere                 | xVB            |   |   | resig(n)nerede             | ꝛeſig̅nerede                |   |   |   |   | dan |   |   |    |        443-05 |
+| w   |        | ok                         | xCC            |   |   | oc                         | oc                         |   |   |   |   | dan |   |   |    |        443-05 |
 | w   |        | uplate                     | xVB            |   |   | wplod                      | wplod                      |   |   |   |   | dan |   |   |    |        443-05 |
 | w   |        | mæth                       | xAP            |   |   | mett                       | mett                       |   |   |   |   | dan |   |   |    |        443-05 |
 | w   |        | garth                      | xNC            |   |   | gard                       | gard                       |   |   |   |   | dan |   |   |    |        443-05 |
