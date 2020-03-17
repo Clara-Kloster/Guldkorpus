@@ -219,7 +219,7 @@
 |   225 |  57-001 | LVII  |     1 |   1341 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   226 |  57-002 | LVII  |     2 |   1341 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   227 |  57-003 | LVII  |     3 |   1341 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
-|   228 |  57-004 | LVII  |     4 |   1341 | Latin     | txt        | TRK   | TRK   | SEW   |       |       |      |           |                   |
+|   228 |  57-004 | LVII  |     4 |   1341 | Latin     | txt/convert | TRK   | TRK   | SEW   |       |       |      |           |                   |
 |   229 |  57-005 | LVII  |     5 |   1341 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   230 | 57-006a | LVII  |     6 |   1341 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   231 | 57-006b | LVII  |     6 |   1403 | Latin     | 130319     |       |       |       |       |       |      |           | young             |
@@ -253,7 +253,7 @@
 |   259 |  58-002 | LVIII |     2 |        | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   260 |  58-003 | LVIII |     3 |   1353 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   261 |  58-004 | LVIII |     4 |        | Latin     | 130319     | TRK   | TRK   |       |       |       |      |           |                   |
-|   262 |  58-005 | LVIII |     5 |        | Latin     | txt        |       |       |       |       |       |      |           |                   |
+|   262 |  58-005 | LVIII |     5 |        | Latin     | txt/convert |       |       |       |       |       |      |           |                   |
 |   263 |  58-006 | LVIII |     6 |        | Latin     | ?          | TRK   | TRK   | SEW   |       |       |      |           |                   |
 |   264 |  58-007 | LVIII |     7 |        | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   265 |  58-008 | LVIII |     8 |   1360 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
@@ -368,8 +368,8 @@
 |   381 |  61-031 | LXI   |    31 |   1449 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   382 |  61-032 | LXI   |    32 |   1450 | Latin     |            | SEW   | SEW   | TRK   | SEW   |       |      |           |                   |
 |   383 |  61-033 | LXI   |    33 |        | Latin     | 130319     | SEW   | SEW   |       |       |       |      |           |                   |
-|   384 |  62-001 | LXII  |     1 |        | Dansk     | txt        | DGC   | DGC   | SDV   |       |       |      |           | Multispec         |
-|   385 |  62-002 | LXII  |     2 |   1454 | Svensk    | txt        | SDV   | SDV   | DGC   |       |       |      |           |                   |
+|   384 |  62-001 | LXII  |     1 |        | Dansk     | txt/convert | DGC   | DGC   | SDV   |       |       |      |           | Multispec         |
+|   385 |  62-002 | LXII  |     2 |   1454 | Svensk    | txt/convert | SDV   | SDV   | DGC   |       |       |      |           |                   |
 |   386 |  62-003 | LXII  |     3 |   1455 | Latin     | 130319     | SEW   | SEW   |       |       |       |      |           |                   |
 |   387 |  62-004 | LXII  |     4 |   1456 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   388 |  62-005 | LXII  |     5 |   1457 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
@@ -472,7 +472,7 @@
 |   486 |  65-012 | LXV   |    12 |        | Latin     | ?          | TRK   | TRK   | SEW   |       |       |      |           |                   |
 |   487 |  65-013 | LXV   |    13 |        | Latin     | 130319     | TRK   | TRK   | SEW   |       |       |      |           |                   |
 |   488 |  65-014 | LXV   |    14 |        | Dansk     | ?          | SDV   |       |       |       |       |      |           | Multispec         |
-|   489 |  65-015 | LXV   |    15 | 1510.5 | Dansk     | txt        | DGC   | DGC   | SDV   |       |       |      |           |                   |
+|   489 |  65-015 | LXV   |    15 | 1510.5 | Dansk     | txt/convert | DGC   | DGC   | SDV   |       |       |      |           |                   |
 
 * Kode
 ** Ekstraher status
