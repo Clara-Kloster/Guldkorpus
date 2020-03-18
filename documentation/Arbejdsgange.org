@@ -1,16 +1,16 @@
 * Arbejdsgange
 #+NAME: Arbejdsgange
-|   <5> |         |       |   <5> |        |           | <10>       | <5>   | <5>   | <5>   | <5>   |       |      |           |                   |
+|   <5> |         |       |   <5> |        |           |       <10> | <5>   | <5>   | <5>   | <5>   |       |      |           |                   |
 |-------+---------+-------+-------+--------+-----------+------------+-------+-------+-------+-------+-------+------+-----------+-------------------|
 | number |    code | fasc. |  num. |   year | language  | File Location | transcriber | facs trans. | facs corr. | dipl trans. | lemma | norm | Lang tags | notes             |
 |-------+---------+-------+-------+--------+-----------+------------+-------+-------+-------+-------+-------+------+-----------+-------------------|
-|    12 |  51-001 | LI    |     1 |   1263 | Latin     | working    | TRK   | TRK   | SDV   | SEW   |       |      |           |                   |
-|    13 | 51-002a | LI    |     2 |   1253 | Latin     | working    | TRK   | TRK   | SDV   | SEW   |       |      |           |                   |
-|    14 | 51-002b | LI    |     2 |   1281 | Latin     | working    | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
-|    15 | 51-002c | LI    |     2 |   1281 | Latin     | working    | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
-|    16 |  51-003 | LI    |     3 |   1256 | Latin     | working    | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
-|    17 |  51-004 | LI    |     4 | 1256.5 | Latin     | working    | SEW   | SEW   | SDV   | SEW   |       |      |           |                   |
-|    18 |  51-005 | LI    |     5 |   1257 | Latin     | working    | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
+|    12 |  51-001 | LI    |     1 |   1263 | Latin     |    working | TRK   | TRK   | SDV   | SEW   |       |      |           |                   |
+|    13 | 51-002a | LI    |     2 |   1253 | Latin     |    working | TRK   | TRK   | SDV   | SEW   |       |      |           |                   |
+|    14 | 51-002b | LI    |     2 |   1281 | Latin     |    working | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
+|    15 | 51-002c | LI    |     2 |   1281 | Latin     |    working | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
+|    16 |  51-003 | LI    |     3 |   1256 | Latin     |    working | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
+|    17 |  51-004 | LI    |     4 | 1256.5 | Latin     |    working | SEW   | SEW   | SDV   | SEW   |       |      |           |                   |
+|    18 |  51-005 | LI    |     5 |   1257 | Latin     |    working | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |    19 |  51-006 | LI    |     6 |   1257 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |    20 |  51-007 | LI    |     7 |   1257 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |    21 |  51-008 | LI    |     8 |   1257 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
@@ -22,7 +22,7 @@
 |    27 |  51-014 | LI    |    14 |   1257 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |    28 |  51-015 | LI    |    15 |   1257 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |    29 |  51-016 | LI    |    16 |   1257 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
-|    30 |  51-017 | LI    |    17 | 1259.5 | Latin     | 130319     | TRK   | TRK   | SEW   |       |       |      |           |                   |
+|    30 |  51-017 | LI    |    17 | 1259.5 | Latin     |    working | TRK   | TRK   | SEW   | SDV   |       |      |           |                   |
 |    31 |  51-018 | LI    |    18 |   1257 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |    32 |  51-019 | LI    |    19 |   1257 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |    33 |  51-020 | LI    |    20 |   1258 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
@@ -35,7 +35,7 @@
 |    40 |  51-027 | LI    |    27 |   1258 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |    41 |  51-028 | LI    |    28 |   1259 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |    42 |  51-029 | LI    |    29 |   1259 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
-|    43 |  51-030 | LI    |    30 |   1259 | Latin     | working    | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
+|    43 |  51-030 | LI    |    30 |   1259 | Latin     |    working | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |    44 |  51-031 | LI    |    31 |   1259 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |    45 |  52-001 | LII   |     1 |   1261 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |    46 |  52-002 | LII   |     2 |   1262 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
@@ -60,14 +60,14 @@
 |    65 |  52-021 | LII   |    21 |   1268 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |    66 |  52-022 | LII   |    22 |   1268 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |    67 |  52-023 | LII   |    23 |   1268 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
-|    68 |  52-024 | LII   |    24 |   1268 | Latin     | ?          | TRK   | TRK   | SEW   |       |       |      |           |                   |
+|    68 |  52-024 | LII   |    24 |   1268 | Latin     |     130319 | TRK   | TRK   | SEW   |       |       |      |           |                   |
 |    69 |  52-025 | LII   |    25 |   1268 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |    70 |  52-026 | LII   |    26 | 1268.5 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |    71 |  52-027 | LII   |    27 |   1271 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |    72 |  52-028 | LII   |    28 |   1272 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |    73 |  52-029 | LII   |    29 |   1272 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |    74 |  52-030 | LII   |    30 |   1272 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
-|    75 |  52-031 | LII   |    31 |   1272 | Latin     | 130319     | TRK   | TRK   | SEW   |       |       |      |           |                   |
+|    75 |  52-031 | LII   |    31 |   1272 | Latin     |     130319 | TRK   | TRK   | SEW   |       |       |      |           |                   |
 |    76 |  52-032 | LII   |    32 |   1272 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |    77 |  52-033 | LII   |    33 |   1273 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |    78 |  52-034 | LII   |    34 |   1275 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
@@ -76,15 +76,15 @@
 |    81 |  52-037 | LII   |    37 |   1277 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |    82 |  52-038 | LII   |    38 |   1277 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |    83 |  52-039 | LII   |    39 |   1277 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
-|    85 |  52-041 | LII   |    41 |   1277 | Latin     | ?          | TRK   | TRK   | SEW   |       |       |      |           |                   |
-|    86 |  52-042 | LII   |    42 |   1278 | Latin     | ?          | TRK   | TRK   | SEW   |       |       |      |           |                   |
+|    85 |  52-041 | LII   |    41 |   1277 | Latin     |     130319 | TRK   | TRK   | SEW   |       |       |      |           |                   |
+|    86 |  52-042 | LII   |    42 |   1278 | Latin     |     130319 | TRK   | TRK   | SEW   |       |       |      |           |                   |
 |    87 |  52-043 | LII   |    43 |   1278 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |    88 |  52-044 | LII   |    44 |   1278 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
-|    89 |  52-045 | LII   |    45 |   1278 | Latin     | ?          | TRK   | TRK   | SEW   |       |       |      |           |                   |
+|    89 |  52-045 | LII   |    45 |   1278 | Latin     |     130319 | TRK   | TRK   | SEW   |       |       |      |           |                   |
 |    90 |  52-046 | LII   |    46 |   1278 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |    91 |  52-047 | LII   |    47 |   1278 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
-|    92 |  52-048 | LII   |    48 |   1279 | Latin     | ?          | TRK   | TRK   | SEW   |       |       |      |           |                   |
-|    93 |  52-049 | LII   |    49 |   1280 | Latin     | ?          | TRK   | TRK   | SEW   |       |       |      |           |                   |
+|    92 |  52-048 | LII   |    48 |   1279 | Latin     |     130319 | TRK   | TRK   | SEW   |       |       |      |           |                   |
+|    93 |  52-049 | LII   |    49 |   1280 | Latin     |     130319 | TRK   | TRK   | SEW   |       |       |      |           |                   |
 |    94 |  53-001 | LIII  |     1 |   1282 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |    95 |  53-002 | LIII  |     2 |   1283 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |    96 |  53-003 | LIII  |     3 |   1280 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
@@ -146,7 +146,7 @@
 |   152 |  54-024 | LIV   |    24 |   1308 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   153 |  54-025 | LIV   |    25 |   1309 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   154 |  54-026 | LIV   |    26 |   1310 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
-|   155 |  54-027 | LIV   |    27 |   1310 | Latin     | working    | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
+|   155 |  54-027 | LIV   |    27 |   1310 | Latin     |    working | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   156 |  54-028 | LIV   |    28 |   1310 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   157 |  55-001 | LV    |     1 |   1311 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   158 |  55-002 | LV    |     2 |   1312 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
@@ -155,7 +155,7 @@
 |   161 |  55-005 | LV    |     5 |   1314 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   162 |  55-006 | LV    |     6 |   1315 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   163 |  55-007 | LV    |     7 |   1315 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
-|   164 |  55-008 | LV    |     8 |   1315 | Latin     | working    | TRK   | TRK   | SEW   | SEW   |       |      |           | legibility (fold) |
+|   164 |  55-008 | LV    |     8 |   1315 | Latin     |    working | TRK   | TRK   | SEW   | SEW   |       |      |           | legibility (fold) |
 |   165 |  55-009 | LV    |     9 |   1316 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   166 |  55-010 | LV    |    10 |   1316 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   167 |  55-011 | LV    |    11 |   1316 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
@@ -185,7 +185,7 @@
 |   191 |  56-008 | LVI   |     8 |   1326 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   192 |  56-009 | LVI   |     9 |   1327 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   193 |  56-010 | LVI   |    10 |   1327 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
-|   194 |  56-011 | LVI   |    11 |   1327 | Latin     | working    | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
+|   194 |  56-011 | LVI   |    11 |   1327 | Latin     |    working | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   195 |  56-012 | LVI   |    12 |   1328 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   196 |  56-013 | LVI   |    13 |   1329 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   197 |  56-014 | LVI   |    14 |   1329 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
@@ -200,7 +200,7 @@
 |   206 |  56-023 | LVI   |    23 |   1335 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   207 |  56-024 | LVI   |    24 |   1334 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   208 |  56-025 | LVI   |    25 |   1335 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
-|   209 |  56-026 | LVI   |    26 |   1336 | Latin     | working    | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
+|   209 |  56-026 | LVI   |    26 |   1336 | Latin     |    working | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   210 |  56-027 | LVI   |    27 |   1336 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   211 |  56-028 | LVI   |    28 |   1336 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   212 |  56-029 | LVI   |    29 |   1337 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
@@ -222,8 +222,8 @@
 |   228 |  57-004 | LVII  |     4 |   1341 | Latin     | txt/convert | TRK   | TRK   | SEW   |       |       |      |           |                   |
 |   229 |  57-005 | LVII  |     5 |   1341 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   230 | 57-006a | LVII  |     6 |   1341 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
-|   231 | 57-006b | LVII  |     6 |   1403 | Latin     | 130319     |       |       |       |       |       |      |           | young             |
-|   232 |  57-007 | LVII  |     7 |   1341 | Latin     | ?          | TRK   | TRK   | SEW   |       |       |      |           |                   |
+|   231 | 57-006b | LVII  |     6 |   1403 | Latin     |     130319 |       |       |       |       |       |      |           | young             |
+|   232 |  57-007 | LVII  |     7 |   1341 | Latin     |          ? | TRK   | TRK   | SEW   |       |       |      |           |                   |
 |   233 |  57-008 | LVII  |     8 |   1368 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   234 |  57-009 | LVII  |     9 |   1342 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   235 |  57-010 | LVII  |    10 |   1342 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
@@ -239,7 +239,7 @@
 |   245 |  57-019 | LVII  |    19 |   1347 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   246 |  57-020 | LVII  |    20 |   1347 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   247 |  57-021 | LVII  |    21 |   1347 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
-|   248 |  57-022 | LVII  |    22 |   1348 | Latin     | working    | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
+|   248 |  57-022 | LVII  |    22 |   1348 | Latin     |    working | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   249 | 57-023a | LVII  |    23 |   1348 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   250 | 57-023b | LVII  |    23 |   1348 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   251 |  57-024 | LVII  |    24 |   1349 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
@@ -252,15 +252,15 @@
 |   258 |  58-001 | LVIII |     1 |        | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   259 |  58-002 | LVIII |     2 |        | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   260 |  58-003 | LVIII |     3 |   1353 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
-|   261 |  58-004 | LVIII |     4 |        | Latin     | 130319     | TRK   | TRK   |       |       |       |      |           |                   |
+|   261 |  58-004 | LVIII |     4 |        | Latin     |     130319 | TRK   | TRK   |       |       |       |      |           |                   |
 |   262 |  58-005 | LVIII |     5 |        | Latin     | txt/convert |       |       | SDV   |       |       |      |           |                   |
-|   263 |  58-006 | LVIII |     6 |        | Latin     | ?          | TRK   | TRK   | SEW   |       |       |      |           |                   |
+|   263 |  58-006 | LVIII |     6 |        | Latin     |     130319 | TRK   | TRK   | SEW   |       |       |      |           |                   |
 |   264 |  58-007 | LVIII |     7 |        | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   265 |  58-008 | LVIII |     8 |   1360 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   266 |  58-009 | LVIII |     9 |   1360 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   267 |  58-010 | LVIII |    10 |   1360 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   268 |  58-011 | LVIII |    11 |   1361 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
-|   269 |  58-012 | LVIII |    12 |   1364 | Latin     | ?          | TRK   | TRK   | SEW   |       |       |      |           |                   |
+|   269 |  58-012 | LVIII |    12 |   1364 | Latin     |     130319 | TRK   | TRK   | SEW   |       |       |      |           |                   |
 |   270 |  58-013 | LVIII |    13 |   1370 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   271 |  58-014 | LVIII |    14 |   1370 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
 |   272 |  58-015 | LVIII |    15 |   1370 | Latin     |            | TRK   | TRK   | SEW   | SEW   |       |      |           |                   |
@@ -289,11 +289,11 @@
 |   295 | 59-012a | LIX   |    12 |   1391 | Latin     |            | SEW   | SEW   | TRK   | SEW   |       |      |           |                   |
 |   296 | 59-012b | LIX   |    12 |   1436 | Latin     |            | SEW   | SEW   | TRK   | SEW   |       |      |           |                   |
 |   298 |  59-014 | LIX   |    14 |   1391 | Latin     |            | SEW   | SEW   | TRK   | SEW   |       |      |           |                   |
-|   299 |  59-015 | LIX   |    15 |   1391 | Latin     | ?          | SEW   | SEW   | TRK   |       |       |      |           |                   |
-|   300 |  59-016 | LIX   |    16 |   1393 | Latin     | ?          | SEW   | SEW   | TRK   |       |       |      |           |                   |
-|   301 |  59-017 | LIX   |    17 |   1395 | Latin     | ?          | SEW   | SEW   |       |       |       |      |           |                   |
-|   302 |  59-018 | LIX   |    18 |   1395 | Latin     | 130319     | SEW   | SEW   |       |       |       |      |           |                   |
-|   303 |  59-019 | LIX   |    19 |   1395 | Latin     | ?          | SEW   | SEW   | TRK   |       |       |      |           |                   |
+|   299 |  59-015 | LIX   |    15 |   1391 | Latin     |     130319 | SEW   | SEW   | TRK   |       |       |      |           |                   |
+|   300 |  59-016 | LIX   |    16 |   1393 | Latin     |     130319 | SEW   | SEW   | TRK   |       |       |      |           |                   |
+|   301 |  59-017 | LIX   |    17 |   1395 | Latin     |     130319 | SEW   | SEW   |       |       |       |      |           |                   |
+|   302 |  59-018 | LIX   |    18 |   1395 | Latin     |     130319 | SEW   | SEW   |       |       |       |      |           |                   |
+|   303 |  59-019 | LIX   |    19 |   1395 | Latin     |     130319 | SEW   | SEW   | TRK   |       |       |      |           |                   |
 |   304 |  59-020 | LIX   |    20 |   1395 | Latin     |            | SEW   | SEW   | TRK   | SEW   |       |      |           |                   |
 |   305 |  59-021 | LIX   |    21 |   1396 | Latin     |            | SEW   | SEW   | TRK   | SEW   |       |      |           |                   |
 |   306 |  59-022 | LIX   |    22 |   1397 | Latin     |            | SEW   | SEW   | TRK   | SEW   |       |      |           |                   |
@@ -303,43 +303,43 @@
 |   310 |  59-026 | LIX   |    26 |   1399 | Latin     |            | SEW   | SEW   | TRK   | SEW   |       |      |           |                   |
 |   311 |  59-027 | LIX   |    27 |   1399 | Nedertysk |            | SDV   | SDV   | SDV   | SDV   |       |      |           |                   |
 |   312 |  59-028 | LIX   |    28 |        | Latin     |            | SEW   | SEW   | TRK   | SEW   |       |      |           |                   |
-|   314 |  60-002 | LX    |     2 |   1401 | Latin     | ?          | SEW   | SEW   | TRK   |       |       |      |           |                   |
+|   314 |  60-002 | LX    |     2 |   1401 | Latin     |     130319 | SEW   | SEW   | TRK   |       |       |      |           |                   |
 |   317 |  60-005 | LX    |     5 |        | Latin     |            | SEW   | SEW   | TRK   | SEW   |       |      |           |                   |
 |   318 |  60-006 | LX    |     6 |   1402 | Latin     |            | SEW   | SEW   | TRK   | SEW   |       |      |           |                   |
 |   319 |  60-007 | LX    |     7 |   1402 | Latin     |            | SEW   | SEW   | TRK   | SEW   |       |      |           |                   |
 |   320 |  60-008 | LX    |     8 |   1402 | Latin     |            | SEW   | SEW   | TRK   | SEW   |       |      |           |                   |
-|   321 |  60-009 | LX    |     9 |   1409 | Latin     | ?          | SEW   | SEW   | TRK   |       |       |      |           |                   |
+|   321 |  60-009 | LX    |     9 |   1409 | Latin     |     130319 | SEW   | SEW   | TRK   |       |       |      |           |                   |
 |   322 |  60-010 | LX    |    10 |   1403 | Latin     |            | SEW   | SEW   | TRK   | SEW   |       |      |           |                   |
 |   323 |  60-011 | LX    |    11 |   1403 | Dansk     |            | DGC   | DGC   | SDV   | SDV   | SDV   |      |           |                   |
 |   325 |  60-013 | LX    |    13 |   1404 | Dansk     |            | DGC   | DGC   | SDV   | SDV   | SDV   |      |           |                   |
 |   326 |  60-014 | LX    |    14 |   1404 | Dansk     |            | DGC   | DGC   | SDV   | SDV   | SDV   |      |           |                   |
 |   327 |  60-015 | LX    |    15 |   1405 | Latin     |            | SEW   | SEW   | TRK   | SEW   |       |      |           |                   |
-|   328 |  60-016 | LX    |    16 |   1405 | Latin     | 130319     | SEW   | SEW   |       |       |       |      |           | Multispec         |
+|   328 |  60-016 | LX    |    16 |   1405 | Latin     |     130319 | SEW   | SEW   |       |       |       |      |           | Multispec         |
 |   329 |  60-017 | LX    |    17 |   1406 | Latin     |            | SEW   | SEW   | TRK   | SEW   |       |      |           |                   |
 |   330 |  60-018 | LX    |    18 |   1406 | Nedertysk |            | SDV   | SDV   | SDV   | SDV   |       |      |           |                   |
 |   331 |  60-019 | LX    |    19 |   1406 | Latin     |            | SEW   | SEW   | TRK   | SEW   |       |      |           |                   |
 |   332 |  60-020 | LX    |    20 |   1406 | Latin     |            | SEW   | SEW   | TRK   | SEW   |       |      |           |                   |
-|   333 |  60-021 | LX    |    21 |   1406 | Latin     | 130319     | SEW   | SEW   |       |       |       |      |           |                   |
+|   333 |  60-021 | LX    |    21 |   1406 | Latin     |     130319 | SEW   | SEW   |       |       |       |      |           |                   |
 |   334 |  60-022 | LX    |    22 |   1408 | Dansk     |            | BS    | BS    | SDV   | SDV   | SDV   |      |           |                   |
-|   335 |  60-023 | LX    |    23 |   1411 | Latin     | 130319     | SEW   | SEW   | TRK   |       |       |      |           |                   |
+|   335 |  60-023 | LX    |    23 |   1411 | Latin     |     130319 | SEW   | SEW   | TRK   |       |       |      |           |                   |
 |   337 |  60-025 | LX    |    25 |   1411 | Dansk     |            | DGC   | DGC   | SDV   | SDV   | SDV   |      |           |                   |
 |   338 |  60-026 | LX    |    26 |   1412 | Dansk     |            | DGC   | DGC   | SDV   | SDV   | SDV   |      |           |                   |
 |   339 |  60-027 | LX    |    27 |   1412 | Dansk     |            | DGC   | DGC   | SDV   | SDV   | SDV   |      |           |                   |
 |   340 |  60-028 | LX    |    28 |   1412 | Dansk     |            | BS    | BS    | SDV   | SDV   | SDV   |      |           |                   |
-|   341 |  60-029 | LX    |    29 |   1413 | Latin     | 130319     | SEW   | SEW   |       |       |       |      |           | Multispec         |
+|   341 |  60-029 | LX    |    29 |   1413 | Latin     |     130319 | SEW   | SEW   |       |       |       |      |           | Multispec         |
 |   342 |  60-030 | LX    |    30 |   1413 | Latin     |            | SEW   | SEW   | SDV   | SEW   |       |      |           |                   |
-|   343 |  60-031 | LX    |    31 |        | Latin     | 130319     | SEW   | SEW   |       |       |       |      |           |                   |
+|   343 |  60-031 | LX    |    31 |        | Latin     |     130319 | SEW   | SEW   |       |       |       |      |           |                   |
 |   344 |  60-032 | LX    |    32 |   1413 | Latin     |            | SEW   | SEW   | SDV   | SEW   |       |      |           |                   |
 |   345 |  60-033 | LX    |    33 |   1413 | Latin     |            | SEW   | SEW   | SDV   | SEW   |       |      |           |                   |
-|   346 |  60-034 | LX    |    34 |   1414 | Latin     | 130319     | SEW   | SEW   |       |       |       |      |           |                   |
+|   346 |  60-034 | LX    |    34 |   1414 | Latin     |     130319 | SEW   | SEW   |       |       |       |      |           |                   |
 |   347 |  60-035 | LX    |    35 |   1415 | Latin     |            | SEW   | SEW   | SDV   | SEW   |       |      |           |                   |
 |   348 |  60-036 | LX    |    36 |   1415 | Latin     |            | SEW   | SEW   | SDV   | SEW   |       |      |           |                   |
 |   349 |  60-037 | LX    |    37 |   1415 | Latin     |            | SEW   | SEW   | SDV   | SEW   |       |      |           |                   |
 |   350 |  60-038 | LX    |    38 |   1415 | Latin     |            | SEW   | SEW   | SDV   | SEW   |       |      |           |                   |
 |   351 |  61-001 | LXI   |     1 |   1417 | Latin     |            | SEW   | SEW   | SDV   | SEW   |       |      |           |                   |
-|   352 |  61-002 | LXI   |     2 |        | Latin     | 130319     | SEW   | SEW   |       |       |       |      |           | Multispec         |
-|   353 |  61-003 | LXI   |     3 |   1419 | Latin     | 130319     | SEW   | SEW   |       |       |       |      |           | Multispec         |
-|   354 |  61-004 | LXI   |     4 |        | Latin     | 130319     | SEW   | SEW   |       |       |       |      |           | Multispec         |
+|   352 |  61-002 | LXI   |     2 |        | Latin     |     130319 | SEW   | SEW   |       |       |       |      |           | Multispec         |
+|   353 |  61-003 | LXI   |     3 |   1419 | Latin     |     130319 | SEW   | SEW   |       |       |       |      |           | Multispec         |
+|   354 |  61-004 | LXI   |     4 |        | Latin     |     130319 | SEW   | SEW   |       |       |       |      |           | Multispec         |
 |   355 |  61-005 | LXI   |     5 |        | Latin     |            | SEW   | SEW   | SDV   | SEW   |       |      |           |                   |
 |   356 |  61-006 | LXI   |     6 |   1421 | Dansk     |            | DGC   | DGC   | SDV   | SDV   | SDV   | DGC  |           |                   |
 |   358 |  61-008 | LXI   |     8 |   1423 | Latin     |            | SEW   | SEW   | SDV   | SEW   |       |      |           |                   |
@@ -348,13 +348,13 @@
 |   361 |  61-011 | LXI   |    11 |   1432 | Dansk     |            | BS    | BS    | SDV   | SDV   | SDV   |      |           |                   |
 |   362 |  61-012 | LXI   |    12 |   1433 | Dansk     |            | SDV   | SDV   | SDV   | SDV   |       |      |           |                   |
 |   363 |  61-013 | LXI   |    13 |   1433 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
-|   364 |  61-014 | LXI   |    14 |   1433 | Latin     | 130319     | SEW   | SEW   |       |       |       |      |           |                   |
+|   364 |  61-014 | LXI   |    14 |   1433 | Latin     |     130319 | SEW   | SEW   |       |       |       |      |           |                   |
 |   365 |  61-015 | LXI   |    15 |   1434 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   366 |  61-016 | LXI   |    16 |   1436 | Dansk     |            | SDV   | SDV   | SDV   | SDV   |       |      |           |                   |
 |   367 |  61-017 | LXI   |    17 |   1437 | Latin     |            | SEW   | SEW   | SDV   | SEW   |       |      |           |                   |
 |   368 |  61-018 | LXI   |    18 |   1439 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   369 |  61-019 | LXI   |    19 |   1439 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
-|   370 |  61-020 | LXI   |    20 |   1439 | Latin     | 130319     | SEW   | SEW   |       |       |       |      |           |                   |
+|   370 |  61-020 | LXI   |    20 |   1439 | Latin     |     130319 | SEW   | SEW   |       |       |       |      |           |                   |
 |   371 |  61-021 | LXI   |    21 |   1439 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   372 |  61-022 | LXI   |    22 |   1441 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   373 |  61-023 | LXI   |    23 |   1442 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
@@ -367,15 +367,15 @@
 |   380 |  61-030 | LXI   |    30 |   1449 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   381 |  61-031 | LXI   |    31 |   1449 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   382 |  61-032 | LXI   |    32 |   1450 | Latin     |            | SEW   | SEW   | TRK   | SEW   |       |      |           |                   |
-|   383 |  61-033 | LXI   |    33 |        | Latin     | 130319     | SEW   | SEW   |       |       |       |      |           |                   |
+|   383 |  61-033 | LXI   |    33 |        | Latin     |     130319 | SEW   | SEW   |       |       |       |      |           |                   |
 |   384 |  62-001 | LXII  |     1 |        | Dansk     | txt/convert | DGC   | DGC   | SDV   |       |       |      |           | Multispec         |
 |   385 |  62-002 | LXII  |     2 |   1454 | Svensk    | txt/convert | SDV   | SDV   | DGC   |       |       |      |           |                   |
-|   386 |  62-003 | LXII  |     3 |   1455 | Latin     | 130319     | SEW   | SEW   |       |       |       |      |           |                   |
+|   386 |  62-003 | LXII  |     3 |   1455 | Latin     |     130319 | SEW   | SEW   |       |       |       |      |           |                   |
 |   387 |  62-004 | LXII  |     4 |   1456 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   388 |  62-005 | LXII  |     5 |   1457 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   389 |  62-006 | LXII  |     6 |   1466 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   390 |  62-007 | LXII  |     7 |   1460 | Dansk     |            | SDV   | SDV   | DGC   | SDV   |       |      |           |                   |
-|   391 |  62-008 | LXII  |     8 |   1461 | Latin     | ?          | SEW   | SEW   | SDV   |       |       |      |           |                   |
+|   391 |  62-008 | LXII  |     8 |   1461 | Latin     |     130319 | SEW   | SEW   | SDV   |       |       |      |           |                   |
 |   392 |  62-009 | LXII  |     9 |   1462 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   393 |  62-010 | LXII  |    10 |   1462 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   394 |  62-011 | LXII  |    11 |   1463 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           | Tears and stains  |
@@ -399,7 +399,7 @@
 |   412 |  63-011 | LXIII |    11 |   1481 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   413 |  63-012 | LXIII |    12 |   1482 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   414 |  63-013 | LXIII |    13 |   1482 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
-|   415 |  63-014 | LXIII |    14 |        | Latin     | 130319     | SEW   | SEW   |       |       |       |      |           | Multispec         |
+|   415 |  63-014 | LXIII |    14 |        | Latin     |     130319 | SEW   | SEW   |       |       |       |      |           | Multispec         |
 |   416 |  63-015 | LXIII |    15 |   1484 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   417 |  63-016 | LXIII |    16 |   1488 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   418 |  63-017 | LXIII |    17 |   1488 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
@@ -411,8 +411,8 @@
 |   424 |  63-023 | LXIII |    23 |   1492 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   425 |  63-024 | LXIII |    24 |   1492 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   426 |  63-025 | LXIII |    25 |   1494 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
-|   427 |  63-026 | LXIII |    26 |   1497 | Latin     | ?          | SEW   | SEW   | SDV   |       |       |      |           |                   |
-|   428 |  63-027 | LXIII |    27 |   1497 | Latin     | ?          | SEW   | SEW   |       |       |       |      |           |                   |
+|   427 |  63-026 | LXIII |    26 |   1497 | Latin     |     130319 | SEW   | SEW   | SDV   |       |       |      |           |                   |
+|   428 |  63-027 | LXIII |    27 |   1497 | Latin     |     130319 | SEW   | SEW   |       |       |       |      |           |                   |
 |   429 |  63-028 | LXIII |    28 |   1499 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   430 |  63-029 | LXIII |    29 |   1500 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   431 |  64-001 | LXIV  |     1 |   1502 | Latin     |            | SEW   | SEW   | SDV   | SEW   |       |      |           |                   |
@@ -434,7 +434,7 @@
 |   447 |  64-017 | LXIV  |    17 |   1528 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   448 |  64-018 | LXIV  |    18 |   1528 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   449 |  64-019 | LXIV  |    19 |   1530 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
-|   450 |  64-020 | LXIV  |    20 |   1531 | Latin     | ?          | SEW   | SEW   | SDV   |       |       |      |           |                   |
+|   450 |  64-020 | LXIV  |    20 |   1531 | Latin     |     130319 | SEW   | SEW   | SDV   |       |       |      |           |                   |
 |   451 |  64-021 | LXIV  |    21 |   1534 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   452 |  64-022 | LXIV  |    22 |   1534 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   453 |  64-023 | LXIV  |    23 |   1537 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
@@ -451,27 +451,27 @@
 |   464 |  64-034 | LXIV  |    34 |   1561 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   465 |  64-035 | LXIV  |    35 |   1578 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   466 |  64-036 | LXIV  |    36 |   1578 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
-|   467 |  64-037 | LXIV  |    37 |   1582 | Dansk     | X          | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
+|   467 |  64-037 | LXIV  |    37 |   1582 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   468 |  64-038 | LXIV  |    38 |   1585 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   469 |  64-039 | LXIV  |    39 |   1590 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
 |   470 |  64-040 | LXIV  |    40 |   1590 | Dansk     |            | DGC   | DGC   | SDV   | SDV   |       |      |           |                   |
-|   471 |  65-001 | LXV   |     1 | 1256.5 | Latin     | ?          | SEW   | SEW   | SDV   |       |       |      |           |                   |
-|   472 |  65-002 | LXV   |     2 | 1311.5 | Latin     | 130319     | TRK   | TRK   | SEW   |       |       |      |           |                   |
-|   473 | 65-003a | LXV   |     3 | 1313.5 | Latin     | 130319     | TRK   | TRK   | SEW   |       |       |      |           |                   |
-|   474 | 65-003b | LXV   |     3 |        | Latin     | 130319     | TRK   | TRK   | SEW   |       |       |      |           |                   |
-|   475 | 65-003c | LXV   |     3 |        | Latin     | 130319     | TRK   | TRK   | SEW   |       |       |      |           |                   |
-|   476 | 65-003d | LXV   |     3 |        | Latin     | 130319     | TRK   | TRK   | SEW   |       |       |      |           |                   |
-|   477 |  65-004 | LXV   |     4 | 1296.5 | Latin     | 130319     | TRK   | TRK   | SEW   |       |       |      |           |                   |
-|   479 |  65-006 | LXV   |     6 | 1267.5 | Latin     | 130319     | TRK   | TRK   | SEW   |       |       |      |           |                   |
-|   480 |  65-007 | LXV   |     7 | 1266.5 | Latin     | 130319     | TRK   | TRK   | SEW   |       |       |      |           |                   |
-|   481 | 65-008a | LXV   |     8 | 1299.5 | Latin     | 130319     | TRK   | TRK   | SEW   |       |       |      |           |                   |
-|   482 | 65-008b | LXV   |     8 | 1267.5 | Latin     | 130319     | TRK   | TRK   | SEW   |       |       |      |           |                   |
-|   483 |  65-009 | LXV   |     9 | 1277.5 | Latin     | 130319     | TRK   | TRK   | SEW   |       |       |      |           |                   |
-|   484 |  65-010 | LXV   |    10 | 1298.5 | Latin     | 130319     | TRK   | TRK   | SEW   |       |       |      |           |                   |
-|   485 |  65-011 | LXV   |    11 | 1291.5 | Latin     | 130319     | TRK   | TRK   | SEW   |       |       |      |           |                   |
-|   486 |  65-012 | LXV   |    12 |        | Latin     | ?          | TRK   | TRK   | SEW   |       |       |      |           |                   |
-|   487 |  65-013 | LXV   |    13 |        | Latin     | 130319     | TRK   | TRK   | SEW   |       |       |      |           |                   |
-|   488 |  65-014 | LXV   |    14 |        | Dansk     | ?          | SDV   |       |       |       |       |      |           | Multispec         |
+|   471 |  65-001 | LXV   |     1 | 1256.5 | Latin     |     130319 | SEW   | SEW   | SDV   |       |       |      |           |                   |
+|   472 |  65-002 | LXV   |     2 | 1311.5 | Latin     |     130319 | TRK   | TRK   | SEW   |       |       |      |           |                   |
+|   473 | 65-003a | LXV   |     3 | 1313.5 | Latin     |     130319 | TRK   | TRK   | SEW   |       |       |      |           |                   |
+|   474 | 65-003b | LXV   |     3 |        | Latin     |     130319 | TRK   | TRK   | SEW   |       |       |      |           |                   |
+|   475 | 65-003c | LXV   |     3 |        | Latin     |     130319 | TRK   | TRK   | SEW   |       |       |      |           |                   |
+|   476 | 65-003d | LXV   |     3 |        | Latin     |     130319 | TRK   | TRK   | SEW   |       |       |      |           |                   |
+|   477 |  65-004 | LXV   |     4 | 1296.5 | Latin     |     130319 | TRK   | TRK   | SEW   |       |       |      |           |                   |
+|   479 |  65-006 | LXV   |     6 | 1267.5 | Latin     |     130319 | TRK   | TRK   | SEW   |       |       |      |           |                   |
+|   480 |  65-007 | LXV   |     7 | 1266.5 | Latin     |     130319 | TRK   | TRK   | SEW   |       |       |      |           |                   |
+|   481 | 65-008a | LXV   |     8 | 1299.5 | Latin     |     130319 | TRK   | TRK   | SEW   |       |       |      |           |                   |
+|   482 | 65-008b | LXV   |     8 | 1267.5 | Latin     |     130319 | TRK   | TRK   | SEW   |       |       |      |           |                   |
+|   483 |  65-009 | LXV   |     9 | 1277.5 | Latin     |     130319 | TRK   | TRK   | SEW   |       |       |      |           |                   |
+|   484 |  65-010 | LXV   |    10 | 1298.5 | Latin     |     130319 | TRK   | TRK   | SEW   |       |       |      |           |                   |
+|   485 |  65-011 | LXV   |    11 | 1291.5 | Latin     |     130319 | TRK   | TRK   | SEW   |       |       |      |           |                   |
+|   486 |  65-012 | LXV   |    12 |        | Latin     |     130319 | TRK   | TRK   | SEW   |       |       |      |           |                   |
+|   487 |  65-013 | LXV   |    13 |        | Latin     |     130319 | TRK   | TRK   | SEW   |       |       |      |           |                   |
+|   488 |  65-014 | LXV   |    14 |        | Dansk     |          ? | SDV   |       |       |       |       |      |           | Multispec         |
 |   489 |  65-015 | LXV   |    15 | 1510.5 | Dansk     | txt/convert | DGC   | DGC   | SDV   |       |       |      |           |                   |
 
 * Kode
