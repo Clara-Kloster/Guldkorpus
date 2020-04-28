@@ -29,11 +29,12 @@ for filename in os.listdir(input_directory):
             if row[None][0].strip() == "w":
                 lemma = row[None][2].strip()
                 dipl = row[None][6].strip()
+                dipl_stripped = re.sub(r'[^a-zæøA-ZÆØ]','',dipl).lower()
                 if lemma not in lemmata:
                     lemmata.append(lemma)
                     tokens[lemma] = [ ]
                     msa[lemma] = row[None][3].strip()
-                tokens[lemma].append(dipl)
+                tokens[lemma].append(dipl_stripped)
 
 nouns = ['xNC', 'xNP'] 
 numerals = ['xNO', 'xNA'] 
@@ -157,12 +158,12 @@ trace_adv = plotly.graph_objs.Scatter(
 
 
 traces = [trace_verb, trace_nom, trace_pron, trace_adj, trace_num, trace_adv]
-shapes = [{'type':'line', 'x0' : 0, 'y0' : 0, 'x1' : 90, 'y1' : 90, 'line' : {'color' : 'grey', 'width' : 2}}]
+shapes = [{'type':'line', 'x0' : 0, 'y0' : 0, 'x1' : 90, 'y1' : 90, 'line' : {'color' : 'grey', 'width' : 1}}, {'type':'line', 'x0' : 1, 'y0' : 1, 'x1' : 2000, 'y1' : 1, 'line' : {'color' : 'grey', 'width' : 1}}]
 layout = dict(title = "Orthographic Variation in the St. Clare Corpus", xaxis_title = "Total occurrences", yaxis_title = "Unique spellings", shapes = shapes)
 fig = plotly.graph_objs.Figure(data=traces,layout=layout)
 plotly.offline.plot(fig)
 
-    
-        
+
+print(Counter(tokens['ok']))
 
 
