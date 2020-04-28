@@ -8,16 +8,12 @@ import csv
 from collections import Counter
 import plotly
 
+# Find relative paths
 sys.path.append(os.path.realpath('../..'))
 input_directory = sys.path[-1] + '/transcriptions/org/lemmatisation/'
 output_directory = sys.path[-1] + '/code/output/'
 
 # Read input files
-# type = 0
-# lemma = 2
-# msa = 3
-# dipl = 6
-
 lemmata = [ ]
 tokens = { }
 msa = { }
@@ -52,12 +48,7 @@ for lemma in lemmata:
     if lemma.isalpha() == False:
         lemmata.remove(lemma)
 
-# Graph
-#xvals = [ ]
-#yvals = [ ]
-#names = [ ]
-#colors = [ ]
-
+# Populate traces
 xvals_verb = [ ]
 xvals_nom = [ ]
 xvals_pron = [ ]
@@ -79,24 +70,6 @@ names_adj = [ ]
 names_num = [ ]
 names_adv = [ ]
 
-#for lemma in lemmata:
-#    names.append(lemma)
-#    xvals.append(len(tokens[lemma]))
-#    yvals.append(len(Counter(tokens[lemma])))
-#    if msa[lemma] in verbs:
-#        colors.append("powderblue")
-#    elif msa[lemma] in nouns:
-#        colors.append("lightskyblue")
-#    elif msa[lemma] in pronomials:
-#        colors.append("deepskyblue")
-#    elif msa[lemma] in adjectives:
-#        colors.append("cornflowerblue")
-#    elif msa[lemma] in numerals:
-#        colors.append("royalblue")
-#    elif msa[lemma] in adverbials:
-#        colors.append("navy")
-#    else:
-#        colors.append("grey")
 
 for lemma in lemmata:
     if msa[lemma] in verbs:
@@ -189,17 +162,6 @@ layout = dict(title = "Orthographic Variation in the St. Clare Corpus", xaxis_ti
 fig = plotly.graph_objs.Figure(data=traces,layout=layout)
 plotly.offline.plot(fig)
 
-#variation = [ ]
-#total_words = 0
-#lemmata.sort()
-#for lemma in lemmata:
-#    variants = Counter(tokens[lemma])
-#    print(len(tokens[lemma]), lemma)
-#    print(len(variants))
-#    if len(tokens[lemma]) > 100:
-#        print(lemma, len(variants), len(tokens[lemma]))
-#        total_words += 1
-#print("Total: ", total_words)
     
         
 
