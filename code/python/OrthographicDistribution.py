@@ -33,7 +33,7 @@ for filename in os.listdir(input_directory):
                 if lemma not in lemmata:
                     lemmata.append(lemma)
                     tokens[lemma] = [ ]
-                    msa[lemma] = row[None][3].strip()
+                    msa[lemma] = row[None][3].strip() # This will need to be fixed once all MSA is corrected so homographs can be separated
                 tokens[lemma].append(dipl_stripped)
 
 nouns = ['xNC', 'xNP'] 

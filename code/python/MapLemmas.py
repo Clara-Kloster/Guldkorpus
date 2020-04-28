@@ -9,8 +9,7 @@ import xlrd
 import plotly
 
 # Check for normalization
-normalization = input("Normalize [y/n]? ")
-if normalization == "y":
+if sys.argv[1] == "-n":
     normalize = True
 else:
     normalize = False
@@ -55,7 +54,10 @@ yvals = [ ]
 colors = [ ]
 symbols = [ ]
 names = [ ]
-lemma = sys.argv[1]
+if normalize == True:
+    lemma = sys.argv[2]
+else:
+    lemma = sys.argv[1]
 dataDoc = xlrd.open_workbook('/Users/Sean/Documents/Velux/Datasheets/Dansk.xlsx')
 data = dataDoc.sheet_by_index(1)
 date = ''
