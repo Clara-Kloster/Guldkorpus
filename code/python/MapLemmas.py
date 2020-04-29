@@ -17,7 +17,7 @@ else:
 
 # Find relative path
 sys.path.append(os.path.realpath('../..'))
-directory = sys.path[-1] + '/transcriptions/org/lemmatisation/'
+directory = sys.path[-1] + '/transcriptions/org/lemmatisation/' # needs to be fixed to working later
 lemmata = []
 lemmaTable = { }
 attestTable = { }
