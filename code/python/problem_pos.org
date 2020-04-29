@@ -1,534 +1,535 @@
-* TODO  
+* Lemmata [19/261]
+** TODO  
 ['', 'xNP', 'xNA', 'lat', 'xVB', 'XX', 'xNC', 'rom', 'xNO', 'xAJ', 'xUA', 'xNxNPC', 'V', 'X', 'xAV', 'xCC', 'xx', 'xAP', 'væster', 'prop', 'xCP', 'NUM']
-* TODO  ævinnelik
+** ævinnelik
 ['xAJ', 'xAV', 'xPD']
-* TODO  bo
+** DONE bo
 ['xVB', 'xNP', 'xNC']
-* TODO  længe
+** længe
 ['xAV', 'xNC']
-* TODO  fiskevatn
+** DONE fiskevatn
 ['xNC', 'xAV']
-* TODO  etcetera
+** DONE etcetera
 ['xAV', 'lat']
-* TODO  uppe
+** TODO  uppe
 ['xAV', 'xVB', 'xAP']
-* TODO  lise
+** lise
 ['xNC', 'xVB']
-* TODO  thæn
+** TODO  thæn
 ['xAT', 'xPD', 'xAV', 'xDD', 'xDP', 'xAJ', 'lat', 'xNC', 'xCC']
-* TODO  faghn
+** DONE faghn
 ['xVB', 'xNC']
-* TODO  skilling
+** DONE skilling
 ['xNC', 'xNA']
-* TODO  tillate
+** DONE tillate
 ['xAP', 'xVB']
-* TODO  2
+** TODO  2
 ['xNA', 'lat']
-* TODO  brevvisere
+** DONE brevvisere
 ['xNC', 'xVB']
-* TODO  insighle
+** DONE insighle
 ['xNC', 'xPD']
-* TODO  føghe
+** føghe
 ['xAJ', 'xVB']
-* TODO  væster
+** TODO  væster
 ['xAJ', 'xAV']
-* TODO  landgilde
+** DONE landgilde
 ['xNC', 'xVB']
-* TODO  hvar
+** TODO  hvar
 ['xCS', 'xPD', 'xAV']
-* TODO  marie
+** DONE marie
 ['xNC', 'lat']
-* TODO  væsten
+** TODO  væsten
 ['xAJ', 'xAV', 'xNC', 'xAP']
-* TODO  hjalpe
+** hjalpe
 ['xNC', 'xVB']
-* TODO  høgh+lære
+** TODO  høgh+lære
 ['xVB', 'xAJ']
-* TODO  item
+** DONE item
 ['XX', 'lat', 'xAV']
-* TODO  uprætte
+** DONE uprætte
 ['xVB', 'xNC']
-* TODO  svin
+** DONE svin
 ['xNC', 'xPD']
-* TODO  vilje
+** TODO  vilje
 ['xVB', 'xNC']
-* TODO  nither
+** TODO  nither
 ['xAP', 'xAV']
-* TODO  hetherlik
+** TODO  hetherlik
 ['xAJ', 'xAV']
-* TODO  fast
+** TODO  fast
 ['xAJ', 'xAV']
-* TODO  have
+** have
 ['xVB', 'xNC']
-* TODO  æller
+** DONE æller
 ['xCC', 'xcc', 'xAV', 'xC']
-* TODO  legat
+** DONE legat
 ['xNC', 'xCS']
-* TODO  ytermere
+** DONE ytermere
 ['xAJ', 'xAV', 'xNC']
-* TODO  lægje
+** DONE lægje
 ['xNC', 'lat', 'xVB']
-* TODO  biskop
+** DONE biskop
 ['xNC', 'xNP', 'xAJ']
-* TODO  vælboren
+** DONE vælboren
 ['xAJ', 'xNC']
-* TODO  othensdagh
+** TODO  othensdagh
 ['xAJ', 'xNC']
-* TODO  san
+** TODO  san
 ['xNC', 'xAJ']
-* TODO  uten
+** TODO  uten
 ['xAV', 'xAP', 'xCS', 'xCC']
-* TODO  skøte
+** TODO  skøte
 ['xVB', 'xNC']
-* TODO  aldrigh
+** TODO  aldrigh
 ['xAV', 'xAJ']
-* TODO  gange
+** TODO  gange
 ['xVB', 'xAJ']
-* TODO  domkirkje
+** TODO  domkirkje
 ['xNC', 'xAJ']
-* TODO  fore
+** TODO  fore
 ['xAV', 'xNC', 'xAP']
-* TODO  dele
+** TODO  dele
 ['xVB', 'xNC']
-* TODO  garth
+** TODO  garth
 ['xNC', 'xAJ', 'xVB']
-* TODO  kapitel
+** TODO  kapitel
 ['xNC', 'xAJ']
-* TODO  bespyrje
+** TODO  bespyrje
 ['xNC', 'xVB']
-* TODO  frue
+** TODO  frue
 ['xNC', 'xAJ']
-* TODO  jorth
+** TODO  jorth
 ['xNC', 'xAJ', 'xVB']
-* TODO  han
+** TODO  han
 ['xPD', 'xNC', 'xDP']
-* TODO  arbejde
+** TODO  arbejde
 ['xVB', 'xNC']
-* TODO  ehvar
+** TODO  ehvar
 ['xAV', 'xPD']
-* TODO  tale
+** TODO  tale
 ['xVB', 'xNC']
-* TODO  møte
+** TODO  møte
 ['xVB', 'xNC']
-* TODO  sin
+** TODO  sin
 ['xDP', 'xPD', 'xNC']
-* TODO  bætre
+** TODO  bætre
 ['xAJ', 'xVB']
-* TODO  skjal
+** TODO  skjal
 ['xNC', 'xAJ']
-* TODO  fri
+** TODO  fri
 ['xVB', 'xAJ']
-* TODO  sanhet
+** TODO  sanhet
 ['xNC', 'xVB']
-* TODO  mæthen
+** TODO  mæthen
 ['xCC', 'xCS', 'xAV']
-* TODO  en
+** TODO  en
 ['xAT', 'xNA', 'xNO', 'xPD', 'xAV']
-* TODO  martyr
+** TODO  martyr
 ['lat', 'xNC']
-* TODO  berath
+** TODO  berath
 ['xAJ', 'xNC']
-* TODO  fyr
+** TODO  fyr
 ['xAV', 'xAP']
-* TODO  orsak
+** TODO  orsak
 ['xAJ', 'xNC']
-* TODO  bethe
+** TODO  bethe
 ['xNC', 'xVB']
-* TODO  uplate
+** TODO  uplate
 ['xVB', 'xCC']
-* TODO  bything
+** TODO  bything
 ['xNC', 'xAJ']
-* TODO  samfald
+** TODO  samfald
 ['xNC', 'xAJ']
-* TODO  under
+** TODO  under
 ['xAP', 'xNC', 'lat']
-* TODO  tro
+** TODO  tro
 ['xNC', 'xAJ', 'xVB']
-* TODO  næst
+** TODO  næst
 ['xAJ', 'xAV', 'xAC', 'xAP']
-* TODO  thjaneste
+** TODO  thjaneste
 ['xNC', 'xAV']
-* TODO  til
+** TODO  til
 ['xAP', 'xAV']
-* TODO  beplikte
+** TODO  beplikte
 ['xVB', 'xNC']
-* TODO  ræt
+** TODO  ræt
 ['xNC', 'xAJ']
-* TODO  sva
+** TODO  sva
 ['xAV', 'xVB', 'sAV']
-* TODO  tolv
+** TODO  tolv
 ['xNA', 'xNC']
-* TODO  vitherlik
+** TODO  vitherlik
 ['xAJ', 'xVB']
-* TODO  d
+** TODO  d
 ['xNO', 'lat']
-* TODO  tilbithje
+** TODO  tilbithje
 ['lat', 'xVB']
-* TODO  tilbinde
+** TODO  tilbinde
 ['xVB', 'xAJ']
-* TODO  ixº
+** TODO  ixº
 ['xNO', 'lat']
-* TODO  12
+** TODO  12
 ['xNA', 'lat']
-* TODO  hos
+** TODO  hos
 ['xAP', 'xAV']
-* TODO  avl
+** TODO  avl
 ['xNC', 'xAJ']
-* TODO  thær
+** TODO  thær
 ['xAV', 'xPD', 'xRP']
-* TODO  vare
+** TODO  vare
 ['xNC', 'xVB']
-* TODO  mæstere
+** TODO  mæstere
 ['xNC', 'xnc']
-* TODO  hværken
+** TODO  hværken
 ['xAV', 'xPD']
-* TODO  visse
+** TODO  visse
 ['xVB', 'xNC']
-* TODO  goth
+** TODO  goth
 ['xAJ', 'xNC']
-* TODO  svadan
+** TODO  svadan
 ['xAJ', 'xAV', 'xNC']
-* TODO  tilkome
+** TODO  tilkome
 ['xVB', 'xNP', 'xAP']
-* TODO  bygje
+** TODO  bygje
 ['xVB', 'xAJ']
-* TODO  thing
+** TODO  thing
 ['xNC', 'xNC sD']
-* TODO  torgh+gate
+** TODO  torgh+gate
 ['xAJ', 'xNC']
-* TODO  sæghjelse
+** TODO  sæghjelse
 ['xNC', 'xPD']
-* TODO  uti
+** TODO  uti
 ['xAP', 'xAV', 'xAT', 'xNC', 'xAJ', 'xPD']
-* TODO  æfterkomere
+** TODO  æfterkomere
 ['xNC', 'xAJ', 'xNP']
-* TODO  hemle
+** TODO  hemle
 ['xVB', 'xNC']
-* TODO  næthen
+** TODO  næthen
 ['xAV', 'xAP']
-* TODO  gensæghjelse
+** TODO  gensæghjelse
 ['xNC', 'xPD', 'xAJ']
-* TODO  arving
+** TODO  arving
 ['xNC', 'xVB', 'xAJ']
-* TODO  min
+** TODO  min
 ['xDP', 'xPD']
-* TODO  dandeman
+** TODO  dandeman
 ['xNC', 'xAJ']
-* TODO  forsømelse
+** TODO  forsømelse
 ['xNC', 'xPD']
-* TODO  væl
+** TODO  væl
 ['xAJ', 'xAV']
-* TODO  eghe
+** TODO  eghe
 ['xNC', 'xVB']
-* TODO  sunnen
+** TODO  sunnen
 ['xAJ', 'xAV']
-* TODO  fulbyrth
+** TODO  fulbyrth
 ['xNC', 'xAJ']
-* TODO  ske
+** TODO  ske
 ['xVB', 'xNC']
-* TODO  leghe
+** TODO  leghe
 ['xNC', 'xVB']
-* TODO  unne
+** TODO  unne
 ['xVB', 'xAJ']
-* TODO  fare
+** TODO  fare
 ['xVB', 'xNC']
-* TODO  bjug
+** TODO  bjug
 ['xNC', 'xVB']
-* TODO  petri
+** TODO  petri
 ['xNC', 'lat']
-* TODO  up
+** TODO  up
 ['xAP', 'xAV']
-* TODO  i+mot
+** TODO  i+mot
 ['xAP', 'xAV', 'xVB']
-* TODO  in
+** TODO  in
 ['lat', 'xAV']
-* TODO  grot
+** TODO  grot
 ['xNC', 'xCS']
-* TODO  nær
+** TODO  nær
 ['xAJ', 'xAP']
-* TODO  kænne
+** TODO  kænne
 ['xVB', 'xNC']
-* TODO  føthe
+** TODO  føthe
 ['xVB', 'xNC']
-* TODO  nathe
+** TODO  nathe
 ['xNC', 'xVB']
-* TODO  misse
+** TODO  misse
 ['xNC', 'xVB']
-* TODO  af
+** TODO  af
 ['xAP', 'xAV']
-* TODO  skikke
+** TODO  skikke
 ['xVB', 'lat']
-* TODO  forbjuthe
+** TODO  forbjuthe
 ['xVB', 'xNC']
-* TODO  eneste
+** TODO  eneste
 ['xAV', 'xAJ']
-* TODO  ænge
+** TODO  ænge
 ['xAV', 'xPD', 'xPI']
-* TODO  rætlik
+** TODO  rætlik
 ['xAJ', 'xAV']
-* TODO  platse
+** TODO  platse
 ['xNC', 'xVB']
-* TODO  rætte
+** TODO  rætte
 ['xVB', 'xAJ']
-* TODO  nærværende
+** TODO  nærværende
 ['xAJ', 'xVB']
-* TODO  mæth
+** TODO  mæth
 ['xAP', 'lat', 'xAV']
-* TODO  thæs
+** TODO  thæs
 ['xPD', 'xAV']
-* TODO  halde
+** TODO  halde
 ['xVB', 'xNC']
-* TODO  al
+** TODO  al
 ['xAJ', 'xNC', 'xAP']
-* TODO  forthum
+** TODO  forthum
 ['xAJ', 'xAV']
-* TODO  thæslike
+** TODO  thæslike
 ['xAJ', 'xAV']
-* TODO  tiltal
+** TODO  tiltal
 ['xNC', 'xAJ']
-* TODO  mot
+** TODO  mot
 ['xAP', 'xAV']
-* TODO  tha
+** TODO  tha
 ['xAV', 'xCS']
-* TODO  i
+** TODO  i
 ['xAP', 'xAV', 'xaP', 'xPD', 'xNC', 'xNA', 'xAT']
-* TODO  vægh
+** TODO  vægh
 ['xNC', 'xAV', 'xVB']
-* TODO  proxima
+** TODO  proxima
 ['xAJ', 'lat']
-* TODO  undentaken
+** TODO  undentaken
 ['xAJ', 'xAV']
-* TODO  tilhøre
+** TODO  tilhøre
 ['xVB', 'xNC']
-* TODO  ok
+** TODO  ok
 ['xCC', 'xAV', 'xVB', 'xNC', 'xcc', 'xC', 'xAP']
-* TODO  minde
+** TODO  minde
 ['xVB', 'xNC']
-* TODO  tiltake
+** TODO  tiltake
 ['xVB', 'xAJ']
-* TODO  vinlik
+** TODO  vinlik
 ['xAJ', 'xAV']
-* TODO  foruten
+** TODO  foruten
 ['xAP', 'xNC']
-* TODO  burghere
+** TODO  burghere
 ['xNC', 'xAJ']
-* TODO  beskethen
+** TODO  beskethen
 ['xAJ', 'xNC']
-* TODO  xl
+** TODO  xl
 ['lat', 'rom']
-* TODO  uptil
+** TODO  uptil
 ['xAP', 'xAV']
-* TODO  gærthe
+** TODO  gærthe
 ['xVB', 'xNC']
-* TODO  tjughe
+** TODO  tjughe
 ['xNA', '', 'xNC']
-* TODO  anner
+** TODO  anner
 ['xPD', 'xNO']
-* TODO  hun
+** TODO  hun
 ['xPD', 'xNP', 'xNC', 'xDP']
-* TODO  gave
+** TODO  gave
 ['xVB', 'xNC']
-* TODO  thi
+** TODO  thi
 ['xAV', 'xCS', 'xPD']
-* TODO  thænne
+** TODO  thænne
 ['xDD', 'xPD', 'xAT', 'xAV', 'xCC']
-* TODO  særdeles
+** TODO  særdeles
 ['xAV', 'xAJ']
-* TODO  tve
+** TODO  tve
 ['xPD', 'xNA', 'xMA', 'xVB', 'xAV']
-* TODO  ut
+** TODO  ut
 ['xAV', 'lat', 'xAP']
-* TODO  kirkje
+** TODO  kirkje
 ['xNC', 'xAJ']
-* TODO  døth
+** TODO  døth
 ['xNC', 'xAJ']
-* TODO  ærlik
+** TODO  ærlik
 ['xAJ', 'xNC', 'xVB']
-* TODO  forskreven
+** TODO  forskreven
 ['xAJ', 'xCS']
-* TODO  strængelik
+** TODO  strængelik
 ['xAJ', 'xAV']
-* TODO  upovena
+** TODO  upovena
 ['xAP', 'xAV']
-* TODO  fjarthe
+** TODO  fjarthe
 ['xNO', 'xNA']
-* TODO  samthykje
+** TODO  samthykje
 ['xNC', 'xVB']
-* TODO  forfather
+** TODO  forfather
 ['xNC', 'xVB']
-* TODO  være
+** TODO  være
 ['xVB', 'xVN', 'lat', 'xDP', 'xNC']
-* TODO  stathigh
+** TODO  stathigh
 ['xAJ', 'xAV']
-* TODO  sundagh
+** TODO  sundagh
 ['xAJ', 'xNC']
-* TODO  ørtogh
+** TODO  ørtogh
 ['xNC', 'xAJ']
-* TODO  østen
+** TODO  østen
 ['xAJ', 'xAV']
-* TODO  nativitatis
+** TODO  nativitatis
 ['xAJ', 'lat']
-* TODO  ingive
+** TODO  ingive
 ['xNC', 'xAJ']
-* TODO  northen
+** TODO  northen
 ['xAJ', 'xNC', 'xAP']
-* TODO  et
+** TODO  et
 ['lat', 'xAT', 'xNA']
-* TODO  sokn
+** TODO  sokn
 ['xNC', 'xNP']
-* TODO  annettvægje
+** TODO  annettvægje
 ['xCC', 'xAV']
-* TODO  øster
+** TODO  øster
 ['xAV', 'xAJ']
-* TODO  læghelikhet
+** TODO  læghelikhet
 ['xVB', 'xNC']
-* TODO  unden
+** TODO  unden
 ['xAP', 'xAV']
-* TODO  daghlik
+** TODO  daghlik
 ['xAJ', 'xVB']
-* TODO  thusend
+** TODO  thusend
 ['xNC', 'xNA', 'xNO']
-* TODO  bathe
+** TODO  bathe
 ['xPD', 'xAV']
-* TODO  sum
+** TODO  sum
 ['xRP', 'xPD', 'xAV', 'xSP', 'xrP', 'xpD', 'xNP', 'xCS']
-* TODO  sithvanlik
+** TODO  sithvanlik
 ['xAJ', 'xNC']
-* TODO  skule
+** TODO  skule
 ['xVB', 'xVC', 'xNC']
-* TODO  ækte
+** TODO  ækte
 ['xNC', 'xAJ']
-* TODO  samthykke
+** TODO  samthykke
 ['xNC', 'xAJ']
-* TODO  goths
+** TODO  goths
 ['xNC', 'xAJ']
-* TODO  minne
+** TODO  minne
 ['xNC', 'xVB']
-* TODO  vitne
+** TODO  vitne
 ['xVB', 'xNC']
-* TODO  hemel
+** TODO  hemel
 ['xNC', 'xAJ']
-* TODO  kloster
+** TODO  kloster
 ['xNC', 'xAJ']
-* TODO  umake
+** TODO  umake
 ['xAJ', 'xNC']
-* TODO  tiltale
+** TODO  tiltale
 ['xVB', 'xNC']
-* TODO  sæghje
+** TODO  sæghje
 ['xVB', 'xAJ']
-* TODO  ænde
+** TODO  ænde
 ['xVB', 'xNC']
-* TODO  sma
+** TODO  sma
 ['xNC', 'xAJ']
-* TODO  samestath
+** TODO  samestath
 ['xNC', 'xAV']
-* TODO  rættighhet
+** TODO  rættighhet
 ['xNC', 'xVB']
-* TODO  fyrst
+** TODO  fyrst
 ['xAJ', 'xAV', 'xNC']
-* TODO  like
+** TODO  like
 ['xNC', 'xAJ', 'xAV']
-* TODO  svasum
+** TODO  svasum
 ['xPD', 'xCS']
-* TODO  sitherst
+** TODO  sitherst
 ['xAV', 'xAJ']
-* TODO  foreskreven
+** TODO  foreskreven
 ['xAJ', 'xNC']
-* TODO  var
+** TODO  var
 ['xDP', 'xPD', 'xNC', 'xNP']
-* TODO  helagh
+** TODO  helagh
 ['xAJ', 'xNC']
-* TODO  paske
+** TODO  paske
 ['xNC', 'xAJ']
-* TODO  ærkedjakn
+** TODO  ærkedjakn
 ['xNC', 'xAJ']
-* TODO  live
+** TODO  live
 ['xVB', 'xNC']
-* TODO  for
+** TODO  for
 ['xAP', 'xAV']
-* TODO  fran
+** TODO  fran
 ['xAP', 'xAV']
-* TODO  rænte
+** TODO  rænte
 ['xNC', 'xVB', 'xAJ']
-* TODO  tith
+** TODO  tith
 ['xNC', 'xAJ']
-* TODO  nar
+** TODO  nar
 ['xCS', 'xAV']
-* TODO  skifte
+** TODO  skifte
 ['xVB', 'xNC']
-* TODO  konvent
+** TODO  konvent
 ['xNC', 'xNP', 'xCC']
-* TODO  upa
+** TODO  upa
 ['xAP', 'xAV', 'xAJ']
-* TODO  gen
+** TODO  gen
 ['xAV', 'xAP']
-* TODO  perpetuus
+** TODO  perpetuus
 ['xNC', 'lat']
-* TODO  stathfæste
+** TODO  stathfæste
 ['xNC', 'xVB']
-* TODO  æn
+** TODO  æn
 ['xAV', 'xCC']
-* TODO  æfter
+** TODO  æfter
 ['xAP', 'xAV']
-* TODO  anname
+** TODO  anname
 ['xVB', 'xAJ']
-* TODO  yver
+** TODO  yver
 ['xAV', 'xAP']
-* TODO  thæt
+** TODO  thæt
 ['xPD', 'xAT', 'xCS', 'xDD']
-* TODO  vitnesbyrth
+** TODO  vitnesbyrth
 ['xNC', 'xN', 'xAJ', 'xVB']
-* TODO  logh
+** TODO  logh
 ['xNC', 'xVB']
-* TODO  beate
+** TODO  beate
 ['xAJ', 'lat']
-* TODO  vith
+** TODO  vith
 ['xNC', 'xAJ']
-* TODO  um
+** TODO  um
 ['xAP', 'xAV', 'xCS']
-* TODO  kærlikhet
+** TODO  kærlikhet
 ['xVB', 'xNC']
-* TODO  fylghje
+** TODO  fylghje
 ['xVB', 'xNC']
-* TODO  gøme
+** TODO  gøme
 ['xNC', 'xVB']
-* TODO  æfterskrive
+** TODO  æfterskrive
 ['xVB', 'xAJ']
-* TODO  almughe
+** TODO  almughe
 ['xNC', 'xAJ']
-* TODO  asyn
+** TODO  asyn
 ['xNC', 'xAJ']
-* TODO  a
+** TODO  a
 ['lat', 'xAP']
-* TODO  rethelik
+** TODO  rethelik
 ['xAJ', 'xAV']
-* TODO  kære
+** TODO  kære
 ['xVB', 'xNC']
-* TODO  sik
+** TODO  sik
 ['xPD', 'xNP']
-* TODO  varthneth
+** TODO  varthneth
 ['xNC', 'xVB']
-* TODO  atthra
+** TODO  atthra
 ['xNC', 'xVB']
-* TODO  værth
+** TODO  værth
 ['xNC', 'xnc']
-* TODO  sjalv
+** TODO  sjalv
 ['xPD', 'xVB', 'xAV']
-* TODO  sjal
+** TODO  sjal
 ['xNC', 'xVB']
-* TODO  man
+** TODO  man
 ['xNC', 'xPD', 'xCC']
-* TODO  innen
+** TODO  innen
 ['xAP', 'xAV']
-* TODO  fjure
+** TODO  fjure
 ['xNA', 'xAJ']
-* TODO  at
+** TODO  at
 ['xCS', 'xIM', 'xAP', 'xAV', 'xCC¦xCS', 'xSC', 'lat', 'xCC', 'xAT']
-* TODO  skogh
+** TODO  skogh
 ['xNC', 'xVB']
-* TODO  framdeles
+** TODO  framdeles
 ['xAV', 'xAJ']
-* TODO  sankte
+** TODO  sankte
 ['xAJ', 'lat', 'xNC']
-* TODO  ække
+** TODO  ække
 ['xAV', 'xPD', 'xVB']
