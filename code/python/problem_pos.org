@@ -1,4 +1,4 @@
-* Lemmata [61/258]
+* Lemmata [75/254]
 ** TODO  
 ['', 'xNP', 'xNA', 'lat', 'xVB', 'XX', 'xNC', 'rom', 'xNO', 'xAJ', 'xUA', 'xNxNPC', 'V', 'X', 'xAV', 'xCC', 'xx', 'xAP', 'væster', 'prop', 'xCP', 'NUM']
 ** ævinnelik
@@ -235,31 +235,31 @@
 ['xVB', 'xNC']
 ** DONE bjug
 ['xNC', 'xVB']
-** TODO  petri
+** DONE petri
 ['xNC', 'lat']
 ** TODO  up
 ['xAP', 'xAV']
 ** TODO  i+mot
 ['xAP', 'xAV', 'xVB']
-** TODO  in
+** DONE in
 ['lat', 'xAV']
-** TODO  grot
+** DONE grot
 ['xNC', 'xCS']
 ** TODO  nær
 ['xAJ', 'xAP']
-** TODO  kænne
+** kænne
 ['xVB', 'xNC']
-** TODO  føthe
+** føthe
 ['xVB', 'xNC']
-** TODO  nathe
+** nathe
 ['xNC', 'xVB']
-** TODO  misse
+** misse
 ['xNC', 'xVB']
 ** TODO  af
 ['xAP', 'xAV']
-** TODO  skikke
+** DONE skikke
 ['xVB', 'lat']
-** TODO  forbjuthe
+** DONE forbjuthe
 ['xVB', 'xNC']
 ** TODO  eneste
 ['xAV', 'xAJ']
@@ -269,15 +269,15 @@
 ['xAJ', 'xAV']
 ** TODO  platse
 ['xNC', 'xVB']
-** TODO  rætte
+** DONE rætte
 ['xVB', 'xAJ']
-** TODO  nærværende
+** DONE nærværende
 ['xAJ', 'xVB']
 ** TODO  mæth
 ['xAP', 'lat', 'xAV']
 ** TODO  thæs
 ['xPD', 'xAV']
-** TODO  halde
+** DONE halde
 ['xVB', 'xNC']
 ** TODO  al
 ['xAJ', 'xNC', 'xAP']
@@ -285,19 +285,19 @@
 ['xAJ', 'xAV']
 ** TODO  thæslike
 ['xAJ', 'xAV']
-** TODO  tiltal
+** DONE tiltal
 ['xNC', 'xAJ']
 ** TODO  mot
 ['xAP', 'xAV']
 ** TODO  tha
 ['xAV', 'xCS']
 ** TODO  i
-['xAP', 'xAV', 'xaP', 'xPD', 'xNC', 'xNA', 'xAT']
-** TODO  vægh
+   ['xAP', 'xAV', 'xaP', 'xPD', 'xNC', 'xNA', 'xAT']
+** DONE vægh
 ['xNC', 'xAV', 'xVB']
-** TODO  proxima
+** DONE proxima
 ['xAJ', 'lat']
-** TODO  undentaken
+** DONE undentaken
 ['xAJ', 'xAV']
 ** TODO  tilhøre
 ['xVB', 'xNC']
@@ -305,13 +305,13 @@
 ['xCC', 'xAV', 'xVB', 'xNC', 'xcc', 'xC', 'xAP']
 ** TODO  minde
 ['xVB', 'xNC']
-** TODO  tiltake
+** DONE tiltake
 ['xVB', 'xAJ']
 ** TODO  vinlik
 ['xAJ', 'xAV']
 ** TODO  foruten
 ['xAP', 'xNC']
-** TODO  burghere
+** DONE burghere
 ['xNC', 'xAJ']
 ** TODO  beskethen
 ['xAJ', 'xNC']
