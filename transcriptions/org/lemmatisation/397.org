@@ -79,7 +79,7 @@
 | PE  | e      |              |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |
 | w   |        | vilje        | xNC | vilje          |   | williæ            | wıllıæ         |   |   |   |        | dan     |   |   |    |         397-03 |
 | w   |        | ok           | xCC | og             |   | oc                | oc             |   |   |   |        | dan     |   |   |    |         397-03 |
-| w   |        | samthykke    | xAJ | samtykke       |   | samtykkæ          | ſamtykkæ       |   |   |   |        | dan     |   |   |    |         397-03 |
+| w   |        | samthykke    | xNC | samtykke       |   | samtykkæ          | ſamtykkæ       |   |   |   |        | dan     |   |   |    |         397-03 |
 | w   |        | at           | xIM | at             |   | at                | at             |   |   |   |        | dan     |   |   |    |         397-03 |
 | w   |        | have         | xVB | have           |   | haffwe            | haffwe         |   |   |   |        | dan     |   |   |    |         397-03 |
 | w   |        | sælje        | xVB | solgt          |   | solt              | ſolt           |   |   |   |        | dan     |   |   |    |         397-03 |
@@ -97,8 +97,8 @@
 | w   |        |              | xNP | Anders         |   | anders            | andeꝛ         |   |   |   |        | dan     |   |   |    |         397-04 |
 | w   |        |              | xNP | Olufsen        |   | oleffs(øn)        | oleff         |   |   |   |        | dan     |   |   |    |         397-04 |
 | PE  | e      |              |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |
-| w   |        | perpetuus    | lat |                |   | p(er)pet(uus)     | ̲etꝭ           |   |   |   |        | lat/dan |   |   |    |         397-04 |
-| w   |        | vicarius     | lat |                |   | vicar(ius)        | vıcarꝭ         |   |   |   |        | lat/dan |   |   |    |         397-04 |
+| w   |        | perpetuus    | xNC |                |   | p(er)pet(uus)     | ̲etꝭ           |   |   |   |        | lat/dan |   |   |    |         397-04 |
+| w   |        | vicarius     | xNC |                |   | vicar(ius)        | vıcarꝭ         |   |   |   |        | lat/dan |   |   |    |         397-04 |
 | w   |        | i            | xAP | i              |   | i                 | ı              |   |   |   |        | dan     |   |   |    |         397-04 |
 | w   |        |              | xNP | Roskilde       |   | Rosk(ilde)        | Roſkꝭ          |   |   |   |        | dan     |   |   |    |         397-04 |
 | w   |        | domkirkje    | xNC | domkirke       |   | domki(er)kæ       | domkıkæ       |   |   |   |        | dan     |   |   |    |         397-04 |
@@ -129,7 +129,7 @@
 | w   |        | upa          | xAV | på             |   | pa                | pa             |   |   |   |        | dan     |   |   |    |         397-05 |
 | w   |        | bo           | xVB | bor            |   | boor              | booꝛ           |   |   |   |        | dan     |   |   |    |         397-05 |
 | w   |        | ok           | xCC | og             |   | oc                | oc             |   |   |   |        | dan     |   |   |    |         397-05 |
-| w   |        | sankte       | xNC | sankte         |   | s(anc)ti          | ſti̅            |   |   |   |        | lat     |   |   |    |         397-05 |
+| w   |        | sankte       | xAJ | sankte         |   | s(anc)ti          | ſti̅            |   |   |   |        | lat     |   |   |    |         397-05 |
 | w   |        |              | xNP |                |   | laur(is)sæ        | laurꝭſæ        |   |   |   |        | dan     |   |   |    |         397-05 |
 | w   |        | kirkje       | xNC | kirke          |   | kirkæ             | kirkæ          |   |   |   |        | dan     |   |   |    |         397-05 |
 | lm  | 397-06 |              |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |
@@ -162,8 +162,8 @@
 | w   |        | have         | xVB | have           |   | haffwæ            | haffwæ         |   |   |   |        | dan     |   |   |    |         397-07 |
 | w   |        | upbære       | xVB | opbåret        |   | vpboret           | vpboret        |   |   |   |        | dan     |   |   |    |         397-07 |
 | w   |        | ful          | xAJ | fuldt          |   | fult              | fult           |   |   |   |        | dan     |   |   |    |         397-07 |
-| w   |        | værth        | xnc | værd           |   | wærdh             | wærdh          |   |   |   |        | dan     |   |   |    |         397-07 |
-| w   |        | ok           | xcc | og             |   | oc                | oc             |   |   |   |        | dan     |   |   |    |         397-07 |
+| w   |        | værth        | xNC | værd           |   | wærdh             | wærdh          |   |   |   |        | dan     |   |   |    |         397-07 |
+| w   |        | ok           | xCC | og             |   | oc                | oc             |   |   |   |        | dan     |   |   |    |         397-07 |
 | w   |        | goth         | xAJ | god            |   | goth              | goth           |   |   |   |        | dan     |   |   |    |         397-07 |
 | w   |        | betaling     | xNC | betaling       |   | betaling          | betaling       |   |   |   |        | dan     |   |   |    |         397-07 |
 | w   |        | af           | xAP | af             |   | aff               | aff            |   |   |   |        | dan     |   |   |    |         397-07 |
@@ -176,7 +176,7 @@
 | w   |        | fore         | xAP | fore           |   | for(e)            | for           |   |   |   |        | dan     |   |   |    |         397-07 |
 | lm  | 397-08 |              |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |
 | w   |        | thæn         | xAT | den            |   | th(e)n            | th̅            |   |   |   |        | dan     |   |   |    |         397-08 |
-| w   |        | foreskreven  | xNC | foreskrevne    |   | for(e)sc(re)ffne  | foꝛꝭſcͤffne     |   |   |   |        | dan     |   |   |    |         397-08 |
+| w   |        | foreskreven  | xAJ | foreskrevne    |   | for(e)sc(re)ffne  | foꝛꝭſcͤffne     |   |   |   |        | dan     |   |   |    |         397-08 |
 | w   |        | garth        | xNC | gård           |   | gordh             | goꝛdh          |   |   |   |        | dan     |   |   |    |         397-08 |
 | w   |        | sva          | xAV | så             |   | swo               | ſwo            |   |   |   |        | dan     |   |   |    |         397-08 |
 | w   |        | at           | xCS | at             |   | at                | at             |   |   |   |        | dan     |   |   |    |         397-08 |
@@ -364,8 +364,8 @@
 | w   |        |              | xNP | Jep            |   | jeip              | ȷeip           |   |   |   |        | dan     |   |   |    |         397-17 |
 | w   |        |              | xNP | Jensen         |   | jenss(øn)         | ȷenſ          |   |   |   |        | dan     |   |   |    |         397-17 |
 | PE  | e      |              |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |
-| w   |        | perpetuus    | lat |                |   | p(er)pet(uus)     | ̲etꝭ           |   |   |   |        | lat/dan |   |   |    |         397-17 |
-| w   |        | uicarius     | lat |                |   | uicar(ius)        | uicarꝭ         |   |   |   |        | lat/dan |   |   |    |         397-17 |
+| w   |        | perpetuus    | xNC |                |   | p(er)pet(uus)     | ̲etꝭ           |   |   |   |        | lat/dan |   |   |    |         397-17 |
+| w   |        | vicarius     | xNC |                |   | uicar(ius)        | uicarꝭ         |   |   |   |        | lat/dan |   |   |    |         397-17 |
 | w   |        | til          | xAP | til            |   | til               | tıl            |   |   |   |        | dan     |   |   |    |         397-17 |
 | w   |        | sankte       | xAJ | Sankte         |   | s(anc)ta          | ſta̅            |   |   |   |        | lat/dan |   |   |    |         397-17 |
 | w   |        |              | xNP | Anna           |   | Anna              | Anna           |   |   |   |        | lat/dan |   |   |    |         397-17 |
@@ -395,7 +395,7 @@
 | w   |        | thænne       | xDD | dette          |   | th(ette)          | thꝫͤ            |   |   |   |        | dan     |   |   |    |         397-18 |
 | w   |        | brev         | xNC | brev           |   | br(e)ff           | bꝛ̅ff           |   |   |   |        | dan     |   |   |    |         397-18 |
 | w   |        | til          | xAP | til            |   | til               | tıl            |   |   |   |        | dan     |   |   |    |         397-18 |
-| w   |        | vitnesbyrth  | xVB | vidnesbyrd     |   | witnisbyrd(e)     | wıtnıſbyꝛ     |   |   |   |        | dan     |   |   |    |         397-18 |
+| w   |        | vitnesbyrth  | xNC | vidnesbyrd     |   | witnisbyrd(e)     | wıtnıſbyꝛ     |   |   |   |        | dan     |   |   |    |         397-18 |
 | w   |        |              |     |                |   | datu(m)           | datu̅           |   |   |   |        | lat     |   |   |    |         397-18 |
 | PL  | b      |              |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |
 | w   |        |              |     |                |   | Roskild(is)       | Roſkıldꝭ       |   |   |   |        | lat     |   |   |    |         397-18 |

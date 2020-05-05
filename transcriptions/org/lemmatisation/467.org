@@ -25,7 +25,7 @@ wdblac = w with breve
 | pm  | 1r     |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | lm  | 467-01 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | vi                 | xPD | vi             |   | Wij                       | Wij                |             |   |   |     | dan |   |   |    |        467-01 |
-| w   |        | æfterskrive        | xAJ | efterskrevne   |   | epther(screffne)          | eptherᷠͤ             |             |   |   |     | dan |   |   |    |        467-01 |
+| w   |        | æfterskrive        | xVB | efterskrevne   |   | epther(screffne)          | eptherᷠͤ             |             |   |   |     | dan |   |   |    |        467-01 |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |                    | xNP | Oluf           |   | Oluff                     | Olŭff              |             |   |   |     | dan |   |   |    |        467-01 |
 | w   |        |                    | xNP | Andersen       |   | anders(øn)                | ander             |             |   |   |     | dan |   |   |    |        467-01 |
@@ -445,8 +445,8 @@ wdblac = w with breve
 | w   |        | sum                | xRP | som            |   | som                       | ſom                |             |   |   |     | dan |   |   |    |        467-27 |
 | w   |        | hær                | xAV | her            |   | her                       | her                |             |   |   |     | dan |   |   |    |        467-27 |
 | w   |        | æfter              | xAV | efter          |   | epther                    | epther             |             |   |   |     | dan |   |   |    |        467-27 |
-| w   |        | fylghje            | xNC | følger         |   | følger                    | følger             |             |   |   |     | dan |   |   |    |        467-27 |
-| p   |        | ,                  | XX  |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-27 |
+| w   |        | fylghje            | xVB | følger         |   | følger                    | følger             |             |   |   |     | dan |   |   |    |        467-27 |
+| p   |        |                    |     |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-27 |
 | lm  | 467-28 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | fyrst              | xAJ | først          |   | først                     | førſt              |             |   |   |     | dan |   |   |    |        467-28 |
 | w   |        | begynne            | xVB | begyndt        |   | begint                    | begint             |             |   |   |     | dan |   |   |    |        467-28 |
@@ -746,15 +746,15 @@ wdblac = w with breve
 | lm  | 467-47 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | fjure              | xNA | fire           |   | firre                     | firre              |             |   |   |     | dan |   |   |    |        467-47 |
 | w   |        | rep                | xNC | reb            |   | reeb                      | reeb               |             |   |   |     | dan |   |   |    |        467-47 |
-| p   |        | ,                  | XX  |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-47 |
+| p   |        |                    |     |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-47 |
 | w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-47 |
 | w   |        | hvær               | xPD |                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-47 |
 | w   |        | rep                | xNC |                |   | reeb                      | reeb               |             |   |   |     | dan |   |   |    |        467-47 |
-| w   |        | fjure              | xAJ |                |   | firre                     | firre              |             |   |   |     | dan |   |   |    |        467-47 |
+| w   |        | fjure              | xNA |                |   | firre                     | firre              |             |   |   |     | dan |   |   |    |        467-47 |
 | w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-47 |
 | w   |        | thjughe            | xNA |                |   | thiuff                    | thiŭff             |             |   |   |     | dan |   |   |    |        467-47 |
 | w   |        | faghn              | xNC |                |   | foffne                    | foffne             |             |   |   |     | dan |   |   |    |        467-47 |
-| p   |        | ,                  | XX  |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-47 |
+| p   |        |                    |     |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-47 |
 | w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-47 |
 | w   |        | i                  | xAP |                |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-47 |
 | w   |        | like               | xAJ |                |   | lige                      | lige               |             |   |   |     | dan |   |   |    |        467-47 |

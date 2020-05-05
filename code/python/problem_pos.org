@@ -1,4 +1,4 @@
-* Lemmata [90/252]
+* Lemmata [133/243]
 ** TODO  
 ['', 'xNP', 'xNA', 'lat', 'xVB', 'XX', 'xNC', 'rom', 'xNO', 'xAJ', 'xUA', 'xNxNPC', 'V', 'X', 'xAV', 'xCC', 'xx', 'xAP', 'væster', 'prop', 'xCP', 'NUM']
 ** ævinnelik
@@ -367,63 +367,63 @@
 ['xNC', 'xAJ']
 ** TODO  østen
 ['xAJ', 'xAV']
-** TODO  nativitatis
+** DONE nativitatis
 ['xAJ', 'lat']
-** TODO  ingive
+** DONE ingive
 ['xNC', 'xAJ']
 ** TODO  northen
 ['xAJ', 'xNC', 'xAP']
 ** TODO  et
 ['lat', 'xAT', 'xNA']
-** TODO  sokn
+** DONE sokn
 ['xNC', 'xNP']
 ** TODO  annettvægje
 ['xCC', 'xAV']
 ** TODO  øster
 ['xAV', 'xAJ']
-** TODO  læghelikhet
+** DONE læghelikhet
 ['xVB', 'xNC']
 ** TODO  unden
 ['xAP', 'xAV']
-** TODO  daghlik
+** DONE daghlik
 ['xAJ', 'xVB']
-** TODO  thusend
+** DONE thusend
 ['xNC', 'xNA', 'xNO']
 ** TODO  bathe
 ['xPD', 'xAV']
 ** TODO  sum
 ['xRP', 'xPD', 'xAV', 'xSP', 'xrP', 'xpD', 'xNP', 'xCS']
-** TODO  sithvanlik
+** DONE sithvanlik
 ['xAJ', 'xNC']
-** TODO  skule
+** DONE skule
 ['xVB', 'xVC', 'xNC']
-** TODO  ækte
+** DONE ækte
 ['xNC', 'xAJ']
-** TODO  samthykke
+** DONE samthykke
 ['xNC', 'xAJ']
-** TODO  goths
+** DONE goths
 ['xNC', 'xAJ']
 ** TODO  minne
 ['xNC', 'xVB']
 ** TODO  vitne
 ['xVB', 'xNC']
-** TODO  hemel
+** hemel
 ['xNC', 'xAJ']
-** TODO  kloster
+** DONE kloster
 ['xNC', 'xAJ']
 ** TODO  umake
 ['xAJ', 'xNC']
-** TODO  tiltale
+** tiltale
 ['xVB', 'xNC']
-** TODO  sæghje
+** DONE sæghje
 ['xVB', 'xAJ']
-** TODO  ænde
+** ænde
 ['xVB', 'xNC']
-** TODO  sma
+** DONE sma
 ['xNC', 'xAJ']
-** TODO  samestath
+** DONE samestath
 ['xNC', 'xAV']
-** TODO  rættighhet
+** DONE rættighhet
 ['xNC', 'xVB']
 ** TODO  fyrst
 ['xAJ', 'xAV', 'xNC']
@@ -433,103 +433,103 @@
 ['xPD', 'xCS']
 ** TODO  sitherst
 ['xAV', 'xAJ']
-** TODO  foreskreven
+** DONE foreskreven
 ['xAJ', 'xNC']
 ** TODO  var
 ['xDP', 'xPD', 'xNC', 'xNP']
-** TODO  helagh
+** DONE helagh
 ['xAJ', 'xNC']
-** TODO  paske
+** DONE paske
 ['xNC', 'xAJ']
-** TODO  ærkedjakn
+** DONE ærkedjakn
 ['xNC', 'xAJ']
-** TODO  live
+** DONE live
 ['xVB', 'xNC']
 ** TODO  for
 ['xAP', 'xAV']
 ** TODO  fran
 ['xAP', 'xAV']
-** TODO  rænte
+** DONE rænte
 ['xNC', 'xVB', 'xAJ']
-** TODO  tith
+** DONE tith
 ['xNC', 'xAJ']
 ** TODO  nar
 ['xCS', 'xAV']
 ** TODO  skifte
 ['xVB', 'xNC']
-** TODO  konvent
+** DONE konvent
 ['xNC', 'xNP', 'xCC']
 ** TODO  upa
 ['xAP', 'xAV', 'xAJ']
 ** TODO  gen
 ['xAV', 'xAP']
-** TODO  perpetuus
+** DONE perpetuus
 ['xNC', 'lat']
-** TODO  stathfæste
+** stathfæste
 ['xNC', 'xVB']
 ** TODO  æn
 ['xAV', 'xCC']
 ** TODO  æfter
 ['xAP', 'xAV']
-** TODO  anname
+** DONE anname
 ['xVB', 'xAJ']
 ** TODO  yver
 ['xAV', 'xAP']
 ** TODO  thæt
 ['xPD', 'xAT', 'xCS', 'xDD']
-** TODO  vitnesbyrth
+** DONE vitnesbyrth
 ['xNC', 'xN', 'xAJ', 'xVB']
-** TODO  logh
+** DONE logh
 ['xNC', 'xVB']
-** TODO  beate
+** DONE beate
 ['xAJ', 'lat']
-** TODO  vith
+** vith
 ['xNC', 'xAJ']
 ** TODO  um
 ['xAP', 'xAV', 'xCS']
-** TODO  kærlikhet
+** DONE kærlikhet
 ['xVB', 'xNC']
-** TODO  fylghje
+** DONE fylghje
 ['xVB', 'xNC']
-** TODO  gøme
+** gøme
 ['xNC', 'xVB']
-** TODO  æfterskrive
+** DONE æfterskrive
 ['xVB', 'xAJ']
-** TODO  almughe
+** DONE almughe
 ['xNC', 'xAJ']
-** TODO  asyn
+** DONE asyn
 ['xNC', 'xAJ']
 ** TODO  a
 ['lat', 'xAP']
 ** TODO  rethelik
 ['xAJ', 'xAV']
-** TODO  kære
+** kære
 ['xVB', 'xNC']
-** TODO  sik
+** sik
 ['xPD', 'xNP']
-** TODO  varthneth
+** DONE varthneth
 ['xNC', 'xVB']
-** TODO  atthra
+** atthra
 ['xNC', 'xVB']
-** TODO  værth
+** DONE værth
 ['xNC', 'xnc']
-** TODO  sjalv
+** DONE sjalv
 ['xPD', 'xVB', 'xAV']
-** TODO  sjal
+** DONE sjal
 ['xNC', 'xVB']
-** TODO  man
+** DONE man
 ['xNC', 'xPD', 'xCC']
 ** TODO  innen
 ['xAP', 'xAV']
-** TODO  fjure
+** DONE fjure
 ['xNA', 'xAJ']
 ** TODO  at
 ['xCS', 'xIM', 'xAP', 'xAV', 'xCC¦xCS', 'xSC', 'lat', 'xCC', 'xAT']
-** TODO  skogh
+** DONE skogh
 ['xNC', 'xVB']
 ** TODO  framdeles
 ['xAV', 'xAJ']
-** TODO  sankte
+** DONE sankte
 ['xAJ', 'lat', 'xNC']
-** TODO  ække
+** DONE ække
 ['xAV', 'xPD', 'xVB']

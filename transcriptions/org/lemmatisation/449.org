@@ -59,7 +59,7 @@
 | w   |        | ok             | xCC   | og            |   | oc                   | oc            |   |   |   |                | dan     |   |   |    |        449-02 |
 | w   |        | bathe          | xPD   | begges        |   | beggis               | beggi        |   |   |   |                | dan     |   |   |    |        449-02 |
 | w   |        | var            | xDP   | vore          |   | wore                 | woꝛe          |   |   |   |                | dan     |   |   |    |        449-02 |
-| w   |        | ækte           | xNC   | ægte          |   | ecthe                | ecthe         |   |   |   |                | dan     |   |   |    |        449-02 |
+| w   |        | ækte           | xAJ   | ægte          |   | ecthe                | ecthe         |   |   |   |                | dan     |   |   |    |        449-02 |
 | w   |        | barn           | xNC   | børn          |   | børn                 | bøꝛn          |   |   |   |                | dan     |   |   |    |        449-02 |
 | w   |        | uti            | xAP   | udi           |   | vdi                  | vdi           |   |   |   |                | dan     |   |   |    |        449-02 |
 | w   |        | leghe          | xNC   | leje          |   | leye                 | leẏe          |   |   |   |                | dan     |   |   |    |        449-02 |
@@ -229,7 +229,7 @@
 | w   |        | skilling       | xNC   | skilling      |   | s(killing)           |              |   |   |   |                | dan     |   |   |    |        449-09 |
 | w   |        | grot           | xNC   | grot          |   | g(rot)               | gꝭͭ            |   |   |   |                | dan     |   |   |    |        449-09 |
 | w   |        | um             | xAP   | om            |   | om                   | om            |   |   |   |                | dan     |   |   |    |        449-09 |
-| w   |        | paske          | xAJ   | påsken        |   | posken               | poſken        |   |   |   |                | dan     |   |   |    |        449-09 |
+| w   |        | paske          | xNC   | påsken        |   | posken               | poſken        |   |   |   |                | dan     |   |   |    |        449-09 |
 | w   |        | ok             | xCC   | og            |   | oc                   | oc            |   |   |   |                | dan     |   |   |    |        449-09 |
 | n   |        |                | xNA   | 2             |   | ij                   | ij            |   |   |   |                | dan     |   |   |    |        449-09 |
 | w   |        | skilling       | xNC   | skilling      |   | s(killing)           |              |   |   |   |                | dan     |   |   |    |        449-09 |
@@ -380,7 +380,7 @@
 | w   |        | tha            | xAV   | da            |   | tha                  | tha           |   |   |   |                | dan     |   |   |    |        449-15 |
 | w   |        | skule          | xVB   | skulle        |   | schulle              | ſchulle       |   |   |   |                | dan     |   |   |    |        449-15 |
 | w   |        | vi             | xPD   | vi            |   | wij                  | wij           |   |   |   |                | dan     |   |   |    |        449-15 |
-| w   |        | sjalv          | xVB   | selve         |   | selffue              | ſelffue       |   |   |   |                | dan     |   |   |    |        449-15 |
+| w   |        | sjalv          | xPD   | selve         |   | selffue              | ſelffue       |   |   |   |                | dan     |   |   |    |        449-15 |
 | w   |        | thær           | xAV   | der           |   | ther                 | theꝛ          |   |   |   |                | dan     |   |   |    |        449-15 |
 | w   |        | til            | xAV   | til           |   | tiill                | tiill         |   |   |   |                | dan     |   |   |    |        449-15 |
 | lm  | 449-16 |                |       |               |   |                      |               |   |   |   |                |         |   |   |    |               |
@@ -592,7 +592,7 @@
 | w   |        | um             | xCS   | om            |   | om                   | om            |   |   |   |                | dan     |   |   |    |        449-25 |
 | w   |        | han            | xPD   | han           |   | hand                 | hand          |   |   |   |                | dan     |   |   |    |        449-25 |
 | w   |        | æj             | xAV   | ej            |   | ey                   | ey            |   |   |   |                | dan     |   |   |    |        449-25 |
-| w   |        | sjalv          | xAV   | selv          |   | selff                | ſelff         |   |   |   |                | dan     |   |   |    |        449-25 |
+| w   |        | sjalv          | xPD   | selv          |   | selff                | ſelff         |   |   |   |                | dan     |   |   |    |        449-25 |
 | w   |        | i              | xAP   | i             |   | i                    | i             |   |   |   |                | dan     |   |   |    |        449-25 |
 | n   |        |                | xNA   | 30            |   | xxx                  | xxx           |   |   |   |                | dan     |   |   |    |        449-25 |
 | w   |        | ar             | xNC   | år            |   | aar                  | aar           |   |   |   |                | dan     |   |   |    |        449-25 |
@@ -770,7 +770,7 @@
 | PE  |      e |                |       |               |   |                      |               |   |   |   |                |         |   |   |    |               |
 | w   |        | burghemæstere  | xNC   | borgmester    |   | borgemesteres        | borgemeſteres |   |   |   |                | dan     |   |   |    |        449-33 |
 | w   |        | hær            | xAV   | her           |   | her                  | her           |   |   |   |                | dan     |   |   |    |        449-33 |
-| w   |        | samestath      | xNC   | samme sted    |   | sa(m)mest(et)        | ſa̅meſtꝫ       |   |   |   |                | dan     |   |   |    |        449-33 |
+| w   |        | samestath      | xAV   | samme sted    |   | sa(m)mest(et)        | ſa̅meſtꝫ       |   |   |   |                | dan     |   |   |    |        449-33 |
 | w   |        | næthen         | xAV   | neden         |   | neden(n)             | neden̅         |   |   |   |                | dan     |   |   |    |        449-33 |
 | w   |        | fore           | xAP   | for           |   | for(e)               | foꝛ          |   |   |   |                | dan     |   |   |    |        449-33 |
 | w   |        | thænne         | xDD   | dette         |   | thette               | thette        |   |   |   |                | dan     |   |   |    |        449-33 |
