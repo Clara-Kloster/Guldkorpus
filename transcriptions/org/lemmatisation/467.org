@@ -555,7 +555,7 @@ wdblac = w with breve
 | pm  | 467-35 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | ok                 | xCC | og             |   | Och                       | Och                |             |   |   |     | dan |   |   |    |        467-35 |
 | w   |        | møte               | xVB | mødte          |   | møtte                     | møtte              |             |   |   |     | dan |   |   |    |        467-35 |
-| w   |        | thiat              | xAV | did            |   | diid                      | diid               |             |   |   |     | dan |   |   |    |        467-35 |
+| w   |        | thæn              | xAV | det            |   | diid                      | diid               |             |   |   |     | dan |   |   |    |        467-35 |
 | w   |        | sunder             | xAJ | sønderste      |   | Sønderste                 | ønderſte          |             |   |   |     | dan |   |   |    |        467-35 |
 | w   |        | bol                | xNC | bol            |   | Boel                      | Boel               |             |   |   |     | dan |   |   |    |        467-35 |
 | w   |        | upa                | xAP | på             |   | paa                       | paa                |             |   |   |     | dan |   |   |    |        467-35 |
@@ -657,7 +657,7 @@ wdblac = w with breve
 | p   |        | ,                  | XX  |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-41 |
 | w   |        | sithen             | xAV | siden          |   | Siden                     | iden              |             |   |   |     | dan |   |   |    |        467-41 |
 | w   |        | begynne            | xVB | begyndte       |   | beginte                   | beginte            |             |   |   |     | dan |   |   |    |        467-41 |
-| w   |        | thæn               | xAT | did            |   | diid                      | diid               |             |   |   |     | dan |   |   |    |        467-41 |
+| w   |        | thæn               | xAT | det            |   | diid                      | diid               |             |   |   |     | dan |   |   |    |        467-41 |
 | w   |        | thrithje           | xNO | tredje         |   | tridde                    | tridde             |             |   |   |     | dan |   |   |    |        467-41 |
 | w   |        | rep                | xNC | reb            |   | reeb                      | reeb               |             |   |   |     | dan |   |   |    |        467-41 |
 | w   |        | noker              | xPD | noget          |   | Nogitt                    | Nogitt             |             |   |   |     | dan |   |   |    |        467-41 |
@@ -710,7 +710,7 @@ wdblac = w with breve
 | w   |        | bol                | xNC | bol            |   | boeel                     | boeel              |             |   |   |     | dan |   |   |    |        467-44 |
 | w   |        | ok                 | xCC | og             |   | och                       | och                |             |   |   |     | dan |   |   |    |        467-44 |
 | w   |        | vænde              | xVB | vende          |   | wendde                    | wendde             |             |   |   |     | dan |   |   |    |        467-44 |
-| w   |        | thæn               | xNC | did            |   | diid                      | diid               |             |   |   |     | dan |   |   |    |        467-44 |
+| w   |        | thæn               | xNC | det            |   | diid                      | diid               |             |   |   |     | dan |   |   |    |        467-44 |
 | w   |        | sunder             | xAJ | sønderste      |   | Sinderste                 | inderſte          |             |   |   |     | dan |   |   |    |        467-44 |
 | lm  | 467-45 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | bol                | xNC | bol            |   | boeel                     | boeel              |             |   |   |     | dan |   |   |    |        467-45 |
@@ -747,570 +747,570 @@ wdblac = w with breve
 | w   |        | fjure              | xNA | fire           |   | firre                     | firre              |             |   |   |     | dan |   |   |    |        467-47 |
 | w   |        | rep                | xNC | reb            |   | reeb                      | reeb               |             |   |   |     | dan |   |   |    |        467-47 |
 | p   |        |                    |     |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-47 |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-47 |
-| w   |        | hvær               | xPD |                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-47 |
-| w   |        | rep                | xNC |                |   | reeb                      | reeb               |             |   |   |     | dan |   |   |    |        467-47 |
-| w   |        | fjure              | xNA |                |   | firre                     | firre              |             |   |   |     | dan |   |   |    |        467-47 |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-47 |
-| w   |        | thjughe            | xNA |                |   | thiuff                    | thiŭff             |             |   |   |     | dan |   |   |    |        467-47 |
-| w   |        | faghn              | xNC |                |   | foffne                    | foffne             |             |   |   |     | dan |   |   |    |        467-47 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-47 |
+| w   |        | hvær               | xPD | hver               |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-47 |
+| w   |        | rep                | xNC | reb               |   | reeb                      | reeb               |             |   |   |     | dan |   |   |    |        467-47 |
+| w   |        | fjure              | xNA | fire               |   | firre                     | firre              |             |   |   |     | dan |   |   |    |        467-47 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-47 |
+| w   |        | thjughe            | xNA | tyve               |   | thiuff                    | thiŭff             |             |   |   |     | dan |   |   |    |        467-47 |
+| w   |        | faghn              | xNC | favne               |   | foffne                    | foffne             |             |   |   |     | dan |   |   |    |        467-47 |
 | p   |        |                    |     |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-47 |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-47 |
-| w   |        | i                  | xAP |                |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-47 |
-| w   |        | like               | xAJ |                |   | lige                      | lige               |             |   |   |     | dan |   |   |    |        467-47 |
-| w   |        | mate               | xNC |                |   | Maade                     | Maade              |             |   |   |     | dan |   |   |    |        467-47 |
-| w   |        | begynne            | xVB |                |   | be¦gint                   | be¦gint            |             |   |   |     | dan |   |   |    | 467-47—467-48 |
-| w   |        | vither             | xAP |                |   | wid                       | wid                |             |   |   |     | dan |   |   |    |        467-48 |
-| w   |        | en                 | xAT |                |   | en                        | en                 |             |   |   |     | dan |   |   |    |        467-48 |
-| w   |        | bok                | xNC |                |   | bøg                       | bøg                |             |   |   |     | dan |   |   |    |        467-48 |
-| w   |        | vither             | xAP |                |   | wid                       | wid                |             |   |   |     | dan |   |   |    |        467-48 |
-| w   |        | skjal              | xNC |                |   | skiellitt                 | ſkiellitt          |             |   |   |     | dan |   |   |    |        467-48 |
-| w   |        | vither             | xAP |                |   | wid                       | wid                |             |   |   |     | dan |   |   |    |        467-48 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-47 |
+| w   |        | i                  | xAP | i               |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-47 |
+| w   |        | like               | xAJ | lige               |   | lige                      | lige               |             |   |   |     | dan |   |   |    |        467-47 |
+| w   |        | mate               | xNC | måde               |   | Maade                     | Maade              |             |   |   |     | dan |   |   |    |        467-47 |
+| w   |        | begynne            | xVB | begyndt               |   | be¦gint                   | be¦gint            |             |   |   |     | dan |   |   |    | 467-47—467-48 |
+| w   |        | vither             | xAP |  ved              |   | wid                       | wid                |             |   |   |     | dan |   |   |    |        467-48 |
+| w   |        | en                 | xAT | en               |   | en                        | en                 |             |   |   |     | dan |   |   |    |        467-48 |
+| w   |        | bok                | xNC |   bøg             |   | bøg                       | bøg                |             |   |   |     | dan |   |   |    |        467-48 |
+| w   |        | vither             | xAP |  ved              |   | wid                       | wid                |             |   |   |     | dan |   |   |    |        467-48 |
+| w   |        | skjal              | xNC |  skellet              |   | skiellitt                 | ſkiellitt          |             |   |   |     | dan |   |   |    |        467-48 |
+| w   |        | vither             | xAP | ved               |   | wid                       | wid                |             |   |   |     | dan |   |   |    |        467-48 |
 | PL  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | asø                       | aſø                |             |   |   |     | dan |   |   |    |        467-48 |
-| w   |        | skogh              | xNC |                |   | skuff                     | ſkŭff              |             |   |   |     | dan |   |   |    |        467-48 |
+| w   |        |                    | xNP | Åsø               |   | asø                       | aſø                |             |   |   |     | dan |   |   |    |        467-48 |
+| w   |        | skogh              | xNC | skov               |   | skuff                     | ſkŭff              |             |   |   |     | dan |   |   |    |        467-48 |
 | PL  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-48 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-48 |
 | PL  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | gumerøds                  | gŭmerød           |             |   |   |     | dan |   |   |    |        467-48 |
-| w   |        | slætte             | xNC |                |   | Slette                    | lette             |             |   |   |     | dan |   |   |    |        467-48 |
+| w   |        |                    | xNP | Gummerøds               |   | gumerøds                  | gŭmerød           |             |   |   |     | dan |   |   |    |        467-48 |
+| w   |        | slætte             | xNC | slette               |   | Slette                    | lette             |             |   |   |     | dan |   |   |    |        467-48 |
 | PL  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | lm  | 467-49 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | sum                | xRP |                |   | som                       | ſom                |             |   |   |     | dan |   |   |    |        467-49 |
-| w   |        | være               | xVB |                |   | er                        | er                 |             |   |   |     | dan |   |   |    |        467-49 |
-| w   |        | væsten             | xAV |                |   | westen                    | weſten             |             |   |   |     | dan |   |   |    |        467-49 |
-| w   |        | upa                | xAP |                |   | pa                        | pa                 |             |   |   |     | dan |   |   |    |        467-49 |
-| w   |        | fornævnd           | xAJ |                |   | for(nefnde)               | for.ᷠͤ               |             |   |   |     | dan |   |   |    |        467-49 |
+| w   |        | sum                | xRP | som               |   | som                       | ſom                |             |   |   |     | dan |   |   |    |        467-49 |
+| w   |        | være               | xVB | er               |   | er                        | er                 |             |   |   |     | dan |   |   |    |        467-49 |
+| w   |        | væsten             | xAV | vesten               |   | westen                    | weſten             |             |   |   |     | dan |   |   |    |        467-49 |
+| w   |        | upa                | xAP | på               |   | pa                        | pa                 |             |   |   |     | dan |   |   |    |        467-49 |
+| w   |        | fornævnd           | xAJ | fornævnte               |   | for(nefnde)               | for.ᷠͤ               |             |   |   |     | dan |   |   |    |        467-49 |
 | PL  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | Suansbierh                | ŭanſbierh         |             |   |   |     | dan |   |   |    |        467-49 |
-| w   |        | skogh              | xNC |                |   | skuff                     | ſkŭff              |             |   |   |     | dan |   |   |    |        467-49 |
+| w   |        |                    | xNP | Svansbjerg               |   | Suansbierh                | ŭanſbierh         |             |   |   |     | dan |   |   |    |        467-49 |
+| w   |        | skogh              | xNC | skov               |   | skuff                     | ſkŭff              |             |   |   |     | dan |   |   |    |        467-49 |
 | PL  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | af                 | xAP |                |   | aff                       | aff                |             |   |   |     | dan |   |   |    |        467-49 |
-| w   |        |                    | XX  |                |   | Nør                       | Nør                |             |   |   |     | dan |   |   |    |        467-49 |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-49 |
-| w   |        | i                  | xAP |                |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-49 |
-| w   |        | sitje              | xVB |                |   | Siidde                    | iidde             |             |   |   |     | dan |   |   |    |        467-49 |
-| w   |        | uti                | xAP |                |   | udy                       | ŭdÿ                |             |   |   |     | dan |   |   |    |        467-49 |
+| w   |        | af                 | xAP | af               |   | aff                       | aff                |             |   |   |     | dan |   |   |    |        467-49 |
+| w   |        |                    | xNP  | Nør               |   | Nør                       | Nør                |             |   |   |     | dan |   |   |    |        467-49 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-49 |
+| w   |        | i                  | xAP | i               |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-49 |
+| w   |        | sitje              | xVB | sidde               |   | Siidde                    | iidde             |             |   |   |     | dan |   |   |    |        467-49 |
+| w   |        | uti                | xAP | udi               |   | udy                       | ŭdÿ                |             |   |   |     | dan |   |   |    |        467-49 |
 | lm  | 467-50 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | en                 | xAT |                |   | En                        | En                 |             |   |   |     | dan |   |   |    |        467-50 |
-| w   |        | muse               | xNC |                |   | mosse                     | moſſe              |             |   |   |     | dan |   |   |    |        467-50 |
-| w   |        | i                  | xAP |                |   | ij                        | ij                 |             |   |   |     | dan |   |   |    |        467-50 |
-| w   |        | mællem             | xAP |                |   | mellom                    | mellom             |             |   |   |     | dan |   |   |    |        467-50 |
+| w   |        | en                 | xAT | en               |   | En                        | En                 |             |   |   |     | dan |   |   |    |        467-50 |
+| w   |        | muse               | xNC | mose               |   | mosse                     | moſſe              |             |   |   |     | dan |   |   |    |        467-50 |
+| w   |        | i                  | xAV | i               |   | ij                        | ij                 |             |   |   |     | dan |   |   |    |        467-50 |
+| w   |        | mællem             | xAP | mellem               |   | mellom                    | mellom             |             |   |   |     | dan |   |   |    |        467-50 |
 | PL  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | rings bierh               | ring bierh        |             |   |   |     | dan |   |   |    |        467-50 |
-| w   |        | skogh              | xNC |                |   | skuff                     | ſkŭff              |             |   |   |     | dan |   |   |    |        467-50 |
+| w   |        |                    | xNP | Ringsbjerg               |   | rings bierh               | ring bierh        |             |   |   |     | dan |   |   |    |        467-50 |
+| w   |        | skogh              | xNC | skov               |   | skuff                     | ſkŭff              |             |   |   |     | dan |   |   |    |        467-50 |
 | PL  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-50 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-50 |
 | PL  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | Suansbierh                | ŭanſbierh         |             |   |   |     | dan |   |   |    |        467-50 |
-| w   |        | skogh              | xNC |                |   | skuff                     | ſkŭff              |             |   |   |     | dan |   |   |    |        467-50 |
+| w   |        |                    | xNP | Svansbjerg               |   | Suansbierh                | ŭanſbierh         |             |   |   |     | dan |   |   |    |        467-50 |
+| w   |        | skogh              | xNC | skov               |   | skuff                     | ſkŭff              |             |   |   |     | dan |   |   |    |        467-50 |
 | PL  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | p   |        | ,                  | XX  |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-50 |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-50 |
-| w   |        | blive              | xVB |                |   | bliff                     | bliff              |             |   |   |     | dan |   |   |    |        467-50 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-50 |
+| w   |        | blive              | xVB | blev               |   | bliff                     | bliff              |             |   |   |     | dan |   |   |    |        467-50 |
 | lm  | 467-51 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-51 |
-| w   |        | sæks               | xNA |                |   | Sexs                      | ex               |             |   |   |     | dan |   |   |    |        467-51 |
-| w   |        | bol                | xNC |                |   | boeel                     | boeel              |             |   |   |     | dan |   |   |    |        467-51 |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-51 |
-| w   |        | i                  | xAP |                |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-51 |
-| w   |        | hvær               | xPD |                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-51 |
-| w   |        | bol                | xNC |                |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-51 |
-| w   |        | thri               | xNA |                |   | tre                       | tre                |             |   |   |     | dan |   |   |    |        467-51 |
-| w   |        | rep                | xNC |                |   | reeb                      | reeb               |             |   |   |     | dan |   |   |    |        467-51 |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-51 |
-| w   |        | hvær               | xPD |                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-51 |
-| w   |        | rep                | xNC |                |   | reeb                      | reeb               |             |   |   |     | dan |   |   |    |        467-51 |
-| w   |        | fjure              | xNA |                |   | firre                     | firre              |             |   |   |     | dan |   |   |    |        467-51 |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-51 |
-| w   |        | thjughe            | xNA |                |   | thiuff                    | thiŭff             |             |   |   |     | dan |   |   |    |        467-51 |
-| w   |        | faghn              | xNC |                |   | foffn(n)e                 | foffn̅e             |             |   |   |     | dan |   |   |    |        467-51 |
+| w   |        | ok                 | xAV | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-51 |
+| w   |        | sæks               | xNA | seks               |   | Sexs                      | ex               |             |   |   |     | dan |   |   |    |        467-51 |
+| w   |        | bol                | xNC | bol               |   | boeel                     | boeel              |             |   |   |     | dan |   |   |    |        467-51 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-51 |
+| w   |        | i                  | xAP | i               |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-51 |
+| w   |        | hvær               | xPD | hver               |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-51 |
+| w   |        | bol                | xNC | bol               |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-51 |
+| w   |        | thri               | xNA | tre               |   | tre                       | tre                |             |   |   |     | dan |   |   |    |        467-51 |
+| w   |        | rep                | xNC | reb               |   | reeb                      | reeb               |             |   |   |     | dan |   |   |    |        467-51 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-51 |
+| w   |        | hvær               | xPD | hver               |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-51 |
+| w   |        | rep                | xNC | reb               |   | reeb                      | reeb               |             |   |   |     | dan |   |   |    |        467-51 |
+| w   |        | fjure              | xNA | fire               |   | firre                     | firre              |             |   |   |     | dan |   |   |    |        467-51 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-51 |
+| w   |        | thjughe            | xNA | tyve               |   | thiuff                    | thiŭff             |             |   |   |     | dan |   |   |    |        467-51 |
+| w   |        | faghn              | xNC | favne               |   | foffn(n)e                 | foffn̅e             |             |   |   |     | dan |   |   |    |        467-51 |
 | lm  | 467-52 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-52 |
-| w   |        | thær               | xAV |                |   | ther                      | ther               |             |   |   |     | dan |   |   |    |        467-52 |
-| w   |        | yver               | xAP |                |   | offwir                    | offwir             |             |   |   |     | dan |   |   |    |        467-52 |
-| w   |        | sæks               | xNA |                |   | Sexs                      | ex               |             |   |   |     | dan |   |   |    |        467-52 |
-| w   |        | faghn              | xNC |                |   | foffne                    | foffne             |             |   |   |     | dan |   |   |    |        467-52 |
-| w   |        | upa                | xAP |                |   | pa                        | pa                 |             |   |   |     | dan |   |   |    |        467-52 |
-| w   |        | hvær               | xPD |                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-52 |
-| w   |        | bol                | xNC |                |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-52 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-52 |
+| w   |        | thær               | xAV | der               |   | ther                      | ther               |             |   |   |     | dan |   |   |    |        467-52 |
+| w   |        | yver               | xAP | over               |   | offwir                    | offwir             |             |   |   |     | dan |   |   |    |        467-52 |
+| w   |        | sæks               | xNA | seks               |   | Sexs                      | ex               |             |   |   |     | dan |   |   |    |        467-52 |
+| w   |        | faghn              | xNC | favne               |   | foffne                    | foffne             |             |   |   |     | dan |   |   |    |        467-52 |
+| w   |        | upa                | xAP | på               |   | pa                        | pa                 |             |   |   |     | dan |   |   |    |        467-52 |
+| w   |        | hvær               | xPD | hver               |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-52 |
+| w   |        | bol                | xNC | bol               |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-52 |
 | p   |        | ,                  | XX  |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-52 |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-52 |
-| w   |        | finne              | xVB |                |   | findis                    | findi             |             |   |   |     | dan |   |   |    |        467-52 |
-| w   |        | fornævnd           | xAJ |                |   | for(nefnde)               | for.ᷠͤ               |             |   |   |     | dan |   |   |    |        467-52 |
-| w   |        | man                | xNC |                |   | mender                    | mender             |             |   |   |     | dan |   |   |    |        467-52 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-52 |
+| w   |        | finne              | xVB | findes               |   | findis                    | findi             |             |   |   |     | dan |   |   |    |        467-52 |
+| w   |        | fornævnd           | xAJ | fornævnte               |   | for(nefnde)               | for.ᷠͤ               |             |   |   |     | dan |   |   |    |        467-52 |
+| w   |        | man                | xNC | mænder               |   | mender                    | mender             |             |   |   |     | dan |   |   |    |        467-52 |
 | lm  | 467-53 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | ut                 | xAV |                |   | ud                        | ŭd                 |             |   |   |     | dan |   |   |    |        467-53 |
-| w   |        | i                  | xAP |                |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-53 |
-| w   |        | bol                | xNC |                |   | boeel                     | boeel              |             |   |   |     | dan |   |   |    |        467-53 |
+| w   |        | ut                 | xAV | ud               |   | ud                        | ŭd                 |             |   |   |     | dan |   |   |    |        467-53 |
+| w   |        | i                  | xAP | i               |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-53 |
+| w   |        | bol                | xNC | bol               |   | boeel                     | boeel              |             |   |   |     | dan |   |   |    |        467-53 |
 | w   |        |                    | XX  |                |   | Samil                     | amil              |             |   |   |     | dan |   |   |    |        467-53 |
-| w   |        | sum                | xRP |                |   | Som                       | om                |             |   |   |     | dan |   |   |    |        467-53 |
-| w   |        | hær                | xAV |                |   | her                       | her                |             |   |   |     | dan |   |   |    |        467-53 |
-| w   |        | æfter              | xAV |                |   | epther                    | epther             |             |   |   |     | dan |   |   |    |        467-53 |
-| w   |        | fylghje            | xVB |                |   | følger                    | følger             |             |   |   |     | dan |   |   |    |        467-53 |
+| w   |        | sum                | xRP | som               |   | Som                       | om                |             |   |   |     | dan |   |   |    |        467-53 |
+| w   |        | hær                | xAV | her               |   | her                       | her                |             |   |   |     | dan |   |   |    |        467-53 |
+| w   |        | æfter              | xAV | efter               |   | epther                    | epther             |             |   |   |     | dan |   |   |    |        467-53 |
+| w   |        | fylghje            | xVB | følger               |   | følger                    | følger             |             |   |   |     | dan |   |   |    |        467-53 |
 | p   |        | .                  | XX  |                |   | .                         | .                  |             |   |   |     | dan |   |   |    |        467-53 |
-| w   |        | fyrst              | xAV |                |   | først                     | førſt              |             |   |   |     | dan |   |   |    |        467-53 |
+| w   |        | fyrst              | xAV | først               |   | først                     | førſt              |             |   |   |     | dan |   |   |    |        467-53 |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-53 |
-| w   |        |                    | xNP |                |   | Jørgens(øn)               | Jørgen            |             |   |   |     | dan |   |   |    |        467-53 |
+| w   |        |                    | xNP | Peder               |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-53 |
+| w   |        |                    | xNP | Jørgensen               |   | Jørgens(øn)               | Jørgen            |             |   |   |     | dan |   |   |    |        467-53 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-53 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-53 |
 | p   |        | ,                  | XX  |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-53 |
 | lm  | 467-54 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | laffris                   | laffri            |             |   |   |     | dan |   |   |    |        467-54 |
-| w   |        |                    | xNP |                |   | Niels(øn)                 | Niel              |             |   |   |     | dan |   |   |    |        467-54 |
+| w   |        |                    | xNP | Laudrids               |   | laffris                   | laffri            |             |   |   |     | dan |   |   |    |        467-54 |
+| w   |        |                    | xNP | Nielsen               |   | Niels(øn)                 | Niel              |             |   |   |     | dan |   |   |    |        467-54 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | tilkome            | xVB |                |   | thiil ko(m)mir            | thiil ko̅mir        |             |   |   |     | dan |   |   |    |        467-54 |
-| w   |        | thæn               | xAT |                |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-54 |
-| w   |        | sunder             | xAJ |                |   | Sinderste                 | inderſte          |             |   |   |     | dan |   |   |    |        467-54 |
-| w   |        | bol                | xNC |                |   | boeel                     | boeel              |             |   |   |     | dan |   |   |    |        467-54 |
-| w   |        | næst               | xAV |                |   | nest                      | neſt               |             |   |   |     | dan |   |   |    |        467-54 |
-| w   |        | up                 | xAV |                |   | op                        | op                 |             |   |   |     | dan |   |   |    |        467-54 |
-| w   |        | til                | xAP |                |   | thiil                     | thiil              |             |   |   |     | dan |   |   |    |        467-54 |
+| w   |        | tilkome            | xVB | tilkommer               |   | thiil ko(m)mir            | thiil ko̅mir        |             |   |   |     | dan |   |   |    |        467-54 |
+| w   |        | thæn               | xAT | den               |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-54 |
+| w   |        | sunder             | xAJ | sønderste               |   | Sinderste                 | inderſte          |             |   |   |     | dan |   |   |    |        467-54 |
+| w   |        | bol                | xNC | bol               |   | boeel                     | boeel              |             |   |   |     | dan |   |   |    |        467-54 |
+| w   |        | næst               | xAV | næst                |   | nest                      | neſt               |             |   |   |     | dan |   |   |    |        467-54 |
+| w   |        | up                 | xAV |  op              |   | op                        | op                 |             |   |   |     | dan |   |   |    |        467-54 |
+| w   |        | til                | xAP | til               |   | thiil                     | thiil              |             |   |   |     | dan |   |   |    |        467-54 |
 | PL  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | ringsbi⟨e⟩rh              | ringbi⟨e⟩rh       |             |   |   |     | dan |   |   |    |        467-54 |
+| w   |        |                    | xNP | Ringsbjerg               |   | ringsbi⟨e⟩rh              | ringbi⟨e⟩rh       |             |   |   |     | dan |   |   |    |        467-54 |
 | lm  | 467-55 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | skogh              | xNC |                |   | skuff                     | ſkŭff              |             |   |   |     | dan |   |   |    |        467-55 |
+| w   |        | skogh              | xNC | skov               |   | skuff                     | ſkŭff              |             |   |   |     | dan |   |   |    |        467-55 |
 | PL  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | p   |        | ,                  | XX  |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-55 |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-55 |
-| w   |        | hvær               | xPD |                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-55 |
-| w   |        | bekome             | xVB |                |   | bechomer                  | bechomer           |             |   |   |     | dan |   |   |    |        467-55 |
-| w   |        | thæn               | xPD |                |   | deris                     | deri              |             |   |   |     | dan |   |   |    |        467-55 |
-| w   |        | anpart             | xNC |                |   | anpart                    | anpart             |             |   |   |     | dan |   |   |    |        467-55 |
-| w   |        | æfter              | xAV |                |   | epther                    | epther             |             |   |   |     | dan |   |   |    |        467-55 |
-| w   |        | sum                | xRP |                |   | som                       | ſom                |             |   |   |     | dan |   |   |    |        467-55 |
-| w   |        | lathe              | xNC |                |   | laden                     | laden              |             |   |   |     | dan |   |   |    |        467-55 |
-| w   |        | thæn               | xPD |                |   | denom                     | deno              |             |   |   |     | dan |   |   |    |        467-55 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-55 |
+| w   |        | hvær               | xPD | hver               |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-55 |
+| w   |        | bekome             | xVB |  bekommer              |   | bechomer                  | bechomer           |             |   |   |     | dan |   |   |    |        467-55 |
+| w   |        | thæn               | xPD | deres               |   | deris                     | deri              |             |   |   |     | dan |   |   |    |        467-55 |
+| w   |        | anpart             | xNC | anpart               |   | anpart                    | anpart             |             |   |   |     | dan |   |   |    |        467-55 |
+| w   |        | æfter              | xAV | efter               |   | epther                    | epther             |             |   |   |     | dan |   |   |    |        467-55 |
+| w   |        | sum                | xRP | som               |   | som                       | ſom                |             |   |   |     | dan |   |   |    |        467-55 |
+| w   |        | lathe              | xNC | laden               |   | laden                     | laden              |             |   |   |     | dan |   |   |    |        467-55 |
+| w   |        | thæn               | xPD | dem               |   | denom                     | deno              |             |   |   |     | dan |   |   |    |        467-55 |
 | lm  | 467-56 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | til                | xAP |                |   | thiil                     | thiil              |             |   |   |     | dan |   |   |    |        467-56 |
-| w   |        | halde              | xVB |                |   | holt                      | holt               |             |   |   |     | dan |   |   |    |        467-56 |
+| w   |        | til                | xAV | til               |   | thiil                     | thiil              |             |   |   |     | dan |   |   |    |        467-56 |
+| w   |        | halde              | xVB | holdt               |   | holt                      | holt               |             |   |   |     | dan |   |   |    |        467-56 |
 | p   |        | ,                  | XX  |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-56 |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | frantz                    | frantz             |             |   |   |     | dan |   |   |    |        467-56 |
-| w   |        |                    | xNP |                |   | Jørgens(øn)               | Jørgen            |             |   |   |     | dan |   |   |    |        467-56 |
+| w   |        |                    | xNP | Franz               |   | frantz                    | frantz             |             |   |   |     | dan |   |   |    |        467-56 |
+| w   |        |                    | xNP | Jørgensen               |   | Jørgens(øn)               | Jørgen            |             |   |   |     | dan |   |   |    |        467-56 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | hans                      | han               |             |   |   |     | dan |   |   |    |        467-56 |
-| w   |        |                    | xNP |                |   | ols(øn)                   | ol                |             |   |   |     | dan |   |   |    |        467-56 |
+| w   |        |                    | xNP | Hans               |   | hans                      | han               |             |   |   |     | dan |   |   |    |        467-56 |
+| w   |        |                    | xNP | Olsen               |   | ols(øn)                   | ol                |             |   |   |     | dan |   |   |    |        467-56 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-56 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-56 |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | oluff                     | olŭff              |             |   |   |     | dan |   |   |    |        467-56 |
-| w   |        |                    | xNP |                |   | anders(øn)                | ander             |             |   |   |     | dan |   |   |    |        467-56 |
+| w   |        |                    | xNP | Oluf               |   | oluff                     | olŭff              |             |   |   |     | dan |   |   |    |        467-56 |
+| w   |        |                    | xNP | Andersen               |   | anders(øn)                | ander             |             |   |   |     | dan |   |   |    |        467-56 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | tilkome            | xVB |                |   | thiil ko(m)mir            | thiil ko̅mir        |             |   |   |     | dan |   |   |    |        467-56 |
+| w   |        | tilkome            | xVB | tilkommer               |   | thiil ko(m)mir            | thiil ko̅mir        |             |   |   |     | dan |   |   |    |        467-56 |
 | lm  | 467-57 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | thæn               | xAT |                |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-57 |
-| w   |        | anner              | xPD |                |   | anden                     | anden              |             |   |   |     | dan |   |   |    |        467-57 |
-| w   |        | bol                | xNC |                |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-57 |
-| w   |        | i                  | xAP |                |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-57 |
-| w   |        | sunder             | xAJ |                |   | Sindder                   | indder            |             |   |   |     | dan |   |   |    |        467-57 |
-| w   |        | thær               | xAV |                |   | der                       | der                |             |   |   |     | dan |   |   |    |        467-57 |
-| w   |        | næst               | xAV |                |   | nest                      | neſt               |             |   |   |     | dan |   |   |    |        467-57 |
-| w   |        | uptil              | xAP |                |   | opthiil                   | opthiil            |             |   |   |     | dan |   |   |    |        467-57 |
+| w   |        | thæn               | xAT | den               |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-57 |
+| w   |        | anner              | xPD | anden               |   | anden                     | anden              |             |   |   |     | dan |   |   |    |        467-57 |
+| w   |        | bol                | xNC |  bol              |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-57 |
+| w   |        | i                  | xAP | i               |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-57 |
+| w   |        | sunder             | xAJ | sønder               |   | Sindder                   | indder            |             |   |   |     | dan |   |   |    |        467-57 |
+| w   |        | thær               | xAV | der               |   | der                       | der                |             |   |   |     | dan |   |   |    |        467-57 |
+| w   |        | næst               | xAV | næst               |   | nest                      | neſt               |             |   |   |     | dan |   |   |    |        467-57 |
+| w   |        | uptil              | xAP | optil               |   | opthiil                   | opthiil            |             |   |   |     | dan |   |   |    |        467-57 |
 | p   |        | ,                  | XX  |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-57 |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | Jens                      | Jen               |             |   |   |     | dan |   |   |    |        467-57 |
-| w   |        |                    | xNP |                |   | morthens(øn)              | morthen           |             |   |   |     | dan |   |   |    |        467-57 |
+| w   |        |                    | xNP | Jens               |   | Jens                      | Jen               |             |   |   |     | dan |   |   |    |        467-57 |
+| w   |        |                    | xNP | Mortensen               |   | morthens(øn)              | morthen           |             |   |   |     | dan |   |   |    |        467-57 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | christen                  | chriſten           |             |   |   |     | dan |   |   |    |        467-57 |
+| w   |        |                    | xNP | Christian               |   | christen                  | chriſten           |             |   |   |     | dan |   |   |    |        467-57 |
 | lm  | 467-58 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | Jiunde                    | Jiŭnde             |             |   |   |     | dan |   |   |    |        467-58 |
+| w   |        |                    | xNP | Jiunde               |   | Jiunde                    | Jiŭnde             |             |   |   |     | dan |   |   |    |        467-58 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | mons                      | mon               |             |   |   |     | dan |   |   |    |        467-58 |
-| w   |        |                    | xNP |                |   | laffris(øn)               | laffri            |             |   |   |     | dan |   |   |    |        467-58 |
+| w   |        |                    | xNP | Mogens               |   | mons                      | mon               |             |   |   |     | dan |   |   |    |        467-58 |
+| w   |        |                    | xNP | Lauridsen               |   | laffris(øn)               | laffri            |             |   |   |     | dan |   |   |    |        467-58 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | per                       | per                |             |   |   |     | dan |   |   |    |        467-58 |
-| w   |        |                    | xNP |                |   | knuds(øn)                 | knŭd              |             |   |   |     | dan |   |   |    |        467-58 |
+| w   |        |                    | xNP | Per               |   | per                       | per                |             |   |   |     | dan |   |   |    |        467-58 |
+| w   |        |                    | xNP | Knudsen               |   | knuds(øn)                 | knŭd              |             |   |   |     | dan |   |   |    |        467-58 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-58 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-58 |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-58 |
-| w   |        |                    | xNP |                |   | bundde                    | bŭndde             |             |   |   |     | dan |   |   |    |        467-58 |
+| w   |        |                    | xNP | Peder               |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-58 |
+| w   |        |                    | xNP | Bonde               |   | bundde                    | bŭndde             |             |   |   |     | dan |   |   |    |        467-58 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | tilkome            | xNP |                |   | thiil komer               | thiil komer        |             |   |   |     | dan |   |   |    |        467-58 |
-| w   |        | thæn               | xAT |                |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-58 |
+| w   |        | tilkome            | xNP | tilkommer               |   | thiil komer               | thiil komer        |             |   |   |     | dan |   |   |    |        467-58 |
+| w   |        | thæn               | xAT | den               |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-58 |
 | lm  | 467-59 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | thrithje           | xNO |                |   | triidde                   | triidde            |             |   |   |     | dan |   |   |    |        467-59 |
-| w   |        | bol                | xNC |                |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-59 |
+| w   |        | thrithje           | xNO | tredje               |   | triidde                   | triidde            |             |   |   |     | dan |   |   |    |        467-59 |
+| w   |        | bol                | xNC | bol               |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-59 |
 | p   |        | ,                  | XX  |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-59 |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | mons                      | mon               |             |   |   |     | dan |   |   |    |        467-59 |
-| w   |        |                    | xNP |                |   | laffris(øn)               | laffri            |             |   |   |     | dan |   |   |    |        467-59 |
+| w   |        |                    | xNP | Mogens               |   | mons                      | mon               |             |   |   |     | dan |   |   |    |        467-59 |
+| w   |        |                    | xNP | Lauridsen               |   | laffris(øn)               | laffri            |             |   |   |     | dan |   |   |    |        467-59 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-59 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-59 |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-59 |
-| w   |        |                    | xNP |                |   | knuds(øn)                 | knŭd              |             |   |   |     | dan |   |   |    |        467-59 |
+| w   |        |                    | xNP | Peder               |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-59 |
+| w   |        |                    | xNP | Knudsen               |   | knuds(øn)                 | knŭd              |             |   |   |     | dan |   |   |    |        467-59 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | tilkome            | xVB |                |   | thiil komir               | thiil komir        |             |   |   |     | dan |   |   |    |        467-59 |
-| w   |        | thæn               | xAT |                |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-59 |
-| w   |        | fjarthe            | xNO |                |   | fierdde                   | fierdde            |             |   |   |     | dan |   |   |    |        467-59 |
+| w   |        | tilkome            | xVB | tilkommer               |   | thiil komir               | thiil komir        |             |   |   |     | dan |   |   |    |        467-59 |
+| w   |        | thæn               | xAT | den               |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-59 |
+| w   |        | fjarthe            | xNO | fjerde               |   | fierdde                   | fierdde            |             |   |   |     | dan |   |   |    |        467-59 |
 | lm  | 467-60 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | bol                | xNC |                |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-60 |
+| w   |        | bol                | xNC | bol               |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-60 |
 | p   |        | ,                  | XX  |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-60 |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-60 |
-| w   |        |                    | xNP |                |   | nilsen                    | nilſen             |             |   |   |     | dan |   |   |    |        467-60 |
+| w   |        |                    | xNP | Peder               |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-60 |
+| w   |        |                    | xNP | Nielse               |   | nilsen                    | nilſen             |             |   |   |     | dan |   |   |    |        467-60 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-60 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-60 |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | laffris                   | laffri            |             |   |   |     | dan |   |   |    |        467-60 |
-| w   |        |                    | xNP |                |   | mons(øn)                  | mon               |             |   |   |     | dan |   |   |    |        467-60 |
+| w   |        |                    | xNP | Laurids               |   | laffris                   | laffri            |             |   |   |     | dan |   |   |    |        467-60 |
+| w   |        |                    | xNP | Mogensen               |   | mons(øn)                  | mon               |             |   |   |     | dan |   |   |    |        467-60 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | tilkome            | xVB |                |   | thiil komir               | thiil komir        |             |   |   |     | dan |   |   |    |        467-60 |
-| w   |        | thæn               | xAT |                |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-60 |
-| w   |        | fæmte              | xNO |                |   | femptte                   | femptte            |             |   |   |     | dan |   |   |    |        467-60 |
-| w   |        | bol                | xNC |                |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-60 |
+| w   |        | tilkome            | xVB | tilkommer               |   | thiil komir               | thiil komir        |             |   |   |     | dan |   |   |    |        467-60 |
+| w   |        | thæn               | xAT | den               |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-60 |
+| w   |        | fæmte              | xNO | femte               |   | femptte                   | femptte            |             |   |   |     | dan |   |   |    |        467-60 |
+| w   |        | bol                | xNC | bol               |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-60 |
 | lm  | 467-61 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | Niels                     | Niel              |             |   |   |     | dan |   |   |    |        467-61 |
-| w   |        |                    | xNP |                |   | Jørgens(øn)               | Jørgen            |             |   |   |     | dan |   |   |    |        467-61 |
+| w   |        |                    | xNP | Niels               |   | Niels                     | Niel              |             |   |   |     | dan |   |   |    |        467-61 |
+| w   |        |                    | xNP | Jørgensen               |   | Jørgens(øn)               | Jørgen            |             |   |   |     | dan |   |   |    |        467-61 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-61 |
-| w   |        |                    | xNP |                |   | bundde                    | bŭndde             |             |   |   |     | dan |   |   |    |        467-61 |
+| w   |        |                    | xNP | Peder               |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-61 |
+| w   |        |                    | xNP | Bonde               |   | bundde                    | bŭndde             |             |   |   |     | dan |   |   |    |        467-61 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | ok                 | xAV |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-61 |
+| w   |        | ok                 | xAV | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-61 |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | oluff                     | olŭff              |             |   |   |     | dan |   |   |    |        467-61 |
-| w   |        |                    | xNP |                |   | ips(øn)                   | ip                |             |   |   |     | dan |   |   |    |        467-61 |
+| w   |        |                    | xNP | Oluf               |   | oluff                     | olŭff              |             |   |   |     | dan |   |   |    |        467-61 |
+| w   |        |                    | xNP | Ipsen               |   | ips(øn)                   | ip                |             |   |   |     | dan |   |   |    |        467-61 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | tilkome            | xVB |                |   | thiil komir               | thiil komir        |             |   |   |     | dan |   |   |    |        467-61 |
-| w   |        | thæn               | xAT |                |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-61 |
-| w   |        | sjatte             | xNO |                |   | Siette                    | iette             |             |   |   |     | dan |   |   |    |        467-61 |
+| w   |        | tilkome            | xVB | tilkommer               |   | thiil komir               | thiil komir        |             |   |   |     | dan |   |   |    |        467-61 |
+| w   |        | thæn               | xAT | den               |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-61 |
+| w   |        | sjatte             | xNO | sjette               |   | Siette                    | iette             |             |   |   |     | dan |   |   |    |        467-61 |
 | lm  | 467-62 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | bol                | xNC |                |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-62 |
-| w   |        | north              | xAJ |                |   | Nordist                   | Nordiſt            |             |   |   |     | dan |   |   |    |        467-62 |
-| w   |        | up                 | xAV |                |   | op                        | op                 |             |   |   |     | dan |   |   |    |        467-62 |
-| w   |        | til                | xAP |                |   | thiil                     | thiil              |             |   |   |     | dan |   |   |    |        467-62 |
+| w   |        | bol                | xNC | bol               |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-62 |
+| w   |        | north              | xAJ | nordest               |   | Nordist                   | Nordiſt            |             |   |   |     | dan |   |   |    |        467-62 |
+| w   |        | up                 | xAV | op               |   | op                        | op                 |             |   |   |     | dan |   |   |    |        467-62 |
+| w   |        | til                | xAP | til               |   | thiil                     | thiil              |             |   |   |     | dan |   |   |    |        467-62 |
 | PL  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | asø                       | aſø                |             |   |   |     | dan |   |   |    |        467-62 |
-| w   |        | skogh              | xNC |                |   | skuff                     | ſkŭff              |             |   |   |     | dan |   |   |    |        467-62 |
+| w   |        |                    | xNP | Åsø               |   | asø                       | aſø                |             |   |   |     | dan |   |   |    |        467-62 |
+| w   |        | skogh              | xNC | skov               |   | skuff                     | ſkŭff              |             |   |   |     | dan |   |   |    |        467-62 |
 | PL  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | p   |        | ,                  | XX  |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-62 |
-| w   |        | ut                 | xAV |                |   | ud                        | ŭd                 |             |   |   |     | dan |   |   |    |        467-62 |
-| w   |        | i                  | xAP |                |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-62 |
-| w   |        | like               | xAJ |                |   | liige                     | liige              |             |   |   |     | dan |   |   |    |        467-62 |
-| w   |        | mate               | xNC |                |   | Maade                     | Maade              |             |   |   |     | dan |   |   |    |        467-62 |
-| w   |        | skifte             | xVB |                |   | skiifftt                  | ſkiifftt           |             |   |   |     | dan |   |   |    |        467-62 |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-62 |
-| w   |        | repe               | xVB |                |   | rebpt                     | rebpt              |             |   |   |     | dan |   |   |    |        467-62 |
+| w   |        | ut                 | xAV | ud               |   | ud                        | ŭd                 |             |   |   |     | dan |   |   |    |        467-62 |
+| w   |        | i                  | xAP | i               |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-62 |
+| w   |        | like               | xAJ | lige               |   | liige                     | liige              |             |   |   |     | dan |   |   |    |        467-62 |
+| w   |        | mate               | xNC | måde               |   | Maade                     | Maade              |             |   |   |     | dan |   |   |    |        467-62 |
+| w   |        | skifte             | xVB | skiftet               |   | skiifftt                  | ſkiifftt           |             |   |   |     | dan |   |   |    |        467-62 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-62 |
+| w   |        | repe               | xVB | rebet               |   | rebpt                     | rebpt              |             |   |   |     | dan |   |   |    |        467-62 |
 | lm  | 467-63 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | en                 | xAT |                |   | itt                       | itt                |             |   |   |     | dan |   |   |    |        467-63 |
-| w   |        | høveth             | xNC |                |   | høffde                    | høffde             |             |   |   |     | dan |   |   |    |        467-63 |
-| w   |        | mal                | xNC |                |   | maal                      | maal               |             |   |   |     | dan |   |   |    |        467-63 |
-| w   |        | østen              | xAJ |                |   | østen                     | øſten              |             |   |   |     | dan |   |   |    |        467-63 |
-| w   |        | up                 | xAV |                |   | op                        | op                 |             |   |   |     | dan |   |   |    |        467-63 |
-| w   |        | til                | xAP |                |   | thiil                     | thiil              |             |   |   |     | dan |   |   |    |        467-63 |
-| w   |        | skogh              | xNC |                |   | skuffwin                  | ſkŭffwin           |             |   |   |     | dan |   |   |    |        467-63 |
+| w   |        | en                 | xAT | et               |   | itt                       | itt                |             |   |   |     | dan |   |   |    |        467-63 |
+| w   |        | høveth             | xNC | høved               |   | høffde                    | høffde             |             |   |   |     | dan |   |   |    |        467-63 |
+| w   |        | mal                | xNC | mål               |   | maal                      | maal               |             |   |   |     | dan |   |   |    |        467-63 |
+| w   |        | østen              | xAJ | østen               |   | østen                     | øſten              |             |   |   |     | dan |   |   |    |        467-63 |
+| w   |        | up                 | xAV | op               |   | op                        | op                 |             |   |   |     | dan |   |   |    |        467-63 |
+| w   |        | til                | xAP | til               |   | thiil                     | thiil              |             |   |   |     | dan |   |   |    |        467-63 |
+| w   |        | skogh              | xNC | skoven               |   | skuffwin                  | ſkŭffwin           |             |   |   |     | dan |   |   |    |        467-63 |
 | p   |        | ,                  | XX  |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-63 |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-63 |
-| w   |        | ut                 | xAV |                |   | ud                        | ŭd                 |             |   |   |     | dan |   |   |    |        467-63 |
-| w   |        | i                  | xAP |                |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-63 |
-| w   |        | sæks               | xNA |                |   | Sexs                      | ex               |             |   |   |     | dan |   |   |    |        467-63 |
-| w   |        | bol                | xNC |                |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-63 |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-63 |
-| w   |        | blive              | xVB |                |   | bliff                     | bliff              |             |   |   |     | dan |   |   |    |        467-63 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-63 |
+| w   |        | ut                 | xAV | ud               |   | ud                        | ŭd                 |             |   |   |     | dan |   |   |    |        467-63 |
+| w   |        | i                  | xAP | i               |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-63 |
+| w   |        | sæks               | xNA | seks               |   | Sexs                      | ex               |             |   |   |     | dan |   |   |    |        467-63 |
+| w   |        | bol                | xNC | bol               |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-63 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-63 |
+| w   |        | blive              | xVB | skov               |   | bliff                     | bliff              |             |   |   |     | dan |   |   |    |        467-63 |
 | lm  | 467-64 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | pæl                | xNC |                |   | pele                      | pele               |             |   |   |     | dan |   |   |    |        467-64 |
-| w   |        | sla                | xVB |                |   | Slagin                    | lagin             |             |   |   |     | dan |   |   |    |        467-64 |
-| w   |        | mællem             | xAP |                |   | mellom                    | mellom             |             |   |   |     | dan |   |   |    |        467-64 |
-| w   |        | hvær               | xPD |                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-64 |
-| w   |        | bol                | xNC |                |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-64 |
+| w   |        | pæl                | xNC | pæle               |   | pele                      | pele               |             |   |   |     | dan |   |   |    |        467-64 |
+| w   |        | sla                | xVB | slagen               |   | Slagin                    | lagin             |             |   |   |     | dan |   |   |    |        467-64 |
+| w   |        | mællem             | xAP | mellem               |   | mellom                    | mellom             |             |   |   |     | dan |   |   |    |        467-64 |
+| w   |        | hvær               | xPD | hver               |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-64 |
+| w   |        | bol                | xNC | bol               |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-64 |
 | p   |        | ,                  | XX  |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-64 |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-64 |
-| w   |        | holt               | xNC |                |   | holt                      | holt               |             |   |   |     | dan |   |   |    |        467-64 |
-| w   |        | ud                 | xAV |                |   | ud                        | ŭd                 |             |   |   |     | dan |   |   |    |        467-64 |
-| w   |        | i                  | xAP |                |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-64 |
-| w   |        | bol                | xNC |                |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-64 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-64 |
+| w   |        | holt               | xNC | holt               |   | holt                      | holt               |             |   |   |     | dan |   |   |    |        467-64 |
+| w   |        | ud                 | xAV | ud               |   | ud                        | ŭd                 |             |   |   |     | dan |   |   |    |        467-64 |
+| w   |        | i                  | xAP | i               |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-64 |
+| w   |        | bol                | xNC | bol               |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-64 |
 | w   |        |                    | XX  |                |   | Samil                     | amil              |             |   |   |     | dan |   |   |    |        467-64 |
-| w   |        | sum                | xRP |                |   | som                       | ſom                |             |   |   |     | dan |   |   |    |        467-64 |
-| w   |        | hæræfter           | xAV |                |   | her¦epther                | her¦epther         |             |   |   |     | dan |   |   |    | 467-64—467-65 |
-| w   |        | fylghje            | xVB |                |   | følger                    | følger             |             |   |   |     | dan |   |   |    |        467-65 |
+| w   |        | sum                | xRP | som               |   | som                       | ſom                |             |   |   |     | dan |   |   |    |        467-64 |
+| w   |        | hæræfter           | xAV | herefter               |   | her¦epther                | her¦epther         |             |   |   |     | dan |   |   |    | 467-64—467-65 |
+| w   |        | fylghje            | xVB | følger               |   | følger                    | følger             |             |   |   |     | dan |   |   |    |        467-65 |
 | p   |        | ,                  | XX  |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-65 |
-| w   |        | thæn               | xAT |                |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-65 |
-| w   |        | sunder             | xAJ |                |   | Sinirste                  | inirſte           |             |   |   |     | dan |   |   |    |        467-65 |
-| w   |        | bol                | xNC |                |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-65 |
-| w   |        | æfter              | xAP |                |   | epther                    | epther             |             |   |   |     | dan |   |   |    |        467-65 |
-| w   |        | lathe              | xNC |                |   | laaden                    | laaden             |             |   |   |     | dan |   |   |    |        467-65 |
-| w   |        | tilkome            | xVB |                |   | thiil kom                 | thiil ko          |             |   |   |     | dan |   |   |    |        467-65 |
+| w   |        | thæn               | xAT | den               |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-65 |
+| w   |        | sunder             | xAJ | sønderste               |   | Sinirste                  | inirſte           |             |   |   |     | dan |   |   |    |        467-65 |
+| w   |        | bol                | xNC | bol               |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-65 |
+| w   |        | æfter              | xAP | efter               |   | epther                    | epther             |             |   |   |     | dan |   |   |    |        467-65 |
+| w   |        | lathe              | xNC | laden               |   | laaden                    | laaden             |             |   |   |     | dan |   |   |    |        467-65 |
+| w   |        | tilkome            | xVB | tilkom               |   | thiil kom                 | thiil ko          |             |   |   |     | dan |   |   |    |        467-65 |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | Nils                      | Nil               |             |   |   |     | dan |   |   |    |        467-65 |
-| w   |        |                    | xNP |                |   | Jøri(n)s(øn)              | Jøri̅              |             |   |   |     | dan |   |   |    |        467-65 |
+| w   |        |                    | xNP | Niels               |   | Nils                      | Nil               |             |   |   |     | dan |   |   |    |        467-65 |
+| w   |        |                    | xNP | Jørgensen               |   | Jøri(n)s(øn)              | Jøri̅              |             |   |   |     | dan |   |   |    |        467-65 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | lm  | 467-66 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-66 |
-| w   |        |                    | xNP |                |   | bundde                    | bŭndde             |             |   |   |     | dan |   |   |    |        467-66 |
+| w   |        |                    | xNP | Peder               |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-66 |
+| w   |        |                    | xNP | Bonde               |   | bundde                    | bŭndde             |             |   |   |     | dan |   |   |    |        467-66 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-66 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-66 |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | oluff                     | olŭff              |             |   |   |     | dan |   |   |    |        467-66 |
-| w   |        |                    | xNP |                |   | ips(øn)                   | ip                |             |   |   |     | dan |   |   |    |        467-66 |
+| w   |        |                    | xNP | Oluf               |   | oluff                     | olŭff              |             |   |   |     | dan |   |   |    |        467-66 |
+| w   |        |                    | xNP | Ipsen               |   | ips(øn)                   | ip                |             |   |   |     | dan |   |   |    |        467-66 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | p   |        | ,                  | XX  |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-66 |
-| w   |        | næst               | xAV |                |   | Nest                      | Neſt               |             |   |   |     | dan |   |   |    |        467-66 |
-| w   |        | up                 | xAV |                |   | op                        | op                 |             |   |   |     | dan |   |   |    |        467-66 |
-| w   |        | til                | xAP |                |   | tiil                      | tiil               |             |   |   |     | dan |   |   |    |        467-66 |
-| w   |        | yver               | xAV |                |   | øffer                     | øffer              |             |   |   |     | dan |   |   |    |        467-66 |
-| w   |        | skogh              | xNC |                |   | skuffs                    | ſkŭff             |             |   |   |     | dan |   |   |    |        467-66 |
-| w   |        | gærthe             | xNC |                |   | gierde                    | gierde             |             |   |   |     | dan |   |   |    |        467-66 |
+| w   |        | næst               | xAV | næst               |   | Nest                      | Neſt               |             |   |   |     | dan |   |   |    |        467-66 |
+| w   |        | up                 | xAV | op               |   | op                        | op                 |             |   |   |     | dan |   |   |    |        467-66 |
+| w   |        | til                | xAP | til               |   | tiil                      | tiil               |             |   |   |     | dan |   |   |    |        467-66 |
+| w   |        | yver               | xAV | over               |   | øffer                     | øffer              |             |   |   |     | dan |   |   |    |        467-66 |
+| w   |        | skogh              | xNC | skovs               |   | skuffs                    | ſkŭff             |             |   |   |     | dan |   |   |    |        467-66 |
+| w   |        | gærthe             | xNC | gærde               |   | gierde                    | gierde             |             |   |   |     | dan |   |   |    |        467-66 |
 | p   |        | ,                  | XX  |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-66 |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | frans                     | fran              |             |   |   |     | dan |   |   |    |        467-66 |
+| w   |        |                    | xNP | Franz               |   | frans                     | fran              |             |   |   |     | dan |   |   |    |        467-66 |
 | lm  | 467-67 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | Jørins(øn)                | Jørin             |             |   |   |     | dan |   |   |    |        467-67 |
+| w   |        |                    | xNP | Jørgensen               |   | Jørins(øn)                | Jørin             |             |   |   |     | dan |   |   |    |        467-67 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | hans                      | han               |             |   |   |     | dan |   |   |    |        467-67 |
-| w   |        |                    | xNP |                |   | ols(øn)                   | ol                |             |   |   |     | dan |   |   |    |        467-67 |
+| w   |        |                    | xNP | Hans               |   | hans                      | han               |             |   |   |     | dan |   |   |    |        467-67 |
+| w   |        |                    | xNP | Olsen               |   | ols(øn)                   | ol                |             |   |   |     | dan |   |   |    |        467-67 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-67 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-67 |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | oluff                     | olŭff              |             |   |   |     | dan |   |   |    |        467-67 |
-| w   |        |                    | xNP |                |   | anders(øn)                | ander             |             |   |   |     | dan |   |   |    |        467-67 |
+| w   |        |                    | xNP | Oluf               |   | oluff                     | olŭff              |             |   |   |     | dan |   |   |    |        467-67 |
+| w   |        |                    | xNP | Andersen               |   | anders(øn)                | ander             |             |   |   |     | dan |   |   |    |        467-67 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | tilkome            | xVB |                |   | thiil komir               | thiil komir        |             |   |   |     | dan |   |   |    |        467-67 |
-| w   |        | thæn               | xAT |                |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-67 |
-| w   |        | anner              | xPD |                |   | anden                     | anden              |             |   |   |     | dan |   |   |    |        467-67 |
-| w   |        | bol                | xNC |                |   | boeel                     | boeel              |             |   |   |     | dan |   |   |    |        467-67 |
+| w   |        | tilkome            | xVB | tilkommer               |   | thiil komir               | thiil komir        |             |   |   |     | dan |   |   |    |        467-67 |
+| w   |        | thæn               | xAT | den               |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-67 |
+| w   |        | anner              | xPD | anden               |   | anden                     | anden              |             |   |   |     | dan |   |   |    |        467-67 |
+| w   |        | bol                | xNC | bol               |   | boeel                     | boeel              |             |   |   |     | dan |   |   |    |        467-67 |
 | p   |        | :                  | XX  |                |   | :                         | :                  |             |   |   |     | dan |   |   |    |        467-67 |
 | pb  | 467-68 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | Peder                     | Peder              |             |   |   |     | dan |   |   |    |        467-68 |
-| w   |        |                    | xNP |                |   | Jørins(øn)                | Jørin             |             |   |   |     | dan |   |   |    |        467-68 |
+| w   |        |                    | xNP | Peder               |   | Peder                     | Peder              |             |   |   |     | dan |   |   |    |        467-68 |
+| w   |        |                    | xNP | Jørgensen               |   | Jørins(øn)                | Jørin             |             |   |   |     | dan |   |   |    |        467-68 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-68 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-68 |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | laffris                   | laffri            |             |   |   |     | dan |   |   |    |        467-68 |
-| w   |        |                    | xNP |                |   | Nils(øn)                  | Nil               |             |   |   |     | dan |   |   |    |        467-68 |
+| w   |        |                    | xNP | Laurids               |   | laffris                   | laffri            |             |   |   |     | dan |   |   |    |        467-68 |
+| w   |        |                    | xNP | Nielsen               |   | Nils(øn)                  | Nil               |             |   |   |     | dan |   |   |    |        467-68 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | tilkome            | xAP |                |   | thiil komir               | thiil komir        |             |   |   |     | dan |   |   |    |        467-68 |
-| w   |        | thæn               | xAT |                |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-68 |
-| w   |        | thrithje           | xNO |                |   | triidde                   | triidde            |             |   |   |     | dan |   |   |    |        467-68 |
-| w   |        | bol                | xNC |                |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-68 |
+| w   |        | tilkome            | xAP | tilkommer               |   | thiil komir               | thiil komir        |             |   |   |     | dan |   |   |    |        467-68 |
+| w   |        | thæn               | xAT | den               |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-68 |
+| w   |        | thrithje           | xNO | tredje               |   | triidde                   | triidde            |             |   |   |     | dan |   |   |    |        467-68 |
+| w   |        | bol                | xNC | bol               |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-68 |
 | p   |        | ,                  | XX  |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-68 |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | Jens                      | Jen               |             |   |   |     | dan |   |   |    |        467-68 |
-| w   |        |                    | xNP |                |   | morthens(øn)              | morthen           |             |   |   |     | dan |   |   |    |        467-68 |
+| w   |        |                    | xNP | Jens               |   | Jens                      | Jen               |             |   |   |     | dan |   |   |    |        467-68 |
+| w   |        |                    | xNP | Mortensen               |   | morthens(øn)              | morthen           |             |   |   |     | dan |   |   |    |        467-68 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | lm  | 467-69 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | christen                  | chriſten           |             |   |   |     | dan |   |   |    |        467-69 |
-| w   |        |                    | xNP |                |   | Jiude                     | Jiŭde              |             |   |   |     | dan |   |   |    |        467-69 |
+| w   |        |                    | xNP | Christian               |   | christen                  | chriſten           |             |   |   |     | dan |   |   |    |        467-69 |
+| w   |        |                    | xNP | Jiude               |   | Jiude                     | Jiŭde              |             |   |   |     | dan |   |   |    |        467-69 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | Mons                      | Mon               |             |   |   |     | dan |   |   |    |        467-69 |
-| w   |        |                    | xNP |                |   | laffris(øn)               | laffri            |             |   |   |     | dan |   |   |    |        467-69 |
+| w   |        |                    | xNP | Mogens               |   | Mons                      | Mon               |             |   |   |     | dan |   |   |    |        467-69 |
+| w   |        |                    | xNP | Lauridsen               |   | laffris(øn)               | laffri            |             |   |   |     | dan |   |   |    |        467-69 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-69 |
-| w   |        |                    | xNP |                |   | knuds(øn)                 | knŭd              |             |   |   |     | dan |   |   |    |        467-69 |
+| w   |        |                    | xNP | Peder               |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-69 |
+| w   |        |                    | xNP | Knudsen               |   | knuds(øn)                 | knŭd              |             |   |   |     | dan |   |   |    |        467-69 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-69 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-69 |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-69 |
-| w   |        |                    | xNP |                |   | bunde                     | bŭnde              |             |   |   |     | dan |   |   |    |        467-69 |
+| w   |        |                    | xNP | Peder               |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-69 |
+| w   |        |                    | xNP | Bonde               |   | bunde                     | bŭnde              |             |   |   |     | dan |   |   |    |        467-69 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | tilkome            | xVB |                |   | thiil¦komir               | thiil¦komir        |             |   |   |     | dan |   |   |    | 467-69—467-70 |
-| w   |        | thæn               | xAT |                |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-70 |
-| w   |        | fjarthe            | xNO |                |   | fierde                    | fierde             |             |   |   |     | dan |   |   |    |        467-70 |
-| w   |        | bol                | xNC |                |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-70 |
+| w   |        | tilkome            | xVB | tilkommer               |   | thiil¦komir               | thiil¦komir        |             |   |   |     | dan |   |   |    | 467-69—467-70 |
+| w   |        | thæn               | xAT | den               |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-70 |
+| w   |        | fjarthe            | xNO | fjerde               |   | fierde                    | fierde             |             |   |   |     | dan |   |   |    |        467-70 |
+| w   |        | bol                | xNC | bol               |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-70 |
 | p   |        | ,                  | XX  |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-70 |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-70 |
-| w   |        |                    | xNP |                |   | nils(øn)                  | nil               |             |   |   |     | dan |   |   |    |        467-70 |
+| w   |        |                    | xNP | Peder               |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-70 |
+| w   |        |                    | xNP | Nielsen               |   | nils(øn)                  | nil               |             |   |   |     | dan |   |   |    |        467-70 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-70 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-70 |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | mons                      | mon               |             |   |   |     | dan |   |   |    |        467-70 |
-| w   |        |                    | xNP |                |   | laffris(øn)               | laffri            |             |   |   |     | dan |   |   |    |        467-70 |
+| w   |        |                    | xNP | Mogens               |   | mons                      | mon               |             |   |   |     | dan |   |   |    |        467-70 |
+| w   |        |                    | xNP | Lauridsen               |   | laffris(øn)               | laffri            |             |   |   |     | dan |   |   |    |        467-70 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | tilkome            | xVB |                |   | thiil komir               | thiil komir        |             |   |   |     | dan |   |   |    |        467-70 |
+| w   |        | tilkome            | xVB | tilkommer               |   | thiil komir               | thiil komir        |             |   |   |     | dan |   |   |    |        467-70 |
 | p   |        | ,                  | XX  |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-70 |
 | lm  | 467-71 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | thæn               | xAT |                |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-71 |
-| w   |        | fæmte              | xNO |                |   | femptte                   | femptte            |             |   |   |     | dan |   |   |    |        467-71 |
-| w   |        | bol                | xNC |                |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-71 |
+| w   |        | thæn               | xAT | den               |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-71 |
+| w   |        | fæmte              | xNO | femte               |   | femptte                   | femptte            |             |   |   |     | dan |   |   |    |        467-71 |
+| w   |        | bol                | xNC | bol               |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-71 |
 | p   |        | ,                  | XX  |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-71 |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-71 |
-| w   |        | thænne             | xDD |                |   | then                      | then               |             |   |   |     | dan |   |   |    |        467-71 |
-| w   |        | north              | xAJ |                |   | Nordiste                  | Nordiſte           |             |   |   |     | dan |   |   |    |        467-71 |
-| w   |        | bol                | xNC |                |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-71 |
-| w   |        | tilkome            | xVB |                |   | thiil komir               | thiil komir        |             |   |   |     | dan |   |   |    |        467-71 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-71 |
+| w   |        | thænne             | xDD | den               |   | then                      | then               |             |   |   |     | dan |   |   |    |        467-71 |
+| w   |        | north              | xAJ | nordeste               |   | Nordiste                  | Nordiſte           |             |   |   |     | dan |   |   |    |        467-71 |
+| w   |        | bol                | xNC | bol               |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-71 |
+| w   |        | tilkome            | xVB | tilkommer               |   | thiil komir               | thiil komir        |             |   |   |     | dan |   |   |    |        467-71 |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | mons                      | mon               |             |   |   |     | dan |   |   |    |        467-71 |
-| w   |        |                    | xNP |                |   | laff¦risen                | laff¦riſen         |             |   |   |     | dan |   |   |    | 467-71—467-72 |
+| w   |        |                    | xNP | Mogens               |   | mons                      | mon               |             |   |   |     | dan |   |   |    |        467-71 |
+| w   |        |                    | xNP | Lauridsen               |   | laff¦risen                | laff¦riſen         |             |   |   |     | dan |   |   |    | 467-71—467-72 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-72 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-72 |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-72 |
-| w   |        |                    | xNP |                |   | knuds(øn)                 | knŭd              |             |   |   |     | dan |   |   |    |        467-72 |
+| w   |        |                    | xNP | Peder               |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-72 |
+| w   |        |                    | xNP | Knudsen               |   | knuds(øn)                 | knŭd              |             |   |   |     | dan |   |   |    |        467-72 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | p   |        | ,                  | XX  |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-72 |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-72 |
-| w   |        | upa                | xAV |                |   | pa                        | pa                 |             |   |   |     | dan |   |   |    |        467-72 |
-| w   |        | thænne             | xDD |                |   | disse                     | diſſe              |             |   |   |     | dan |   |   |    |        467-72 |
-| w   |        | orth               | xNC |                |   | ord                       | ord                |             |   |   |     | dan |   |   |    |        467-72 |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-72 |
-| w   |        | artikel            | xNC |                |   | arthikil                  | arthikil           |             |   |   |     | dan |   |   |    |        467-72 |
-| w   |        | bithje             | xVB |                |   | bedes                     | bede              |             |   |   |     | dan |   |   |    |        467-72 |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-72 |
-| w   |        | fa                 | xVB |                |   | fik                       | fik                |             |   |   |     | dan |   |   |    |        467-72 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-72 |
+| w   |        | upa                | xAV | på               |   | pa                        | pa                 |             |   |   |     | dan |   |   |    |        467-72 |
+| w   |        | thænne             | xDD | disse               |   | disse                     | diſſe              |             |   |   |     | dan |   |   |    |        467-72 |
+| w   |        | orth               | xNC | ord               |   | ord                       | ord                |             |   |   |     | dan |   |   |    |        467-72 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-72 |
+| w   |        | artikel            | xNC | artikel               |   | arthikil                  | arthikil           |             |   |   |     | dan |   |   |    |        467-72 |
+| w   |        | bithje             | xVB | bedes               |   | bedes                     | bede              |             |   |   |     | dan |   |   |    |        467-72 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-72 |
+| w   |        | fa                 | xVB | fik               |   | fik                       | fik                |             |   |   |     | dan |   |   |    |        467-72 |
 | lm  | 467-73 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | ærlik              | xAJ |                |   | Erlige                    | Erlige             |             |   |   |     | dan |   |   |    |        467-73 |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-73 |
-| w   |        | vælforstandigh     | xAJ |                |   | welforstandiige           | welfortandiige    |             |   |   |     | dan |   |   |    |        467-73 |
-| w   |        | man                | xPD |                |   | mand                      | mand               |             |   |   |     | dan |   |   |    |        467-73 |
+| w   |        | ærlik              | xAJ | ærlige               |   | Erlige                    | Erlige             |             |   |   |     | dan |   |   |    |        467-73 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-73 |
+| w   |        | vælforstandigh     | xAJ | velforstandige               |   | welforstandiige           | welfortandiige    |             |   |   |     | dan |   |   |    |        467-73 |
+| w   |        | man                | xPD | mand               |   | mand                      | mand               |             |   |   |     | dan |   |   |    |        467-73 |
 | de  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | man                | xPD |                |   | mand                      | mand               |             |   |   |     | dan |   |   |    |        467-73 |
+| w   |        | man                | xPD | mand               |   | mand                      | mand               |             |   |   |     | dan |   |   |    |        467-73 |
 | de  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | Nils                      | Nil               |             |   |   |     | dan |   |   |    |        467-73 |
-| w   |        |                    | xNP |                |   | skriffwere                | ſkriffwere         |             |   |   |     | dan |   |   |    |        467-73 |
+| w   |        |                    | xNP | Niels               |   | Nils                      | Nil               |             |   |   |     | dan |   |   |    |        467-73 |
+| w   |        |                    | xNP | Skriver               |   | skriffwere                | ſkriffwere         |             |   |   |     | dan |   |   |    |        467-73 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | af                 | xAP |                |   | aff                       | aff                |             |   |   |     | dan |   |   |    |        467-73 |
+| w   |        | af                 | xAP | af               |   | aff                       | aff                |             |   |   |     | dan |   |   |    |        467-73 |
 | PL  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | kø¦bing haffwin           | kø¦bing haffwin    |             |   |   |     | dan |   |   |    | 467-73—467-74 |
+| w   |        |                    | xNP | København               |   | kø¦bing haffwin           | kø¦bing haffwin    |             |   |   |     | dan |   |   |    | 467-73—467-74 |
 | PL  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | upa                | xAP |                |   | pa                        | pa                 |             |   |   |     | dan |   |   |    |        467-74 |
+| w   |        | upa                | xAP | på               |   | pa                        | pa                 |             |   |   |     | dan |   |   |    |        467-74 |
 | ad  | b      |                    |     |                |   |                           |                    | supralinear |   |   |     |     |   |   |    |               |
-| w   |        | thæn               | xAT |                |   | di                        | di                 |             |   |   |     | dan |   |   |    |        467-74 |
+| w   |        | thæn               | xAT | de               |   | di                        | di                 |             |   |   |     | dan |   |   |    |        467-74 |
 | ad  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | fornævnd+høgh+lære | xVB |                |   | ⸠for(nefnde)⸡⸝høg⸜ lerdis | ⸠for.ᷠͤ⸡⸝høg⸜ lerdi |             |   |   |     | dan |   |   |    |        467-74 |
-| w   |        | i                  | xAP |                |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-74 |
-| w   |        | fornævnd           | xAJ |                |   | for(nefnde)               | for.ᷠͤ               |             |   |   |     | dan |   |   |    |        467-74 |
+| w   |        | fornævnd+høgh+lære | xVB | fornævnte hæjlærdes               |   | ⸠for(nefnde)⸡⸝høg⸜ lerdis | ⸠for.ᷠͤ⸡⸝høg⸜ lerdi |             |   |   |     | dan |   |   |    |        467-74 |
+| w   |        | i                  | xAP | i               |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-74 |
+| w   |        | fornævnd           | xAJ | fornævnte               |   | for(nefnde)               | for.ᷠͤ               |             |   |   |     | dan |   |   |    |        467-74 |
 | PL  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | købing haffwin            | købing haffwin     |             |   |   |     | dan |   |   |    |        467-74 |
+| w   |        |                    | xNP | København               |   | købing haffwin            | købing haffwin     |             |   |   |     | dan |   |   |    |        467-74 |
 | PL  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | en                 | xAT |                |   | itt                       | itt                |             |   |   |     | dan |   |   |    |        467-74 |
-| w   |        | uvildigh           | xAJ |                |   | uwi¦ligtt                 | ŭwi¦ligtt          |             |   |   |     | dan |   |   |    | 467-74—467-75 |
-| w   |        | thing              | xNC |                |   | things                    | thing             |             |   |   |     | dan |   |   |    |        467-75 |
-| w   |        | vinne              | xVB |                |   | winde                     | winde              |             |   |   |     | dan |   |   |    |        467-75 |
-| w   |        | af                 | xAP |                |   | aff                       | aff                |             |   |   |     | dan |   |   |    |        467-75 |
-| w   |        | tolv               | xNA |                |   | tholff                    | tholff             |             |   |   |     | dan |   |   |    |        467-75 |
-| w   |        | logh+fast          | xAJ |                |   | luffaste                  | lŭffaſte           |             |   |   |     | dan |   |   |    |        467-75 |
-| w   |        | dandeman           | xNC |                |   | danemend                  | danemend           |             |   |   |     | dan |   |   |    |        467-75 |
-| w   |        | sum                | xRP |                |   | som                       | ſom                |             |   |   |     | dan |   |   |    |        467-75 |
-| w   |        | være               | xVB |                |   | er                        | er                 |             |   |   |     | dan |   |   |    |        467-75 |
+| w   |        | en                 | xAT | et               |   | itt                       | itt                |             |   |   |     | dan |   |   |    |        467-74 |
+| w   |        | uvildigh           | xAJ | uvildigt               |   | uwi¦ligtt                 | ŭwi¦ligtt          |             |   |   |     | dan |   |   |    | 467-74—467-75 |
+| w   |        | thing              | xNC | tings               |   | things                    | thing             |             |   |   |     | dan |   |   |    |        467-75 |
+| w   |        | vinne              | xVB | vidne               |   | winde                     | winde              |             |   |   |     | dan |   |   |    |        467-75 |
+| w   |        | af                 | xAP | af               |   | aff                       | aff                |             |   |   |     | dan |   |   |    |        467-75 |
+| w   |        | tolv               | xNA | tolv               |   | tholff                    | tholff             |             |   |   |     | dan |   |   |    |        467-75 |
+| w   |        | logh+fast          | xAJ | lovfaste               |   | luffaste                  | lŭffaſte           |             |   |   |     | dan |   |   |    |        467-75 |
+| w   |        | dandeman           | xNC | dannemænd               |   | danemend                  | danemend           |             |   |   |     | dan |   |   |    |        467-75 |
+| w   |        | sum                | xRP | som               |   | som                       | ſom                |             |   |   |     | dan |   |   |    |        467-75 |
+| w   |        | være               | xVB | er               |   | er                        | er                 |             |   |   |     | dan |   |   |    |        467-75 |
 | lm  | 467-76 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | Nils                      | Nil               |             |   |   |     | dan |   |   |    |        467-76 |
-| w   |        |                    | xNP |                |   | pers(øn)                  | per               |             |   |   |     | dan |   |   |    |        467-76 |
+| w   |        |                    | xNP | Niels               |   | Nils                      | Nil               |             |   |   |     | dan |   |   |    |        467-76 |
+| w   |        |                    | xNP | Persen               |   | pers(øn)                  | per               |             |   |   |     | dan |   |   |    |        467-76 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | i                  | xAP |                |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-76 |
+| w   |        | i                  | xAP | i               |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-76 |
 | PL  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | skrosbierh                | ſkroſbierh         |             |   |   |     | dan |   |   |    |        467-76 |
+| w   |        |                    | xNP | Skrosbjerg               |   | skrosbierh                | ſkroſbierh         |             |   |   |     | dan |   |   |    |        467-76 |
 | PL  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | Jens                      | Jen               |             |   |   |     | dan |   |   |    |        467-76 |
-| w   |        |                    | xNP |                |   | pers(øn)                  | per               |             |   |   |     | dan |   |   |    |        467-76 |
+| w   |        |                    | xNP | Jens               |   | Jens                      | Jen               |             |   |   |     | dan |   |   |    |        467-76 |
+| w   |        |                    | xNP | Persen               |   | pers(øn)                  | per               |             |   |   |     | dan |   |   |    |        467-76 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | Jens                      | Jen               |             |   |   |     | dan |   |   |    |        467-76 |
-| w   |        |                    | xNP |                |   | pouls(øn)                 | poŭl              |             |   |   |     | dan |   |   |    |        467-76 |
+| w   |        |                    | xNP | Jens               |   | Jens                      | Jen               |             |   |   |     | dan |   |   |    |        467-76 |
+| w   |        |                    | xNP | Poulsen               |   | pouls(øn)                 | poŭl              |             |   |   |     | dan |   |   |    |        467-76 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | per                       | per                |             |   |   |     | dan |   |   |    |        467-76 |
-| w   |        |                    | xNP |                |   | Jens(øn)                  | Jen               |             |   |   |     | dan |   |   |    |        467-76 |
+| w   |        |                    | xNP | Per               |   | per                       | per                |             |   |   |     | dan |   |   |    |        467-76 |
+| w   |        |                    | xNP | Jensen               |   | Jens(øn)                  | Jen               |             |   |   |     | dan |   |   |    |        467-76 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | lm  | 467-77 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | mons                      | mon               |             |   |   |     | dan |   |   |    |        467-77 |
-| w   |        |                    | xNP |                |   | ips(øn)                   | ip                |             |   |   |     | dan |   |   |    |        467-77 |
+| w   |        |                    | xNP | Mogens               |   | mons                      | mon               |             |   |   |     | dan |   |   |    |        467-77 |
+| w   |        |                    | xNP | Ipsen               |   | ips(øn)                   | ip                |             |   |   |     | dan |   |   |    |        467-77 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | Jens                      | Jen               |             |   |   |     | dan |   |   |    |        467-77 |
-| w   |        |                    | xNP |                |   | matzin                    | matzin             |             |   |   |     | dan |   |   |    |        467-77 |
+| w   |        |                    | xNP | Jens               |   | Jens                      | Jen               |             |   |   |     | dan |   |   |    |        467-77 |
+| w   |        |                    | xNP | Madsen               |   | matzin                    | matzin             |             |   |   |     | dan |   |   |    |        467-77 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | laffris                   | laffri            |             |   |   |     | dan |   |   |    |        467-77 |
-| w   |        |                    | xNP |                |   | Morthens(øn)              | Morthen           |             |   |   |     | dan |   |   |    |        467-77 |
+| w   |        |                    | xNP | Laurids               |   | laffris                   | laffri            |             |   |   |     | dan |   |   |    |        467-77 |
+| w   |        |                    | xNP | Mortensen               |   | Morthens(øn)              | Morthen           |             |   |   |     | dan |   |   |    |        467-77 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | troels                    | troel             |             |   |   |     | dan |   |   |    |        467-77 |
-| w   |        |                    | xNP |                |   | knudßen                   | knŭdßen            |             |   |   |     | dan |   |   |    |        467-77 |
+| w   |        |                    | xNP | Troels               |   | troels                    | troel             |             |   |   |     | dan |   |   |    |        467-77 |
+| w   |        |                    | xNP | Knudsen               |   | knudßen                   | knŭdßen            |             |   |   |     | dan |   |   |    |        467-77 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | lm  | 467-78 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | Jørgen                    | Jørgen             |             |   |   |     | dan |   |   |    |        467-78 |
-| w   |        |                    | xNP |                |   | ander[ßen]                | ander[ßen]         |             |   |   |     | dan |   |   |    |        467-78 |
+| w   |        |                    | xNP | Jørgen               |   | Jørgen                    | Jørgen             |             |   |   |     | dan |   |   |    |        467-78 |
+| w   |        |                    | xNP | Andersen               |   | ander[ßen]                | ander[ßen]         |             |   |   |     | dan |   |   |    |        467-78 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | hans                      | han               |             |   |   |     | dan |   |   |    |        467-78 |
-| w   |        |                    | xNP |                |   | ips(øn)                   | ip                |             |   |   |     | dan |   |   |    |        467-78 |
+| w   |        |                    | xNP | Hans               |   | hans                      | han               |             |   |   |     | dan |   |   |    |        467-78 |
+| w   |        |                    | xNP | Ipsen               |   | ips(øn)                   | ip                |             |   |   |     | dan |   |   |    |        467-78 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | i                  | xAP |                |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-78 |
+| w   |        | i                  | xAP | i               |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-78 |
 | PL  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | herfø⸌l⸍gle               | herfø⸌l⸍gle        |             |   |   |     | dan |   |   |    |        467-78 |
+| w   |        |                    | xNP | Herfølge               |   | herfø⸌l⸍gle               | herfø⸌l⸍gle        |             |   |   |     | dan |   |   |    |        467-78 |
 | PL  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | [a]nders                  | [a]nder           |             |   |   |     | dan |   |   |    |        467-78 |
-| w   |        |                    | xNP |                |   | anders(øn)                | ander             |             |   |   |     | dan |   |   |    |        467-78 |
+| w   |        |                    | xNP | Anders               |   | [a]nders                  | [a]nder           |             |   |   |     | dan |   |   |    |        467-78 |
+| w   |        |                    | xNP | Andersen               |   | anders(øn)                | ander             |             |   |   |     | dan |   |   |    |        467-78 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-78 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-78 |
 | PE  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | Jørin                     | Jørin              |             |   |   |     | dan |   |   |    |        467-78 |
+| w   |        |                    | xNP | Jørgen               |   | Jørin                     | Jørin              |             |   |   |     | dan |   |   |    |        467-78 |
 | lm  | 467-79 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | ips(øn)                   | ip                |             |   |   |     | dan |   |   |    |        467-79 |
+| w   |        |                    | xNP | Ipsen               |   | ips(øn)                   | ip                |             |   |   |     | dan |   |   |    |        467-79 |
 | PE  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | i                  | xAP |                |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-79 |
+| w   |        | i                  | xAP | i               |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-79 |
 | PL  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | thornby                   | thornbÿ            |             |   |   |     | dan |   |   |    |        467-79 |
+| w   |        |                    | xNP | Tårnby               |   | thornby                   | thornbÿ            |             |   |   |     | dan |   |   |    |        467-79 |
 | PL  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | p   |        | ,                  | XX  |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-79 |
-| w   |        | hvilik             | xPD |                |   | huilke                    | hŭilke             |             |   |   |     | dan |   |   |    |        467-79 |
-| w   |        | fornævnd           | xAJ |                |   | for(nefnde)               | for.ᷠͤ               |             |   |   |     | dan |   |   |    |        467-79 |
+| w   |        | hvilik             | xPD | hvilke               |   | huilke                    | hŭilke             |             |   |   |     | dan |   |   |    |        467-79 |
+| w   |        | fornævnd           | xAJ | fornævnte               |   | for(nefnde)               | for.ᷠͤ               |             |   |   |     | dan |   |   |    |        467-79 |
 | w   |        |                    | XX  |                |   | wune                      | wŭne               |             |   |   |     | dan |   |   |    |        467-79 |
-| w   |        | al                 | xAJ |                |   | alle                      | alle               |             |   |   |     | dan |   |   |    |        467-79 |
-| w   |        | upa                | xAP |                |   | pa                        | pa                 |             |   |   |     | dan |   |   |    |        467-79 |
-| w   |        | tro                | xNC |                |   | tro                       | tro                |             |   |   |     | dan |   |   |    |        467-79 |
-| w   |        | sjal               | xNC |                |   | Siel                      | iel               |             |   |   |     | dan |   |   |    |        467-79 |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-79 |
-| w   |        | sanhet             | xNC |                |   | sand¦den                  | ſand¦den           |             |   |   |     | dan |   |   |    | 467-79—467-80 |
+| w   |        | al                 | xAJ | alle               |   | alle                      | alle               |             |   |   |     | dan |   |   |    |        467-79 |
+| w   |        | upa                | xAP | på               |   | pa                        | pa                 |             |   |   |     | dan |   |   |    |        467-79 |
+| w   |        | tro                | xNC | tro               |   | tro                       | tro                |             |   |   |     | dan |   |   |    |        467-79 |
+| w   |        | sjal               | xNC | sjæl               |   | Siel                      | iel               |             |   |   |     | dan |   |   |    |        467-79 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-79 |
+| w   |        | san             | xNC | sanden               |   | sand¦den                  | ſand¦den           |             |   |   |     | dan |   |   |    | 467-79—467-80 |
 | p   |        | ,                  | XX  |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-80 |
-| w   |        | at                 | xCS |                |   | ad                        | ad                 |             |   |   |     | dan |   |   |    |        467-80 |
-| w   |        | sva                | xAV |                |   | Sa                        | a                 |             |   |   |     | dan |   |   |    |        467-80 |
-| w   |        | være               | xVB |                |   | er                        | er                 |             |   |   |     | dan |   |   |    |        467-80 |
-| w   |        | gange              | xVB |                |   | gaed                      | gaed               |             |   |   |     | dan |   |   |    |        467-80 |
-| w   |        | i                  | xAP |                |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-80 |
-| w   |        | sanhet             | xNC |                |   | Sandheid                  | andheid           |             |   |   |     | dan |   |   |    |        467-80 |
-| w   |        | um                 | xAP |                |   | om                        | om                 |             |   |   |     | dan |   |   |    |        467-80 |
-| w   |        | fornævnd           | xAJ |                |   | for(nefnde)               | for.ᷠͤ               |             |   |   |     | dan |   |   |    |        467-80 |
+| w   |        | at                 | xCS | at               |   | ad                        | ad                 |             |   |   |     | dan |   |   |    |        467-80 |
+| w   |        | sva                | xAV | så               |   | Sa                        | a                 |             |   |   |     | dan |   |   |    |        467-80 |
+| w   |        | være               | xVB | er               |   | er                        | er                 |             |   |   |     | dan |   |   |    |        467-80 |
+| w   |        | gange              | xVB | gået               |   | gaed                      | gaed               |             |   |   |     | dan |   |   |    |        467-80 |
+| w   |        | i                  | xAP | i               |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-80 |
+| w   |        | sanhet             | xNC | sandhed               |   | Sandheid                  | andheid           |             |   |   |     | dan |   |   |    |        467-80 |
+| w   |        | um                 | xAP | om               |   | om                        | om                 |             |   |   |     | dan |   |   |    |        467-80 |
+| w   |        | fornævnd           | xAJ | fornævnte               |   | for(nefnde)               | for.ᷠͤ               |             |   |   |     | dan |   |   |    |        467-80 |
 | PL  | b      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        |                    | xNP |                |   | Suansbierh                | ŭanſbierh         |             |   |   |     | dan |   |   |    |        467-80 |
+| w   |        |                    | xNP | Svansbjerg               |   | Suansbierh                | ŭanſbierh         |             |   |   |     | dan |   |   |    |        467-80 |
 | lm  | 467-81 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | skogh              | xNC |                |   | skuff                     | ſkŭff              |             |   |   |     | dan |   |   |    |        467-81 |
+| w   |        | skogh              | xNC | skov               |   | skuff                     | ſkŭff              |             |   |   |     | dan |   |   |    |        467-81 |
 | PL  | e      |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | sum                | xRP |                |   | som                       | ſom                |             |   |   |     | dan |   |   |    |        467-81 |
-| w   |        | fornævnd           | xAJ |                |   | for(nefnde)               | forᷠͤ                |             |   |   |     | dan |   |   |    |        467-81 |
-| w   |        | sta                | xVB |                |   | Staar                     | taar              |             |   |   |     | dan |   |   |    |        467-81 |
-| w   |        | at                 | xCS |                |   | atty                      | attÿ               |             |   |   |     | dan |   |   |    |        467-81 |
-| w   |        | sva                | xAV |                |   | Sa                        | a                 |             |   |   |     | dan |   |   |    |        467-81 |
-| w   |        |                    | XX  |                |   | wunitt                    | wŭnitt             |             |   |   |     | dan |   |   |    |        467-81 |
-| w   |        | have               | xVB |                |   | haffwir                   | haffwir            |             |   |   |     | dan |   |   |    |        467-81 |
-| w   |        | for                | xAP |                |   | for                       | for                |             |   |   |     | dan |   |   |    |        467-81 |
+| w   |        | sum                | xRP | som               |   | som                       | ſom                |             |   |   |     | dan |   |   |    |        467-81 |
+| w   |        | fornævnd           | xAJ | fornævnt               |   | for(nefnde)               | forᷠͤ                |             |   |   |     | dan |   |   |    |        467-81 |
+| w   |        | sta                | xVB | står               |   | Staar                     | taar              |             |   |   |     | dan |   |   |    |        467-81 |
+| w   |        | at                 | xCS | at               |   | atty                      | attÿ               |             |   |   |     | dan |   |   |    |        467-81 |
+| w   |        | sva                | xAV | så               |   | Sa                        | a                 |             |   |   |     | dan |   |   |    |        467-81 |
+| w   |        |                     | XX  |                 |   | wunitt                    | wŭnitt             |             |   |   |     | dan |   |   |    |        467-81 |
+| w   |        | have               | xVB | har               |   | haffwir                   | haffwir            |             |   |   |     | dan |   |   |    |        467-81 |
+| w   |        | for                | xAP | for               |   | for                       | for                |             |   |   |     | dan |   |   |    |        467-81 |
 | p   |        | ,                  | XX  |                |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-81 |
 | lm  | 467-82 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | vi                 | xPD |                |   | oss                       | oſſ                |             |   |   |     | dan |   |   |    |        467-82 |
-| w   |        | thæn               | xPD |                |   | diid                      | diid               |             |   |   |     | dan |   |   |    |        467-82 |
-| w   |        | vinne              | xVB |                |   | winder                    | winder             |             |   |   |     | dan |   |   |    |        467-82 |
-| w   |        | vi                 | xPD |                |   | wy                        | wÿ                 |             |   |   |     | dan |   |   |    |        467-82 |
-| w   |        | mæth               | xAP |                |   | med                       | med                |             |   |   |     | dan |   |   |    |        467-82 |
-| w   |        | var                | xDP |                |   | wores                     | wore              |             |   |   |     | dan |   |   |    |        467-82 |
-| w   |        | insighle           | xNC |                |   | indSegel                  | indegel           |             |   |   |     | dan |   |   |    |        467-82 |
-| w   |        | ok                 | xCC |                |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-82 |
-| w   |        | signet             | xNC |                |   | Singnether                | ingnether         |             |   |   |     | dan |   |   |    |        467-82 |
+| w   |        | vi                 | xPD | os               |   | oss                       | oſſ                |             |   |   |     | dan |   |   |    |        467-82 |
+| w   |        | thæn               | xPD | det               |   | diid                      | diid               |             |   |   |     | dan |   |   |    |        467-82 |
+| w   |        | vitne              | xVB | vidner               |   | winder                    | winder             |             |   |   |     | dan |   |   |    |        467-82 |
+| w   |        | vi                 | xPD | vi               |   | wy                        | wÿ                 |             |   |   |     | dan |   |   |    |        467-82 |
+| w   |        | mæth               | xAP | med               |   | med                       | med                |             |   |   |     | dan |   |   |    |        467-82 |
+| w   |        | var                | xDP | vores               |   | wores                     | wore              |             |   |   |     | dan |   |   |    |        467-82 |
+| w   |        | insighle           | xNC | indsegl               |   | indSegel                  | indegel           |             |   |   |     | dan |   |   |    |        467-82 |
+| w   |        | ok                 | xCC | og               |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-82 |
+| w   |        | signet             | xNC | signetter               |   | Singnether                | ingnether         |             |   |   |     | dan |   |   |    |        467-82 |
 | lm  | 467-83 |                    |     |                |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | hær                | xAV |                |   | her                       | her                |             |   |   |     | dan |   |   |    |        467-83 |
-| w   |        | under              | xAP |                |   | under                     | ŭnder              |             |   |   |     | dan |   |   |    |        467-83 |
-| w   |        | thrykje            | xVB |                |   | trøgt                     | trøgt              |             |   |   |     | dan |   |   |    |        467-83 |
+| w   |        | hær                | xAV | her               |   | her                       | her                |             |   |   |     | dan |   |   |    |        467-83 |
+| w   |        | under              | xAP | under               |   | under                     | ŭnder              |             |   |   |     | dan |   |   |    |        467-83 |
+| w   |        | thrykje            | xVB | trykt               |   | trøgt                     | trøgt              |             |   |   |     | dan |   |   |    |        467-83 |
 | w   |        |                    |     |                |   | dat(um)                   | datꝭ               |             |   |   |     | lat |   |   |    |        467-83 |
 | w   |        |                    |     |                |   | ut                        | ŭt                 |             |   |   |     | lat |   |   |    |        467-83 |
 | w   |        |                    |     |                |   | supra                     | sŭpra              |             |   |   |     | lat |   |   |    |        467-83 |
