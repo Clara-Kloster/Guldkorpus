@@ -1,4 +1,4 @@
-(defun mt-transform-metatadata-table-satitas (file-name
+(defun mt-transform-metadata-table-satitas (file-name
                                               path-to-input-folder
                                               path-to-output-folder)
   "The function transform the a metadata table in the old format to the revised 
@@ -188,7 +188,7 @@ output folder. Both folders should exist."
                                                                path-to-input-folder
                                                                path-to-output-folder)
   (loop for i in list-of-file-names do
-        (mt-transform-metatadata-table-satitas i path-to-input-folder path-to-output-folder)))
+        (mt-transform-metadata-table-satitas i path-to-input-folder path-to-output-folder)))
 
 ;; Eksempel på kald
 ;; (mt-transform-metadata-table-satitas-from-list-of-files '("251.org"
@@ -203,3 +203,106 @@ output folder. Both folders should exist."
 ;;                                                           "~/Downloads/tabletransform/original-files/"
 ;;                                                           "~/Downloads/tabletransform/transformed-files/")
   
+
+;;; EAE
+
+(defun mt-transform-metadata-table-msk ()
+  "The function transforms each metadatatable in the current buffer from the old
+single row format to the new multirow format.
+
+The function is destructive and changes the buffer contents."
+  (let (text-number
+        shelf-mark
+        year
+        collection)
+    (while (search-forward-regexp "^| +:m:" nil t nil)
+      (setq text-number (mt-grab-org-table-cell 2))
+      (setq shelf-mark (mt-grab-org-table-cell 4))
+      (setq year (mt-grab-org-table-cell 5))
+      (setq collection (mt-grab-org-table-cell 7))
+      (mt-delete-line)
+      (insert "| :NEW---m:                     |   |
+| NEW---text number             |   |
+| NEW---year                    |   |
+| NEW---date                    |   |
+| NEW---location/place of issue |   |
+| NEW---colection               |   |
+| NEW---shelf-mark              |   |
+| NEW---material                |   |
+| NEW---script                  |   |
+| NEW---scribe                  |   |
+| NEW---chapter title           |   |
+| :e:                           |   |
+")
+      (search-backward ":NEW---m:")
+      (forward-line)
+      (org-table-goto-column 2)
+      (insert text-number)
+
+      (forward-line)
+      (org-table-goto-column 2)
+      (insert year)
+
+      (forward-line 3)
+      (org-table-goto-column 2)
+      (insert collection)
+
+      (forward-line)
+      (org-table-goto-column 2)
+      (insert shelf-mark)
+      (org-table-align))
+    (mt-replace-all "NEW---" "")))
+
+
+(defun mt-transform-metadata-table-marine ()
+  "The function transforms each metadatatable in the current buffer from the old
+single row format to the new multirow format.
+
+The function is destructive and changes the buffer contents."
+  (let (text-number
+        shelf-mark
+        year
+        collection)
+    (while (search-forward-regexp "^| +:m:" nil t nil)
+      (setq text-number (mt-grab-org-table-cell 2))
+      (setq chapter-title (mt-grab-org-table-cell 3))
+      (setq shelf-mark (mt-grab-org-table-cell 4))
+      (setq year (mt-grab-org-table-cell 5))
+      (setq collection (mt-grab-org-table-cell 7))
+      (mt-delete-line)
+      (insert "| :NEW---m:                     |   |
+| NEW---text number             |   |
+| NEW---year                    |   |
+| NEW---date                    |   |
+| NEW---location/place of issue |   |
+| NEW---colection               |   |
+| NEW---shelf-mark              |   |
+| NEW---material                |   |
+| NEW---script                  |   |
+| NEW---scribe                  |   |
+| NEW---chapter title           |   |
+| :e:                           |   |
+")
+      (search-backward ":NEW---m:")
+      (forward-line)
+      (org-table-goto-column 2)
+      (insert text-number)
+
+      (forward-line)
+      (org-table-goto-column 2)
+      (insert year)
+
+      (forward-line 3)
+      (org-table-goto-column 2)
+      (insert collection)
+
+      (forward-line)
+      (org-table-goto-column 2)
+      (insert shelf-mark)
+
+      (forward-line 4)
+      (org-table-goto-column 2)
+      (insert chapter-title)
+
+      (org-table-align))
+    (mt-replace-all "NEW---" "")))
