@@ -92,7 +92,7 @@ proofread anyway, this should not pose too much of a problem."
 
 (defun mt-util-merge-lemmatised-and-non-lemmatised-tables-extract-lemmatised-table-from-file (file-name path-to-lemmatised-files-folder)
   (with-temp-buffer
-    (insert-file-contents (format "%s%s" path-to-lemmatised-files-folder file-name))
+    (insert-file-contents (format "%s%s" file-name path-to-lemmatised-files-folder))
     (goto-char (point-min))
     (search-forward ":s:")
     (delete-region (point-min) (1- (line-beginning-position)))
