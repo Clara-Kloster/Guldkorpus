@@ -310,9 +310,9 @@
 |   320 |  60-008 | LX    |     8 |   1402 | Latin     | working    | SEW   | SEW   | TRK   | SEW   |       |      |           |                   |
 |   321 |  60-009 | LX    |     9 |   1409 | Latin     | working    | SEW   | SEW   | TRK   | SDV   |       |      |           |                   |
 |   322 |  60-010 | LX    |    10 |   1403 | Latin     | working    | SEW   | SEW   | TRK   | SEW   |       |      |           |                   |
-|   323 |  60-011 | LX    |    11 |   1403 | Dansk     | working    | DGC   | DGC   | SDV   | SDV   | SDV   |      |           |                   |
-|   325 |  60-013 | LX    |    13 |   1404 | Dansk     | working    | DGC   | DGC   | SDV   | SDV   | SDV   |      |           |                   |
-|   326 |  60-014 | LX    |    14 |   1404 | Dansk     | working    | DGC   | DGC   | SDV   | SDV   | SDV   |      |           |                   |
+|   323 |  60-011 | LX    |    11 |   1403 | Dansk     | working    | DGC   | DGC   | SDV   | SDV   | SDV   | TRK  |           |                   |
+|   325 |  60-013 | LX    |    13 |   1404 | Dansk     | working    | DGC   | DGC   | SDV   | SDV   | SDV   | TRK  |           |                   |
+|   326 |  60-014 | LX    |    14 |   1404 | Dansk     | working    | DGC   | DGC   | SDV   | SDV   | SDV   | TRK  |           |                   |
 |   327 |  60-015 | LX    |    15 |   1405 | Latin     | working    | SEW   | SEW   | TRK   | SEW   |       |      |           |                   |
 |   328 |  60-016 | LX    |    16 |   1405 | Latin     | working    | SEW   | SEW   | SDV   | SDV   |       |      |           | Multispec         |
 |   329 |  60-017 | LX    |    17 |   1406 | Latin     | working    | SEW   | SEW   | TRK   | SEW   |       |      |           |                   |
@@ -320,12 +320,12 @@
 |   331 |  60-019 | LX    |    19 |   1406 | Latin     | working    | SEW   | SEW   | TRK   | SEW   |       |      |           |                   |
 |   332 |  60-020 | LX    |    20 |   1406 | Latin     | working    | SEW   | SEW   | TRK   | SEW   |       |      |           |                   |
 |   333 |  60-021 | LX    |    21 |   1406 | Latin     | working    | SEW   | SEW   | SDV   | SDV   |       |      |           |                   |
-|   334 |  60-022 | LX    |    22 |   1408 | Dansk     | working    | BS    | BS    | SDV   | SDV   | SDV   |      |           |                   |
+|   334 |  60-022 | LX    |    22 |   1408 | Dansk     | working    | BS    | BS    | SDV   | SDV   | SDV   | TRK  |           |                   |
 |   335 |  60-023 | LX    |    23 |   1411 | Latin     | working    | SEW   | SEW   | TRK   | SDV   |       |      |           |                   |
 |   337 |  60-025 | LX    |    25 |   1411 | Dansk     | working    | DGC   | DGC   | SDV   | SDV   | SDV   |      |           |                   |
-|   338 |  60-026 | LX    |    26 |   1412 | Dansk     | working    | DGC   | DGC   | SDV   | SDV   | SDV   |      |           |                   |
-|   339 |  60-027 | LX    |    27 |   1412 | Dansk     | working    | DGC   | DGC   | SDV   | SDV   | SDV   |      |           |                   |
-|   340 |  60-028 | LX    |    28 |   1412 | Dansk     | working    | BS    | BS    | SDV   | SDV   | SDV   |      |           |                   |
+|   338 |  60-026 | LX    |    26 |   1412 | Dansk     | working    | DGC   | DGC   | SDV   | SDV   | SDV   | TRK  |           |                   |
+|   339 |  60-027 | LX    |    27 |   1412 | Dansk     | working    | DGC   | DGC   | SDV   | SDV   | SDV   | TRK  |           |                   |
+|   340 |  60-028 | LX    |    28 |   1412 | Dansk     | working    | BS    | BS    | SDV   | SDV   | SDV   | TRK  |           |                   |
 |   341 |  60-029 | LX    |    29 |   1413 | Latin     | working    | SEW   | SEW   | SDV   | SDV   |       |      |           | Multispec         |
 |   342 |  60-030 | LX    |    30 |   1413 | Latin     | working    | SEW   | SEW   | SDV   | SEW   |       |      |           |                   |
 |   343 |  60-031 | LX    |    31 |        | Latin     | working    | SEW   | SEW   | SDV   | SDV   |       |      |           |                   |
