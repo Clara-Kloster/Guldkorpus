@@ -191,18 +191,13 @@ output folder. Both folders should exist."
         (mt-transform-metadata-table-satitas i path-to-input-folder path-to-output-folder)))
 
 ;; Eksempel på kald
-;; (mt-transform-metadata-table-satitas-from-list-of-files '("251.org"
-;;                                                             "252.org"
-;;                                                             "253.org"
-;;                                                             "254.org"
-;;                                                             "255.org"
-;;                                                             "256.org"
-;;                                                             "257.org"
-;;                                                             "258.org"
-;;                                                             "259.org")
-;;                                                           "~/Downloads/tabletransform/original-files/"
-;;                                                           "~/Downloads/tabletransform/transformed-files/")
-  
+;; (mt-transform-metadata-table-satitas-from-list-of-files '("100.org"
+;;                                                           "98.org"
+;;                                                           "99.org")
+;;                                                         "~/Downloads/tabletransform/original-files/"
+;;                                                         "~/Downloads/tabletransform/transformed-files/")
+
+
 
 ;;; EAE
 
