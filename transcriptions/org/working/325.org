@@ -45,13 +45,13 @@ Seal strips contain a draft version of the same text.
 | w   |        | al          | xAJ | alle        |   | Alle            | Alle          |   |   |   |   | dan |   |   |   |         325-01 |
 | w   |        | man         | xNC | mænd        |   | men             | me           |   |   |   |   | dan |   |   |   |         325-01 |
 | w   |        | skule       | xVB | skal        |   | skal            | ſkal          |   |   |   |   | dan |   |   |   |         325-01 |
-| w   |        | thæn        | xAT | det         |   | th(et)          | thꝫ           |   |   |   |   | dan |   |   |   |         325-01 |
+| w   |        | thæn        | xPE | det         |   | th(et)          | thꝫ           |   |   |   |   | dan |   |   |   |         325-01 |
 | w   |        | vitherlik   | xAJ | vitterligt  |   | wyderlicht      | wyderlıcht    |   |   |   |   | dan |   |   |   |         325-01 |
 | w   |        | være        | xVB | være        |   | war(er)         | war          |   |   |   |   | dan |   |   |   |         325-01 |
 | w   |        | sva         | xAV | så          |   | so              | ſo            |   |   |   |   | dan |   |   |   |         325-01 |
 | w   |        | væl         | xAV | vel         |   | wel             | wel           |   |   |   |   | dan |   |   |   |         325-01 |
-| w   |        | thæn        | xAT | dem         |   | them            | them          |   |   |   |   | dan |   |   |   |         325-01 |
-| w   |        | thær        | xPD | der         |   | th(e)r          | thr          |   |   |   |   | dan |   |   |   |         325-01 |
+| w   |        | thæn        | xPE | dem         |   | them            | them          |   |   |   |   | dan |   |   |   |         325-01 |
+| w   |        | thær        | xRP | der         |   | th(e)r          | thr          |   |   |   |   | dan |   |   |   |         325-01 |
 | w   |        | nu          | xAV | nu          |   | nw              | nw            |   |   |   |   | dan |   |   |   |         325-01 |
 | w   |        | være        | xVB | ere         |   | ære             | ære           |   |   |   |   | dan |   |   |   |         325-01 |
 | w   |        | sum         | xAV | som         |   | so(m)           | ſo̅            |   |   |   |   | dan |   |   |   |         325-01 |
@@ -105,18 +105,18 @@ Seal strips contain a draft version of the same text.
 | w   |        |             | xNP | Buddinge    |   | bwthinge        | bwthinge      |   |   |   |   | dan |   |   |   |         325-04 |
 | lm  | 325-05 |             |     |             |   |                 |               |   |   |   |   |     |   |   |   |                |
 | w   |        | ligje       | xVB | liggende    |   | ligend(e)       | ligen        |   |   |   |   | dan |   |   |   |         325-05 |
-| w   |        | svasum      | xCS | såsom       |   | sosom           | ſoſo         |   |   |   |   | dan |   |   |   |         325-05 |
+| w   |        | svasum      | xRP | såsom       |   | sosom           | ſoſo         |   |   |   |   | dan |   |   |   |         325-05 |
 | w   |        | være        | xVB | er          |   | er              | er            |   |   |   |   | dan |   |   |   |         325-05 |
 | w   |        | tve         | xNA | to          |   | too             | too           |   |   |   |   | dan |   |   |   |         325-05 |
 | w   |        | garth       | xNC | gårde       |   | garthe          | garthe        |   |   |   |   | dan |   |   |   |         325-05 |
 | w   |        | en          | xNA | en          |   | en              | e            |   |   |   |   | dan |   |   |   |         325-05 |
-| w   |        | bygje       | xVB | bygger      |   | bygder          | bygder        |   |   |   |   | dan |   |   |   |         325-05 |
+| w   |        | bygje       | xVB | bygder      |   | bygder          | bygder        |   |   |   |   | dan |   |   |   |         325-05 |
 | w   |        | ok          | xCC | og          |   | och             | och           |   |   |   |   | dan |   |   |   |         325-05 |
 | w   |        | anner       | xNO | ander       |   | anner           | anner         |   |   |   |   | dan |   |   |   |         325-05 |
 | w   |        | øthe        | xAJ | øde         |   | øthe            | øthe          |   |   |   |   | dan |   |   |   |         325-05 |
 | w   |        | hvilik      | xPD | hvilke      |   | hwelke          | hwelke        |   |   |   |   | dan |   |   |   |         325-05 |
 | w   |        | thær        | xAV | der         |   | th(e)r          | thr          |   |   |   |   | dan |   |   |   |         325-05 |
-| w   |        | til         | xAP | til         |   | til             | til           |   |   |   |   | dan |   |   |   |         325-05 |
+| w   |        | til         | xAV | til         |   | til             | til           |   |   |   |   | dan |   |   |   |         325-05 |
 | w   |        | ligje       | xVB | ligger      |   | ligger          | lıggeꝛ        |   |   |   |   | dan |   |   |   |         325-05 |
 | lm  | 325-06 |             |     |             |   |                 |               |   |   |   |   |     |   |   |   |                |
 | w   |        | fæm         | xNA | fem         |   | fem             | fe           |   |   |   |   | dan |   |   |   |         325-06 |
@@ -129,7 +129,7 @@ Seal strips contain a draft version of the same text.
 | w   |        | loghlik     | xAJ | lovlige     |   | lowleghe        | lowleghe      |   |   |   |   | dan |   |   |   |         325-06 |
 | w   |        | fa          | xVB | fik         |   | fek             | fek           |   |   |   |   | dan |   |   |   |         325-06 |
 | w   |        | mæth        | xAP | med         |   | m(et)           | mꝫ            |   |   |   |   | dan |   |   |   |         325-06 |
-| w   |        | min         | xPD | min         |   | my(n)           | my̅            |   |   |   |   | dan |   |   |   |         325-06 |
+| w   |        | min         | xDP | min         |   | my(n)           | my̅            |   |   |   |   | dan |   |   |   |         325-06 |
 | w   |        | kær         | xAJ | kære        |   | kær(e)          | kær          |   |   |   |   | dan |   |   |   |         325-06 |
 | w   |        | husfrue     | xNC | husfrue     |   | husfrw          | huſfrw        |   |   |   |   | dan |   |   |   |         325-06 |
 | lm  | 325-07 |             |     |             |   |                 |               |   |   |   |   |     |   |   |   |                |
@@ -147,10 +147,10 @@ Seal strips contain a draft version of the same text.
 | w   |        | goths       | xNC | gods        |   | gozes           | goze         |   |   |   |   | dan |   |   |   |         325-07 |
 | w   |        | tilligjelse | xNC | tilliggelse |   | til liggelse    | til liggelſe  |   |   |   |   | dan |   |   |   |         325-07 |
 | w   |        | ænge        | xPD | inte        |   | engte           | engte         |   |   |   |   | dan |   |   |   |         325-07 |
-| w   |        | undentaken  | xAJ | undtaget    |   | wnden taghit    | wnde taghit  |   |   |   |   | dan |   |   |   |         325-07 |
+| w   |        | undentaken  | xAJ | undentaget  |   | wnden taghit    | wnde taghit  |   |   |   |   | dan |   |   |   |         325-07 |
 | lm  | 325-08 |             |     |             |   |                 |               |   |   |   |   |     |   |   |   |                |
-| w   |        | ehva        | xPD | ihvo        |   | e hwat          | e hwat        |   |   |   |   | dan |   |   |   |         325-08 |
-| w   |        | thæn        | xAT | det         |   | th(et)          | thꝫ           |   |   |   |   | dan |   |   |   |         325-08 |
+| w   |        | ehva        | xPD | ihvad       |   | e hwat          | e hwat        |   |   |   |   | dan |   |   |   |         325-08 |
+| w   |        | thæn        | xPE | det         |   | th(et)          | thꝫ           |   |   |   |   | dan |   |   |   |         325-08 |
 | w   |        | kunne       | xVB | kan         |   | kan             | ka           |   |   |   |   | dan |   |   |   |         325-08 |
 | w   |        | nævne       | xVB | nævnes      |   | nefnes          | nefne        |   |   |   |   | dan |   |   |   |         325-08 |
 | w   |        | innen       | xAP | inden       |   | jnnen           | ȷnne         |   |   |   |   | dan |   |   |   |         325-08 |
@@ -161,7 +161,7 @@ Seal strips contain a draft version of the same text.
 | w   |        | næst        | xAV | næst        |   | nest            | neſt          |   |   |   |   | dan |   |   |   |         325-08 |
 | w   |        | æfter       | xAP | efter       |   | efte            | efte          |   |   |   |   | dan |   |   |   |         325-08 |
 | w   |        | kome        | xVB | kommende    |   | kome(n)de       | kome̅de        |   |   |   |   | dan |   |   |   |         325-08 |
-| w   |        | at          | xCS | at          |   | at              | at            |   |   |   |   | dan |   |   |   |         325-08 |
+| w   |        | at          | xIM | at          |   | at              | at            |   |   |   |   | dan |   |   |   |         325-08 |
 | w   |        | have        | xVB | have        |   | hawe            | hawe          |   |   |   |   | dan |   |   |   |         325-08 |
 | lm  | 325-09 |             |     |             |   |                 |               |   |   |   |   |     |   |   |   |                |
 | w   |        | unne        | xVB | undt        |   | wnt             | wnt           |   |   |   |   | dan |   |   |   |         325-09 |
@@ -199,11 +199,11 @@ Seal strips contain a draft version of the same text.
 | w   |        | upbære      | xVB | opbære      |   | vp bær(e)       | vp bær       |   |   |   |   | dan |   |   |   |         325-11 |
 | w   |        | ok          | xCC | og          |   | och             | och           |   |   |   |   | dan |   |   |   |         325-11 |
 | w   |        | varthneth   | xNC | vornede     |   | wornethe        | woꝛnethe      |   |   |   |   | dan |   |   |   |         325-11 |
-| w   |        | af          | xAP | af          |   | af              | af            |   |   |   |   | dan |   |   |   |         325-11 |
+| w   |        | af          | xAV | af          |   | af              | af            |   |   |   |   | dan |   |   |   |         325-11 |
 | w   |        | at          | xIM | at          |   | at              | at            |   |   |   |   | dan |   |   |   |         325-11 |
 | w   |        | sætje       | xVB | sætte       |   | sette           | ſette         |   |   |   |   | dan |   |   |   |         325-11 |
 | w   |        | ok          | xCC | og          |   | oc              | oc            |   |   |   |   | dan |   |   |   |         325-11 |
-| w   |        | innen       | xAP | inden       |   | jnnen           | ȷnne         |   |   |   |   | dan |   |   |   |         325-11 |
+| w   |        | innen       | xAV | inden       |   | jnnen           | ȷnne         |   |   |   |   | dan |   |   |   |         325-11 |
 | w   |        | at          | xIM | at          |   | at              | at            |   |   |   |   | dan |   |   |   |         325-11 |
 | w   |        | sætje       | xVB | sætte       |   | sette           | ſette         |   |   |   |   | dan |   |   |   |         325-11 |
 | w   |        | ful         | xAJ | fuld        |   | fwl             | fwl           |   |   |   |   | dan |   |   |   |         325-11 |
@@ -214,7 +214,7 @@ Seal strips contain a draft version of the same text.
 | w   |        | ok          | xCC | og          |   | oc              | oc            |   |   |   |   | dan |   |   |   |         325-12 |
 | w   |        | al          | xAJ | alt         |   | alt             | alt           |   |   |   |   | dan |   |   |   |         325-12 |
 | w   |        | æfter       | xAP | efter       |   | eft(er)         | eft          |   |   |   |   | dan |   |   |   |         325-12 |
-| w   |        | sin         | xPD | sin         |   | syn             | ſy           |   |   |   |   | dan |   |   |   |         325-12 |
+| w   |        | sin         | xDP | sin         |   | syn             | ſy           |   |   |   |   | dan |   |   |   |         325-12 |
 | w   |        | vilje       | xVB | vilje       |   | welia           | welia         |   |   |   |   | dan |   |   |   |         325-12 |
 | w   |        | ok          | xCC | og          |   | oc              | oc            |   |   |   |   | dan |   |   |   |         325-12 |
 | w   |        | nyt         | xNC | nytte       |   | nytte           | nytte         |   |   |   |   | dan |   |   |   |         325-12 |
@@ -235,20 +235,20 @@ Seal strips contain a draft version of the same text.
 | w   |        | goths       | xNC | gods        |   | gotz            | gotz          |   |   |   |   | dan |   |   |   |         325-13 |
 | w   |        | mæth        | xAP | med         |   | m(et)           | mꝫ            |   |   |   |   | dan |   |   |   |         325-13 |
 | w   |        | al          | xAJ | al          |   | all             | all           |   |   |   |   | dan |   |   |   |         325-13 |
-| w   |        | sin         | xPD | sin         |   | sin             | si           |   |   |   |   | dan |   |   |   |         325-13 |
+| w   |        | sin         | xDP | sin         |   | sin             | si           |   |   |   |   | dan |   |   |   |         325-13 |
 | w   |        | tilhøring   | xNC | tilhøring   |   | til høring      | til høring    |   |   |   |   | dan |   |   |   |         325-13 |
 | w   |        | fri         | xAJ | frit        |   | friit           | friit         |   |   |   |   | dan |   |   |   |         325-13 |
 | w   |        | ok          | xCC | og          |   | oc              | oc            |   |   |   |   | dan |   |   |   |         325-13 |
 | w   |        | ubevaren    | xAJ | ubevaret    |   | vbeworit        | vbeworit      |   |   |   |   | dan |   |   |   |         325-13 |
 | lm  | 325-14 |             |     |             |   |                 |               |   |   |   |   |     |   |   |   |                |
-| w   |        | i           | xAP | i           |   | j               | ȷ             |   |   |   |   | dan |   |   |   |         325-14 |
+| w   |        | i           | xAV | i           |   | j               | ȷ             |   |   |   |   | dan |   |   |   |         325-14 |
 | w   |        | gen         | xAV | gen         |   | geen            | gee          |   |   |   |   | dan |   |   |   |         325-14 |
 | w   |        | kome        | xVB | komme       |   | kome            | kome          |   |   |   |   | dan |   |   |   |         325-14 |
 | w   |        | til         | xAP | til         |   | til             | til           |   |   |   |   | dan |   |   |   |         325-14 |
 | w   |        | jak         | xPD | mig         |   | mik             | mik           |   |   |   |   | dan |   |   |   |         325-14 |
 | w   |        | æller       | xCC | eller       |   | ell(e)r         | ellr         |   |   |   |   | dan |   |   |   |         325-14 |
 | w   |        | til         | xAP | til         |   | til             | til           |   |   |   |   | dan |   |   |   |         325-14 |
-| w   |        | min         | xPD | mine        |   | myne            | myne          |   |   |   |   | dan |   |   |   |         325-14 |
+| w   |        | min         | xDP | mine        |   | myne            | myne          |   |   |   |   | dan |   |   |   |         325-14 |
 | w   |        | arving      | xNC | arvinge     |   | arwinge         | arwinge       |   |   |   |   | dan |   |   |   |         325-14 |
 | w   |        | for         | xAP | for         |   | for             | for           |   |   |   |   | dan |   |   |   |         325-14 |
 | w   |        | noker       | xPD | noger       |   | nogher          | nogher        |   |   |   |   | dan |   |   |   |         325-14 |
@@ -283,11 +283,11 @@ Seal strips contain a draft version of the same text.
 | w   |        | ar          | xNC | år          |   | aar             | aar           |   |   |   |   | dan |   |   |   |         325-16 |
 | w   |        | mæth        | xAP | med         |   | m(et)           | mꝫ            |   |   |   |   | dan |   |   |   |         325-16 |
 | w   |        | al          | xAJ | al          |   | all             | all           |   |   |   |   | dan |   |   |   |         325-16 |
-| w   |        | sin         | xPD | sin         |   | sin             | ſi           |   |   |   |   | dan |   |   |   |         325-16 |
+| w   |        | sin         | xDP | sin         |   | sin             | ſi           |   |   |   |   | dan |   |   |   |         325-16 |
 | w   |        | tilligjelse | xNC | tilliggelse |   | til ligelse     | til ligelſe   |   |   |   |   | dan |   |   |   |         325-16 |
 | w   |        | ænge        | xPD | inte        |   | engte           | engte         |   |   |   |   | dan |   |   |   |         325-16 |
 | lm  | 325-17 |             |     |             |   |                 |               |   |   |   |   |     |   |   |   |                |
-| w   |        | undentaken  | xAJ | undtagen    |   | wnden taghit    | wnden taghit  |   |   |   |   | dan |   |   |   |         325-17 |
+| w   |        | undentaken  | xAJ | undentagen  |   | wnden taghit    | wnden taghit  |   |   |   |   | dan |   |   |   |         325-17 |
 | w   |        | at          | xIM | at          |   | at              | at            |   |   |   |   | dan |   |   |   |         325-17 |
 | w   |        | fri         | xVB | fri         |   | fry             | fry           |   |   |   |   | dan |   |   |   |         325-17 |
 | w   |        | ok          | xCC | og          |   | oc              | oc            |   |   |   |   | dan |   |   |   |         325-17 |
