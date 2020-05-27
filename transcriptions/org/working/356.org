@@ -42,7 +42,7 @@
 | :s: |        |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | pm  | 1r     |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | lm  | 356-01 |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
-| w   |        | thæn        | xAT  | det            |   | Th(et)              | Thꝫ          |   |   |   |                  | dan |   |   |    |        356-01 |
+| w   |        | thæn        | xPE  | det            |   | Th(et)              | Thꝫ          |   |   |   |                  | dan |   |   |    |        356-01 |
 | w   |        | skule       | xVB  | skal           |   | skal                | ſkal         |   |   |   |                  | dan |   |   |    |        356-01 |
 | w   |        | al          | xAJ  | alle           |   | alle                | alle         |   |   |   |                  | dan |   |   |    |        356-01 |
 | w   |        | man         | xNC  | mænd           |   | mæ(n)               | mæ̅           |   |   |   |                  | dan |   |   |    |        356-01 |
@@ -61,8 +61,8 @@
 | PE  | e      | AndJak001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        | riddere     | xNC  | ridder         |   | ridder(e)           | rıdder      |   |   |   |                  | dan |   |   |    |        356-02 |
 | w   |        | i           | xAP  | i              |   | i                   | i            |   |   |   |                  | dan |   |   |    |        356-02 |
-| w   |        |             | xAJ  | Egede          |   | eged(e)             | ege         |   |   |   |                  | dan |   |   |    |        356-02 |
-| w   |        | upovena     | xAP  | på             |   | ponæ                | ponæ         |   |   |   |                  | dan |   |   |    |        356-02 |
+| w   |        |             | xNP  | Egede          |   | eged(e)             | ege         |   |   |   |                  | dan |   |   |    |        356-02 |
+| w   |        | upovena     | xAP  | påne           |   | ponæ                | ponæ         |   |   |   |                  | dan |   |   |    |        356-02 |
 | w   |        | min         | xPD  | mine           |   | minæ                | minæ         |   |   |   |                  | dan |   |   |    |        356-02 |
 | w   |        | brother     | xNC  | brødre         |   | brødræ              | brødræ       |   |   |   |                  | dan |   |   |    |        356-02 |
 | w   |        | barn        | xNC  | børns          |   | børnæs              | bøꝛnæ       |   |   |   |                  | dan |   |   |    |        356-02 |
@@ -79,8 +79,8 @@
 | w   |        | ok          | xCC  | og             |   | och                 | och          |   |   |   |                  | dan |   |   |    |        356-03 |
 | w   |        | jak         | xPD  | jeg            |   | Jech                | Jech         |   |   |   |                  | dan |   |   |    |        356-03 |
 | PE  | b      | HenGru001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
-| w   |        |             | prop | Henrik         |   | henike              | henike       |   |   |   |                  | dan |   |   |    |        356-03 |
-| w   |        |             | prop | Grubendal      |   | grubendale          | grubendale   |   |   |   |                  | dan |   |   |    |        356-03 |
+| w   |        |             | xNP | Henrik         |   | henike              | henike       |   |   |   |                  | dan |   |   |    |        356-03 |
+| w   |        |             | xNP | Grubendal      |   | grubendale          | grubendale   |   |   |   |                  | dan |   |   |    |        356-03 |
 | PE  | e      | HenGru001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        | upovena     | xAP  | på             |   | ponæ                | ponæ         |   |   |   |                  | dan |   |   |    |        356-03 |
 | w   |        | min         | xPD  | min            |   | mi(n)               | mi̅           |   |   |   |                  | dan |   |   |    |        356-03 |
@@ -111,7 +111,7 @@
 | lm  | 356-05 |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        | thænne      | xPD  | disse          |   | thesse              | theſſe       |   |   |   |                  | dan |   |   |    |        356-05 |
 | w   |        | goths       | xNC  | gods           |   | gotz                | gotz         |   |   |   |                  | dan |   |   |    |        356-05 |
-| w   |        | sum         | xPD  | som            |   | som                 | ſom          |   |   |   |                  | dan |   |   |    |        356-05 |
+| w   |        | sum         | xRP  | som            |   | som                 | ſom          |   |   |   |                  | dan |   |   |    |        356-05 |
 | w   |        | hær         | xAV  | her            |   | h(er)               | h̅            |   |   |   |                  | dan |   |   |    |        356-05 |
 | w   |        | æfterskrive | xVB  | efterskrevne   |   | æfft(er) sc(re)ffnæ | æfft scͤffnæ |   |   |   |                  | dan |   |   |    |        356-05 |
 | w   |        | sta         | xVB  | stande         |   | standæ              | ſtandæ       |   |   |   |                  | dan |   |   |    |        356-05 |
@@ -126,67 +126,67 @@
 | PL  | e      |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        | en          | xNA  | en             |   | een                 | een          |   |   |   |                  | dan |   |   |    |        356-05 |
 | w   |        | garth       | xNC  | gård           |   | gord                | goꝛd         |   |   |   |                  | dan |   |   |    |        356-05 |
-| w   |        | sum         | xPD  | som            |   | som                 | ſom          |   |   |   |                  | dan |   |   |    |        356-05 |
+| w   |        | sum         | xRP  | som            |   | som                 | ſom          |   |   |   |                  | dan |   |   |    |        356-05 |
 | PE  | b      | OluNie002   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        |             | xNP  | Oluf           |   | olof                | olof         |   |   |   |                  | dan |   |   |    |        356-05 |
 | w   |        |             | xNP  | Nielsen        |   | nielss(øn)          | nıelſ       |   |   |   |                  | dan |   |   |    |        356-05 |
 | PE  | e      | OluNie002   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
-| w   |        | i           | xAP  | i              |   | i                   | i            |   |   |   |                  | dan |   |   |    |        356-05 |
+| w   |        | i           | xAV  | i              |   | i                   | i            |   |   |   |                  | dan |   |   |    |        356-05 |
 | w   |        | bo          | xVB  | bor            |   | bor                 | boꝛ          |   |   |   |                  | dan |   |   |    |        356-05 |
-| w   |        | 6           | xNA  | 6              |   | vj                  | vj           |   |   |   |                  | dan |   |   |    |        356-05 |
+| n   |        | 6           |      | 6              |   | vj                  | vj           |   |   |   |                  | dan |   |   |    |        356-05 |
 | lm  | 356-06 |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        | skilling    | xNC  | skilling       |   | s(killing)          |             |   |   |   |                  | dan |   |   |    |        356-06 |
 | w   |        | grot        | xNC  | grot           |   | g(rot)              | gꝭ           |   |   |   |                  | dan |   |   |    |        356-06 |
 | w   |        | til         | xAP  | til            |   | til                 | tıl          |   |   |   |                  | dan |   |   |    |        356-06 |
 | w   |        | skyld       | xNC  | skyld          |   | skyld               | ſkyld        |   |   |   |                  | dan |   |   |    |        356-06 |
-| w   |        | item        | xAV  | item           |   | Jt(em)              | Jtꝭ          |   |   |   |                  | lat |   |   |    |        356-06 |
-| w   |        | ibidem      | xAV  | ibidem         |   | ibid(em)            | ıbı         |   |   |   |                  | lat |   |   |    |        356-06 |
-| w   |        | 1           | xNA  | 1              |   | j                   | ȷ            |   |   |   |                  | dan |   |   |    |        356-06 |
+| w   |        | item        | xAV  |                |   | Jt(em)              | Jtꝭ          |   |   |   |                  | lat |   |   |    |        356-06 |
+| w   |        | ibidem      | xAV  |                |   | ibid(em)            | ıbı         |   |   |   |                  | lat |   |   |    |        356-06 |
+| n   |        | 1           |      | 1              |   | j                   | ȷ            |   |   |   |                  | dan |   |   |    |        356-06 |
 | w   |        | garth       | xNC  | gård           |   | gord                | goꝛd         |   |   |   |                  | dan |   |   |    |        356-06 |
 | PE  | b      | JepNie003   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        |             | xNP  | Jeppe          |   | Jeyæp               | Jeyæp        |   |   |   |                  | dan |   |   |    |        356-06 |
 | w   |        |             | xNP  | Nielsen        |   | nielss(øn)          | nıelſ       |   |   |   |                  | dan |   |   |    |        356-06 |
 | PE  | e      | JepNie003   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
-| w   |        | i           | xAP  | i              |   | i                   | ı            |   |   |   |                  | dan |   |   |    |        356-06 |
+| w   |        | i           | xAV  | i              |   | i                   | ı            |   |   |   |                  | dan |   |   |    |        356-06 |
 | w   |        | bo          | xVB  | bor            |   | bor                 | boꝛ          |   |   |   |                  | dan |   |   |    |        356-06 |
 | w   |        | ok          | xCC  | og             |   | oc                  | oc           |   |   |   |                  | dan |   |   |    |        356-06 |
 | w   |        | give        | xVB  | giver          |   | giuer               | giuer        |   |   |   |                  | dan |   |   |    |        356-06 |
-| w   |        | 6           | xNA  | 6              |   | vj                  | vȷ           |   |   |   |                  | dan |   |   |    |        356-06 |
+| n   |        | 6           |      | 6              |   | vj                  | vȷ           |   |   |   |                  | dan |   |   |    |        356-06 |
 | w   |        | skilling    | xNC  | skilling       |   | s(killing)          |             |   |   |   |                  | dan |   |   |    |        356-06 |
 | w   |        | grot        | xNC  | grot           |   | g(rot)              | gꝭ           |   |   |   |                  | dan |   |   |    |        356-06 |
 | w   |        | til         | xAP  | til            |   | til                 | tıl          |   |   |   |                  | dan |   |   |    |        356-06 |
-| w   |        | item        | xAV  | item           |   | Jt(em)              | Jtꝭ          |   |   |   |                  | lat |   |   |    |        356-06 |
-| w   |        | 1           | xNA  | 1              |   | j                   | ȷ            |   |   |   |                  | dan |   |   |    |        356-06 |
+| w   |        | item        | xAV  |                |   | Jt(em)              | Jtꝭ          |   |   |   |                  | lat |   |   |    |        356-06 |
+| n   |        | 1           |      | 1              |   | j                   | ȷ            |   |   |   |                  | dan |   |   |    |        356-06 |
 | w   |        | garth       | xNC  | gård           |   | gord                | goꝛd         |   |   |   |                  | dan |   |   |    |        356-06 |
-| w   |        | ibidem      | xAV  | ibidem         |   | ibid(em)            | ıbı         |   |   |   |                  | lat |   |   |    |        356-06 |
+| w   |        | ibidem      | xAV  |                |   | ibid(em)            | ıbı         |   |   |   |                  | lat |   |   |    |        356-06 |
 | PE  | b      | NieKnu006   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        |             | xNP  | Nis            |   | nis                 | ni          |   |   |   |                  | dan |   |   |    |        356-06 |
 | w   |        |             | xNP  | Knudsen        |   | knuds(øn)           | knud        |   |   |   | kn changed from? | dan |   |   |    |        356-06 |
 | PE  | e      | NieKnu006   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
-| w   |        | i           | xAP  | i              |   | i                   | ı            |   |   |   |                  | dan |   |   |    |        356-06 |
+| w   |        | i           | xAV  | i              |   | i                   | ı            |   |   |   |                  | dan |   |   |    |        356-06 |
 | lm  | 356-07 |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        | bo          | xVB  | bor            |   | bor                 | bor          |   |   |   |                  | dan |   |   |    |        356-07 |
 | w   |        | ok          | xCC  | og             |   | oc                  | oc           |   |   |   |                  | dan |   |   |    |        356-07 |
 | w   |        | give        | xVB  | giver          |   | giuer               | giuer        |   |   |   |                  | dan |   |   |    |        356-07 |
-| w   |        | 6           | xNA  | 6              |   | vj                  | vj           |   |   |   |                  | dan |   |   |    |        356-07 |
+| n   |        | 6           |      | 6              |   | vj                  | vj           |   |   |   |                  | dan |   |   |    |        356-07 |
 | w   |        | skilling    | xNC  | skilling       |   | s(killing)          |             |   |   |   |                  | dan |   |   |    |        356-07 |
 | w   |        | grot        | xNC  | grot           |   | g(rot)              | gꝭ           |   |   |   |                  | dan |   |   |    |        356-07 |
-| w   |        | item        | xAV  | item           |   | Jt(em)              | Jtꝭ          |   |   |   |                  | lat |   |   |    |        356-07 |
-| w   |        | 1           | xNA  | 1              |   | j                   | ȷ            |   |   |   |                  | dan |   |   |    |        356-07 |
+| w   |        | item        | xAV  |                |   | Jt(em)              | Jtꝭ          |   |   |   |                  | lat |   |   |    |        356-07 |
+| n   |        | 1           |      | 1              |   | j                   | ȷ            |   |   |   |                  | dan |   |   |    |        356-07 |
 | w   |        | garth       | xNC  | gård           |   | gord                | goꝛd         |   |   |   |                  | dan |   |   |    |        356-07 |
 | w   |        | ibidem      | xAV  |                |   | ibid(em)            | ıbı         |   |   |   |                  | lat |   |   |    |        356-07 |
 | PE  | b      | NieKnu006   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        |             | xNP  | Nis            |   | nis                 | ni          |   |   |   |                  | dan |   |   |    |        356-07 |
 | PE  | e      | NieKnu006   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        |             | xNP  | Stynk          |   | stynk               | ſtẏnk        |   |   |   |                  | dan |   |   |    |        356-07 |
-| w   |        | i           | xAP  | i              |   | i                   | ı            |   |   |   |                  | dan |   |   |    |        356-07 |
+| w   |        | i           | xAV  | i              |   | i                   | ı            |   |   |   |                  | dan |   |   |    |        356-07 |
 | w   |        | bo          | xVB  | bor            |   | bor                 | boꝛ          |   |   |   |                  | dan |   |   |    |        356-07 |
 | w   |        | ok          | xCC  | og             |   | oc                  | oc           |   |   |   |                  | dan |   |   |    |        356-07 |
 | w   |        | give        | xVB  | giver          |   | giuer               | giuer        |   |   |   |                  | dan |   |   |    |        356-07 |
-| w   |        | 6           | xNA  | 6              |   | vj                  | vj           |   |   |   |                  | dan |   |   |    |        356-07 |
+| n   |        | 6           |      | 6              |   | vj                  | vj           |   |   |   |                  | dan |   |   |    |        356-07 |
 | w   |        | skilling    | xNC  | skilling       |   | s(killing)          |             |   |   |   |                  | dan |   |   |    |        356-07 |
 | w   |        | grot        | xNC  | grot           |   | g(rot)              | gꝭ           |   |   |   |                  | dan |   |   |    |        356-07 |
-| w   |        | item        | xAV  | item           |   | Jt(em)              | Jtꝭ          |   |   |   |                  | lat |   |   |    |        356-07 |
+| w   |        | item        | xAV  |                |   | Jt(em)              | Jtꝭ          |   |   |   |                  | lat |   |   |    |        356-07 |
 | PE  | b      | OluHæl001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        |             | xNP  | Oluf           |   | oloff               | oloff        |   |   |   |                  | dan |   |   |    |        356-07 |
 | w   |        |             | xNP  | Helligdage     |   | hællidagæ           | hællıdagæ    |   |   |   |                  | dan |   |   |    |        356-07 |
@@ -195,48 +195,48 @@
 | lm  | 356-08 |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        | ok          | xCC  | og             |   | oc                  | oc           |   |   |   |                  | dan |   |   |    |        356-08 |
 | w   |        | give        | xVB  | giver          |   | giuer               | giuer        |   |   |   |                  | dan |   |   |    |        356-08 |
-| w   |        | i           | xAP  | i              |   | j                   | ȷ            |   |   |   |                  | dan |   |   |    |        356-08 |
+| n   |        | 1           |      | 1              |   | j                   | ȷ            |   |   |   |                  | dan |   |   |    |        356-08 |
 | w   |        | løthigh     | xAJ  | lødig          |   | lødig               | lødıg        |   |   |   |                  | dan |   |   |    |        356-08 |
 | w   |        | mark        | xNC  | mark           |   | m(a)rch             | mrᷓch         |   |   |   |                  | dan |   |   |    |        356-08 |
-| w   |        | item        | xAV  | item           |   | Jt(em)              | Jtꝭ          |   |   |   |                  | lat |   |   |    |        356-08 |
-| w   |        | i           | xAP  | i              |   | j                   | ȷ            |   |   |   |                  | dan |   |   |    |        356-08 |
+| w   |        | item        | xAV  |                |   | Jt(em)              | Jtꝭ          |   |   |   |                  | lat |   |   |    |        356-08 |
+| n   |        | 1           |      | 1              |   | j                   | ȷ            |   |   |   |                  | dan |   |   |    |        356-08 |
 | w   |        | garth       | xNC  | gård           |   | gord                | goꝛd         |   |   |   |                  | dan |   |   |    |        356-08 |
 | w   |        | i           | xAP  | i              |   | i                   | ı            |   |   |   |                  | dan |   |   |    |        356-08 |
 | w   |        |             | xNP  | Lund           |   | lwnd                | lwnd         |   |   |   |                  | dan |   |   |    |        356-08 |
 | w   |        | i           | xAP  | i              |   | i                   | ı            |   |   |   |                  | dan |   |   |    |        356-08 |
 | w   |        |             | xNP  | Stevns Herred  |   | stefnsh(e)r(et)     | ſtefnſhꝝ     |   |   |   |                  | dan |   |   |    |        356-08 |
-| w   |        | sum         | xPD  | som            |   | som                 | ſo          |   |   |   |                  | dan |   |   |    |        356-08 |
+| w   |        | sum         | xRP  | som            |   | som                 | ſo          |   |   |   |                  | dan |   |   |    |        356-08 |
 | PE  | b      | JesOlu001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        |             | xNP  | Jesse          |   | Jesse               | Jeſſe        |   |   |   |                  | dan |   |   |    |        356-08 |
 | w   |        |             | xNP  | Olufsen        |   | olofs(øn)           | olof        |   |   |   |                  | dan |   |   |    |        356-08 |
 | PE  | e      | JesOlu001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
-| w   |        | i           | xAP  | i              |   | i                   | ı            |   |   |   |                  | dan |   |   |    |        356-08 |
+| w   |        | i           | xAV  | i              |   | i                   | ı            |   |   |   |                  | dan |   |   |    |        356-08 |
 | w   |        | bo          | xVB  | bor            |   | bor                 | boꝛ          |   |   |   |                  | dan |   |   |    |        356-08 |
 | w   |        | ok          | xCC  | og             |   | och                 | och          |   |   |   |                  | dan |   |   |    |        356-08 |
 | w   |        | give        | xVB  | giver          |   | giuer               | giuer        |   |   |   |                  | dan |   |   |    |        356-08 |
-| w   |        | i           | xAP  | i              |   | j                   | ȷ            |   |   |   |                  | dan |   |   |    |        356-08 |
+| n   |        | 1           |      | i              |   | j                   | ȷ            |   |   |   |                  | dan |   |   |    |        356-08 |
 | w   |        | løthigh     | xAJ  | lødig          |   | lødigh              | lødıgh       |   |   |   |                  | dan |   |   |    |        356-08 |
 | lm  | 356-09 |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        | mark        | xNC  | mark           |   | m(a)rch             | mrᷓch         |   |   |   |                  | dan |   |   |    |        356-09 |
 | w   |        | til         | xAP  | til            |   | til                 | tıl          |   |   |   |                  | dan |   |   |    |        356-09 |
 | w   |        | landgilde   | xNC  | landgilde      |   | landgildæ           | landgıldæ    |   |   |   |                  | dan |   |   |    |        356-09 |
-| w   |        | item        | xAV  | item           |   | Jt(em)              | Jtꝭ          |   |   |   |                  | lat |   |   |    |        356-09 |
-| w   |        | 1           | xNA  | 1              |   | j                   | ȷ            |   |   |   |                  | dan |   |   |    |        356-09 |
+| w   |        | item        | xAV  |                |   | Jt(em)              | Jtꝭ          |   |   |   |                  | lat |   |   |    |        356-09 |
+| n   |        | 1           |      | 1              |   | j                   | ȷ            |   |   |   |                  | dan |   |   |    |        356-09 |
 | w   |        | garth       | xNC  | gård           |   | gord                | goꝛd         |   |   |   |                  | dan |   |   |    |        356-09 |
 | w   |        | i           | xAP  | i              |   | i                   | i            |   |   |   |                  | dan |   |   |    |        356-09 |
 | w   |        |             | xNP  | Møn            |   | møn                 | møn          |   |   |   |                  | dan |   |   |    |        356-09 |
 | w   |        | i           | xAP  | i              |   | i                   | i            |   |   |   |                  | dan |   |   |    |        356-09 |
 | w   |        |             | xNP  | Hjelm          |   | Hiælm               | Hıæl        |   |   |   |                  | dan |   |   |    |        356-09 |
-| w   |        | sum         | xPD  | som            |   | som                 | ſo          |   |   |   |                  | dan |   |   |    |        356-09 |
+| w   |        | sum         | xRP  | som            |   | som                 | ſo          |   |   |   |                  | dan |   |   |    |        356-09 |
 | PE  | b      | JesOlu001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        |             | xNP  | Jesse          |   | Jesse               | Jeſſe        |   |   |   |                  | dan |   |   |    |        356-09 |
 | w   |        |             | xNP  | Olufsen        |   | olofs(øn)           | olof        |   |   |   |                  | dan |   |   |    |        356-09 |
 | PE  | e      | JesOlu001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
-| w   |        | i           | xAP  | i              |   | i                   | ı            |   |   |   |                  | dan |   |   |    |        356-09 |
+| w   |        | i           | xAV  | i              |   | i                   | ı            |   |   |   |                  | dan |   |   |    |        356-09 |
 | w   |        | bo          | xVB  | bor            |   | bør                 | bøꝛ          |   |   |   |                  | dan |   |   |    |        356-09 |
 | w   |        | ok          | xCC  | og             |   | oc                  | oc           |   |   |   |                  | dan |   |   |    |        356-09 |
 | w   |        | give        | xVB  | giver          |   | giuer               | giuer        |   |   |   |                  | dan |   |   |    |        356-09 |
-| w   |        | 7           | xNA  | 7              |   | vij                 | vij          |   |   |   |                  | dan |   |   |    |        356-09 |
+| n   |        | 7           |      | 7              |   | vij                 | vij          |   |   |   |                  | dan |   |   |    |        356-09 |
 | w   |        | skilling    | xNC  | skilling       |   | s(killing)          |             |   |   |   |                  | dan |   |   |    |        356-09 |
 | w   |        | grot        | xNC  | grot           |   | g(rot)              | gꝭ           |   |   |   |                  | dan |   |   |    |        356-09 |
 | w   |        | til         | xAP  | til            |   | til                 | til          |   |   |   |                  | dan |   |   |    |        356-09 |
@@ -269,12 +269,12 @@
 | w   |        | hun         | xPD  | hun            |   | hwn                 | hw          |   |   |   |                  | dan |   |   |    |        356-11 |
 | w   |        | live        | xVB  | lever          |   | leuær               | leuær        |   |   |   |                  | dan |   |   |    |        356-11 |
 | w   |        | ok          | xCC  | og             |   | och                 | och          |   |   |   |                  | dan |   |   |    |        356-11 |
-| w   |        | nar         | xAV  | når            |   | nar                 | nar          |   |   |   |                  | dan |   |   |    |        356-11 |
+| w   |        | nar         | xCS  | når            |   | nar                 | nar          |   |   |   |                  | dan |   |   |    |        356-11 |
 | w   |        | guth        | xNC  | gud            |   | gwd                 | gwd          |   |   |   |                  | dan |   |   |    |        356-11 |
 | w   |        | vilje       | xVB  | vil            |   | wil                 | wil          |   |   |   |                  | dan |   |   |    |        356-11 |
 | w   |        | at          | xCS  | at             |   | ath                 | ath          |   |   |   |                  | dan |   |   |    |        356-11 |
 | w   |        | hun         | xPD  | hun            |   | hwn                 | hw          |   |   |   |                  | dan |   |   |    |        356-11 |
-| w   |        | af          | xAP  | af             |   | aff                 | aff          |   |   |   |                  | dan |   |   |    |        356-11 |
+| w   |        | af          | xAV  | af             |   | aff                 | aff          |   |   |   |                  | dan |   |   |    |        356-11 |
 | w   |        | gange       | xVB  | går            |   | gor                 | goꝛ          |   |   |   |                  | dan |   |   |    |        356-11 |
 | w   |        | tha         | xAV  | da             |   | tha                 | tha          |   |   |   |                  | dan |   |   |    |        356-11 |
 | w   |        | skule       | xVB  | skal           |   | skal                | ſkal         |   |   |   |                  | dan |   |   |    |        356-11 |
@@ -302,20 +302,20 @@
 | w   |        |             | xNP  | Møn            |   | møn                 | møn          |   |   |   |                  | dan |   |   |    |        356-13 |
 | w   |        | i           | xAP  | i              |   | i                   | i            |   |   |   |                  | dan |   |   |    |        356-13 |
 | w   |        |             | xNP  | Hjelm          |   | hiælm               | hiæl        |   |   |   |                  | dan |   |   |    |        356-13 |
-| w   |        | sum         | xAV  | som            |   | som                 | ſom          |   |   |   |                  | dan |   |   |    |        356-13 |
+| w   |        | sum         | xRP  | som            |   | som                 | ſom          |   |   |   |                  | dan |   |   |    |        356-13 |
 | PE  | b      | JesOlu001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        |             | xNP  | Jesse          |   | jesse               | ȷeſſe        |   |   |   |                  | dan |   |   |    |        356-13 |
 | w   |        |             | xNP  | Olufsen        |   | olofs(øn)           | olof        |   |   |   |                  | dan |   |   |    |        356-13 |
 | PE  | e      | JesOlu001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
-| w   |        | i           | xAP  | i              |   | i                   | ı            |   |   |   |                  | dan |   |   |    |        356-13 |
+| w   |        | i           | xAV  | i              |   | i                   | ı            |   |   |   |                  | dan |   |   |    |        356-13 |
 | w   |        | bo          | xVB  | bor            |   | bor                 | boꝛ          |   |   |   |                  | dan |   |   |    |        356-13 |
 | w   |        | ok          | xCC  | og             |   | och                 | och          |   |   |   |                  | dan |   |   |    |        356-13 |
 | w   |        | give        | xVB  | giver          |   | giu(er)             | giu         |   |   |   |                  | dan |   |   |    |        356-13 |
-| w   |        | 7           | xNA  | 7              |   | vij                 | vij          |   |   |   |                  | dan |   |   |    |        356-13 |
+| n   |        | 7           |      | 7              |   | vij                 | vij          |   |   |   |                  | dan |   |   |    |        356-13 |
 | w   |        | skilling    | xNC  | skilling       |   | s(killing)          |             |   |   |   |                  | dan |   |   |    |        356-13 |
 | w   |        | grot        | xNC  | grot           |   | g(rot)              | gꝭ           |   |   |   |                  | dan |   |   |    |        356-13 |
-| w   |        | undentaken  | xAJ  | undtagen       |   | vnde(n) tagen       | vnde̅ tage   |   |   |   |                  | dan |   |   |    |        356-13 |
-| w   |        | han         | xPD  | hanom          |   | hano(m)             | hano̅         |   |   |   |                  | dan |   |   |    |        356-13 |
+| w   |        | undentaken  | xAJ  | undentagen       |   | vnde(n) tagen       | vnde̅ tage   |   |   |   |                  | dan |   |   |    |        356-13 |
+| w   |        | han         | xPD  | hannem          |   | hano(m)             | hano̅         |   |   |   |                  | dan |   |   |    |        356-13 |
 | w   |        | skule       | xVB  | skal           |   | skal                | ſkal         |   |   |   |                  | dan |   |   |    |        356-13 |
 | w   |        | hun         | xPD  | hun            |   | hwn                 | hw          |   |   |   |                  | dan |   |   |    |        356-13 |
 | lm  | 356-14 |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
@@ -329,7 +329,7 @@
 | w   |        | eghe        | xNC  | eje            |   | eyæ                 | eyæ          |   |   |   |                  | dan |   |   |    |        356-14 |
 | w   |        | nar         | xAV  | når            |   | nar                 | nar          |   |   |   |                  | dan |   |   |    |        356-14 |
 | w   |        | hun         | xPD  | hun            |   | hwn                 | hw          |   |   |   |                  | dan |   |   |    |        356-14 |
-| w   |        | af          | xAP  | af             |   | aff                 | aff          |   |   |   |                  | dan |   |   |    |        356-14 |
+| w   |        | af          | xAV  | af             |   | aff                 | aff          |   |   |   |                  | dan |   |   |    |        356-14 |
 | w   |        | gange       | xVB  | går            |   | gor                 | goꝛ          |   |   |   |                  | dan |   |   |    |        356-14 |
 | w   |        | hva         | xPD  | hvem           |   | hwem                | hwe         |   |   |   |                  | dan |   |   |    |        356-14 |
 | w   |        | hun         | xPD  | hun            |   | hwn                 | hw          |   |   |   |                  | dan |   |   |    |        356-14 |
@@ -341,21 +341,21 @@
 | w   |        | thæn        | xAT  | den            |   | the(n)              | the̅          |   |   |   |                  | dan |   |   |    |        356-15 |
 | w   |        | garth       | xNC  | gård           |   | gord                | goꝛd         |   |   |   |                  | dan |   |   |    |        356-15 |
 | w   |        | fyrre       | xAV  | før            |   | førr(e)             | føꝛr        |   |   |   |                  | dan |   |   |    |        356-15 |
-| w   |        | afhænde     | xVB  | afhente        |   | affhendæ            | affhendæ     |   |   |   |                  | dan |   |   |    |        356-15 |
+| w   |        | afhænde     | xVB  | afhænde        |   | affhendæ            | affhendæ     |   |   |   |                  | dan |   |   |    |        356-15 |
 | w   |        | tha         | xAV  | da             |   | tha                 | tha          |   |   |   |                  | dan |   |   |    |        356-15 |
 | w   |        | skule       | xVB  | skal           |   | skal                | ſkal         |   |   |   |                  | dan |   |   |    |        356-15 |
 | w   |        | hun         | xPD  | hun            |   | hwn                 | hw          |   |   |   |                  | dan |   |   |    |        356-15 |
-| w   |        | ok          | xCC  | og             |   | och                 | och          |   |   |   |                  | dan |   |   |    |        356-15 |
+| w   |        | ok          | xAV  | og             |   | och                 | och          |   |   |   |                  | dan |   |   |    |        356-15 |
 | w   |        | have        | xVB  | have           |   | haue                | haue         |   |   |   |                  | dan |   |   |    |        356-15 |
-| w   |        | thæn        | xAT  | des            |   | thes                | the         |   |   |   |                  | dan |   |   |    |        356-15 |
+| w   |        | thæn        | xPD  | des            |   | thes                | the         |   |   |   |                  | dan |   |   |    |        356-15 |
 | w   |        | makt        | xNC  | magt           |   | makt                | makt         |   |   |   |                  | dan |   |   |    |        356-15 |
-| w   |        | thænne      | xAT  | dette          |   | th(et)tæ            | thꝫtæ        |   |   |   |                  | dan |   |   |    |        356-15 |
+| w   |        | thænne      | xDD  | dette          |   | th(et)tæ            | thꝫtæ        |   |   |   |                  | dan |   |   |    |        356-15 |
 | w   |        | forskreven  | xAJ  | forskrevne     |   | forscr(efne)        | foꝛſcr      |   |   |   |                  | dan |   |   |    |        356-15 |
 | lm  | 356-16 |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        | vilkor      | xNC  | vilkår         |   | welkoræ             | welkoræ      |   |   |   |                  | dan |   |   |    |        356-16 |
 | w   |        | vi          | xPD  | vi             |   | wy                  | wy           |   |   |   |                  | dan |   |   |    |        356-16 |
 | w   |        | vi          | xPD  | os             |   | os                  | o           |   |   |   |                  | dan |   |   |    |        356-16 |
-| w   |        | til         | xAP  | til            |   | til                 | tıl          |   |   |   |                  | dan |   |   |    |        356-16 |
+| w   |        | til         | xAV  | til            |   | til                 | tıl          |   |   |   |                  | dan |   |   |    |        356-16 |
 | w   |        | upovena     | xAP  | på             |   | ponæ                | ponæ         |   |   |   |                  | dan |   |   |    |        356-16 |
 | w   |        | hærre       | xNC  | herre          |   | h(er)               | h̅            |   |   |   |                  | dan |   |   |    |        356-16 |
 | PE  | b      | FolJak001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
@@ -369,7 +369,7 @@
 | w   |        | at          | xIM  | at             |   | ath                 | ath          |   |   |   |                  | dan |   |   |    |        356-16 |
 | w   |        | halde       | xVB  | holde          |   | holdæ               | holdæ        |   |   |   |                  | dan |   |   |    |        356-16 |
 | lm  | 356-17 |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
-| w   |        | sum         | xPD  | som            |   | som                 | ſom          |   |   |   |                  | dan |   |   |    |        356-17 |
+| w   |        | sum         | xCS  | som            |   | som                 | ſom          |   |   |   |                  | dan |   |   |    |        356-17 |
 | w   |        | for         | xAP  | fore           |   | for(e)              | for         |   |   |   |                  | dan |   |   |    |        356-17 |
 | w   |        | sta         | xVB  | står           |   | stor                | ſtoꝛ         |   |   |   |                  | dan |   |   |    |        356-17 |
 | w   |        |             | lat  |                |   | Jn                  | Jn           |   |   |   |                  | lat |   |   |    |        356-17 |
