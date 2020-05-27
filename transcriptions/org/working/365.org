@@ -62,7 +62,7 @@
 | p   |        |               |     |                |   | /               | /            |   |   |   |   | dan |   |   |    |        365-01 |
 | PE  | b      | NieNeb001     |     |                |   |                 |              |   |   |   |   |     |   |   |    |               |
 | w   |        |               | xNP | Niels          |   | niels           | niel        |   |   |   |   | dan |   |   |    |        365-01 |
-| w   |        |               | xNO | Næb            |   | næb             | næb          |   |   |   |   | dan |   |   |    |        365-01 |
+| w   |        |               | xNP | Næb            |   | næb             | næb          |   |   |   |   | dan |   |   |    |        365-01 |
 | PE  | e      | NieNeb001     |     |                |   |                 |              |   |   |   |   |     |   |   |    |               |
 | p   |        |               |     |                |   | /               | /            |   |   |   |   | dan |   |   |    |        365-01 |
 | PE  | b      | HerLip001     |     |                |   |                 |              |   |   |   |   |     |   |   |    |               |
@@ -103,26 +103,26 @@
 | w   |        | guth          | xNC | Gud            |   | gwth            | gwth         |   |   |   |   | dan |   |   |    |        365-03 |
 | w   |        | vi            | xPD | vi             |   | wy              | wy           |   |   |   |   | dan |   |   |    |        365-03 |
 | w   |        | gøre          | xVB | gøre           |   | gøræ            | gøræ         |   |   |   |   | dan |   |   |    |        365-03 |
-| w   |        | thæn          | xAT | det            |   | th(et)          | thꝫ          |   |   |   |   | dan |   |   |    |        365-03 |
+| w   |        | thæn          | xPE | det            |   | th(et)          | thꝫ          |   |   |   |   | dan |   |   |    |        365-03 |
 | w   |        | al            | xAJ | alle           |   | allæ            | allæ         |   |   |   |   | dan |   |   |    |        365-03 |
 | w   |        | man           | xNC | mænd           |   | mæ(n)           | mæ̅           |   |   |   |   | dan |   |   |    |        365-03 |
 | w   |        | kunnigh       | xAJ | kundigt        |   | ku(n)nwt        | ku̅nwt        |   |   |   |   | dan |   |   |    |        365-03 |
-| w   |        | thæn          | xAT | de             |   | the             | the          |   |   |   |   | dan |   |   |    |        365-03 |
+| w   |        | thæn          | xPE | de             |   | the             | the          |   |   |   |   | dan |   |   |    |        365-03 |
 | w   |        | nu            | xAV | nu             |   | nw              | nw           |   |   |   |   | dan |   |   |    |        365-03 |
 | w   |        | være          | xVB | ere            |   | ær(e)           | ær          |   |   |   |   | dan |   |   |    |        365-03 |
 | w   |        | ok            | xAV | og             |   | oc              | oc           |   |   |   |   | dan |   |   |    |        365-03 |
 | w   |        | kome+skule    | xVB | kommeskullende |   | ko(m)meskulæ    | ko̅meſkulæ    |   |   |   |   | dan |   |   |    |        365-03 |
 | p   |        |               |     |                |   | /               | /            |   |   |   |   | dan |   |   |    |        365-03 |
-| w   |        | at            | xAV | at             |   | at              | at           |   |   |   |   | dan |   |   |    |        365-03 |
+| w   |        | at            | xCS | at             |   | at              | at           |   |   |   |   | dan |   |   |    |        365-03 |
 | w   |        | ar            | xNC | år             |   | aar             | aar          |   |   |   |   | dan |   |   |    |        365-03 |
 | w   |        | æfter         | xAP | efter          |   | æfft(er)        | æfft        |   |   |   |   | dan |   |   |    |        365-03 |
 | w   |        | var           | xPD | vors           |   | wors            | woꝛ         |   |   |   |   | dan |   |   | =  |        365-03 |
 | w   |        | hærre         | xNC | Herres         |   | h(e)rr(is)      | hr̅rꝭ         |   |   |   |   | dan |   |   | == |        365-03 |
 | w   |        | føthelse      | xNC | fødelse        |   | fothelsses      | fothelſſe   |   |   |   |   | dan |   |   |    |        365-03 |
 | w   |        | ar            | xNC | år             |   | aar             | aar          |   |   |   |   | dan |   |   |    |        365-03 |
-| n   |        | 1430          | xNA | 1430           |   | mcdxxx          | cdxxx       |   |   |   |   | lat |   |   |    |        365-03 |
+| n   |        | 1430          |     | 1430           |   | mcdxxx          | cdxxx       |   |   |   |   | lat |   |   |    |        365-03 |
 | lm  | 365-04 |               |     |                |   |                 |              |   |   |   |   |     |   |   |    |               |
-| w   |        |               | lat | 4              |   | q(ua)rto        | qᷓrto         |   |   |   |   | lat |   |   |    |        365-04 |
+| n   |        |               |     | 4              |   | q(ua)rto        | qᷓrto         |   |   |   |   | lat |   |   |    |        365-04 |
 | w   |        | være          | xVB | var            |   | war             | war          |   |   |   |   | dan |   |   |    |        365-04 |
 | w   |        | skikke        | xVB | skikket        |   | skicket         | ſkıcket      |   |   |   |   | dan |   |   |    |        365-04 |
 | w   |        | for           | xAP | for            |   | for             | foꝛ          |   |   |   |   | dan |   |   |    |        365-04 |
@@ -146,7 +146,7 @@
 | w   |        |               | xNP | Gregorius      |   | gregorius       | gregoꝛıu    |   |   |   |   | lat |   |   |    |        365-05 |
 | w   |        | dagh          | xNC | dag            |   | daw             | daw          |   |   |   |   | dan |   |   |    |        365-05 |
 | p   |        |               |     |                |   | /               | /            |   |   |   |   | dan |   |   |    |        365-05 |
-| w   |        | en            | xNA | en             |   | en              | e           |   |   |   |   | dan |   |   |    |        365-05 |
+| w   |        | en            | xAT | en             |   | en              | e           |   |   |   |   | dan |   |   |    |        365-05 |
 | w   |        | beskethen     | xAJ | beskeden       |   | besketh(e)n     | beſketh̅     |   |   |   |   | dan |   |   |    |        365-05 |
 | w   |        | sven          | xNC | svend          |   | swæn            | ſwæ         |   |   |   |   | dan |   |   |    |        365-05 |
 | PE  | b      | MadMad001     |     |                |   |                 |              |   |   |   |   |     |   |   |    |               |
@@ -157,7 +157,7 @@
 | w   |        | uplate        | xVB | oplod          |   | vpplodh         | vlodh       |   |   |   |   | dan |   |   |    |        365-05 |
 | w   |        | ok            | xCC | og             |   | oc              | oc           |   |   |   |   | dan |   |   |    |        365-05 |
 | w   |        | skøte         | xVB | skødede        |   | skøtedæ         | ſkøtedæ      |   |   |   |   | dan |   |   |    |        365-05 |
-| w   |        | thænne        | xAT | denne          |   | th(e)nnæ        | th̅nnæ        |   |   |   |   | dan |   |   |    |        365-05 |
+| w   |        | thænne        | xDD | denne          |   | th(e)nnæ        | th̅nnæ        |   |   |   |   | dan |   |   |    |        365-05 |
 | w   |        | nærværende    | xAJ | nærværende     |   | nærwæ(re)nd(e)  | nærwæn     |   |   |   |   | dan |   |   |    |        365-05 |
 | w   |        | brevførere    | xNC | brevfører      |   | brefføre(r)     | brefføre    |   |   |   |   | dan |   |   |    |        365-05 |
 | PE  | b      | PedJen005     |     |                |   |                 |              |   |   |   |   |     |   |   |    |               |
@@ -183,9 +183,9 @@
 | w   |        | thæn          | xAT | den            |   | th(e)n          | th̅n          |   |   |   |   | dan |   |   |    |        365-06 |
 | w   |        | jorth         | xNC | jords          |   | jordhs          | ȷoꝛdh       |   |   |   |   | dan |   |   |    |        365-06 |
 | w   |        | tilligjelse   | xNC | tilliggelse    |   | telliggælsse    | tellıggælſſe |   |   |   |   | dan |   |   |    |        365-06 |
-| w   |        | ænge          | xPD | inte           |   | ængtæ           | ængtæ        |   |   |   |   | dan |   |   |    |        365-06 |
+| w   |        | ænge          | xPD | ingte           |   | ængtæ           | ængtæ        |   |   |   |   | dan |   |   |    |        365-06 |
 | lm  | 365-07 |               |     |                |   |                 |              |   |   |   |   |     |   |   |    |               |
-| w   |        | undentaken    | xAJ | undtaget       |   | vnden tagh(et)  | vnde taghꝫ  |   |   |   |   | dan |   |   |    |        365-07 |
+| w   |        | undentaken    | xAJ | undentaget       |   | vnden tagh(et)  | vnde taghꝫ  |   |   |   |   | dan |   |   |    |        365-07 |
 | w   |        | aker          | xNC | ager           |   | ag(er)          | ag          |   |   |   |   | dan |   |   |    |        365-07 |
 | w   |        | æng           | xNC | eng            |   | æng             | æng          |   |   |   |   | dan |   |   |    |        365-07 |
 | w   |        | vat           | xAJ | vådt           |   | wot             | wot          |   |   |   |   | dan |   |   |    |        365-07 |
@@ -210,13 +210,13 @@
 | PE  | e      | KriMad001     |     |                |   |                 |              |   |   |   |   |     |   |   |    |               |
 | w   |        | han           | xPD | hans           |   | hans            | han         |   |   |   |   | dan |   |   |    |        365-08 |
 | w   |        | syster        | xNC | søster         |   | søster          | ſøſter       |   |   |   |   | dan |   |   |    |        365-08 |
-| w   |        | ær            | xPD | er             |   | ær              | ær           |   |   |   |   | dan |   |   |    |        365-08 |
+| w   |        | være          | xVB | er             |   | ær              | ær           |   |   |   |   | dan |   |   |    |        365-08 |
 | w   |        | arve          | xVB | arvede         |   | arwede          | arwede       |   |   |   |   | dan |   |   |    |        365-08 |
 | w   |        | til           | xAP | til            |   | thell           | thell        |   |   |   |   | dan |   |   |    |        365-08 |
 | w   |        | ræt           | xAJ | ret            |   | ræt             | ræt          |   |   |   |   | dan |   |   |    |        365-08 |
 | w   |        | arv           | xNC | arv            |   | arff            | arff         |   |   |   |   | dan |   |   |    |        365-08 |
 | w   |        | æfter         | xAP | efter          |   | æfft(er)        | æfft        |   |   |   |   | dan |   |   |    |        365-08 |
-| w   |        | thæn          | xAT | deres          |   | th(e)r(is)      | th̅rꝭ         |   |   |   |   | dan |   |   |    |        365-08 |
+| w   |        | thæn          | xPE | deres          |   | th(e)r(is)      | th̅rꝭ         |   |   |   |   | dan |   |   |    |        365-08 |
 | w   |        | father        | xNC | faders         |   | fadh(e)rs       | fadhr      |   |   |   |   | dan |   |   |    |        365-08 |
 | w   |        | døth          | xNC | død            |   | døth            | døth         |   |   |   |   | dan |   |   |    |        365-08 |
 | PE  | b      | MadTue001     |     |                |   |                 |              |   |   |   |   |     |   |   |    |               |
@@ -251,7 +251,7 @@
 | w   |        | tve           | xNA | to             |   | two             | two          |   |   |   |   | dan |   |   |    |        365-10 |
 | w   |        | løthigh       | xAJ | lødig          |   | lød(ig)         | lødw̸         |   |   |   |   | dan |   |   |    |        365-10 |
 | w   |        | mark          | xNC | mark           |   | m(a)rk          | mrk         |   |   |   |   | dan |   |   |    |        365-10 |
-| w   |        | thænne        | xAT | dette          |   | Thættæ          | Thættæ       |   |   |   |   | dan |   |   |    |        365-10 |
+| w   |        | thænne        | xPD | dette          |   | Thættæ          | Thættæ       |   |   |   |   | dan |   |   |    |        365-10 |
 | w   |        | hær           | xAV | her            |   | hær             | hær          |   |   |   |   | dan |   |   |    |        365-10 |
 | w   |        | høre          | xVB | hørte          |   | hørthe          | høꝛthe       |   |   |   |   | dan |   |   |    |        365-10 |
 | w   |        | vi            | xPD | vi             |   | wy              | wy           |   |   |   |   | dan |   |   |    |        365-10 |
