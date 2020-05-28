@@ -44,7 +44,7 @@
 | lm  | 387-01 |               |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |
 | w   |        | al            | xAJ | alle           |   | Alle             | Alle         |   |   |   |   | dan |   |   |    |        387-01 |
 | w   |        | man           | xNC | mænd           |   | me(n)            | me̅           |   |   |   |   | dan |   |   |    |        387-01 |
-| w   |        | thænne        | xAT | dette          |   | th(ette)         | thꝫͤ          |   |   |   |   | dan |   |   |    |        387-01 |
+| w   |        | thænne        | xDD | dette          |   | th(ette)         | thꝫͤ          |   |   |   |   | dan |   |   |    |        387-01 |
 | w   |        | brev          | xNC | brev           |   | b(re)ff          | bf̅f          |   |   |   |   | dan |   |   |    |        387-01 |
 | w   |        | se            | xVB | see            |   | sse              | ſſe          |   |   |   |   | dan |   |   |    |        387-01 |
 | w   |        | æller         | xCC | eller          |   | ell(e)r          | el̅lꝛ         |   |   |   |   | dan |   |   |    |        387-01 |
@@ -72,7 +72,7 @@
 | w   |        | guth          | xNC | Gud            |   | gudh             | gudh         |   |   |   |   | dan |   |   |    |        387-02 |
 | w   |        | kungøre       | xVB | kundgør        |   | kungør           | kungør       |   |   |   |   | dan |   |   |    |        387-02 |
 | w   |        | jak           | xPD | jeg            |   | jek              | ȷek          |   |   |   |   | dan |   |   |    |        387-02 |
-| w   |        | thæn          | xAT | det            |   | th(et)           | thꝫ          |   |   |   |   | dan |   |   |    |        387-02 |
+| w   |        | thæn          | xPE | det            |   | th(et)           | thꝫ          |   |   |   |   | dan |   |   |    |        387-02 |
 | w   |        | al            | xAJ | alle           |   | alle             | alle         |   |   |   |   | dan |   |   |    |        387-02 |
 | w   |        | man           | xNC | mænd           |   | me(n)            | me̅           |   |   |   |   | dan |   |   |    |        387-02 |
 | lm  | 387-03 |               |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |
@@ -107,7 +107,7 @@
 | w   |        | ok            | xCC | og             |   | oc               | oc           |   |   |   |   | dan |   |   |    |        387-05 |
 | w   |        | give          | xVB | giver          |   | gewir            | gewir        |   |   |   |   | dan |   |   |    |        387-05 |
 | w   |        | jak           | xPD | jeg            |   | jek              | ȷek          |   |   |   |   | dan |   |   |    |        387-05 |
-| w   |        | en            | xNA | end            |   | en               | e           |   |   |   |   | dan |   |   |    |        387-05 |
+| w   |        | en            | xNA | en            |   | en               | e           |   |   |   |   | dan |   |   |    |        387-05 |
 | w   |        | min           | xPD | min            |   | my(n)            | my̅           |   |   |   |   | dan |   |   |    |        387-05 |
 | w   |        | garth         | xNC | gård           |   | gard             | gard         |   |   |   |   | dan |   |   |    |        387-05 |
 | w   |        | til           | xAP | til            |   | til              | tıl          |   |   |   |   | dan |   |   |    |        387-05 |
@@ -128,27 +128,27 @@
 | w   |        | skylde        | xVB | skylder        |   | skyldh(e)r       | ſkyldh̅ꝛ      |   |   |   |   | dan |   |   |    |        387-06 |
 | w   |        | arlik         | xAJ | årlig          |   | arlich           | arlıch       |   |   |   |   | dan |   |   |    |        387-06 |
 | w   |        | ar            | xNC | års            |   | aars             | aar         |   |   |   |   | dan |   |   |    |        387-06 |
-| w   |        | 1             | xNA | i              |   | j                | j            |   |   |   |   | dan |   |   |    |        387-06 |
+| n   |        | 1             |     | 1              |   | j                | j            |   |   |   |   | dan |   |   |    |        387-06 |
 | w   |        | pund          | xNC | pund           |   | p(und)           | pͩ            |   |   |   |   | dan |   |   |    |        387-06 |
 | w   |        | korn          | xNC | korn           |   | korn             | kor         |   |   |   |   | dan |   |   |    |        387-06 |
-| w   |        | 1             | xNA | i              |   | j                | j            |   |   |   |   | dan |   |   |    |        387-06 |
+| n   |        | 1             |     | 1              |   | j                | j            |   |   |   |   | dan |   |   |    |        387-06 |
 | w   |        | skilling      | xNC | skilling       |   | s(killing)       |             |   |   |   |   | dan |   |   |    |        387-06 |
 | w   |        | grot          | xNC | grot           |   | g(rot)           | gꝭ           |   |   |   |   | dan |   |   |    |        387-06 |
 | w   |        | ok            | xCC | og             |   | oc               | oc           |   |   |   |   | dan |   |   |    |        387-06 |
 | w   |        | mæth          | xAP | med            |   | m(et)            | mꝫ           |   |   |   |   | dan |   |   |    |        387-06 |
 | w   |        | anner         | xPD | andre          |   | andre            | andre        |   |   |   |   | dan |   |   |    |        387-06 |
 | w   |        | sma           | xAJ | små            |   | sma              | ſma          |   |   |   |   | dan |   |   | =  |        387-06 |
-| w   |        | ræthsel       | xNC | rædsle         |   | r(e)dzle         | rdzle       |   |   |   |   | dan |   |   | == |        387-06 |
+| w   |        | rethsle       | xNC | redsle         |   | r(e)dzle         | rdzle       |   |   |   |   | dan |   |   | == |        387-06 |
 | lm  | 387-07 |               |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |
 | w   |        | hvilik        | xPD | hvilken        |   | hwilken          | hwılken      |   |   |   |   | dan |   |   |    |        387-07 |
 | w   |        | fornævnd      | xAJ | fornævnte      |   | for(nefnde)      | forͩͤ          |   |   |   |   | dan |   |   |    |        387-07 |
 | w   |        | garth         | xNC | gård           |   | gard             | gard         |   |   |   |   | dan |   |   |    |        387-07 |
 | w   |        | ok            | xCC | og             |   | oc               | oc           |   |   |   |   | dan |   |   |    |        387-07 |
 | w   |        | goths         | xNC | gods           |   | goz              | goz          |   |   |   |   | dan |   |   |    |        387-07 |
-| w   |        | sum           | xPD | som            |   | som              | ſo          |   |   |   |   | dan |   |   |    |        387-07 |
+| w   |        | sum           | xRP | som            |   | som              | ſo          |   |   |   |   | dan |   |   |    |        387-07 |
 | w   |        | jak           | xPD | mig            |   | mich             | mich         |   |   |   |   | dan |   |   |    |        387-07 |
 | w   |        | være          | xVB | er             |   | ær               | ær           |   |   |   |   | dan |   |   |    |        387-07 |
-| w   |        | til           | xAP | til            |   | til              | tıl          |   |   |   |   | dan |   |   |    |        387-07 |
+| w   |        | til           | xAV | til            |   | til              | tıl          |   |   |   |   | dan |   |   |    |        387-07 |
 | w   |        | kome          | xVB | kommen         |   | ko(m)men         | ko̅me        |   |   |   |   | dan |   |   |    |        387-07 |
 | w   |        | af            | xAP | af             |   | aff              | aff          |   |   |   |   | dan |   |   |    |        387-07 |
 | w   |        | ræt           | xAJ | ret            |   | reth             | reth         |   |   |   |   | dan |   |   |    |        387-07 |
@@ -167,7 +167,7 @@
 | w   |        | ok            | xCC | og             |   | oc               | oc           |   |   |   |   | dan |   |   |    |        387-08 |
 | w   |        | uplate        | xVB | opladt         |   | op lad(it)       | op ladͭ       |   |   |   |   | dan |   |   |    |        387-08 |
 | w   |        | ok            | xCC | og             |   | oc               | oc           |   |   |   |   | dan |   |   |    |        387-08 |
-| w   |        | afhænde       | xVB | afhændet       |   | affhe(n)th       | affhe̅th      |   |   |   |   | dan |   |   |    |        387-08 |
+| w   |        | afhænde       | xVB | afhændt       |   | affhe(n)th       | affhe̅th      |   |   |   |   | dan |   |   |    |        387-08 |
 | lm  | 387-09 |               |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |
 | w   |        | ok            | xCC | og             |   | oc               | oc           |   |   |   |   | dan |   |   |    |        387-09 |
 | w   |        | skøte         | xVB | skøder         |   | skødh(e)r        | ſkødh̅ꝛ       |   |   |   |   | dan |   |   |    |        387-09 |
@@ -176,7 +176,7 @@
 | w   |        | ok            | xCC | og             |   | oc               | oc           |   |   |   |   | dan |   |   |    |        387-09 |
 | w   |        | afhænde       | xVB | afhænder       |   | aff he(n)ndh(e)r | aff he̅ndhꝛ̅   |   |   |   |   | dan |   |   |    |        387-09 |
 | w   |        | mæth          | xAP | med            |   | m(et)            | mꝫ           |   |   |   |   | dan |   |   |    |        387-09 |
-| w   |        | thænne        | xAT | dette          |   | th(ette)         | thꝫͤ          |   |   |   |   | dan |   |   |    |        387-09 |
+| w   |        | thænne        | xDD | dette          |   | th(ette)         | thꝫͤ          |   |   |   |   | dan |   |   |    |        387-09 |
 | w   |        | min           | xPD | mit            |   | mith             | mith         |   |   |   |   | dan |   |   |    |        387-09 |
 | w   |        | open          | xAJ | åbne           |   | wpnæ             | wpnæ         |   |   |   |   | dan |   |   |    |        387-09 |
 | w   |        | brev          | xNC | brev           |   | b(re)ff          | bf̅f          |   |   |   |   | dan |   |   |    |        387-09 |
@@ -200,7 +200,7 @@
 | lm  | 387-11 |               |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |
 | w   |        |               | xNP | Clara          |   | Clare            | Clare        |   |   |   |   | dan |   |   |    |        387-11 |
 | w   |        | kloster       | xNC | kloster        |   | Clost(er)        | Cloſt       |   |   |   |   | dan |   |   |    |        387-11 |
-| w   |        | i             | xAP | i              |   | j                | j            |   |   |   |   | dan |   |   |    |        387-11 |
+| w   |        | i             | xAV | i              |   | j                | j            |   |   |   |   | dan |   |   |    |        387-11 |
 | w   |        | mot           | xAP | mod            |   | mod              | mod          |   |   |   |   | dan |   |   |    |        387-11 |
 | w   |        | hvær          | xPD | hvers          |   | hwærs            | hwær        |   |   |   |   | dan |   |   |    |        387-11 |
 | w   |        | man           | xNC | mands          |   | mans             | man         |   |   |   |   | dan |   |   |    |        387-11 |
@@ -250,9 +250,9 @@
 | w   |        | hvær          | xPD | hver           |   | hwers            | hwer        |   |   |   |   | dan |   |   |    |        387-14 |
 | w   |        | man           | xNC | mands          |   | manz             | manz         |   |   |   |   | dan |   |   |    |        387-14 |
 | w   |        | tiltale       | xNC | tiltale        |   | til talæ         | tıl talæ     |   |   |   |   | dan |   |   |    |        387-14 |
-| w   |        | thær          | xAV | der            |   | th(e)r           | th̅ꝛ          |   |   |   |   | dan |   |   |    |        387-14 |
+| w   |        | thær          | xRP | der            |   | th(e)r           | th̅ꝛ          |   |   |   |   | dan |   |   |    |        387-14 |
 | lm  | 387-15 |               |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |
-| w   |        | til           | xAP | til            |   | til              | tıl          |   |   |   |   | dan |   |   |    |        387-15 |
+| w   |        | til           | xAV | til            |   | til              | tıl          |   |   |   |   | dan |   |   |    |        387-15 |
 | w   |        | kunne         | xVB | kan            |   | kan              | ka          |   |   |   |   | dan |   |   |    |        387-15 |
 | w   |        | tale          | xVB | tale           |   | talæ             | talæ         |   |   |   |   | dan |   |   |    |        387-15 |
 | w   |        | mæth          | xAP | med            |   | m(et)            | mꝫ           |   |   |   |   | dan |   |   |    |        387-15 |
@@ -276,10 +276,10 @@
 | w   |        | ok            | xCC | og             |   | oc               | oc           |   |   |   |   | dan |   |   |    |        387-16 |
 | w   |        | mæth          | xAP | med            |   | m(et)            | mꝫ           |   |   |   |   | dan |   |   |    |        387-16 |
 | w   |        | vitskap       | xNC | vidskab        |   | widschap         | wıdſchap     |   |   |   |   | dan |   |   |    |        387-16 |
-| w   |        | næthen        | xAP | neden          |   | nedh(e)n         | nedh̅        |   |   |   |   | dan |   |   |    |        387-16 |
+| w   |        | næthen        | xAV | neden          |   | nedh(e)n         | nedh̅        |   |   |   |   | dan |   |   |    |        387-16 |
 | lm  | 387-17 |               |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |
 | w   |        | for           | xAP | for            |   | for              | for          |   |   |   |   | dan |   |   |    |        387-17 |
-| w   |        | thænne        | xAT | dette          |   | th(ette)         | thꝫͤ          |   |   |   |   | dan |   |   |    |        387-17 |
+| w   |        | thænne        | xDD | dette          |   | th(ette)         | thꝫͤ          |   |   |   |   | dan |   |   |    |        387-17 |
 | w   |        | brev          | xNC | brev           |   | b(re)ff          | bf̅f          |   |   |   |   | dan |   |   |    |        387-17 |
 | w   |        | ok            | xCC | og             |   | oc               | oc           |   |   |   |   | dan |   |   |    |        387-17 |
 | w   |        | bithje        | xVB | bede           |   | bed(e)           | be          |   |   |   |   | dan |   |   |    |        387-17 |
@@ -288,7 +288,7 @@
 | w   |        | man           | xNC | mænds          |   | menz             | menz         |   |   |   |   | dan |   |   |    |        387-17 |
 | w   |        | insighle      | xNC | indsegl        |   | Jncegle          | Jncegle      |   |   |   |   | dan |   |   |    |        387-17 |
 | w   |        | sva           | xAV | så             |   | so               | ſo           |   |   |   |   | dan |   |   |    |        387-17 |
-| w   |        | sum           | xPD | som            |   | som              | ſo          |   |   |   |   | dan |   |   |    |        387-17 |
+| w   |        | sum           | xRP | som            |   | som              | ſo          |   |   |   |   | dan |   |   |    |        387-17 |
 | w   |        | være          | xVB | er             |   | ær               | ær           |   |   |   |   | dan |   |   |    |        387-17 |
 | PE  | b      | JepJen001     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |
 | w   |        |               | xNP | Jep            |   | jep              | ȷep          |   |   |   |   | dan |   |   |    |        387-17 |
