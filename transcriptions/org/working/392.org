@@ -69,7 +69,7 @@
 | w   |        | kænne         | xVB | kendes        |   | ke(n)nes             | ke̅ne          |   |   |   |        | dan |   |   |   |        392-02 |
 | w   |        | jak           | xPD | mig           |   | mik                  | mik            |   |   |   |        | dan |   |   |   |        392-02 |
 | w   |        | mæth          | xAP | med           |   | m(et)                | mꝫ             |   |   |   |        | dan |   |   |   |        392-02 |
-| w   |        | thænne        | xPD | dette         |   | th(etta)             | thꝫᷓ            |   |   |   |        | dan |   |   |   |        392-02 |
+| w   |        | thænne        | xDD | dette         |   | th(etta)             | thꝫᷓ            |   |   |   |        | dan |   |   |   |        392-02 |
 | w   |        | min           | xDP | mit           |   | mit                  | mit            |   |   |   |        | dan |   |   |   |        392-02 |
 | w   |        | open          | xAJ | åbne          |   | vpnæ                 | vpnæ           |   |   |   |        | dan |   |   |   |        392-02 |
 | w   |        | brev          | xNC | brev          |   | b(re)ff              | b̅ff            |   |   |   |        | dan |   |   |   |        392-02 |
@@ -127,7 +127,7 @@
 | w   |        | jak           | xPD | mig           |   | mik                  | mik            |   |   |   |        | dan |   |   |   |        392-05 |
 | w   |        | løse          | xVB | løst          |   | løst                 | løſt           |   |   |   |        | dan |   |   |   |        392-05 |
 | w   |        | fore          | xAP | for           |   | for(e)               | for           |   |   |   |        | dan |   |   |   |        392-05 |
-| w   |        |               | xNA | 16            |   | xvi                  | xvi            |   |   |   |        | dan |   |   |   |        392-05 |
+| n   |        | 16            |     | 16            |   | xvi                  | xvi            |   |   |   |        | dan |   |   |   |        392-05 |
 | w   |        | løthemark     | xNC | løde          |   | lød(e)               | lø            |   |   |   |        | dan |   |   |   |        392-05 |
 | w   |        | mark          | xNC | mark          |   | mark                 | maꝛk           |   |   |   |        | dan |   |   |   |        392-05 |
 | w   |        | lovlik        | xAJ | lovlige       |   | loffleghe            | loffleghe      |   |   |   |        | dan |   |   |   |        392-05 |
@@ -164,7 +164,7 @@
 | w   |        |               | xNP | Per           |   | p(er)                | ꝑ              |   |   |   |        | dan |   |   |   |        392-07 |
 | w   |        |               | xNP | Stirm         |   | stirm                | ſtır          |   |   |   |        | dan |   |   |   |        392-07 |
 | PE  | e      | PerSti001     |     |               |   |                      |                |   |   |   |        |     |   |   |   |               |
-| w   |        | vicaris       | lat | vikar         |   | vicaris              | vicaris        |   |   |   |        | dan |   |   |   |        392-07 |
+| w   |        | vicaris       | xNC | vikar         |   | vicaris              | vicaris        |   |   |   |        | dan |   |   |   |        392-07 |
 | w   |        | i             | xAP | i             |   | j                    | ȷ              |   |   |   |        | dan |   |   |   |        392-07 |
 | PL  | b      |               |     |               |   |                      |                |   |   |   |        |     |   |   |   |               |
 | w   |        |               | xNP | Roskilde      |   | Rosk(ilde)           | Roſkꝭ          |   |   |   |        | dan |   |   |   |        392-07 |
@@ -176,7 +176,7 @@
 | PL  | e      |               |     |               |   |                      |                |   |   |   |        |     |   |   |   |               |
 | w   |        |               |     |               |   | Anno                 | Anno           |   |   |   |        | lat |   |   |   |        392-08 |
 | w   |        |               |     |               |   | d(omi)nj             | dn̅ȷ            |   |   |   |        | lat |   |   |   |        392-08 |
-| w   |        |               |     |               |   | mcdlxijº             | cdlxıȷº       |   |   |   |        | lat |   |   |   |        392-08 |
+| n   |        |               |     |               |   | mcdlxijº             | cdlxıȷº       |   |   |   |        | lat |   |   |   |        392-08 |
 | w   |        |               |     |               |   | in                   | i             |   |   |   |        | lat |   |   |   |        392-08 |
 | w   |        |               |     |               |   | p(ro)festo           | ꝓfeſto         |   |   |   |        | lat |   |   |   |        392-08 |
 | w   |        |               |     |               |   | b(ea)te              | bt̅e            |   |   |   |        | lat |   |   |   |        392-08 |
