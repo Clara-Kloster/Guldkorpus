@@ -44,7 +44,7 @@ Særligt æ-tegn
 | lm  | 390-01 |             |     |             |              |               |               |            |   |   |   |     |   |   |    |                 |
 | w   |        | al          | xAJ | Alle        |              | Allæ          | Allæ          |            |   |   |   | dan |   |   |    |          390-01 |
 | w   |        | man         | xNC | mænd        |              | mæn           | mæn           |            |   |   |   | dan |   |   |    |          390-01 |
-| w   |        | thænne      | xAT | dette       |              | th(et)tæ      | thꝫtæ         |            |   |   |   | dan |   |   |    |          390-01 |
+| w   |        | thænne      | xDD | dette       |              | th(et)tæ      | thꝫtæ         |            |   |   |   | dan |   |   |    |          390-01 |
 | w   |        | brev        | xNC | brev        |              | breef         | bꝛeef         |            |   |   |   | dan |   |   |    |          390-01 |
 | w   |        | se          | xVB | see         |              | see           | ſee           |            |   |   |   | dan |   |   |    |          390-01 |
 | w   |        | æller       | xCC | eller       |              | ell(er)       | ell̅           |            |   |   |   | dan |   |   |    |          390-01 |
@@ -77,7 +77,7 @@ Særligt æ-tegn
 | w   |        | ok          | xCC | og          |              | och           | och           |            |   |   |   | dan |   |   |    |          390-02 |
 | w   |        | kungøre     | xVB | kundgøre    |              | ku(n)giøræ    | ku̅gıøꝛæ       |            |   |   |   | dan |   |   |    |          390-02 |
 | w   |        | mæth        | xAP | med         |              | m(et)         | mꝫ            |            |   |   |   | dan |   |   |    |          390-02 |
-| w   |        | thænne      | xAT | dette       |              | th(et)tæ      | thꝫtæ         |            |   |   |   | dan |   |   |    |          390-02 |
+| w   |        | thænne      | xDD | dette       |              | th(et)tæ      | thꝫtæ         |            |   |   |   | dan |   |   |    |          390-02 |
 | w   |        | var         | xPD | vort        |              | wort          | woꝛt          |            |   |   |   | dan |   |   |    |          390-02 |
 | w   |        | open        | xAJ | åbne        |              | obnæ          | obnæ          |            |   |   |   | dan |   |   |    |          390-02 |
 | w   |        | brev        | xNC | brev        |              | b(re)ff       | b̅ff           |            |   |   |   | dan |   |   |    |          390-02 |
@@ -149,7 +149,7 @@ Særligt æ-tegn
 | w   |        | ok          | xCC | og          |              | och           | och           |            |   |   |   | dan |   |   |    |          390-05 |
 | w   |        | al          | xAJ | alle        |              | allæ          | allæ          |            |   |   |   | dan |   |   |    |          390-05 |
 | w   |        | thing       | xNC | ting        |              | thing         | thíng         |            |   |   |   | dan |   |   |    |          390-05 |
-| w   |        | thær        | xPD | der         |              | th(e)r        | th̅ꝛ           |            |   |   |   | dan |   |   |    |          390-05 |
+| w   |        | thær        | xRP | der         |              | th(e)r        | th̅ꝛ           |            |   |   |   | dan |   |   |    |          390-05 |
 | w   |        | til         | xAP | til         |              | til           | tıl           |            |   |   |   | dan |   |   |    |          390-05 |
 | w   |        | ligje       | xVB | ligge       |              | liggæ         | líggæ         |            |   |   |   | dan |   |   |    |          390-05 |
 | w   |        | thæn        | xPD | dem         |              | thøm          | thøm          |            |   |   |   | dan |   |   |    |          390-05 |
@@ -180,9 +180,9 @@ Særligt æ-tegn
 | w   |        | skilling    | xNC | skilling    |              | skiling       | ſkılıng       |            |   |   |   | dan |   |   | =  |          390-06 |
 | w   |        | grot        | xNC | grot        |              | g(rot)        | gꝸ            |            |   |   |   | dan |   |   | == |          390-06 |
 | w   |        | ok          | xCC | og          |              | och           | och           |            |   |   |   | dan |   |   |    |          390-06 |
-| w   |        | nar         | xAV | når         |              | nar           | naꝛ           |            |   |   |   | dan |   |   |    |          390-06 |
+| w   |        | nar         | xCS | når         |              | nar           | naꝛ           |            |   |   |   | dan |   |   |    |          390-06 |
 | w   |        | han         | xPD | han         |              | ha(n)         | ha̅            |            |   |   |   | dan |   |   |    |          390-06 |
-| w   |        | af          | xAP | af          |              | af            | af            |            |   |   |   | dan |   |   |    |          390-06 |
+| w   |        | af          | xAV | af          |              | af            | af            |            |   |   |   | dan |   |   |    |          390-06 |
 | lm  | 390-07 |             |     |             |              |               |               |            |   |   |   |     |   |   |    |                 |
 | w   |        | ga          | xVB | går         |              | gaar          | gaaꝛ          |            |   |   |   | dan |   |   |    |          390-07 |
 | w   |        | tha         | xAV | da          |              | tha           | tha           |            |   |   |   | dan |   |   |    |          390-07 |
@@ -219,7 +219,7 @@ Særligt æ-tegn
 | w   |        | thri        | xNA | tre         |              | tree          | tree          |            |   |   |   | dan |   |   |    |          390-08 |
 | w   |        | skilling    | xNC | skilling    |              | s(ki)l(ing)   | ſol̅           |            |   |   |   | dan |   |   | =  |          390-08 |
 | w   |        | grot        | xNC | grot        |              | g(rot)        | gꝭ            |            |   |   |   | dan |   |   | == |          390-08 |
-| w   |        | sum         | xPD | som         |              | som           | ſom           |            |   |   |   | dan |   |   |    |          390-08 |
+| w   |        | sum         | xRP | som         |              | som           | ſom           |            |   |   |   | dan |   |   |    |          390-08 |
 | w   |        | thær        | xPD | der         |              | th(e)r        | th̅ꝛ           |            |   |   |   | dan |   |   |    |          390-08 |
 | w   |        | give        | xVB | gaves       |              | gawis         | gawıs         |            |   |   |   | dan |   |   |    |          390-08 |
 | w   |        | fyrre       | xAV | førre       |              | førræ         | føꝛræ         |            |   |   |   | dan |   |   |    |          390-08 |
@@ -257,7 +257,7 @@ Særligt æ-tegn
 | w   |        | var         | xPD | vort        |              | wort          | woꝛt          |            |   |   |   | dan |   |   |    |          390-10 |
 | w   |        | insighle    | xNC | indsegl     |              | inseylæ       | ínſeẏlæ       |            |   |   |   | dan |   |   |    |          390-10 |
 | w   |        | hær         | xAV | her         |              | h(er)         | h͛             |            |   |   |   | dan |   |   |    |          390-10 |
-| w   |        | for         | xAP | for         |              | foræ          | foꝛæ          |            |   |   |   | dan |   |   |    |          390-10 |
+| w   |        | for         | xAV | for         |              | foræ          | foꝛæ          |            |   |   |   | dan |   |   |    |          390-10 |
 | w   |        | ok          | xCC | og          |              | oc            | oc            |            |   |   |   | dan |   |   |    |          390-10 |
 | w   |        | mæth        | xAP | med         |              | m(et)         | mꝫ            |            |   |   |   | dan |   |   |    |          390-10 |
 | w   |        | var         | xPD | vor         |              | wor           | woꝛ           |            |   |   |   | dan |   |   |    |          390-10 |
@@ -268,7 +268,7 @@ Særligt æ-tegn
 | w   |        |             | xNP | Jeppe       |              | iep           | ıep           |            |   |   |   | dan |   |   |    |          390-11 |
 | w   |        |             | xNP | Jensen      |              | jenss(øn)     | ȷenſ         |            |   |   |   | dan |   |   |    |          390-11 |
 | PE  | e      | JepJen002   |     |             |              |               |               |            |   |   |   |     |   |   |    |                 |
-| w   |        | thænne      | xAT | dette       |              | th(et)tæ      | thꝫtæ         |            |   |   |   | dan |   |   |    |          390-11 |
+| w   |        | thænne      | xDD | dette       |              | th(et)tæ      | thꝫtæ         |            |   |   |   | dan |   |   |    |          390-11 |
 | w   |        | brev        | xNC | brev        |              | breef         | bꝛeef         |            |   |   |   | dan |   |   |    |          390-11 |
 | w   |        | være        | xVB | var         |              | wor           | woꝛ           |            |   |   |   | dan |   |   |    |          390-11 |
 | w   |        | skrive      | xVB | skrevet     |              | sc(ri)w(et)   | ſcwꝫ         |            |   |   |   | dan |   |   |    |          390-11 |
