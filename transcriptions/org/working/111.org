@@ -51,7 +51,7 @@ ASK: Remember to remove XML-tag and introduce correct notation instead.
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-01 |
 | PE  | b      | NieHer001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | N(icholaus)       | N.           |   |   |   |   | lat |   |   |   |        111-01 |
-| w   |        |   |   |   |   | h(er)mans(un)     | h͛mnẜ        |   |   |   |   | dan |   |   |   |        111-01 |
+| w   |        |   |   |   |   | h(er)mans(un)     | h͛mn        |   |   |   |   | dan |   |   |   |        111-01 |
 | PE  | e      | NieHer001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | PL  | b      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | !roskidis¡        | !roſkıꝺís¡   |   |   |   |   | lat |   |   |   |        111-01 |
@@ -105,13 +105,13 @@ ASK: Remember to remove XML-tag and introduce correct notation instead.
 | w   |        |   |   |   |   | thrugoto          | thrugoto     |   |   |   |   | lat |   |   |   |        111-03 |
 | lm  | 111-04 |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | Romildæ           | Romíldæ      |   |   |   |   | dan |   |   |   |        111-04 |
-| w   |        |   |   |   |   | s(un)             | ẜ            |   |   |   |   | dan |   |   |   |        111-04 |
+| w   |        |   |   |   |   | s(un)             |             |   |   |   |   | dan |   |   |   |        111-04 |
 | PE  | e      | TruRom001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-04 |
 | w   |        |   |   |   |   | &amp;             | &amp;        |   |   |   |   | lat |   |   |   |        111-04 |
 | PE  | b      | TueArn001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | tuuone            | tuuone       |   |   |   |   | lat |   |   |   |        111-04 |
-| w   |        |   |   |   |   | Arnfasts(un)      | rnfﬅẜ      |   |   |   |   | dan |   |   |   |        111-04 |
+| w   |        |   |   |   |   | Arnfasts(un)      | rnfﬅ      |   |   |   |   | dan |   |   |   |        111-04 |
 | PE  | e      | TueArn001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | p(ro)             | ꝓ            |   |   |   |   | lat |   |   |   |        111-04 |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-04 |
@@ -208,7 +208,7 @@ ASK: Remember to remove XML-tag and introduce correct notation instead.
 | PE  | b      | BjøPed001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | beronis           | beronís      |   |   |   |   | lat |   |   |   |        111-09 |
 | w   |        |   |   |   |   | pæter             | pæter        |   |   |   |   | lat |   |   |   |        111-09 |
-| w   |        |   |   |   |   | s(un)             | ẜ            |   |   |   |   | lat |   |   |   |        111-09 |
+| w   |        |   |   |   |   | s(un)             |             |   |   |   |   | lat |   |   |   |        111-09 |
 | PE  | e      | BjøPed001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-09 |
 | w   |        |   |   |   |   | (et)              |             |   |   |   |   | lat |   |   |   |        111-09 |
@@ -216,7 +216,7 @@ ASK: Remember to remove XML-tag and introduce correct notation instead.
 | w   |        |   |   |   |   | laurencii         | lurencíí    |   |   |   |   | lat |   |   |   |        111-09 |
 | lm  | 111-10 |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | peter             | peter        |   |   |   |   | dan |   |   |   |        111-10 |
-| w   |        |   |   |   |   | s(un)             | ẜ            |   |   |   |   | dan |   |   |   |        111-10 |
+| w   |        |   |   |   |   | s(un)             |             |   |   |   |   | dan |   |   |   |        111-10 |
 | PE  | e      | LarPed001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-10 |
 | w   |        |   |   |   |   | (et)              |             |   |   |   |   | lat |   |   |   |        111-10 |
