@@ -105,7 +105,7 @@
 | PE  | e      | PedHog001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |
 | w   |        | æfterliverske | xNC | efterleverske  |   | æffth(e)rleu(er)skæ   | æffthꝛleuſkæ  |   |   |   |        | dan |   |   |    | 410-04 |
 | w   |        | um            | xAP | om             |   | om                    | o              |   |   |   |        | dan |   |   |    | 410-04 |
-| w   |        | thæn          | xDD | den            |   | th(e)n                | thn̅             |   |   |   |        | dan |   |   |    | 410-04 |
+| w   |        | thæn          | xAT | den            |   | th(e)n                | thn̅             |   |   |   |        | dan |   |   |    | 410-04 |
 | w   |        | arv           | xNC | arv            |   | arff                  | aꝛff            |   |   |   |        | dan |   |   |    | 410-04 |
 | w   |        | sum           | xRP | som            |   | so(m)                 | ſo̅              |   |   |   |        | dan |   |   |    | 410-04 |
 | w   |        | vi            | xPD | os             |   | oss                   | oſſ             |   |   |   |        | dan |   |   |    | 410-04 |
@@ -193,7 +193,7 @@
 | n   |        | i             | xAP | i              |   | i                     | i               |   |   |   |        | dan |   |   |    | 410-08 |
 | w   |        | skæppe        | xNC | skæppe         |   | skæppæ                | ſkææ           |   |   |   |        | dan |   |   |    | 410-08 |
 | w   |        | smør          | xNC | smør           |   | smør                  | ſmør            |   |   |   |        | dan |   |   |    | 410-08 |
-| w   |        | item          | xAV |             |   | Jt(em)                | Jtꝭ             |   |   |   |        | dan |   |   |    | 410-08 |
+| w   |        | item          | xAV |                |   | Jt(em)                | Jtꝭ             |   |   |   |        | dan |   |   |    | 410-08 |
 | n   |        | 2             |     | 2              |   | ii                    | ii              |   |   |   |        | dan |   |   |    | 410-08 |
 | w   |        | garth         | xNC | gårde          |   | gordhæ                | gordhæ          |   |   |   |        | dan |   |   |    | 410-08 |
 | w   |        | i             | xAP | i              |   | i                     | i               |   |   |   |        | dan |   |   |    | 410-08 |
@@ -205,10 +205,10 @@
 | w   |        | ørtogh        | xNC | Ørtug          |   | ørt(ug)               | øꝛtꝭ            |   |   |   |        | dan |   |   |    | 410-08 |
 | w   |        | korn          | xNC | korn           |   | korn                  | koꝛn            |   |   |   |        | dan |   |   |    | 410-08 |
 | w   |        | ok            | xCC | og             |   | och                   | och             |   |   |   |        | dan |   |   |    | 410-08 |
-| n   |        | 2            |     | 2              |   | ij                    | ij              |   |   |   |        | dan |   |   |    | 410-08 |
+| n   |        | 2             |     | 2              |   | ij                    | ij              |   |   |   |        | dan |   |   |    | 410-08 |
 | w   |        | fjarthing     | xNC | fjerding       |   | fiærding              | fıæꝛding        |   |   |   |        | dan |   |   |    | 410-08 |
 | w   |        | smør          | xNC | smør           |   | smør                  | ſmør            |   |   |   |        | dan |   |   |    | 410-08 |
-| w   |        | item          | xAV |             |   | Jt(em)                | Jtꝭ             |   |   |   |        | lat |   |   |    | 410-08 |
+| w   |        | item          | xAV |                |   | Jt(em)                | Jtꝭ             |   |   |   |        | lat |   |   |    | 410-08 |
 | n   |        | 1             |     | 1              |   | i                     | i               |   |   |   |        | dan |   |   |    | 410-08 |
 | w   |        | garth         | xNC | gård           |   | gord                  | goꝛd            |   |   |   |        | dan |   |   |    | 410-08 |
 | w   |        | i             | xAP | i              |   | i                     | i               |   |   |   |        | dan |   |   |    | 410-08 |
@@ -276,7 +276,7 @@
 | w   |        | thær          | xAV | der            |   | th(e)r                | thꝛ            |   |   |   |        | dan |   |   |    | 410-11 |
 | w   |        | upa           | xAV | på             |   | paa                   | paa             |   |   |   |        | dan |   |   |    | 410-11 |
 | w   |        | have          | xVB | har            |   | haffu(er)             | haffu          |   |   |   |        | dan |   |   |    | 410-11 |
-| w   |        | utvise        | xVB | udviset         |   | wdwis(et)             | wdwi           |   |   |   |        | dan |   |   |    | 410-11 |
+| w   |        | utvise        | xVB | udviset        |   | wdwis(et)             | wdwi           |   |   |   |        | dan |   |   |    | 410-11 |
 | w   |        | ok            | xCC | og             |   | Och                   | Och             |   |   |   |        | dan |   |   |    | 410-11 |
 | w   |        | være          | xVB | er             |   | ær                    | ær              |   |   |   |        | dan |   |   |    | 410-11 |
 | w   |        | thæn          | xAT | den            |   | th(e)n                | thn̅             |   |   |   |        | dan |   |   |    | 410-11 |
@@ -291,7 +291,7 @@
 | w   |        | mæth          | xAP | med            |   | m(et)                 | mꝫ              |   |   |   |        | dan |   |   |    | 410-12 |
 | w   |        | jak           | xPD | mig            |   | meg                   | meg             |   |   |   |        | dan |   |   |    | 410-12 |
 | w   |        | intake        | xVB | indtagen       |   | inthagh(e)n           | inthaghn̅        |   |   |   |        | dan |   |   |    | 410-12 |
-| w   |        | item          | xAV |             |   | Jt(em)                | Jtꝭ             |   |   |   |        | lat |   |   |    | 410-12 |
+| w   |        | item          | xAV |                |   | Jt(em)                | Jtꝭ             |   |   |   |        | lat |   |   |    | 410-12 |
 | w   |        | være          | xVB | er             |   | ær                    | ær              |   |   |   |        | dan |   |   |    | 410-12 |
 | w   |        | fornævnd      | xAJ | fornævnte      |   | for(nefnde)           | foꝛͩͤ             |   |   |   |        | dan |   |   |    | 410-12 |
 | w   |        | frue          | xNC | fru            |   | ff(rv)æ               | ffͮæ             |   |   |   |        | dan |   |   |    | 410-12 |
@@ -305,7 +305,7 @@
 | PL  | b      |               |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |
 | w   |        |               | xNP | Bottrup        |   | bottorop              | bottorop        |   |   |   |        | dan |   |   |    | 410-12 |
 | PL  | e      |               |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |
-| w   |        | skylde        | xVB | skylder       |   | skildh(e)r            | ſkıldhꝛ        |   |   |   |        | dan |   |   |    | 410-12 |
+| w   |        | skylde        | xVB | skylder        |   | skildh(e)r            | ſkıldhꝛ        |   |   |   |        | dan |   |   |    | 410-12 |
 | w   |        | en            | xNA | en             |   | en                    | e              |   |   |   |        | dan |   |   |    | 410-12 |
 | w   |        | læst          | xNC | læst           |   | læst                  | læſt            |   |   |   |        | dan |   |   |    | 410-12 |
 | w   |        | korn          | xNC | korn           |   | korn                  | koꝛ            |   |   |   |        | dan |   |   |    | 410-12 |
@@ -387,7 +387,7 @@
 | w   |        | væl           | xAV | vel            |   | wel                   | wel             |   |   |   |        | dan |   |   |    | 410-15 |
 | w   |        | mæth          | xAV | med            |   | m(et)                 | mꝫ              |   |   |   |        | dan |   |   |    | 410-15 |
 | lm  | 410-16 |               |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |
-| w   |        | nøghje         | xVB | nøje           |   | nøghæ                 | nøghæ           |   |   |   |        | dan |   |   |    | 410-16 |
+| w   |        | nøghje        | xVB | nøje           |   | nøghæ                 | nøghæ           |   |   |   |        | dan |   |   |    | 410-16 |
 | w   |        | ok            | xCC | og             |   | Och                   | Och             |   |   |   |        | dan |   |   |    | 410-16 |
 | w   |        | mæth          | xAP | med            |   | m(et)                 | mꝫ              |   |   |   |        | dan |   |   |    | 410-16 |
 | w   |        | thænne        | xDD | dette          |   | th(ette)              | thꝫͤ             |   |   |   |        | dan |   |   |    | 410-16 |
