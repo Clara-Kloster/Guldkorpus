@@ -44,7 +44,7 @@
 | lm  | 373-01 |              |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |
 | w   |        | al           | xAJ | alle          |   | Alle                | lle         |   |   |   |   | dan |   |   |    |        373-01 |
 | w   |        | man          | xNC | mænd          |   | men                 | me          |   |   |   |   | dan |   |   |    |        373-01 |
-| w   |        | thænne       | xAT | dette         |   | thette              | thette       |   |   |   |   | dan |   |   |    |        373-01 |
+| w   |        | thænne       | xDD | dette         |   | thette              | thette       |   |   |   |   | dan |   |   |    |        373-01 |
 | w   |        | brev         | xNC | brev          |   | b(re)ff             | b̅ff          |   |   |   |   | dan |   |   |    |        373-01 |
 | w   |        | se           | xVB | see           |   | see                 | ſee          |   |   |   |   | dan |   |   |    |        373-01 |
 | w   |        | æller        | xCC | eller         |   | ell(e)r             | ellr        |   |   |   |   | dan |   |   |    |        373-01 |
@@ -99,17 +99,17 @@
 | lm  | 373-04 |              |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |
 | w   |        | i            | xAP | i             |   | j                   | ȷ            |   |   |   |   | dan |   |   |    |        373-04 |
 | w   |        |              | xNP | Roskilde      |   | Rosk(ilde)          | Roſkꝭ        |   |   |   |   | dan |   |   |    |        373-04 |
-| w   |        | en           | xNA | end           |   | een                 | ee          |   |   |   |   | dan |   |   |    |        373-04 |
+| w   |        | en           | xNA | en            |   | een                 | ee          |   |   |   |   | dan |   |   |    |        373-04 |
 | w   |        | min          | xPD | min           |   | myn                 | my          |   |   |   |   | dan |   |   |    |        373-04 |
 | w   |        | garth        | xNC | gård          |   | gorth               | gorth        |   |   |   |   | dan |   |   |    |        373-04 |
 | w   |        | uti          | xAP | udi           |   | vd(e)               | v           |   |   |   |   | dan |   |   |    |        373-04 |
 | w   |        |              | xNP | Torkilstrup   |   | thorkilstorp        | thorkilſtorp |   |   |   |   | dan |   |   |    |        373-04 |
-| w   |        | sum          | xPD | som           |   | som                 | ſo          |   |   |   |   | dan |   |   |    |        373-04 |
+| w   |        | sum          | xRP | som           |   | som                 | ſo          |   |   |   |   | dan |   |   |    |        373-04 |
 | PE  | b      | NieMar001    |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |
 | w   |        |              | xNP | Niels         |   | nis                 | nis          |   |   |   |   | dan |   |   |    |        373-04 |
 | w   |        |              | xNP | Marth         |   | march               | march        |   |   |   |   | dan |   |   |    |        373-04 |
 | PE  | e      | NieMar001    |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |
-| w   |        | uti          | xAP | udi           |   | vd(e)               | v           |   |   |   |   | dan |   |   |    |        373-04 |
+| w   |        | uti          | xAV | udi           |   | vd(e)               | v           |   |   |   |   | dan |   |   |    |        373-04 |
 | w   |        | bo           | xVB | bor           |   | boor                | boor         |   |   |   |   | dan |   |   |    |        373-04 |
 | w   |        | ok           | xCC | og            |   | oc                  | oc           |   |   |   |   | dan |   |   |    |        373-04 |
 | w   |        | give         | xVB | giver         |   | giu(er)             | giu         |   |   |   |   | dan |   |   |    |        373-04 |
@@ -120,21 +120,21 @@
 | lm  | 373-05 |              |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |
 | w   |        | landgilde    | xNC | landsgilde    |   | landgilde           | landgilde    |   |   |   |   | dan |   |   |    |        373-05 |
 | w   |        | ok           | xCC | og            |   | oc                  | oc           |   |   |   |   | dan |   |   |    |        373-05 |
-| w   |        |              |     | 2             |   | ij                  | ij           |   |   |   |   | dan |   |   |    |        373-05 |
-| w   |        | solidus      | xNC | 45            |   | vl                  | v̅l           |   |   |   |   | dan |   |   |    |        373-05 |
+| n   |        | 2            |     | 2             |   | ij                  | ij           |   |   |   |   | dan |   |   |    |        373-05 |
+| n   |        | 45           | xNC | 45            |   | vl                  | v̅l           |   |   |   |   | dan |   |   |    |        373-05 |
 | w   |        | grot         | xNC | grot          |   | gr(ot)              | grꝭ          |   |   |   |   | dan |   |   |    |        373-05 |
 | w   |        | item         | xAV |               |   | Jt(em)              | Jtꝭ          |   |   |   |   | lat |   |   |    |        373-05 |
-| w   |        | 1            | xNA | i             |   | j                   | ȷ            |   |   |   |   | dan |   |   |    |        373-05 |
+| n   |        | 1            |     | 1             |   | j                   | ȷ            |   |   |   |   | dan |   |   |    |        373-05 |
 | w   |        | litel        | xAJ | liden         |   | liden               | lıde        |   |   |   |   | dan |   |   |    |        373-05 |
 | w   |        | garth        | xNC | gård          |   | gorth               | gorth        |   |   |   |   | dan |   |   |    |        373-05 |
 | w   |        | thær         | xAV | der           |   | th(e)r              | thr         |   |   |   |   | dan |   |   |    |        373-05 |
 | w   |        | samestaths   | xAV | sammesteds    |   | sa(m)me stetz       | ſa̅me ſtetz   |   |   |   |   | dan |   |   |    |        373-05 |
-| w   |        | sum          | xPD | som           |   | som                 | ſo          |   |   |   |   | dan |   |   |    |        373-05 |
+| w   |        | sum          | xRP | som           |   | som                 | ſo          |   |   |   |   | dan |   |   |    |        373-05 |
 | PE  | b      | AndMar001    |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |
 | w   |        |              | xNP | Anders        |   | and(e)rs            | andr       |   |   |   |   | dan |   |   |    |        373-05 |
 | w   |        |              | xNP | Marth         |   | march               | march        |   |   |   |   | dan |   |   |    |        373-05 |
 | PE  | e      | AndMar001    |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |
-| w   |        | uti          | xAP | udi           |   | vd(e)               | v           |   |   |   |   | dan |   |   |    |        373-05 |
+| w   |        | uti          | xAV | udi           |   | vd(e)               | v           |   |   |   |   | dan |   |   |    |        373-05 |
 | w   |        | bo           | xVB | bor           |   | boor                | boor         |   |   |   |   | dan |   |   |    |        373-05 |
 | w   |        | ok           | xCC | og            |   | oc                  | oc           |   |   |   |   | dan |   |   |    |        373-05 |
 | w   |        | give         | xVB | giver         |   | giu(er)             | giu         |   |   |   |   | dan |   |   |    |        373-05 |
@@ -152,7 +152,7 @@
 | w   |        | svadan       | xAJ | sådant        |   | swodant             | ſwodant      |   |   |   |   | dan |   |   |    |        373-06 |
 | w   |        | skjal        | xNC | skel          |   | schell              | ſchell       |   |   |   |   | dan |   |   |    |        373-06 |
 | w   |        | at           | xCS | at            |   | at                  | at           |   |   |   |   | dan |   |   |    |        373-06 |
-| w   |        | thæn         | xAT | de            |   | the                 | the          |   |   |   |   | dan |   |   |    |        373-06 |
+| w   |        | thæn         | xPE | de            |   | the                 | the          |   |   |   |   | dan |   |   |    |        373-06 |
 | w   |        | i            | xAP | i             |   | j                   | ȷ            |   |   |   |   | dan |   |   |    |        373-06 |
 | w   |        | sankte       | xAJ | sankte        |   | s(anc)te            | st̅e          |   |   |   |   | dan |   |   |    |        373-06 |
 | w   |        |              | xNP | Clara         |   | clar(e)             | clar        |   |   |   |   | dan |   |   |    |        373-06 |
@@ -171,7 +171,7 @@
 | w   |        | samestaths   | xAV | sammesteds    |   | sa(m)me stetz       | ſa̅me ſtetz   |   |   |   |   | dan |   |   |    |        373-07 |
 | w   |        | innen        | xAP | inden         |   | j(n)ne(n)           | ȷ̅ne̅          |   |   |   |   | dan |   |   |    |        373-07 |
 | w   |        | kyndelmisse  | xNC | kyndelmisse   |   | kyndelmøsse         | kyndelmøſſe  |   |   |   |   | dan |   |   |    |        373-07 |
-| w   |        | 2            | xNA | 2             |   | ij                  | ij           |   |   |   |   | dan |   |   |    |        373-07 |
+| n   |        | 2            |     | 2             |   | ij                  | ij           |   |   |   |   | dan |   |   |    |        373-07 |
 | w   |        | pund         | xNC | pund          |   | pu(n)d              | pu̅d          |   |   |   |   | dan |   |   |    |        373-07 |
 | lm  | 373-08 |              |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |
 | w   |        | korn         | xNC | korn          |   | korn                | kor         |   |   |   |   | dan |   |   |    |        373-08 |
@@ -186,7 +186,7 @@
 | w   |        | ok           | xCC | og            |   | oc                  | oc           |   |   |   |   | dan |   |   |    |        373-08 |
 | w   |        | anner        | xPD | ander         |   | a(n)n(e)r           | a̅nr         |   |   |   |   | dan |   |   |    |        373-08 |
 | w   |        | rethskap     | xNC | redskab       |   | retzscap            | retzſcap     |   |   |   |   | dan |   |   |    |        373-08 |
-| w   |        | mæth         | xAP | med           |   | meth                | meth         |   |   |   |   | dan |   |   |    |        373-08 |
+| w   |        | mæth         | xAV | med           |   | meth                | meth         |   |   |   |   | dan |   |   |    |        373-08 |
 | w   |        | til          | xAP | til           |   | till                | tıll         |   |   |   |   | dan |   |   |    |        373-08 |
 | w   |        | sankte       | xAJ | sankte        |   | s(anc)te            | st̅e          |   |   |   |   | dan |   |   |    |        373-08 |
 | lm  | 373-09 |              |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |
@@ -195,7 +195,7 @@
 | w   |        | i            | xAP | i             |   | j                   | ȷ            |   |   |   |   | dan |   |   |    |        373-09 |
 | w   |        | grabrother   | xNC | gråbrødre     |   | grabrøthr(e)        | grabrøthr   |   |   |   |   | dan |   |   |    |        373-09 |
 | w   |        | kloster      | xNC | kloster       |   | clost(er)           | cloſt       |   |   |   |   | dan |   |   |    |        373-09 |
-| w   |        | sum          | xPD | som           |   | som                 | ſo          |   |   |   |   | dan |   |   |    |        373-09 |
+| w   |        | sum          | xRP | som           |   | som                 | ſo          |   |   |   |   | dan |   |   |    |        373-09 |
 | w   |        | min          | xPD | min           |   | my(n)               | my̅           |   |   |   |   | dan |   |   |    |        373-09 |
 | w   |        | husbonde     | xNC | husbonde      |   | hosbonde            | hoſbonde     |   |   |   |   | dan |   |   |    |        373-09 |
 | PE  | b      | AndJen003    |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |
@@ -236,14 +236,14 @@
 | w   |        | thri         | xNA | tre           |   | thre                | thre         |   |   |   |   | dan |   |   |    |        373-11 |
 | w   |        | skilling     | xNC | skilling      |   | s(killing)          |             |   |   |   |   | dan |   |   |    |        373-11 |
 | w   |        | grot         | xNC | grot          |   | gr(ot)              | grꝭ          |   |   |   |   | dan |   |   |    |        373-11 |
-| w   |        | sum          | xPD | som           |   | so(m)               | ſo̅           |   |   |   |   | dan |   |   |    |        373-11 |
-| w   |        | thænne       | xAT | dette         |   | th(et)te            | thꝫte        |   |   |   |   | dan |   |   |    |        373-11 |
+| w   |        | sum          | xRP | som           |   | so(m)               | ſo̅           |   |   |   |   | dan |   |   |    |        373-11 |
+| w   |        | thænne       | xDD | dette         |   | th(et)te            | thꝫte        |   |   |   |   | dan |   |   |    |        373-11 |
 | w   |        | fornævnd     | xAJ | fornævnte     |   | for(nefnde)         | forᷠͤ          |   |   |   |   | dan |   |   |    |        373-11 |
 | w   |        | goths        | xNC | gods          |   | gotz                | gotz         |   |   |   |   | dan |   |   |    |        373-11 |
 | w   |        | mere         | xAJ | mere          |   | mer(e)              | mer         |   |   |   |   | dan |   |   |    |        373-11 |
 | lm  | 373-12 |              |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |
 | w   |        | skylde       | xVB | skylder       |   | schylder            | ſchylder     |   |   |   |   | dan |   |   |    |        373-12 |
-| w   |        | thæn         | xAT | dem           |   | them                | the         |   |   |   |   | dan |   |   |    |        373-12 |
+| w   |        | thæn         | xPE | dem           |   | them                | the         |   |   |   |   | dan |   |   |    |        373-12 |
 | w   |        | skule        | xVB | skulle        |   | schule              | ſchule       |   |   |   |   | dan |   |   |    |        373-12 |
 | w   |        | jungfrue     | xNC | jomfruerne    |   | jomfrwerne          | ȷomfrwerne   |   |   |   |   | dan |   |   |    |        373-12 |
 | w   |        | ok           | xCC | og            |   | oc                  | oc           |   |   |   |   | dan |   |   |    |        373-12 |
@@ -252,17 +252,17 @@
 | w   |        |              | xNP | Clara         |   | clar(e)             | clar        |   |   |   |   | dan |   |   |    |        373-12 |
 | w   |        | kloster      | xNC | kloster       |   | clost(er)           | cloſt       |   |   |   |   |     |   |   |    |        373-12 |
 | w   |        | skifte       | xVB | skifte        |   | schiffte            | ſchıffte     |   |   |   |   | dan |   |   |    |        373-12 |
-| w   |        | i            | xAP | i             |   | j                   | ȷ            |   |   |   |   | dan |   |   |    |        373-12 |
+| w   |        | i            | xAV | i             |   | j                   | ȷ            |   |   |   |   | dan |   |   |    |        373-12 |
 | w   |        | mællem       | xAP | mellem        |   | mellem              | melle       |   |   |   |   | dan |   |   |    |        373-12 |
 | w   |        | sik          | xPD | sig           |   | sich                | ſıch         |   |   |   |   | dan |   |   |    |        373-12 |
 | w   |        | ok           | xCC | og            |   | oc                  | oc           |   |   |   |   | dan |   |   |    |        373-12 |
 | w   |        | bithje       | xVB | bede          |   | bethe               | bethe        |   |   |   |   | dan |   |   |    |        373-12 |
 | lm  | 373-13 |              |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |
-| w   |        | goth         | xAJ | god           |   | got                 | got          |   |   |   |   | dan |   |   |    |        373-13 |
+| w   |        | goth         | xAV | godt          |   | got                 | got          |   |   |   |   | dan |   |   |    |        373-13 |
 | w   |        | for          | xAP | for           |   | for                 | foꝛ          |   |   |   |   | dan |   |   |    |        373-13 |
 | w   |        | min          | xPD | min           |   | myn                 | my          |   |   |   |   | dan |   |   |    |        373-13 |
 | w   |        | sjal         | xNC | sjæl          |   | siell               | ſıell        |   |   |   |   | dan |   |   |    |        373-13 |
-| w   |        | ok           | xNC | og            |   | Oc                  | Oc           |   |   |   |   | dan |   |   |    |        373-13 |
+| w   |        | ok           | xAV | og            |   | Oc                  | Oc           |   |   |   |   | dan |   |   |    |        373-13 |
 | w   |        | skøte        | xVB | skøder        |   | schiøder            | ſchıøder     |   |   |   |   | dan |   |   |    |        373-13 |
 | w   |        | jak          | xPD | jeg           |   | jech                | ȷech         |   |   |   |   | dan |   |   |    |        373-13 |
 | w   |        | ok           | xCC | og            |   | oc                  | oc           |   |   |   |   | dan |   |   |    |        373-13 |
@@ -285,28 +285,28 @@
 | w   |        | vat          | xAJ | vådt          |   | wot                 | wot          |   |   |   |   | dan |   |   |    |        373-14 |
 | w   |        | ok           | xCC | og            |   | oc                  | oc           |   |   |   |   | dan |   |   |    |        373-14 |
 | w   |        | thyr         | xAJ | tørt          |   | thyrt               | thyrt        |   |   |   |   | dan |   |   |    |        373-14 |
-| w   |        | ænge         | xPD | inte          |   | enchte              | enchte       |   |   |   |   | dan |   |   |    |        373-14 |
-| w   |        | undentaken   | xAJ | undtaget      |   | vnde(n)tagit        | vnde̅tagit    |   |   |   |   | dan |   |   |    |        373-14 |
+| w   |        | ænge         | xPD | ingte          |   | enchte              | enchte       |   |   |   |   | dan |   |   |    |        373-14 |
+| w   |        | undentaken   | xAJ | undentaget      |   | vnde(n)tagit        | vnde̅tagit    |   |   |   |   | dan |   |   |    |        373-14 |
 | w   |        | til          | xAP | til           |   | till                | tıll         |   |   |   |   | dan |   |   |    |        373-14 |
 | w   |        | ævinnelik    | xAJ | evindelig     |   | ewy(n)-¦neligh      | ewy̅-¦nelıgh  |   |   |   |   | dan |   |   |    | 373-14—373-15 |
 | w   |        | eghe         | xNC | eje           |   | eye                 | eye          |   |   |   |   | dan |   |   |    |        373-15 |
 | w   |        | mæth         | xAP | med           |   | meth                | meth         |   |   |   |   | dan |   |   |    |        373-15 |
-| w   |        | thænne       | xAT | dette         |   | thette              | thette       |   |   |   |   | dan |   |   |    |        373-15 |
+| w   |        | thænne       | xDD | dette         |   | thette              | thette       |   |   |   |   | dan |   |   |    |        373-15 |
 | w   |        | min          | xPD | mit           |   | myt                 | myt          |   |   |   |   | dan |   |   |    |        373-15 |
 | w   |        | open         | xAJ | åbne          |   | opne                | opne         |   |   |   |   | dan |   |   |    |        373-15 |
 | w   |        | brev         | xNC | brev          |   | b(re)ff             | b̅ff          |   |   |   |   | dan |   |   |    |        373-15 |
 | w   |        | item         | xAV |               |   | Jt(em)              | Jtꝭ          |   |   |   |   | lat |   |   |    |        373-15 |
-| w   |        | ske          | xVB | skete         |   | schethe             | ſchethe      |   |   |   |   | dan |   |   |    |        373-15 |
-| w   |        | thæn         | xAT | det           |   | th(et)              | thꝫ          |   |   |   |   | dan |   |   |    |        373-15 |
+| w   |        | ske          | xVB | skede         |   | schethe             | ſchethe      |   |   |   |   | dan |   |   |    |        373-15 |
+| w   |        | thæn         | xPE | det           |   | th(et)              | thꝫ          |   |   |   |   | dan |   |   |    |        373-15 |
 | w   |        | sva          | xAV | så            |   | swo                 | ſwo          |   |   |   |   | dan |   |   |    |        373-15 |
-| w   |        | thæn         | xAT | det           |   | th(et)              | thꝫ          |   |   |   |   | dan |   |   |    |        373-15 |
+| w   |        | thæn         | xPE | det           |   | th(et)              | thꝫ          |   |   |   |   | dan |   |   |    |        373-15 |
 | w   |        | guth         | xNC | Gud           |   | guth                | guth         |   |   |   |   | dan |   |   |    |        373-15 |
 | w   |        | forbjuthe    | xVB | forbyde       |   | forbyuthe           | forbyuthe    |   |   |   |   | dan |   |   |    |        373-15 |
 | w   |        | at           | xCS | at            |   | at                  | at           |   |   |   |   | dan |   |   |    |        373-15 |
-| w   |        | thænne       | xAT | disse         |   | thesse              | theſſe       |   |   |   |   | dan |   |   |    |        373-15 |
+| w   |        | thænne       | xDD | disse         |   | thesse              | theſſe       |   |   |   |   | dan |   |   |    |        373-15 |
 | lm  | 373-16 |              |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |
 | w   |        | fornævnd     | xAJ | fornævnte     |   | for(nefnde)         | forͩͤ          |   |   |   |   | dan |   |   |    |        373-16 |
-| w   |        | 2            | xNA | 2             |   | ij                  | ij           |   |   |   |   | dan |   |   |    |        373-16 |
+| n   |        | 2            |     | 2             |   | ij                  | ij           |   |   |   |   | dan |   |   |    |        373-16 |
 | w   |        | pund         | xNC | pund          |   | pu(n)d              | pu̅d          |   |   |   |   | dan |   |   |    |        373-16 |
 | w   |        | korn         | xNC | korn          |   | korn                | kor         |   |   |   |   | dan |   |   |    |        373-16 |
 | w   |        | ække         | xAV | ikke          |   | jcke                | ȷcke         |   |   |   |   | dan |   |   |    |        373-16 |
@@ -316,7 +316,7 @@
 | w   |        | kloster      | xNC | kloster       |   | clost(er)           | clost       |   |   |   |   | dan |   |   |    |        373-16 |
 | w   |        | innen        | xAP | inden         |   | j(n)ne(n)           | ȷ̅ne̅          |   |   |   |   | dan |   |   |    |        373-16 |
 | w   |        | kyndelmisse  | xNC | kyndelmisse   |   | kyndelmøsse         | kyndelmøſſe  |   |   |   |   | dan |   |   |    |        373-16 |
-| w   |        | sum          | xPD | som           |   | som                 | ſo          |   |   |   |   | dan |   |   |    |        373-16 |
+| w   |        | sum          | xRP | som           |   | som                 | ſo          |   |   |   |   | dan |   |   |    |        373-16 |
 | w   |        | forskreven   | xAJ | foreskrevet   |   | for(e)sc(re)uet     | forſcuet   |   |   |   |   | dan |   |   |    |        373-16 |
 | w   |        | sta          | xVB | står          |   | stor                | ſtor         |   |   |   |   | dan |   |   |    |        373-16 |
 | lm  | 373-17 |              |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |
@@ -364,7 +364,7 @@
 | w   |        | min          | xPD | mit           |   | myt                 | myt          |   |   |   |   | dan |   |   |    |        373-19 |
 | w   |        | insighle     | xNC | indsegl       |   | jncigle             | ȷncigle      |   |   |   |   | dan |   |   |    |        373-19 |
 | w   |        | mæth         | xAP | med           |   | meth                | meth         |   |   |   |   | dan |   |   |    |        373-19 |
-| w   |        | thænne       | xAT | disse         |   | thesse              | theſſe       |   |   |   |   | dan |   |   |    |        373-19 |
+| w   |        | thænne       | xDD | disse         |   | thesse              | theſſe       |   |   |   |   | dan |   |   |    |        373-19 |
 | w   |        | æfterskrive  | xVB | efterskrevne  |   | efft(er)sc(re)ffne  | efftſcffne |   |   |   |   | dan |   |   |    |        373-19 |
 | lm  | 373-20 |              |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |
 | w   |        | min          | xPD | mine          |   | myne                | myne         |   |   |   |   | dan |   |   |    |        373-20 |
@@ -372,7 +372,7 @@
 | w   |        | ok           | xCC | og            |   | oc                  | oc           |   |   |   |   | dan |   |   |    |        373-20 |
 | w   |        | vin          | xNC | venners       |   | weners              | wener       |   |   |   |   | dan |   |   |    |        373-20 |
 | w   |        | insighle     | xNC | indsegle      |   | jncigle             | ȷncigle      |   |   |   |   | dan |   |   |    |        373-20 |
-| w   |        | svasum       | xPD | såsom         |   | soso(m)             | ſoſo̅         |   |   |   |   | dan |   |   |    |        373-20 |
+| w   |        | svasum       | xRP | såsom         |   | soso(m)             | ſoſo̅         |   |   |   |   | dan |   |   |    |        373-20 |
 | w   |        | være         | xVB | ere           |   | ær(e)               | ær          |   |   |   |   | dan |   |   |    |        373-20 |
 | PE  | b      | JenKra004    |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |
 | w   |        |              | xNP | Jens          |   | jens                | ȷen         |   |   |   |   | dan |   |   |    |        373-20 |
@@ -402,7 +402,7 @@
 | w   |        | systerdotter | xNC | søsterdatters |   | søst(er)dott(er)s   | ſøſtdott  |   |   |   |   | dan |   |   |    |        373-21 |
 | w   |        | hængje       | xVB | hængte        |   | hengde              | hengde       |   |   |   |   | dan |   |   |    |        373-21 |
 | w   |        | for          | xAP | for           |   | for                 | for          |   |   |   |   | dan |   |   |    |        373-21 |
-| w   |        | thænne       | xAT | dette         |   | thette              | thette       |   |   |   |   | dan |   |   |    |        373-21 |
+| w   |        | thænne       | xDD | dette         |   | thette              | thette       |   |   |   |   | dan |   |   |    |        373-21 |
 | w   |        | brev         | xNC | brev          |   | b(re)ff             | b̅ff          |   |   |   |   | dan |   |   |    |        373-21 |
 | w   |        |              | lat |               |   | dat(um)             | dat         |   |   |   |   | lat |   |   |    |        373-21 |
 | lm  | 373-22 |              |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |

@@ -66,8 +66,8 @@
 | lm  | 413-02 |             |     |             |   |                   |              |   |   |   |   |     |   |   |    |        |
 | w   |        | upa         | xAP | opå         |   | wpa               | wpa          |   |   |   |   | dan |   |   |    | 413-02 |
 | w   |        | thæn        | xPD | det         |   | thet              | thet         |   |   |   |   | dan |   |   |    | 413-02 |
-| w   |        | at          | xIM | at          |   | at                | at           |   |   |   |   | dan |   |   |    | 413-02 |
-| w   |        | misse       | xVB | messe       |   | messe             | meſſe        |   |   |   |   | dan |   |   |    | 413-02 |
+| w   |        | at          | xCS | at          |   | at                | at           |   |   |   |   | dan |   |   |    | 413-02 |
+| w   |        | misse       | xNC | messe       |   | messe             | meſſe        |   |   |   |   | dan |   |   |    | 413-02 |
 | w   |        | ok          | xCC | og          |   | oc                | oc           |   |   |   |   | dan |   |   |    | 413-02 |
 | w   |        | guth        | xNC | Guds        |   | gudz              | gudz         |   |   |   |   | dan |   |   |    | 413-02 |
 | w   |        | thjaneste   | xNC | tjeneste    |   | thieneste         | thieneſte    |   |   |   |   | dan |   |   |    | 413-02 |
@@ -80,8 +80,8 @@
 | w   |        |             | xNP | Roskilde    |   | roskildh          | roſkildh     |   |   |   |   | dan |   |   |    | 413-02 |
 | PL  |      e |             |     |             |   |                   |              |   |   |   |   |     |   |   |    |        |
 | w   |        | mughe       | xVB | må          |   | mo                | mo           |   |   |   |   | dan |   |   |    | 413-02 |
-| w   |        | thænne      | xDD | disse       |   | thesse            | theſſe       |   |   |   |   | dan |   |   |    | 413-02 |
-| w   |        | ytermere    | xAV | yderme      |   | ydh(e)rmer(e)     | ÿdhꝛmeꝛ    |   |   |   |   | dan |   |   |    | 413-02 |
+| w   |        | thænne      | xPD | disse       |   | thesse            | theſſe       |   |   |   |   | dan |   |   |    | 413-02 |
+| w   |        | ytermere    | xAV | ydermere      |   | ydh(e)rmer(e)     | ÿdhꝛmeꝛ    |   |   |   |   | dan |   |   |    | 413-02 |
 | w   |        | økje        | xVB | øges        |   | øgess             | øgeſſ        |   |   |   |   | dan |   |   |    | 413-02 |
 | w   |        | ok          | xCC | og          |   | oc                | oc           |   |   |   |   | dan |   |   |    | 413-02 |
 | lm  | 413-03 |             |     |             |   |                   |              |   |   |   |   |     |   |   |    |        |
@@ -108,7 +108,7 @@
 | w   |        | unne        | xVB | undt        |   | wnt               | wnt          |   |   |   |   | dan |   |   |    | 413-04 |
 | w   |        | ok          | xCC | og          |   | oc                | oc           |   |   |   |   | dan |   |   |    | 413-04 |
 | w   |        | til         | xAV | til         |   | til               | tıl          |   |   |   |   | dan |   |   |    | 413-04 |
-| w   |        | late        | xVB | ladt        |   | ladith            | ladith       |   |   |   |   | dan |   |   |    | 413-04 |
+| w   |        | late        | xVB | ladet        |   | ladith            | ladith       |   |   |   |   | dan |   |   |    | 413-04 |
 | w   |        | at          | xCS | at          |   | at                | at           |   |   |   |   | dan |   |   |    | 413-04 |
 | w   |        | fornævnd    | xAJ | fornævnte   |   | for(nefnde)       | foꝛᷠͤ          |   |   |   |   | dan |   |   |    | 413-04 |
 | w   |        | kloster     | xNC | kloster     |   | klosth(e)r        | kloſthꝛ     |   |   |   |   | dan |   |   |    | 413-04 |
@@ -127,7 +127,7 @@
 | w   |        | hær         | xAV | her         |   | h(er)             | h̅            |   |   |   |   | dan |   |   |    | 413-05 |
 | w   |        | æfter       | xAV | efter       |   | effth(e)r         | effthꝛ      |   |   |   |   | dan |   |   |    | 413-05 |
 | w   |        | kome        | xVB | kommende    |   | ko(m)me(n)d(e)    | ko̅me̅        |   |   |   |   | dan |   |   |    | 413-05 |
-| w   |        | æfter       | xAV | efter       |   | effth(e)r         | effthꝛ      |   |   |   |   | dan |   |   |    | 413-05 |
+| w   |        | æfter       | xAP | efter       |   | effth(e)r         | effthꝛ      |   |   |   |   | dan |   |   |    | 413-05 |
 | w   |        | goth        | xAJ | godt        |   | gott              | gott         |   |   |   |   | dan |   |   |    | 413-05 |
 | w   |        | folks       | xNC | folks       |   | folks             | folk        |   |   |   |   | dan |   |   |    | 413-05 |
 | w   |        | almuse      | xNC | almisse     |   | almwsse           | almwſſe      |   |   |   |   | dan |   |   |    | 413-05 |
@@ -144,7 +144,7 @@
 | w   |        | var         | xDP | vort        |   | wort              | woꝛt         |   |   |   |   | dan |   |   |    | 413-06 |
 | w   |        | fornævnd    | xAJ | fornævnte   |   | for(nefnde)       | foꝛᷠͤ          |   |   |   |   | dan |   |   |    | 413-06 |
 | w   |        | biskopsdom  | xNC | biskopsdom  |   | biskopsdom        | bıſkopſdo   |   |   |   |   | dan |   |   |    | 413-06 |
-| w   |        | thi         | xCS | thi         |   | Thij              | Thij         |   |   |   |   | dan |   |   |    | 413-06 |
+| w   |        | thi         | xAV | thi         |   | Thij              | Thij         |   |   |   |   | dan |   |   |    | 413-06 |
 | w   |        | bithje      | xVB | bede        |   | bethe             | bethe        |   |   |   |   | dan |   |   |    | 413-06 |
 | w   |        | ok          | xCC | og          |   | oc                | oc           |   |   |   |   | dan |   |   |    | 413-06 |
 | w   |        | bjuthe      | xVB | byde        |   | bywdhe            | bywdhe       |   |   |   |   | dan |   |   |    | 413-06 |
@@ -170,9 +170,9 @@
 | w   |        | ok          | xCC | og          |   | oc                | oc           |   |   |   |   | dan |   |   |    | 413-07 |
 | w   |        | frome       | xVB | fromme      |   | fro(m)me          | fro̅me        |   |   |   |   | dan |   |   |    | 413-07 |
 | w   |        | thæn        | xPD | det         |   | thet              | thet         |   |   |   |   | dan |   |   |    | 413-07 |
-| w   |        | til         | xAV | til         |   | til               | tıl          |   |   |   |   | dan |   |   |    | 413-07 |
-| w   |        | thi         | xCS | thi         |   | thj               | thȷ          |   |   |   |   | dan |   |   |    | 413-07 |
-| w   |        | bætst       | xAJ | bedste      |   | beste             | beſte        |   |   |   |   | dan |   |   |    | 413-07 |
+| w   |        | til         | xAP | til         |   | til               | tıl          |   |   |   |   | dan |   |   |    | 413-07 |
+| w   |        | thæm        | xAT | thi         |   | thj               | thȷ          |   |   |   |   | dan |   |   |    | 413-07 |
+| w   |        | bætste      | xNC | bedste      |   | beste             | beſte        |   |   |   |   | dan |   |   |    | 413-07 |
 | w   |        | fore        | xAP | for         |   | for(e)            | foꝛ         |   |   |   |   | dan |   |   |    | 413-07 |
 | w   |        | guth        | xNC | Gud         |   | gud(e)            | gu          |   |   |   |   | dan |   |   |    | 413-07 |
 | w   |        | skyld       | xNC | skyld       |   | skuld             | ſkűld        |   |   |   |   | dan |   |   |    | 413-07 |
@@ -201,9 +201,9 @@
 | w   |        |             |     |             |   | eiis              | eııſ         |   |   |   |   | lat |   |   |    | 413-09 |
 | w   |        |             |     |             |   | pe(n)ite(ntiis)   | pe̅ıteͭͥͥᷤ        |   |   |   |   | lat |   |   |    | 413-09 |
 | w   |        | af          | xAP | af          |   | aff               | aff          |   |   |   |   | dan |   |   |    | 413-09 |
-| w   |        | thæn        | xPD | den         |   | th(e)n            | thn̅          |   |   |   |   | dan |   |   |    | 413-09 |
+| w   |        | thæn        | xAT | den         |   | th(e)n            | thn̅          |   |   |   |   | dan |   |   |    | 413-09 |
 | w   |        | nate        | xNC | nåde        |   | nadhe             | nadhe        |   |   |   |   | dan |   |   |    | 413-09 |
-| w   |        | sum         | xRP | som         |   | so(m)             | ſo̅           |   |   |   |   | dan |   |   |    | 413-09 |
+| w   |        | sum         | xCS | som         |   | so(m)             | ſo̅           |   |   |   |   | dan |   |   |    | 413-09 |
 | w   |        | guth        | xNC | Gud         |   | gudh              | gűdh         |   |   |   |   | dan |   |   |    | 413-09 |
 | w   |        | have        | xVB | har         |   | haffur            | haffur       |   |   |   |   | dan |   |   |    | 413-09 |
 | w   |        | unne        | xVB | undt        |   | wn(n)tt           | wn̅tt         |   |   |   |   | dan |   |   |    | 413-09 |

@@ -45,7 +45,7 @@ Roskilde Kapitels Arkiv
 | w   |        | vi           | xPD    | vi             |   | Wij                  | Wij           |   |   |   |                  | dan     |   |   |    |        414-01 |
 | PE  | b      | JenBro001    |        |                |   |                      |               |   |   |   |                  |         |   |   |    |               |
 | w   |        |              | xNP    | Jens           |   | Jens                 | Jen          |   |   |   |                  | dan     |   |   |    |        414-01 |
-| w   |        |              | xNxNPC | Brostrup       |   | brodstorp            | bꝛodſtoꝛp     |   |   |   |                  | dan     |   |   |    |        414-01 |
+| w   |        |              | xNP   | Brostrup       |   | brodstorp            | bꝛodſtoꝛp     |   |   |   |                  | dan     |   |   |    |        414-01 |
 | PE  | e      | JenBro001    |        |                |   |                      |               |   |   |   |                  |         |   |   |    |               |
 | w   |        | mæth         | xAP    | med            |   | m(et)                | mꝫ            |   |   |   |                  | dan     |   |   |    |        414-01 |
 | w   |        | guth         | xNC    | Guds           |   | gudz                 | gudz          |   |   |   |                  | dan     |   |   |    |        414-01 |
@@ -76,7 +76,7 @@ Roskilde Kapitels Arkiv
 | w   |        | for          | xAP    | for            |   | for                  | foꝛ           |   |   |   |                  | dan     |   |   |    |        414-02 |
 | w   |        | vi           | xPD    | os             |   | oss                  | oſſ           |   |   |   |                  | dan     |   |   |    |        414-02 |
 | w   |        | upa          | xAP    | på             |   | pa                   | pa            |   |   |   |                  | dan     |   |   |    |        414-02 |
-| w   |        | rætterthing  | xNC    | rettergang     |   | Retth(e)rtingh       | Retthꝛtıngh  |   |   |   |                  | dan     |   |   |    |        414-02 |
+| w   |        | rætterthing  | xNC    | retterting     |   | Retth(e)rtingh       | Retthꝛtıngh  |   |   |   |                  | dan     |   |   |    |        414-02 |
 | w   |        | være         | xVB    | var            |   | Wor                  | Woꝛ           |   |   |   |                  | dan     |   |   |    |        414-02 |
 | w   |        | skikke       | xVB    | skikket        |   | skicket              | ſkıcket       |   |   |   |                  | dan     |   |   |    |        414-02 |
 | lm  | 414-03 |              |        |                |   |                      |               |   |   |   |                  |         |   |   |    |               |
@@ -200,7 +200,7 @@ Roskilde Kapitels Arkiv
 | w   |        | vikari       | xNC    | vikar          |   | vicarij              | vıcaꝛiȷ       |   |   |   |                  | lat/dan |   |   |    |        414-08 |
 | w   |        | thæn         | xPD    | de             |   | the                  | the           |   |   |   |                  | dan     |   |   |    |        414-08 |
 | w   |        | være         | xVB    | vare           |   | wor(e)               | wor          |   |   |   |                  | dan     |   |   |    |        414-08 |
-| w   |        |              | XX     | kejsede        |   | kesde                | keſde         |   |   |   |                  | dan     |   |   |    |        414-08 |
+| w   |        | kæjse        | xVB     | kejsede        |   | kesde                | keſde         |   |   |   |                  | dan     |   |   |    |        414-08 |
 | w   |        | ok           | xCC    | og             |   | oc                   | oc            |   |   |   |                  | dan     |   |   |    |        414-08 |
 | w   |        | samdræktelik | xAJ    | samdrægtelige  |   | samdrektelege        | ſamdꝛektelege |   |   |   |                  | dan     |   |   |    |        414-08 |
 | w   |        | tiltake      | xVB    | tiltagne       |   | tiltagne             | tıltagne      |   |   |   |                  | dan     |   |   |    |        414-08 |
@@ -240,7 +240,7 @@ Roskilde Kapitels Arkiv
 | PE  | e      | PedAnd001    |        |                |   |                      |               |   |   |   |                  |         |   |   |    |               |
 | w   |        | af           | xAP    | af             |   | aff                  | aff           |   |   |   |                  | dan     |   |   |    |        414-10 |
 | PL  | b      |              |        |                |   |                      |               |   |   |   |                  |         |   |   |    |               |
-| w   |        |              | xNP    |                |   | heliegesthus         | helıegeſthu  |   |   |   |                  | dan     |   |   |    |        414-10 |
+| w   |        | helaghgæsthus | xNC    | helliggæsthus |   | heliegesthus         | helıegeſthu  |   |   |   |                  | dan     |   |   |    |        414-10 |
 | PL  | e      |              |        |                |   |                      |               |   |   |   |                  |         |   |   |    |               |
 | w   |        | samestaths   | xAV    | sammesteds     |   | sa(m)mestedz         | ſa̅meſtedz     |   |   |   |                  | dan     |   |   |    |        414-10 |
 | w   |        | um           | xAP    | om             |   | Om                   | O            |   |   |   |                  | dan     |   |   |    |        414-10 |
@@ -276,8 +276,8 @@ Roskilde Kapitels Arkiv
 | PE  | e      | HenJen003    |        |                |   |                      |               |   |   |   |                  |         |   |   |    |               |
 | w   |        | i            | xAV    | i              |   | j                    | ȷ             |   |   |   |                  | dan     |   |   |    |        414-12 |
 | w   |        | bo           | xVB    | bo             |   | boo                  | boo           |   |   |   |                  | dan     |   |   |    |        414-12 |
-| w   |        | item         | xAV    | item           |   | Jt(em)               | Jtꝭ           |   |   |   |                  | lat     |   |   |    |        414-12 |
-| w   |        | en           | xAT    | en             |   | en                   | e            |   |   |   |                  | dan     |   |   |    |        414-12 |
+| w   |        | item         | xAV    |               |   | Jt(em)               | Jtꝭ           |   |   |   |                  | lat     |   |   |    |        414-12 |
+| w   |        | en           | xNA    | en             |   | en                   | e            |   |   |   |                  | dan     |   |   |    |        414-12 |
 | w   |        | garth        | xNC    | gård           |   | gord                 | goꝛd          |   |   |   |                  | dan     |   |   |    |        414-12 |
 | w   |        | i            | xAV    | i              |   | j                    | ȷ             |   |   |   |                  | dan     |   |   |    |        414-12 |
 | PL  | b      |              |        |                |   |                      |               |   |   |   |                  |         |   |   |    |               |
@@ -291,7 +291,7 @@ Roskilde Kapitels Arkiv
 | PE  | e      | EsbXxx001    |        |                |   |                      |               |   |   |   |                  |         |   |   |    |               |
 | w   |        | i            | xAV    | i              |   | j                    | ȷ             |   |   |   |                  | dan     |   |   |    |        414-12 |
 | w   |        | bo           | xVB    | bor            |   | bor                  | boꝛ           |   |   |   |                  | dan     |   |   |    |        414-12 |
-| w   |        | item         | xAV    | item           |   | Jt(em)               | Jtꝭ           |   |   |   |                  | lat     |   |   |    |        414-12 |
+| w   |        | item         | xAV    |               |   | Jt(em)               | Jtꝭ           |   |   |   |                  | lat     |   |   |    |        414-12 |
 | w   |        | thri         | xNA    | tre            |   | tree                 | tree          |   |   |   |                  | dan     |   |   |    |        414-12 |
 | w   |        | garth        | xNC    | gårde          |   | gorde                | goꝛde         |   |   |   |                  | dan     |   |   |    |        414-12 |
 | w   |        | i            | xAV    | i              |   | j                    | ȷ             |   |   |   |                  | dan     |   |   |    |        414-12 |
@@ -319,7 +319,7 @@ Roskilde Kapitels Arkiv
 | w   |        | i            | xAP    | i              |   | j                    | ȷ             |   |   |   |                  | dan     |   |   |    |        414-13 |
 | w   |        | bo           | xVB    | bo             |   | boo                  | boo           |   |   |   |                  | dan     |   |   |    |        414-13 |
 | w   |        | ok           | xCC    | og             |   | Oc                   | Oc            |   |   |   |                  | dan     |   |   |    |        414-13 |
-| w   |        | en           | xAT    | en             |   | en                   | e            |   |   |   |                  | dan     |   |   |    |        414-13 |
+| w   |        | en           | xNA    | en             |   | en                   | e            |   |   |   |                  | dan     |   |   |    |        414-13 |
 | w   |        | garth        | xNC    | gård           |   | gord                 | goꝛd          |   |   |   |                  | dan     |   |   |    |        414-13 |
 | w   |        | i            | xAP    | i              |   | j                    | ȷ             |   |   |   |                  | dan     |   |   |    |        414-13 |
 | lm  | 414-14 |              |        |                |   |                      |               |   |   |   |                  |         |   |   |    |               |
@@ -334,10 +334,10 @@ Roskilde Kapitels Arkiv
 | w   |        | goth         | xAJ    | gode           |   | gode                 | gode          |   |   |   |                  | dan     |   |   |    |        414-14 |
 | w   |        | man          | xNC    | mænd           |   | me(n)                | me̅            |   |   |   |                  | dan     |   |   |    |        414-14 |
 | w   |        | sva          | xAV    | så             |   | swo                  | ſwo           |   |   |   |                  | dan     |   |   |    |        414-14 |
-| w   |        | for          | xAV    | for            |   | for                  | foꝛ           |   |   |   |                  | dan     |   |   |    |        414-14 |
-| w   |        | rætte        | xVB    | rette          |   | r(e)tte              | rtte         |   |   |   |                  | dan     |   |   |    |        414-14 |
+| w   |        | for          | xAP    | for            |   | for                  | foꝛ           |   |   |   |                  | dan     |   |   |    |        414-14 |
+| w   |        | ræt          | xNC    | rette          |   | r(e)tte              | rtte         |   |   |   |                  | dan     |   |   |    |        414-14 |
 | w   |        | æfter        | xAP    | efter          |   | efft(er)             | efft         |   |   |   |                  | dan     |   |   |    |        414-14 |
-| w   |        | thæn         | xPD    | den            |   | th(e)n               | thn̅           |   |   |   |                  | dan     |   |   |    |        414-14 |
+| w   |        | thæn         | xAT    | den            |   | th(e)n               | thn̅           |   |   |   |                  | dan     |   |   |    |        414-14 |
 | w   |        | bevisning    | xNC    | bevisning      |   | bewisningh           | bewıſnıngh    |   |   |   |                  | dan     |   |   |    |        414-14 |
 | w   |        | sum          | xRP    | som            |   | so(m)                | ſo̅            |   |   |   |                  | dan     |   |   |    |        414-14 |
 | lm  | 414-15 |              |        |                |   |                      |               |   |   |   |                  |         |   |   |    |               |
@@ -370,14 +370,14 @@ Roskilde Kapitels Arkiv
 | w   |        |              | xNP    | Ølsemagle      |   | ølsiemagle           | ølſıemagle    |   |   |   |                  | dan     |   |   |    |        414-16 |
 | PL  | e      |              |        |                |   |                      |               |   |   |   |                  |         |   |   |    |               |
 | p   |        |              |        |                |   | /                    | /             |   |   |   |                  | dan     |   |   |    |        414-16 |
-| w   |        | thæn         | xPD    | den            |   | th(e)n               | thn̅           |   |   |   |                  | dan     |   |   |    |        414-16 |
+| w   |        | thæn         | xAT    | den            |   | th(e)n               | thn̅           |   |   |   |                  | dan     |   |   |    |        414-16 |
 | w   |        | garth        | xNC    | gård           |   | gord                 | goꝛd          |   |   |   |                  | dan     |   |   |    |        414-16 |
 | w   |        | i            | xAP    | i              |   | j                    | ȷ             |   |   |   |                  | dan     |   |   |    |        414-16 |
 | PL  | b      |              |        |                |   |                      |               |   |   |   |                  |         |   |   |    |               |
 | w   |        |              | xNP    | Bonderup       |   | bonde(ro)p           | bondeͦp        |   |   |   |                  | dan     |   |   |    |        414-16 |
 | PL  | e      |              |        |                |   |                      |               |   |   |   |                  |         |   |   |    |               |
 | w   |        | ok           | xCC    | og             |   | oc                   | oc            |   |   |   |                  | dan     |   |   |    |        414-16 |
-| w   |        | thæn         | xPD    | den            |   | th(e)n               | thn̅           |   |   |   |                  | dan     |   |   |    |        414-16 |
+| w   |        | thæn         | xAT    | den            |   | th(e)n               | thn̅           |   |   |   |                  | dan     |   |   |    |        414-16 |
 | w   |        | garth        | xNC    | gård           |   | gord                 | goꝛd          |   |   |   |                  | dan     |   |   |    |        414-16 |
 | w   |        | i            | xAP    | i              |   | j                    | ȷ             |   |   |   |                  | dan     |   |   |    |        414-16 |
 | PL  | b      |              |        |                |   |                      |               |   |   |   |                  |         |   |   |    |               |
@@ -404,9 +404,9 @@ Roskilde Kapitels Arkiv
 | w   |        | vitne        | xVB    | vidnes         |   | widnis(e)            | wıdnı        |   |   |   |                  | dan     |   |   |    |        414-17 |
 | w   |        | ok           | xCC    | og             |   | Oc                   | Oc            |   |   |   |                  | dan     |   |   |    |        414-17 |
 | w   |        | thær         | xAV    | der            |   | th(e)r               | thꝛ          |   |   |   |                  | dan     |   |   |    |        414-17 |
-| w   |        | mot          | xAP    | imod           |   | emodh                | emodh         |   |   |   |                  | dan     |   |   |    |        414-17 |
+| w   |        | amot          | xAV    | imod           |   | emodh                | emodh         |   |   |   |                  | dan     |   |   |    |        414-17 |
 | w   |        | være         | xVB    | ere            |   | ær(e)                | ær           |   |   |   |                  | dan     |   |   |    |        414-17 |
-| w   |        | ænge         | xPD    | engen          |   | enge(n)              | enge̅          |   |   |   |                  | dan     |   |   |    |        414-17 |
+| w   |        | ænge         | xPD    | ingen          |   | enge(n)              | enge̅          |   |   |   |                  | dan     |   |   |    |        414-17 |
 | w   |        | brev         | xNC    | brev           |   | breff                | bꝛeff         |   |   |   |                  | dan     |   |   |    |        414-17 |
 | lm  | 414-18 |              |        |                |   |                      |               |   |   |   |                  |         |   |   |    |               |
 | w   |        | take         | xVB    | tagen          |   | tagh(e)n             | taghn̅         |   |   |   |                  | dan     |   |   |    |        414-18 |
@@ -447,11 +447,11 @@ Roskilde Kapitels Arkiv
 | lm  | 414-20 |              |        |                |   |                      |               |   |   |   |                  |         |   |   |    |               |
 | w   |        | behalde      | xVB    | beholde        |   | beholde              | beholde       |   |   |   |                  | dan     |   |   |    |        414-20 |
 | w   |        | æfter        | xAP    | efter          |   | efft(er)             | efft         |   |   |   |                  | dan     |   |   |    |        414-20 |
-| w   |        | thæn         | xPD    | des            |   | thæs                 | thæ          |   |   |   |                  | dan     |   |   |    |        414-20 |
+| w   |        | thæn         | xAT    | des            |   | thæs                 | thæ          |   |   |   |                  | dan     |   |   |    |        414-20 |
 | w   |        | open         | xAJ    | åbne           |   | obne                 | obne          |   |   |   |                  | dan     |   |   |    |        414-20 |
 | w   |        | brev         | xNC    | brevs          |   | breff(is)            | bꝛeffꝭ        |   |   |   |                  | dan     |   |   |    |        414-20 |
 | w   |        | ljuthelse    | xNC    | lydelse        |   | ludels(e)            | ludel        |   |   |   |                  | dan     |   |   |    |        414-20 |
-| w   |        | undentaken   | xAJ    | undtaget       |   | wnne(n)taget         | wnne̅taget     |   |   |   |                  | dan     |   |   |    |        414-20 |
+| w   |        | undentaken   | xAJ    | undentaget       |   | wnne(n)taget         | wnne̅taget     |   |   |   |                  | dan     |   |   |    |        414-20 |
 | w   |        | thæn         | xAT    | det            |   | th(et)               | thꝫ           |   |   |   |                  | dan     |   |   |    |        414-20 |
 | w   |        | halv         | xAJ    | halve          |   | halffue              | halffue       |   |   |   |                  | dan     |   |   |    |        414-20 |
 | w   |        | bol          | xNC    | bol            |   | boll                 | boll          |   |   |   |                  | dan     |   |   |    |        414-20 |

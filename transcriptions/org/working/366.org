@@ -46,7 +46,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | gøre        | xVB | gjort      |   | giort           | gıort        |   |   |   |   | dan |   |   |   |        366-01 |
 | w   |        | have        | xVB | har        |   | haver           | haver        |   |   |   |   | dan |   |   |   |        366-01 |
 | w   |        | sva         | xAV | så         |   | sa              | ſa           |   |   |   |   | dan |   |   |   |        366-01 |
-| w   |        | at          | xAP | at         |   | at              | at           |   |   |   |   | dan |   |   |   |        366-01 |
+| w   |        | at          | xCS | at         |   | at              | at           |   |   |   |   | dan |   |   |   |        366-01 |
 | w   |        |             | xUA |            |   | 000             | 000          |   |   |   |   | dan |   |   |   |        366-01 |
 | lm  | 366-02 |             |     |            |   |                 |              |   |   |   |   |     |   |   |   |               |
 | w   |        | jak         | xPD | jeg        |   | jech            | ȷech         |   |   |   |   | dan |   |   |   |        366-02 |
@@ -81,12 +81,12 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | tiltal      | xNC | tiltal     |   | til¦taal        | til¦taal     |   |   |   |   | dan |   |   |   | 366-03—366-04 |
 | w   |        | item        | xAV |            |   | Jt(em)          | Jtꝭ          |   |   |   |   | lat |   |   |   |        366-04 |
 | w   |        | være        | xVB | vare       |   | ware            | ware         |   |   |   |   | dan |   |   |   |        366-04 |
-| w   |        | thæn        | xAT | det        |   | th(et)          | thꝫ          |   |   |   |   | dan |   |   |   |        366-04 |
+| w   |        | thæn        | xPE | det        |   | th(et)          | thꝫ          |   |   |   |   | dan |   |   |   |        366-04 |
 | w   |        | sva         | xAV | så         |   | saa             | ſaa          |   |   |   |   | dan |   |   |   |        366-04 |
-| w   |        | thæn        | xAT | det        |   | th(et)          | thꝫ          |   |   |   |   | dan |   |   |   |        366-04 |
+| w   |        | thæn        | xCS | det        |   | th(et)          | thꝫ          |   |   |   |   | dan |   |   |   |        366-04 |
 | w   |        | guth        | xNC | Gud        |   | gudh            | gudh         |   |   |   |   | dan |   |   |   |        366-04 |
 | w   |        | forbjuthe   | xVB | forbyde    |   | far bydhe       | far bydhe    |   |   |   |   | dan |   |   |   |        366-04 |
-| w   |        | thæn        | xAT | det        |   | th(et)          | thꝫ          |   |   |   |   | dan |   |   |   |        366-04 |
+| w   |        | thæn        | xPE | det        |   | th(et)          | thꝫ          |   |   |   |   | dan |   |   |   |        366-04 |
 | w   |        | thæn        | xAT | den        |   | then            | the         |   |   |   |   | dan |   |   |   |        366-04 |
 | w   |        | fornævnd    | xAJ | fornævnte  |   | fa{r(nefnde)}   | fa{rͩͤ}        |   |   |   |   | dan |   |   |   |        366-04 |
 | w   |        | garth       | xNC | gård       |   | gard            | gard         |   |   |   |   | dan |   |   |   |        366-04 |
@@ -106,8 +106,8 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        |             | xUA | med        |   | 000med          | 000med       |   |   |   |   | dan |   |   |   |        366-05 |
 | w   |        | mæth        | xAP | med        |   | medh            | medh         |   |   |   |   | dan |   |   |   |        366-05 |
 | w   |        | landslagh   | xNC | landslag   |   | lands¦lagh      | lands¦lagh   |   |   |   |   | dan |   |   |   | 366-05—366-06 |
-| w   |        | tha         | xAV | de         |   | tha             | tha          |   |   |   |   | dan |   |   |   |        366-06 |
-| w   |        | til         | xAP | til        |   | til             | til          |   |   |   |   | dan |   |   |   |        366-06 |
+| w   |        | tha         | xAV | da         |   | tha             | tha          |   |   |   |   | dan |   |   |   |        366-06 |
+| w   |        | til         | xAV | til        |   | til             | til          |   |   |   |   | dan |   |   |   |        366-06 |
 | w   |        | binde       | xVB | binder     |   | bi(n)der        | bı̅der        |   |   |   |   | dan |   |   |   |        366-06 |
 | w   |        | jak         | xPD | jeg        |   | {j}ech          | {ȷ}ech       |   |   |   |   | dan |   |   |   |        366-06 |
 | w   |        | jak         | xPD | mig        |   | mich            | mich         |   |   |   |   | dan |   |   |   |        366-06 |
@@ -137,7 +137,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | thær        | xAV | der        |   | thær            | thær         |   |   |   |   | dan |   |   |   |        366-07 |
 | lm  | 366-08 |             |     |            |   |                 |              |   |   |   |   |     |   |   |   |               |
 | w   |        | æfterkome   | xVB | efterkomme |   | æfter ku(m)me   | æfter ku̅me   |   |   |   |   | dan |   |   |   |        366-08 |
-| w   |        | uten        | xAV | uden       |   | vden            | vde         |   |   |   |   | dan |   |   |   |        366-08 |
+| w   |        | uten        | xAP | uden       |   | vden            | vde         |   |   |   |   | dan |   |   |   |        366-08 |
 | w   |        | al          | xAJ | alt        |   | {a}lt           | {a}lt        |   |   |   |   | dan |   |   |   |        366-08 |
 | w   |        | hinder      | xNC | hinder     |   | hinder          | hinder       |   |   |   |   | dan |   |   |   |        366-08 |
 | w   |        | ok          | xCC | og         |   | oc              | oc           |   |   |   |   | dan |   |   |   |        366-08 |
@@ -157,7 +157,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | min         | xPD | min        |   | mi0             | mi0          |   |   |   |   | dan |   |   |   |        366-09 |
 | w   |        | insighle    | xNC | indsegl    |   | jncighele       | ȷncıghele    |   |   |   |   | dan |   |   |   |        366-09 |
 | w   |        | for         | xAP | for        |   | far             | far          |   |   |   |   | dan |   |   |   |        366-09 |
-| w   |        | thænne      | xAT | dette      |   | th(et)te        | thꝫte        |   |   |   |   | dan |   |   |   |        366-09 |
+| w   |        | thænne      | xDD | dette      |   | th(et)te        | thꝫte        |   |   |   |   | dan |   |   |   |        366-09 |
 | w   |        | brev        | xNC | brev       |   | breff           | breff        |   |   |   |   | dan |   |   |   |        366-09 |
 | w   |        | ok          | xCC | og         |   | oc              | oc           |   |   |   |   | dan |   |   |   |        366-09 |
 | w   |        | bithje      | xVB | bedes      |   | bedhes          | bedhe       |   |   |   |   | dan |   |   |   |        366-09 |
@@ -169,9 +169,9 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | man         | xNC | mænds      |   | mæn{s}          | mæn{s}       |   |   |   |   | dan |   |   |   |        366-10 |
 | w   |        | insighle    | xNC | indsegle   |   | {i}ncighele     | {i}ncıghele  |   |   |   |   | dan |   |   |   |        366-10 |
 | w   |        | for         | xAP | for        |   | far             | far          |   |   |   |   | dan |   |   |   |        366-10 |
-| w   |        | thænne      | xAT | dette      |   | th(et)te        | thꝫte        |   |   |   |   | dan |   |   |   |        366-10 |
+| w   |        | thænne      | xDD | dette      |   | th(et)te        | thꝫte        |   |   |   |   | dan |   |   |   |        366-10 |
 | w   |        | brev        | xNC | brev       |   | breeff          | breeff       |   |   |   |   | dan |   |   |   |        366-10 |
-| w   |        | sum         | xPD | som        |   | su(m)           | ſu̅           |   |   |   |   | dan |   |   |   |        366-10 |
+| w   |        | sum         | xRP | som        |   | su(m)           | ſu̅           |   |   |   |   | dan |   |   |   |        366-10 |
 | w   |        | være        | xVB | er         |   | ær              | ær           |   |   |   |   | dan |   |   |   |        366-10 |
 | lm  | 366-11 |             |     |            |   |                 |              |   |   |   |   |     |   |   |   |               |
 | PE  | b      | TorBra001   |     |            |   |                 |              |   |   |   |   |     |   |   |   |               |
@@ -201,7 +201,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | PE  | e      | PedPou002   |     |            |   |                 |              |   |   |   |   |     |   |   |   |               |
 | w   |        | i           | xAP | i          |   | j               | ȷ            |   |   |   |   | dan |   |   |   |        366-12 |
 | w   |        |             | xNP |            |   | weristorp       | weriſtorp    |   |   |   |   | dan |   |   |   |        366-12 |
-| w   |        | sum         | xPD | som        |   | su(m)           | ſu̅           |   |   |   |   | dan |   |   |   |        366-12 |
+| w   |        | sum         | xRP | som        |   | su(m)           | ſu̅           |   |   |   |   | dan |   |   |   |        366-12 |
 | w   |        | skrive      | xVB | skrevet    |   | skrewet         | ſkrewet      |   |   |   |   | dan |   |   |   |        366-12 |
 | w   |        | være        | xVB | er         |   | ær              | ær           |   |   |   |   | dan |   |   |   |        366-12 |
 | w   |        | ar          | xNC | år         |   | aar             | aar          |   |   |   |   | dan |   |   |   |        366-12 |
@@ -209,8 +209,8 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | guth        | xNC | Guds       |   | gudz            | gudz         |   |   |   |   | dan |   |   |   |        366-12 |
 | w   |        | byrth       | xNC | byrd       |   | byrd            | byrd         |   |   |   |   | dan |   |   |   |        366-12 |
 | lm  | 366-13 |             |     |            |   |                 |              |   |   |   |   |     |   |   |   |               |
-| w   |        |             | xNA | 1000       |   | .m.             | ..          |   |   |   |   | dan |   |   |   |        366-13 |
-| w   |        |             | xNA | 430        |   | cdxxx           | cdxxx        |   |   |   |   | dan |   |   |   |        366-13 |
+| n   |        | 1000        |     | 1000       |   | .m.             | ..          |   |   |   |   | dan |   |   |   |        366-13 |
+| n   |        | 430         |     | 430        |   | cdxxx           | cdxxx        |   |   |   |   | dan |   |   |   |        366-13 |
 | w   |        | ok          | xCC | og         |   | oc              | oc           |   |   |   |   | dan |   |   |   |        366-13 |
 | w   |        | upa         | xAP | på         |   | pa              | pa           |   |   |   |   | dan |   |   |   |        366-13 |
 | w   |        | thæn        | xAT | det        |   | th(et)          | thꝫ          |   |   |   |   | dan |   |   |   |        366-13 |

@@ -44,7 +44,7 @@
 | lm  | 378-01 |             |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |
 | w   |        | al          | xAJ | alle               |   | Alle                 | Alle          |   |   |   |       | dan |   |   |   |        378-01 |
 | w   |        | man         | xNC | mænd               |   | me(n)                | me̅            |   |   |   |       | dan |   |   |   |        378-01 |
-| w   |        | thænne      | xAT | dette              |   | th(ette)             | thꝫͤ           |   |   |   |       | dan |   |   |   |        378-01 |
+| w   |        | thænne      | xDD | dette              |   | th(ette)             | thꝫͤ           |   |   |   |       | dan |   |   |   |        378-01 |
 | w   |        | brev        | xNC | brev               |   | b(re)ff              | bff          |   |   |   |       | dan |   |   |   |        378-01 |
 | w   |        | se          | xVB | see                |   | see                  | ſee           |   |   |   |       | dan |   |   |   |        378-01 |
 | w   |        | æller       | xCC | eller              |   | ell(e)r              | ellꝝ          |   |   |   |       | dan |   |   |   |        378-01 |
@@ -64,7 +64,7 @@
 | w   |        | ok          | xCC | og                 |   | Och                  | Och           |   |   |   |       | dan |   |   |   |        378-02 |
 | w   |        | kungøre     | xVB | kundgør            |   | kw(n)gør             | kw̅gøꝛ         |   |   |   |       | dan |   |   |   |        378-02 |
 | w   |        | mæth        | xAP | med                |   | m(et)                | mꝫ            |   |   |   |       | dan |   |   |   |        378-02 |
-| w   |        | thænne      | xAT | dette              |   | th(ette)             | thꝫͤ           |   |   |   |       | dan |   |   |   |        378-02 |
+| w   |        | thænne      | xDD | dette              |   | th(ette)             | thꝫͤ           |   |   |   |       | dan |   |   |   |        378-02 |
 | w   |        | min         | xPD | mit                |   | myt                  | myt           |   |   |   |       | dan |   |   |   |        378-02 |
 | w   |        | open        | xAJ | åbne               |   | opne                 | opne          |   |   |   |       | dan |   |   |   |        378-02 |
 | w   |        | brev        | xNC | brev               |   | breff                | breff         |   |   |   |       | dan |   |   |   |        378-02 |
@@ -78,7 +78,7 @@
 | w   |        | ævinnelik   | xAJ | evindelige         |   | ewi(n)ndelige        | ewı̅ndelige    |   |   |   |       | dan |   |   |   |        378-02 |
 | w   |        | eghe        | xNC | eje                |   | Eyæ                  | Eyæ           |   |   |   |       | dan |   |   |   |        378-02 |
 | p   |        |             |     |                    |   | /                    | /             |   |   |   |       | dan |   |   |   |        378-02 |
-| w   |        | en          | xNA | en                 |   | En                   | En            |   |   |   |       | dan |   |   |   |        378-02 |
+| w   |        | en          | xAT | en                 |   | En                   | En            |   |   |   |       | dan |   |   |   |        378-02 |
 | w   |        | vælboren    | xAJ | velbåren           |   | wel¦bore(n)          | wel¦bore̅      |   |   |   |       | dan |   |   |   | 378-02—378-03 |
 | w   |        | man         | xNC | mand               |   | ma(n)                | ma̅            |   |   |   |       | dan |   |   |   |        378-03 |
 | w   |        | hærre       | xNC | herr               |   | h(e)r                | hꝝ            |   |   |   |       | dan |   |   |   |        378-03 |
@@ -96,7 +96,7 @@
 | w   |        | goths       | xNC | gods               |   | gooz                 | gooz          |   |   |   |       | dan |   |   |   |        378-03 |
 | w   |        | ok          | xCC | og                 |   | oc                   | oc            |   |   |   |       | dan |   |   |   |        378-03 |
 | w   |        | rættighhet  | xNC | rettighed          |   | rætighet             | rætighet      |   |   |   |       | dan |   |   |   |        378-03 |
-| w   |        | sum         | xPD | som                |   | som                  | ſom           |   |   |   |       | dan |   |   |   |        378-03 |
+| w   |        | sum         | xRP | som                |   | som                  | ſom           |   |   |   |       | dan |   |   |   |        378-03 |
 | w   |        | jak         | xPD | jeg                |   | iec                  | ıec           |   |   |   |       | dan |   |   |   |        378-03 |
 | w   |        | have        | xVB | har                |   | haffu(er)            | haffu        |   |   |   |       | dan |   |   |   |        378-03 |
 | w   |        | i           | xAP | i                  |   | j                    | j             |   |   |   |       | dan |   |   |   |        378-03 |
@@ -110,12 +110,12 @@
 | PL  | e      |             |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |
 | w   |        | ok          | xCC | og                 |   | oc                   | oc            |   |   |   |       | dan |   |   |   |        378-04 |
 | w   |        | brev        | xNC | brevene            |   | b(re)ffuene          | bffuene      |   |   |   |       | dan |   |   |   |        378-04 |
-| w   |        | sum         | xNP | som                |   | som                  | ſo           |   |   |   |       | dan |   |   |   |        378-04 |
+| w   |        | sum         | xRP | som                |   | som                  | ſo           |   |   |   |       | dan |   |   |   |        378-04 |
 | w   |        | upa         | xAP | på                 |   | paa                  | paa           |   |   |   |       | dan |   |   |   |        378-04 |
 | w   |        | fornævnd    | xAJ | fornævnte          |   | ford(nefnde)         | foꝛ          |   |   |   |  sup | dan |   |   |   |        378-04 |
 | w   |        | goths       | xNC | gods               |   | gooz                 | gooz          |   |   |   |       | dan |   |   |   |        378-04 |
-| w   |        | lut         | xNC | luder              |   | luder                | luder         |   |   |   |       | dan |   |   |   |        378-04 |
-| w   |        | sum         | xNP | som                |   | som                  | ſom           |   |   |   |       | dan |   |   |   |        378-04 |
+| w   |        |             | xVB |                    |   | luder                | luder         |   |   |   |       | dan |   |   |   |        378-04 |
+| w   |        | sum         | xRP | som                |   | som                  | ſom           |   |   |   |       | dan |   |   |   |        378-04 |
 | w   |        | jak         | xPD | jeg                |   | iec                  | ıec           |   |   |   |       | dan |   |   |   |        378-04 |
 | w   |        | æfter       | xAP | efter              |   | epter                | epter         |   |   |   |       | dan |   |   |   |        378-04 |
 | p   |        |             |     |                    |   | /                    | /             |   |   |   |       | dan |   |   |   |        378-04 |
@@ -127,7 +127,7 @@
 | w   |        | al          | xAJ | al                 |   | all                  | all           |   |   |   |       | dan |   |   |   |        378-05 |
 | w   |        | thæn        | xAT | den                |   | th(e)n               | th̅           |   |   |   |       | dan |   |   |   |        378-05 |
 | w   |        | jorth       | xNC | jord               |   | jordh                | ȷoꝛdh         |   |   |   |       | dan |   |   |   |        378-05 |
-| w   |        | sum         | xPD | som                |   | som                  | ſom           |   |   |   |       | dan |   |   |   |        378-05 |
+| w   |        | sum         | xRP | som                |   | som                  | ſom           |   |   |   |       | dan |   |   |   |        378-05 |
 | w   |        | min         | xPD | min                |   | mi(n)                | mi̅            |   |   |   |       | dan |   |   |   |        378-05 |
 | w   |        | father      | xNC | fader              |   | fath(e)r             | fathꝝ         |   |   |   |       | dan |   |   |   |        378-05 |
 | w   |        | skifte      | xVB | skifte             |   | skiffte              | ſkiffte       |   |   |   |       | dan |   |   |   |        378-05 |
@@ -140,9 +140,9 @@
 | w   |        |             | xNP | Jepsen             |   | jeops(øn)            | ȷeop         |   |   |   |       | dan |   |   |   |        378-05 |
 | PE  | e      | AndJak001   |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |
 | p   |        |             |     |                    |   | /                    | /             |   |   |   |       | dan |   |   |   |        378-05 |
-| w   |        | sum         | xPD | som                |   | som                  | ſom           |   |   |   |       | dan |   |   |   |        378-05 |
+| w   |        | sum         | xRP | som                |   | som                  | ſom           |   |   |   |       | dan |   |   |   |        378-05 |
 | w   |        | ligje       | xVB | ligger             |   | ligg(er)             | ligg         |   |   |   |       | dan |   |   |   |        378-05 |
-| w   |        | ok          | xCC | og                 |   | oc                   | oc            |   |   |   |       | dan |   |   |   |        378-05 |
+| w   |        | ok          | xAV | og                 |   | oc                   | oc            |   |   |   |       | dan |   |   |   |        378-05 |
 | w   |        | upa         | xAP | på                 |   | pa                   | pa            |   |   |   |       | dan |   |   |   |        378-05 |
 | PL  | b      |             |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |
 | w   |        |             |     | Reinstrup          |   | re¦yenst(or)p        | re¦yenſtͦp     |   |   |   |       | dan |   |   |   | 378-05—378-06 |
@@ -157,7 +157,7 @@
 | w   |        | goths       | xNC | godsens            |   | gothzens             | gothzen      |   |   |   |       | dan |   |   |   |        378-06 |
 | w   |        | tilligjelse | xNC | tilliggelse        |   | telligelse           | telligelſe    |   |   |   |       | dan |   |   |   |        378-06 |
 | w   |        | sva         | xAV | så                 |   | swo                  | ſwo           |   |   |   |       | dan |   |   |   |        378-06 |
-| w   |        | sum         | xPD | som                |   | som                  | ſo           |   |   |   |       | dan |   |   |   |        378-06 |
+| w   |        | sum         | xRP | som                |   | som                  | ſo           |   |   |   |       | dan |   |   |   |        378-06 |
 | w   |        | være        | xVB | er                 |   | ær                   | ær            |   |   |   |       | dan |   |   |   |        378-06 |
 | w   |        | aker        | xNC | ager               |   | ager                 | ageꝛ          |   |   |   |       | dan |   |   |   |        378-06 |
 | w   |        | ok          | xCC | og                 |   | oc                   | oc            |   |   |   |       | dan |   |   |   |        378-06 |
@@ -174,7 +174,7 @@
 | w   |        | mæth        | xAP | med                |   | m(et)                | mꝫ            |   |   |   |       | dan |   |   |   |        378-07 |
 | w   |        | al          | xAJ | alle               |   | alle                 | alle          |   |   |   |       | dan |   |   |   |        378-07 |
 | w   |        | stykke      | xNC | stykke             |   | stycke               | ſtycke        |   |   |   |       | dan |   |   |   |        378-07 |
-| w   |        | sum         | xPD | som                |   | som                  | ſo           |   |   |   |       | dan |   |   |   |        378-07 |
+| w   |        | sum         | xRP | som                |   | som                  | ſo           |   |   |   |       | dan |   |   |   |        378-07 |
 | w   |        | nævne       | xVB | nævnes             |   | neffnes              | neffne       |   |   |   |       | dan |   |   |   |        378-07 |
 | w   |        | kunne       | xVB | kan                |   | kan                  | ka           |   |   |   |       | dan |   |   |   |        378-07 |
 | p   |        |             |     |                    |   | /                    | /             |   |   |   |       | dan |   |   |   |        378-07 |
@@ -233,9 +233,9 @@
 | w   |        | tiltale     | xVB | tiltale            |   | tel tale             | tel tale      |   |   |   |       | dan |   |   |   |        378-10 |
 | w   |        | mæth        | xAP | med                |   | m(et)                | mꝫ            |   |   |   |       | dan |   |   |   |        378-10 |
 | w   |        | al          | xAJ | alle               |   | alle                 | alle          |   |   |   |       | dan |   |   |   |        378-10 |
-| w   |        | thæn        | xAT | deres              |   | ther(is)             | therꝭ         |   |   |   |       | dan |   |   |   |        378-10 |
+| w   |        | thæn        | xPE | deres              |   | ther(is)             | therꝭ         |   |   |   |       | dan |   |   |   |        378-10 |
 | w   |        | tilligjelse | xNC | tilliggelse        |   | telligelse           | telligelſe    |   |   |   |       | dan |   |   |   |        378-10 |
-| w   |        | sum         | xPD | som                |   | som                  | ſo           |   |   |   |       | dan |   |   |   |        378-10 |
+| w   |        | sum         | xRP | som                |   | som                  | ſo           |   |   |   |       | dan |   |   |   |        378-10 |
 | w   |        | forskreven  | xAJ | foreskrevet        |   | for(e) sc(re)ffu(et) | for ſcffuꝫ  |   |   |   |       | dan |   |   |   |        378-10 |
 | w   |        | sta         | xVB | står               |   | staar                | ſtaar         |   |   |   |       | dan |   |   |   |        378-10 |
 | w   |        | til         | xAP | til                |   | Tell                 | Tell          |   |   |   |       | dan |   |   |   |        378-10 |
@@ -252,7 +252,7 @@
 | w   |        | man         | xNC | mænd               |   | me(n)                | me̅            |   |   |   |       | dan |   |   |   |        378-11 |
 | w   |        | ok          | xCC | og                 |   | oc                   | oc            |   |   |   |       | dan |   |   |   |        378-11 |
 | w   |        | vælboren    | xAJ | velbårne           |   | welborne             | welboꝛne      |   |   |   |       | dan |   |   |   |        378-11 |
-| w   |        | sum         | xPD | som                |   | som                  | ſom           |   |   |   |       | dan |   |   |   |        378-11 |
+| w   |        | sum         | xRP | som                |   | som                  | ſom           |   |   |   |       | dan |   |   |   |        378-11 |
 | w   |        | være        | xVB | er                 |   | ær                   | ær            |   |   |   |       | dan |   |   |   |        378-11 |
 | PE  | b      | AndJen004   |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |
 | w   |        |             | xNP | Anders             |   | and(er)ss            | andſſ        |   |   |   |       | dan |   |   |   |        378-11 |
@@ -291,7 +291,7 @@
 | w   |        | insighle    | xNC | indsegl            |   | Jndzigle             | Jndzigle      |   |   |   |       | dan |   |   |   |        378-12 |
 | w   |        | for         | xAP | for                |   | for                  | foꝛ           |   |   |   |       | dan |   |   |   |        378-12 |
 | lm  | 378-13 |             |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |
-| w   |        | thænne      | xAT | dette              |   | the(tte)             | the          |   |   |   |       | dan |   |   |   |        378-13 |
+| w   |        | thænne      | xDD | dette              |   | the(tte)             | the          |   |   |   |       | dan |   |   |   |        378-13 |
 | w   |        | brev        | xNC | brev               |   | breff                | breff         |   |   |   |       | dan |   |   |   |        378-13 |
 | w   |        | mæth        | xAP | med                |   | m(et)                | mꝫ            |   |   |   |       | dan |   |   |   |        378-13 |
 | w   |        | min         | xPD | mit                |   | mit                  | mit           |   |   |   |       | dan |   |   |   |        378-13 |

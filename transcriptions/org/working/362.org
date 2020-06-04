@@ -44,8 +44,8 @@
 | lm  | 362-01 |             |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |
 | w   |        | al          | xAJ | alle           |   | Alle                | Alle          |   |   |   |   | dan |   |   |    |        362-01 |
 | w   |        | man         | xNC | mænd           |   | men                 | me           |   |   |   |   | dan |   |   |    |        362-01 |
-| w   |        | sum         | xAV | som            |   | som                 | ſo           |   |   |   |   | dan |   |   |    |        362-01 |
-| w   |        | thænne      | xPD | dette          |   | thette              | thette        |   |   |   |   | dan |   |   |    |        362-01 |
+| w   |        | sum         | xRP | som            |   | som                 | ſo           |   |   |   |   | dan |   |   |    |        362-01 |
+| w   |        | thænne      | xDD | dette          |   | thette              | thette        |   |   |   |   | dan |   |   |    |        362-01 |
 | w   |        | brev        | xNC | brev           |   | breff               | breff         |   |   |   |   | dan |   |   |    |        362-01 |
 | w   |        | se          | xVB | see            |   | see                 | ſee           |   |   |   |   | dan |   |   |    |        362-01 |
 | w   |        | æller       | xCC | eller          |   | eller               | eller         |   |   |   |   | dan |   |   |    |        362-01 |
@@ -64,11 +64,11 @@
 | w   |        | ævinnelik   | xAV | evindelige     |   | ewinnelike          | ewinnelike    |   |   |   |   | dan |   |   |    |        362-02 |
 | w   |        | mæth        | xAP | med            |   | m(et)               | mꝫ            |   |   |   |   | dan |   |   |    |        362-02 |
 | w   |        | guth        | xNC | Gud            |   | gwth                | gwth          |   |   |   |   | dan |   |   |    |        362-02 |
-| w   |        | thæn        | xAT | det            |   | th(et)              | thꝫ           |   |   |   |   | dan |   |   |    |        362-02 |
+| w   |        | thæn        | xPE | det            |   | th(et)              | thꝫ           |   |   |   |   | dan |   |   |    |        362-02 |
 | w   |        | skule       | xVB | skulle         |   | skwle               | ſkwle         |   |   |   |   | dan |   |   |    |        362-02 |
 | w   |        | al          | xAJ | alle           |   | alle                | alle          |   |   |   |   | dan |   |   |    |        362-02 |
 | w   |        | man         | xNC | mænd           |   | men                 | me           |   |   |   |   | dan |   |   |    |        362-02 |
-| w   |        | vitherlik   | xAJ | viderlig       |   | with(e)rlikt        | with̅ꝛlıkt     |   |   |   |   | dan |   |   |    |        362-02 |
+| w   |        | vitherlik   | xAJ | vitterligt     |   | with(e)rlikt        | with̅ꝛlıkt     |   |   |   |   | dan |   |   |    |        362-02 |
 | lm  | 362-03 |             |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |
 | w   |        | være        | xVB | være           |   | ware                | ware          |   |   |   |   | dan |   |   |    |        362-03 |
 | w   |        | sva         | xAV | så             |   | so                  | ſo            |   |   |   |   | dan |   |   |    |        362-03 |
@@ -83,7 +83,7 @@
 | w   |        | vitherkænne | xVB | vederkendes    |   | with(e)r ¦=ke(n)nes | with̅ꝛ ¦=kēne |   |   |   |   | dan |   |   |    | 362-03—362-04 |
 | w   |        | jak         | xPD | mig            |   | mik                 | mik           |   |   |   |   | dan |   |   |    |        362-04 |
 | w   |        | mæth        | xAP | med            |   | m(et)               | mꝫ            |   |   |   |   | dan |   |   |    |        362-04 |
-| w   |        | thænne      | xAT | dette          |   | thette              | thette        |   |   |   |   | dan |   |   |    |        362-04 |
+| w   |        | thænne      | xDD | dette          |   | thette              | thette        |   |   |   |   | dan |   |   |    |        362-04 |
 | w   |        | min         | xPD | mit            |   | mit                 | mit           |   |   |   |   | dan |   |   |    |        362-04 |
 | w   |        | open        | xAJ | åbne           |   | opne                | opne          |   |   |   |   | dan |   |   |    |        362-04 |
 | w   |        | brev        | xNC | brev           |   | breff               | breff         |   |   |   |   | dan |   |   |    |        362-04 |
@@ -130,13 +130,13 @@
 | w   |        | nither      | xAP | neder          |   | nyth(e)r            | nẏth̅ꝛ         |   |   |   |   | dan |   |   |    |        362-07 |
 | w   |        | til         | xAP | til            |   | til                 | til           |   |   |   |   | dan |   |   |    |        362-07 |
 | w   |        | strand      | xNC | stranden       |   | stronden            | stronde      |   |   |   |   | dan |   |   |    |        362-07 |
-| w   |        |             | xNA | 60             |   | lx                  | lx            |   |   |   |   | dan |   |   |    |        362-07 |
+| n   |        |             |     | 60             |   | lx                  | lx            |   |   |   |   | dan |   |   |    |        362-07 |
 | w   |        | alen        | xNC | alen           |   | alne                | alne          |   |   |   |   | dan |   |   |    |        362-07 |
 | w   |        | ok          | xCC | og             |   | oc                  | oc            |   |   |   |   | dan |   |   |    |        362-07 |
 | lm  | 362-08 |             |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |
 | w   |        | innen       | xAP | inden          |   | jnne(n)             | jnnē          |   |   |   |   | dan |   |   |    |        362-08 |
 | w   |        | brethe      | xNC | bredden        |   | brethen             | brethe       |   |   |   |   | dan |   |   |    |        362-08 |
-| w   |        |             | xNA | 17             |   | xvij                | xvij          |   |   |   |   | dan |   |   |    |        362-08 |
+| n   |        |             |     | 17             |   | xvij                | xvij          |   |   |   |   | dan |   |   |    |        362-08 |
 | w   |        | alen        | xNC | alen           |   | alen                | ale          |   |   |   |   | dan |   |   |    |        362-08 |
 | w   |        | til         | xAP | til            |   | til                 | til           |   |   |   |   | dan |   |   |    |        362-08 |
 | PL  | b      |             |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |
@@ -176,7 +176,7 @@
 | w   |        | binde       | xVB | binder         |   | binder              | binder        |   |   |   |   | dan |   |   |    |        362-10 |
 | w   |        | jak         | xPD | jeg            |   | jac                 | jac           |   |   |   |   | dan |   |   |    |        362-10 |
 | w   |        | jak         | xPD | mig            |   | mik                 | mik           |   |   |   |   | dan |   |   |    |        362-10 |
-| w   |        | til         | xAP | til            |   | til                 | til           |   |   |   |   | dan |   |   |    |        362-10 |
+| w   |        | til         | xAV | til            |   | til                 | til           |   |   |   |   | dan |   |   |    |        362-10 |
 | lm  | 362-11 |             |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |
 | w   |        | mæth        | xAP | med            |   | m(et)               | mꝫ            |   |   |   |   | dan |   |   |    |        362-11 |
 | w   |        | min         | xPD | mine           |   | mine                | mine          |   |   |   |   | dan |   |   |    |        362-11 |
@@ -230,7 +230,7 @@
 | w   |        | man         | xNC | mænds          |   | mens                | men          |   |   |   |   | dan |   |   |    |        362-14 |
 | w   |        | insighle    | xNC | indsegl        |   | jnseyle             | jnſeýle       |   |   |   |   | dan |   |   |    |        362-14 |
 | w   |        | sva         | xAV | så             |   | so                  | ſo            |   |   |   |   | dan |   |   |    |        362-14 |
-| w   |        | sum         | xPD | som            |   | swm                 | ſw           |   |   |   |   | dan |   |   |    |        362-14 |
+| w   |        | sum         | xRP | som            |   | swm                 | ſw           |   |   |   |   | dan |   |   |    |        362-14 |
 | w   |        | være        | xVB | er             |   | er                  | er            |   |   |   |   | dan |   |   |    |        362-14 |
 | PE  | b      | JepMog001   |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |
 | w   |        |             | xNP | Jep            |   | jepp                | je           |   |   |   |   | dan |   |   |    |        362-14 |
@@ -260,7 +260,7 @@
 | w   |        | for         | xAP | for            |   | for                 | for           |   |   |   |   | dan |   |   |    |        362-16 |
 | w   |        | thænne      | xPD | dette          |   | thette              | thette        |   |   |   |   | dan |   |   |    |        362-16 |
 | w   |        | brev        | xNC | brev           |   | breff               | breff         |   |   |   |   | dan |   |   |    |        362-16 |
-| w   |        | sum         | xPD | som            |   | som                 | ſo           |   |   |   |   | dan |   |   |    |        362-16 |
+| w   |        | sum         | xRP | som            |   | som                 | ſo           |   |   |   |   | dan |   |   |    |        362-16 |
 | w   |        | give        | xVB | givet          |   | giwet               | giwet         |   |   |   |   | dan |   |   |    |        362-16 |
 | w   |        | ok          | xCC | og             |   | oc                  | oc            |   |   |   |   | dan |   |   |    |        362-16 |
 | w   |        | skrive      | xVB | skrevet        |   | skrywet             | ſkrẏwet       |   |   |   |   | dan |   |   |    |        362-16 |

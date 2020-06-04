@@ -75,7 +75,7 @@
 | w   |        | min             | xDP | min            |   | min              | mı          |   |   |   |   | dan     |   |   |    | 399-02 |
 | w   |        | leve            | xVB | levende        |   | lewendæ          | lewendæ      |   |   |   |   | dan     |   |   |    | 399-02 |
 | w   |        | røst            | xNC | røst           |   | røst             | røſt         |   |   |   |   | dan     |   |   |    | 399-02 |
-| w   |        | at              | xCS | ad             |   | ad               | ad           |   |   |   |   | dan     |   |   |    | 399-02 |
+| w   |        | at              | xCS | at             |   | ad               | ad           |   |   |   |   | dan     |   |   |    | 399-02 |
 | w   |        | thæn            | xAT | den            |   | then             | the         |   |   |   |   | dan     |   |   |    | 399-02 |
 | w   |        | jorth           | xNC | gård           |   | !giord¡          | !gioꝛd¡      |   |   |   |   | dan     |   |   |    | 399-02 |
 | w   |        | jak             | xPD | jeg            |   | ieg              | ıeg          |   |   |   |   | dan     |   |   |    | 399-02 |
@@ -97,19 +97,19 @@
 | w   |        | skylde          | xVB | skylder        |   | skylder          | ſkẏldeꝛ      |   |   |   |   | dan     |   |   |    | 399-03 |
 | w   |        |                 | XX  |                |   | arind(e)         | aꝛin        |   |   |   |   | dan     |   |   |    | 399-03 |
 | w   |        | ar              | xNC | år             |   | aar              | aaꝛ          |   |   |   |   | dan     |   |   |    | 399-03 |
-| w   |        | i               | xAP | i              |   | j                | ȷ            |   |   |   |   | dan     |   |   |    | 399-03 |
+| n   |        | 1               |     | 1              |   | j                | ȷ            |   |   |   |   | dan     |   |   |    | 399-03 |
 | w   |        | pund            | xNC | pund           |   | pwnd             | pwnd         |   |   |   |   | dan     |   |   |    | 399-03 |
 | w   |        | rugh            | xNC | rug            |   | rwgh             | rwgh         |   |   |   |   | dan     |   |   |    | 399-03 |
 | lm  | 399-04 |                 |     |                |   |                  |              |   |   |   |   |         |   |   |    |        |
 | w   |        | ok              | xCC | og             |   | oc               | oc           |   |   |   |   | dan     |   |   |    | 399-04 |
-| w   |        | i               | xAP | i              |   | j                | ȷ            |   |   |   |   | dan     |   |   |    | 399-04 |
+| n   |        | 1               |     | 1              |   | j                | ȷ            |   |   |   |   | dan     |   |   |    | 399-04 |
 | w   |        | pund            | xNC | pund           |   | pwnd             | pwnd         |   |   |   |   | dan     |   |   |    | 399-04 |
 | w   |        | bjug            | xNC | byg            |   | bywg             | bẏwg         |   |   |   |   | dan     |   |   |    | 399-04 |
 | w   |        | ok              | xCC | og             |   | oc               | oc           |   |   |   |   | dan     |   |   |    | 399-04 |
-| w   |        | i               | xAP | 2              |   | ij               | ij           |   |   |   |   | dan     |   |   |    | 399-04 |
+| n   |        | 2               |     | 2              |   | ij               | ij           |   |   |   |   | dan     |   |   |    | 399-04 |
 | w   |        | skilling        | xNC | skilling       |   | skiling          | ſkıling      |   |   |   |   | dan     |   |   | =  | 399-04 |
 | w   |        | grot            | xNC | grot           |   | g(rot)           | gꝭ           |   |   |   |   | dan     |   |   | == | 399-04 |
-| w   |        | at              | xCS | ad             |   | ad               | ad           |   |   |   |   | dan     |   |   |    | 399-04 |
+| w   |        | at              | xCS | at             |   | ad               | ad           |   |   |   |   | dan     |   |   |    | 399-04 |
 | w   |        | thæt            | xPD | det            |   | th(et)           | thꝫ          |   |   |   |   | dan     |   |   |    | 399-04 |
 | w   |        | være            | xVB | var            |   | war              | waꝛ          |   |   |   |   | dan     |   |   |    | 399-04 |
 | w   |        | min             | xDP | min            |   | min              | mi          |   |   |   |   | dan     |   |   |    | 399-04 |
@@ -166,12 +166,12 @@
 | w   |        | thæn            | xAT | de             |   | the              | the          |   |   |   |   | dan     |   |   |    | 399-07 |
 | w   |        | hetherlik       | xAJ | hæderlige      |   | hedh(e)rleghæ    | hedhꝛ̅leghæ   |   |   |   |   | dan     |   |   |    | 399-07 |
 | w   |        | jungfrue        | xNC | jomfruer       |   | jo(m)f(rv)er     | ȷo̅feͮꝛ        |   |   |   |   | dan     |   |   |    | 399-07 |
-| w   |        | at              | xIM | at             |   | ad               | ad           |   |   |   |   | dan     |   |   |    | 399-07 |
+| w   |        | at              | xCS | at             |   | ad               | ad           |   |   |   |   | dan     |   |   |    | 399-07 |
 | w   |        | skule           | xVB | skulle         |   | skulæ            | ſkulæ        |   |   |   |   | dan     |   |   |    | 399-07 |
 | w   |        | hvær            | xPD | hvert          |   | hwert            | hweꝛt        |   |   |   |   | dan     |   |   |    | 399-07 |
 | w   |        | ar              | xNC | år             |   | aar              | aaꝛ          |   |   |   |   | dan     |   |   |    | 399-07 |
 | w   |        | begange         | xVB | begange        |   | begongæ          | begongæ      |   |   |   |   | dan     |   |   |    | 399-07 |
-| w   |        | bathe           | xAV | begges         |   | begg(is)         | beggꝭ        |   |   |   |   | dan     |   |   |    | 399-07 |
+| w   |        | bathe           | xPD | begges         |   | begg(is)         | beggꝭ        |   |   |   |   | dan     |   |   |    | 399-07 |
 | w   |        | var             | xDP | vore           |   | woræ             | woꝛæ         |   |   |   |   | dan     |   |   |    | 399-07 |
 | w   |        | kær             | xAJ | kære           |   | kær(e)           | kær         |   |   |   |   | dan     |   |   |    | 399-07 |
 | w   |        | forældre        | xNC | forældres      |   | forældres        | foꝛældꝛe    |   |   |   |   | dan     |   |   |    | 399-07 |
@@ -189,10 +189,10 @@
 | w   |        | tha             | xAV | da             |   | tha              | tha          |   |   |   |   | dan     |   |   |    | 399-08 |
 | w   |        | være            | xVB | er             |   | er               | eꝛ           |   |   |   |   | dan     |   |   |    | 399-08 |
 | w   |        | min             | xDP | mit            |   | mit              | mít          |   |   |   |   | dan     |   |   |    | 399-08 |
-| w   |        | insighle        | xNC | indsegl        |   | inseylæ          | ínſeẏlæ      |   |   |   |   | dan     |   |   |    | 399-08 |
+| w   |        | insighle        | xNC | indsegle        |   | inseylæ          | ínſeẏlæ      |   |   |   |   | dan     |   |   |    | 399-08 |
 | w   |        | hængje          | xVB | hængt          |   | hænkt            | hænkt        |   |   |   |   | dan     |   |   |    | 399-08 |
 | w   |        | hær             | xAV | her            |   | h(er)            | h           |   |   |   |   | dan     |   |   |    | 399-08 |
-| w   |        | fore            | xNC | for            |   | foræ             | foꝛæ         |   |   |   |   | dan     |   |   |    | 399-08 |
+| w   |        | fore            | xAP | fore            |   | foræ             | foꝛæ         |   |   |   |   | dan     |   |   |    | 399-08 |
 | w   |        | thænne          | xDD | dette          |   | Th(et)tæ         | Thꝫtæ        |   |   |   |   | dan     |   |   |    | 399-08 |
 | w   |        | brev            | xNC | brev           |   | breff            | bꝛeff        |   |   |   |   | dan     |   |   |    | 399-08 |
 | w   |        | være            | xVB | var            |   | wor              | woꝛ          |   |   |   |   | dan     |   |   |    | 399-08 |

@@ -71,13 +71,13 @@ misdateret til 1425 i Rep.
 | w   |        | æfter        | xAP | efter       |   | effth(e)r       | effthꝛ       |   |   |   |   | dan |   |   |    |         359-02 |
 | w   |        | guth         | xNC | Guds        |   | gwdz            | gwdz          |   |   |   |   | dan |   |   |    |         359-02 |
 | w   |        | byrth        | xNC | byrd        |   | byrdh           | byꝛdh         |   |   |   |   | dan |   |   |    |         359-02 |
-| n   |        |              | rom | 1000        |   | m               | m             |   |   |   |   | dan |   |   |    |         359-02 |
-| n   |        |              | rom | 400         |   | cd              | cd            |   |   |   |   | dan |   |   |    |         359-02 |
+| n   |        | 1000         |     | 1000        |   | m               | m             |   |   |   |   | dan |   |   |    |         359-02 |
+| n   |        | 400          |     | 400         |   | cd              | cd            |   |   |   |   | dan |   |   |    |         359-02 |
 | w   |        | ok           | xCC | og          |   | och             | och           |   |   |   |   | dan |   |   |    |         359-02 |
-| n   |        |              | rom | 20          |   | xx              | xx            |   |   |   |   | dan |   |   |    |         359-02 |
+| n   |        | 20           |     | 20          |   | xx              | xx            |   |   |   |   | dan |   |   |    |         359-02 |
 | w   |        | upa          | xAP | på          |   | paa             | paa           |   |   |   |   | dan |   |   |    |         359-02 |
-| w   |        | thæn         | xPD | det         |   | th(et)          | thꝫ           |   |   |   |   | dan |   |   |    |         359-02 |
-| w   |        |              | rom | 5           |   | v               | v             |   |   |   |   | dan |   |   |    |         359-02 |
+| w   |        | thæn         | xΑΤ | det         |   | th(et)          | thꝫ           |   |   |   |   | dan |   |   |    |         359-02 |
+| n   |        | 5            |     | 5           |   | v               | v             |   |   |   |   | dan |   |   |    |         359-02 |
 | p   |        |              |     |             |   | /               | /             |   |   |   |   | dan |   |   |    |         359-02 |
 | w   |        | være         | xVB | var         |   | wor             | woꝛ           |   |   |   |   | dan |   |   |    |         359-02 |
 | w   |        | skikke       | xVB | skikket     |   | skygkit         | ſkygkit       |   |   |   |   | dan |   |   |    |         359-02 |
@@ -113,7 +113,7 @@ misdateret til 1425 i Rep.
 | w   |        | en           | xNA | et          |   | ith             | ıth           |   |   |   |   | dan |   |   |    |         359-04 |
 | w   |        | vinlik       | xAJ | venlig      |   | we(n)ligh       | we̅ligh        |   |   |   |   | dan |   |   |    |         359-04 |
 | w   |        | bytte        | xNC | bytte       |   | bytthe          | bytthe        |   |   |   |   | dan |   |   |    |         359-04 |
-| w   |        | sum          | xPD | som         |   | so(m)           | ſo̅            |   |   |   |   | dan |   |   |    |         359-04 |
+| w   |        | sum          | xΡP | som         |   | so(m)           | ſo̅            |   |   |   |   | dan |   |   |    |         359-04 |
 | w   |        | fornævnd     | xAJ | førnævnte   |   | før(nefnde)     | føꝛͤ           |   |   |   |   | dan |   |   |    |         359-04 |
 | PE  | b      | PouBad001    |     |             |   |                 |               |   |   |   |   |     |   |   |    |                |
 | w   |        |              | xNP | Poul        |   | paaild          | paaild        |   |   |   |   | dan |   |   |    |         359-04 |
@@ -123,7 +123,7 @@ misdateret til 1425 i Rep.
 | w   |        | husfrue      | xNC | hustru      |   | høstr(e)        | høﬅꝛ         |   |   |   |   | dan |   |   |    |         359-04 |
 | w   |        | vilje        | xVB | ville       |   | wylle           | wylle         |   |   |   |   | dan |   |   |    |         359-04 |
 | w   |        | gøre         | xVB | gøre        |   | gøre            | gøꝛe          |   |   |   |   | dan |   |   |    |         359-04 |
-| w   |        | i            | xAP | i           |   | i               | ı             |   |   |   |   | dan |   |   |    |         359-04 |
+| w   |        | i            | xAV | i           |   | i               | ı             |   |   |   |   | dan |   |   |    |         359-04 |
 | w   |        | mællem       | xAP | mellem      |   | mellw(m)        | mellw̅         |   |   |   |   | dan |   |   |    |         359-04 |
 | w   |        | vi           | xPD | os          |   | woss            | wo           |   |   |   |   | dan |   |   |    |         359-04 |
 | w   |        | hær          | xAV | her         |   | her             | heꝛ           |   |   |   |   | dan |   |   |    |         359-04 |
@@ -134,11 +134,11 @@ misdateret til 1425 i Rep.
 | w   |        | thæn         | xPD | dem         |   | thw(m)          | thw̅           |   |   |   |   | dan |   |   |    |         359-05 |
 | w   |        | tha          | xAV | da          |   | Tha             | Tha           |   |   |   |   | dan |   |   |    |         359-05 |
 | w   |        | bithje       | xVB | bøde        |   | bødhe           | bødhe         |   |   |   |   | dan |   |   |    |         359-05 |
-| w   |        | thæn         | xAT | de          |   | the             | the           |   |   |   |   | dan |   |   |    |         359-05 |
+| w   |        | thæn         | xPE | de          |   | the             | the           |   |   |   |   | dan |   |   |    |         359-05 |
 | w   |        | sva          | xAV | så          |   | saa             | ſaa           |   |   |   |   | dan |   |   |    |         359-05 |
-| w   |        | til          | xAP | til         |   | tyl             | tÿl           |   |   |   |   | dan |   |   |    |         359-05 |
+| w   |        | til          | xAV | til         |   | tyl             | tÿl           |   |   |   |   | dan |   |   |    |         359-05 |
 | w   |        | at           | xCS | at          |   | At              | At            |   |   |   |   | dan |   |   | =  |         359-05 |
-| w   |        | thæn         | xAT | de          |   | the             | the           |   |   |   |   | dan |   |   | == |         359-05 |
+| w   |        | thæn         | xPE | de          |   | the             | the           |   |   |   |   | dan |   |   | == |         359-05 |
 | w   |        | vilje        | xVB | ville       |   | wille           | wille         |   |   |   |   | dan |   |   |    |         359-05 |
 | w   |        | unne         | xVB | unde        |   | wndhe           | wndhe         |   |   |   |   | dan |   |   |    |         359-05 |
 | w   |        | til          | xAP | til         |   | tyl             | tyl           |   |   |   |   | dan |   |   |    |         359-05 |
@@ -147,24 +147,24 @@ misdateret til 1425 i Rep.
 | w   |        | bygning      | xNC | bygning     |   | byngni(n)gh     | byngni̅gh      |   |   |   |   | dan |   |   |    |         359-05 |
 | w   |        | ok           | xCC | og          |   | oc              | oc            |   |   |   |   | dan |   |   |    |         359-05 |
 | w   |        | forbætring   | xNC | forbedring  |   | forbæry(n)gh    | foꝛbæꝛÿ̅gh     |   |   |   |   | dan |   |   |    |         359-05 |
-| w   |        | sum          | xPD | som         |   | som             | ſom           |   |   |   |   | dan |   |   |    |         359-05 |
-| w   |        | thæn         | xAT | de          |   | the             | the           |   |   |   |   | dan |   |   |    |         359-05 |
+| w   |        | sum          | xRP | som         |   | som             | ſom           |   |   |   |   | dan |   |   |    |         359-05 |
+| w   |        | thæn         | xPE | de          |   | the             | the           |   |   |   |   | dan |   |   |    |         359-05 |
 | w   |        | have         | xVB | havde       |   | haffdhe         | haffdhe       |   |   |   |   | dan |   |   |    |         359-05 |
 | lm  | 359-06 |              |     |             |   |                 |               |   |   |   |   |     |   |   |    |                |
 | w   |        | bygje        | xVB | bygget      |   | bygth           | bygth         |   |   |   |   | dan |   |   |    |         359-06 |
 | w   |        | upa          | xAP | på          |   | paa             | paa           |   |   |   |   | dan |   |   |    |         359-06 |
 | w   |        | kloster      | xNC | klosterets  |   | closst(er)s     | clots       |   |   |   |   | dan |   |   |    |         359-06 |
 | w   |        | jorth        | xNC | jords       |   | iordz           | ıoꝛdz         |   |   |   |   | dan |   |   |    |         359-06 |
-| w   |        | sum          | xPD | som         |   | som             | ſom           |   |   |   |   | dan |   |   |    |         359-06 |
-| w   |        | thæn         | xAT | de          |   | the             | the           |   |   |   |   | dan |   |   |    |         359-06 |
+| w   |        | sum          | xRP | som         |   | som             | ſom           |   |   |   |   | dan |   |   |    |         359-06 |
+| w   |        | thæn         | xPE | de          |   | the             | the           |   |   |   |   | dan |   |   |    |         359-06 |
 | w   |        | have         | xVB | havde       |   | haffdhe         | haffdhe       |   |   |   |   | dan |   |   |    |         359-06 |
 | w   |        | give         | xVB | givet       |   | gyffwid         | gyffwid       |   |   |   |   | dan |   |   |    |         359-06 |
-| w   |        |              | rom | 2           |   | ii              | ii            |   |   |   |   | dan |   |   |    |         359-06 |
+| n   |        |              |     | 2           |   | ii              | ii            |   |   |   |   | dan |   |   |    |         359-06 |
 | w   |        | skilling     | xNC | skilling    |   | s(killing)      |              |   |   |   |   | dan |   |   |    |         359-06 |
 | w   |        | grot         | xNC | grot        |   | g(rat)          | gꝭ            |   |   |   |   | dan |   |   |    |         359-06 |
 | w   |        | tilforn      | xAV | tilforn     |   | tyl faaren      | tÿl faaꝛen    |   |   |   |   | dan |   |   |    |         359-06 |
 | w   |        | til          | xAP | til         |   | til             | tıl           |   |   |   |   | dan |   |   |    |         359-06 |
-| w   |        | jorthskyld   | xNC | jordksyld   |   | iorskyl         | ıoꝛſkyl       |   |   |   |   | dan |   |   |    |         359-06 |
+| w   |        | jorthskyld   | xNC | jordskyld   |   | iorskyl         | ıoꝛſkyl       |   |   |   |   | dan |   |   |    |         359-06 |
 | w   |        | sva          | xAV | så          |   | Saa             | Saa           |   |   |   |   | dan |   |   |    |         359-06 |
 | w   |        | mæth         | xAP | med         |   | m(et)           | mꝫ            |   |   |   |   | dan |   |   |    |         359-06 |
 | w   |        | skjal        | xNC | skel        |   | skeel           | ſkeel         |   |   |   |   | dan |   |   |    |         359-06 |
@@ -195,7 +195,7 @@ misdateret til 1425 i Rep.
 | w   |        | af           | xAP | af          |   | aff             | aff           |   |   |   |   | dan |   |   |    |         359-08 |
 | w   |        | kloster      | xNC | klosters    |   | clost(er)s      | cloﬅ        |   |   |   |   | dan |   |   |    |         359-08 |
 | w   |        | hus          | xNC | hus         |   | hwss            | hw           |   |   |   |   | dan |   |   |    |         359-08 |
-| w   |        | sum          | xPD | som         |   | So(m)           | So̅            |   |   |   |   | dan |   |   |    |         359-08 |
+| w   |        | sum          | xRP | som         |   | So(m)           | So̅            |   |   |   |   | dan |   |   |    |         359-08 |
 | w   |        | ligje        | xVB | ligger      |   | ligger          | lıggeꝛ        |   |   |   |   | dan |   |   |    |         359-08 |
 | w   |        | upa          | xAP | på          |   | paa             | paa           |   |   |   |   | dan |   |   |    |         359-08 |
 | w   |        | var          | xPD | vor         |   | wor             | woꝛ           |   |   |   |   | dan |   |   |    |         359-08 |
@@ -223,7 +223,7 @@ misdateret til 1425 i Rep.
 | w   |        | liv          | xNC | livs        |   | lyffz           | lyffz         |   |   |   |   | dan |   |   |    |         359-09 |
 | w   |        | tith         | xNC | tid         |   | tydh            | tÿdh          |   |   |   |   | dan |   |   |    |         359-09 |
 | w   |        | hvilik       | xPD | hvilken     |   | hwylken         | hwylken       |   |   |   |   | dan |   |   |    |         359-09 |
-| w   |        | sum          | xPD | som         |   | som             | ſom           |   |   |   |   | dan |   |   |    |         359-09 |
+| w   |        | sum          | xRP | som         |   | som             | ſom           |   |   |   |   | dan |   |   |    |         359-09 |
 | w   |        | længe        | xAV | læng        |   | læng{g}h        | læng{g}h      |   |   |   |   | dan |   |   |    |         359-09 |
 | w   |        | live         | xVB | lever       |   | leffwer         | leffweꝛ       |   |   |   |   | dan |   |   |    |         359-09 |
 | lm  | 359-10 |              |     |             |   |                 |               |   |   |   |   |     |   |   |    |                |
@@ -244,13 +244,13 @@ misdateret til 1425 i Rep.
 | w   |        | item         | xAV |             |   | Jt(em)          | Jtꝭ           |   |   |   |   | lat |   |   |    |         359-10 |
 | w   |        | sva          | xAV | så          |   | saa             | ſaa           |   |   |   |   | dan |   |   |    |         359-10 |
 | p   |        |              |     |             |   | /               | /             |   |   |   |   | dan |   |   |    |         359-10 |
-| w   |        | at           | xIM | at          |   | At              | At            |   |   |   |   | dan |   |   |    |         359-10 |
+| w   |        | at           | xCS | at          |   | At              | At            |   |   |   |   | dan |   |   |    |         359-10 |
 | w   |        | noker        | xPD | noget       |   | naagith         | naagıth       |   |   |   |   | dan |   |   |    |         359-10 |
 | w   |        | upa          | xAP | på          |   | paa             | paa           |   |   |   |   | dan |   |   |    |         359-10 |
 | w   |        | kunne        | xVB | kunne       |   | kwnne           | kwnne         |   |   |   |   | dan |   |   |    |         359-10 |
 | lm  | 359-11 |              |     |             |   |                 |               |   |   |   |   |     |   |   |    |                |
 | w   |        | kome         | xVB | komme       |   | ko(m)me         | ko̅me          |   |   |   |   | dan |   |   |    |         359-11 |
-| w   |        | thæn         | xAV | dette       |   | th(et)          | thꝫ           |   |   |   |   | dan |   |   |    |         359-11 |
+| w   |        | thæn         | xPD | dette       |   | th(et)          | thꝫ           |   |   |   |   | dan |   |   |    |         359-11 |
 | w   |        | guth         | xNC | gud         |   | gwdh            | gwdh          |   |   |   |   | dan |   |   |    |         359-11 |
 | w   |        | forbjuthe    | xVB | forbyde     |   | forbywdhe       | foꝛbywdhe     |   |   |   |   | dan |   |   |    |         359-11 |
 | p   |        |              |     |             |   | /               | /             |   |   |   |   | dan |   |   |    |         359-11 |
@@ -284,7 +284,7 @@ misdateret til 1425 i Rep.
 | w   |        | gen          | xAV | igen        |   | igh(e)n         | ighn̅          |   |   |   |   | dan |   |   |    |         359-12 |
 | w   |        | ok           | xCC | og          |   | och             | och           |   |   |   |   | dan |   |   |    |         359-12 |
 | w   |        | jorthskyld   | xNC | jordskyld   |   | iorskyl         | ıoꝛſkyl       |   |   |   |   | dan |   |   |    |         359-12 |
-| w   |        | sum          | xPD | som         |   | so(m)           | ſo̅            |   |   |   |   | dan |   |   |    |         359-12 |
+| w   |        | sum          | xRP | som         |   | so(m)           | ſo̅            |   |   |   |   | dan |   |   |    |         359-12 |
 | w   |        | thæn         | xPD | de          |   | the             | the           |   |   |   |   | dan |   |   |    |         359-12 |
 | w   |        | have         | xVB | havde       |   | haffdhe         | haffdhe       |   |   |   |   | dan |   |   |    |         359-12 |
 | w   |        | af           | xAP | af          |   | Aff             | Aff           |   |   |   |   | dan |   |   |    |         359-12 |
@@ -322,7 +322,7 @@ misdateret til 1425 i Rep.
 | w   |        | i            | xAP | i           |   | i               | i             |   |   |   |   | dan |   |   |    |         359-14 |
 | w   |        | al           | xAJ | alle        |   | alle            | alle          |   |   |   |   | dan |   |   |    |         359-14 |
 | w   |        | mate         | xNC | måde        |   | maadhe          | maadhe        |   |   |   |   | dan |   |   |    |         359-14 |
-| w   |        | sum          | xPD | som         |   | som             | ſo           |   |   |   |   | dan |   |   |    |         359-14 |
+| w   |        | sum          | xRP | som         |   | som             | ſo           |   |   |   |   | dan |   |   |    |         359-14 |
 | w   |        | thæn         | xPD | deres       |   | ther(is)        | theꝛꝭ         |   |   |   |   | dan |   |   |    |         359-14 |
 | w   |        | begæring     | xNC | begæring    |   | begæryngh       | begæꝛyngh     |   |   |   |   | dan |   |   |    |         359-14 |
 | w   |        | være         | xVB | var         |   | wor             | woꝛ           |   |   |   |   | dan |   |   |    |         359-14 |
@@ -336,13 +336,13 @@ misdateret til 1425 i Rep.
 | w   |        | noker        | xPD | noger       |   | naag(e)r        | naagꝛ        |   |   |   |   | dan |   |   |    |         359-15 |
 | w   |        | ny           | xAJ | ny          |   | ny              | ny            |   |   |   |   | dan |   |   |    |         359-15 |
 | w   |        | fund         | xNC | fund        |   | fwndh           | fwndh         |   |   |   |   | dan |   |   |    |         359-15 |
-| w   |        | sum          | xPD | som         |   | som             | ſo           |   |   |   |   | dan |   |   |    |         359-15 |
+| w   |        | sum          | xRP | som         |   | som             | ſo           |   |   |   |   | dan |   |   |    |         359-15 |
 | w   |        | upa          | xAP | på          |   | paa             | paa           |   |   |   |   | dan |   |   |    |         359-15 |
 | w   |        | finne        | xVB | findes      |   | find(is)        | findꝭ         |   |   |   |   | dan |   |   |    |         359-15 |
 | w   |        | nu           | xAV | nu          |   | nw              | nw            |   |   |   |   | dan |   |   |    |         359-15 |
 | p   |        |              |     |             |   | /               | /             |   |   |   |   | dan |   |   |    |         359-15 |
 | w   |        | mæth         | xAP | med         |   | meth            | meth          |   |   |   |   | dan |   |   |    |         359-15 |
-| w   |        | thænne       | xAT | dette       |   | th(ette)        | thꝫͤ           |   |   |   |   | dan |   |   |    |         359-15 |
+| w   |        | thænne       | xDD | dette       |   | th(ette)        | thꝫͤ           |   |   |   |   | dan |   |   |    |         359-15 |
 | w   |        | min          | xPD | mit         |   | mith            | mith          |   |   |   |   | dan |   |   |    |         359-15 |
 | w   |        | open         | xAJ | åbne        |   | opne            | opne          |   |   |   |   | dan |   |   |    |         359-15 |
 | w   |        | brev         | xNC | brev        |   | breff           | bꝛeff         |   |   |   |   | dan |   |   |    |         359-15 |
@@ -368,10 +368,10 @@ misdateret til 1425 i Rep.
 | lm  | 359-17 |              |     |             |   |                 |               |   |   |   |   |     |   |   |    |                |
 | w   |        | birk         | xNC | birke       |   | byrkæ           | byꝛkæ         |   |   |   |   | dan |   |   |    |         359-17 |
 | w   |        | garth        | xNC | gården      |   | gaarin          | gaaꝛin        |   |   |   |   | dan |   |   |    |         359-17 |
-| w   |        | sum          | xPD | som         |   | som             | ſo           |   |   |   |   | dan |   |   |    |         359-17 |
-| w   |        | thæn         | xAT | de          |   | the             | the           |   |   |   |   | dan |   |   |    |         359-17 |
+| w   |        | sum          | xRP | som         |   | som             | ſo           |   |   |   |   | dan |   |   |    |         359-17 |
+| w   |        | thæn         | xPE | de          |   | the             | the           |   |   |   |   | dan |   |   |    |         359-17 |
 | w   |        | nu           | xAV | nu          |   | nw              | nw            |   |   |   |   | dan |   |   |    |         359-17 |
-| w   |        | i            | xAP | i           |   | i               | ı             |   |   |   |   | dan |   |   |    |         359-17 |
+| w   |        | i            | xAV | i           |   | i               | ı             |   |   |   |   | dan |   |   |    |         359-17 |
 | w   |        | bo           | xVB | bo          |   | boo             | boo           |   |   |   |   | dan |   |   |    |         359-17 |
 | w   |        | thæn         | xPD | deres       |   | thør(is)        | thøꝛꝭ         |   |   |   |   | dan |   |   |    |         359-17 |
 | w   |        | liv          | xNC | livet       |   | lyff(et)th      | lyffꝫth       |   |   |   |   | dan |   |   |    |         359-17 |
@@ -406,9 +406,9 @@ misdateret til 1425 i Rep.
 | w   |        | min          | xPD | mit         |   | mith            | mith          |   |   |   |   | dan |   |   |    |         359-19 |
 | w   |        | æmbæte       | xNC | embeds      |   | æmmydz          | æmmydz        |   |   |   |   | dan |   |   |    |         359-19 |
 | w   |        | insighle     | xNC | indsegl     |   | insiclle        | inſiclle      |   |   |   |   | dan |   |   |    |         359-19 |
-| w   |        | næthen       | xAP | neden       |   | nædh(e)n        | nædhn̅         |   |   |   |   | dan |   |   |    |         359-19 |
+| w   |        | næthen       | xAV | neden       |   | nædh(e)n        | nædhn̅         |   |   |   |   | dan |   |   |    |         359-19 |
 | w   |        | for          | xAP | for         |   | for             | foꝛ           |   |   |   |   | dan |   |   |    |         359-19 |
-| w   |        | thæn         | xAT | dette       |   | th(ette)        | thꝫͤ           |   |   |   |   | dan |   |   |    |         359-19 |
+| w   |        | thæn         | xDD | dette       |   | th(ette)        | thꝫͤ           |   |   |   |   | dan |   |   |    |         359-19 |
 | w   |        | open         | xAJ | åbne        |   | Opne            | Opne          |   |   |   |   | dan |   |   |    |         359-19 |
 | w   |        | brev         | xNC | brev        |   | breffh          | bꝛeffh        |   |   |   |   | dan |   |   |    |         359-19 |
 | :e: |        |              |     |             |   |                 |               |   |   |   |   |     |   |   |    |                |
