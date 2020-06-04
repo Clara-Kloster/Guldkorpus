@@ -6,6 +6,7 @@ import re
 import csv
 import os
 import sys
+import datetime
 
 lemma = sys.argv[1]
 print("Searching for " + lemma)
@@ -36,6 +37,9 @@ danish.sort()
 print("Number of files: " + str(len(danish)))
 
 # Read individual files
+pos = [ ]
+write_file = open(sys.path[-1] + '/code/output/' + lemma + '_kwic.org', 'a')
+write_file.write("* Output " + str(datetime.datetime.now()) + ' [/]\n')
 for item in danish:
     working_file = directory + item + ".org"
     data = open(working_file).read()
@@ -45,6 +49,7 @@ for item in danish:
     current_row = 1
     wordlist = [ ]
     target_lemma = [ ]
+    target_pos = [ ]
     row_number = 0
     for row in d:
         if row[None][0].strip() == "w" or row[None][0].strip() == "n":
@@ -52,7 +57,13 @@ for item in danish:
             row_number += 1
         if row[None][2].strip() == lemma:
             target_lemma.append(row_number)
+            target_pos.append(row[None][3].strip())     
     for target in target_lemma:
-        print(str(item))
-        print(wordlist[target-length:target+length])
-            
+        # print(str(item))
+        # print(wordlist[target-length:target+length])
+        write_file.write("** TODO " + str(item) + " " + target_pos[target_lemma.index(target)] + "\n")
+        write_file.write(" ".join(wordlist[target-length:target-1]) + " *" + str(wordlist[target-1]) + "* " + " ".join(wordlist[target:target+length]) + "\n")
+        if target_pos[target_lemma.index(target)] not in pos:
+            pos.append(target_pos[target_lemma.index(target)])
+for item in pos:
+    print(item)
