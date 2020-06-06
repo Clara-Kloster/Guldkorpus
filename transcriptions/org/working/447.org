@@ -88,7 +88,7 @@
 | w   |        | ok            | xCC | og            |   | oc                    | oc            |   |   |   |                 | dan |   |   |    |        447-04 |
 | w   |        | uti           | xAP | udi           |   | vti                   | vti           |   |   |   |                 | dan |   |   | =  |        447-04 |
 | w   |        | leghe         | xNC | leje          |   | leyge                 | leÿge         |   |   |   |                 | dan |   |   | == |        447-04 |
-| w   |        | late          | xVB | ladt          |   | ladit                 | ladit         |   |   |   |                 | dan |   |   |    |        447-04 |
+| w   |        | late          | xVB | ladet          |   | ladit                 | ladit         |   |   |   |                 | dan |   |   |    |        447-04 |
 | w   |        | ok            | xCC | og            |   | och                   | och           |   |   |   |                 | dan |   |   |    |        447-04 |
 | w   |        | nu            | xAV | nu            |   | nw                    | n            |   |   |   |                 | dan |   |   |    |        447-04 |
 | w   |        | mæth          | xAP | med           |   | m(et)                 | mꝫ            |   |   |   |                 | dan |   |   |    |        447-04 |
@@ -138,7 +138,7 @@
 | w   |        | thæn          | xAT | den           |   | then(n)               | then̅          |   |   |   |                 | dan |   |   |    |        447-07 |
 | lm  | 447-08 |               |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |
 | w   |        | anner         | xPD | anden         |   | Andenn(n)             | Andenn̅        |   |   |   |                 | dan |   |   |    |        447-08 |
-| w   |        | en            | xAT | en            |   | Eenn(e)               | Eenn         |   |   |   |                 | dan |   |   |    |        447-08 |
+| w   |        | en            | xNA | en            |   | Eenn(e)               | Eenn         |   |   |   |                 | dan |   |   |    |        447-08 |
 | w   |        | var           | xDP | vor           |   | wor                   | woꝛ           |   |   |   |                 | dan |   |   |    |        447-08 |
 | w   |        | kloster       | xNC | klosters      |   | closter(is)           | cloſteꝛꝭ      |   |   |   |                 | dan |   |   |    |        447-08 |
 | w   |        | ok            | xCC | og            |   | och                   | och           |   |   |   |                 | dan |   |   |    |        447-08 |
@@ -165,7 +165,7 @@
 | w   |        | ok            | xCC | og            |   | oc                    | oc            |   |   |   |                 | dan |   |   |    |        447-10 |
 | w   |        | halde         | xVB | holder        |   | holler                | holler        |   |   |   |                 | dan |   |   |    |        447-10 |
 | w   |        | uti           | xAP | udi           |   | vtj                   | vtj           |   |   |   |                 | dan |   |   |    |        447-10 |
-| w   |        | sunner        | xAJ | synder        |   | synn(er)              | ſynn         |   |   |   |                 | dan |   |   |    |        447-10 |
+| w   |        | sunner        | xAJ | sønder        |   | synn(er)              | ſynn         |   |   |   |                 | dan |   |   |    |        447-10 |
 | w   |        | længth        | xNC | længde        |   | lengdt                | lengdt        |   |   |   |                 | dan |   |   |    |        447-10 |
 | w   |        | ok            | xCC | og            |   | oc                    | oc            |   |   |   |                 | dan |   |   |    |        447-10 |
 | w   |        | breth         | xNC | bredde        |   | bredt                 | bꝛedt         |   |   |   |                 | dan |   |   |    |        447-10 |
@@ -176,7 +176,7 @@
 | w   |        | brev          | xNC | brev          |   | breff                 | bꝛeff         |   |   |   |                 | dan |   |   |    |        447-10 |
 | lm  | 447-11 |               |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |
 | w   |        | thær          | xAV | der           |   | th(e)r                | th̅ꝛ           |   |   |   |                 | dan |   |   |    |        447-11 |
-| w   |        | upa           | xAJ | oppe          |   | wppaa                 | wppaa         |   |   |   |                 | dan |   |   |    |        447-11 |
+| w   |        | upa           | xAP | opå          |   | wppaa                 | wppaa         |   |   |   |                 | dan |   |   |    |        447-11 |
 | w   |        | gøre          | xVB | gård          |   | giord                 | gioꝛd         |   |   |   |                 | dan |   |   |    |        447-11 |
 | w   |        | være          | xVB | ere           |   | ær(e)                 | ær           |   |   |   |                 | dan |   |   |    |        447-11 |
 | w   |        | ytermere      | xAJ | ydermere      |   | yd(er)mer(e)          | ÿdmeꝛ       |   |   |   |                 | dan |   |   |    |        447-11 |
@@ -236,10 +236,10 @@
 | lm  | 447-16 |               |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |
 | w   |        | mark          | xNC | mark          |   | m(ark)                | mꝭ            |   |   |   |                 | dan |   |   |    |        447-16 |
 | w   |        | dansk         | xAJ | danske        |   | da(n)ske              | da̅ſke         |   |   |   |                 | dan |   |   |    |        447-16 |
-| w   |        | sVadan        | xAJ | sådanne       |   | sadann(n)             | adann̅        |   |   |   |                 | dan |   |   |    |        447-16 |
-| w   |        | mynt          | xNC | møndt         |   | [m]ynt                | [m]ÿnt        |   |   |   |                 | dan |   |   |    |        447-16 |
+| w   |        | svadan        | xAJ | sådanne       |   | sadann(n)             | adann̅        |   |   |   |                 | dan |   |   |    |        447-16 |
+| w   |        | mynt          | xNC | mønt         |   | [m]ynt                | [m]ÿnt        |   |   |   |                 | dan |   |   |    |        447-16 |
 | w   |        | sum           | xRP | som           |   | som                   | ſo           |   |   |   |                 | dan |   |   |    |        447-16 |
-| w   |        | kuning        | xNC | kogen         |   | konni(n)genn(n)       | konni̅genn̅     |   |   |   |                 | dan |   |   |    |        447-16 |
+| w   |        | kuning        | xNC | kongen         |   | konni(n)genn(n)       | konni̅genn̅     |   |   |   |                 | dan |   |   |    |        447-16 |
 | w   |        | af            | xAP | af            |   | aff                   | aff           |   |   |   |                 | dan |   |   |    |        447-16 |
 | PL  |      b |               |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |
 | w   |        |               | xNP | Danmark       |   | da(n)marck            | da̅maꝛck       |   |   |   |                 | dan |   |   |    |        447-16 |
@@ -279,7 +279,7 @@
 | w   |        | ok            | xCC | og            |   | oc                    | oc            |   |   |   |                 | dan |   |   |    |        447-19 |
 | w   |        | grund         | xNC | grund         |   | grundt                | gꝛŭndt        |   |   |   |                 | dan |   |   |    |        447-19 |
 | w   |        | væl           | xAV | vel           |   | well                  | well          |   |   |   |                 | dan |   |   |    |        447-19 |
-| w   |        | bygje         | xVB | bygget        |   | bydgt                 | bÿdgt         |   |   |   |                 | dan |   |   |    |        447-19 |
+| w   |        | bygje         | xVB | bygt        |   | bydgt                 | bÿdgt         |   |   |   |                 | dan |   |   |    |        447-19 |
 | w   |        | ok            | xCC | og            |   | oc                    | oc            |   |   |   |                 | dan |   |   |    |        447-19 |
 | w   |        | færthigh      | xAJ | færdig        |   | ferdiig               | feꝛdiig       |   |   |   |                 | dan |   |   |    |        447-19 |
 | w   |        | mæth          | xAP | med           |   | m(et)                 | mꝫ            |   |   |   |                 | dan |   |   |    |        447-19 |
@@ -296,16 +296,16 @@
 | w   |        | kununglik     | xAJ | kongelige     |   | kongelige             | kongelige     |   |   |   |                 | dan |   |   |    |        447-20 |
 | w   |        | ok            | xCC | og            |   | oc                    | oc            |   |   |   |                 | dan |   |   |    |        447-20 |
 | w   |        | by            | xNC | bys           |   | byes                  | bÿe          |   |   |   |                 | dan |   |   |    |        447-20 |
-| w   |        | thing         | xNC | tinger        |   | tynger                | tÿngeꝛ        |   |   |   |                 | dan |   |   |    |        447-20 |
+| w   |        | thynge         | xNC | tynger        |   | tynger                | tÿngeꝛ        |   |   |   |                 | dan |   |   |    |        447-20 |
 | p   |        |               |     |               |   | /                     | /             |   |   |   |                 | dan |   |   |    |        447-20 |
 | w   |        | ok            | xCC | og            |   | ock                   | ock           |   |   |   |                 | dan |   |   |    |        447-20 |
 | lm  | 447-21 |               |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |
 | w   |        | nar           | xCS | når           |   | naer                  | naeꝛ          |   |   |   |                 | dan |   |   |    |        447-21 |
-| w   |        | sum           | xRP | som           |   | som                   | ſo           |   |   |   |                 | dan |   |   |    |        447-21 |
+| w   |        | sum           | xAV | som           |   | som                   | ſo           |   |   |   |                 | dan |   |   |    |        447-21 |
 | w   |        | forskreven    | xAJ | forskrevne    |   | forscr(reffne)        | foꝛſcꝛꝭͩͤ       |   |   |   |                 | dan |   |   |    |        447-21 |
 | PE  |      b | JepNie002     |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |
 | w   |        |               | xNP | Jep           |   | Jep                   | Jep           |   |   |   |                 | dan |   |   |    |        447-21 |
-| w   |        |               | V   | Nielsen       |   | nielsss(e)nn          | nielſßnn̅      |   |   |   |                 | dan |   |   |    |        447-21 |
+| w   |        |               | xNP | Nielsen       |   | nielsss(e)nn          | nielſßnn̅      |   |   |   |                 | dan |   |   |    |        447-21 |
 | PE  |      e | JepNie002     |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |
 | w   |        | han           | xPD | hans          |   | hans                  | han          |   |   |   |                 | dan |   |   |    |        447-21 |
 | w   |        | husfrue       | xNC | husfrue       |   | husfrwe               | hűſfꝛe       |   |   |   |                 | dan |   |   |    |        447-21 |
@@ -314,7 +314,7 @@
 | w   |        | san           | xAJ | sande         |   | sande                 | ſande         |   |   |   |                 | dan |   |   |    |        447-21 |
 | w   |        | arving        | xNC | arvinge       |   | arffwin¦ge            | aꝛffwin¦ge    |   |   |   |                 | dan |   |   |    | 447-21—447-22 |
 | w   |        | fa            | xVB | fange         |   | fange                 | fange         |   |   |   |                 | dan |   |   |    |        447-22 |
-| w   |        | bygje         | xVB | bygget        |   | bygdt                 | bÿgdt         |   |   |   |                 | dan |   |   |    |        447-22 |
+| w   |        | bygje         | xVB | bygt        |   | bygdt                 | bÿgdt         |   |   |   |                 | dan |   |   |    |        447-22 |
 | w   |        | noker         | xPD | nogen         |   | nogenn(n)             | nogenn̅        |   |   |   |                 | dan |   |   |    |        447-22 |
 | w   |        | mærkelik      | xAJ | mærkelig      |   | merckelig             | meꝛckelig     |   |   |   |                 | dan |   |   |    |        447-22 |
 | w   |        | bygning       | xNC | bygninger     |   | bygning(er)           | bÿgning      |   |   |   |                 | dan |   |   |    |        447-22 |
@@ -330,14 +330,14 @@
 | w   |        | sælje         | xVB | sælge         |   | selge                 | ſelge         |   |   |   |                 | dan |   |   |    |        447-23 |
 | w   |        | thæn          | xPD | deres         |   | ther(is)              | theꝛꝭ         |   |   |   |                 | dan |   |   |    |        447-23 |
 | w   |        | bygning       | xNC | bygning       |   | bygny(n)g             | bÿgnÿ̅g        |   |   |   |                 | dan |   |   |    |        447-23 |
-| w   |        | fore          | xAP | for           |   | ffor(e)               | ffoꝛ         |   |   |   |                 | dan |   |   |    |        447-23 |
+| w   |        | fore          | xAP | fore           |   | ffor(e)               | ffoꝛ         |   |   |   |                 | dan |   |   |    |        447-23 |
 | w   |        | noker         | xPD | nogen         |   | nogenn(n)             | nogenn̅        |   |   |   |                 | dan |   |   |    |        447-23 |
 | w   |        | mærkelik      | xAJ | mærkelig      |   | merckeliig            | meꝛckeliig    |   |   |   |                 | dan |   |   |    |        447-23 |
 | w   |        | brist         | xNC | brist         |   | brøst                 | bꝛøſt         |   |   |   |                 | dan |   |   |    |        447-23 |
 | w   |        | skyld         | xNC | skyld         |   | skyld                 | ſkÿld         |   |   |   |                 | dan |   |   |    |        447-23 |
 | p   |        |               |     |               |   | ///                   | ///           |   |   |   |                 | dan |   |   |    |        447-23 |
 | lm  | 447-24 |               |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |
-| w   |        | tha           | xCS | da            |   | Tha                   | Tha           |   |   |   |                 | dan |   |   |    |        447-24 |
+| w   |        | tha           | xAV | da            |   | Tha                   | Tha           |   |   |   |                 | dan |   |   |    |        447-24 |
 | w   |        | skule         | xVB | skulle        |   | skwlle                | ſklle        |   |   |   |                 | dan |   |   |    |        447-24 |
 | w   |        | thæn          | xPD | de            |   | the                   | the           |   |   |   |                 | dan |   |   |    |        447-24 |
 | w   |        | thær          | xAV | der           |   | th(e)r                | th̅ꝛ           |   |   |   |                 | dan |   |   |    |        447-24 |
@@ -366,7 +366,7 @@
 | w   |        | thænne        | xDD | disse         |   | tesse                 | teſſe         |   |   |   |                 | dan |   |   |    |        447-25 |
 | w   |        | forberørd     | xAJ | forberørte    |   | forberørde            | foꝛbeꝛøꝛde    |   |   |   |                 | dan |   |   |    |        447-25 |
 | lm  | 447-26 |               |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |
-| w   |        | fa            | xVB | fangedes      |   | fangend(is)           | fangen       |   |   |   |                 | dan |   |   |    |        447-26 |
+| w   |        | fa            | xVB | fangendes      |   | fangend(is)           | fangen       |   |   |   |                 | dan |   |   |    |        447-26 |
 | w   |        | varthe        | xVB | vorde         |   | worde                 | woꝛde         |   |   |   |                 | dan |   |   |    |        447-26 |
 | w   |        | skule         | xVB | skulle        |   | skwlle                | ſklle        |   |   |   |                 | dan |   |   |    |        447-26 |
 | w   |        | al            | xAJ | alle          |   | alle                  | alle          |   |   |   |                 | dan |   |   |    |        447-26 |
@@ -391,20 +391,20 @@
 | lm  | 447-28 |               |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |
 | w   |        | same          | xAJ | samme         |   | sa(m)me               | ſa̅me          |   |   |   |                 | dan |   |   |    |        447-28 |
 | w   |        | dagh          | xNC | dag           |   | dag                   | dag           |   |   |   |                 | dan |   |   |    |        447-28 |
-| w   |        | sum           | xRP | som           |   | som                   | ſo           |   |   |   |                 | dan |   |   |    |        447-28 |
+| w   |        | sum           | xCS | som           |   | som                   | ſo           |   |   |   |                 | dan |   |   |    |        447-28 |
 | w   |        | forskreven    | xAJ | forskrevet    |   | forc(reffuit)         | foꝛcꝭͭ         |   |   |   |                 | dan |   |   |    |        447-28 |
 | w   |        | sta           | xVB | står          |   | staer                 | ſtaeꝛ         |   |   |   |                 | dan |   |   |    |        447-28 |
 | w   |        | ok            | xCC | og            |   | ock                   | ock           |   |   |   |                 | dan |   |   |    |        447-28 |
 | w   |        | thær          | xAV | der           |   | th(e)r                | th̅ꝛ           |   |   |   |                 | dan |   |   |    |        447-28 |
-| w   |        | sum           | xRP | som           |   | som                   | ſo           |   |   |   |                 | dan |   |   |    |        447-28 |
+| w   |        | sum           | xAV | som           |   | som                   | ſo           |   |   |   |                 | dan |   |   |    |        447-28 |
 | w   |        | noker         | xPD | nogen         |   | noger                 | nogeꝛ         |   |   |   |                 | dan |   |   |    |        447-28 |
 | w   |        | af            | xAP | af            |   | aff                   | aff           |   |   |   |                 | dan |   |   |    |        447-28 |
 | w   |        | thæn          | xPD | dem           |   | thennom(m)            | thennom̅       |   |   |   |                 | dan |   |   |    |        447-28 |
 | w   |        | sik           | xPD | sig           |   | seg                   | ſeg           |   |   |   |                 | dan |   |   |    |        447-28 |
 | w   |        | hær           | xAV | her           |   | her                   | heꝛ           |   |   |   |                 | dan |   |   |    |        447-28 |
 | lm  | 447-29 |               |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |
-| w   |        | i+mot         | xAV | imod          |   | emodt                 | emodt         |   |   |   |                 | dan |   |   |    |        447-29 |
-| w   |        | forsæghje     | xVB | forsagden     |   | forsawe(n)            | foꝛſae̅       |   |   |   |                 | dan |   |   |    |        447-29 |
+| w   |        | amot         | xAV | imod          |   | emodt                 | emodt         |   |   |   |                 | dan |   |   |    |        447-29 |
+| w   |        | forsake     | xVB | forsagen     |   | forsawe(n)            | foꝛſae̅       |   |   |   |                 | dan |   |   |    |        447-29 |
 | w   |        | annettvæggje  | xPD | enten         |   | enttige(n)            | enttige̅       |   |   |   |                 | dan |   |   |    |        447-29 |
 | w   |        | mæth          | xAP | med           |   | m(et)                 | mꝫ            |   |   |   |                 | dan |   |   |    |        447-29 |
 | w   |        | landgilde     | xNC | landgilder    |   | landgiller            | landgiller    |   |   |   |                 | dan |   |   |    |        447-29 |
@@ -419,19 +419,19 @@
 | w   |        | ok            | xCC | og            |   | ock                   | ock           |   |   |   |                 | dan |   |   |    |        447-30 |
 | w   |        | loghlik       | xAJ | lovlige       |   | lowlige               | lolige       |   |   |   |                 | dan |   |   |    |        447-30 |
 | w   |        |               | XX  |               |   | trend                 | tꝛend         |   |   |   |                 | dan |   |   |    |        447-30 |
-| w   |        | rese          | xNC | rejser        |   | reyser                | ꝛeÿſeꝛ        |   |   |   |                 | dan |   |   |    |        447-30 |
+| w   |        | rese          | xVB | rejser        |   | reyser                | ꝛeÿſeꝛ        |   |   |   |                 | dan |   |   |    |        447-30 |
 | w   |        | upa           | xAP | på            |   | vpaa                  | vpaa          |   |   |   |                 | dan |   |   |    |        447-30 |
 | w   |        | mynt          | xNC | mønt          |   | mynt                  | mÿnt          |   |   |   |                 | dan |   |   |    |        447-30 |
 | w   |        | ok            | xCC | og            |   | Ock                   | Ock           |   |   |   |                 | dan |   |   |    |        447-30 |
 | w   |        | ække          | xAV | ikke          |   | ycke                  | ÿcke          |   |   |   |                 | dan |   |   |    |        447-30 |
 | w   |        | tha           | xAV | da            |   | tha                   | tha           |   |   |   |                 | dan |   |   |    |        447-30 |
 | w   |        | thær          | xAV | der           |   | th(e)r                | th̅ꝛ           |   |   |   |                 | dan |   |   |    |        447-30 |
-| w   |        | upa           | xAP | på            |   | vpaa                  | vpaa          |   |   |   |                 | dan |   |   |    |        447-30 |
+| w   |        | upa           | xAV | på            |   | vpaa                  | vpaa          |   |   |   |                 | dan |   |   |    |        447-30 |
 | lm  | 447-31 |               |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |
 | w   |        | bo            | xNC | boet          |   | boedt                 | boedt         |   |   |   |                 | dan |   |   |    |        447-31 |
 | w   |        |               | XX  |               |   | rod(er)               | ꝛod          |   |   |   |                 | dan |   |   |    |        447-31 |
 | p   |        |               |     |               |   | /                     | /             |   |   |   |                 | dan |   |   |    |        447-31 |
-| w   |        | tha           | xCS | da            |   | Tha                   | Tha           |   |   |   |                 | dan |   |   |    |        447-31 |
+| w   |        | tha           | xAV | da            |   | Tha                   | Tha           |   |   |   |                 | dan |   |   |    |        447-31 |
 | w   |        | skule         | xVB | skulle        |   | skwlle                | ſkwlle        |   |   |   |                 | dan |   |   |    |        447-31 |
 | w   |        | vi            | xPD | vi            |   | wij                   | wij           |   |   |   |                 | dan |   |   |    |        447-31 |
 | w   |        | æller         | xCC | eller         |   | ell(e)r               | el̅lꝛ          |   |   |   |                 | dan |   |   |    |        447-31 |
@@ -455,7 +455,7 @@
 | w   |        | same          | xAJ | samme         |   | ssa(m)me              | ßa̅me          |   |   |   |                 | dan |   |   |    |        447-32 |
 | lm  | 447-33 |               |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |
 | w   |        | garth         | xNC | gård          |   | gordt                 | goꝛdt         |   |   |   |                 | dan |   |   |    |        447-33 |
-| w   |        | i+gen         | xAV | igen          |   | Igenn(n)              | Igenn̅         |   |   |   |                 | dan |   |   |    |        447-33 |
+| w   |        | gen         | xAV | igen          |   | Igenn(n)              | Igenn̅         |   |   |   |                 | dan |   |   |    |        447-33 |
 | w   |        | inskikke      | xVB | indskikke     |   | Jndskycke             | Jndſkÿcke     |   |   |   |                 | dan |   |   |    |        447-33 |
 | w   |        | sum           | xRP | som           |   | som                   | ſo           |   |   |   |                 | dan |   |   |    |        447-33 |
 | w   |        | fornævnd      | xAJ | fornævnte     |   | for(nefnde)           | foꝛᷠᷠͤ           |   |   |   | bar over nn-sup | dan |   |   |    |        447-33 |
@@ -474,11 +474,11 @@
 | w   |        | uti           | xAP | udi           |   | vtj                   | vtj           |   |   |   |                 | dan |   |   |    |        447-34 |
 | w   |        | vælmakt       | xNC | velmagt       |   | velmagt               | velmagt       |   |   |   |                 | dan |   |   |    |        447-34 |
 | w   |        | halde         | xVB | holdt         |   | holdt                 | holdt         |   |   |   |                 | dan |   |   |    |        447-34 |
-| w   |        | sum           | xRP | som           |   | ssom                  | ßo           |   |   |   |                 | dan |   |   |    |        447-34 |
+| w   |        | sum           | xCS | som           |   | ssom                  | ßo           |   |   |   |                 | dan |   |   |    |        447-34 |
 | w   |        | fornævnd      | xAJ | fornævnte     |   | for(nefnde)           | foꝛͤ           |   |   |   |                 | dan |   |   |    |        447-34 |
 | lm  | 447-35 |               |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |
 | w   |        | sta           | xVB | stande        |   | stande                | ſtande        |   |   |   |                 | dan |   |   |    |        447-35 |
-| w   |        | etcetera      | xAV | etcetera      |   | (et cetera)           | ⁊cꝭ           |   |   |   |                 | lat |   |   |    |        447-35 |
+| w   |        | etcetera      | xAV |              |   | (et cetera)           | ⁊cꝭ           |   |   |   |                 | lat |   |   |    |        447-35 |
 | w   |        | at            | xIM | at            |   | Ath                   | Ath           |   |   |   |                 | dan |   |   |    |        447-35 |
 | w   |        | sta           | xVB | stå           |   | staa                  | ſtaa          |   |   |   |                 | dan |   |   |    |        447-35 |
 | w   |        | upa           | xAP | på            |   | paa                   | paa           |   |   |   |                 | dan |   |   |    |        447-35 |
@@ -494,7 +494,7 @@
 | w   |        | uti           | xAP | udi           |   | vtj                   | vtj           |   |   |   |                 | dan |   |   |    |        447-36 |
 | w   |        | al            | xAJ | alle          |   | alle                  | alle          |   |   |   |                 | dan |   |   |    |        447-36 |
 | w   |        | mate          | xNC | måde          |   | mode                  | mode          |   |   |   |                 | dan |   |   |    |        447-36 |
-| w   |        | sum           | xRP | som           |   | som                   | ſo           |   |   |   |                 | dan |   |   |    |        447-36 |
+| w   |        | sum           | xCS | som           |   | som                   | ſo           |   |   |   |                 | dan |   |   |    |        447-36 |
 | w   |        | fore          | xAP | for           |   | for(e)                | foꝛ          |   |   |   |                 | dan |   |   |    |        447-36 |
 | w   |        | sta           | xVB | stander       |   | stand(er)             | ſtand        |   |   |   |                 | dan |   |   |    |        447-36 |
 | w   |        | skrive        | xVB | skrevet       |   | sc(re)ffw(ett)        | ſcffwꝫͭ       |   |   |   |                 | dan |   |   |    |        447-36 |
@@ -507,7 +507,7 @@
 | w   |        | hængje        | xVB | hængt         |   | hengt                 | hengt         |   |   |   |                 | dan |   |   |    |        447-37 |
 | w   |        | min           | xDP | mit           |   | myt                   | mÿt           |   |   |   |                 | dan |   |   |    |        447-37 |
 | w   |        | æmbæte        | xNC | embeds        |   | embetz                | embetz        |   |   |   |                 | dan |   |   |    |        447-37 |
-| w   |        | insighle      | xNC | indsegl       |   | Indsegele             | Indſegele     |   |   |   |                 | dan |   |   |    |        447-37 |
+| w   |        | insighle      | xNC | indsegle       |   | Indsegele             | Indſegele     |   |   |   |                 | dan |   |   |    |        447-37 |
 | w   |        | næthen        | xAV | neden         |   | nedenn(n)             | nedenn       |   |   |   |                 | dan |   |   |    |        447-37 |
 | w   |        | fore          | xAP | for           |   | for(e)                | foꝛ          |   |   |   |                 | dan |   |   |    |        447-37 |
 | w   |        | thænne        | xDD | dette         |   | th(ette)              | thꝫͤ           |   |   |   |                 | dan |   |   |    |        447-37 |
@@ -518,7 +518,7 @@
 | w   |        | mæth          | xAP | med           |   | m(et)                 | mꝫ            |   |   |   |                 | dan |   |   |    |        447-38 |
 | w   |        | var           | xDP | vort          |   | wort                  | woꝛt          |   |   |   |                 | dan |   |   |    |        447-38 |
 | w   |        | konvent       | xNC | konvents      |   | conuentz              | conŭentz      |   |   |   |                 | dan |   |   |    |        447-38 |
-| w   |        | insighle      | xNC | indsegl       |   | Jndsegele             | Jndſegele     |   |   |   |                 | dan |   |   |    |        447-38 |
+| w   |        | insighle      | xNC | indsegle       |   | Jndsegele             | Jndſegele     |   |   |   |                 | dan |   |   |    |        447-38 |
 | w   |        | sum           | xRP | som           |   | som                   | ſo           |   |   |   |                 | dan |   |   |    |        447-38 |
 | w   |        | fyrst         | xAJ | først         |   | først                 | føꝛſt         |   |   |   |                 | dan |   |   |    |        447-38 |
 | w   |        | være          | xVB | ere           |   | ere                   | eꝛe           |   |   |   |                 | dan |   |   |    |        447-38 |
@@ -528,7 +528,7 @@
 | w   |        | fore          | xAV | for           |   | for(e)                | foꝛ          |   |   |   |                 | dan |   |   |    |        447-38 |
 | lm  | 447-39 |               |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |
 | w   |        | til           | xAP | til           |   | tiill                 | tiill         |   |   |   |                 | dan |   |   |    |        447-39 |
-| w   |        | thæs          | xAV | des           |   | thes                  | the          |   |   |   |                 | dan |   |   |    |        447-39 |
+| w   |        | thæn          | xPD | des           |   | thes                  | the          |   |   |   |                 | dan |   |   |    |        447-39 |
 | w   |        | ytermere      | xAJ | ydermere      |   | yd(er)mer(e)          | ÿdmeꝛ       |   |   |   |                 | dan |   |   |    |        447-39 |
 | w   |        | vitnesbyrth   | xNC | vidnesbyrd    |   | vitnisbyrdt           | vitniſbÿꝛdt   |   |   |   |                 | dan |   |   |    |        447-39 |
 | w   |        | ok            | xCC | og            |   | och                   | och           |   |   |   |                 | dan |   |   |    |        447-39 |
