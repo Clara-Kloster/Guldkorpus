@@ -65,7 +65,7 @@ vdblac = v with breve
 | w   |        | sum            | xRP | som          |   | Som(m)            | om̅          |             |   |   |   | dan |   |   |    |        460-02 |
 | w   |        | thæn           | xAT | den          |   | den(n)            | den̅          |             |   |   |   | dan |   |   |    |        460-02 |
 | w   |        | dagh           | xNC | dag          |   | dagh              | dagh         |             |   |   |   | dan |   |   |    |        460-02 |
-| w   |        | sitje          | xVB | sat          |   | Sadtt             | adtt        |             |   |   |   | dan |   |   |    |        460-02 |
+| w   |        | sitje          | xVB | sad          |   | Sadtt             | adtt        |             |   |   |   | dan |   |   |    |        460-02 |
 | w   |        | i              | xAP | i            |   | y                 | ÿ            |             |   |   |   | dan |   |   |    |        460-02 |
 | w   |        | domerestath    | xNC | dommersted   |   | domerstedtt       | domeꝛﬅedtt   |             |   |   |   | dan |   |   |    |        460-02 |
 | w   |        | upa            | xAP | på           |   | paa               | paa          |             |   |   |   | dan |   |   |    |        460-02 |
@@ -107,11 +107,11 @@ vdblac = v with breve
 | w   |        | æfter          | xAP | efter        |   | ept(er)           | ept         |             |   |   |   | dan |   |   |    |        460-05 |
 | w   |        | guth           | xNC | Guds         |   | gudtz             | gudtz        |             |   |   |   | dan |   |   |    |        460-05 |
 | w   |        | byrth          | xNC | byrd         |   | byrdtt            | bÿꝛdtt       |             |   |   |   | dan |   |   |    |        460-05 |
-| n   |        |                | xNA | 1551         |   | m d lj            | m d lj       |             |   |   |   | dan |   |   |    |        460-05 |
-| w   |        | thænne         | xDD | den          |   | thenn(n)          | thenn̅        |             |   |   |   | dan |   |   |    |        460-05 |
+| n   |        | 1551           |     | 1551         |   | m d lj            | m d lj       |             |   |   |   | dan |   |   |    |        460-05 |
+| w   |        | thæn           | xAT | den          |   | thenn(n)          | thenn̅        |             |   |   |   | dan |   |   |    |        460-05 |
 | w   |        | thorsdagh      | xNC | torsdag      |   | tors¦dag          | toꝛ¦dag     |             |   |   |   | dan |   |   |    | 460-05—460-06 |
 | w   |        | næst           | xAC | næst         |   | nest              | neﬅ          |             |   |   |   | dan |   |   |    |        460-06 |
-| w   |        | fore           | xAP | for          |   | ffore             | ﬀoꝛe         |             |   |   |   | dan |   |   |    |        460-06 |
+| w   |        | fore           | xAP | fore         |   | ffore             | ﬀoꝛe         |             |   |   |   | dan |   |   |    |        460-06 |
 | w   |        | kær            | xAJ | kære         |   | kiere             | kieꝛe        |             |   |   |   | dan |   |   |    |        460-06 |
 | w   |        | sundagh        | xNC | søndag       |   | Søndagh           | øndagh      |             |   |   |   | dan |   |   |    |        460-06 |
 | w   |        | være           | xVB | var          |   | wor               | woꝛ          |             |   |   |   | dan |   |   |    |        460-06 |
@@ -126,7 +126,7 @@ vdblac = v with breve
 | w   |        | upa            | xAP | på           |   | paa               | paa          |             |   |   |   | dan |   |   |    |        460-07 |
 | w   |        | fornævnd       | xAJ | fornævnte    |   | ffor(nefnde)      | ﬀoꝛᷠͤ          |             |   |   |   | dan |   |   |    |        460-07 |
 | w   |        | thing          | xNC | ting         |   | tingh             | tingh        |             |   |   |   | dan |   |   |    |        460-07 |
-| w   |        | beskethen      | xAJ | neskeden     |   | besken(n)         | beſken̅       |             |   |   |   | dan |   |   |    |        460-07 |
+| w   |        | beskethen      | xAJ | beskeden     |   | besken(n)         | beſken̅       |             |   |   |   | dan |   |   |    |        460-07 |
 | lm  | 460-08 |                |     |              |   |                   |              |             |   |   |   |     |   |   |    |               |
 | w   |        | man            | xNC | mand         |   | mand              | mand         |             |   |   |   | dan |   |   |    |        460-08 |
 | PE  | b      | MogAnd002      |     |              |   |                   |              |             |   |   |   |     |   |   |    |               |
@@ -159,7 +159,7 @@ vdblac = v with breve
 | w   |        | fram           | xAV | frem         |   | Frem(m)           | Fꝛem̅         |             |   |   |   | dan |   |   |    |        460-10 |
 | w   |        | gange          | xVB | gik          |   | gick              | gıck         |             |   |   |   | dan |   |   |    |        460-10 |
 | w   |        | innen          | xAP | inden        |   | inden(n)          | inden̅        |             |   |   |   | dan |   |   |    |        460-10 |
-| n   |        |                | xNA | 4            |   | iiij              | iiij         |             |   |   |   | dan |   |   |    |        460-10 |
+| n   |        |   4             |     | 4            |   | iiij              | iiij         |             |   |   |   | dan |   |   |    |        460-10 |
 | w   |        | thing          | xNC | ting         |   | tingh             | tingh        |             |   |   |   | dan |   |   |    |        460-10 |
 | w   |        | stok           | xNC | stokke       |   | stocke            | ﬅocke        |             |   |   |   | dan |   |   |    |        460-10 |
 | lm  | 460-11 |                |     |              |   |                   |              |             |   |   |   |     |   |   |    |               |
@@ -179,7 +179,7 @@ vdblac = v with breve
 | w   |        | minne          | xVB | mindes       |   | mynt(is)          | mÿntꝭ        |             |   |   |   | dan |   |   |    |        460-12 |
 | w   |        | i              | xAP | i            |   | y                 | ÿ            |             |   |   |   | dan |   |   |    |        460-12 |
 | w   |        | ful            | xAJ | fulde        |   | ffulde            | ﬀŭlde        |             |   |   |   | dan |   |   |    |        460-12 |
-| n   |        |                | xNA | 32           |   | xxxij             | xxxij        |             |   |   |   | dan |   |   |    |        460-12 |
+| n   |        |  32              |    | 32           |   | xxxij             | xxxij        |             |   |   |   | dan |   |   |    |        460-12 |
 | w   |        | ar             | xNC | år           |   | aar               | aaꝛ          |             |   |   |   | dan |   |   |    |        460-12 |
 | w   |        | at             | xCS | at           |   | att               | att          |             |   |   |   | dan |   |   |    |        460-12 |
 | w   |        | thæn           | xAT | den          |   | then(n)           | then̅         |             |   |   |   | dan |   |   |    |        460-12 |
@@ -259,7 +259,7 @@ vdblac = v with breve
 | w   |        | ok             | xCC | og           |   | och               | och          |             |   |   |   | dan |   |   |    |        460-18 |
 | w   |        | sanhet         | xNC | sandhed      |   | ßand hedtt        | ßand hedtt   |             |   |   |   | dan |   |   |    |        460-18 |
 | w   |        | at             | xCS | at           |   | att               | att          |             |   |   |   | dan |   |   |    |        460-18 |
-| w   |        | thæn           | xPD | den          |   | then(n)           | thenͫ         |             |   |   |   | dan |   |   |    |        460-18 |
+| w   |        | thæn           | xPD | dem          |   | then(n)           | thenͫ         |             |   |   |   | dan |   |   |    |        460-18 |
 | w   |        | minne          | xVB | mindes       |   | mynt(is)          | mÿntꝭ        |             |   |   |   | dan |   |   |    |        460-18 |
 | w   |        | thænne         | xDD | disse        |   | thesse            | thee        |             |   |   |   | dan |   |   |    |        460-18 |
 | w   |        | fornævnd       | xAJ | fornævnte    |   | ffor(nefnde)      | ﬀoꝛᷠͤ          |             |   |   |   | dan |   |   |    |        460-18 |
@@ -270,7 +270,7 @@ vdblac = v with breve
 | w   |        | sta            | xVB | står         |   | staar             | ﬅaaꝛ         |             |   |   |   | dan |   |   |    |        460-19 |
 | w   |        | i              | xAP | i            |   | y                 | ÿ            |             |   |   |   | dan |   |   |    |        460-19 |
 | w   |        | ful            | xAJ | fulde        |   | ffulde            | ﬀulde        |             |   |   |   | dan |   |   |    |        460-19 |
-| n   |        |                | xNA | 40           |   | xxxx              | xxxx         |             |   |   |   | dan |   |   |    |        460-19 |
+| n   |        | 40             |    | 40           |   | xxxx              | xxxx         |             |   |   |   | dan |   |   |    |        460-19 |
 | p   |        |                |     |              |   | /                 | /            |             |   |   |   | dan |   |   |    |        460-19 |
 | w   |        | ar             | xNC | år           |   | aar               | aaꝛ          |             |   |   |   | dan |   |   |    |        460-19 |
 | w   |        | thær           | xAV | der          |   | der               | deꝛ          |             |   |   |   | dan |   |   |    |        460-19 |
@@ -360,7 +360,7 @@ vdblac = v with breve
 | w   |        | vitne          | xNC | vidne        |   | widne             | widne        |             |   |   |   | dan |   |   |    |        460-26 |
 | lm  | 460-27 |                |     |              |   |                   |              |             |   |   |   |     |   |   |    |               |
 | w   |        | af             | xAP | af           |   | aff               | aﬀ           |             |   |   |   | dan |   |   |    |        460-27 |
-| n   |        |                | xNA | 12           |   | xij               | xij          |             |   |   |   | dan |   |   |    |        460-27 |
+| n   |        | 12             |     | 12           |   | xij               | xij          |             |   |   |   | dan |   |   |    |        460-27 |
 | w   |        | logh+fast      | xAJ | lovfaste     |   | louffaste         | loŭﬀaﬅe      |             |   |   |   | dan |   |   |    |        460-27 |
 | w   |        | dandeman       | xNC | dannemænd    |   | da(n)ne mendtt    | da̅ne mendtt  |             |   |   |   | dan |   |   |    |        460-27 |
 | w   |        | tha            | xAV | da           |   | da                | da           |             |   |   |   | dan |   |   |    |        460-27 |
@@ -383,7 +383,7 @@ vdblac = v with breve
 | w   |        | at             | xIM | at           |   | att               | att          |             |   |   |   | dan |   |   |    |        460-28 |
 | w   |        | take           | xVB | tage         |   | tage              | tage         |             |   |   |   | dan |   |   |    |        460-28 |
 | lm  | 460-29 |                |     |              |   |                   |              |             |   |   |   |     |   |   |    |               |
-| n   |        |                | xNA | 11           |   | xi                | xi           |             |   |   |   | dan |   |   |    |        460-29 |
+| n   |        | 11             |     | 11           |   | xi                | xi           |             |   |   |   | dan |   |   |    |        460-29 |
 | w   |        | dandeman       | xNC | dannemænd    |   | da(n)ne mend      | da̅ne mend    |             |   |   |   | dan |   |   |    |        460-29 |
 | w   |        | ut             | xAV | ud           |   | vd                | vd           |             |   |   |   | dan |   |   |    |        460-29 |
 | w   |        | at             | xIM | at           |   | att               | att          |             |   |   |   | dan |   |   |    |        460-29 |
@@ -476,7 +476,7 @@ vdblac = v with breve
 | PL  | e      |                |     |              |   |                   |              |             |   |   |   |     |   |   |    |               |
 | w   |        | thænne         | xDD | disse        |   | thesse            | thee        |             |   |   |   | dan |   |   |    |        460-34 |
 | w   |        | fornævnd       | xAJ | fornvænte    |   | ffor(nefnde)      | ﬀoꝛᷠͤ          |             |   |   |   | dan |   |   |    |        460-34 |
-| n   |        |                | xNA | 12           |   | xij               | xij          |             |   |   |   | dan |   |   |    |        460-34 |
+| n   |        |  12             |     | 12           |   | xij               | xij          |             |   |   |   | dan |   |   |    |        460-34 |
 | w   |        | logh+fast      | xAJ | lovfaste     |   | louffaste         | louﬀaﬅe      |             |   |   |   | dan |   |   |    |        460-34 |
 | w   |        | dandeman       | xNC | dannemænd    |   | dane mend         | dane mend    |             |   |   |   | dan |   |   |    |        460-34 |
 | w   |        | utgange        | xVB | udginge      |   | udginge           | űdgınge      |             |   |   |   | dan |   |   |    |        460-34 |
@@ -506,7 +506,7 @@ vdblac = v with breve
 | w   |        | mæth           | xAP | med          |   | m(et)             | mꝫ           |             |   |   |   | dan |   |   |    |        460-36 |
 | pm  | 460-37 |                |     |              |   |                   |              |             |   |   |   |     |   |   |    |               |
 | w   |        | var            | xDP | vore         |   | wore              | woꝛe         |             |   |   |   | dan |   |   |    |        460-37 |
-| w   |        | insighle       | xNC | indsegl      |   | yngzegle          | ÿngzegle     |             |   |   |   | dan |   |   |    |        460-37 |
+| w   |        | insighle       | xNC | indsegle      |   | yngzegle          | ÿngzegle     |             |   |   |   | dan |   |   |    |        460-37 |
 | w   |        | besta          | xVB | bestå        |   | bestaa            | beﬅaa        |             |   |   |   | dan |   |   |    |        460-37 |
 | w   |        | thæn           | xAT | det          |   | th(et)            | thꝫ          |             |   |   |   | dan |   |   |    |        460-37 |
 | w   |        | same           | xAJ | samme        |   | ßa(m)me           | ßa̅me         |             |   |   |   | dan |   |   |    |        460-37 |
