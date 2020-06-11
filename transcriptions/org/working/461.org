@@ -69,7 +69,7 @@
 | w   |        | æfter       | xAP | efter     |   | Efftt(er)        | Efftt       |   |   |   |   | dan |   |   |   |        461-02 |
 | w   |        | guth        | xNC | Gude      |   | gud(e)           | gu          |   |   |   |   | dan |   |   |   |        461-02 |
 | w   |        | byrth       | xNC | byrd      |   | byrd             | bÿꝛd         |   |   |   |   | dan |   |   |   |        461-02 |
-| n   |        |             | xNO | 1551      |   | md lj            | md lj        |   |   |   |   | dan |   |   |   |        461-02 |
+| n   |        | 1551        |     | 1551      |   | md lj            | md lj        |   |   |   |   | dan |   |   |   |        461-02 |
 | w   |        | thæn        | xAT | den       |   | Te(n)nd          | Te̅nd         |   |   |   |   | dan |   |   |   |        461-02 |
 | lm  | 461-03 |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |
 | w   |        | thorsdagh   | xNC | torsdag   |   | Torstdagh        | Toꝛſtdagh    |   |   |   |   | dan |   |   |   |        461-03 |
@@ -154,7 +154,7 @@
 | w   |        | ræt         | xNC | rette     |   | rette            | ꝛette        |   |   |   |   | dan |   |   |   |        461-08 |
 | w   |        | ok          | xCC | og        |   | Och              | Och          |   |   |   |   | dan |   |   |   |        461-08 |
 | w   |        | begære      | xVB | begærede  |   | bege(r)ede       | begeede     |   |   |   |   | dan |   |   |   |        461-08 |
-| w   |        | dom         | xNC | dem       |   | dom(m)           | dom̅          |   |   |   |   | dan |   |   |   |        461-08 |
+| w   |        | dom         | xNC | dom       |   | dom(m)           | dom̅          |   |   |   |   | dan |   |   |   |        461-08 |
 | w   |        | ræt         | xNC | ret       |   | retth            | ꝛetth        |   |   |   |   | dan |   |   |   |        461-08 |
 | w   |        | mællem      | xAP | mellem    |   | mellom(m)        | mellom̅       |   |   |   |   | dan |   |   |   |        461-08 |
 | lm  | 461-09 |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |
@@ -177,7 +177,7 @@
 | w   |        | ok          | xCC | og        |   | och              | och          |   |   |   |   | dan |   |   |   |        461-10 |
 | w   |        | gen+svare   | xVB | gensvar   |   | gen ßvard        | gen ßvard    |   |   |   |   | dan |   |   |   |        461-10 |
 | w   |        | ok          | xCC | og        |   | och              | och          |   |   |   |   | dan |   |   |   |        461-10 |
-| w   |        | sak+sæmje   | xNC | sagsæmje  |   | ßagßem(m)ie(n)   | ßagßem̅ie̅     |   |   |   |   | dan |   |   |   |        461-10 |
+| w   |        |             |     |           |   | ßagßem(m)ie(n)   | ßagßem̅ie̅     |   |   |   |   | dan |   |   |   |        461-10 |
 | w   |        | læghelikhet | xNC | lejlighed |   | leglighed        | leglighed    |   |   |   |   | dan |   |   |   |        461-10 |
 | w   |        | brev        | xNC | brev      |   | breff            | bꝛeff        |   |   |   |   | dan |   |   |   |        461-10 |
 | w   |        | ok          | xCC | og        |   | och              | och          |   |   |   |   | dan |   |   |   |        461-10 |
@@ -201,9 +201,9 @@
 | w   |        |             | xNP | Jørgensen |   | Jørgensend       | Jøꝛgenſend   |   |   |   |   | dan |   |   |   |        461-12 |
 | PE  | e      | JepJør001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |
 | w   |        | til         | xAP | til       |   | tyll             | tÿll         |   |   |   |   | dan |   |   |   |        461-12 |
-| w   |        | at          | xCS | at        |   | atth             | atth         |   |   |   |   | dan |   |   |   |        461-12 |
+| w   |        | at          | xIM | at        |   | atth             | atth         |   |   |   |   | dan |   |   |   |        461-12 |
 | w   |        | bøte        | xVB | bøde      |   | bøde             | bøde         |   |   |   |   | dan |   |   |   |        461-12 |
-| n   |        |             | xNA | 2         |   | ij               | ij           |   |   |   |   | dan |   |   |   |        461-12 |
+| n   |        | 2           |     | 2         |   | ij               | ij           |   |   |   |   | dan |   |   |   |        461-12 |
 | w   |        | øre         | xNC | øre       |   | øre              | øꝛe          |   |   |   |   | dan |   |   |   |        461-12 |
 | w   |        | for         | xAP | for       |   | for              | foꝛ          |   |   |   |   | dan |   |   |   |        461-12 |
 | w   |        |             | XX  |           |   | hoertth          | hoeꝛtth      |   |   |   |   | dan |   |   |   |        461-12 |
@@ -249,7 +249,7 @@
 | w   |        | i           | xAP | i         |   | y                | ÿ            |   |   |   |   | dan |   |   |   |        461-15 |
 | w   |        | sanhet      | xNC | sandhed   |   | ßandhed          | ßandhed      |   |   |   |   | dan |   |   |   |        461-15 |
 | w   |        | være        | xVB | er        |   | Er               | Er           |   |   |   |   | dan |   |   |   |        461-15 |
-| w   |        | sum         | xRP | som       |   | ßom(m)           | ßom̅          |   |   |   |   | dan |   |   |   |        461-15 |
+| w   |        | sum         | xCS | som       |   | ßom(m)           | ßom̅          |   |   |   |   | dan |   |   |   |        461-15 |
 | w   |        | for         | xAV | for       |   | for              | foꝛ          |   |   |   |   | dan |   |   |   |        461-15 |
 | w   |        | skrive      | xVB | skrevet   |   | sreffuitth       | ſꝛeffűitth   |   |   |   |   | dan |   |   |   |        461-15 |
 | w   |        | sta         | xVB | står      |   | stor             | ſtoꝛ         |   |   |   |   | dan |   |   |   |        461-15 |
@@ -259,7 +259,7 @@
 | w   |        | mæth        | xAP | med       |   | m(et)            | mꝫ           |   |   |   |   | dan |   |   |   |        461-15 |
 | w   |        | min         | xDP | mit       |   | mytth            | mÿtth        |   |   |   |   | dan |   |   |   |        461-15 |
 | lm  | 461-16 |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |
-| w   |        | insighle    | xNC | indsegl   |   | Jndsegell        | Jndſegell    |   |   |   |   | dan |   |   |   |        461-16 |
+| w   |        | insighle    | xNC | indsegle  |   | Jndsegell        | Jndſegell    |   |   |   |   | dan |   |   |   |        461-16 |
 | w   |        | næthen      | xAV | neden     |   | Nedend           | Ne̅dend       |   |   |   |   | dan |   |   |   |        461-16 |
 | w   |        | upa         | xAP | på        |   | po               | po           |   |   |   |   | dan |   |   |   |        461-16 |
 | w   |        | thænne      | xDD | dette     |   | th(ett)e         | thꝫe         |   |   |   |   | dan |   |   |   |        461-16 |
