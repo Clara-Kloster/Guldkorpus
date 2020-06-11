@@ -72,8 +72,8 @@
 | p   |        |               |     |               |   | ,                | ,                |   |   |   |   | dan |   |   |   |        466-03 |
 | w   |        | at            | xCS | at            |   | Ath              | Ath              |   |   |   |   | dan |   |   |   |        466-03 |
 | w   |        | ar            | xNC | år            |   | Aar              | Aar              |   |   |   |   | dan |   |   |   |        466-03 |
-| w   |        | etcetera      | xAV | etcetera      |   | (et) c(etera)    | ⁊c̅               |   |   |   |   | lat |   |   |   |        466-03 |
-| n   |        |               | xNO | 1578          |   | MDLxxviij        | MDLxxviij        |   |   |   |   | dan |   |   |   |        466-03 |
+| w   |        | etcetera      | xAV |               |   | (et) c(etera)    | ⁊c̅               |   |   |   |   | lat |   |   |   |        466-03 |
+| n   |        | 1578          |     | 1578          |   | MDLxxviij        | MDLxxviij        |   |   |   |   | dan |   |   |   |        466-03 |
 | p   |        |               |     |               |   | ,                | ,                |   |   |   |   | dan |   |   |   |        466-03 |
 | w   |        | thæn          | xAT | den           |   | Thennd           | Thennd           |   |   |   |   | dan |   |   |   |        466-03 |
 | w   |        | thorsdagh     | xNC | torsdag       |   | Thorsdagh        | Thorſdagh        |   |   |   |   | dan |   |   |   |        466-03 |
@@ -86,7 +86,7 @@
 | p   |        |               |     |               |   | ,                | ,                |   |   |   |   | dan |   |   |   |        466-04 |
 | w   |        | tha           | xAV | da            |   | tha              | tha              |   |   |   |   | dan |   |   |   |        466-04 |
 | w   |        | være          | xVB | var           |   | war              | war              |   |   |   |   | dan |   |   |   |        466-04 |
-| w   |        | thær          | xAV | der           |   | ther             | ther             |   |   |   |   | dan |   |   |   |        466-04 |
+| w   |        | thær          | xPD | der           |   | ther             | ther             |   |   |   |   | dan |   |   |   |        466-04 |
 | w   |        | skikke        | xVB | skikket       |   | shickit          | ſhickit          |   |   |   |   | dan |   |   |   |        466-04 |
 | w   |        | upa           | xAP | på            |   | paa              | paa              |   |   |   |   | dan |   |   |   |        466-04 |
 | PL  | b      |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |
@@ -160,7 +160,7 @@
 | w   |        |               | xNP | Strøby        |   | Strøbye          | trøbÿe          |   |   |   |   | dan |   |   |   |        466-09 |
 | PL  | e      |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |
 | lm  | 466-10 |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |
-| w   |        | i+mot         | xAP | imod          |   | Emodt            | Emodt            |   |   |   |   | dan |   |   |   |        466-10 |
+| w   |        | amot         | xAP | imod          |   | Emodt            | Emodt            |   |   |   |   | dan |   |   |   |        466-10 |
 | w   |        | tve           | xNA | to            |   | tho              | tho              |   |   |   |   | dan |   |   |   |        466-10 |
 | w   |        | skogh         | xNC | skove         |   | skouffue         | ſkoŭffŭe         |   |   |   |   | dan |   |   |   |        466-10 |
 | w   |        | sum           | xRP | som           |   | som              | ſom              |   |   |   |   | dan |   |   |   |        466-10 |
@@ -185,7 +185,7 @@
 | w   |        | ok            | xCC | og            |   | och              | och              |   |   |   |   | dan |   |   |   |        466-11 |
 | w   |        | fyllest       | xNC | fyldest       |   | fylliste         | fÿlliſte         |   |   |   |   | dan |   |   |   |        466-11 |
 | p   |        |               |     |               |   | ,                | ,                |   |   |   |   | dan |   |   |   |        466-11 |
-| w   |        | for           | xAP | for           |   | for              | for             |   |   |   |   | dan |   |   |   |        466-11 |
+| w   |        | for           | xAV | for           |   | for              | for             |   |   |   |   | dan |   |   |   |        466-11 |
 | w   |        | hva           | xPD | hvis          |   | huiis            | hŭii            |   |   |   |   | dan |   |   |   |        466-11 |
 | w   |        | thæn          | xPD | de            |   | the              | the              |   |   |   |   | dan |   |   |   |        466-11 |
 | lm  | 466-12 |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |
@@ -195,7 +195,7 @@
 | w   |        | in            | xAV | ind           |   | Jnd              | Jnd              |   |   |   |   | dan |   |   |   |        466-12 |
 | w   |        | upa           | xAP | på            |   | paa              | paa              |   |   |   |   | dan |   |   |   |        466-12 |
 | w   |        | han           | xPD | hans          |   | hans             | han             |   |   |   |   | dan |   |   |   |        466-12 |
-| w   |        |               | xNC | løvmarke      |   | Løumarcke        | Løumarcke        |   |   |   |   | dan |   |   |   |        466-12 |
+| w   |        | løv+mark      | xNC | løvmarke      |   | Løumarcke        | Løumarcke        |   |   |   |   | dan |   |   |   |        466-12 |
 | w   |        | skogh         | xNC | skove         |   | skouffue         | ſkoŭffŭe         |   |   |   |   | dan |   |   |   |        466-12 |
 | w   |        |               | xNC | skæppelund    |   | skeppe¦lund      | ſkeppe¦lŭnd      |   |   |   |   | dan |   |   |   | 466-12—466-13 |
 | w   |        | ok            | xCC | og            |   | och              | och              |   |   |   |   | dan |   |   |   |        466-13 |
@@ -207,7 +207,7 @@
 | PL  | e      |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |
 | w   |        | ligje         | xVB | liggendes     |   | liggenndis       | liggenndi       |   |   |   |   | dan |   |   |   |        466-13 |
 | p   |        |               |     |               |   | ,                | ,                |   |   |   |   | dan |   |   |   |        466-13 |
-| w   |        | yver          | xAP | over          |   | Offuer           | Offŭer           |   |   |   |   | dan |   |   |   |        466-13 |
+| w   |        | yver          | xAV | over          |   | Offuer           | Offŭer           |   |   |   |   | dan |   |   |   |        466-13 |
 | lm  | 466-14 |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |
 | w   |        | hva           | xPD | hvis          |   | huis             | hui             |   |   |   |   | dan |   |   |   |        466-14 |
 | w   |        | thæn          | xPD | deres         |   | thieris          | thieri          |   |   |   |   | dan |   |   |   |        466-14 |
@@ -217,14 +217,14 @@
 | w   |        |               | XX  |               |   | thaalle          | thaalle          |   |   |   |   | dan |   |   |   |        466-14 |
 | w   |        | upa           | xAP | på            |   | paa              | paa              |   |   |   |   | dan |   |   |   |        466-14 |
 | w   |        | gruft         | xNC | grøfte        |   | grøffte          | grøffte          |   |   |   |   | dan |   |   |   |        466-14 |
-| w   |        | at            | xAP | at            |   | ath              | ath              |   |   |   |   | dan |   |   |   |        466-14 |
+| w   |        | at            | xAP | ad            |   | ath              | ath              |   |   |   |   | dan |   |   |   |        466-14 |
 | lm  | 466-15 |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |
 | PL  | b      |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |
 | w   |        |               | xNP | Strøby        |   | Strøbye          | trøbÿe          |   |   |   |   | dan |   |   |   |        466-15 |
 | PL  | e      |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |
 | w   |        | fang          | xNC | fang          |   | fanngh           | fanngh           |   |   |   |   | dan |   |   |   |        466-15 |
 | p   |        |               |     |               |   | ,                | ,                |   |   |   |   | dan |   |   |   |        466-15 |
-| w   |        | thærfor       | xAV | derfor        |   | therfore         | therfore         |   |   |   |   | dan |   |   |   |        466-15 |
+| w   |        | thærfor       | xAV | derfore        |   | therfore         | therfore         |   |   |   |   | dan |   |   |   |        466-15 |
 | w   |        | være          | xVB | er            |   | er               | er              |   |   |   |   | dan |   |   |   |        466-15 |
 | w   |        | han           | xPD | han           |   | hannd            | hannd            |   |   |   |   | dan |   |   |   |        466-15 |
 | w   |        | ænge          | xPD | intet         |   | Jnthedt          | Jnthedt          |   |   |   |   | dan |   |   |   |        466-15 |
@@ -239,13 +239,13 @@
 | w   |        | mæth          | xAP | med           |   | medt             | medt             |   |   |   |   | dan |   |   |   |        466-16 |
 | w   |        | ræt           | xAJ | rette         |   | rette            | rette            |   |   |   |   | dan |   |   |   |        466-16 |
 | p   |        |               |     |               |   | ,                | ,                |   |   |   |   | dan |   |   |   |        466-16 |
-| w   |        | etcetera      | xAV | etcetera      |   | (et) c(etera)    | ⁊c̅               |   |   |   |   | lat |   |   |   |        466-16 |
+| w   |        | etcetera      | xAV |               |   | (et) c(etera)    | ⁊c̅               |   |   |   |   | lat |   |   |   |        466-16 |
 | w   |        | at            | xCS | at            |   | Ath              | Ath              |   |   |   |   | dan |   |   |   |        466-16 |
 | w   |        | han           | xPD | hans          |   | hanns            | hann            |   |   |   |   | dan |   |   |   |        466-16 |
 | w   |        | tilbuth       | xNC | tilbud        |   | tilbudt          | tilbŭdt          |   |   |   |   | dan |   |   |   |        466-16 |
 | lm  | 466-17 |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |
 | w   |        | have          | xVB | har           |   | haffuer          | haffuer          |   |   |   |   | dan |   |   |   |        466-17 |
-| w   |        | være          | xVB | varet         |   | waritt           | waritt           |   |   |   |   | dan |   |   |   |        466-17 |
+| w   |        | være          | xVB | været         |   | waritt           | waritt           |   |   |   |   | dan |   |   |   |        466-17 |
 | w   |        | sva           | xAV | så            |   | saa              | ſaa              |   |   |   |   | dan |   |   |   |        466-17 |
 | w   |        | fjure         | xNA | fire          |   | fire             | fire             |   |   |   |   | dan |   |   |   |        466-17 |
 | w   |        | samfald       | xAJ | samfolde      |   | samfolde         | ſamfolde         |   |   |   |   | dan |   |   |   |        466-17 |
@@ -257,10 +257,10 @@
 | lm  | 466-18 |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |
 | w   |        | være          | xVB | er            |   | Er               | Er               |   |   |   |   | dan |   |   |   |        466-18 |
 | w   |        | min           | xDP | mit           |   | mith             | mith             |   |   |   |   | dan |   |   |   |        466-18 |
-| w   |        | insighle      | xNC | indsegl       |   | Jndtzegle        | Jndtzegle        |   |   |   |   | dan |   |   |   |        466-18 |
+| w   |        | insighle      | xNC | indsegle       |   | Jndtzegle        | Jndtzegle        |   |   |   |   | dan |   |   |   |        466-18 |
 | w   |        | for           | xAV | for           |   | for              | for             |   |   |   |   | dan |   |   |   |        466-18 |
 | w   |        | næthen        | xAV | neden         |   | neden            | neden            |   |   |   |   | dan |   |   |   |        466-18 |
-| w   |        | under         | xAP | under         |   | vnder            | vnder           |   |   |   |   | dan |   |   |   |        466-18 |
+| w   |        | under         | xAV | under         |   | vnder            | vnder           |   |   |   |   | dan |   |   |   |        466-18 |
 | w   |        | thrykje       | xVB | trykt         |   | thrøckt          | thrøckt          |   |   |   |   | dan |   |   |   |        466-18 |
 | p   |        |               |     |               |   | ,                | ,                |   |   |   |   | dan |   |   |   |        466-18 |
 | w   |        |               |     |               |   | Datum            | Datum            |   |   |   |   | lat |   |   |   |        466-18 |
