@@ -52,7 +52,7 @@
 | w   |        | ok          | xCC  | og             |   | ok                  | ok           |   |   |   |                  | dan |   |   |    |        356-01 |
 | w   |        | kome+skule  | xVB  | kommeskullende |   | komesculendæ        | komeſculendæ |   |   |   |                  | dan |   |   |    |        356-01 |
 | w   |        | at          | xCS  | at             |   | ath                 | ath          |   |   |   |                  | dan |   |   |    |        356-01 |
-| w   |        | jak         | xPD  | jeg            |   | Jech                | Jech         |   |   |   |                  | dan |   |   |    |        356-01 |
+| w   |        | jak         | xPE  | jeg            |   | Jech                | Jech         |   |   |   |                  | dan |   |   |    |        356-01 |
 | PE  | b      | AndJak001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        |             | xNP  | Anders         |   | anders              | ander       |   |   |   |                  | dan |   |   |    |        356-01 |
 | w   |        |             | xNP  | Jepsen         |   | Jeyæpss(øn)         | Jeyæpſ      |   |   |   |                  | dan |   |   |    |        356-01 |
@@ -63,7 +63,7 @@
 | w   |        | i           | xAP  | i              |   | i                   | i            |   |   |   |                  | dan |   |   |    |        356-02 |
 | w   |        |             | xNP  | Egede          |   | eged(e)             | ege         |   |   |   |                  | dan |   |   |    |        356-02 |
 | w   |        | upovena     | xAP  | påne           |   | ponæ                | ponæ         |   |   |   |                  | dan |   |   |    |        356-02 |
-| w   |        | min         | xPD  | mine           |   | minæ                | minæ         |   |   |   |                  | dan |   |   |    |        356-02 |
+| w   |        | min         | xDP  | mine           |   | minæ                | minæ         |   |   |   |                  | dan |   |   |    |        356-02 |
 | w   |        | brother     | xNC  | brødre         |   | brødræ              | brødræ       |   |   |   |                  | dan |   |   |    |        356-02 |
 | w   |        | barn        | xNC  | børns          |   | børnæs              | bøꝛnæ       |   |   |   |                  | dan |   |   |    |        356-02 |
 | w   |        | vægh        | xNC  | vegne          |   | wegnæ               | wegnæ        |   |   |   |                  | dan |   |   |    |        356-02 |
@@ -77,13 +77,13 @@
 | w   |        |             | prop | Folmersdatter  |   | fol¦mersdot(er)     | fol¦merſdot |   |   |   |                  | dan |   |   |    | 356-02-362-03 |
 | PE  | e      | AriFol001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        | ok          | xCC  | og             |   | och                 | och          |   |   |   |                  | dan |   |   |    |        356-03 |
-| w   |        | jak         | xPD  | jeg            |   | Jech                | Jech         |   |   |   |                  | dan |   |   |    |        356-03 |
+| w   |        | jak         | xPE  | jeg            |   | Jech                | Jech         |   |   |   |                  | dan |   |   |    |        356-03 |
 | PE  | b      | HenGru001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        |             | xNP | Henrik         |   | henike              | henike       |   |   |   |                  | dan |   |   |    |        356-03 |
 | w   |        |             | xNP | Grubendal      |   | grubendale          | grubendale   |   |   |   |                  | dan |   |   |    |        356-03 |
 | PE  | e      | HenGru001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        | upovena     | xAP  | på             |   | ponæ                | ponæ         |   |   |   |                  | dan |   |   |    |        356-03 |
-| w   |        | min         | xPD  | min            |   | mi(n)               | mi̅           |   |   |   |                  | dan |   |   |    |        356-03 |
+| w   |        | min         | xDP  | min            |   | mi(n)               | mi̅           |   |   |   |                  | dan |   |   |    |        356-03 |
 | w   |        | kær         | xAJ  | kære           |   | kær(e)              | kær         |   |   |   |                  | dan |   |   |    |        356-03 |
 | w   |        | husfrue     | xNC  | husfrues       |   | hosfrwæs            | hoſfrwæ     |   |   |   |                  | dan |   |   |    |        356-03 |
 | w   |        | vægh        | xNC  | vegne          |   | wegnæ               | wegnæ        |   |   |   |                  | dan |   |   |    |        356-03 |
@@ -109,7 +109,7 @@
 | w   |        | i           | xAP  | i              |   | i                   | i            |   |   |   |                  | dan |   |   |    |        356-04 |
 | w   |        |             | xNP  | Roskilde       |   | rosk(ilde)          | roſkꝭ        |   |   |   |                  | dan |   |   |    |        356-04 |
 | lm  | 356-05 |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
-| w   |        | thænne      | xPD  | disse          |   | thesse              | theſſe       |   |   |   |                  | dan |   |   |    |        356-05 |
+| w   |        | thænne      | xDD  | disse          |   | thesse              | theſſe       |   |   |   |                  | dan |   |   |    |        356-05 |
 | w   |        | goths       | xNC  | gods           |   | gotz                | gotz         |   |   |   |                  | dan |   |   |    |        356-05 |
 | w   |        | sum         | xRP  | som            |   | som                 | ſom          |   |   |   |                  | dan |   |   |    |        356-05 |
 | w   |        | hær         | xAV  | her            |   | h(er)               | h̅            |   |   |   |                  | dan |   |   |    |        356-05 |
@@ -242,7 +242,7 @@
 | w   |        | til         | xAP  | til            |   | til                 | til          |   |   |   |                  | dan |   |   |    |        356-09 |
 | w   |        | skyld       | xNC  | skyld          |   | skyld               | ſkyld        |   |   |   |                  | dan |   |   |    |        356-09 |
 | lm  | 356-10 |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
-| w   |        | thænne      | xPD  | disse          |   | thesse              | theſſe       |   |   |   |                  | dan |   |   |    |        356-10 |
+| w   |        | thænne      | xDD  | disse          |   | thesse              | theſſe       |   |   |   |                  | dan |   |   |    |        356-10 |
 | w   |        | fornævnd    | xAJ  | førnævnte      |   | for(nefnde)         | foꝛͩͤ          |   |   |   | de ligature?     | dan |   |   |    |        356-10 |
 | w   |        | goths       | xNC  | gods           |   | gotz                | gotz         |   |   |   |                  | dan |   |   |    |        356-10 |
 | w   |        | ok          | xCC  | og             |   | och                 | och          |   |   |   |                  | dan |   |   |    |        356-10 |
@@ -250,7 +250,7 @@
 | w   |        | ok          | xCC  | og             |   | oc                  | oc           |   |   |   |                  | dan |   |   |    |        356-10 |
 | w   |        | af+grøthe   | xNC  | afgrøde        |   | affgrødæ            | affgrødæ     |   |   |   |                  | dan |   |   |    |        356-10 |
 | w   |        | af          | xAP  | af             |   | aff                 | aff          |   |   |   |                  | dan |   |   |    |        356-10 |
-| w   |        | thæn        | xPD  | dem            |   | thøm                | thø         |   |   |   |                  | dan |   |   |    |        356-10 |
+| w   |        | thæn        | xDD  | dem            |   | thøm                | thø         |   |   |   |                  | dan |   |   |    |        356-10 |
 | w   |        | skule       | xVB  | skal           |   | skal                | ſkal         |   |   |   |                  | dan |   |   |    |        356-10 |
 | w   |        | forskreven  | xAJ  | forskrevne     |   | forscr(efne)        | foꝛſcr      |   |   |   |                  | dan |   |   |    |        356-10 |
 | w   |        | jungfrue    | xNC  | jomfru         |   | Jomfrw              | Jomfrw       |   |   |   |                  | dan |   |   |    |        356-10 |
@@ -262,24 +262,24 @@
 | w   |        | upbære      | xVB  | opbære         |   | opbær(e)            | opbær       |   |   |   |                  | dan |   |   |    |        356-10 |
 | lm  | 356-11 |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        | til         | xAP  | til            |   | til                 | til          |   |   |   |                  | dan |   |   |    |        356-11 |
-| w   |        | sin         | xPD  | sit            |   | siid                | ſiid         |   |   |   |                  | dan |   |   |    |        356-11 |
+| w   |        | sin         | xDP  | sit            |   | siid                | ſiid         |   |   |   |                  | dan |   |   |    |        356-11 |
 | w   |        | nyt         | xNC  | nytte          |   | nyttæ               | nyttæ        |   |   |   |                  | dan |   |   |    |        356-11 |
 | w   |        | sva         | xAV  | så             |   | so                  | ſo           |   |   |   |                  | dan |   |   |    |        356-11 |
 | w   |        | længe       | xAV  | længe          |   | længæ               | længæ        |   |   |   |                  | dan |   |   |    |        356-11 |
-| w   |        | hun         | xPD  | hun            |   | hwn                 | hw          |   |   |   |                  | dan |   |   |    |        356-11 |
+| w   |        | hun         | xPE  | hun            |   | hwn                 | hw          |   |   |   |                  | dan |   |   |    |        356-11 |
 | w   |        | live        | xVB  | lever          |   | leuær               | leuær        |   |   |   |                  | dan |   |   |    |        356-11 |
 | w   |        | ok          | xCC  | og             |   | och                 | och          |   |   |   |                  | dan |   |   |    |        356-11 |
 | w   |        | nar         | xCS  | når            |   | nar                 | nar          |   |   |   |                  | dan |   |   |    |        356-11 |
 | w   |        | guth        | xNC  | gud            |   | gwd                 | gwd          |   |   |   |                  | dan |   |   |    |        356-11 |
 | w   |        | vilje       | xVB  | vil            |   | wil                 | wil          |   |   |   |                  | dan |   |   |    |        356-11 |
 | w   |        | at          | xCS  | at             |   | ath                 | ath          |   |   |   |                  | dan |   |   |    |        356-11 |
-| w   |        | hun         | xPD  | hun            |   | hwn                 | hw          |   |   |   |                  | dan |   |   |    |        356-11 |
+| w   |        | hun         | xPE  | hun            |   | hwn                 | hw          |   |   |   |                  | dan |   |   |    |        356-11 |
 | w   |        | af          | xAV  | af             |   | aff                 | aff          |   |   |   |                  | dan |   |   |    |        356-11 |
 | w   |        | gange       | xVB  | går            |   | gor                 | goꝛ          |   |   |   |                  | dan |   |   |    |        356-11 |
 | w   |        | tha         | xAV  | da             |   | tha                 | tha          |   |   |   |                  | dan |   |   |    |        356-11 |
 | w   |        | skule       | xVB  | skal           |   | skal                | ſkal         |   |   |   |                  | dan |   |   |    |        356-11 |
 | w   |        | al          | xAJ  | alle           |   | alle                | alle         |   |   |   |                  | dan |   |   |    |        356-11 |
-| w   |        | thænne      | xPD  | disse          |   | thesse              | theſſe       |   |   |   |                  | dan |   |   |    |        356-11 |
+| w   |        | thænne      | xDD  | disse          |   | thesse              | theſſe       |   |   |   |                  | dan |   |   |    |        356-11 |
 | lm  | 356-12 |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        | fornævnd    | xAJ  | førnævnte      |   | for(nefnde)         | foꝛͩͤ          |   |   |   | de ligature?     | dan |   |   |    |        356-12 |
 | w   |        | goths       | xNC  | gods           |   | gotz                | gotz         |   |   |   |                  | dan |   |   |    |        356-12 |
@@ -315,9 +315,9 @@
 | w   |        | skilling    | xNC  | skilling       |   | s(killing)          |             |   |   |   |                  | dan |   |   |    |        356-13 |
 | w   |        | grot        | xNC  | grot           |   | g(rot)              | gꝭ           |   |   |   |                  | dan |   |   |    |        356-13 |
 | w   |        | undentaken  | xAJ  | undentagen       |   | vnde(n) tagen       | vnde̅ tage   |   |   |   |                  | dan |   |   |    |        356-13 |
-| w   |        | han         | xPD  | hannem          |   | hano(m)             | hano̅         |   |   |   |                  | dan |   |   |    |        356-13 |
+| w   |        | han         | xPE  | hannem          |   | hano(m)             | hano̅         |   |   |   |                  | dan |   |   |    |        356-13 |
 | w   |        | skule       | xVB  | skal           |   | skal                | ſkal         |   |   |   |                  | dan |   |   |    |        356-13 |
-| w   |        | hun         | xPD  | hun            |   | hwn                 | hw          |   |   |   |                  | dan |   |   |    |        356-13 |
+| w   |        | hun         | xPE  | hun            |   | hwn                 | hw          |   |   |   |                  | dan |   |   |    |        356-13 |
 | lm  | 356-14 |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        | have        | xVB  | have           |   | haue                | haue         |   |   |   |                  | dan |   |   |    |        356-14 |
 | w   |        | ful         | xAJ  | fuld           |   | fwl                 | fwl          |   |   |   |                  | dan |   |   |    |        356-14 |
@@ -328,33 +328,33 @@
 | w   |        | ævinnelik   | xAJ  | evindelig      |   | ewy(n)nælich        | ewy̅nælıch    |   |   |   |                  | dan |   |   |    |        356-14 |
 | w   |        | eghe        | xNC  | eje            |   | eyæ                 | eyæ          |   |   |   |                  | dan |   |   |    |        356-14 |
 | w   |        | nar         | xAV  | når            |   | nar                 | nar          |   |   |   |                  | dan |   |   |    |        356-14 |
-| w   |        | hun         | xPD  | hun            |   | hwn                 | hw          |   |   |   |                  | dan |   |   |    |        356-14 |
+| w   |        | hun         | xPE  | hun            |   | hwn                 | hw          |   |   |   |                  | dan |   |   |    |        356-14 |
 | w   |        | af          | xAV  | af             |   | aff                 | aff          |   |   |   |                  | dan |   |   |    |        356-14 |
 | w   |        | gange       | xVB  | går            |   | gor                 | goꝛ          |   |   |   |                  | dan |   |   |    |        356-14 |
-| w   |        | hva         | xPD  | hvem           |   | hwem                | hwe         |   |   |   |                  | dan |   |   |    |        356-14 |
-| w   |        | hun         | xPD  | hun            |   | hwn                 | hw          |   |   |   |                  | dan |   |   |    |        356-14 |
+| w   |        | hva         | xPI  | hvem           |   | hwem                | hwe         |   |   |   |                  | dan |   |   |    |        356-14 |
+| w   |        | hun         | xPE  | hun            |   | hwn                 | hw          |   |   |   |                  | dan |   |   |    |        356-14 |
 | w   |        | vilje       | xVB  | vil            |   | wil                 | wil          |   |   |   |                  | dan |   |   |    |        356-14 |
 | w   |        | item        | xAV  |                |   | Jt(em)              | Jtꝭ          |   |   |   |                  | lat |   |   |    |        356-14 |
 | lm  | 356-15 |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        | vilje       | xVB  | vil            |   | wil                 | wil          |   |   |   |                  | dan |   |   |    |        356-15 |
-| w   |        | hun         | xPD  | hun            |   | hwn                 | hw          |   |   |   |                  | dan |   |   |    |        356-15 |
+| w   |        | hun         | xPE  | hun            |   | hwn                 | hw          |   |   |   |                  | dan |   |   |    |        356-15 |
 | w   |        | thæn        | xAT  | den            |   | the(n)              | the̅          |   |   |   |                  | dan |   |   |    |        356-15 |
 | w   |        | garth       | xNC  | gård           |   | gord                | goꝛd         |   |   |   |                  | dan |   |   |    |        356-15 |
 | w   |        | fyrre       | xAV  | før            |   | førr(e)             | føꝛr        |   |   |   |                  | dan |   |   |    |        356-15 |
 | w   |        | afhænde     | xVB  | afhænde        |   | affhendæ            | affhendæ     |   |   |   |                  | dan |   |   |    |        356-15 |
 | w   |        | tha         | xAV  | da             |   | tha                 | tha          |   |   |   |                  | dan |   |   |    |        356-15 |
 | w   |        | skule       | xVB  | skal           |   | skal                | ſkal         |   |   |   |                  | dan |   |   |    |        356-15 |
-| w   |        | hun         | xPD  | hun            |   | hwn                 | hw          |   |   |   |                  | dan |   |   |    |        356-15 |
+| w   |        | hun         | xPE  | hun            |   | hwn                 | hw          |   |   |   |                  | dan |   |   |    |        356-15 |
 | w   |        | ok          | xAV  | og             |   | och                 | och          |   |   |   |                  | dan |   |   |    |        356-15 |
 | w   |        | have        | xVB  | have           |   | haue                | haue         |   |   |   |                  | dan |   |   |    |        356-15 |
-| w   |        | thæn        | xPD  | des            |   | thes                | the         |   |   |   |                  | dan |   |   |    |        356-15 |
+| w   |        | thæn        | xPE  | des            |   | thes                | the         |   |   |   |                  | dan |   |   |    |        356-15 |
 | w   |        | makt        | xNC  | magt           |   | makt                | makt         |   |   |   |                  | dan |   |   |    |        356-15 |
 | w   |        | thænne      | xDD  | dette          |   | th(et)tæ            | thꝫtæ        |   |   |   |                  | dan |   |   |    |        356-15 |
 | w   |        | forskreven  | xAJ  | forskrevne     |   | forscr(efne)        | foꝛſcr      |   |   |   |                  | dan |   |   |    |        356-15 |
 | lm  | 356-16 |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        | vilkor      | xNC  | vilkår         |   | welkoræ             | welkoræ      |   |   |   |                  | dan |   |   |    |        356-16 |
-| w   |        | vi          | xPD  | vi             |   | wy                  | wy           |   |   |   |                  | dan |   |   |    |        356-16 |
-| w   |        | vi          | xPD  | os             |   | os                  | o           |   |   |   |                  | dan |   |   |    |        356-16 |
+| w   |        | vi          | xPE  | vi             |   | wy                  | wy           |   |   |   |                  | dan |   |   |    |        356-16 |
+| w   |        | vi          | xPE  | os             |   | os                  | o           |   |   |   |                  | dan |   |   |    |        356-16 |
 | w   |        | til         | xAV  | til            |   | til                 | tıl          |   |   |   |                  | dan |   |   |    |        356-16 |
 | w   |        | upovena     | xAP  | på             |   | ponæ                | ponæ         |   |   |   |                  | dan |   |   |    |        356-16 |
 | w   |        | hærre       | xNC  | herre          |   | h(er)               | h̅            |   |   |   |                  | dan |   |   |    |        356-16 |
