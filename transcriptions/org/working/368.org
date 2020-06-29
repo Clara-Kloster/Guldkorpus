@@ -42,7 +42,7 @@
 | :s: |        |             |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |
 | pm  | 1r     |             |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |
 | lm  | 368-01 |             |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |
-| w   |        | vi          | xPD | vi             |   | Wy                  | Wý          |   |   |   |        | dan |   |   |   | 368-01 |
+| w   |        | vi          | xPE | vi             |   | Wy                  | Wý          |   |   |   |        | dan |   |   |   | 368-01 |
 | PE  | b      | JenPed007   |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |
 | w   |        |             | xNP | Jens           |   | Jens                | Jen        |   |   |   |        | dan |   |   |   | 368-01 |
 | PE  | e      | JenPed007   |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |
@@ -60,7 +60,7 @@
 | w   |        | kome+skule  | xVB | kommeskullende |   | ko(m)me(skulende)   | ko̅me       |   |   |   | de-sup | dan |   |   |   | 368-01 |
 | p   |        |             |     |                |   | .                   | .           |   |   |   |        | dan |   |   |   | 368-01 |
 | w   |        | at          | xCS | at             |   | At                  | At          |   |   |   |        | dan |   |   |   | 368-01 |
-| w   |        | vi          | xPD | vi             |   | wy                  | wý          |   |   |   |        | dan |   |   |   | 368-01 |
+| w   |        | vi          | xPE | vi             |   | wy                  | wý          |   |   |   |        | dan |   |   |   | 368-01 |
 | w   |        | mæth        | xAP | med            |   | m(et)               | mꝫ          |   |   |   |        | dan |   |   |   | 368-01 |
 | w   |        | goth        | xAJ | god            |   | goth                | goth        |   |   |   |        | dan |   |   |   | 368-01 |
 | lm  | 368-02 |             |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |
@@ -69,7 +69,7 @@
 | w   |        | give        | xVB | givet          |   | giffuit             | giffuit     |   |   |   |        | dan |   |   |   | 368-02 |
 | w   |        | ful         | xAJ | fuld           |   | full                | full        |   |   |   |        | dan |   |   |   | 368-02 |
 | w   |        | makt        | xNC | magt           |   | macht               | macht       |   |   |   |        | dan |   |   |   | 368-02 |
-| w   |        | var         | xPD | vort           |   | wort                | woꝛt        |   |   |   |        | dan |   |   |   | 368-02 |
+| w   |        | var         | xDP | vort           |   | wort                | woꝛt        |   |   |   |        | dan |   |   |   | 368-02 |
 | w   |        | kær         | xAJ | kære           |   | kær(e)              | kær        |   |   |   |        | dan |   |   |   | 368-02 |
 | w   |        | kapitel     | xNC | kapitel        |   | capittell           | capittell   |   |   |   |        | dan |   |   |   | 368-02 |
 | w   |        | i           | xAP | i              |   | j                   | j           |   |   |   |        | dan |   |   |   | 368-02 |
@@ -90,9 +90,9 @@
 | w   |        | i           | xAP | i              |   | j                   | j           |   |   |   |        | dan |   |   |   | 368-03 |
 | w   |        |             | xNP | Schæntzweth    |   | schæntzweth         | ſchæntzweth |   |   |   |        | dan |   |   |   | 368-03 |
 | w   |        |             | xNP | magle          |   | maglæ               | maglæ       |   |   |   |        | dan |   |   |   | 368-03 |
-| w   |        | hvilik      | xPD | hvilke         |   | huelke              | huelke      |   |   |   |        | dan |   |   |   | 368-03 |
+| w   |        | hvilik      | xPI | hvilke         |   | huelke              | huelke      |   |   |   |        | dan |   |   |   | 368-03 |
 | w   |        | sum         | xRP | som            |   | so(m)               | ſo̅          |   |   |   |        | dan |   |   |   | 368-03 |
-| w   |        | var         | xPD | vor            |   | wor                 | woꝛ         |   |   |   |        | dan |   |   |   | 368-03 |
+| w   |        | var         | xDP | vor            |   | wor                 | woꝛ         |   |   |   |        | dan |   |   |   | 368-03 |
 | w   |        | forfather   | xNC | forfader       |   | forfath(e)r         | foꝛfathr   |   |   |   |        | dan |   |   |   | 368-03 |
 | w   |        | biskop      | xNC | biskop         |   | biscop              | biſcop      |   |   |   |        | dan |   |   |   | 368-03 |
 | PE  | b      | PedLod001   |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |
@@ -115,7 +115,7 @@
 | w   |        | pant        | xNC | pant           |   | pant                | pant        |   |   |   |        | dan |   |   |   | 368-04 |
 | w   |        | sætje       | xVB | sætte          |   | sættæ               | ſættæ       |   |   |   |        | dan |   |   |   | 368-04 |
 | w   |        | æfter       | xAP | efter          |   | efft(er)            | efft       |   |   |   |        | dan |   |   |   | 368-04 |
-| w   |        | thæn        | xPD | thi            |   | thy                 | thẏ         |   |   |   |        | dan |   |   |   | 368-04 |
+| w   |        | thæn        | xPE | thi            |   | thy                 | thẏ         |   |   |   |        | dan |   |   |   | 368-04 |
 | w   |        | sum         | xAV | som            |   | so(m)               | so̅          |   |   |   |        | dan |   |   |   | 368-04 |
 | w   |        | thæn        | xPE | de             |   | the                 | the         |   |   |   |        | dan |   |   |   | 368-04 |
 | w   |        | brev        | xNC | brev           |   | breff               | bꝛeff       |   |   |   |        | dan |   |   |   | 368-04 |
@@ -128,10 +128,10 @@
 | lm  | 368-05 |             |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |
 | w   |        | ok          | xCC | og             |   | Oc                  | Oc          |   |   |   |        | dan |   |   |   | 368-05 |
 | w   |        | unne        | xVB | unde           |   | wnne                | wnne        |   |   |   |        | dan |   |   |   | 368-05 |
-| w   |        | vi          | xPD | vi             |   | wy                  | wẏ          |   |   |   |        | dan |   |   |   | 368-05 |
+| w   |        | vi          | xPE | vi             |   | wy                  | wẏ          |   |   |   |        | dan |   |   |   | 368-05 |
 | w   |        | fornævnd    | xAJ | fornævnte      |   | for(nefnde)         | foꝛͩͤ         |   |   |   |        | dan |   |   |   | 368-05 |
 | w   |        | kapitel     | xNC | kapitel        |   | capittell           | capittell   |   |   |   |        | dan |   |   |   | 368-05 |
-| w   |        | thænne      | xPD | dette          |   | th(e)ttæ            | tht̅tæ       |   |   |   |        | dan |   |   |   | 368-05 |
+| w   |        | thænne      | xDD | dette          |   | th(e)ttæ            | tht̅tæ       |   |   |   |        | dan |   |   |   | 368-05 |
 | w   |        | fornævnd    | xAJ | fornævnte      |   | for(nefnde)         | foꝛͩͤ         |   |   |   |        | dan |   |   |   | 368-05 |
 | w   |        | goths       | xNC | gods           |   | gotz                | gotz        |   |   |   |        | dan |   |   |   | 368-05 |
 | w   |        | i           | xAP | i              |   | j                   | j           |   |   |   |        | dan |   |   |   | 368-05 |
@@ -149,9 +149,9 @@
 | w   |        | sva         | xAV | så             |   | Swo                 | wo         |   |   |   |        | dan |   |   |   | 368-06 |
 | w   |        | længe       | xAV | længe          |   | længe               | længe       |   |   |   |        | dan |   |   |   | 368-06 |
 | w   |        | til         | xAP | til            |   | till                | till        |   |   |   |        | dan |   |   |   | 368-06 |
-| w   |        | vi          | xPD | vi             |   | wy                  | wẏ          |   |   |   |        | dan |   |   |   | 368-06 |
+| w   |        | vi          | xPE | vi             |   | wy                  | wẏ          |   |   |   |        | dan |   |   |   | 368-06 |
 | w   |        | æller       | xCC | eller          |   | æll(er)             | æl̅l         |   |   |   |        | dan |   |   |   | 368-06 |
-| w   |        | var         | xPD | vor            |   | wor                 | woꝛ         |   |   |   |        | dan |   |   |   | 368-06 |
+| w   |        | var         | xDD | vor            |   | wor                 | woꝛ         |   |   |   |        | dan |   |   |   | 368-06 |
 | w   |        | æfterkomere | xNC | efterkommere   |   | efft(er)ko(m)mer(e) | efftko̅mer |   |   |   |        | dan |   |   |   | 368-06 |
 | w   |        | løse        | xVB | løse           |   | løse                | løſe        |   |   |   |        | dan |   |   |   | 368-06 |
 | w   |        | thænne      | xDD | dette          |   | th(e)ttæ            | thtt̅æ       |   |   |   |        | dan |   |   |   | 368-06 |
