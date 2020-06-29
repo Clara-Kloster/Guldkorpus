@@ -51,7 +51,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | høre        | xVB | hører              |   | hør(e)r             | hørr            |   |   |   |                       | dan     |   |   |   | 369-01 |
 | w   |        | læse        | xVB | læse               |   | læse                | læſe             |   |   |   |                       | dan     |   |   |   | 369-01 |
 | w   |        | helse       | xVB | hilser             |   | helser              | helſer           |   |   |   |                       | dan     |   |   |   | 369-01 |
-| w   |        | jak         | xPD | jeg                |   | jech                | ȷech             |   |   |   |                       | dan     |   |   |   | 369-01 |
+| w   |        | jak         | xPE | jeg                |   | jech                | ȷech             |   |   |   |                       | dan     |   |   |   | 369-01 |
 | PE  |      b | GriJen001   |     |                    |   |                     |                  |   |   |   |                       |         |   |   |   |        |
 | w   |        |             | xNP | Grib               |   | griipp              | grii            |   |   |   |                       | dan     |   |   |   | 369-01 |
 | w   |        |             | xNP | Jensen             |   | jenss(øn)           | ȷenſ            |   |   |   |                       | dan     |   |   |   | 369-01 |
@@ -62,7 +62,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | lm  | 369-02 |             |     |                    |   |                     |                  |   |   |   |                       |         |   |   |   |        |
 | w   |        | ævinnelik   | xAJ | evindelige         |   | ewyndelighe         | ewẏndelıghe      |   |   |   |                       | dan     |   |   |   | 369-02 |
 | w   |        | mæth        | xAP | med                |   | m(et)               | mꝫ               |   |   |   |                       | dan     |   |   |   | 369-02 |
-| w   |        | var         | xPD | vor                |   | vor                 | voꝛ              |   |   |   |                       | dan     |   |   |   | 369-02 |
+| w   |        | var         | xDP | vor                |   | vor                 | voꝛ              |   |   |   |                       | dan     |   |   |   | 369-02 |
 | w   |        | hærre       | xNC | herre              |   | h(er)r(e)           | h̅r              |   |   |   |                       | dan     |   |   |   | 369-02 |
 | w   |        | ok          | xCC | og                 |   | Oc                  | Oc               |   |   |   |                       | dan     |   |   |   | 369-02 |
 | w   |        | kungøre     | xVB | kundgører          |   | kw(n)gorer          | kw̅gorer          |   |   |   |                       | dan     |   |   |   | 369-02 |
@@ -74,13 +74,13 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | kome        | xVB | komme              |   | ko(m)me             | ko̅me             |   |   |   |                       | dan     |   |   |   | 369-02 |
 | w   |        | skule       | xVB | skulle             |   | scule               | ſcule            |   |   |   |                       | dan     |   |   |   | 369-02 |
 | w   |        | at          | xCS | at                 |   | at                  | at               |   |   |   |                       | dan     |   |   |   | 369-02 |
-| w   |        | jak         | xPD | jeg                |   | jech                | ȷech             |   |   |   |                       | dan     |   |   |   | 369-02 |
+| w   |        | jak         | xPE | jeg                |   | jech                | ȷech             |   |   |   |                       | dan     |   |   |   | 369-02 |
 | w   |        | vitherkænne | xVB | vederkender        |   | veth(e)rkæ(n)ner    | veth̅rkæ̅ner       |   |   |   |                       | dan     |   |   |   | 369-02 |
 | lm  | 369-03 |             |     |                    |   |                     |                  |   |   |   |                       |         |   |   |   |        |
-| w   |        | jak         | xPD | mig                |   | mech                | mech             |   |   |   |                       | dan     |   |   |   | 369-03 |
+| w   |        | jak         | xPE | mig                |   | mech                | mech             |   |   |   |                       | dan     |   |   |   | 369-03 |
 | w   |        | mæth        | xAP | med                |   | m(et)               | mꝫ               |   |   |   |                       | dan     |   |   |   | 369-03 |
-| w   |        | thænne      | xPD | dette              |   | thette              | thette           |   |   |   |                       | dan     |   |   |   | 369-03 |
-| w   |        | min         | xPD | mit                |   | myt                 | mẏt              |   |   |   |                       | dan     |   |   |   | 369-03 |
+| w   |        | thænne      | xDD | dette              |   | thette              | thette           |   |   |   |                       | dan     |   |   |   | 369-03 |
+| w   |        | min         | xDP | mit                |   | myt                 | mẏt              |   |   |   |                       | dan     |   |   |   | 369-03 |
 | w   |        | open        | xAJ | åbne               |   | opne                | opne             |   |   |   |                       | dan     |   |   |   | 369-03 |
 | w   |        | brev        | xNC | brev               |   | b(re)ff             | b̅ff              |   |   |   |                       | dan     |   |   |   | 369-03 |
 | w   |        | i           | xAP | i                  |   | j                   | j                |   |   |   |                       | dan     |   |   |   | 369-03 |
@@ -124,7 +124,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | give        | xVB | giver              |   | giffuer             | giffuer          |   |   |   |                       | dan     |   |   |   | 369-05 |
 | w   |        | thær        | xAV | der                |   | th(e)r              | th̅ꝛ              |   |   |   |                       | dan     |   |   |   | 369-05 |
 | w   |        | af          | xAV | af                 |   | aff                 | aff              |   |   |   |                       | dan     |   |   |   | 369-05 |
-| w   |        | hvær        | xPD | hvert              |   | huert               | huert            |   |   |   |                       | dan     |   |   |   | 369-05 |
+| w   |        | hvær        | xDD | hvert              |   | huert               | huert            |   |   |   |                       | dan     |   |   |   | 369-05 |
 | w   |        | ar          | xNC | år                 |   | aar                 | aar              |   |   |   |                       | dan     |   |   |   | 369-05 |
 | w   |        | til         | xAP | til                |   | til                 | til              |   |   |   |                       | dan     |   |   |   | 369-05 |
 | w   |        | landgilde   | xNC | landgilde          |   | landgilde           | landgilde        |   |   |   |                       | dan     |   |   |   | 369-05 |
@@ -136,7 +136,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | svadan      | xAV | sådant             |   | sadant              | ſadant           |   |   |   |                       | dan     |   |   |   | 369-06 |
 | w   |        | vilkor      | xNC | vilkår             |   | velkor              | velkor           |   |   |   |                       | dan     |   |   |   | 369-06 |
 | w   |        | at          | xCS | at                 |   | at                  | at               |   |   |   |                       | dan     |   |   |   | 369-06 |
-| w   |        | jak         | xPD | jeg                |   | jech                | ȷech             |   |   |   |                       | dan     |   |   |   | 369-06 |
+| w   |        | jak         | xPE | jeg                |   | jech                | ȷech             |   |   |   |                       | dan     |   |   |   | 369-06 |
 | w   |        | skule       | xVB | skal               |   | scal                | ſcal             |   |   |   |                       | dan     |   |   |   | 369-06 |
 | w   |        | behalde     | xVB | beholde            |   | beholde             | beholde          |   |   |   |                       | dan     |   |   |   | 369-06 |
 | w   |        | fornævnd    | xAJ | fornævnte          |   | for(nefnde)         | foꝛͩͤ              |   |   |   |                       | dan     |   |   |   | 369-06 |
@@ -144,10 +144,10 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | i           | xAP | i                  |   | j                   | j                |   |   |   |                       | dan     |   |   |   | 369-06 |
 | w   |        | leghe       | xNC | leje               |   | leyæ                | leyæ             |   |   |   |                       | dan     |   |   |   | 369-06 |
 | w   |        | i           | xAP | i                  |   | j                   | j                |   |   |   |                       | dan     |   |   |   | 369-06 |
-| w   |        | min         | xPD | mine               |   | myne                | mẏne             |   |   |   |                       | dan     |   |   |   | 369-06 |
+| w   |        | min         | xDP | mine               |   | myne                | mẏne             |   |   |   |                       | dan     |   |   |   | 369-06 |
 | w   |        | dagh        | xNC | dage               |   | dawe                | dawe             |   |   |   |                       | dan     |   |   |   | 369-06 |
 | w   |        | ok          | xCC | og                 |   | oc                  | oc               |   |   |   |                       | dan     |   |   |   | 369-06 |
-| w   |        | min         | xPD | min                |   | my(n)               | my̅               |   |   |   |                       | dan     |   |   |   | 369-06 |
+| w   |        | min         | xDP | min                |   | my(n)               | my̅               |   |   |   |                       | dan     |   |   |   | 369-06 |
 | w   |        | husfrue     | xNC | husfrues           |   | husfrwes            | huſfrwe         |   |   |   |                       | dan     |   |   |   | 369-06 |
 | w   |        | dagh        | xNC | dage               |   | dawe                | dawe             |   |   |   |                       | dan     |   |   |   | 369-06 |
 | lm  | 369-07 |             |     |                    |   |                     |                  |   |   |   |                       |         |   |   |   |        |
@@ -162,7 +162,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | yte         | xVB | yde                |   | yde                 | yde              |   |   |   |                       | dan     |   |   |   | 369-07 |
 | w   |        | thær        | xAV | der                |   | th(e)r              | th̅ꝛ              |   |   |   |                       | dan     |   |   |   | 369-07 |
 | w   |        | af          | xAV | af                 |   | aff                 | aff              |   |   |   |                       | dan     |   |   |   | 369-07 |
-| w   |        | hvær        | xPD | hvert              |   | huert               | huert            |   |   |   |                       | dan     |   |   |   | 369-07 |
+| w   |        | hvær        | xDD | hvert              |   | huert               | huert            |   |   |   |                       | dan     |   |   |   | 369-07 |
 | w   |        | ar          | xNC | år                 |   | aar                 | aar              |   |   |   |                       | dan     |   |   |   | 369-07 |
 | w   |        | betithen    | xAJ | betiden            |   | betiith(e)n         | betiith̅         |   |   |   |                       | dan     |   |   |   | 369-07 |
 | w   |        | innen       | xAP | inden              |   | jnnen               | ȷnne            |   |   |   |                       | dan     |   |   |   | 369-07 |
@@ -188,14 +188,14 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | ok          | xCC | og                 |   | oc                  | oc               |   |   |   |                       | dan     |   |   |   | 369-08 |
 | w   |        | nar         | xCS | når                |   | nar                 | nar              |   |   |   |                       | dan     |   |   |   | 369-08 |
 | w   |        | fornævnd    | xAJ | fornævnte          |   | for(nefnde)         | foꝛͩͤ              |   |   |   |                       | dan     |   |   |   | 369-08 |
-| w   |        | min         | xPD | min                |   | my(n)               | my̅               |   |   |   |                       | dan     |   |   |   | 369-08 |
+| w   |        | min         | xDP | min                |   | my(n)               | my̅               |   |   |   |                       | dan     |   |   |   | 369-08 |
 | lm  | 369-09 |             |     |                    |   |                     |                  |   |   |   |                       |         |   |   |   |        |
 | w   |        | husfrue     | xNC | husfrue            |   | husfrw              | huſfrw           |   |   |   |                       | dan     |   |   |   | 369-09 |
 | w   |        |             | XX  |                    |   | ⸠j⸡                 | ⸠j⸡              |   |   |   |                       | dan     |   |   |   | 369-09 |
 | w   |        | ok          | xCC | og                 |   | ⸌oc⸍                | ⸌oc⸍             |   |   |   |                       | dan     |   |   |   | 369-09 |
-| w   |        | jak         | xPD | jeg                |   | jech                | ȷech             |   |   |   |                       | dan     |   |   |   | 369-09 |
+| w   |        | jak         | xPE | jeg                |   | jech                | ȷech             |   |   |   |                       | dan     |   |   |   | 369-09 |
 | w   |        | være        | xVB | ere                |   | ær(e)               | ær              |   |   |   |                       | dan     |   |   |   | 369-09 |
-| w   |        | bathe       | xPD | både               |   | bothe               | bothe            |   |   |   |                       | dan     |   |   |   | 369-09 |
+| w   |        | bathe       | xPI | både               |   | bothe               | bothe            |   |   |   |                       | dan     |   |   |   | 369-09 |
 | w   |        | afgange     | xVB | afgange            |   | affgangne           | affgangne        |   |   |   |                       | dan     |   |   |   | 369-09 |
 | w   |        | tha         | xAV | da                 |   | tha                 | tha              |   |   |   |                       | dan     |   |   |   | 369-09 |
 | w   |        | skule       | xVB | skal               |   | scal                | ſcal             |   |   |   |                       | dan     |   |   |   | 369-09 |
@@ -212,10 +212,10 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | thæn        | xPE | det                |   | th(et)              | thꝫ              |   |   |   |                       | dan     |   |   |   | 369-10 |
 | w   |        | tilforn     | xAV | tilforn            |   | tilfor(e)n          | tilfor         |   |   |   |                       | dan     |   |   |   | 369-10 |
 | w   |        | varthe      | xVB | vorde              |   | vorthe              | vorthe           |   |   |   |                       | dan     |   |   |   | 369-10 |
-| w   |        | jak         | xPD | mig                |   | mech                | mech             |   |   |   |                       | dan     |   |   |   | 369-10 |
+| w   |        | jak         | xPE | mig                |   | mech                | mech             |   |   |   |                       | dan     |   |   |   | 369-10 |
 | w   |        | affinne     | xVB | affundet           |   | affwndeth           | affwndeth        |   |   |   |                       | dan     |   |   |   | 369-10 |
 | w   |        | mæth        | xAP | med                |   | m(et)               | mꝫ               |   |   |   |                       | dan     |   |   |   | 369-10 |
-| w   |        | noker       | xPD | noger              |   | nogh(e)r            | nogh̅ꝛ            |   |   |   |                       | dan     |   |   |   | 369-10 |
+| w   |        | noker       | xDD | noger              |   | nogh(e)r            | nogh̅ꝛ            |   |   |   |                       | dan     |   |   |   | 369-10 |
 | w   |        | ræt         | xNC | ret                |   | ræt                 | ræt              |   |   |   |                       | dan     |   |   |   | 369-10 |
 | w   |        | æller       | xCC | eller              |   | ell(e)r             | el̅lr             |   |   |   |                       | dan     |   |   |   | 369-10 |
 | w   |        | landslogh   | xNC | landslov           |   | landzlow            | landzlow         |   |   |   |                       | dan     |   |   |   | 369-10 |
@@ -226,9 +226,9 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | hær         | xAV | her                |   | her                 | her              |   |   |   |                       | dan     |   |   |   | 369-11 |
 | w   |        | um          | xAV | om                 |   | om                  | o               |   |   |   |                       | dan     |   |   |   | 369-11 |
 | w   |        | have        | xVB | haver              |   | hauer               | hauer            |   |   |   |                       | dan     |   |   |   | 369-11 |
-| w   |        | jak         | xPD | jeg                |   | jech                | ȷech             |   |   |   |                       | dan     |   |   |   | 369-11 |
+| w   |        | jak         | xPE | jeg                |   | jech                | ȷech             |   |   |   |                       | dan     |   |   |   | 369-11 |
 | w   |        | hængje      | xVB | hængt              |   | hængt               | hængt            |   |   |   |                       | dan     |   |   |   | 369-11 |
-| w   |        | min         | xPD | mit                |   | myt                 | myt              |   |   |   |                       | dan     |   |   |   | 369-11 |
+| w   |        | min         | xDP | mit                |   | myt                 | myt              |   |   |   |                       | dan     |   |   |   | 369-11 |
 | w   |        | insighle    | xNC | indsegl            |   | jnsigle             | ȷnſıgle          |   |   |   |                       | dan     |   |   |   | 369-11 |
 | w   |        | for         | xAP | for                |   | for                 | foꝛ              |   |   |   |                       | dan     |   |   |   | 369-11 |
 | w   |        | thænne      | xDD | dette              |   | th(et)te            | thꝫte            |   |   |   |                       | dan     |   |   |   | 369-11 |
@@ -268,8 +268,8 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        |             | xNP | Frøslev            |   | frøsløff            | frøſløff         |   |   |   |                       | dan     |   |   |   | 369-13 |
 | w   |        | have        | xVB | have               |   | haue                | haue             |   |   |   |                       | dan     |   |   |   | 369-13 |
 | w   |        | hængje      | xVB | hængt              |   | hengt               | hengt            |   |   |   |                       | dan     |   |   |   | 369-13 |
-| w   |        | thæn        | xPD | dere               |   | th(e)rr(e)          | th̅rr            |   |   |   |                       | dan     |   |   |   | 369-13 |
-| w   |        | insighle    | xNC | indsegl            |   | jnsigle             | ȷnſıgle          |   |   |   |                       | dan     |   |   |   | 369-13 |
+| w   |        | thæn        | xPE | dere               |   | th(e)rr(e)          | th̅rr            |   |   |   |                       | dan     |   |   |   | 369-13 |
+| w   |        | insighle    | xNC | indsegle            |   | jnsigle             | ȷnſıgle          |   |   |   |                       | dan     |   |   |   | 369-13 |
 | w   |        | for         | xAP | for                |   | for                 | foꝛ              |   |   |   |                       | dan     |   |   |   | 369-13 |
 | w   |        | thænne      | xDD | dette              |   | th(et)te            | thꝫte            |   |   |   |                       | dan     |   |   |   | 369-13 |
 | w   |        | brev        | xNC | brev               |   | b(re)ff             | b̅ff              |   |   |   |                       | dan     |   |   |   | 369-13 |
