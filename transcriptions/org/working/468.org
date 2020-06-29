@@ -61,10 +61,10 @@
 | w   |        | al          | xAJ | al             |   | ald            | ald            |   |   |   |                          | dan |   |   |    | 468-02 |
 | w   |        | lykke       | xNC | lykke          |   | lycke          | lycke          |   |   |   |                          | dan |   |   |    | 468-02 |
 | w   |        | ok          | xCC | og             |   | och            | och            |   |   |   |                          | dan |   |   |    | 468-02 |
-| w   |        | vælfart     | xAV | velfart        |   | welfart        | welfart        |   |   |   |                          | dan |   |   |    | 468-02 |
+| w   |        | vælfart     | xNC | velfart        |   | welfart        | welfart        |   |   |   |                          | dan |   |   |    | 468-02 |
 | lm  | 468-03 |             |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |
 | w   |        | ok          | xCC | og             |   | och            | och            |   |   |   |                          | dan |   |   |    | 468-03 |
-| w   |        | mughe       | xVB | måen           |   | møgen          | møgen          |   |   |   |                          | dan |   |   |    | 468-03 |
+| w   |        | mughe       | xVB | muen           |   | møgen          | møgen          |   |   |   |                          | dan |   |   |    | 468-03 |
 | w   |        | i           | xPD | Eder           |   | ether          | ether          |   |   |   |                          | dan |   |   |    | 468-03 |
 | w   |        | ok          | xCC | og             |   | och            | och            |   |   |   |                          | dan |   |   |    | 468-03 |
 | w   |        | jak         | xPD | jeg            |   | Jæck           | Jæck           |   |   |   |                          | dan |   |   |    | 468-03 |
@@ -86,12 +86,12 @@
 | w   |        | i           | xAP | i              |   | j              | j              |   |   |   |                          | dan |   |   |    | 468-04 |
 | w   |        | thænne      | xCC | disse          |   | thiße          | thiße          |   |   |   |                          | dan |   |   |    | 468-04 |
 | w   |        | dagh        | xNC | dage           |   | dage           | dage           |   |   |   |                          | dan |   |   |    | 468-04 |
-| w   |        | have        | xVB | har            |   | haffuer        | haffŭer        |   |   |   |                          | dan |   |   |    | 468-04 |
+| w   |        | have        | xVB | haver            |   | haffuer        | haffŭer        |   |   |   |                          | dan |   |   |    | 468-04 |
 | lm  | 468-05 |             |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |
 | w   |        | stæthje     | xVB | sted           |   | sted           | ſted           |   |   |   |                          | dan |   |   |    | 468-05 |
 | w   |        | ok          | xCC | og             |   | och            | och            |   |   |   |                          | dan |   |   |    | 468-05 |
 | w   |        | fæste       | xVB | fest           |   | fest           | feſt           |   |   |   |                          | dan |   |   |    | 468-05 |
-| w   |        | en          | xAV | en             |   | en             | en             |   |   |   |                          | dan |   |   |    | 468-05 |
+| w   |        | en          | xNA | en             |   | en             | en             |   |   |   |                          | dan |   |   |    | 468-05 |
 | w   |        | fjarthing   | xNC | fjerding       |   | f(ierding)     | fꝭͩ             |   |   |   |                          | dan |   |   |    | 468-05 |
 | w   |        | jorth       | xNC | jord           |   | Jord           | Jord           |   |   |   |                          | dan |   |   |    | 468-05 |
 | w   |        | af          | xAP | af             |   | aff            | aff            |   |   |   |                          | dan |   |   |    | 468-05 |
@@ -110,7 +110,7 @@
 | p   |        |             |     |                |   | ,              | ,              |   |   |   |                          | dan |   |   |    | 468-06 |
 | w   |        | ok          | xCC | og             |   | Och            | Och            |   |   |   |                          | dan |   |   |    | 468-06 |
 | w   |        | love        | xVB | lovet          |   | loffuet        | loffŭet        |   |   |   |                          | dan |   |   |    | 468-06 |
-| w   |        | han         | xPD | ham            |   | hano(m)        | hano̅           |   |   |   |                          | dan |   |   |    | 468-06 |
+| w   |        | han         | xPD | hannem            |   | hano(m)        | hano̅           |   |   |   |                          | dan |   |   |    | 468-06 |
 | w   |        | upa         | xAP | på             |   | paa            | paa            |   |   |   |                          | dan |   |   |    | 468-06 |
 | lm  | 468-07 |             |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |
 | w   |        | universitet | xNC | universitets   |   | Uniuersitetz   | Uniŭerſitetz   |   |   |   |                          | dan |   |   |    | 468-07 |
@@ -125,7 +125,7 @@
 | w   |        | daler       | xNC | daler          |   | daler          | daler          |   |   |   |                          | dan |   |   |    | 468-08 |
 | p   |        |             |     |                |   | ,              | ,              |   |   |   |                          | dan |   |   |    | 468-08 |
 | w   |        | foruten     | xAP | foruden        |   | foruden        | forŭden        |   |   |   |                          | dan |   |   |    | 468-08 |
-| w   |        | en          | xAT | en             |   | en             | en             |   |   |   |                          | dan |   |   |    | 468-08 |
+| w   |        | en          | xNA | en             |   | en             | en             |   |   |   |                          | dan |   |   |    | 468-08 |
 | w   |        | gamel       | xAJ | gammel         |   | gamell         | gamell         |   |   |   |                          | dan |   |   |    | 468-08 |
 | w   |        | daler       | xNC | daler          |   | daler          | daler          |   |   |   |                          | dan |   |   |    | 468-08 |
 | w   |        | jak         | xPD | jeg            |   | Jeg            | Jeg            |   |   |   |                          | dan |   |   |    | 468-08 |
@@ -139,7 +139,7 @@
 | w   |        | fornøghje   | xVB | fornøjet       |   | fornøyet       | fornøÿet       |   |   |   |                          | dan |   |   |    | 468-09 |
 | p   |        |             |     |                |   | ,              | ,              |   |   |   |                          | dan |   |   |    | 468-09 |
 | w   |        | ok          | xCC | og             |   | Och            | Och            |   |   |   |                          | dan |   |   |    | 468-09 |
-| w   |        | have        | xVB | har            |   | haffuer        | haffŭer        |   |   |   |                          | dan |   |   |    | 468-09 |
+| w   |        | have        | xVB | haver            |   | haffuer        | haffŭer        |   |   |   |                          | dan |   |   |    | 468-09 |
 | w   |        | han         | xPD | han            |   | hand           | hand           |   |   |   |                          | dan |   |   |    | 468-09 |
 | w   |        | upa         | xAP | på             |   | paa            | paa            |   |   |   |                          | dan |   |   |    | 468-09 |
 | lm  | 468-10 |             |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |
@@ -252,7 +252,7 @@
 | p   |        |             |     |                |   | ,              | ,              |   |   |   |                          | dan |   |   |    | 468-19 |
 | w   |        | æfter       | xAP | efter          |   | Effther        | Effther        |   |   |   |                          | dan |   |   |    | 468-19 |
 | w   |        | thæn        | xAT | den            |   | thend          | thend          |   |   |   |                          | dan |   |   |    | 468-19 |
-| w   |        | tenor       | lat | tenor          |   | Tenor          | Tenor          |   |   |   | cf. Meyers Fremmedordbog | dan |   |   |    | 468-19 |
+| w   |        |             | xNC | tenor          |   | Tenor          | Tenor          |   |   |   | cf. Meyers Fremmedordbog | dan |   |   |    | 468-19 |
 | w   |        | thæn        | xPD | de             |   | the            | the            |   |   |   |                          | dan |   |   |    | 468-19 |
 | w   |        | plæghe      | xVB | pleje          |   | pleye          | pleÿe          |   |   |   |                          | dan |   |   |    | 468-19 |
 | w   |        | at          | xIM | at             |   | att            | att            |   |   |   |                          | dan |   |   |    | 468-19 |
@@ -298,7 +298,7 @@
 | w   |        | uti         | xAP | udi            |   | vdj            | vdj            |   |   |   |                          | dan |   |   |    | 468-22 |
 | lm  | 468-23 |             |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |
 | w   |        | brev        | xNC | brevet         |   | breffuit       | breffŭit       |   |   |   |                          | dan |   |   |    | 468-23 |
-| w   |        | man         | xPD | mand           |   | man            | man            |   |   |   |                          | dan |   |   |    | 468-23 |
+| w   |        | man         | xNC | mand           |   | man            | man            |   |   |   |                          | dan |   |   |    | 468-23 |
 | w   |        |             | XX  |                |   | pre0000is      | pre0000i      |   |   |   |                          | dan |   |   |    | 468-23 |
 | p   |        |             |     |                |   | ,              | ,              |   |   |   |                          | dan |   |   |    | 468-23 |
 | w   |        | thæn        | xAT | det            |   | thet           | thet           |   |   |   |                          | dan |   |   |    | 468-23 |
@@ -310,8 +310,8 @@
 | w   |        | være        | xVB | være           |   | were           | were           |   |   |   |                          | dan |   |   |    | 468-24 |
 | w   |        | til         | xAP | til            |   | till           | till           |   |   |   |                          | dan |   |   |    | 468-24 |
 | w   |        | paske       | xNC | påske          |   | paasche        | paaſche        |   |   |   |                          | dan |   |   |    | 468-24 |
-| w   |        | anno        | lat |                |   | Anno           | Anno           |   |   |   |                          | lat |   |   |    | 468-24 |
-| n   |        | 87          | lat |                |   | 87             | 87             |   |   |   |                          | dan |   |   |    | 468-24 |
+| w   |        |             |     |                |   | Anno           | Anno           |   |   |   |                          | lat |   |   |    | 468-24 |
+| n   |        | 87          |     | 87             |   | 87             | 87             |   |   |   |                          | dan |   |   |    | 468-24 |
 | p   |        |             |     |                |   | .              | .              |   |   |   |                          | dan |   |   |    | 468-24 |
 | w   |        | for+thi     | xAV | fordi          |   | fordj          | fordj          |   |   |   |                          | dan |   |   |    | 468-24 |
 | w   |        | thæn        | xPD | den            |   | thend          | thend          |   |   |   |                          | dan |   |   |    | 468-24 |
@@ -329,7 +329,7 @@
 | w   |        | landgoths   | xNC | landgods       |   | landg(ods)     | landg         |   |   |   | de-sup                   | dan |   |   |    | 468-25 |
 | w   |        | ut          | xAV | ud             |   | vd,            | vd,            |   |   |   |                          | dan |   |   |    | 468-25 |
 | p   |        |             |     |                |   | /              | /              |   |   |   |                          | dan |   |   |    | 468-25 |
-| w   |        | kære        | xVB | kære           |   | kiere          | kiere          |   |   |   |                          | dan |   |   |    | 468-25 |
+| w   |        | kær        | xAJ | kære           |   | kiere          | kiere          |   |   |   |                          | dan |   |   |    | 468-25 |
 | lm  | 468-26 |             |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |
 | w   |        | hærre       | xNC | herr           |   | her            | her            |   |   |   |                          | dan |   |   |    | 468-26 |
 | w   |        | doktor      | xNC | doktor         |   | doctor         | doctor         |   |   |   |                          | dan |   |   |    | 468-26 |
@@ -337,8 +337,8 @@
 | w   |        | jak         | xPD | mig            |   | mig            | mig            |   |   |   |                          | dan |   |   |    | 468-26 |
 | w   |        | ække        | xAV | ikke           |   | Icke           | Icke           |   |   |   |                          | dan |   |   |    | 468-26 |
 | w   |        | jak         | xPD | jeg            |   | Jeg            | Jeg            |   |   |   |                          | dan |   |   |    | 468-26 |
-| w   |        | hærre       | xNC | herr           |   | her            | her            |   |   |   |                          | dan |   |   |    | 468-26 |
-| w   |        | mæth        | xAP | med            |   | m(et)          | mꝫ             |   |   |   |                          | dan |   |   |    | 468-26 |
+| w   |        | hær         | xAV | her           |   | her            | her            |   |   |   |                          | dan |   |   |    | 468-26 |
+| w   |        | mæth        | xAV | med            |   | m(et)          | mꝫ             |   |   |   |                          | dan |   |   |    | 468-26 |
 | w   |        | bjuthe      | xVB | byder          |   | biud(er)       | biŭd          |   |   |   |                          | dan |   |   |    | 468-26 |
 | w   |        | sva         | xAV | så             |   | saa            | ſaa            |   |   |   |                          | dan |   |   |    | 468-26 |
 | w   |        | dristigh    | xAJ | dristig        |   | dristig        | driſtig        |   |   |   |                          | dan |   |   |    | 468-26 |
