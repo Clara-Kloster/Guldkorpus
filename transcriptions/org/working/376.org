@@ -51,7 +51,7 @@
 | w   |        | høre         | xVB | høre          |   | høre                                     | høre                           |   |   |   |   | dan |   |   |    | 376-01 |
 | w   |        | læse         | xVB | læses         |   | læses                                    | læſe                          |   |   |   |   | dan |   |   |    | 376-01 |
 | w   |        | helse        | xVB | hilse         |   | helse                                    | helſe                          |   |   |   |   | dan |   |   |    | 376-01 |
-| w   |        | vi           | xPD | vi            |   | wy                                       | wy                             |   |   |   |   | dan |   |   |    | 376-01 |
+| w   |        | vi           | xPE | vi            |   | wy                                       | wy                             |   |   |   |   | dan |   |   |    | 376-01 |
 | PE  |      b | JenPed007    |     |               |   |                                          |                                |   |   |   |   |     |   |   |    |        |
 | w   |        |              | xNP | Jens          |   | jens                                     | ȷens                           |   |   |   |   | dan |   |   |    | 376-01 |
 | PE  |      e | JenPed007    |     |               |   |                                          |                                |   |   |   |   |     |   |   |    |        |
@@ -86,7 +86,7 @@
 | p   |        |              |     |               |   | .                                        | .                              |   |   |   |   | dan |   |   |    | 376-02 |
 | w   |        | ævinnelik    | xAJ | evindelige    |   | ewi(n)nelighe                            | ewı̅nelıghe                     |   |   |   |   | dan |   |   |    | 376-02 |
 | w   |        | mæth         | xAP | med           |   | m(et)                                    | mꝫ                             |   |   |   |   | dan |   |   |    | 376-02 |
-| w   |        | var          | xPD | vor           |   | wor                                      | woꝛ                            |   |   |   |   | dan |   |   |    | 376-02 |
+| w   |        | var          | xDP | vor           |   | wor                                      | woꝛ                            |   |   |   |   | dan |   |   |    | 376-02 |
 | w   |        | hærre        | xNC | Herre         |   | h(er)r(e)                                | hr                           |   |   |   |   | dan |   |   |    | 376-02 |
 | w   |        | ok           | xCC | og            |   | Oc                                       | Oc                             |   |   |   |   | dan |   |   |    | 376-02 |
 | lm  | 376-03 |              |     |               |   |                                          |                                |   |   |   |   |     |   |   |    |        |
@@ -94,7 +94,7 @@
 | w   |        | thæn         | xPE | det           |   | th(et)                                   | thꝫ                            |   |   |   |   | dan |   |   |    | 376-03 |
 | w   |        | mæth         | xAP | med           |   | m(et)                                    | mꝫ                             |   |   |   |   | dan |   |   |    | 376-03 |
 | w   |        | thænne       | xAT | dette         |   | th(ette)                                 | thꝫᷓ                            |   |   |   |   | dan |   |   |    | 376-03 |
-| w   |        | var          | xPD | vort          |   | wort                                     | wort                           |   |   |   |   | dan |   |   |    | 376-03 |
+| w   |        | var          | xDP | vort          |   | wort                                     | wort                           |   |   |   |   | dan |   |   |    | 376-03 |
 | w   |        | open         | xAJ | åbne          |   | obne                                     | obne                           |   |   |   |   | dan |   |   |    | 376-03 |
 | w   |        | brev         | xNC | brev          |   | breff                                    | breff                          |   |   |   |   | dan |   |   |    | 376-03 |
 | w   |        | at           | xCS | at            |   | at                                       | at                             |   |   |   |   | dan |   |   |    | 376-03 |
@@ -112,7 +112,7 @@
 | lm  | 376-04 |              |     |               |   |                                          |                                |   |   |   |   |     |   |   |    |        |
 | w   |        | hær          | xAV | her           |   | h(e)r                                    | hꝝ                             |   |   |   |   | dan |   |   |    | 376-04 |
 | w   |        | uti          | xAP | udi           |   | vdi                                      | vdi                            |   |   |   |   | dan |   |   |    | 376-04 |
-| w   |        | var          | xPD | vor           |   | wor                                      | wor                            |   |   |   |   | dan |   |   |    | 376-04 |
+| w   |        | var          | xDP | vor           |   | wor                                      | wor                            |   |   |   |   | dan |   |   |    | 376-04 |
 | w   |        | domkirkje    | xNC | domkirke      |   | Domkyrke                                 | Domkyrke                       |   |   |   |   | dan |   |   |    | 376-04 |
 | w   |        | have         | xVB | har           |   | hau(er)                                  | hau                           |   |   |   |   | dan |   |   |    | 376-04 |
 | w   |        | nu           | xAV | nu            |   | nw                                       | nw                             |   |   |   |   | dan |   |   |    | 376-04 |
@@ -121,10 +121,10 @@
 | w   |        | hether       | xNC | hæder         |   | heth(e)r                                 | hethꝝ                          |   |   |   |   | dan |   |   |    | 376-04 |
 | w   |        | ok           | xCC | og            |   | Oc                                       | Oc                             |   |   |   |   | dan |   |   |    | 376-04 |
 | w   |        | fornævnd     | xAJ | fornævnte     |   | for(nefnde)                              | forͩͤ                            |   |   |   |   | dan |   |   |    | 376-04 |
-| w   |        | var          | xPD | vor           |   | wor                                      | wor                            |   |   |   |   | dan |   |   |    | 376-04 |
+| w   |        | var          | xDP | vor           |   | wor                                      | wor                            |   |   |   |   | dan |   |   |    | 376-04 |
 | w   |        | kirkje       | xNC | kirke         |   | kyrke                                    | kyrke                          |   |   |   |   | dan |   |   |    | 376-04 |
 | w   |        | ok           | xCC | og            |   | oc                                       | oc                             |   |   |   |   | dan |   |   |    | 376-04 |
-| w   |        | sin          | xPD | sine          |   | sine                                     | ſine                           |   |   |   |   | dan |   |   |    | 376-04 |
+| w   |        | sin          | xDP | sine          |   | sine                                     | ſine                           |   |   |   |   | dan |   |   |    | 376-04 |
 | w   |        | æfterkomere  | xNC | efterkommere  |   | æffterko(m)mere                          | æffterko̅mere                   |   |   |   |   | dan |   |   |    | 376-04 |
 | w   |        | til          | xAP | til           |   | till                                     | tıll                           |   |   |   |   | dan |   |   |    | 376-04 |
 | lm  | 376-05 |              |     |               |   |                                          |                                |   |   |   |   |     |   |   |    |        |
@@ -142,14 +142,14 @@
 | w   |        | stenhus      | xNC | stenhus       |   | stenhws                                  | ſtenhw                        |   |   |   |   | dan |   |   |    | 376-05 |
 | p   |        |              |     |               |   | .                                        | .                              |   |   |   |   | dan |   |   |    | 376-05 |
 | w   |        | ok           | xCC | og            |   | oc                                       | oc                             |   |   |   |   | dan |   |   |    | 376-05 |
-| w   |        | anner        | xPD | ander         |   | ander                                    | ander                          |   |   |   |   | dan |   |   |    | 376-05 |
+| w   |        | anner        | xDD | ander         |   | ander                                    | ander                          |   |   |   |   | dan |   |   |    | 376-05 |
 | lm  | 376-06 |              |     |               |   |                                          |                                |   |   |   |   |     |   |   |    |        |
 | w   |        | goth         | xAJ | god           |   | godh                                     | godh                           |   |   |   |   | dan |   |   |    | 376-06 |
 | w   |        | bygning      | xNC | bygning       |   | bygni(n)g                                | bygni̅g                         |   |   |   |   | dan |   |   |    | 376-06 |
 | p   |        |              |     |               |   | /                                        | /                              |   |   |   |   | dan |   |   |    | 376-06 |
 | w   |        | tha          | xAV | da            |   | tha                                      | tha                            |   |   |   |   | dan |   |   |    | 376-06 |
 | w   |        | unne         | xVB | unde          |   | vnne                                     | vnne                           |   |   |   |   | dan |   |   |    | 376-06 |
-| w   |        | vi           | xPD | vi            |   | wy                                       | wy                             |   |   |   |   | dan |   |   |    | 376-06 |
+| w   |        | vi           | xPE | vi            |   | wy                                       | wy                             |   |   |   |   | dan |   |   |    | 376-06 |
 | w   |        | ok           | xCC | og            |   | oc                                       | oc                             |   |   |   |   | dan |   |   |    | 376-06 |
 | w   |        | tillate      | xVB | tillade       |   | tillade                                  | tıllade                        |   |   |   |   | dan |   |   |    | 376-06 |
 | w   |        | for          | xAP | fore          |   | for(e)                                   | for                           |   |   |   |   | dan |   |   |    | 376-06 |
@@ -159,16 +159,16 @@
 | w   |        | ok           | xCC | og            |   | oc                                       | oc                             |   |   |   |   | dan |   |   |    | 376-06 |
 | w   |        | tæring       | xNC | tæring        |   | tæri(n)g                                 | tæri̅g                          |   |   |   |   | dan |   |   |    | 376-06 |
 | w   |        | sum          | xRP | som           |   | som                                      | ſo                            |   |   |   |   | dan |   |   |    | 376-06 |
-| w   |        | han          | xPD | han           |   | han                                      | han                            |   |   |   |   | dan |   |   |    | 376-06 |
+| w   |        | han          | xPE | han           |   | han                                      | han                            |   |   |   |   | dan |   |   |    | 376-06 |
 | w   |        | thær         | xAV | der           |   | th(e)r                                   | thꝝ                            |   |   |   |   | dan |   |   |    | 376-06 |
 | w   |        | upa          | xAP | opå           |   | vppa                                     | va                            |   |   |   |   | dan |   |   |    | 376-06 |
 | w   |        | gøre         | xVB | gjort         |   | giort                                    | gıort                          |   |   |   |   | dan |   |   |    | 376-06 |
 | w   |        | have         | xVB | haver         |   | hau(er)                                  | hau                           |   |   |   |   | dan |   |   |    | 376-06 |
 | lm  | 376-07 |              |     |               |   |                                          |                                |   |   |   |   |     |   |   |    |        |
 | w   |        | at           | xCS | at            |   | at                                       | at                             |   |   |   |   | dan |   |   |    | 376-07 |
-| w   |        | han          | xPD | han           |   | han                                      | ha                            |   |   |   |   | dan |   |   |    | 376-07 |
+| w   |        | han          | xPE | han           |   | han                                      | ha                            |   |   |   |   | dan |   |   |    | 376-07 |
 | w   |        | ok           | xCC | og            |   | oc                                       | oc                             |   |   |   |   | dan |   |   |    | 376-07 |
-| w   |        | han          | xPD | hans          |   | ha(n)s                                   | ha̅                            |   |   |   |   | dan |   |   |    | 376-07 |
+| w   |        | han          | xPE | hans          |   | ha(n)s                                   | ha̅                            |   |   |   |   | dan |   |   |    | 376-07 |
 | w   |        | forældre     | xNC | forældre      |   | foreldre                                 | foreldre                       |   |   |   |   | dan |   |   |    | 376-07 |
 | w   |        | skule        | xVB | skulle        |   | schule                                   | ſchule                         |   |   |   |   | dan |   |   |    | 376-07 |
 | w   |        | have         | xVB | have          |   | haue                                     | haue                           |   |   |   |   | dan |   |   |    | 376-07 |
@@ -181,24 +181,24 @@
 | p   |        |              |     |               |   | /                                        | /                              |   |   |   |   | dan |   |   |    | 376-07 |
 | w   |        | ok           | xCC | og            |   | Oc                                       | Oc                             |   |   |   |   | dan |   |   |    | 376-07 |
 | w   |        | tilbinde     | xVB | tilbinde      |   | tilbinde                                 | tılbínde                       |   |   |   |   | dan |   |   |    | 376-07 |
-| w   |        | vi           | xPD | vi            |   | wy                                       | wy                             |   |   |   |   | dan |   |   |    | 376-07 |
+| w   |        | vi           | xPE | vi            |   | wy                                       | wy                             |   |   |   |   | dan |   |   |    | 376-07 |
 | lm  | 376-08 |              |     |               |   |                                          |                                |   |   |   |   |     |   |   |    |        |
 | w   |        | al           | xAJ | alle          |   | alle                                     | alle                           |   |   |   |   | dan |   |   |    | 376-08 |
-| w   |        | han          | xPD | hans          |   | ha(n)s                                   | ha̅                            |   |   |   |   | dan |   |   |    | 376-08 |
+| w   |        | han          | xPE | hans          |   | ha(n)s                                   | ha̅                            |   |   |   |   | dan |   |   |    | 376-08 |
 | w   |        | æfterkomere  | xNC | efterkommere  |   | æffterko(m)mer(e)                        | æffterko̅mer                   |   |   |   |   | dan |   |   |    | 376-08 |
 | w   |        | i            | xAP | i             |   | i                                        | i                              |   |   |   |   | dan |   |   |    | 376-08 |
 | w   |        | same         | xAJ | samme         |   | sa(m)me                                  | ſa̅me                           |   |   |   |   | dan |   |   |    | 376-08 |
 | w   |        | ærkedjakn    | xNC | ærkedegns     |   | ærchediegns                              | ærchedıegn                    |   |   |   |   | dan |   |   |    | 376-08 |
 | w   |        | døme         | xNC | dømme         |   | døme                                     | døme                           |   |   |   |   | dan |   |   |    | 376-08 |
 | w   |        | ok           | xCC | og            |   | oc                                       | oc                             |   |   |   |   | dan |   |   |    | 376-08 |
-| w   |        | hvær         | xPD | hver          |   | hwer                                     | hwer                           |   |   |   |   | dan |   |   |    | 376-08 |
+| w   |        | hvær         | xPI | hver          |   | hwer                                     | hwer                           |   |   |   |   | dan |   |   |    | 376-08 |
 | w   |        | særdeles     | xAV | særdeles      |   | særdelis                                 | ſærdelı                       |   |   |   |   | dan |   |   |    | 376-08 |
 | w   |        | at           | xIM | at            |   | at                                       | at                             |   |   |   |   | dan |   |   |    | 376-08 |
 | w   |        | halde        | xVB | holde         |   | holde                                    | holde                          |   |   |   |   | dan |   |   |    | 376-08 |
 | w   |        | en           | xAT | et            |   | eet                                      | eet                            |   |   |   |   | dan |   |   |    | 376-08 |
 | w   |        |              |     | anniverserium |   | an(n)iuersariu(m)                        | an̅iuerſarıu̅                    |   |   |   |   | lat |   |   |    | 376-08 |
 | lm  | 376-09 |              |     |               |   |                                          |                                |   |   |   |   |     |   |   |    |        |
-| w   |        | hvær         | xPD | hvert         |   | hwært                                    | hwært                          |   |   |   |   | dan |   |   |    | 376-09 |
+| w   |        | hvær         | xDD | hvert         |   | hwært                                    | hwært                          |   |   |   |   | dan |   |   |    | 376-09 |
 | w   |        | ar           | xNC | år            |   | aar                                      | aar                            |   |   |   |   | dan |   |   |    | 376-09 |
 | w   |        | i            | xAP | i             |   | i                                        | i                              |   |   |   |   | dan |   |   |    | 376-09 |
 | w   |        |              | xNP | ?             |   | lutskyrkes                               | lutſkyrke                     |   |   |   |   | dan |   |   |    | 376-09 |
@@ -212,15 +212,15 @@
 | w   |        | thæn         | xPE | det           |   | th(et)                                   | thꝫ                            |   |   |   |   | dan |   |   |    | 376-09 |
 | w   |        | forse        | xVB | forser        |   | forseer                                  | forſeer                        |   |   |   |   | dan |   |   |    | 376-09 |
 | w   |        | at           | xCS | at            |   | at                                       | at                             |   |   |   |   | dan |   |   |    | 376-09 |
-| w   |        | han          | xPD | han           |   | ha(n)                                    | ha̅                             |   |   |   |   | dan |   |   |    | 376-09 |
+| w   |        | han          | xPE | han           |   | ha(n)                                    | ha̅                             |   |   |   |   | dan |   |   |    | 376-09 |
 | w   |        | dø           | xVB | dør           |   | døør                                     | døør                           |   |   |   |   | dan |   |   |    | 376-09 |
 | w   |        | ok           | xCC | og            |   | oc                                       | oc                             |   |   |   |   | dan |   |   |    | 376-09 |
 | w   |        | afgange      | xVB | afgår         |   | affgaar                                  | affgaar                        |   |   |   |   | dan |   |   |    | 376-09 |
 | lm  | 376-10 |              |     |               |   |                                          |                                |   |   |   |   |     |   |   |    |        |
 | w   |        | for          | xAP | fore          |   | for(e)                                   | for                           |   |   |   |   | dan |   |   |    | 376-10 |
-| w   |        | han          | xPD | ham           |   | hanu(m)                                  | hanu̅                           |   |   |   |   | dan |   |   |    | 376-10 |
+| w   |        | han          | xPE | hannem           |   | hanu(m)                                  | hanu̅                           |   |   |   |   | dan |   |   |    | 376-10 |
 | w   |        | ok           | xCC | og            |   | oc                                       | oc                             |   |   |   |   | dan |   |   |    | 376-10 |
-| w   |        | han          | xPD | hans          |   | ha(n)s                                   | ha̅                            |   |   |   |   | dan |   |   |    | 376-10 |
+| w   |        | han          | xPE | hans          |   | ha(n)s                                   | ha̅                            |   |   |   |   | dan |   |   |    | 376-10 |
 | w   |        | forældre     | xNC | forældre      |   | foreldre                                 | foreldre                       |   |   |   |   | dan |   |   |    | 376-10 |
 | w   |        | fornævnd     | xAJ | fornævnte     |   | for(nefnde)                              | forͩͤ                            |   |   |   |   | dan |   |   |    | 376-10 |
 | w   |        | af           | xAP | af            |   | aff                                      | aff                            |   |   |   |   | dan |   |   |    | 376-10 |
@@ -232,7 +232,7 @@
 | w   |        | skule        | xVB | skal          |   | scall                                    | ſcall                          |   |   |   |   | dan |   |   |    | 376-10 |
 | p   |        |              |     |               |   | .                                        | .                              |   |   |   |   | dan |   |   |    | 376-10 |
 | w   |        | mællem       | xAP | mellem        |   | mello(m)                                 | mello̅                          |   |   |   |   | dan |   |   |    | 376-10 |
-| w   |        | thæn         | xPD | dem           |   | th(e)m                                   | th̅                            |   |   |   |   | dan |   |   |    | 376-10 |
+| w   |        | thæn         | xPE | dem           |   | th(e)m                                   | th̅                            |   |   |   |   | dan |   |   |    | 376-10 |
 | w   |        | sum          | xRP | som           |   | so(m)                                    | ſo̅                             |   |   |   |   | dan |   |   |    | 376-10 |
 | w   |        | i            | xAP | i             |   | i                                        | i                              |   |   |   |   | dan |   |   |    | 376-10 |
 | w   |        | fornævnd     | xAJ | fornævnte     |   | for(nefnde)                              | forͩͤ                            |   |   |   |   | dan |   |   |    | 376-10 |
@@ -278,7 +278,7 @@
 | w   |        | sva          | xAV | så            |   | swo                                      | ſwo                            |   |   |   |   | dan |   |   |    | 376-12 |
 | w   |        | at           | xCS | at            |   | at                                       | at                             |   |   |   |   | dan |   |   |    | 376-12 |
 | lm  | 376-13 |              |     |               |   |                                          |                                |   |   |   |   |     |   |   |    |        |
-| w   |        | noker        | xPD | nogen         |   | noghen                                   | noghe                         |   |   |   |   | dan |   |   |    | 376-13 |
+| w   |        | noker        | xDD | nogen         |   | noghen                                   | noghe                         |   |   |   |   | dan |   |   |    | 376-13 |
 | w   |        | ærkedjakn    | xNC | ærkedegn      |   | ærchedieghn                              | ærchediegh                    |   |   |   |   | dan |   |   |    | 376-13 |
 | w   |        | fornævnd     | xAJ | fornævnte     |   | for(nefnde)                              | forͩͤ                            |   |   |   |   | dan |   |   |    | 376-13 |
 | w   |        | artith       | xNC | årtid         |   | artiidh                                  | artiidh                        |   |   |   |   | dan |   |   |    | 376-13 |
@@ -291,31 +291,31 @@
 | p   |        |              |     |               |   | .                                        | .                              |   |   |   |   | dan |   |   |    | 376-13 |
 | w   |        | tha          | xAV | da            |   | tha                                      | tha                            |   |   |   |   | dan |   |   |    | 376-13 |
 | w   |        | vilje        | xVB | ville         |   | wele                                     | wele                           |   |   |   |   | dan |   |   |    | 376-13 |
-| w   |        | vi           | xPD | vi            |   | wy                                       | wy                             |   |   |   |   | dan |   |   |    | 376-13 |
+| w   |        | vi           | xPE | vi            |   | wy                                       | wy                             |   |   |   |   | dan |   |   |    | 376-13 |
 | w   |        | ok           | xCC | og            |   | oc                                       | oc                             |   |   |   |   | dan |   |   |    | 376-13 |
 | w   |        | skule        | xVB | skulle        |   | scule                                    | ſcule                          |   |   |   |   | dan |   |   |    | 376-13 |
 | p   |        |              |     |               |   | .                                        | .                              |   |   |   |   | dan |   |   |    | 376-13 |
 | lm  | 376-14 |              |     |               |   |                                          |                                |   |   |   |   |     |   |   |    |        |
 | w   |        | ok           | xAV | og            |   | oc                                       | oc                             |   |   |   |   | dan |   |   |    | 376-14 |
-| w   |        | var          | xPD | vore          |   | wor(e)                                   | wor                           |   |   |   |   | dan |   |   |    | 376-14 |
+| w   |        | var          | xDP | vore          |   | wor(e)                                   | wor                           |   |   |   |   | dan |   |   |    | 376-14 |
 | w   |        | æfterkomere  | xNC | efterkommere  |   | æffterko(m)mere                          | æffterko̅mere                   |   |   |   |   | dan |   |   |    | 376-14 |
 | w   |        | have         | xVB | have          |   | haue                                     | haue                           |   |   |   |   | dan |   |   |    | 376-14 |
 | w   |        | ful          | xAJ | fuld          |   | fuld                                     | fuld                           |   |   |   |   | dan |   |   |    | 376-14 |
 | w   |        | makt         | xNC | magt          |   | macht                                    | macht                          |   |   |   |   | dan |   |   |    | 376-14 |
 | w   |        | amot         | xAP | imod          |   | amod                                     | amod                           |   |   |   |   | dan |   |   |    | 376-14 |
-| w   |        | hvær         | xPD | hver          |   | hwer                                     | hwer                           |   |   |   |   | dan |   |   |    | 376-14 |
+| w   |        | hvær         | xDD | hver          |   | hwer                                     | hwer                           |   |   |   |   | dan |   |   |    | 376-14 |
 | w   |        | man          | xNC | mands         |   | ma(n)tz                                  | ma̅tz                           |   |   |   |   | dan |   |   |    | 376-14 |
 | w   |        | gensæghjelse | xNC | gensigelse    |   | gensighelse                              | genſıghelſe                    |   |   |   |   | dan |   |   |    | 376-14 |
 | p   |        |              |     |               |   | .                                        | .                              |   |   |   |   | dan |   |   |    | 376-14 |
 | w   |        | at           | xIM | at            |   | at                                       | at                             |   |   |   |   | dan |   |   | =  | 376-14 |
 | w   |        | sætje        | xVB | sætte         |   | sætte                                    | ſætte                          |   |   |   |   | dan |   |   | == | 376-14 |
 | w   |        | en           | xAT | en            |   | een                                      | ee                            |   |   |   |   | dan |   |   |    | 376-14 |
-| w   |        | anner        | xPD | ander         |   | ander                                    | ander                          |   |   |   |   | dan |   |   |    | 376-14 |
+| w   |        | anner        | xPI | ander         |   | ander                                    | ander                          |   |   |   |   | dan |   |   |    | 376-14 |
 | w   |        | i            | xAP | i             |   | i                                        | i                              |   |   |   |   | dan |   |   |    | 376-14 |
 | lm  | 376-15 |              |     |               |   |                                          |                                |   |   |   |   |     |   |   |    |        |
 | w   |        | fornævnd     | xAJ | fornævnte     |   | for(nefnde)                              | forͩͤ                            |   |   |   |   | dan |   |   |    | 376-15 |
 | w   |        |              |     |               |   | residencia                               | reſıdencia                     |   |   |   |   | dan |   |   |    | 376-15 |
-| w   |        | hvilik       | xPD | hvilken       |   | hwilken                                  | hwılken                        |   |   |   |   | dan |   |   |    | 376-15 |
+| w   |        | hvilik       | xPI | hvilken       |   | hwilken                                  | hwılken                        |   |   |   |   | dan |   |   |    | 376-15 |
 | w   |        | sum          | xRP | som           |   | som                                      | ſo                            |   |   |   |   | dan |   |   |    | 376-15 |
 | w   |        | fornævnd     | xAJ | fornævnte     |   | for(nefnde)                              | forͩͤ                            |   |   |   |   | dan |   |   |    | 376-15 |
 | w   |        | artith       | xNC | årtid         |   | artiidh                                  | artiidh                        |   |   |   |   | dan |   |   |    | 376-15 |
@@ -347,13 +347,13 @@
 | w   |        | bruke        | xVB | bruge         |   | brughe                                   | brughe                         |   |   |   |   | dan |   |   |    | 376-16 |
 | w   |        | æfter        | xAP | efter         |   | effter                                   | effter                         |   |   |   |   | dan |   |   |    | 376-16 |
 | lm  | 376-17 |              |     |               |   |                                          |                                |   |   |   |   |     |   |   |    |        |
-| w   |        | thæn         | xPD | deres         |   | therr(is)                                | therrꝭ                         |   |   |   |   | dan |   |   |    | 376-17 |
+| w   |        | thæn         | xPE | deres         |   | therr(is)                                | therrꝭ                         |   |   |   |   | dan |   |   |    | 376-17 |
 | w   |        | nyt          | xNC | nytte         |   | nytte                                    | nytte                          |   |   |   |   | dan |   |   |    | 376-17 |
 | w   |        | ok           | xCC | og            |   | oc                                       | oc                             |   |   |   |   | dan |   |   |    | 376-17 |
 | w   |        | vilje        | xVB | vilje         |   | wilghe                                   | wılghe                         |   |   |   |   | dan |   |   |    | 376-17 |
 | w   |        | i            | xAP | i             |   | i                                        | i                              |   |   |   |   | dan |   |   |    | 376-17 |
-| w   |        | bathe        | xPD | begges        |   | begg(is)                                 | beggꝭ                          |   |   |   |   | dan |   |   |    | 376-17 |
-| w   |        | thæn         | xPD | deres         |   | therr(is)                                | therrꝭ                         |   |   |   |   | dan |   |   |    | 376-17 |
+| w   |        | bathe        | xDD | begges        |   | begg(is)                                 | beggꝭ                          |   |   |   |   | dan |   |   |    | 376-17 |
+| w   |        | thæn         | xPE | deres         |   | therr(is)                                | therrꝭ                         |   |   |   |   | dan |   |   |    | 376-17 |
 | w   |        | livdagh      | xNC | livdage       |   | liffdaghe                                | lıffdaghe                      |   |   |   |   | dan |   |   |    | 376-17 |
 | p   |        |              |     |               |   | .                                        | .                              |   |   |   |   | dan |   |   |    | 376-17 |
 | w   |        | en           | xAT | et            |   | eet                                      | eet                            |   |   |   |   | dan |   |   |    | 376-17 |
@@ -400,8 +400,8 @@
 | w   |        | bryn         | xNC | brynen        |   | bry(n)nen                                | bry̅nen                         |   |   |   |   | dan |   |   |    | 376-19 |
 | w   |        | ok           | xCC | og            |   | Oc                                       | Oc                             |   |   |   |   | dan |   |   |    | 376-19 |
 | w   |        | nar          | xCS | når           |   | nar                                      | nar                            |   |   |   |   | dan |   |   |    | 376-19 |
-| w   |        | thæn         | xPD | de            |   | the                                      | the                            |   |   |   |   | dan |   |   |    | 376-19 |
-| w   |        | bathe        | xPD | både          |   | bothe                                    | bothe                          |   |   |   |   | dan |   |   |    | 376-19 |
+| w   |        | thæn         | xPE | de            |   | the                                      | the                            |   |   |   |   | dan |   |   |    | 376-19 |
+| w   |        | bathe        | xPI | både          |   | bothe                                    | bothe                          |   |   |   |   | dan |   |   |    | 376-19 |
 | w   |        | døth         | xAJ | døde          |   | døthe                                    | døthe                          |   |   |   |   | dan |   |   |    | 376-19 |
 | w   |        | ok           | xCC | og            |   | oc                                       | oc                             |   |   |   |   | dan |   |   |    | 376-19 |
 | p   |        |              |     |               |   | .                                        | .                              |   |   |   |   | dan |   |   |    | 376-19 |
@@ -414,8 +414,8 @@
 | w   |        | hus          | xNC | hus           |   | hws                                      | hw                            |   |   |   |   | dan |   |   |    | 376-20 |
 | w   |        | ok           | xCC | og            |   | oc                                       | oc                             |   |   |   |   | dan |   |   |    | 376-20 |
 | w   |        | garthsrum    | xNC | gårdsrum      |   | gardsrwm                                 | gardſrw                       |   |   |   |   | dan |   |   |    | 376-20 |
-| w   |        | sum          | xAV | som           |   | som                                      | ſo                            |   |   |   |   | dan |   |   |    | 376-20 |
-| w   |        | thæn         | xPD | det           |   | th(et)                                   | thꝫ                            |   |   |   |   | dan |   |   |    | 376-20 |
+| w   |        | sum          | xRP | som           |   | som                                      | ſo                            |   |   |   |   | dan |   |   |    | 376-20 |
+| w   |        | thæn         | xPE | det           |   | th(et)                                   | thꝫ                            |   |   |   |   | dan |   |   |    | 376-20 |
 | w   |        | tha          | xAV | da            |   | tha                                      | tha                            |   |   |   |   | dan |   |   |    | 376-20 |
 | w   |        | finne        | xVB | findes        |   | fi(n)nes                                 | fi̅ne                          |   |   |   |   | dan |   |   |    | 376-20 |
 | w   |        | fri          | xAJ | fri           |   | frij                                     | frij                           |   |   |   |   | dan |   |   |    | 376-20 |
