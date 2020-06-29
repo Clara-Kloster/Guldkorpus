@@ -44,15 +44,15 @@ ASK: Remember to replace XML-tags with correct notation.
 | pm  | 1r     |             |     |            |   |                 |              |   |   |   |   |     |   |   |   |               |
 | lm  | 366-01 |             |     |            |   |                 |              |   |   |   |   |     |   |   |   |               |
 | w   |        | gøre        | xVB | gjort      |   | giort           | gıort        |   |   |   |   | dan |   |   |   |        366-01 |
-| w   |        | have        | xVB | har        |   | haver           | haver        |   |   |   |   | dan |   |   |   |        366-01 |
+| w   |        | have        | xVB | haver        |   | haver           | haver        |   |   |   |   | dan |   |   |   |        366-01 |
 | w   |        | sva         | xAV | så         |   | sa              | ſa           |   |   |   |   | dan |   |   |   |        366-01 |
 | w   |        | at          | xCS | at         |   | at              | at           |   |   |   |   | dan |   |   |   |        366-01 |
 | w   |        |             | xUA |            |   | 000             | 000          |   |   |   |   | dan |   |   |   |        366-01 |
 | lm  | 366-02 |             |     |            |   |                 |              |   |   |   |   |     |   |   |   |               |
-| w   |        | jak         | xPD | jeg        |   | jech            | ȷech         |   |   |   |   | dan |   |   |   |        366-02 |
-| w   |        | jak         | xPD | mig        |   | mich            | mich         |   |   |   |   | dan |   |   |   |        366-02 |
+| w   |        | jak         | xPE | jeg        |   | jech            | ȷech         |   |   |   |   | dan |   |   |   |        366-02 |
+| w   |        | jak         | xPE | mig        |   | mich            | mich         |   |   |   |   | dan |   |   |   |        366-02 |
 | w   |        | ok          | xCC | og         |   | oc              | oc           |   |   |   |   | dan |   |   |   |        366-02 |
-| w   |        | min         | xPD | mine       |   | mine            | mine         |   |   |   |   | dan |   |   |   |        366-02 |
+| w   |        | min         | xDP | mine       |   | mine            | mine         |   |   |   |   | dan |   |   |   |        366-02 |
 | w   |        | arving      | xNC | arvinge    |   | arwi(n)ghe      | arwı̅ghe      |   |   |   |   | dan |   |   |   |        366-02 |
 | w   |        | thæn        | xAT | den        |   | then            | the         |   |   |   |   | dan |   |   |   |        366-02 |
 | w   |        | fornævnd    | xAJ | fornævnte  |   | far(nefnde)     | farͩͤ          |   |   |   |   | dan |   |   |   |        366-02 |
@@ -61,7 +61,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        |             | xNP | Laxmand    |   | lax[man]        | lax[man]     |   |   |   |   | dan |   |   |   |        366-02 |
 | PE  | e      | PouLax001   |     |            |   |                 |              |   |   |   |   |     |   |   |   |               |
 | w   |        | ok          | xCC | og         |   | oc              | oc           |   |   |   |   | dan |   |   |   |        366-02 |
-| w   |        | han         | xPD | hans       |   | ha(n)s          | ha̅          |   |   |   |   | dan |   |   |   |        366-02 |
+| w   |        | han         | xPE | hans       |   | ha(n)s          | ha̅          |   |   |   |   | dan |   |   |   |        366-02 |
 | w   |        | arving      | xNC | arvinge    |   | arwi(n)ghe      | arwı̅ghe      |   |   |   |   | dan |   |   |   |        366-02 |
 | lm  | 366-03 |             |     |            |   |                 |              |   |   |   |   |     |   |   |   |               |
 | w   |        | thæn        | xAT | den        |   | then            | then         |   |   |   |   | dan |   |   |   |        366-03 |
@@ -76,7 +76,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | at          | xIM | at         |   | at              | at           |   |   |   |   | dan |   |   |   |        366-03 |
 | w   |        | gøre        | xVB | gøre       |   | gøre            | gøre         |   |   |   |   | dan |   |   |   |        366-03 |
 | w   |        | for         | xAP | for        |   | fa[r]           | fa[r]        |   |   |   |   | dan |   |   |   |        366-03 |
-| w   |        | hvær        | xPD | hvers      |   | [h]wers         | [h]wer      |   |   |   |   | dan |   |   |   |        366-03 |
+| w   |        | hvær        | xDD | hvers      |   | [h]wers         | [h]wer      |   |   |   |   | dan |   |   |   |        366-03 |
 | w   |        | man         | xNC | mands      |   | ma(n)s          | ma̅          |   |   |   |   | dan |   |   |   |        366-03 |
 | w   |        | tiltal      | xNC | tiltal     |   | til¦taal        | til¦taal     |   |   |   |   | dan |   |   |   | 366-03—366-04 |
 | w   |        | item        | xAV |            |   | Jt(em)          | Jtꝭ          |   |   |   |   | lat |   |   |   |        366-04 |
@@ -100,7 +100,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        |             | xNP | Laxmand    |   | laxma(n)        | laxma̅        |   |   |   |   | dan |   |   |   |        366-05 |
 | PE  | e      | PouLax001   |     |            |   |                 |              |   |   |   |   |     |   |   |   |               |
 | w   |        | æller       | xCC | eller      |   | eller           | eller        |   |   |   |   | dan |   |   |   |        366-05 |
-| w   |        | han         | xPD | hans       |   | hans            | han         |   |   |   |   | dan |   |   |   |        366-05 |
+| w   |        | han         | xPE | hans       |   | hans            | han         |   |   |   |   | dan |   |   |   |        366-05 |
 | w   |        | arving      | xNC | arvinge    |   | arwi(n)ghe      | arwı̅ghe      |   |   |   |   | dan |   |   |   |        366-05 |
 | w   |        | af          | xAP | af         |   | af              | af           |   |   |   |   | dan |   |   |   |        366-05 |
 | w   |        |             | xUA | med        |   | 000med          | 000med       |   |   |   |   | dan |   |   |   |        366-05 |
@@ -109,10 +109,10 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | tha         | xAV | da         |   | tha             | tha          |   |   |   |   | dan |   |   |   |        366-06 |
 | w   |        | til         | xAV | til        |   | til             | til          |   |   |   |   | dan |   |   |   |        366-06 |
 | w   |        | binde       | xVB | binder     |   | bi(n)der        | bı̅der        |   |   |   |   | dan |   |   |   |        366-06 |
-| w   |        | jak         | xPD | jeg        |   | {j}ech          | {ȷ}ech       |   |   |   |   | dan |   |   |   |        366-06 |
-| w   |        | jak         | xPD | mig        |   | mich            | mich         |   |   |   |   | dan |   |   |   |        366-06 |
+| w   |        | jak         | xPE | jeg        |   | {j}ech          | {ȷ}ech       |   |   |   |   | dan |   |   |   |        366-06 |
+| w   |        | jak         | xPE | mig        |   | mich            | mich         |   |   |   |   | dan |   |   |   |        366-06 |
 | w   |        | ok          | xCC | og         |   | oc              | oc           |   |   |   |   | dan |   |   |   |        366-06 |
-| w   |        | min         | xPD | mine       |   | mine            | mine         |   |   |   |   | dan |   |   |   |        366-06 |
+| w   |        | min         | xDP | mine       |   | mine            | mine         |   |   |   |   | dan |   |   |   |        366-06 |
 | w   |        | arving      | xNC | arvinge    |   | arwi(n)ghe      | arwı̅ghe      |   |   |   |   | dan |   |   |   |        366-06 |
 | w   |        | thæn        | xAT | den        |   | then            | the         |   |   |   |   | dan |   |   |   |        366-06 |
 | w   |        | fornævnd    | xAJ | fornævnte  |   | far(nefnde)     | farͩͤ          |   |   |   |   | dan |   |   |   |        366-06 |
@@ -122,7 +122,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | PE  | e      | PouLax001   |     |            |   |                 |              |   |   |   |   |     |   |   |   |               |
 | lm  | 366-07 |             |     |            |   |                 |              |   |   |   |   |     |   |   |   |               |
 | w   |        | ok          | xCC | og         |   | oc              | oc           |   |   |   |   | dan |   |   |   |        366-07 |
-| w   |        | han         | xPD | hans       |   | hans            | han         |   |   |   |   | dan |   |   |   |        366-07 |
+| w   |        | han         | xPE | hans       |   | hans            | han         |   |   |   |   | dan |   |   |   |        366-07 |
 | w   |        | arving      | xNC | arvinge    |   | arwi(n)ghe      | arwı̅ghe      |   |   |   |   | dan |   |   |   |        366-07 |
 | w   |        | sva         | xAV | så         |   | sa              | ſa           |   |   |   |   | dan |   |   |   |        366-07 |
 | w   |        |             | xUA |            |   | 0aat            | 0aat         |   |   |   |   | dan |   |   |   |        366-07 |
@@ -154,7 +154,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        |             | xNP | Skelm      |   | ⸍⸍Skelm⸌        | ⸍⸍Skelm⸌     |   |   |   |   | dan |   |   |   |        366-09 |
 | w   |        |             | xNP | Josefsen   |   | joseps(øn)      | ȷoſep       |   |   |   |   | dan |   |   |   |        366-09 |
 | PE  | e      | JxxJos001   |     |            |   |                 |              |   |   |   |   |     |   |   |   |               |
-| w   |        | min         | xPD | min        |   | mi0             | mi0          |   |   |   |   | dan |   |   |   |        366-09 |
+| w   |        | min         | xDP | min        |   | mi0             | mi0          |   |   |   |   | dan |   |   |   |        366-09 |
 | w   |        | insighle    | xNC | indsegl    |   | jncighele       | ȷncıghele    |   |   |   |   | dan |   |   |   |        366-09 |
 | w   |        | for         | xAP | for        |   | far             | far          |   |   |   |   | dan |   |   |   |        366-09 |
 | w   |        | thænne      | xDD | dette      |   | th(et)te        | thꝫte        |   |   |   |   | dan |   |   |   |        366-09 |
@@ -162,7 +162,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | ok          | xCC | og         |   | oc              | oc           |   |   |   |   | dan |   |   |   |        366-09 |
 | w   |        | bithje      | xVB | bedes      |   | bedhes          | bedhe       |   |   |   |   | dan |   |   |   |        366-09 |
 | lm  | 366-10 |             |     |            |   |                 |              |   |   |   |   |     |   |   |   |               |
-| w   |        | jak         | xPD | jeg        |   | jech            | ȷech         |   |   |   |   | dan |   |   |   |        366-10 |
+| w   |        | jak         | xPE | jeg        |   | jech            | ȷech         |   |   |   |   | dan |   |   |   |        366-10 |
 | w   |        | til         | xAP | til        |   | til             | til          |   |   |   |   | dan |   |   |   |        366-10 |
 | w   |        | vitnesbyrth | xNC | vidnesbyrd |   | w{i}dnesbyrd    | w{i}dneſbyrd |   |   |   |   | dan |   |   |   |        366-10 |
 | w   |        |             | xUA |            |   | 00000           | 00000        |   |   |   |   | dan |   |   |   |        366-10 |
