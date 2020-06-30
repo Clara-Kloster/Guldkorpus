@@ -53,7 +53,7 @@ initial Ff unique to scribe
 | w   |        | høre          | xVB | høre                |   | hør(e)               | høꝛ             |   |   |   |            | dan |   |   |    | 418-01 |
 | w   |        | læse          | xVB | læses               |   | læsæs                | læſæ            |   |   |   |            | dan |   |   |    | 418-01 |
 | w   |        | helse         | xVB | hilser              |   | hilsær               | hılſær           |   |   |   |            | dan |   |   |    | 418-01 |
-| w   |        | jak           | xPD | jeg                 |   | iegh                 | ıegh             |   |   |   |            | dan |   |   |    | 418-01 |
+| w   |        | jak           | xPE | jeg                 |   | iegh                 | ıegh             |   |   |   |            | dan |   |   |    | 418-01 |
 | PE  | b      | AxeLag001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |
 | w   |        |               | xNP | Axel                |   | axel                 | axel             |   |   |   |            | dan |   |   |    | 418-01 |
 | w   |        |               | xNP | Lavesen             |   | lauess(øn)           | laueſ           |   |   |   |            | dan |   |   |    | 418-01 |
@@ -71,7 +71,7 @@ initial Ff unique to scribe
 | lm  | 418-02 |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |
 | w   |        | ok            | xCC | og                  |   | och                  | och              |   |   |   |            | dan |   |   |    | 418-02 |
 | w   |        | kænne         | xNC | kendes              |   | ke(n)næs             | ke̅næ            |   |   |   |            | dan |   |   |    | 418-02 |
-| w   |        | jak           | xPD | mig                 |   | mik                  | mik              |   |   |   |            | dan |   |   |    | 418-02 |
+| w   |        | jak           | xPE | mig                 |   | mik                  | mik              |   |   |   |            | dan |   |   |    | 418-02 |
 | w   |        | mæth          | xAP | med                 |   | m(et)                | mꝫ               |   |   |   |            | dan |   |   |    | 418-02 |
 | w   |        | thænne        | xDD | dette               |   | th(ettæ)             | thꝫᷔ              |   |   |   |            | dan |   |   |    | 418-02 |
 | w   |        | min           | xDP | mit                 |   | mith                 | mıth             |   |   |   |            | dan |   |   |    | 418-02 |
@@ -104,14 +104,14 @@ initial Ff unique to scribe
 | PL  | e      |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |
 | w   |        | mæth          | xAP | med                 |   | m(et)                | mꝫ               |   |   |   |            | dan |   |   |    | 418-03 |
 | w   |        | al            | xAJ | alle                |   | allæ                 | allæ             |   |   |   |            | dan |   |   |    | 418-03 |
-| w   |        | thæn          | xPD | deres               |   | th(e)rræs            | thꝛræ          |   |   |   |            | dan |   |   |    | 418-03 |
+| w   |        | thæn          | xPE | deres               |   | th(e)rræs            | thꝛræ          |   |   |   |            | dan |   |   |    | 418-03 |
 | w   |        | fulkomelik    | xAJ | fuldkommelig        |   | fulko(m)melig        | fulko̅melig       |   |   |   |            | dan |   |   |    | 418-03 |
 | w   |        | vilje         | xNC | vilje               |   | wilia                | wılıa            |   |   |   |            | dan |   |   |    | 418-03 |
 | w   |        | ok            | xCC | og                  |   | och                  | och              |   |   |   |            | dan |   |   |    | 418-03 |
 | w   |        | berath        | xAJ | beråd               |   | berad                | berad            |   |   |   |            | dan |   |   |    | 418-03 |
 | w   |        | hugh          | xNC | hu                  |   | hugh                 | hugh             |   |   |   |            | dan |   |   |    | 418-03 |
 | w   |        | mæth          | xAP | med                 |   | m(et)                | mꝫ               |   |   |   |            | dan |   |   |    | 418-03 |
-| w   |        | thæn          | xPD | deres               |   | th(e)rræs            | thꝛræ          |   |   |   |            | dan |   |   |    | 418-03 |
+| w   |        | thæn          | xPE | deres               |   | th(e)rræs            | thꝛræ          |   |   |   |            | dan |   |   |    | 418-03 |
 | w   |        | forstandere   | xNC | forstanders         |   | forsta(n)de(r)s      | foꝛﬅa̅de        |   |   |   |            | dan |   |   |    | 418-03 |
 | PE  | b      | HanKje001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |
 | w   |        |               | xNP | Hans                |   | hans                 | han             |   |   |   |            | dan |   |   |    | 418-03 |
@@ -275,10 +275,10 @@ initial Ff unique to scribe
 | w   |        | vat           | xAJ | vådt                |   | woth                 | woth             |   |   |   |            | dan |   |   |    | 418-09 |
 | w   |        | ok            | xCC | og                  |   | och                  | och              |   |   |   |            | dan |   |   |    | 418-09 |
 | w   |        | thyr          | xAJ | tørt                |   | tiurt                | tiurt            |   |   |   |            | dan |   |   |    | 418-09 |
-| w   |        | ænge          | xPD | intet               |   | intth(et)            | ıntthꝫ           |   |   |   |            | dan |   |   |    | 418-09 |
+| w   |        | ænge          | xPI | intet               |   | intth(et)            | ıntthꝫ           |   |   |   |            | dan |   |   |    | 418-09 |
 | w   |        | undertaken    | xAJ | undertaget            |   | wndh(e)rtagh(et)     | wndhꝛtaghꝫ      |   |   |   |            | dan |   |   |    | 418-09 |
-| w   |        | ehva          | xPD | ihvad               |   | ehuad                | ehuad            |   |   |   |            | dan |   |   |    | 418-09 |
-| w   |        | thæn          | xPD | det                 |   | th(et)               | thꝫ              |   |   |   |            | dan |   |   |    | 418-09 |
+| w   |        | ehva          | xPI | ihvad               |   | ehuad                | ehuad            |   |   |   |            | dan |   |   |    | 418-09 |
+| w   |        | thæn          | xPE | det                 |   | th(et)               | thꝫ              |   |   |   |            | dan |   |   |    | 418-09 |
 | w   |        | hældst        | xAV | helst               |   | helst                | helﬅ             |   |   |   |            | dan |   |   |    | 418-09 |
 | w   |        | være          | xVB | er                  |   | ær                   | ær               |   |   |   |            | dan |   |   |    | 418-09 |
 | w   |        | æller         | xCC | eller               |   | ell(e)r              | ellꝛ            |   |   |   |            | dan |   |   |    | 418-09 |
@@ -304,13 +304,13 @@ initial Ff unique to scribe
 | p   |        |               |     |                     |   | /                    | /                |   |   |   |            | dan |   |   |    | 418-10 |
 | w   |        | fyrst         | xAV | først               |   | Fforst               | Ffoꝛﬅ            |   |   |   |            | dan |   |   |    | 418-10 |
 | w   |        | at            | xCS | at                  |   | ath                  | ath              |   |   |   |            | dan |   |   |    | 418-10 |
-| w   |        | jak           | xPD | jeg                 |   | iegh                 | ıegh             |   |   |   |            | dan |   |   |    | 418-10 |
+| w   |        | jak           | xPE | jeg                 |   | iegh                 | ıegh             |   |   |   |            | dan |   |   |    | 418-10 |
 | w   |        | skule         | xVB | skal                |   | skal                 | ſkal             |   |   |   |            | dan |   |   |    | 418-10 |
-| w   |        | hvær          | xPD | hvert               |   | huart                | huaꝛt            |   |   |   |            | dan |   |   |    | 418-10 |
+| w   |        | hvær          | xDD | hvert               |   | huart                | huaꝛt            |   |   |   |            | dan |   |   |    | 418-10 |
 | w   |        | ar            | xNC | år                  |   | aar                  | aar              |   |   |   |            | dan |   |   |    | 418-10 |
 | lm  | 418-11 |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |
 | w   |        | sva+længe     | xAV | så længe            |   | salengæ              | ſalengæ          |   |   |   |            | dan |   |   |    | 418-11 |
-| w   |        | jak           | xPD | jeg                 |   | iegh                 | ıegh             |   |   |   |            | dan |   |   |    | 418-11 |
+| w   |        | jak           | xPE | jeg                 |   | iegh                 | ıegh             |   |   |   |            | dan |   |   |    | 418-11 |
 | w   |        | live          | xVB | lever               |   | liffw(e)r            | lıffwꝛ          |   |   |   |            | dan |   |   |    | 418-11 |
 | w   |        | ok            | xCC | og                  |   | och                  | och              |   |   |   |            | dan |   |   |    | 418-11 |
 | w   |        | thænne        | xDD | disse               |   | thessæ               | theæ            |   |   |   |            | dan |   |   |    | 418-11 |
@@ -327,7 +327,7 @@ initial Ff unique to scribe
 | w   |        | late          | xVB | lade                |   | ladæ                 | ladæ             |   |   |   |            | dan |   |   |    | 418-11 |
 | w   |        | yte           | xVB | yde                 |   | ydæ                  | ydæ              |   |   |   |            | dan |   |   |    | 418-11 |
 | w   |        | timelik       | xAV | timelig            |   | te(m)melig           | te̅melıg          |   |   |   |            | dan |   |   |    | 418-11 |
-| w   |        | hvær          | xPD | hvert               |   | huært                | huæꝛt            |   |   |   |            | dan |   |   |    | 418-11 |
+| w   |        | hvær          | xDD | hvert               |   | huært                | huæꝛt            |   |   |   |            | dan |   |   |    | 418-11 |
 | w   |        | ar            | xNC | år                  |   | aar                  | aar              |   |   |   |            | dan |   |   |    | 418-11 |
 | w   |        | thær          | xAV | der                 |   | th(e)r               | thꝛ             |   |   |   |            | dan |   |   |    | 418-11 |
 | w   |        | af            | xAV | af                  |   | aff                  | aff              |   |   |   |            | dan |   |   |    | 418-11 |
@@ -343,9 +343,9 @@ initial Ff unique to scribe
 | w   |        |               | xNP | Clara               |   | claræ                | claꝛæ            |   |   |   |            | dan |   |   |    | 418-12 |
 | w   |        | abbetisse     | xNC | abbedisse           |   | Abbadisæ             | Abbadiſæ         |   |   |   |            | dan |   |   |    | 418-12 |
 | w   |        | æller         | xCC | eller               |   | ell(e)r              | ellꝛ            |   |   |   |            | dan |   |   |    | 418-12 |
-| w   |        | hva           | xPD | hvem                |   | huem                 | huem             |   |   |   |            | dan |   |   |    | 418-12 |
-| w   |        | hun           | xPD | hun                 |   | hwn                  | hwn              |   |   |   |            | dan |   |   |    | 418-12 |
-| w   |        | thæn          | xPD | det                 |   | th(et)               | thꝫ              |   |   |   |            | dan |   |   |    | 418-12 |
+| w   |        | hva           | xPI | hvem                |   | huem                 | huem             |   |   |   |            | dan |   |   |    | 418-12 |
+| w   |        | hun           | xPE | hun                 |   | hwn                  | hwn              |   |   |   |            | dan |   |   |    | 418-12 |
+| w   |        | thæn          | xPE | det                 |   | th(et)               | thꝫ              |   |   |   |            | dan |   |   |    | 418-12 |
 | w   |        | befalle       | xVB | befaler             |   | befall(e)r           | befallꝛ         |   |   |   |            | dan |   |   |    | 418-12 |
 | w   |        | at            | xIM | at                  |   | ath                  | ath              |   |   |   |            | dan |   |   |    | 418-12 |
 | w   |        | anname        | xVB | annamme             |   | an(n)amæ             | an̅amæ            |   |   |   |            | dan |   |   |    | 418-12 |
@@ -359,7 +359,7 @@ initial Ff unique to scribe
 | w   |        | grot          | xNC | grot                |   | g(rot)               | gᷣꝭ               |   |   |   |            | dan |   |   | == | 418-13 |
 | w   |        | pænning       | xNC | penninge            |   | pe(n)ni(n)gæ         | pe̅nı̅gæ           |   |   |   |            | dan |   |   |    | 418-13 |
 | w   |        | ok            | xCC | og                  |   | Och                  | Och              |   |   |   |            | dan |   |   |    | 418-13 |
-| w   |        | hva           | xPD | hvad                |   | huad                 | huad             |   |   |   |            | dan |   |   |    | 418-13 |
+| w   |        | hva           | xPI | hvad                |   | huad                 | huad             |   |   |   |            | dan |   |   |    | 418-13 |
 | w   |        | fornævnd      | xAJ | fornævnte           |   | for(nefndæ)          | foꝛͩᷔ              |   |   |   |            | dan |   |   |    | 418-13 |
 | w   |        | garth         | xNC | gårde               |   | gardæ                | gaꝛdæ            |   |   |   |            | dan |   |   |    | 418-13 |
 | w   |        | ok            | xCC | og                  |   | och                  | och              |   |   |   |            | dan |   |   |    | 418-13 |
@@ -377,15 +377,15 @@ initial Ff unique to scribe
 | lm  | 418-14 |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |
 | w   |        | ok            | xCC | og                  |   | och                  | och              |   |   |   |            | dan |   |   |    | 418-14 |
 | w   |        | al            | xAJ | alt                 |   | alt                  | alt              |   |   |   |            | dan |   |   |    | 418-14 |
-| w   |        | anner         | xPD | andet               |   | andh(et)             | andhꝫ            |   |   |   |            | dan |   |   |    | 418-14 |
-| w   |        | hva           | xPD | hvad                |   | huad                 | huad             |   |   |   |            | dan |   |   |    | 418-14 |
-| w   |        | thæn          | xPD | det                 |   | th(et)               | thꝫ              |   |   |   |            | dan |   |   |    | 418-14 |
+| w   |        | anner         | xPI | andet               |   | andh(et)             | andhꝫ            |   |   |   |            | dan |   |   |    | 418-14 |
+| w   |        | hva           | xPI | hvad                |   | huad                 | huad             |   |   |   |            | dan |   |   |    | 418-14 |
+| w   |        | thæn          | xPE | det                 |   | th(et)               | thꝫ              |   |   |   |            | dan |   |   |    | 418-14 |
 | w   |        | skylde        | xVB | skylder             |   | skyll(e)r            | ſkyllꝛ          |   |   |   |            | dan |   |   |    | 418-14 |
 | w   |        | æller         | xCC | eller               |   | ell(e)r              | ellꝛ            |   |   |   |            | dan |   |   |    | 418-14 |
 | w   |        | rænte         | xVB | rente               |   | renttæ               | renttæ           |   |   |   |            | dan |   |   |    | 418-14 |
 | w   |        | kunne         | xVB | kan                 |   | ka(n)                | ka̅               |   |   |   |            | dan |   |   |    | 418-14 |
 | w   |        | skal          | xVB | skal                |   | skaal                | ſkaal            |   |   |   |            | dan |   |   |    | 418-14 |
-| w   |        | jak           | xPD | jeg                 |   | iegh                 | ıegh             |   |   |   |            | dan |   |   |    | 418-14 |
+| w   |        | jak           | xPE | jeg                 |   | iegh                 | ıegh             |   |   |   |            | dan |   |   |    | 418-14 |
 | w   |        | nyte          | xVB | nyde                |   | nydæ                 | nydæ             |   |   |   |            | dan |   |   |    | 418-14 |
 | w   |        | ok            | xCC | og                  |   | och                  | och              |   |   |   |            | dan |   |   |    | 418-14 |
 | w   |        | behalde       | xVB | beholde             |   | beholdæ              | beholdæ          |   |   |   |            | dan |   |   |    | 418-14 |
@@ -403,7 +403,7 @@ initial Ff unique to scribe
 | w   |        | afgift        | xNC | afgift              |   | affgiifft            | affgııfft        |   |   |   |            | dan |   |   |    | 418-15 |
 | w   |        | ok            | xCC | og                  |   | Och                  | Och              |   |   |   |            | dan |   |   |    | 418-15 |
 | w   |        | skule         | xVB | skal                |   | skal                 | ſkal             |   |   |   |            | dan |   |   |    | 418-15 |
-| w   |        | jak           | xPD | jeg                 |   | iegh                 | ıegh             |   |   |   |            | dan |   |   |    | 418-15 |
+| w   |        | jak           | xPE | jeg                 |   | iegh                 | ıegh             |   |   |   |            | dan |   |   |    | 418-15 |
 | w   |        | halde         | xVB | holde               |   | hollæ                | hollæ            |   |   |   |            | dan |   |   |    | 418-15 |
 | w   |        | skogh         | xNC | skovene             |   | skoffwe(n)næ         | ſkoffwe̅næ        |   |   |   |            | dan |   |   |    | 418-15 |
 | w   |        | vither        | xAP | ved                 |   | wed                  | wed              |   |   |   |            | dan |   |   |    | 418-15 |
@@ -435,14 +435,14 @@ initial Ff unique to scribe
 | w   |        | al            | xAJ | alle                |   | allæ                 | allæ             |   |   |   |            | dan |   |   |    | 418-16 |
 | w   |        | mate          | xNC | måde                |   | modæ                 | modæ             |   |   |   |            | dan |   |   |    | 418-16 |
 | w   |        | sum           | xRP | som                 |   | som                  | ſom              |   |   |   |            | dan |   |   |    | 418-16 |
-| w   |        | jak           | xPD | jeg                 |   | iegh                 | iegh             |   |   |   |            | dan |   |   |    | 418-16 |
+| w   |        | jak           | xPE | jeg                 |   | iegh                 | iegh             |   |   |   |            | dan |   |   |    | 418-16 |
 | w   |        | vilje         | xVB | vil                 |   | wiil                 | wiıl             |   |   |   |            | dan |   |   |    | 418-16 |
 | w   |        | andsvare      | xVB | ansvare             |   | andsuar(e)           | andſuaꝛ         |   |   |   |            | dan |   |   |    | 418-16 |
 | w   |        | for           | xAP | for                 |   | for                  | foꝛ              |   |   |   |            | dan |   |   |    | 418-16 |
 | w   |        | guth          | xNC | Gud                 |   | gud                  | gud              |   |   |   |            | dan |   |   |    | 418-16 |
 | w   |        | item          | xAV |                    |   | Jt(em)               | Jtꝭ              |   |   |   |            | lat |   |   |    | 418-16 |
 | w   |        | ske           | xVB | sker                |   | skær                 | ſkæꝛ             |   |   |   |            | dan |   |   |    | 418-16 |
-| w   |        | thæn          | xPD | det                 |   | th(et)               | thꝫ              |   |   |   |            | dan |   |   |    | 418-16 |
+| w   |        | thæn          | xPE | det                 |   | th(et)               | thꝫ              |   |   |   |            | dan |   |   |    | 418-16 |
 | w   |        | ok+sva        | xAV | også                |   | ocssæ                | ocæ             |   |   |   |            | dan |   |   |    | 418-16 |
 | lm  | 418-17 |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |
 | w   |        | at            | xCS | at                  |   | ath                  | ath              |   |   |   |            | dan |   |   |    | 418-17 |
@@ -472,7 +472,7 @@ initial Ff unique to scribe
 | w   |        | uten          | xAP | uden                |   | wth(e)n              | wthn̅             |   |   |   |            | dan |   |   |    | 418-18 |
 | w   |        | min           | xDP | min                 |   | my(n)                | my̅               |   |   |   |            | dan |   |   |    | 418-18 |
 | w   |        | æller         | xCC | eller               |   | ell(e)r              | ellꝛ            |   |   |   |            | dan |   |   |    | 418-18 |
-| w   |        | noker         | xPD | nogen               |   | nagh(e)r             | naghꝛ           |   |   |   |            | dan |   |   |    | 418-18 |
+| w   |        | noker         | xDD | nogen               |   | nagh(e)r             | naghꝛ           |   |   |   |            | dan |   |   |    | 418-18 |
 | w   |        | man           | xNC | mands               |   | mantz                | mantz            |   |   |   |            | dan |   |   |    | 418-18 |
 | w   |        | gensæghjelse  | xNC | gensigelse          |   | gensielssæ           | genſıelæ        |   |   |   |            | dan |   |   |    | 418-18 |
 | w   |        | ok            | xCC | og                  |   | Och                  | Och              |   |   |   |            | dan |   |   |    | 418-18 |
@@ -480,7 +480,7 @@ initial Ff unique to scribe
 | w   |        | sva           | xAV | så                  |   | saa                  | ſaa              |   |   |   |            | dan |   |   |    | 418-18 |
 | w   |        | ske           | xVB | sker                |   | skeer                | ſkeeꝛ            |   |   |   |            | dan |   |   |    | 418-18 |
 | w   |        | at            | xCS | at                  |   | ath                  | ath              |   |   |   |            | dan |   |   |    | 418-18 |
-| w   |        | jak           | xPD | jeg                 |   | iegh                 | ıegh             |   |   |   |            | dan |   |   |    | 418-18 |
+| w   |        | jak           | xPE | jeg                 |   | iegh                 | ıegh             |   |   |   |            | dan |   |   |    | 418-18 |
 | w   |        | døth          | xAJ | død                 |   | døød                 | døød             |   |   |   |            | dan |   |   |    | 418-18 |
 | w   |        | ok            | xCC | og                  |   | och                  | och              |   |   |   |            | dan |   |   |    | 418-18 |
 | w   |        | afgange       | xVB | afgangen            |   | affgangh(e)n         | affganghn̅        |   |   |   |            | dan |   |   |    | 418-18 |
@@ -491,7 +491,7 @@ initial Ff unique to scribe
 | w   |        | fornævnd      | xAJ | fornævnte           |   | fordæ                | foꝛdæ            |   |   |   |            | dan |   |   |    | 418-19 |
 | w   |        | syster        | xNC | søster              |   | søst(e)r             | ſøﬅꝛ            |   |   |   |            | dan |   |   |    | 418-19 |
 | w   |        | æller         | xCC | eller               |   | ell(e)r              | ellꝛ            |   |   |   |            | dan |   |   |    | 418-19 |
-| w   |        | thæn          | xPD | deres               |   | th(e)rræs            | thꝛræ          |   |   |   |            | dan |   |   |    | 418-19 |
+| w   |        | thæn          | xPE | deres               |   | th(e)rræs            | thꝛræ          |   |   |   |            | dan |   |   |    | 418-19 |
 | w   |        | æfterkomere   | xNC | efterkommere        |   | effth(e)rko(m)mæ(re) | effthꝛko̅mæ     |   |   |   |            | dan |   |   |    | 418-19 |
 | w   |        | have          | xVB | have                |   | haffwæ               | haffwæ           |   |   |   |            | dan |   |   |    | 418-19 |
 | w   |        | fulmakt       | xNC | fuldmagt            |   | fulmagt              | fulmagt          |   |   |   |            | dan |   |   |    | 418-19 |
@@ -504,16 +504,16 @@ initial Ff unique to scribe
 | w   |        | at            | xIM | at                  |   | at                   | at               |   |   |   |            | dan |   |   | =  | 418-19 |
 | w   |        | anname        | xVB | annamme             |   | an(n)amæ             | ana̅mæ            |   |   |   |            | dan |   |   | == | 418-19 |
 | w   |        | sum           | xRP | som                 |   | som                  | ſom              |   |   |   |            | dan |   |   |    | 418-19 |
-| w   |        | thæn          | xPD | de                  |   | the                  | the              |   |   |   |            | dan |   |   |    | 418-19 |
+| w   |        | thæn          | xPE | de                  |   | the                  | the              |   |   |   |            | dan |   |   |    | 418-19 |
 | w   |        | tha           | xAV | da                  |   | tha                  | tha              |   |   |   |            | dan |   |   |    | 418-19 |
 | w   |        | finde         | xVB | findes              |   | findæs               | fındæ           |   |   |   |            | dan |   |   |    | 418-19 |
 | w   |        | uten          | xAP | uden                |   | wth(e)n              | wthn̅             |   |   |   |            | dan |   |   |    | 418-19 |
 | lm  | 418-20 |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |
-| w   |        | hvær          | xPD | hver                |   | huær                 | huær             |   |   |   |            | dan |   |   |    | 418-20 |
+| w   |        | hvær          | xDD | hver                |   | huær                 | huær             |   |   |   |            | dan |   |   |    | 418-20 |
 | w   |        | man           | xNC | mands               |   | mantz                | mantz            |   |   |   |            | dan |   |   |    | 418-20 |
 | w   |        | hinder        | xNC | hinder              |   | hind(e)r             | hındꝛ           |   |   |   |            | dan |   |   |    | 418-20 |
 | w   |        | æller         | xCC | eller               |   | ell(e)r              | ellꝛ            |   |   |   |            | dan |   |   |    | 418-20 |
-| w   |        | noker         | xPD | nogen               |   | nagh(e)n             | naghn̅            |   |   |   |            | dan |   |   |    | 418-20 |
+| w   |        | noker         | xDD | nogen               |   | nagh(e)n             | naghn̅            |   |   |   |            | dan |   |   |    | 418-20 |
 | w   |        | gensæghjelse  | xNC | gensigelse          |   | gensielssæ           | genſıelæ        |   |   |   |            | dan |   |   |    | 418-20 |
 | w   |        | i             | xAP | i                   |   | i                    | ı                |   |   |   |            | dan |   |   |    | 418-20 |
 | w   |        | al            | xAJ | alle                |   | allæ                 | allæ             |   |   |   |            | dan |   |   |    | 418-20 |
@@ -530,7 +530,7 @@ initial Ff unique to scribe
 | lm  | 418-21 |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |
 | w   |        | forvaring     | xNC | forvaring           |   | forwaring            | foꝛwarıng        |   |   |   |            | dan |   |   |    | 418-21 |
 | w   |        | hængje        | xVB | hænger              |   | henggh(e)r           | hengghꝛ         |   |   |   |            | dan |   |   |    | 418-21 |
-| w   |        | jak           | xPD | jeg                 |   | iegh                 | ıegh             |   |   |   |            | dan |   |   |    | 418-21 |
+| w   |        | jak           | xPE | jeg                 |   | iegh                 | ıegh             |   |   |   |            | dan |   |   |    | 418-21 |
 | w   |        | min           | xDP | mit                 |   | mith                 | mith             |   |   |   |            | dan |   |   |    | 418-21 |
 | w   |        | insighle      | xNC | indsegl             |   | intceglæ             | ıntceglæ         |   |   |   |            | dan |   |   |    | 418-21 |
 | w   |        | næthen        | xAV | neden               |   | nedh(e)n             | nedhn̅            |   |   |   |            | dan |   |   |    | 418-21 |
