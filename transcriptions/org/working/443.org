@@ -41,7 +41,7 @@
 | :s: |        |               |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |
 | pm  |     1r |               |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |
 | lm  | 443-01 |               |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |
-| w   |        | vi            | xPD | vi            |   | Wij                        | Wij                        |   |   |   |   | dan |   |   |    |        443-01 |
+| w   |        | vi            | xPE | vi            |   | Wij                        | Wij                        |   |   |   |   | dan |   |   |    |        443-01 |
 | PE  |      b | LagUrn001     |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |
 | w   |        |               | xNP | Lage          |   | laghæ                      | laghæ                      |   |   |   |   | dan |   |   |    |        443-01 |
 | w   |        |               | xNP | Urne          |   | vrne                       | vꝛne                       |   |   |   |   | dan |   |   |    |        443-01 |
@@ -57,7 +57,7 @@
 | w   |        | gøre          | xVB | gøre          |   | Giør(e)                    | Gıør                      |   |   |   |   | dan |   |   |    |        443-01 |
 | w   |        | vitherlik     | xAJ | vitterligt    |   | with(e)rligt               | wıthꝛ̅lıgt                  |   |   |   |   | dan |   |   |    |        443-01 |
 | w   |        | at            | xCS | at            |   | At                         | At                         |   |   |   |   | dan |   |   |    |        443-01 |
-| w   |        | vi            | xPD | vi            |   | wij                        | wij                        |   |   |   |   | dan |   |   |    |        443-01 |
+| w   |        | vi            | xPE | vi            |   | wij                        | wij                        |   |   |   |   | dan |   |   |    |        443-01 |
 | w   |        | mæth          | xAP | med           |   | mett                       | mett                       |   |   |   |   | dan |   |   |    |        443-01 |
 | w   |        | var           | xDP | vort          |   | wort                       | woꝛt                       |   |   |   |   | dan |   |   |    |        443-01 |
 | w   |        | ælskelik      | xAJ | elskelige     |   | elsk(elige)                | elſkꝭͤ                      |   |   |   |   | dan |   |   |    |        443-01 |
@@ -89,7 +89,7 @@
 | w   |        | at            | xCS | at            |   | At                         | At                         |   |   |   |   | dan |   |   |    |        443-03 |
 | w   |        | hetherlik     | xAJ | hæderlig      |   | hed(er)lig                 | hedlıg                    |   |   |   |   | dan |   |   |    |        443-03 |
 | w   |        | man           | xNC | mand          |   | mand                       | mand                       |   |   |   |   | dan |   |   |    |        443-03 |
-| w   |        | vi            | xPD | os            |   | oss                        | oſſ                        |   |   |   |   | dan |   |   |    |        443-03 |
+| w   |        | vi            | xPE | os            |   | oss                        | oſſ                        |   |   |   |   | dan |   |   |    |        443-03 |
 | w   |        | ælskelik      | xAJ | elskelige     |   | elsk(elige)                | elſkꝭͤ                      |   |   |   |   | dan |   |   |    |        443-03 |
 | w   |        | hærre         | xNC | herr          |   | her                        | her                        |   |   |   |   | dan |   |   |    |        443-03 |
 | PE  |      b | OddCan001     |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |
@@ -123,7 +123,7 @@
 | PL  |      e |               |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |
 | lm  | 443-05 |               |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |
 | w   |        | sum           | xRP | som           |   | Som                        | om                        |   |   |   |   | dan |   |   |    |        443-05 |
-| w   |        | vi            | xPD | os            |   | oss                        | oſſ                        |   |   |   |   | dan |   |   |    |        443-05 |
+| w   |        | vi            | xPE | os            |   | oss                        | oſſ                        |   |   |   |   | dan |   |   |    |        443-05 |
 | w   |        | ælskelik      | xAJ | elskelige     |   | elsk(elige)                | elſkꝭͤ                      |   |   |   |   | dan |   |   |    |        443-05 |
 | w   |        | mæstere       | xNC | mester        |   | mester                     | meſter                     |   |   |   |   | dan |   |   |    |        443-05 |
 | PE  |      b | JørScø001     |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |
@@ -150,11 +150,11 @@
 | w   |        | sin           | xDP | sin           |   | sin                        | ſin                        |   |   |   |   | dan |   |   |    |        443-06 |
 | w   |        | ræt           | xAJ | rette         |   | retthæ                     | ꝛetthæ                     |   |   |   |   | dan |   |   |    |        443-06 |
 | w   |        | tilligjelse   | xNC | tilliggelse   |   | tilligelßæ                 | tıllıgelßæ                 |   |   |   |   | dan |   |   |    |        443-06 |
-| w   |        | hva           | xPD | hvad          |   | hwad                       | hwad                       |   |   |   |   | dan |   |   |    |        443-06 |
-| w   |        | thæn          | xPD | det           |   | th(et)                     | thꝫ                        |   |   |   |   | dan |   |   |    |        443-06 |
+| w   |        | hva           | xPI | hvad          |   | hwad                       | hwad                       |   |   |   |   | dan |   |   |    |        443-06 |
+| w   |        | thæn          | xPE | det           |   | th(et)                     | thꝫ                        |   |   |   |   | dan |   |   |    |        443-06 |
 | w   |        | hældst        | xAV | helst         |   | helst                      | helſt                      |   |   |   |   | dan |   |   |    |        443-06 |
 | w   |        | være          | xVB | er            |   | er                         | er                         |   |   |   |   | dan |   |   |    |        443-06 |
-| w   |        | ænge          | xPD | intet         |   | intth(et)                  | ıntthꝫ                     |   |   |   |   | dan |   |   |    |        443-06 |
+| w   |        | ænge          | xPI | intet         |   | intth(et)                  | ıntthꝫ                     |   |   |   |   | dan |   |   |    |        443-06 |
 | w   |        | undertaken    | xAJ | undertaget      |   | wnd(er)taget               | wndtaget                  |   |   |   |   | dan |   |   |    |        443-06 |
 | lm  | 443-07 |               |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |
 | w   |        | mæth          | xAP | med           |   | Mett                       | Mett                       |   |   |   |   | dan |   |   |    |        443-07 |
@@ -163,7 +163,7 @@
 | w   |        | ok            | xCC | og            |   | oc                         | oc                         |   |   |   |   | dan |   |   |    |        443-07 |
 | w   |        | vilkor        | xNC | vilkår        |   | wilkor                     | wılkor                     |   |   |   |   | dan |   |   |    |        443-07 |
 | w   |        | at            | xCS | at            |   | At                         | At                         |   |   |   |   | dan |   |   |    |        443-07 |
-| w   |        | han           | xPD | han           |   | hand                       | hand                       |   |   |   |   | dan |   |   |    |        443-07 |
+| w   |        | han           | xPE | han           |   | hand                       | hand                       |   |   |   |   | dan |   |   |    |        443-07 |
 | w   |        | skule         | xVB | skal          |   | schall                     | ſchall                     |   |   |   |   | dan |   |   |    |        443-07 |
 | w   |        | fornævnd      | xAJ | fornævnte     |   | for(nefnde)                | foꝛᷠͤ                        |   |   |   |   | dan |   |   |    |        443-07 |
 | w   |        | garth         | xNC | gård          |   | gard                       | gard                       |   |   |   |   | dan |   |   |    |        443-07 |
@@ -217,7 +217,7 @@
 | w   |        | skule         | xVB | skal          |   | skall                      | ſkall                      |   |   |   |   | dan |   |   |    |        443-10 |
 | w   |        | item          | xAV |              |   | Jt(e)m                     | Jtm̅                        |   |   |   |   | lat |   |   |    |        443-10 |
 | w   |        | skule         | xVB | skal          |   | skall                      | ſkall                      |   |   |   |   | dan |   |   |    |        443-10 |
-| w   |        | han           | xPD | han           |   | hand                       | hand                       |   |   |   |   | dan |   |   |    |        443-10 |
+| w   |        | han           | xPE | han           |   | hand                       | hand                       |   |   |   |   | dan |   |   |    |        443-10 |
 | w   |        | give          | xVB | give          |   | giiffwæ                    | giiffwæ                    |   |   |   |   | dan |   |   |    |        443-10 |
 | lm  | 443-11 |               |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |
 | w   |        | thæn          | xAT | de            |   | the                        | the                        |   |   |   |   | dan |   |   |    |        443-11 |
@@ -226,7 +226,7 @@
 | w   |        | uti           | xAP | udi           |   | wtj                        | wtj                        |   |   |   |   | dan |   |   |    |        443-11 |
 | w   |        | forskreven    | xAJ | forskrevne    |   | for(skreffne)              | forꝭᷠͤ                       |   |   |   |   | dan |   |   |    |        443-11 |
 | w   |        | helaghgæsthus | xNC | helliggæsthus |   | helligesthwss              | helligeſthwſſ              |   |   |   |   | dan |   |   |    |        443-11 |
-| w   |        | hvær          | xPD | hver          |   | hwer                       | her                       |   |   |   |   | dan |   |   |    |        443-11 |
+| w   |        | hvær          | xDD | hver          |   | hwer                       | her                       |   |   |   |   | dan |   |   |    |        443-11 |
 | w   |        | dagh          | xNC | dag           |   | dag                        | dag                        |   |   |   |   | dan |   |   |    |        443-11 |
 | w   |        | en            | xNA | et            |   | eth                        | eth                        |   |   |   |   | dan |   |   |    |        443-11 |
 | w   |        | kjot          | xNC | kød           |   | kiød                       | kıød                       |   |   |   |   | dan |   |   |    |        443-11 |
@@ -266,14 +266,14 @@
 | w   |        | um            | xAP | om            |   | om                         | om                         |   |   |   |   | dan |   |   |    |        443-13 |
 | w   |        | fastedagh     | xNC | fastedage     |   | fastedaghæ                 | faſtedaghæ                 |   |   |   |   | dan |   |   |    |        443-13 |
 | w   |        | sum           | xRP | som           |   | som                        | ſom                        |   |   |   |   | dan |   |   |    |        443-13 |
-| w   |        | thær          | xPD | der           |   | ther                       | ther                       |   |   |   |   | dan |   |   |    |        443-13 |
+| w   |        | thær          | xAV | der           |   | ther                       | ther                       |   |   |   |   | dan |   |   |    |        443-13 |
 | lm  | 443-14 |               |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |
 | w   |        | tilhøre       | xVB | tilhører      |   | tiilhører                  | tiilhører                  |   |   |   |   | dan |   |   |    |        443-14 |
 | w   |        | samelik       | xAV | sammelig      |   | sa(m)meleg                 | a̅meleg                    |   |   |   |   | dan |   |   |    |        443-14 |
 | n   |        |               |     | 4             |   | iiij                       | iiij                       |   |   |   |   | dan |   |   |    |        443-14 |
 | w   |        | stop          | xNC | stobe         |   | stobæ                      | ſtobæ                      |   |   |   |   | dan |   |   |    |        443-14 |
 | w   |        | øl            | xNC | øl            |   | øll                        | øll                        |   |   |   |   | dan |   |   |    |        443-14 |
-| w   |        | hvær          | xPD | hver          |   | hwer                       | hwer                       |   |   |   |   | dan |   |   |    |        443-14 |
+| w   |        | hvær          | xDD | hver          |   | hwer                       | hwer                       |   |   |   |   | dan |   |   |    |        443-14 |
 | w   |        | dagh          | xNC | dag           |   | dag                        | dag                        |   |   |   |   | dan |   |   |    |        443-14 |
 | w   |        | item          | xAV |               |   | Jt(e)m                     | Jtm̅                        |   |   |   |   | lat |   |   |    |        443-14 |
 | w   |        | uti           | xAP | udi           |   | wti                        | wti                        |   |   |   |   | dan |   |   |    |        443-14 |
@@ -314,7 +314,7 @@
 | w   |        | være          | xVB | er            |   | er                         | er                         |   |   |   |   | dan |   |   |    |        443-17 |
 | w   |        | item          | xAV |               |   | Jt(em)                     | Jtꝭ                        |   |   |   |   | lat |   |   |    |        443-17 |
 | w   |        | skule         | xVB | skal          |   | schall                     | ſchall                     |   |   |   |   | dan |   |   |    |        443-17 |
-| w   |        | han           | xPD | han           |   | hand                       | hand                       |   |   |   |   | dan |   |   |    |        443-17 |
+| w   |        | han           | xPE | han           |   | hand                       | hand                       |   |   |   |   | dan |   |   |    |        443-17 |
 | w   |        | ok            | xAV | og            |   | oc                         | oc                         |   |   |   |   | dan |   |   |    |        443-17 |
 | w   |        | give          | xVB | give          |   | giiffwæ                    | giiffæ                    |   |   |   |   | dan |   |   |    |        443-17 |
 | w   |        | pro           | lat |               |   | p(ro)                      | ꝓ                          |   |   |   |   | lat |   |   |    |        443-17 |
@@ -324,7 +324,7 @@
 | w   |        | domini        | lat |               |   | d(omi)ni                   | dn̅ı                        |   |   |   |   | lat |   |   |    |        443-17 |
 | w   |        | Johannis      | lat |               |   | Johannis                   | Johanni                   |   |   |   |   | lat |   |   |    |        443-17 |
 | lm  | 443-18 |               |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |
-| w   |        | hin           | xPD | hin           |   | hind                       | hınd                       |   |   |   |   | dan |   |   |    |        443-18 |
+| w   |        | hin           | xDD | hin           |   | hind                       | hınd                       |   |   |   |   | dan |   |   |    |        443-18 |
 | w   |        | episcopi      | lat |               |   | ep(iscop)i                 | epı̅                        |   |   |   |   | lat |   |   |    |        443-18 |
 | PL  |      b |               |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |
 | w   |        | Roskildensis  | lat |               |   | Rosk(ildensis)             | Roſkꝭ̅                      |   |   |   |   | lat |   |   |    |        443-18 |
@@ -365,9 +365,9 @@
 | w   |        | helaghgæsthus | xNC | helliggæsthus |   | helligesthwss              | hellıgeſthwſſ              |   |   |   |   | dan |   |   |    |        443-20 |
 | w   |        | ok            | xCC | og            |   | Oc                         | Oc                         |   |   |   |   | dan |   |   |    |        443-20 |
 | w   |        | skule         | xVB | skulle        |   | skullæ                     | ſkűllæ                     |   |   |   |   | dan |   |   |    |        443-20 |
-| w   |        | vi            | xPD | vi            |   | wij                        | wij                        |   |   |   |   | dan |   |   |    |        443-20 |
+| w   |        | vi            | xPE | vi            |   | wij                        | wij                        |   |   |   |   | dan |   |   |    |        443-20 |
 | w   |        | tilskikke     | xVB | tilskikke     |   | tilskicke                  | tılſkıcke                  |   |   |   |   | dan |   |   |    |        443-20 |
-| w   |        | hvær          | xPD | hvert         |   | hwert                      | hweꝛt                      |   |   |   |   | dan |   |   |    |        443-20 |
+| w   |        | hvær          | xDD | hvert         |   | hwert                      | hweꝛt                      |   |   |   |   | dan |   |   |    |        443-20 |
 | w   |        | ar            | xNC | år            |   | aaer                       | aaer                       |   |   |   |   | dan |   |   |    |        443-20 |
 | w   |        | tve           | xNA | to            |   | tho                        | tho                        |   |   |   |   | dan |   |   |    |        443-20 |
 | w   |        | kanik         | xNC | kannikker     |   | canicker                   | canicker                   |   |   |   |   | dan |   |   |    |        443-20 |
