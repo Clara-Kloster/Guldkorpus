@@ -42,7 +42,7 @@
 | :s: |        |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |
 | pm  | 1r     |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |
 | lm  | 454-01 |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |
-| w   |        | jak         | xPD | jeg           |   | Jegh                  | Jegh          |   |   |   |   | dan |   |   |   |        454-01 |
+| w   |        | jak         | xPE | jeg           |   | Jegh                  | Jegh          |   |   |   |   | dan |   |   |   |        454-01 |
 | w   |        | syster      | xNC | søster        |   | søsth(e)r             | ſøſthꝛ       |   |   |   |   | dan |   |   |   |        454-01 |
 | PE  | b      | BodBos002   |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |
 | w   |        |             | xNP | Bodil         |   | bouell                | boűell        |   |   |   |   | dan |   |   |   |        454-01 |
@@ -65,7 +65,7 @@
 | w   |        | same        | xAJ | samme         |   | sa(m)me               | ſa̅me          |   |   |   |   | dan |   |   |   |        454-02 |
 | w   |        | stath       | xNC | sted          |   | sted                  | ſted          |   |   |   |   | dan |   |   |   |        454-02 |
 | w   |        | kænne       | xVB | kendes        |   | kend(is)              | kendꝭ         |   |   |   |   | dan |   |   |   |        454-02 |
-| w   |        | vi          | xPD | vi            |   | wy                    | wÿ            |   |   |   |   | dan |   |   |   |        454-02 |
+| w   |        | vi          | xPE | vi            |   | wy                    | wÿ            |   |   |   |   | dan |   |   |   |        454-02 |
 | w   |        | ok          | xCC | og            |   | oc                    | oc            |   |   |   |   | dan |   |   |   |        454-02 |
 | w   |        | vitherlik   | xAJ | vitterlige    |   | wit(e)rlige           | witꝛlige     |   |   |   |   | dan |   |   |   |        454-02 |
 | w   |        | gøre        | xVB | gøre          |   | giør(e)               | giør         |   |   |   |   | dan |   |   |   |        454-02 |
@@ -76,7 +76,7 @@
 | w   |        | open        | xAJ | åbne          |   | obne                  | obne          |   |   |   |   | dan |   |   |   |        454-03 |
 | w   |        | brev        | xNC | brev          |   | breff                 | bꝛeff         |   |   |   |   | dan |   |   |   |        454-03 |
 | w   |        | at          | xCS | at            |   | att                   | att           |   |   |   |   | dan |   |   |   |        454-03 |
-| w   |        | vi          | xPD | vi            |   | wy                    | wÿ            |   |   |   |   | dan |   |   |   |        454-03 |
+| w   |        | vi          | xPE | vi            |   | wy                    | wÿ            |   |   |   |   | dan |   |   |   |        454-03 |
 | w   |        | have        | xVB | have          |   | haffue                | haffűe        |   |   |   |   | dan |   |   |   |        454-03 |
 | w   |        | unne        | xVB | undt          |   | wntt                  | ntt          |   |   |   |   | dan |   |   |   |        454-03 |
 | w   |        | ok          | xCC | og            |   | oc                    | oc            |   |   |   |   | dan |   |   |   |        454-03 |
@@ -105,7 +105,7 @@
 | w   |        |             | xNP | Vindinge      |   | windinge              | windinge      |   |   |   |   | dan |   |   |   |        454-05 |
 | PL  | e      |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |
 | w   |        | ok          | xCC | og            |   | oc                    | oc            |   |   |   |   | dan |   |   |   |        454-05 |
-| w   |        | han         | xPD | hans          |   | hans                  | han          |   |   |   |   | dan |   |   |   |        454-05 |
+| w   |        | han         | xPE | hans          |   | hans                  | han          |   |   |   |   | dan |   |   |   |        454-05 |
 | w   |        | kær         | xAJ | kære          |   | ker(er)               | ker          |   |   |   |   | dan |   |   |   |        454-05 |
 | w   |        | husfrue     | xNC | hustru        |   | hwst(rv)              | hſtͮ          |   |   |   |   | dan |   |   |   |        454-05 |
 | w   |        | frue        | xNC | fru           |   | frw                   | fꝛ           |   |   |   |   | dan |   |   |   |        454-05 |
@@ -135,8 +135,8 @@
 | w   |        | hæreth      | xNC | herred        |   | h(er)r(e)t            | hrt         |   |   |   |   | dan |   |   |   |        454-07 |
 | PL  | e      |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |
 | w   |        | i           | xAP | i             |   | y                     | ÿ             |   |   |   |   | dan |   |   |   |        454-07 |
-| w   |        | bathe       | xPD | begges        |   | begis                 | begi         |   |   |   |   | dan |   |   |   |        454-07 |
-| w   |        | thæn        | xPD | deres         |   | ther(is)              | theꝛꝭ         |   |   |   |   | dan |   |   |   |        454-07 |
+| w   |        | bathe       | xDD | begges        |   | begis                 | begi         |   |   |   |   | dan |   |   |   |        454-07 |
+| w   |        | thæn        | xPE | deres         |   | ther(is)              | theꝛꝭ         |   |   |   |   | dan |   |   |   |        454-07 |
 | lm  | 454-08 |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |
 | w   |        | liv         | xNC | livs          |   | lyuefs                | lÿűefſ        |   |   |   |   | dan |   |   |   |        454-08 |
 | w   |        | tith        | xNC | tid           |   | tiid                  | tiid          |   |   |   |   | dan |   |   |   |        454-08 |
@@ -187,7 +187,7 @@
 | lm  | 454-11 |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |
 | w   |        | ok          | xCC | og            |   | och                   | och           |   |   |   |   | dan |   |   |   |        454-11 |
 | w   |        | give        | xVB | giver         |   | gyffuer               | gÿffueꝛ       |   |   |   |   | dan |   |   |   |        454-11 |
-| w   |        | thæn        | xPD | de            |   | thy                   | thÿ           |   |   |   |   | dan |   |   |   |        454-11 |
+| w   |        | thæn        | xPE | de            |   | thy                   | thÿ           |   |   |   |   | dan |   |   |   |        454-11 |
 | w   |        | al          | xAJ | alle          |   | alle                  | alle          |   |   |   |   | dan |   |   |   |        454-11 |
 | w   |        | samen       | xAJ | sammen        |   | sa(m)men(n)           | ſa̅men̅         |   |   |   |   | dan |   |   |   |        454-11 |
 | n   |        | 6            |    | 6             |   | vi                    | vi            |   |   |   |   | dan |   |   |   |        454-11 |
@@ -326,11 +326,11 @@
 | w   |        |             | xNP | Kristoffersen |   | chr(i)sto¦ff(e)rs(øn) | chrſto¦ffr |   |   |   |   | dan |   |   |   | 454-19—454-20 |
 | PE  | e      | EriKri001   |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |
 | w   |        | ok          | xCC | og            |   | oc                    | oc            |   |   |   |   | dan |   |   |   |        454-20 |
-| w   |        | han         | xPD | hans          |   | hans                  | han          |   |   |   |   | dan |   |   |   |        454-20 |
+| w   |        | han         | xPE | hans          |   | hans                  | han          |   |   |   |   | dan |   |   |   |        454-20 |
 | w   |        | husfrue     | xNC | hustru        |   | hust(rv)              | huſtͮ          |   |   |   |   | dan |   |   |   |        454-20 |
 | w   |        | i           | xAP | i             |   | y                     | ÿ             |   |   |   |   | dan |   |   |   |        454-20 |
-| w   |        | bathe       | xPD | begges        |   | beg(is)               | begꝭ          |   |   |   |   | dan |   |   |   |        454-20 |
-| w   |        | thæn        | xPD | deres         |   | ther(is)              | theꝛꝭ         |   |   |   |   | dan |   |   |   |        454-20 |
+| w   |        | bathe       | xDD | begges        |   | beg(is)               | begꝭ          |   |   |   |   | dan |   |   |   |        454-20 |
+| w   |        | thæn        | xPE | deres         |   | ther(is)              | theꝛꝭ         |   |   |   |   | dan |   |   |   |        454-20 |
 | w   |        | liv         | xNC | livs          |   | liuess                | liűeſſ        |   |   |   |   | dan |   |   |   |        454-20 |
 | w   |        | tith        | xNC | tid           |   | tiid                  | tiid          |   |   |   |   | dan |   |   |   |        454-20 |
 | w   |        | mæth        | xAP | med           |   | m(et)                 | mꝫ            |   |   |   |   | dan |   |   |   |        454-20 |
@@ -341,19 +341,19 @@
 | w   |        | for         | xAP | for           |   | for                   | foꝛ           |   |   |   |   | dan |   |   |   |        454-21 |
 | w   |        | orth        | xNC | ord           |   | oer                   | oeꝛ           |   |   |   |   | dan |   |   |   |        454-21 |
 | w   |        | at          | xCS | at            |   | att                   | att           |   |   |   |   | dan |   |   |   |        454-21 |
-| w   |        | han         | xPD | han           |   | hand                  | hand          |   |   |   |   | dan |   |   |   |        454-21 |
+| w   |        | han         | xPE | han           |   | hand                  | hand          |   |   |   |   | dan |   |   |   |        454-21 |
 | w   |        | skule       | xVB | skal          |   | skall                 | ſkall         |   |   |   |   | dan |   |   |   |        454-21 |
 | w   |        | late        | xVB | lade          |   | lade                  | lade          |   |   |   |   | dan |   |   |   |        454-21 |
 | w   |        | bonde       | xNC | bønderne      |   | bønd(er)ne            | bøndne       |   |   |   |   | dan |   |   |   |        454-21 |
 | w   |        | yte         | xVB | yde           |   | ydhe                  | ÿdhe          |   |   |   |   | dan |   |   |   |        454-21 |
-| w   |        | vi          | xPD | os            |   | woss                  | oſſ          |   |   |   |   | dan |   |   |   |        454-21 |
+| w   |        | vi          | xPE | os            |   | woss                  | oſſ          |   |   |   |   | dan |   |   |   |        454-21 |
 | w   |        | landgilde   | xNC | landgildet    |   | langill(et)           | langillꝫ      |   |   |   |   | dan |   |   |   |        454-21 |
 | w   |        | i           | xAP | i             |   | y                     | ÿ             |   |   |   |   | dan |   |   |   |        454-21 |
 | lm  | 454-22 |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |
 | w   |        |             | xNP | Roskilde      |   | Roskyld               | Ꝛoſkÿld       |   |   |   |   | dan |   |   |   |        454-22 |
 | w   |        | æller       | xCC | eller         |   | ell(e)r               | ellr         |   |   |   |   | dan |   |   |   |        454-22 |
-| w   |        | hvar        | xPD | hvor          |   | huar                  | hűaꝛ          |   |   |   |   | dan |   |   |   |        454-22 |
-| w   |        | vi          | xPD | vi            |   | wy                    | wÿ            |   |   |   |   | dan |   |   |   |        454-22 |
+| w   |        | hvar        | xAV | hvor          |   | huar                  | hűaꝛ          |   |   |   |   | dan |   |   |   |        454-22 |
+| w   |        | vi          | xPE | vi            |   | wy                    | wÿ            |   |   |   |   | dan |   |   |   |        454-22 |
 | w   |        | vilje       | xVB | ville         |   | wille                 | wille         |   |   |   |   | dan |   |   |   |        454-22 |
 | w   |        | have        | xVB | have          |   | haffu(et)             | haffűꝫ        |   |   |   |   | dan |   |   |   |        454-22 |
 | w   |        | innen       | xAP | inden         |   | indh(e)n              | indhn̅         |   |   |   |   | dan |   |   |   |        454-22 |
@@ -367,7 +367,7 @@
 | w   |        | bonde       | xNC | bønderne      |   | bønd(er)ne            | bøndne       |   |   |   |   | dan |   |   |   |        454-23 |
 | w   |        | ok          | xCC | og            |   | oc                    | oc            |   |   |   |   | dan |   |   |   |        454-23 |
 | w   |        | halde       | xVB | holde         |   | holle                 | holle         |   |   |   |   | dan |   |   |   |        454-23 |
-| w   |        | thæn        | xPD | dem           |   | th(e)m                | thmͫ          |   |   |   |   | dan |   |   |   |        454-23 |
+| w   |        | thæn        | xPE | dem           |   | th(e)m                | thmͫ          |   |   |   |   | dan |   |   |   |        454-23 |
 | w   |        | vither      | xAP | ved           |   | wed                   | ed           |   |   |   |   | dan |   |   |   |        454-23 |
 | w   |        | logh        | xNC | lov           |   | loff                  | loff          |   |   |   |   | dan |   |   |   |        454-23 |
 | lm  | 454-24 |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |
@@ -394,10 +394,10 @@
 | w   |        | skule       | xVB | skal          |   | skall                 | ſkall         |   |   |   |   | dan |   |   |   |        454-25 |
 | w   |        | kome        | xVB | komme         |   | ko(m)me               | ko̅me          |   |   |   |   | dan |   |   |   |        454-25 |
 | lm  | 454-26 |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |
-| w   |        | vi          | xPD | os            |   | woss                  | oſſ          |   |   |   |   | dan |   |   |   |        454-26 |
+| w   |        | vi          | xPE | os            |   | woss                  | oſſ          |   |   |   |   | dan |   |   |   |        454-26 |
 | w   |        | til         | xAP | til           |   | tiill                 | tiill         |   |   |   |   | dan |   |   |   |        454-26 |
 | w   |        | goth        | xAJ | gode          |   | gode                  | gode          |   |   |   |   | dan |   |   |   |        454-26 |
-| w   |        | thæn       | xPD | des           |   | thiiss                | thiiſſ        |   |   |   |   | dan |   |   |   |        454-26 |
+| w   |        | thæn       | xPE | des           |   | thiiss                | thiiſſ        |   |   |   |   | dan |   |   |   |        454-26 |
 | w   |        | ytermere    | xAJ | ydermere      |   | ød(er)mer(e)          | ødmer       |   |   |   |   | dan |   |   |   |        454-26 |
 | w   |        | bevisning   | xNC | bevisning     |   | beuissni(e)gh         | beűiſſni̅gh    |   |   |   |   | dan |   |   |   |        454-26 |
 | w   |        | ok          | xCC | og            |   | oc                    | oc            |   |   |   |   | dan |   |   |   |        454-26 |
@@ -405,7 +405,7 @@
 | w   |        | forvaring   | xNC | forvaring     |   | for vor(i)ng          | foꝛ oꝛng    |   |   |   |   | dan |   |   |   |        454-26 |
 | lm  | 454-27 |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |
 | w   |        | hængje      | xVB | hænge         |   | henge                 | henge         |   |   |   |   | dan |   |   |   |        454-27 |
-| w   |        | vi          | xPD | vi            |   | wy                    | wÿ            |   |   |   |   | dan |   |   |   |        454-27 |
+| w   |        | vi          | xPE | vi            |   | wy                    | wÿ            |   |   |   |   | dan |   |   |   |        454-27 |
 | w   |        | konvent     | xNC | konvents      |   | couentz               | coűentz       |   |   |   |   | dan |   |   |   |        454-27 |
 | w   |        | insighle    | xNC | indsegle     |   | indzelle              | indzelle      |   |   |   |   | dan |   |   |   |        454-27 |
 | w   |        | næthen      | xAV | neden         |   | nedh(e)n              | nedhn̅         |   |   |   |   | dan |   |   |   |        454-27 |
