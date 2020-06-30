@@ -51,7 +51,7 @@
 | w   |        | høre         | xVB | høre           |   | høræ            | høræ           |   |   |   |                             | dan |   |   |    |        395-01 |
 | w   |        | læse         | xVB | læses          |   | læses           | læſe          |   |   |   |                             | dan |   |   |    |        395-01 |
 | w   |        | helse        | xVB | hilser         |   | Helser          | Helſer         |   |   |   |                             | dan |   |   |    |        395-01 |
-| w   |        | jak          | xPD | jeg            |   | Iæck            | Iæck           |   |   |   |                             | dan |   |   |    |        395-01 |
+| w   |        | jak          | xPE | jeg            |   | Iæck            | Iæck           |   |   |   |                             | dan |   |   |    |        395-01 |
 | PE  | b      | KatNie001    |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |
 | w   |        |              | xNP | Katrine        |   | Karine          | Karine         |   |   |   |                             | dan |   |   |    |        395-01 |
 | w   |        |              | xNP | Nielsdatter    |   | nielssedott(er) | nielſſedott   |   |   |   |                             | dan |   |   |    |        395-01 |
@@ -72,9 +72,9 @@
 | w   |        | for          | xAP | for            |   | for             | foꝛ            |   |   |   |                             | dan |   |   |    |        395-01 |
 | w   |        | al           | xAJ | alle           |   | alle            | alle           |   |   |   |                             | dan |   |   |    |        395-01 |
 | w   |        | at           | xCS | at             |   | At              | At             |   |   |   |                             | dan |   |   |    |        395-01 |
-| w   |        | jak          | xPD | jeg            |   | Iæk             | Iæk            |   |   |   |                             | dan |   |   |    |        395-01 |
+| w   |        | jak          | xPE | jeg            |   | Iæk             | Iæk            |   |   |   |                             | dan |   |   |    |        395-01 |
 | w   |        | af           | xAP | af             |   | aff             | aff            |   |   |   |                             | dan |   |   |    |        395-01 |
-| w   |        | min          | xPD | min            |   | my(n)           | mẏ̅             |   |   |   |                             | dan |   |   |    |        395-01 |
+| w   |        | min          | xDP | min            |   | my(n)           | mẏ̅             |   |   |   |                             | dan |   |   |    |        395-01 |
 | w   |        | fri          | xAJ | fri            |   | frij            | frij           |   |   |   |                             | dan |   |   |    |        395-01 |
 | lm  | 395-02 |              |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |
 | w   |        | vilje        | xNC | vilje          |   | wilghæ          | wilghæ         |   |   |   |                             | dan |   |   |    |        395-02 |
@@ -95,7 +95,7 @@
 | w   |        | ok           | xCC | og             |   | oc              | oc             |   |   |   |                             | dan |   |   |    |        395-02 |
 | w   |        | afhænde      | xVB | afhænder       |   | affhender       | affhender      |   |   |   |                             | dan |   |   |    |        395-02 |
 | w   |        | fran         | xAP | fra            |   | fraa            | fraa           |   |   |   |                             | dan |   |   |    |        395-02 |
-| w   |        | jak          | xPD | mig            |   | mik             | mik            |   |   |   |                             | dan |   |   |    |        395-02 |
+| w   |        | jak          | xPE | mig            |   | mik             | mik            |   |   |   |                             | dan |   |   |    |        395-02 |
 | w   |        | ok           | xCC | og             |   | oc              | oc             |   |   |   |                             | dan |   |   |    |        395-02 |
 | w   |        | min          | xDP | mine           |   | minæ            | minæ           |   |   |   |                             | dan |   |   |    |        395-02 |
 | w   |        | arving       | xNC | arvinge        |   | arwinghe        | aꝛwinghe       |   |   |   |                             | dan |   |   |    |        395-02 |
@@ -122,7 +122,7 @@
 | w   |        | frue         | xNC | frue           |   | ffrwe           | ffrwe          |   |   |   |                             | dan |   |   |    |        395-03 |
 | p   |        |              |     |                |   | .               | .              |   |   |   |                             | dan |   |   |    |        395-03 |
 | w   |        | ok           | xCC | og             |   | oc              | oc             |   |   |   |                             | dan |   |   |    |        395-03 |
-| w   |        | hun          | xPD | hendes         |   | he(n)nes        | he̅ne          |   |   |   |                             | dan |   |   |    |        395-03 |
+| w   |        | hun          | xPE | hendes         |   | he(n)nes        | he̅ne          |   |   |   |                             | dan |   |   |    |        395-03 |
 | w   |        | arving       | xNC | arvinge        |   | arwinge         | aꝛwinge        |   |   |   |                             | dan |   |   |    |        395-03 |
 | w   |        | thænne       | xDD | disse          |   | thesse          | theſſe         |   |   |   |                             | dan |   |   |    |        395-03 |
 | w   |        | æfterskrive  | xVB | efterskrevne   |   | effterscreffne  | effteꝛſcreffne |   |   |   |                             | dan |   |   |    |        395-03 |
@@ -139,15 +139,15 @@
 | w   |        |              | xNP | Bregninge sogn |   | bregninghesokn  | bꝛegningheſokn |   |   |   |                             | dan |   |   |    |        395-03 |
 | PL  | e      |              |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |
 | w   |        | i            | xAP | i              |   | j               | j              |   |   |   |                             | dan |   |   |    |        395-03 |
-| w   |        | hvilik       | xPD | hvilke         |   | huilke          | huilke         |   |   |   |                             | dan |   |   |    |        395-03 |
+| w   |        | hvilik       | xDD | hvilke         |   | huilke          | huilke         |   |   |   |                             | dan |   |   |    |        395-03 |
 | w   |        | garth        | xNC | gårde          |   | gardhe          | gaꝛdhe         |   |   |   |                             | dan |   |   |    |        395-03 |
 | w   |        | uti          | xAP | udi            |   | vdi             | vdi            |   |   |   |                             | dan |   |   |    |        395-03 |
 | lm  | 395-04 |              |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |
 | w   |        | en           | xNA | en             |   | een             | een            |   |   |   |                             | dan |   |   |    |        395-04 |
 | w   |        | af           | xAP | af             |   | aff             | aff            |   |   |   |                             | dan |   |   |    |        395-04 |
-| w   |        | thæn         | xPD | dem            |   | th(e)m          | thm           |   |   |   |                             | dan |   |   |    |        395-04 |
+| w   |        | thæn         | xPE | dem            |   | th(e)m          | thm           |   |   |   |                             | dan |   |   |    |        395-04 |
 | w   |        | bo           | xVB | bor            |   | boor            | booꝛ           |   |   |   |                             | dan |   |   |    |        395-04 |
-| w   |        | en           | xPD | en             |   | een             | een            |   |   |   |                             | dan |   |   |    |        395-04 |
+| w   |        | en           | xPE | en             |   | een             | een            |   |   |   |                             | dan |   |   |    |        395-04 |
 | w   |        | sum          | xRP | som            |   | so(m)           | ſo̅             |   |   |   |                             | dan |   |   |    |        395-04 |
 | w   |        | hete         | xVB | hedder         |   | heder           | heder          |   |   |   |                             | dan |   |   |    |        395-04 |
 | PE  | b      | OluJen003    |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |
@@ -232,8 +232,8 @@
 | w   |        | thyr         | xAJ | tørt           |   | tywrtt          | tẏwrtt         |   |   |   |                             | dan |   |   |    |        395-06 |
 | w   |        | ænge         | xAV | ingtet          |   | eynchte         | eynchte        |   |   |   |                             | dan |   |   |    |        395-06 |
 | w   |        | undentaken   | xAJ | undtaget       |   | vndentagit      | vndentagit     |   |   |   |                             | dan |   |   |    |        395-06 |
-| w   |        | ehva         | xPD | ihvad         |   | ehwat           | ehwat          |   |   |   |                             | dan |   |   |    |        395-06 |
-| w   |        | thæn         | xPD | det            |   | th(et)          | thꝫ            |   |   |   |                             | dan |   |   |    |        395-06 |
+| w   |        | ehva         | xPI | ihvad         |   | ehwat           | ehwat          |   |   |   |                             | dan |   |   |    |        395-06 |
+| w   |        | thæn         | xPE | det            |   | th(et)          | thꝫ            |   |   |   |                             | dan |   |   |    |        395-06 |
 | w   |        | hældst       | xAV | helst          |   | helst           | helſt          |   |   |   |                             | dan |   |   |    |        395-06 |
 | w   |        | være         | xVB | er             |   | er              | er             |   |   |   |                             | dan |   |   |    |        395-06 |
 | w   |        | æller        | xCC | eller          |   | ell(e)r         | ellr          |   |   |   |                             | dan |   |   |    |        395-06 |
@@ -250,8 +250,8 @@
 | w   |        | eghe+skule   | xVB | ejeskullende   |   | eygheskulend(e) | eẏgheſkulen   |   |   |   |                             | dan |   |   |    |        395-07 |
 | w   |        | ok           | xCC | og             |   | Oc              | Oc             |   |   |   |                             | dan |   |   |    |        395-07 |
 | w   |        | kænne        | xVB | kendes         |   | kennes          | kenne         |   |   |   |                             | dan |   |   |    |        395-07 |
-| w   |        | jak          | xPD | jeg            |   | iak             | ıak            |   |   |   |                             | dan |   |   |    |        395-07 |
-| w   |        | jak          | xPD | mig            |   | mik             | mik            |   |   |   |                             | dan |   |   |    |        395-07 |
+| w   |        | jak          | xPE | jeg            |   | iak             | ıak            |   |   |   |                             | dan |   |   |    |        395-07 |
+| w   |        | jak          | xPE | mig            |   | mik             | mik            |   |   |   |                             | dan |   |   |    |        395-07 |
 | w   |        | fæ           | xNC | fæ             |   | fæ              | fæ             |   |   |   |                             | dan |   |   |    |        395-07 |
 | w   |        | ok           | xCC | og             |   | oc              | oc             |   |   |   |                             | dan |   |   |    |        395-07 |
 | w   |        | ful          | xAJ | fuld           |   | fuld            | fuld           |   |   |   |                             | dan |   |   |    |        395-07 |
@@ -276,20 +276,20 @@
 | w   |        | goths        | xNC | gods           |   | gotz            | gotz           |   |   |   |                             | dan |   |   |    |        395-08 |
 | w   |        | sva          | xAV | så             |   | swo             | ſwo            |   |   |   |                             | dan |   |   |    |        395-08 |
 | w   |        | at           | xCS | at             |   | at              | at             |   |   |   |                             | dan |   |   |    |        395-08 |
-| w   |        | jak          | xPD | mig            |   | mik             | mik            |   |   |   |                             | dan |   |   |    |        395-08 |
+| w   |        | jak          | xPE | mig            |   | mik             | mik            |   |   |   |                             | dan |   |   |    |        395-08 |
 | w   |        | alsthings    | xAV | altings        |   | altzting(is)    | altztingꝭ      |   |   |   |                             | dan |   |   |    |        395-08 |
 | w   |        | væl          | xAV | vel            |   | wel             | wel            |   |   |   |                             | dan |   |   |    |        395-08 |
 | w   |        | atnøghje     | xVB | adnøjes        |   | atn{øy}es       | atn{øẏ}e      |   |   |   |                             | dan |   |   |    |        395-08 |
 | w   |        | ok           | xCC | og             |   | Ok              | Ok             |   |   |   |                             | dan |   |   |    |        395-08 |
 | w   |        | kænne        | xVB | kendes         |   | ke(n)nes        | ke̅ne          |   |   |   |                             | dan |   |   |    |        395-08 |
-| w   |        | jak          | xPD | jeg            |   | iek             | ıek            |   |   |   |                             | dan |   |   |    |        395-08 |
-| w   |        | jak          | xPD | mig            |   | mik             | mik            |   |   |   |                             | dan |   |   |    |        395-08 |
+| w   |        | jak          | xPE | jeg            |   | iek             | ıek            |   |   |   |                             | dan |   |   |    |        395-08 |
+| w   |        | jak          | xPE | mig            |   | mik             | mik            |   |   |   |                             | dan |   |   |    |        395-08 |
 | w   |        | for          | xAP | for            |   | for             | foꝛ            |   |   |   |                             | dan |   |   |    |        395-08 |
-| w   |        | jak          | xPD | mig            |   | mik             | mik            |   |   |   |                             | dan |   |   |    |        395-08 |
+| w   |        | jak          | xPE | mig            |   | mik             | mik            |   |   |   |                             | dan |   |   |    |        395-08 |
 | w   |        | ok           | xCC | og             |   | oc              | oc             |   |   |   |                             | dan |   |   |    |        395-08 |
 | w   |        | min          | xDP | mine           |   | minæ            | minæ           |   |   |   |                             | dan |   |   |    |        395-08 |
 | w   |        | arving       | xNC | arvinge        |   | aruinghe        | aꝛuinghe       |   |   |   |                             | dan |   |   |    |        395-08 |
-| w   |        | ænge         | xPD | ingen          |   | engen           | engen          |   |   |   |                             | dan |   |   |    |        395-08 |
+| w   |        | ænge         | xDD | ingen          |   | engen           | engen          |   |   |   |                             | dan |   |   |    |        395-08 |
 | w   |        | rettigheet   | xNC | rettighed      |   | r(e)ttigheet    | rttıgheet     |   |   |   |                             | dan |   |   |    |        395-08 |
 | w   |        | del          | xNC | del            |   | deel            | deel           |   |   |   |                             | dan |   |   |    |        395-08 |
 | w   |        | ok           | xCC | og             |   | oc              | oc             |   |   |   |                             | dan |   |   |    |        395-08 |
@@ -306,12 +306,12 @@
 | w   |        | thænne       | xDD | denne          |   | thennæ          | thennæ         |   |   |   |                             | dan |   |   |    |        395-09 |
 | w   |        | dagh         | xNC | dag            |   | dagh            | dagh           |   |   |   |                             | dan |   |   |    |        395-09 |
 | w   |        | i            | xAP | i              |   | i               | i              |   |   |   |                             | dan |   |   |    |        395-09 |
-| w   |        | noker        | xPD | nogen          |   | nogre           | nogꝛe          |   |   |   |                             | dan |   |   |    |        395-09 |
+| w   |        | noker        | xDD | nogen          |   | nogre           | nogꝛe          |   |   |   |                             | dan |   |   |    |        395-09 |
 | w   |        | mate         | xNC | måde           |   | made            | made           |   |   |   |                             | dan |   |   |    |        395-09 |
 | w   |        | thi          | xAV | thi            |   | Thij            | Thij           |   |   |   |                             | dan |   |   |    |        395-09 |
 | w   |        | tilbinde     | xVB | tilbinder      |   | tilbinder       | tılbinder      |   |   |   |                             | dan |   |   |    |        395-09 |
-| w   |        | jak          | xPD | jeg            |   | iæk             | ıæk            |   |   |   |                             | dan |   |   |    |        395-09 |
-| w   |        | jak          | xPD | mig            |   | mik             | mik            |   |   |   |                             | dan |   |   |    |        395-09 |
+| w   |        | jak          | xPE | jeg            |   | iæk             | ıæk            |   |   |   |                             | dan |   |   |    |        395-09 |
+| w   |        | jak          | xPE | mig            |   | mik             | mik            |   |   |   |                             | dan |   |   |    |        395-09 |
 | w   |        | ok           | xCC | og             |   | oc              | oc             |   |   |   |                             | dan |   |   |    |        395-09 |
 | w   |        | min          | xDP | mine           |   | mynæ            | mẏnæ           |   |   |   |                             | dan |   |   |    |        395-09 |
 | w   |        | arving       | xNC | arvinge        |   | arui(n)ge       | aꝛui̅ge         |   |   |   |                             | dan |   |   |    |        395-09 |
@@ -329,7 +329,7 @@
 | w   |        |              | xNP | Dorothea       |   | Dorothee        | Doꝛothee       |   |   |   |                             | dan |   |   |    |        395-09 |
 | PE  | e      | RegDor001    |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |
 | w   |        | ok           | xCC | og             |   | ok              | ok             |   |   |   |                             | dan |   |   |    |        395-09 |
-| w   |        | hun          | xPD | hendes         |   | he(n)nes        | he̅ne          |   |   |   |                             | dan |   |   |    |        395-09 |
+| w   |        | hun          | xPE | hendes         |   | he(n)nes        | he̅ne          |   |   |   |                             | dan |   |   |    |        395-09 |
 | w   |        | arving       | xNC | arvinge        |   | arui(n)ge       | aꝛui̅ge         |   |   |   |                             | dan |   |   |    |        395-09 |
 | lm  | 395-10 |              |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |
 | w   |        | forskreven   | xAJ | forskrevne     |   | forscr(efne)    | foꝛſcrꝭ(.)ᷠͤ     |   |   |   |                             | dan |   |   |    |        395-10 |
@@ -342,20 +342,20 @@
 | w   |        | være         | xVB | er             |   | er              | er             |   |   |   |                             | dan |   |   |    |        395-10 |
 | w   |        | røre         | xVB | rørt           |   | vørt            | vøꝛt           |   |   |   |                             | dan |   |   |    |        395-10 |
 | w   |        | fore         | xAV | før            |   | fore            | foꝛe           |   |   |   |                             | dan |   |   |    |        395-10 |
-| w   |        | hvær         | xPD | hvers          |   | hwers           | hwer          |   |   |   |                             | dan |   |   |    |        395-10 |
+| w   |        | hvær         | xDD | hvers          |   | hwers           | hwer          |   |   |   |                             | dan |   |   |    |        395-10 |
 | w   |        | man          | xNC | mands          |   | mantz           | mantz          |   |   |   |                             | dan |   |   |    |        395-10 |
 | w   |        | ræt          | xAJ | rette          |   | r(e)tte         | rtte          |   |   |   |                             | dan |   |   |    |        395-10 |
 | w   |        | tiltal       | xNC | tiltal         |   | tiltal          | tiltal         |   |   |   |                             | dan |   |   |    |        395-10 |
 | w   |        | ske          | xVB | skede          |   | Skedhe          | kedhe         |   |   |   |                             | dan |   |   |    |        395-10 |
-| w   |        | thæn         | xPD | det            |   | th(et)          | thꝫ            |   |   |   |                             | dan |   |   |    |        395-10 |
+| w   |        | thæn         | xPE | det            |   | th(et)          | thꝫ            |   |   |   |                             | dan |   |   |    |        395-10 |
 | w   |        | ok           | xAV | og             |   | oc              | oc             |   |   |   |                             | dan |   |   |    |        395-10 |
 | w   |        | sva          | xAV | så             |   | swo             | ſwo            |   |   |   |                             | dan |   |   |    |        395-10 |
 | w   |        | at           | xCS | at             |   | at              | at             |   |   |   |                             | dan |   |   |    |        395-10 |
 | w   |        | fornævnd     | xAJ | fornævnte      |   | for(nefnde)     | foꝛ(.)ᷠͤ         |   |   |   |                             | dan |   |   |    |        395-10 |
 | w   |        | goths        | xNC | gods           |   | gotz            | gotz           |   |   |   |                             | dan |   |   |    |        395-10 |
 | w   |        | æller        | xCC | eller          |   | ell(e)r         | ellr          |   |   |   |                             | dan |   |   |    |        395-10 |
-| w   |        | noker        | xPD | noget          |   | noghet          | noghet         |   |   |   |                             | dan |   |   |    |        395-10 |
-| w   |        | thæn         | xPD | des            |   | thes            | the           |   |   |   |                             | dan |   |   |    |        395-10 |
+| w   |        | noker        | xPI | noget          |   | noghet          | noghet         |   |   |   |                             | dan |   |   |    |        395-10 |
+| w   |        | thæn         | xPE | des            |   | thes            | the           |   |   |   |                             | dan |   |   |    |        395-10 |
 | w   |        | ræt          | xAJ | rette          |   | r(e)tte         | rtte          |   |   |   |                             | dan |   |   |    |        395-10 |
 | w   |        | tilligjelse  | xNC | tilliggelse    |   | tilligelse      | tıllıgelſe     |   |   |   |                             | dan |   |   |    |        395-10 |
 | w   |        | sum          | xRP | som            |   | som             | ſom            |   |   |   |                             | dan |   |   |    |        395-10 |
@@ -368,14 +368,14 @@
 | w   |        | nathigh      | xAJ | nådige         |   | nadhige         | nadhıge        |   |   |   |                             | dan |   |   |    |        395-11 |
 | w   |        | frue         | xNC | frue           |   | ffrwe           | ffrwe          |   |   |   |                             | dan |   |   |    |        395-11 |
 | w   |        | æller        | xCC | eller          |   | ell(e)r         | ellr          |   |   |   |                             | dan |   |   |    |        395-11 |
-| w   |        | hun          | xPD | hendes         |   | he(n)nes        | he̅ne          |   |   |   |                             | dan |   |   |    |        395-11 |
+| w   |        | hun          | xPE | hendes         |   | he(n)nes        | he̅ne          |   |   |   |                             | dan |   |   |    |        395-11 |
 | w   |        | arving       | xNC | arvinge        |   | arui(n)ge       | aꝛui̅ge         |   |   |   |                             | dan |   |   |    |        395-11 |
 | w   |        | mæth         | xAP | med            |   | meth            | meth           |   |   |   |                             | dan |   |   |    |        395-11 |
 | w   |        | land         | xNC | lands          |   | landz           | landz          |   |   |   |                             | dan |   |   |    |        395-11 |
 | w   |        | logh         | xNC | lov            |   | logh            | logh           |   |   |   |                             | dan |   |   |    |        395-11 |
 | w   |        | æller        | xCC | eller          |   | ell(e)r         | ellr          |   |   |   |                             | dan |   |   |    |        395-11 |
 | w   |        | mæth         | xAP | med            |   | m(et)           | mꝫ             |   |   |   |                             | dan |   |   |    |        395-11 |
-| w   |        | noker        | xPD | nogen          |   | nog(er)         | nog           |   |   |   |                             | dan |   |   |    |        395-11 |
+| w   |        | noker        | xDD | nogen          |   | nog(er)         | nog           |   |   |   |                             | dan |   |   |    |        395-11 |
 | w   |        | rætgang      | xNC | rettergang     |   | r(e)tgang       | rtgang        |   |   |   |                             | dan |   |   |    |        395-11 |
 | w   |        | fore         | xAP | for            |   | fore            | foꝛe           |   |   |   |                             | dan |   |   |    |        395-11 |
 | w   |        | min          | xDP | min            |   | my(n)           | mẏ̅             |   |   |   |                             | dan |   |   |    |        395-11 |
@@ -386,14 +386,14 @@
 | w   |        | vanskelse    | xNC | vanskelse      |   | wanskelsæ       | wanſkelſæ      |   |   |   |                             | dan |   |   |    |        395-11 |
 | w   |        | skyld        | xNC | skyld          |   | skyld           | ſkyld          |   |   |   |                             | dan |   |   |    |        395-11 |
 | p   |        |              |     |                |   | /               | /              |   |   |   |                             | dan |   |   |    |        395-11 |
-| w   |        | thæn         | xPD | det            |   | th(et)          | thꝫ            |   |   |   |                             | dan |   |   |    |        395-11 |
+| w   |        | thæn         | xPE | det            |   | th(et)          | thꝫ            |   |   |   |                             | dan |   |   |    |        395-11 |
 | w   |        | guth         | xNC | gud            |   | gudh            | gudh           |   |   |   |                             | dan |   |   |    |        395-11 |
 | w   |        | forbjuthe    | xVB | forbyde        |   | for¦biwthe      | for¦biwthe     |   |   |   |                             | dan |   |   |    | 395-11—395-12 |
 | p   |        |              |     |                |   | /               | /              |   |   |   |                             | dan |   |   |    |        395-12 |
 | w   |        | tha          | xAV | da             |   | tha             | tha            |   |   |   |                             | dan |   |   |    |        395-12 |
 | w   |        | tilbinde     | xVB | tilbinder      |   | tilbinder       | tilbinder      |   |   |   |                             | dan |   |   |    |        395-12 |
-| w   |        | jak          | xPD | jeg            |   | iek             | ıek            |   |   |   |                             | dan |   |   |    |        395-12 |
-| w   |        | jak          | xPD | mig            |   | mik             | mik            |   |   |   |                             | dan |   |   |    |        395-12 |
+| w   |        | jak          | xPE | jeg            |   | iek             | ıek            |   |   |   |                             | dan |   |   |    |        395-12 |
+| w   |        | jak          | xPE | mig            |   | mik             | mik            |   |   |   |                             | dan |   |   |    |        395-12 |
 | w   |        | ok           | xCC | og             |   | oc              | oc             |   |   |   |                             | dan |   |   |    |        395-12 |
 | w   |        | min          | xDP | min            |   | mine            | mine           |   |   |   |                             | dan |   |   |    |        395-12 |
 | w   |        | arving       | xNC | arvinge        |   | arui(n)ge       | aꝛui̅ge         |   |   |   |                             | dan |   |   |    |        395-12 |
@@ -406,7 +406,7 @@
 | w   |        |              | xNP | Dorothea       |   | Dorothee        | Dorothee       |   |   |   |                             | dan |   |   |    |        395-12 |
 | PE  | e      | RegDor001    |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |
 | w   |        | ok           | xCC | og             |   | oc              | oc             |   |   |   |                             | dan |   |   |    |        395-12 |
-| w   |        | hun          | xPD | hendes         |   | he(n)nes        | he̅ne          |   |   |   |                             | dan |   |   |    |        395-12 |
+| w   |        | hun          | xPE | hendes         |   | he(n)nes        | he̅ne          |   |   |   |                             | dan |   |   |    |        395-12 |
 | w   |        | arving       | xNC | arvinge        |   | arui(n)ge       | aꝛui̅ge         |   |   |   |                             | dan |   |   |    |        395-12 |
 | w   |        | sva          | xAV | så             |   | swo             | ſwo            |   |   |   |                             | dan |   |   | =  |        395-12 |
 | w   |        | mikel        | xAJ | meget          |   | myghet          | mẏghet         |   |   |   |                             | dan |   |   | == |        395-12 |
@@ -431,7 +431,7 @@
 | w   |        | mikel        | xAJ | meget          |   | myghet          | mẏghet         |   |   |   |                             | dan |   |   |    |        395-13 |
 | w   |        | goths        | xNC | gods           |   | gotz            | gotz           |   |   |   |                             | dan |   |   |    |        395-13 |
 | w   |        | sum          | xRP | som            |   | som             | ſom            |   |   |   |                             | dan |   |   |    |        395-13 |
-| w   |        | thæn         | xPD | dem            |   | th(e)m          | thm̅            |   |   |   |                             | dan |   |   |    |        395-13 |
+| w   |        | thæn         | xPE | dem            |   | th(e)m          | thm̅            |   |   |   |                             | dan |   |   |    |        395-13 |
 | w   |        | i            | xAP | i              |   | i               | i              |   |   |   |                             | dan |   |   |    |        395-13 |
 | w   |        | sva          | xAV | så             |   | swo             | ſwo            |   |   |   |                             | dan |   |   |    |        395-13 |
 | w   |        | mate         | xNC | måde           |   | made            | made           |   |   |   |                             | dan |   |   |    |        395-13 |
@@ -455,7 +455,7 @@
 | w   |        | uprætte      | xVB | oprette        |   | vprette         | vprette        |   |   |   |                             | dan |   |   |    |        395-14 |
 | w   |        | thæn         | xAT | dem            |   | th(e)m          | thm̅            |   |   |   |                             | dan |   |   |    |        395-14 |
 | w   |        | sum          | xRP | som            |   | som             | ſom            |   |   |   |                             | dan |   |   |    |        395-14 |
-| w   |        | thær         | xPD | der            |   | th(e)r          | thr           |   |   |   |                             | dan |   |   |    |        395-14 |
+| w   |        | thær         | xAV | der            |   | th(e)r          | thr           |   |   |   |                             | dan |   |   |    |        395-14 |
 | w   |        | af           | xAV | af             |   | aff             | aff            |   |   |   |                             | dan |   |   |    |        395-14 |
 | w   |        | kome         | xVB | komme          |   | ko(m)me         | ko̅me           |   |   |   |                             | dan |   |   |    |        395-14 |
 | w   |        | kunne        | xVB | kan            |   | kan             | kan            |   |   |   |                             | dan |   |   |    |        395-14 |
@@ -467,7 +467,7 @@
 | w   |        | ytermere     | xAJ | ydermere       |   | yd(er)mer(e)    | ydmeꝛ        |   |   |   |                             | dan |   |   |    |        395-14 |
 | w   |        | rætgang      | xNC | rettergang     |   | r(e)tgang       | rtgang        |   |   |   |                             | dan |   |   |    |        395-14 |
 | w   |        | i            | xAP | i              |   | i               | i              |   |   |   |                             | dan |   |   |    |        395-14 |
-| w   |        | noker        | xPD | nogen          |   | nogr(e)         | nogꝛ          |   |   |   |                             | dan |   |   |    |        395-14 |
+| w   |        | noker        | xDD | nogen          |   | nogr(e)         | nogꝛ          |   |   |   |                             | dan |   |   |    |        395-14 |
 | w   |        | mate         | xNC | nåde           |   | made            | made           |   |   |   |                             | dan |   |   |    |        395-14 |
 | w   |        | til          | xAP | til            |   | Til             | Tıl            |   |   |   |                             | dan |   |   |    |        395-14 |
 | w   |        | ytermere     | xAJ | ydermere       |   | ydermer(e)      | ydermeꝛ       |   |   |   |                             | dan |   |   |    |        395-14 |
@@ -480,7 +480,7 @@
 | w   |        | um           | xAV | om             |   | om              | om             |   |   |   |                             | dan |   |   |    |        395-15 |
 | p   |        |              |     |                |   | .               | .              |   |   |   |                             | dan |   |   |    |        395-15 |
 | w   |        | have         | xVB | har            |   | haffuer         | haffuer        |   |   |   |                             | dan |   |   |    |        395-15 |
-| w   |        | jak          | xPD | jeg            |   | Jak             | Jak            |   |   |   |                             | dan |   |   |    |        395-15 |
+| w   |        | jak          | xPE | jeg            |   | Jak             | Jak            |   |   |   |                             | dan |   |   |    |        395-15 |
 | w   |        | late         | xVB | ladet          |   | ladet           | ladet          |   |   |   |                             | dan |   |   |    |        395-15 |
 | w   |        | hængje       | xVB | hænge          |   | henge           | henge          |   |   |   |                             | dan |   |   |    |        395-15 |
 | w   |        | min          | xDP | mit            |   | mit             | mit            |   |   |   |                             | dan |   |   |    |        395-15 |
