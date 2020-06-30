@@ -42,7 +42,7 @@
 | :s: |        |               |     |              |            |                  |               |   |   |   |          |     |   |   |    |                 |
 | pm  | 1r     |               |     |              |            |                  |               |   |   |   |          |     |   |   |    |                 |
 | lm  | 430-01 |               |     |              |            |                  |               |   |   |   |          |     |   |   |    |                 |
-| w   |        | vi            | xPD | Vi           |            | Wy               | Wÿ            |   |   |   |          | dan |   |   |    |          430-01 |
+| w   |        | vi            | xPE | Vi           |            | Wy               | Wÿ            |   |   |   |          | dan |   |   |    |          430-01 |
 | w   |        | al            | xAJ | alle         |            | allæ             | allæ          |   |   |   |          | dan |   |   |    |          430-01 |
 | w   |        | øthmjuk       | xAJ | ydmyge       |            | ytmyghæ          | ÿtmÿghæ       |   |   |   |          | dan |   |   |    |          430-01 |
 | w   |        | sankte        | xAJ | sankte       |            | s(anc)te         | ſt̅e           |   |   |   |          | dan |   |   |    |          430-01 |
@@ -57,7 +57,7 @@
 | w   |        | vitherlik     | xAJ | vitterligt   |            | wydh(e)rlict     | wydhꝛlıct    |   |   |   |          | dan |   |   |    |          430-01 |
 | w   |        | mæth          | xAP | med          |            | m(et)            | mꝫ            |   |   |   |          | dan |   |   |    |          430-01 |
 | w   |        | thænne        | xDD | dette        |            | th(ette)         | thꝫͤ           |   |   |   |          | dan |   |   |    |          430-01 |
-| w   |        | var           | xPD | vort         |            | wort             | woꝛt          |   |   |   |          | dan |   |   |    |          430-01 |
+| w   |        | var           | xDP | vort         |            | wort             | woꝛt          |   |   |   |          | dan |   |   |    |          430-01 |
 | w   |        | konvent       | xNC | konvents     |            | (con)ue(n)tz     | ꝯue̅tz         |   |   |   |          | dan |   |   |    |          430-01 |
 | w   |        | open          | xAJ | åbne         |            | oppnæ            | onæ          |   |   |   |          | dan |   |   |    |          430-01 |
 | lm  | 430-02 |               |     |              |            |                  |               |   |   |   |          |     |   |   |    |                 |
@@ -102,7 +102,7 @@
 | w   |        | være          | xVB | var          |            | wor              | woꝛ           |   |   |   |          | dan |   |   |    |          430-04 |
 | w   |        | skikke        | xVB | skikken      |            | skicken          | ſkicken       |   |   |   |          | dan |   |   |    |          430-04 |
 | w   |        | for           | xAP | for          |            | for              | foꝛ           |   |   |   |          | dan |   |   |    |          430-04 |
-| w   |        | vi            | xPD | os           |            | woss             | woſſ          |   |   |   |          | dan |   |   |    |          430-04 |
+| w   |        | vi            | xPE | os           |            | woss             | woſſ          |   |   |   |          | dan |   |   |    |          430-04 |
 | w   |        | hetherlik     | xAJ | hæderlige    |            | hed(er)ligh      | hedligh      |   |   |   |          | dan |   |   |    |          430-04 |
 | w   |        | jungfrue      | xNC | jomfru       |            | jomf(rv)         | ȷomfͮ          |   |   |   |          | dan |   |   |    |          430-04 |
 | w   |        | syster        | xNC | søster       |            | Søsth(e)r        | øſthꝛ       |   |   |   |          | dan |   |   |    |          430-04 |
@@ -113,10 +113,10 @@
 | w   |        | ok            | xCC | og           |            | Och              | Och           |   |   |   |          | dan |   |   |    |          430-04 |
 | w   |        | sæghje        | xVB | sagde        |            | sadhe            | ſadhe         |   |   |   |          | dan |   |   |    |          430-04 |
 | lm  | 430-05 |               |     |              |            |                  |               |   |   |   |          |     |   |   |    |                 |
-| w   |        | sik           | xPD | sig          |            | sek              | ſek           |   |   |   |          | dan |   |   |    |          430-05 |
+| w   |        | sik           | xPE | sig          |            | sek              | ſek           |   |   |   |          | dan |   |   |    |          430-05 |
 | w   |        | at            | xIM | at           |            | ath              | ath           |   |   |   |          | dan |   |   |    |          430-05 |
 | w   |        | have          | xVB | have         |            | haffwæ           | haffwæ        |   |   |   |          | dan |   |   |    |          430-05 |
-| w   |        | noker         | xPD | nogen        |            | noogh{(e)n}      | noogh{̅}      |   |   |   |          | dan |   |   |    |          430-05 |
+| w   |        | noker         | xDD | nogen        |            | noogh{(e)n}      | noogh{̅}      |   |   |   |          | dan |   |   |    |          430-05 |
 | w   |        | guth          | xNC | Guds         |            | gwtz             | gwtz          |   |   |   |          | dan |   |   |    |          430-05 |
 | w   |        | almuse        | xNC | almisse      |            | almesse          | almeſſe       |   |   |   |          | dan |   |   |    |          430-05 |
 | w   |        | gul           | xNC | guld         |            | gwldh            | gwldh         |   |   |   |          | dan |   |   |    |          430-05 |
@@ -130,7 +130,7 @@
 | n   |        | 100           |     | 100          |            | c                | c             |   |   |   |          | dan |   |   |    |                 |
 | w   |        | mark          | xNC | mark         |            | mark             | maꝛk          |   |   |   |          | dan |   |   |    |          430-05 |
 | w   |        | sum           | xRP | som          |            | som              | ſo           |   |   |   |          | dan |   |   |    |          430-05 |
-| w   |        | hun           | xPD | hun          |            | hw(n)            | hw̅            |   |   |   |          | dan |   |   |    |          430-05 |
+| w   |        | hun           | xPE | hun          |            | hw(n)            | hw̅            |   |   |   |          | dan |   |   |    |          430-05 |
 | w   |        | vilje         | xVB | ville        |            | wildhæ           | wildhæ        |   |   |   |          | dan |   |   |    |          430-05 |
 | w   |        | unne          | xVB | unde         |            | wndhæ            | wndhæ         |   |   |   |          | dan |   |   |    |          430-05 |
 | lm  | 430-06 |               |     |              |            |                  |               |   |   |   |          |     |   |   |    |                 |
@@ -144,7 +144,7 @@
 | w   |        | sva           | xAV | så           |            | saa              | ſaa           |   |   |   |          | dan |   |   |    |          430-06 |
 | w   |        | mate          | xNC | måde         |            | moodhæ           | moodhæ        |   |   |   |          | dan |   |   |    |          430-06 |
 | w   |        | thæt          | xCS | det          |            | th(et)           | thꝫ           |   |   |   |          | dan |   |   |    |          430-06 |
-| w   |        | vi            | xPD | vi           |            | wy               | wÿ            |   |   |   |          | dan |   |   |    |          430-06 |
+| w   |        | vi            | xPE | vi           |            | wy               | wÿ            |   |   |   |          | dan |   |   |    |          430-06 |
 | w   |        | al            | xAJ | alle         |            | allæ             | allæ          |   |   |   |          | dan |   |   |    |          430-06 |
 | w   |        | mæth          | xAP | med          |            | m(et)            | mꝫ            |   |   |   |          | dan |   |   |    |          430-06 |
 | w   |        | en            | xAT | en           |            | en               | en            |   |   |   |          | dan |   |   |    |          430-06 |
@@ -214,9 +214,9 @@
 | w   |        | var           | xDP | vort         |            | wort             | woꝛt          |   |   |   |          | dan |   |   |    |          430-09 |
 | w   |        | forskreven    | xAJ | forskrevne   |            | forsc(re)ffne    | foꝛſcffne    |   |   |   |          | dan |   |   |    |          430-09 |
 | w   |        | kloster       | xNC | kloster      |            | clost(er)        | cloſt        |   |   |   |          | dan |   |   |    |          430-09 |
-| w   |        | hvilik        | xPD | hvilken      |            | hwelken          | hwelken       |   |   |   |          | dan |   |   |    |          430-09 |
+| w   |        | hvilik        | xDD | hvilken      |            | hwelken          | hwelken       |   |   |   |          | dan |   |   |    |          430-09 |
 | w   |        | garth         | xNC | gård         |            | gaard            | gaaꝛd         |   |   |   |          | dan |   |   |    |          430-09 |
-| w   |        | vi            | xPD | vi           |            | wy               | wÿ            |   |   |   |          | dan |   |   |    |          430-09 |
+| w   |        | vi            | xPE | vi           |            | wy               | wÿ            |   |   |   |          | dan |   |   |    |          430-09 |
 | w   |        | al            | xAJ | alle         |            | allæ             | allæ          |   |   |   |          | dan |   |   |    |          430-09 |
 | w   |        | mæth          | xAP | med          |            | m(et)            | mꝫ            |   |   |   |          | dan |   |   |    |          430-09 |
 | w   |        | en            | xNA | en           |            | en               | e            |   |   |   |          | dan |   |   |    |          430-09 |
@@ -257,14 +257,14 @@
 | w   |        | fylghje       | xVB | følger       |            | følgh(e)r        | følghꝛ       |   |   |   |          | dan |   |   |    |          430-11 |
 | w   |        | fyrst         | xAV | først        |            | fførsth          | fføꝛſth       |   |   |   | ff-flour | dan |   |   |    |          430-11 |
 | w   |        | skule         | xVB | skal         |            | skal             | ſkal          |   |   |   |          | dan |   |   |    |          430-11 |
-| w   |        | hun           | xPD | hun          |            | hw(n)            | hw̅            |   |   |   |          | dan |   |   |    |          430-11 |
+| w   |        | hun           | xPE | hun          |            | hw(n)            | hw̅            |   |   |   |          | dan |   |   |    |          430-11 |
 | w   |        | i             | xAP | i            |            | i                | i             |   |   |   |          | dan |   |   |    |          430-11 |
 | w   |        | sin           | xDP | sin          |            | syn              | ſyn           |   |   |   |          | dan |   |   |    |          430-11 |
 | w   |        | tith          | xNC | tid          |            | tiidh            | tiidh         |   |   |   |          | dan |   |   |    |          430-11 |
 | w   |        | sva           | xAV | så           |            | saa              | ſaa           |   |   |   |          | dan |   |   |    |          430-11 |
 | lm  | 430-12 |               |     |              |            |                  |               |   |   |   |          |     |   |   |    |                 |
 | w   |        | længe         | xAV | længe        |            | lenghe           | lenghe        |   |   |   |          | dan |   |   |    |          430-12 |
-| w   |        | hun           | xPD | hun          |            | hw(n)            | hw̅            |   |   |   |          | dan |   |   |    |          430-12 |
+| w   |        | hun           | xPE | hun          |            | hw(n)            | hw̅            |   |   |   |          | dan |   |   |    |          430-12 |
 | w   |        | live          | xVB | lever        |            | leffwar          | leffwaꝛ       |   |   |   |          | dan |   |   |    |          430-12 |
 | w   |        | nyte          | xVB | nyde         |            | nydhe            | nydhe         |   |   |   |          | dan |   |   |    |          430-12 |
 | w   |        | ok            | xCC | og           |            | och              | och           |   |   |   |          | dan |   |   |    |          430-12 |
@@ -284,7 +284,7 @@
 | w   |        | fordel        | xNC | fordel       |            | fordell          | foꝛdell       |   |   |   |          | dan |   |   |    |          430-13 |
 | w   |        | ok            | xCC | og           |            | Och              | Och           |   |   |   |          | dan |   |   |    |          430-13 |
 | w   |        | nar           | xCS | når          |            | naar             | naaꝛ          |   |   |   |          | dan |   |   |    |          430-13 |
-| w   |        | hun           | xPD | hun          |            | hw(n)            | hw̅            |   |   |   |          | dan |   |   |    |          430-13 |
+| w   |        | hun           | xPE | hun          |            | hw(n)            | hw̅            |   |   |   |          | dan |   |   |    |          430-13 |
 | w   |        | varthe        | xVB | vorder       |            | wordh(e)r        | woꝛdhꝛ       |   |   |   |          | dan |   |   |    |          430-13 |
 | w   |        | af            | xAP | af           |            | aff              | aff           |   |   |   |          | dan |   |   |    |          430-13 |
 | w   |        | kalle         | xVB | kalden       |            | kallen           | kalle        |   |   |   |          | dan |   |   |    |          430-13 |
@@ -293,7 +293,7 @@
 | w   |        | væreld        | xNC | verden       |            | werdh(e)n        | weꝛdh̅        |   |   |   |          | dan |   |   |    |          430-13 |
 | w   |        | guth          | xNC | Gud          |            | gvdh             | gvdh          |   |   |   |          | dan |   |   |    |          430-13 |
 | w   |        | give          | xVB | give         |            | gyffwæ           | gyffwæ        |   |   |   |          | dan |   |   |    |          430-13 |
-| w   |        | thæn          | xPD | det          |            | thet             | thet          |   |   |   |          | dan |   |   |    |          430-13 |
+| w   |        | thæn          | xPE | det          |            | thet             | thet          |   |   |   |          | dan |   |   |    |          430-13 |
 | w   |        | ske           | xVB | ske          |            | ske              | ſke           |   |   |   |          | dan |   |   |    |          430-13 |
 | w   |        | i             | xAP | i            |            | i                | i             |   |   |   |          | dan |   |   |    |          430-13 |
 | w   |        | en            | xAT | en           |            | end              | end           |   |   |   |          | dan |   |   |    |          430-13 |
@@ -322,7 +322,7 @@
 | w   |        | konvent       | xNC | konvents     |            | (con)ue(n)tz     | ꝯue̅tz         |   |   |   |          | dan |   |   |    |          430-15 |
 | w   |        | syster        | xNC | søstres      |            | søst(er)s        | ſøſt        |   |   |   |          | dan |   |   |    |          430-15 |
 | w   |        | skifte        | xNC | skifte       |            | skyffthe         | ſkyffthe      |   |   |   |          | dan |   |   |    |          430-15 |
-| w   |        | thæn          | xPD | dem          |            | th(e)m           | th̅           |   |   |   |          | dan |   |   |    |          430-15 |
+| w   |        | thæn          | xPE | dem          |            | th(e)m           | th̅           |   |   |   |          | dan |   |   |    |          430-15 |
 | w   |        | til           | xAP | til          |            | till             | till          |   |   |   |          | dan |   |   |    |          430-15 |
 | w   |        | fordel        | xNC | fordel       |            | fordeell         | foꝛdeell      |   |   |   |          | dan |   |   |    |          430-15 |
 | w   |        | ok            | xCC | og           |            | Och              | Och           |   |   |   |          | dan |   |   |    |          430-15 |
@@ -359,7 +359,7 @@
 | w   |        | forvarning    | xNC | forvaring    |            | forwarni(n)gh    | foꝛwaꝛni̅gh    |   |   |   |          | dan |   |   |    |          430-17 |
 | w   |        | tha           | xAV | da           |            | tha              | tha           |   |   |   |          | dan |   |   |    |          430-17 |
 | w   |        | begræte       | xVB | begærede     |            | begerædhe        | begeꝛædhe     |   |   |   |          | dan |   |   |    |          430-17 |
-| w   |        | vi            | xPD | vi           |            | wy               | wy            |   |   |   |          | dan |   |   |    |          430-17 |
+| w   |        | vi            | xPE | vi           |            | wy               | wy            |   |   |   |          | dan |   |   |    |          430-17 |
 | w   |        | al            | xAJ | alle         |            | allæ             | allæ          |   |   |   |          | dan |   |   |    |          430-17 |
 | w   |        | hetherlik     | xAJ | hæderlige    |            | hedh(e)rlighe    | hedhꝛlıghe   |   |   |   |          | dan |   |   |    |          430-17 |
 | w   |        | father        | xNC | faders       |            | fadh(e)rss       | fadhꝛſſ      |   |   |   |          | dan |   |   |    |          430-17 |
@@ -383,7 +383,7 @@
 | w   |        | ytermere      | xAJ | ydermere     |            | yth(e)rme(re)    | ÿthꝛme      |   |   |   |          | dan |   |   |    |          430-19 |
 | w   |        | hinder        | xNC | hinder       |            | hyndh(e)r        | hyndhꝛ       |   |   |   |          | dan |   |   |    |          430-19 |
 | w   |        | late          | xVB | lade         |            | ladhæ            | ladhæ         |   |   |   |          | dan |   |   |    |          430-19 |
-| w   |        | vi            | xPD | vi           |            | wy               | wÿ            |   |   |   |          | dan |   |   |    |          430-19 |
+| w   |        | vi            | xPE | vi           |            | wy               | wÿ            |   |   |   |          | dan |   |   |    |          430-19 |
 | w   |        | hængje        | xVB | hænge        |            | henghe           | henghe        |   |   |   |          | dan |   |   |    |          430-19 |
 | w   |        | var           | xDP | vort         |            | worth            | woꝛth         |   |   |   |          | dan |   |   |    |          430-19 |
 | w   |        | konvent       | xNC | konvents     |            | (con)ue(n)tz     | ꝯue̅tz         |   |   |   |          | dan |   |   |    |          430-19 |
