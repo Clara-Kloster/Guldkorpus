@@ -51,7 +51,7 @@
 | w   |   | høre          | xVB | høre          |   | hør(e)          | høꝛ          |   |   |   |              | dan |   |   |    | 424-01 |
 | w   |   | læse          | xVB | læses         |   | læs(es)         | læ           |   |   |   |              | dan |   |   |    | 424-01 |
 | w   |   | helse         | xVB | hilse         |   | Helse           | Helſe         |   |   |   |              | dan |   |   |    | 424-01 |
-| w   |   | vi            | xPD | vi            |   | wij             | wij           |   |   |   |              | dan |   |   |    | 424-01 |
+| w   |   | vi            | xPE | vi            |   | wij             | wij           |   |   |   |              | dan |   |   |    | 424-01 |
 | PE  | b | OluHan001     |     |               |   |                 |               |   |   |   |              |     |   |   |    |        |
 | w   |   |               | xNP | Oluf          |   | Oluff           | Oluff         |   |   |   |              | dan |   |   |    | 424-01 |
 | w   |   |               | xNP | Hansen        |   | hanss(øn)       | hanſ         |   |   |   |              | dan |   |   |    | 424-01 |
@@ -109,7 +109,7 @@
 | PL  | e |               |     |               |   |                 |               |   |   |   |              |     |   |   |    |        |
 | w   |   | thing         | xNC | ting          |   | tingh           | tingh         |   |   |   |              | dan |   |   |    | 424-03 |
 | w   |   | for           | xAP | for           |   | for(e)          | foꝛ          |   |   |   |              | dan |   |   |    | 424-03 |
-| w   |   | vi            | xPD | os            |   | oss             | oſſ           |   |   |   |              | dan |   |   |    | 424-03 |
+| w   |   | vi            | xPE | os            |   | oss             | oſſ           |   |   |   |              | dan |   |   |    | 424-03 |
 | w   |   | ok            | xCC | og            |   | oc              | oc            |   |   |   |              | dan |   |   |    | 424-03 |
 | w   |   | almughe       | xNC | almuens       |   | almwens         | almwen       |   |   |   |              | dan |   |   |    | 424-03 |
 | w   |   | man           | xNC | mænd          |   | me(n)           | me̅            |   |   |   |              | dan |   |   |    | 424-03 |
@@ -137,13 +137,13 @@
 | lm  |   |               |     |               |   |                 |               |   |   |   |              |     |   |   |    |        |
 | w   |   | ok            | xCC | og            |   | oc              | oc            |   |   |   |              | dan |   |   |    | 424-05 |
 | w   |   | spyrje        | xVB | spurgte       |   | spurde          | ſpurde        |   |   |   |              | dan |   |   |    | 424-05 |
-| w   |   | sik           | xPD | sig           |   | segh            | ſegh          |   |   |   |              | dan |   |   |    | 424-05 |
+| w   |   | sik           | xPE | sig           |   | segh            | ſegh          |   |   |   |              | dan |   |   |    | 424-05 |
 | w   |   | fore          | xAV | for           |   | for(e)          | foꝛ          |   |   |   |              | dan |   |   |    | 424-05 |
 | w   |   | mæth          | xAP | med           |   | met             | met           |   |   |   | foreskrevet? | dan |   |   |    | 424-05 |
 | w   |   | thing         | xNC | ting          |   | tingh           | tıngh         |   |   |   |              | dan |   |   |    | 424-05 |
 | w   |   | man           | xNC | mænd          |   | me(n)           | me̅            |   |   |   |              | dan |   |   |    | 424-05 |
 | w   |   | um            | xCS | om            |   | om              | o            |   |   |   |              | dan |   |   |    | 424-05 |
-| w   |   | noker         | xPD | nogen         |   | nogr(e)         | nogꝛ         |   |   |   |              | dan |   |   |    | 424-05 |
+| w   |   | noker         | xDD | nogen         |   | nogr(e)         | nogꝛ         |   |   |   |              | dan |   |   |    | 424-05 |
 | w   |   | dandeman      | xNC | dannemænd     |   | dan(n)e me(n)   | dan̅e me̅       |   |   |   |              | dan |   |   |    | 424-05 |
 | w   |   | nærværende    | xAJ | nærværende    |   | ner(værende)    | neꝛ          |   |   |   | de-sup       | dan |   |   |    | 424-05 |
 | w   |   | upa           | xAP | på            |   | pa              | pa            |   |   |   |              | dan |   |   |    | 424-05 |
@@ -174,9 +174,9 @@
 | w   |   |               | xNP | Roskilde      |   | Rosk(ilde)      | Roſkꝭͤ         |   |   |   |              | dan |   |   |    | 424-06 |
 | PL  | e |               |     |               |   |                 |               |   |   |   |              |     |   |   |    |        |
 | w   |   | æller         | xCC | eller         |   | eller           | elleꝛ         |   |   |   |              | dan |   |   |    | 424-06 |
-| w   |   | noker         | xPD | nogen         |   | noger           | nogeꝛ         |   |   |   |              | dan |   |   |    | 424-06 |
+| w   |   | noker         | xPI | noger         |   | noger           | nogeꝛ         |   |   |   |              | dan |   |   |    | 424-06 |
 | lm  |   |               |     |               |   |                 |               |   |   |   |              |     |   |   |    |        |
-| w   |   | thæn          | xPD | deres         |   | ther(is)        | theꝛꝭ         |   |   |   |              | dan |   |   |    | 424-07 |
+| w   |   | thæn          | xPE | deres         |   | ther(is)        | theꝛꝭ         |   |   |   |              | dan |   |   |    | 424-07 |
 | w   |   | ræt           | xAJ | rette         |   | rette           | rette         |   |   |   |              | dan |   |   |    | 424-07 |
 | w   |   | tilligjelse   | xNC | tilliggelse   |   | tillig(else)    | tıllıgꝭͤ       |   |   |   |              | dan |   |   |    | 424-07 |
 | w   |   | aker          | xNC | ager          |   | Ager            | Ager          |   |   |   |              | dan |   |   |    | 424-07 |
@@ -199,7 +199,7 @@
 | w   |   |               |     |               |   |                 |               |   |   |   |              | dan |   |   |    | 424-07 |
 | w   |   | have          | xVB | har           |   | haffu(er)       | haffu        |   |   |   |              | dan |   |   |    | 424-07 |
 | lm  |   |               |     |               |   |                 |               |   |   |   |              |     |   |   |    |        |
-| w   |   | noker         | xPD | nogen         |   | nogh(e)r        | noghꝛ        |   |   |   |              | dan |   |   |    | 424-08 |
+| w   |   | noker         | xDD | nogen         |   | nogh(e)r        | noghꝛ        |   |   |   |              | dan |   |   |    | 424-08 |
 | w   |   | tith          | xNC | tid           |   | tid             | tıd           |   |   |   |              | dan |   |   |    | 424-08 |
 | w   |   | være          | xVB | været         |   | wær(e)t         | wæꝛt         |   |   |   |              | dan |   |   |    | 424-08 |
 | w   |   | ille          | xVB | ildet         |   | illet           | ıllet         |   |   |   |              | dan |   |   |    | 424-08 |
@@ -223,18 +223,18 @@
 | w   |   | garth         | xNC | gård          |   | gard            | gaꝛd          |   |   |   |              | dan |   |   |    | 424-09 |
 | w   |   | ok            | xCC | og            |   | oc              | oc            |   |   |   |              | dan |   |   |    | 424-09 |
 | w   |   | bithje        | xVB | bad           |   | bad             | bad           |   |   |   |              | dan |   |   |    | 424-09 |
-| w   |   | hvær          | xPD | hver          |   | hwer            | hwer          |   |   |   |              | dan |   |   |    | 424-09 |
+| w   |   | hvær          | xDD | hver          |   | hwer            | hwer          |   |   |   |              | dan |   |   |    | 424-09 |
 | w   |   | dandeman      | xNC | dannemand     |   | dan(n)e man     | dan̅e man      |   |   |   |              | dan |   |   |    | 424-09 |
 | w   |   | sæghje        | xVB | sige          |   | sige            | ſıge          |   |   |   |              | dan |   |   |    | 424-09 |
 | w   |   | thær          | xAV | der           |   | ther            | theꝛ          |   |   |   |              | dan |   |   |    | 424-09 |
 | w   |   | uti           | xAP | udi           |   | wti             | wti           |   |   |   |              | dan |   |   |    | 424-09 |
 | w   |   | sanhet        | xNC | sandhed       |   | sandhed         | ſandhed       |   |   |   |              | dan |   |   |    | 424-09 |
 | w   |   | ok            | xCC | og            |   | oc              | oc            |   |   |   |              | dan |   |   |    | 424-09 |
-| w   |   | thæn          | xPD | deres         |   | ther(is)        | therꝭ         |   |   |   |              | dan |   |   |    | 424-09 |
+| w   |   | thæn          | xPE | deres         |   | ther(is)        | therꝭ         |   |   |   |              | dan |   |   |    | 424-09 |
 | w   |   | viterlikhet   | xNC | vitterlighed  |   | vitherlighed    | vıtherlıghed  |   |   |   |              | dan |   |   |    | 424-09 |
 | w   |   | sum           | xRP | som           |   | som             | ſo           |   |   |   |              | dan |   |   |    | 424-09 |
 | lm  |   |               |     |               |   |                 |               |   |   |   |              |     |   |   |    |        |
-| w   |   | thæn          | xPD | de            |   | the             | the           |   |   |   |              | dan |   |   |    | 424-10 |
+| w   |   | thæn          | xPE | de            |   | the             | the           |   |   |   |              | dan |   |   |    | 424-10 |
 | w   |   | vilje         | xVB | ville         |   | wille           | wille         |   |   |   |              | dan |   |   |    | 424-10 |
 | w   |   | andsvare      | xVB | ansvare       |   | andswar(e)      | andſwaꝛ      |   |   |   |              | dan |   |   |    | 424-10 |
 | w   |   | fore          | xAP | for           |   | for(e)          | foꝛ          |   |   |   |              | dan |   |   |    | 424-10 |
@@ -263,21 +263,21 @@
 | w   |   |               | xNP | Hoby          |   | hoby            | hobẏ          |   |   |   |              | dan |   |   |    | 424-11 |
 | PL  | e |               |     |               |   |                 |               |   |   |   |              |     |   |   |    |        |
 | w   |   | at            | xCS | at            |   | at              | at            |   |   |   |              | dan |   |   |    | 424-11 |
-| w   |   | han           | xPD | han           |   | han             | han           |   |   |   |              | dan |   |   |    | 424-11 |
+| w   |   | han           | xPE | han           |   | han             | han           |   |   |   |              | dan |   |   |    | 424-11 |
 | w   |   | skule         | xVB | skulle        |   | skulde          | ſkulde        |   |   |   |              | dan |   |   |    | 424-11 |
 | w   |   | til           | xAP | til           |   | tiil            | tııl          |   |   |   |              | dan |   |   |    | 424-11 |
-| w   |   | sik           | xPD | sig           |   | segh            | ſegh          |   |   |   |              | dan |   |   |    | 424-11 |
+| w   |   | sik           | xPE | sig           |   | segh            | ſegh          |   |   |   |              | dan |   |   |    | 424-11 |
 | w   |   | take          | xVB | tage          |   | tage            | tage          |   |   |   |              | dan |   |   |    | 424-11 |
 | n   |   |  11             |     | 11            |   | xi              | xı            |   |   |   |              | dan |   |   |    | 424-11 |
 | w   |   | dandeman      | xNC | dannemænd     |   | da(n)ne me(n)   | da̅ne me̅       |   |   |   |              | dan |   |   |    | 424-11 |
 | w   |   | granske       | xVB | granske       |   | grandske        | grandſke      |   |   |   |              | dan |   |   |    | 424-11 |
 | w   |   | ok            | xCC | og            |   | oc              | oc            |   |   |   |              | dan |   |   |    | 424-11 |
 | lm  |   |               |     |               |   |                 |               |   |   |   |              |     |   |   |    |        |
-| w   |   | thæn          | xPD | dem           |   | th(e)m          | thm̅           |   |   |   |              | dan |   |   |    | 424-12 |
+| w   |   | thæn          | xPE | dem           |   | th(e)m          | thm̅           |   |   |   |              | dan |   |   |    | 424-12 |
 | w   |   | bespyrje      | xVB | bespørge      |   | bespørge        | beſpøꝛge      |   |   |   |              | dan |   |   |    | 424-12 |
-| w   |   | hvær          | xPD | hver          |   | hwer            | hwer          |   |   |   |              | dan |   |   |    | 424-12 |
+| w   |   | hvær          | xDD | hver          |   | hwer            | hwer          |   |   |   |              | dan |   |   |    | 424-12 |
 | w   |   | mæth          | xAP | med           |   | met             | met           |   |   |   |              | dan |   |   |    | 424-12 |
-| w   |   | anner         | xPD | ander         |   | a(n)ner         | a̅neꝛ          |   |   |   |              | dan |   |   |    | 424-12 |
+| w   |   | anner         | xDD | ander         |   | a(n)ner         | a̅neꝛ          |   |   |   |              | dan |   |   |    | 424-12 |
 | w   |   | ok            | xCC | og            |   | oc              | oc            |   |   |   |              | dan |   |   |    | 424-12 |
 | w   |   | mæth          | xAP | med           |   | met             | met           |   |   |   |              | dan |   |   |    | 424-12 |
 | w   |   | flere         | xAJ | flere         |   | fler(er)        | fleꝛ         |   |   |   |              | dan |   |   |    | 424-12 |
@@ -290,9 +290,9 @@
 | w   |   | sæghje        | xVB | sige          |   | sige            | ſige          |   |   |   |              | dan |   |   |    | 424-12 |
 | w   |   | thær          | xAV | der           |   | th(e)r          | thꝛ          |   |   |   |              | dan |   |   |    | 424-12 |
 | w   |   | upa           | xAV | på            |   | pa              | pa            |   |   |   |              | dan |   |   |    | 424-12 |
-| w   |   | hva           | xPD | hvad          |   | hwad            | hwad          |   |   |   |              | dan |   |   |    | 424-12 |
+| w   |   | hva           | xPI | hvad          |   | hwad            | hwad          |   |   |   |              | dan |   |   |    | 424-12 |
 | lm  |   |               |     |               |   |                 |               |   |   |   |              |     |   |   |    |        |
-| w   |   | thæn          | xPD | dem           |   | th(e)m          | thm̅           |   |   |   |              | dan |   |   |    | 424-13 |
+| w   |   | thæn          | xPE | dem           |   | th(e)m          | thm̅           |   |   |   |              | dan |   |   |    | 424-13 |
 | w   |   | thær          | xAV | der           |   | ther            | ther          |   |   |   |              | dan |   |   |    | 424-13 |
 | w   |   | uti           | xAV | udi           |   | wti             | wti           |   |   |   |              | dan |   |   |    | 424-13 |
 | w   |   | san           | xAJ | sandest       |   | sa(n)nest       | ſa̅neſt        |   |   |   |              | dan |   |   |    | 424-13 |
@@ -312,9 +312,9 @@
 | w   |   | være          | xVB | være          |   | wær(e)          | wæꝛ          |   |   |   |              | dan |   |   |    | 424-14 |
 | w   |   | tha           | xAV | da            |   | Tha             | Tha           |   |   |   |              | dan |   |   |    | 424-14 |
 | w   |   | take          | xVB | tog           |   | tagh            | tagh          |   |   |   |              | dan |   |   |    | 424-14 |
-| w   |   | han           | xPD | han           |   | han             | han           |   |   |   |              | dan |   |   |    | 424-14 |
+| w   |   | han           | xPE | han           |   | han             | han           |   |   |   |              | dan |   |   |    | 424-14 |
 | w   |   | til           | xAP | til           |   | tiil            | tııl          |   |   |   |              | dan |   |   |    | 424-14 |
-| w   |   | sik           | xPD | sig           |   | segh            | ſegh          |   |   |   |              | dan |   |   |    | 424-14 |
+| w   |   | sik           | xPE | sig           |   | segh            | ſegh          |   |   |   |              | dan |   |   |    | 424-14 |
 | w   |   | thænne        | xDD | disse         |   | tesse           | teſſe         |   |   |   |              | dan |   |   |    | 424-14 |
 | w   |   | æfterskrive   | xVB | efterskrevne  |   | effth(skrefne)  | effthꝛᷠͤ       |   |   |   |              | dan |   |   |    | 424-14 |
 | PE  | b | MorJen003     |     |               |   |                 |               |   |   |   |              |     |   |   |    |        |
@@ -404,11 +404,11 @@
 | PL  | b |               |     |               |   |                 |               |   |   |   |              |     |   |   |    |        |
 | w   |   |               | xNP | Olstrup       |   | olsto(r)p       | olſtop       |   |   |   |              | dan |   |   |    | 424-17 |
 | PL  | e |               |     |               |   |                 |               |   |   |   |              |     |   |   |    |        |
-| w   |   | hvilik        | xPD | hvilke        |   | Huilke          | Huılke        |   |   |   |              | dan |   |   |    | 424-17 |
+| w   |   | hvilik        | xDD | hvilke        |   | Huilke          | Huılke        |   |   |   |              | dan |   |   |    | 424-17 |
 | w   |   | dandeman      | xNC | dannemænd     |   | da(n)ne me(n)   | da̅ne me̅       |   |   |   |              | dan |   |   |    | 424-17 |
 | w   |   | utgange       | xVB | udginge       |   | wdginge         | wdgınge       |   |   |   |              | dan |   |   |    | 424-17 |
 | w   |   | ok            | xCC | og            |   | oc              | oc            |   |   |   |              | dan |   |   |    | 424-17 |
-| w   |   | thæn          | xPD | dem           |   | th(e)m          | thm̅           |   |   |   |              | dan |   |   |    | 424-17 |
+| w   |   | thæn          | xPE | dem           |   | th(e)m          | thm̅           |   |   |   |              | dan |   |   |    | 424-17 |
 | w   |   | væl           | xAV | vel           |   | wel             | wel           |   |   |   |              | dan |   |   |    | 424-17 |
 | w   |   | berathe       | xVB | beråde        |   | berade          | berade        |   |   |   |              | dan |   |   |    | 424-17 |
 | w   |   | mæth          | xAP | med           |   | met             | met           |   |   |   |              | dan |   |   |    | 424-17 |
@@ -419,20 +419,20 @@
 | w   |   | inkome        | xVB | indkomme      |   | indko(m)me      | ındko̅me       |   |   |   |              | dan |   |   |    | 424-18 |
 | w   |   | gen           | xAV | ingen         |   | igen            | ıge          |   |   |   |              | dan |   |   |    | 424-18 |
 | w   |   | fore          | xAP | for           |   | for(e)          | foꝛ          |   |   |   |              | dan |   |   |    | 424-18 |
-| w   |   | vi            | xPD | os            |   | oss             | oſſ           |   |   |   |              | dan |   |   |    | 424-18 |
+| w   |   | vi            | xPE | os            |   | oss             | oſſ           |   |   |   |              | dan |   |   |    | 424-18 |
 | w   |   | ok            | xCC | og            |   | oc              | oc            |   |   |   |              | dan |   |   |    | 424-18 |
 | w   |   | al            | xAJ | alle          |   | alle            | alle          |   |   |   |              | dan |   |   |    | 424-18 |
 | w   |   | samdræktelik  | xAJ | samdrægtelige |   | samdrectelige   | ſamdrectelıge |   |   |   |              | dan |   |   |    | 424-18 |
 | w   |   | vitende       | xNC | vidende       |   | widende         | wıdende       |   |   |   |              | dan |   |   |    | 424-18 |
 | w   |   | upa           | xAP | på            |   | pa              | pa            |   |   |   |              | dan |   |   |    | 424-18 |
-| w   |   | thæn          | xPD | deres         |   | ther(is)        | theꝛꝭ         |   |   |   |              | dan |   |   |    | 424-18 |
+| w   |   | thæn          | xPE | deres         |   | ther(is)        | theꝛꝭ         |   |   |   |              | dan |   |   |    | 424-18 |
 | w   |   | goth          | xAJ | gode          |   | gode            | gode          |   |   |   |              | dan |   |   |    | 424-18 |
 | w   |   | tro           | xNC | tro           |   | tro             | tro           |   |   |   |              | dan |   |   |    | 424-18 |
 | w   |   | ok            | xCC | og            |   | oc              | oc            |   |   |   |              | dan |   |   |    | 424-18 |
 | w   |   | sanhet        | xNC | sandhed       |   | sandhed         | ſandhed       |   |   |   |              | dan |   |   |    | 424-18 |
 | lm  |   |               |     |               |   |                 |               |   |   |   |              |     |   |   |    |        |
 | w   |   | at            | xCS | at            |   | at              | at            |   |   |   |              | dan |   |   |    | 424-19 |
-| w   |   | thæn          | xPD | dem           |   | th(e)m          | thm̅           |   |   |   |              | dan |   |   |    | 424-19 |
+| w   |   | thæn          | xPE | dem           |   | th(e)m          | thm̅           |   |   |   |              | dan |   |   |    | 424-19 |
 | w   |   | æj            | xAV | ej            |   | ey              | ey            |   |   |   |              | dan |   |   |    | 424-19 |
 | w   |   | vitherlik     | xAJ | vitterligt    |   | witherligt      | wıtheꝛligt    |   |   |   |              | dan |   |   |    | 424-19 |
 | w   |   | være          | xVB | er            |   | er              | er            |   |   |   |              | dan |   |   |    | 424-19 |
@@ -440,11 +440,11 @@
 | w   |   | have          | xVB | have          |   | haffue          | haffue        |   |   |   |              | dan |   |   |    | 424-19 |
 | w   |   | æller         | xCC | eller         |   | eller           | eller         |   |   |   |              | dan |   |   |    | 424-19 |
 | w   |   | af            | xAP | af            |   | aff             | aff           |   |   |   |              | dan |   |   |    | 424-19 |
-| w   |   | noker         | xPD | nogen         |   | nogr(e)         | nogꝛ         |   |   |   |              | dan |   |   |    | 424-19 |
+| w   |   | noker         | xPI | nogen         |   | nogr(e)         | nogꝛ         |   |   |   |              | dan |   |   |    | 424-19 |
 | w   |   | spyrje        | xVB | spørge        |   | spørge          | ſpøꝛge        |   |   |   |              | dan |   |   |    | 424-19 |
 | w   |   | kunne         | xVB | kunne         |   | kun(n)e         | kun̅e          |   |   |   |              | dan |   |   |    | 424-19 |
 | w   |   | at            | xCS | at            |   | at              | at            |   |   |   |              | dan |   |   |    | 424-19 |
-| w   |   | thær          | xPD | der           |   | ther            | ther          |   |   |   |              | dan |   |   |    | 424-19 |
+| w   |   | thær          | xAV | der           |   | ther            | ther          |   |   |   |              | dan |   |   |    | 424-19 |
 | w   |   | have          | xVB | har           |   | haffuer         | haffueꝛ       |   |   |   |              | dan |   |   |    | 424-19 |
 | w   |   | være          | xVB | været         |   | wær(e)t         | wæꝛt         |   |   |   |              | dan |   |   |    | 424-19 |
 | lm  |   |               |     |               |   |                 |               |   |   |   |              |     |   |   |    |        |
@@ -463,8 +463,8 @@
 | w   |   |               | xNP | Lynde magle   |   | lynde maglæ     | lynde maglæ   |   |   |   |              | dan |   |   |    | 424-20 |
 | PL  | e |               |     |               |   |                 |               |   |   |   |              |     |   |   |    |        |
 | w   |   | æller         | xCC | eller         |   | eller           | eller         |   |   |   |              | dan |   |   |    | 424-20 |
-| w   |   | noker         | xPD | nogen         |   | noger           | noger         |   |   |   |              | dan |   |   |    | 424-20 |
-| w   |   | thæn          | xPD | deres         |   | ther(is)        | theꝛꝭ         |   |   |   |              | dan |   |   |    | 424-20 |
+| w   |   | noker         | xPI | nogen         |   | noger           | noger         |   |   |   |              | dan |   |   |    | 424-20 |
+| w   |   | thæn          | xPE | deres         |   | ther(is)        | theꝛꝭ         |   |   |   |              | dan |   |   |    | 424-20 |
 | lm  |   |               |     |               |   |                 |               |   |   |   |              |     |   |   |    |        |
 | w   |   | ræt           | xAJ | rette         |   | rette           | rette         |   |   |   |              | dan |   |   |    | 424-21 |
 | w   |   | tilligjelse   | xNC | tilliggelse   |   | tillig(else)    | tıllıgꝭͤ       |   |   |   |              | dan |   |   |    | 424-21 |
