@@ -42,7 +42,7 @@
 | :s: |        |           |     |            |   |                 |              |   |   |   |   |     |   |   |    |        |
 | pm  |     1r |           |     |            |   |                 |              |   |   |   |   |     |   |   |    |        |
 | lm  | 388-01 |           |     |            |   |                 |              |   |   |   |   |     |   |   |    |        |
-| w   |        | jak       | xPD | Jeg        |   | Jech            | Jech         |   |   |   |   | dan |   |   |    | 388-01 |
+| w   |        | jak       | xPE | Jeg        |   | Jech            | Jech         |   |   |   |   | dan |   |   |    | 388-01 |
 | PE  |      b | JakOlu003 |     |            |   |                 |              |   |   |   |   |     |   |   |    |        |
 | w   |        |           | xNP | Jep        |   | jeip            | ȷeıp         |   |   |   |   | dan |   |   |    | 388-01 |
 | w   |        |           | xNP | Olufsen    |   | olafss(øn)      | olafſ       |   |   |   |   | dan |   |   |    | 388-01 |
@@ -56,11 +56,11 @@
 | w   |        | vitherlik | xAJ | vitterligt |   | wid(er)licht    | wıdlıcht    |   |   |   |   | dan |   |   |    | 388-01 |
 | w   |        | mæth      | xAP | med        |   | m(et)           | mꝫ           |   |   |   |   | dan |   |   |    | 388-01 |
 | w   |        | thænne    | xDD | dette      |   | th(ette)        | thꝫͤ          |   |   |   |   | dan |   |   |    | 388-01 |
-| w   |        | min       | xPD | mit        |   | mit             | mıt          |   |   |   |   | dan |   |   |    | 388-01 |
-| w   |        | open      | xAJ | åben       |   | obne            | obne         |   |   |   |   | dan |   |   |    | 388-01 |
+| w   |        | min       | xDP | mit        |   | mit             | mıt          |   |   |   |   | dan |   |   |    | 388-01 |
+| w   |        | open      | xAJ | åbne       |   | obne            | obne         |   |   |   |   | dan |   |   |    | 388-01 |
 | w   |        | brev      | xNC | brev       |   | breff           | bꝛeff        |   |   |   |   | dan |   |   |    | 388-01 |
 | w   |        | at        | xCS | at         |   | at              | at           |   |   |   |   | dan |   |   |    | 388-01 |
-| w   |        | jak       | xPD | jeg        |   | Jegh            | Jegh         |   |   |   |   | dan |   |   |    | 388-01 |
+| w   |        | jak       | xPE | jeg        |   | Jegh            | Jegh         |   |   |   |   | dan |   |   |    | 388-01 |
 | lm  | 388-02 |           |     |            |   |                 |              |   |   |   |   |     |   |   |    |        |
 | w   |        | have      | xVB | havde      |   | hade            | hade         |   |   |   |   | dan |   |   |    | 388-02 |
 | w   |        | fange     | xVB | fanget     |   | fangit          | fangıt       |   |   |   |   | dan |   |   |    | 388-02 |
@@ -76,7 +76,7 @@
 | w   |        | i         | xAP | i          |   | i               | i            |   |   |   |   | dan |   |   |    | 388-02 |
 | w   |        |           | xNP | Clara      |   | clare           | claꝛe        |   |   |   |   | dan |   |   |    | 388-02 |
 | w   |        | kloster   | xNC | kloster    |   | closter         | cloſteꝛ      |   |   |   |   | dan |   |   |    | 388-02 |
-| w   |        | noker     | xPD | nogre      |   | nogre           | nogꝛe        |   |   |   |   | dan |   |   |    | 388-02 |
+| w   |        | noker     | xDD | nogre      |   | nogre           | nogꝛe        |   |   |   |   | dan |   |   |    | 388-02 |
 | lm  | 388-03 |           |     |            |   |                 |              |   |   |   |   |     |   |   |    |        |
 | w   |        | klenoth   | xNC | klenodie   |   | clenodia        | clenodıa     |   |   |   |   | lat |   |   |    | 388-03 |
 | w   |        | at        | xIM | at         |   | at              | at           |   |   |   |   | dan |   |   |    | 388-03 |
@@ -88,10 +88,10 @@
 | w   |        | silv      | xNC | sølv       |   | sølff           | ſølff        |   |   |   |   | dan |   |   |    | 388-03 |
 | w   |        | brev      | xNC | brev       |   | breff           | bꝛeff        |   |   |   |   | dan |   |   |    | 388-03 |
 | w   |        | ok        | xCC | og         |   | oc              | oc           |   |   |   |   | dan |   |   |    | 388-03 |
-| w   |        | anner     | xPD | anden      |   | a(n)nen         | a̅nen         |   |   |   |   | dan |   |   |    | 388-03 |
+| w   |        | anner     | xDD | anden      |   | a(n)nen         | a̅nen         |   |   |   |   | dan |   |   |    | 388-03 |
 | w   |        | boskap    | xNC | boskab     |   | boskap          | boſkap       |   |   |   |   | dan |   |   |    | 388-03 |
-| w   |        | hvilik    | xPD | hvilket    |   | hwilket         | hwılket      |   |   |   |   | dan |   |   |    | 388-03 |
-| w   |        | jak       | xPD | jeg        |   | jegh            | ȷegh         |   |   |   |   | dan |   |   |    | 388-03 |
+| w   |        | hvilik    | xPI | hvilket    |   | hwilket         | hwılket      |   |   |   |   | dan |   |   |    | 388-03 |
+| w   |        | jak       | xPE | jeg        |   | jegh            | ȷegh         |   |   |   |   | dan |   |   |    | 388-03 |
 | w   |        | have      | xVB | har        |   | haw(er)         | haw         |   |   |   |   | dan |   |   |    | 388-03 |
 | lm  | 388-04 |           |     |            |   |                 |              |   |   |   |   |     |   |   |    |        |
 | w   |        | nu        | xAV | nu         |   | nw              | nw           |   |   |   |   | dan |   |   |    | 388-04 |
@@ -104,20 +104,20 @@
 | w   |        | skyld     | xNC | skyld      |   | skyld           | ſkyld        |   |   |   |   | dan |   |   |    | 388-04 |
 | w   |        | ok        | xCC | og         |   | oc              | oc           |   |   |   |   | dan |   |   |    | 388-04 |
 | w   |        | thakke    | xVB | takker     |   | tacker          | tackeꝛ       |   |   |   |   | dan |   |   |    | 388-04 |
-| w   |        | jak       | xPD | jeg        |   | jegh            | ȷegh         |   |   |   |   | dan |   |   |    | 388-04 |
+| w   |        | jak       | xPE | jeg        |   | jegh            | ȷegh         |   |   |   |   | dan |   |   |    | 388-04 |
 | w   |        | thæn      | xAT | den        |   | th(e)n          | th̅n          |   |   |   |   | dan |   |   |    | 388-04 |
 | w   |        | goth      | xAJ | gode       |   | gode            | gode         |   |   |   |   | dan |   |   |    | 388-04 |
 | w   |        | jungfrue  | xNC | jomfru     |   | jw(n)cfr(v)     | ȷw̅cfꝛͮ        |   |   |   |   | dan |   |   |    | 388-04 |
 | lm  | 388-05 |           |     |            |   |                 |              |   |   |   |   |     |   |   |    |        |
 | w   |        | for       | xAP | fore       |   | fore            | foꝛe         |   |   |   |   | dan |   |   |    | 388-05 |
-| w   |        | sin       | xPD | sin        |   | syn             | ſyn          |   |   |   |   | dan |   |   |    | 388-05 |
+| w   |        | sin       | xDP | sin        |   | syn             | ſyn          |   |   |   |   | dan |   |   |    | 388-05 |
 | w   |        | umake     | xNC | umage      |   | vmaghe          | vmaghe       |   |   |   |   | dan |   |   |    | 388-05 |
 | w   |        | kærlikhet | xNC | kærlighed  |   | kerlichet       | keꝛlıchet    |   |   |   |   | dan |   |   |    | 388-05 |
 | w   |        | ok        | xCC | og         |   | oc              | oc           |   |   |   |   | dan |   |   |    | 388-05 |
 | w   |        | troskap   | xNC | troskab    |   | troeskap        | tꝛoeſkap     |   |   |   |   | dan |   |   |    | 388-05 |
 | w   |        | sum       | xRP | som        |   | som             | ſom          |   |   |   |   | dan |   |   |    | 388-05 |
-| w   |        | hun       | xPD | hun        |   | hwn             | hwn          |   |   |   |   | dan |   |   |    | 388-05 |
-| w   |        | jak       | xPD | mig        |   | migh            | mıgh         |   |   |   |   | dan |   |   |    | 388-05 |
+| w   |        | hun       | xPE | hun        |   | hwn             | hwn          |   |   |   |   | dan |   |   |    | 388-05 |
+| w   |        | jak       | xPE | mig        |   | migh            | mıgh         |   |   |   |   | dan |   |   |    | 388-05 |
 | w   |        | hær       | xAV | her        |   | hær             | hær          |   |   |   |   | dan |   |   |    | 388-05 |
 | w   |        | uti       | xAV | udi        |   | vdi             | vdi          |   |   |   |   | dan |   |   |    | 388-05 |
 | w   |        | bevise    | xVB | bevist     |   | beuist          | beuiſt       |   |   |   |   | dan |   |   |    | 388-05 |
@@ -125,14 +125,14 @@
 | w   |        | sva       | xAV | så         |   | swo             | ſwo          |   |   |   |   | dan |   |   |    | 388-05 |
 | lm  | 388-06 |           |     |            |   |                 |              |   |   |   |   |     |   |   |    |        |
 | w   |        | at        | xCS | at         |   | at              | at           |   |   |   |   | dan |   |   |    | 388-06 |
-| w   |        | jak       | xPD | jeg        |   | jegh            | ȷegh         |   |   |   |   | dan |   |   |    | 388-06 |
+| w   |        | jak       | xPE | jeg        |   | jegh            | ȷegh         |   |   |   |   | dan |   |   |    | 388-06 |
 | w   |        | late      | xVB | lader      |   | lader           | ladeꝛ        |   |   |   |   | dan |   |   |    | 388-06 |
-| w   |        | hun       | xPD | hende      |   | he(n)ne         | he̅ne         |   |   |   |   | dan |   |   |    | 388-06 |
+| w   |        | hun       | xPE | hende      |   | he(n)ne         | he̅ne         |   |   |   |   | dan |   |   |    | 388-06 |
 | w   |        | kvit      | xAJ | kvit       |   | qwit            | qwıt         |   |   |   |   | dan |   |   |    | 388-06 |
 | w   |        | lithigh   | xAJ | ledig      |   | ledigh          | ledıgh       |   |   |   |   | dan |   |   |    | 388-06 |
 | w   |        | ok        | xCC | og         |   | oc              | oc           |   |   |   |   | dan |   |   |    | 388-06 |
 | w   |        | løs       | xAJ | løs        |   | løøss           | løøſſ        |   |   |   |   | dan |   |   |    | 388-06 |
-| w   |        | hun       | xPD | hendes     |   | he(n)nes        | he̅ne        |   |   |   |   | dan |   |   |    | 388-06 |
+| w   |        | hun       | xPE | hendes     |   | he(n)nes        | he̅ne        |   |   |   |   | dan |   |   |    | 388-06 |
 | w   |        | abbetisse | xNC | abbetisse  |   | abbatisse       | abbatıſſe    |   |   |   |   | dan |   |   |    | 388-06 |
 | w   |        | ok        | xCC | og         |   | oc              | oc           |   |   |   |   | dan |   |   |    | 388-06 |
 | w   |        | al        | xAJ | alt        |   | alt             | alt          |   |   |   |   | dan |   |   |    | 388-06 |
@@ -147,7 +147,7 @@
 | w   |        | brev      | xNC | brev       |   | breff           | bꝛeff        |   |   |   |   | dan |   |   |    | 388-07 |
 | w   |        | ok        | xCC | og         |   | oc              | oc           |   |   |   |   | dan |   |   |    | 388-07 |
 | w   |        | boskap    | xNC | boskab     |   | boeskap         | boeſkap      |   |   |   |   | dan |   |   |    | 388-07 |
-| w   |        | ehva      | xPD | ihvad      |   | ehwat           | ehwat        |   |   |   |   | dan |   |   |    | 388-07 |
+| w   |        | ehva      | xPI | ihvad      |   | ehwat           | ehwat        |   |   |   |   | dan |   |   |    | 388-07 |
 | w   |        | thæn      | xPE | det        |   | th(et)          | thꝫ          |   |   |   |   | dan |   |   |    | 388-07 |
 | w   |        | hældst    | xAV | helst      |   | heldst          | heldſt       |   |   |   |   | dan |   |   |    | 388-07 |
 | w   |        | være      | xVB | er         |   | ær              | ær           |   |   |   |   | dan |   |   |    | 388-07 |
@@ -155,10 +155,10 @@
 | w   |        | nævne     | xVB | nævnes     |   | næffnes         | næffne      |   |   |   |   | dan |   |   |    | 388-07 |
 | w   |        | kunne     | xVB | kan        |   | kan             | kan          |   |   |   |   | dan |   |   |    | 388-07 |
 | w   |        | sum       | xRP | som        |   | som             | ſom          |   |   |   |   | dan |   |   |    | 388-07 |
-| w   |        | hun       | xPD | hun        |   | hwn             | hwn          |   |   |   |   | dan |   |   |    | 388-07 |
+| w   |        | hun       | xPE | hun        |   | hwn             | hwn          |   |   |   |   | dan |   |   |    | 388-07 |
 | w   |        | af        | xAP | af         |   | aff             | aff          |   |   |   |   | dan |   |   |    | 388-07 |
 | lm  | 388-08 |           |     |            |   |                 |              |   |   |   |   |     |   |   |    |        |
-| w   |        | jak       | xPD | mig        |   | migh            | migh         |   |   |   |   | dan |   |   |    | 388-08 |
+| w   |        | jak       | xPE | mig        |   | migh            | migh         |   |   |   |   | dan |   |   |    | 388-08 |
 | w   |        | i         | xAP | i          |   | i               | i            |   |   |   |   | dan |   |   |    | 388-08 |
 | w   |        | gøme      | xNC | gemme      |   | gø(m)mæ         | gø̅mæ         |   |   |   |   | dan |   |   |    | 388-08 |
 | w   |        | have      | xVB | har        |   | haw(er)         | haw         |   |   |   |   | dan |   |   |    | 388-08 |
@@ -166,8 +166,8 @@
 | w   |        | fran      | xAP | fran       |   | fraen           | fꝛaen        |   |   |   |   | dan |   |   |    | 388-08 |
 | w   |        | fyrst     | xAJ | første     |   | første          | føꝛſte       |   |   |   |   | dan |   |   |    | 388-08 |
 | w   |        | sinne     | xNC | sinde      |   | synæ            | ſynæ         |   |   |   |   | dan |   |   |    | 388-08 |
-| w   |        | jak       | xPD | jeg        |   | jegh            | ȷegh         |   |   |   |   | dan |   |   |    | 388-08 |
-| w   |        | hun       | xPD | hende      |   | he(n)næ         | he̅næ         |   |   |   |   | dan |   |   |    | 388-08 |
+| w   |        | jak       | xPE | jeg        |   | jegh            | ȷegh         |   |   |   |   | dan |   |   |    | 388-08 |
+| w   |        | hun       | xPE | hende      |   | he(n)næ         | he̅næ         |   |   |   |   | dan |   |   |    | 388-08 |
 | w   |        | thæn      | xPE | det        |   | th(et)          | thꝫ          |   |   |   |   | dan |   |   |    | 388-08 |
 | w   |        | til       | xAP | til        |   | till            | tıll         |   |   |   |   | dan |   |   |    | 388-08 |
 | w   |        | gøme      | xNC | gemme      |   | gø(m)mæ         | gø̅mæ         |   |   |   |   | dan |   |   |    | 388-08 |
@@ -178,9 +178,9 @@
 | lm  | 388-09 |           |     |            |   |                 |              |   |   |   |   |     |   |   |    |        |
 | w   |        | nu        | xAV | nu         |   | nw              | nw           |   |   |   |   | dan |   |   |    | 388-09 |
 | w   |        | for       | xAP | fore       |   | fore            | foꝛe         |   |   |   |   | dan |   |   |    | 388-09 |
-| w   |        | jak       | xPD | mig        |   | migh            | mıgh         |   |   |   |   | dan |   |   |    | 388-09 |
+| w   |        | jak       | xPE | mig        |   | migh            | mıgh         |   |   |   |   | dan |   |   |    | 388-09 |
 | w   |        | ok        | xCC | og         |   | oc              | oc           |   |   |   |   | dan |   |   |    | 388-09 |
-| w   |        | min       | xPD | mine       |   | mynæ            | mynæ         |   |   |   |   | dan |   |   |    | 388-09 |
+| w   |        | min       | xDP | mine       |   | mynæ            | mynæ         |   |   |   |   | dan |   |   |    | 388-09 |
 | w   |        | arving    | xNC | arvinge    |   | arffwinge       | aꝛffwinge    |   |   |   |   | dan |   |   |    | 388-09 |
 | w   |        | til       | xAP | til        |   | till            | tıll         |   |   |   |   | dan |   |   |    | 388-09 |
 | w   |        | evigh     | xAJ | evig       |   | ewigh           | ewıgh        |   |   |   |   | dan |   |   |    | 388-09 |
