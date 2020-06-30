@@ -42,7 +42,7 @@
 | :s: |        |                |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | pm  | 1r     |                |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | lm  | 444-01 |                |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
-| w   |        | vi             | xPD | Vi              |   | Wij                | Wıȷ             |       |   |   |                    | dan |   |   |   |          444-01 |
+| w   |        | vi             | xPE | Vi              |   | Wij                | Wıȷ             |       |   |   |                    | dan |   |   |   |          444-01 |
 | PE  | b      | RexFre001      |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | w   |        |                | xNP | Frederik        |   | frederich          | frederıch       |       |   |   |                    | dan |   |   |   |          444-01 |
 | PE  | e      | RexFre001      |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
@@ -105,21 +105,21 @@
 | w   |        | martyr         | xNC | martyres        |   | martiris           | martırı        |       |   |   |                    | lat |   |   |   |          444-03 |
 | w   |        | dagh           | xNC | dag             |   | dag                | dag             |       |   |   |                    | dan |   |   |   |          444-03 |
 | w   |        | uti            | xAP | udi             |   | wtij               | wtij            |       |   |   |                    | dan |   |   |   |          444-03 |
-| w   |        | var            | xPD | vor             |   | wor                | wor             |       |   |   |                    | dan |   |   |   |          444-03 |
+| w   |        | var            | xDP | vor             |   | wor                | wor             |       |   |   |                    | dan |   |   |   |          444-03 |
 | w   |        | stath          | xNC | stad            |   | Stad               | Stad            |       |   |   |                    | dan |   |   |   |          444-03 |
 | lm  | 444-04 |                |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | PL  | b      |                |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | w   |        |                |     | Roskilde        |   | Roskild            | Roſkıld         |       |   |   |                    | dan |   |   |   |          444-04 |
 | PL  | e      |                |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | w   |        | nærværende     | xAJ | nærværende      |   | neruerind(e)       | nerŭerın       |       |   |   |                    | dan |   |   |   |          444-04 |
-| w   |        | vi             | xPD | os              |   | oss                | o              |       |   |   |                    | dan |   |   |   |          444-04 |
+| w   |        | vi             | xPE | os              |   | oss                | o              |       |   |   |                    | dan |   |   |   |          444-04 |
 | w   |        | ælske          | xVB | elskede         |   | elsk(ethe)         | elꝭͤ            |       |   |   |                    | dan |   |   |   |          444-04 |
 | w   |        | hærre          | xNC | herr            |   | Her                | Her             |       |   |   |                    | dan |   |   |   |          444-04 |
 | PE  | b      | MogGøy001      |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | w   |        |                | xNP | Mogens          |   | Moens              | Moens           |       |   |   |                    | dan |   |   |   |          444-04 |
 | w   |        |                | xNP | Gøye            |   | gøye               | gøye            |       |   |   |                    | dan |   |   |   |          444-04 |
 | PE  | e      | MogGøy001      |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
-| w   |        | var            | xPD | vor             |   | wor                | wor             |       |   |   |                    | dan |   |   |   |          444-04 |
+| w   |        | var            | xDP | vor             |   | wor                | wor             |       |   |   |                    | dan |   |   |   |          444-04 |
 | w   |        | ok             | xCC | og              |   | og                 | og              |       |   |   |                    | dan |   |   |   |          444-04 |
 | PL  | b      |                |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | w   |        |                | xNP | Danmarks        |   | danmarck(is)       | danmarckꝭ       |       |   |   |                    | dan |   |   |   |          444-04 |
@@ -137,26 +137,26 @@
 | w   |        |                | xNP | Oluf            |   | oluff              | oluﬀ            |       |   |   |                    | dan |   |   |   |          444-05 |
 | w   |        |                | xNP | Melsen          |   | mels(øn)           | mel            |       |   |   |                    | dan |   |   |   |          444-05 |
 | PE  | e      | OluMel001      |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
-| w   |        | var            | xPD | vore            |   | wor(e)             | wor̅             |       |   |   |                    | dan |   |   |   |          444-05 |
+| w   |        | var            | xDP | vore            |   | wor(e)             | wor̅             |       |   |   |                    | dan |   |   |   |          444-05 |
 | w   |        | man            | xNC | mænd            |   | mend               | mend            |       |   |   |                    | dan |   |   |   |          444-05 |
 | w   |        | ok             | xCC | og              |   | oc                 | oc              |       |   |   |                    | dan |   |   |   |          444-05 |
 | w   |        | rath           | xNC | råd             |   | Raad               | Raad            |       |   |   |                    | dan |   |   |   |          444-05 |
 | w   |        | være           | xVB | var             |   | wor                | wor             |       |   |   |                    | dan |   |   |   |          444-05 |
 | w   |        | skikke         | xVB | skikket         |   | skickett           | ſkıckett        |       |   |   |                    | dan |   |   |   |          444-05 |
-| w   |        | vi             | xPD | os              |   | oss                | o              |       |   |   |                    | dan |   |   |   |          444-05 |
+| w   |        | vi             | xPE | os              |   | oss                | o              |       |   |   |                    | dan |   |   |   |          444-05 |
 | w   |        | ælske          | xVB | elskede         |   | elsk(ethe)         | elꝭͤ            |       |   |   |                    | dan |   |   |   |          444-05 |
 | PE  | b      | TønTøn001      |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | w   |        |                | xNP | Tønne           |   | Tønne              | Tønne           |       |   |   |                    | dan |   |   |   |          444-05 |
 | w   |        |                | xNP | Tønsen          |   | tønss(øn)          | tønſ           |       |   |   |                    | dan |   |   |   |          444-05 |
 | PE  | e      | TønTøn001      |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | lm  | 444-06 |                |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
-| w   |        | var            | xPD | vor             |   | wor                | wor             |       |   |   |                    | dan |   |   |   |          444-06 |
+| w   |        | var            | xDP | vor             |   | wor                | wor             |       |   |   |                    | dan |   |   |   |          444-06 |
 | w   |        | man            | xNC | mand            |   | mand               | mand            |       |   |   |                    | dan |   |   |   |          444-06 |
 | w   |        | ok             | xCC | og              |   | oc                 | oc              |       |   |   |                    | dan |   |   |   |          444-06 |
 | w   |        | thjanere       | xNC | tjener          |   | tiener             | tıener          |       |   |   |                    | dan |   |   |   |          444-06 |
 | w   |        | upa            | xAP | på              |   | paa                | paa             |       |   |   |                    | dan |   |   |   |          444-06 |
 | w   |        | thæn           | xAT | den             |   | th(e)n             | th̅n             |       |   |   |                    | dan |   |   |   |          444-06 |
-| w   |        | en             | xPD | ene             |   | ene                | ene             |       |   |   |                    | dan |   |   |   |          444-06 |
+| w   |        | en             | xPI | ene             |   | ene                | ene             |       |   |   |                    | dan |   |   |   |          444-06 |
 | w   |        | ok             | xCC | og              |   | oc                 | oc              |       |   |   |                    | dan |   |   |   |          444-06 |
 | w   |        | have           | xVB | havde           |   | haffde             | haﬀde           |       |   |   |                    | dan |   |   |   |          444-06 |
 | w   |        | i              | xAP | i               |   | i                  | ı               |       |   |   |                    | dan |   |   |   |          444-06 |
@@ -166,7 +166,7 @@
 | w   |        |                | xNP | Hans            |   | Hans               | Han            |       |   |   |                    | dan |   |   |   |          444-06 |
 | w   |        |                | xNP | Olsen           |   | ols(øn)            | ol             |       |   |   |                    | dan |   |   |   |          444-06 |
 | PE  | e      | HanOls003      |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
-| w   |        | var            | xPD | vor             |   | wor                | wor             |       |   |   |                    | dan |   |   |   |          444-06 |
+| w   |        | var            | xDP | vor             |   | wor                | wor             |       |   |   |                    | dan |   |   |   |          444-06 |
 | w   |        | ok             | xCC | og              |   | oc                 | oc              |       |   |   |                    | dan |   |   |   |          444-06 |
 | w   |        | krone          | xNC | kronens         |   | kronens            | kronen         |       |   |   |                    | dan |   |   |   |          444-06 |
 | w   |        | bonde          | xNC | bonde           |   | bvnde              | bvnde           |       |   |   |                    | dan |   |   |   |          444-06 |
@@ -175,7 +175,7 @@
 | w   |        |                | xNP | linde           |   | lyndhe             | lyndhe          |       |   |   |                    | dan |   |   |   |          444-07 |
 | w   |        | upa            | xAP | på              |   | paa                | paa             |       |   |   |                    | dan |   |   |   |          444-07 |
 | w   |        | thæn           | xAT | den             |   | then(n)            | then̅            |       |   |   |                    | dan |   |   |   |          444-07 |
-| w   |        | anner          | xPD | anden           |   | andh(e)n           | andh̅n           |       |   |   |                    | dan |   |   |   |          444-07 |
+| w   |        | anner          | xDD | anden           |   | andh(e)n           | andh̅n           |       |   |   |                    | dan |   |   |   |          444-07 |
 | w   |        | sithe          | xNC | side            |   | sidhe              | ſıdhe           |       |   |   |                    | dan |   |   |   |          444-07 |
 | w   |        | for            | xAP | for             |   | for                | for             |       |   |   |                    | dan |   |   |   |          444-07 |
 | w   |        | en             | xAT | et              |   | et                 | et              |       |   |   |                    | dan |   |   |   |          444-07 |
@@ -201,20 +201,20 @@
 | w   |        | hæreth         | xNC | herred          |   | h(er)ret           | hret           |       |   |   |                    | dan |   |   |   |          444-08 |
 | PL  | e      |                |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | w   |        | have           | xVB | havde           |   | haffde             | haﬀde           |       |   |   |                    | dan |   |   |   |          444-08 |
-| w   |        | han            | xPD | ham             |   | hanno(m)           | hanno̅           |       |   |   |                    | dan |   |   |   |          444-08 |
+| w   |        | han            | xPE | hannem             |   | hanno(m)           | hanno̅           |       |   |   |                    | dan |   |   |   |          444-08 |
 | w   |        | tilfinne       | xVB | tilfundet       |   | tiilfvndet         | tıılfvndet      |       |   |   |                    | dan |   |   |   |          444-08 |
 | w   |        | have           | xVB | havde           |   | haffde             | haﬀde           |       |   |   |                    | dan |   |   |   |          444-08 |
 | w   |        | for            | xAP | for             |   | for                | for             |       |   |   |                    | dan |   |   |   |          444-08 |
 | w   |        | thæn           | xAT | den             |   | th(e)n             | th̅n             |       |   |   |                    | dan |   |   |   |          444-08 |
 | w   |        | brist          | xNC | brist           |   | brøst              | brøﬅ            |       |   |   |                    | dan |   |   |   |          444-08 |
-| w   |        | han            | xPD | han             |   | hand               | hand            |       |   |   |                    | dan |   |   |   |          444-08 |
+| w   |        | han            | xPE | han             |   | hand               | hand            |       |   |   |                    | dan |   |   |   |          444-08 |
 | w   |        | sæghje         | xVB | sagde           |   | sagde              | ſagde           |       |   |   |                    | dan |   |   |   |          444-08 |
-| w   |        | sik            | xPD | sig             |   | seg                | ſeg             |       |   |   |                    | dan |   |   |   |          444-08 |
+| w   |        | sik            | xPE | sig             |   | seg                | ſeg             |       |   |   |                    | dan |   |   |   |          444-08 |
 | w   |        | at             | xIM | at              |   | att                | att             |       |   |   |                    | dan |   |   |   |          444-08 |
 | w   |        | have           | xVB | have            |   | haffue             | haffŭe          |       |   |   |                    | dan |   |   |   |          444-08 |
 | lm  | 444-09 |                |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | w   |        | i              | xAP | i               |   | i                  | ı               |       |   |   |                    | dan |   |   |   |          444-09 |
-| w   |        | sin            | xPD | sit             |   | sit                | ſıt             |       |   |   |                    | dan |   |   |   |          444-09 |
+| w   |        | sin            | xDP | sit             |   | sit                | ſıt             |       |   |   |                    | dan |   |   |   |          444-09 |
 | w   |        | ræt            | xAJ | ret             |   | rett               | rett            |       |   |   |                    | dan |   |   |   |          444-09 |
 | w   |        | mal            | xNC | måls            |   | mollss             | moll           |       |   |   |                    | dan |   |   |   |          444-09 |
 | w   |        | jorth          | xNC | jord            |   | iord               | ıord            |       |   |   |                    | dan |   |   |   |          444-09 |
@@ -223,9 +223,9 @@
 | w   |        | lind           | xNC | linde           |   | linde              | linde           |       |   |   |                    | dan |   |   |   |          444-09 |
 | w   |        | mark           | xNC | mark            |   | marck              | marck           |       |   |   |                    | dan |   |   |   |          444-09 |
 | w   |        | sum            | xRP | som             |   | som                | ſo             |       |   |   |                    | dan |   |   |   |          444-09 |
-| w   |        | han            | xPD | han             |   | hand               | hand            |       |   |   |                    | dan |   |   |   |          444-09 |
+| w   |        | han            | xPE | han             |   | hand               | hand            |       |   |   |                    | dan |   |   |   |          444-09 |
 | w   |        | for            | xAP | for             |   | for                | for             |       |   |   |                    | dan |   |   |   |          444-09 |
-| w   |        | vi             | xPD | os              |   | oss                | o              |       |   |   |                    | dan |   |   |   |          444-09 |
+| w   |        | vi             | xPE | os              |   | oss                | o              |       |   |   |                    | dan |   |   |   |          444-09 |
 | w   |        | bevise         | xVB | bevist          |   | beuist             | beŭiﬅ           |       |   |   |                    | dan |   |   |   |          444-09 |
 | w   |        | mæth           | xAP | med             |   | mett               | mett            |       |   |   |                    | dan |   |   |   |          444-09 |
 | w   |        | en             | xAT | et              |   | et                 | et              |       |   |   |                    | dan |   |   |   |          444-09 |
@@ -271,7 +271,7 @@
 | lm  | 444-12 |                |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | w   |        | sva            | xAV | så              |   | saa                | ſaa             |       |   |   |                    | dan |   |   |   |          444-12 |
 | w   |        | længe          | xAV | længe           |   | lenghe             | lenghe          |       |   |   |                    | dan |   |   |   |          444-12 |
-| w   |        | noker          | xPD | noger           |   | noger              | noger           |       |   |   |                    | dan |   |   |   |          444-12 |
+| w   |        | noker          | xDD | noger           |   | noger              | noger           |       |   |   |                    | dan |   |   |   |          444-12 |
 | w   |        | man            | xNC | mand            |   | man(n)d            | man̅d            |       |   |   |                    | dan |   |   |   |          444-12 |
 | w   |        | længe          | xAV | længst          |   | lengst             | lengﬅ           |       |   |   |                    | dan |   |   |   |          444-12 |
 | w   |        | minde          | xVB | minde           |   | mynd(e)            | myn            |       |   |   |                    | dan |   |   |   |          444-12 |
@@ -279,7 +279,7 @@
 | w   |        | ok             | xCC | og              |   | oc                 | oc              |       |   |   |                    | dan |   |   |   |          444-12 |
 | w   |        | fyrst          | xAV | først           |   | forst              | forﬅ            |       |   |   |                    | dan |   |   |   |          444-12 |
 | w   |        | for            | xAP | fore            |   | for(e)             | for̅             |       |   |   |                    | dan |   |   |   |          444-12 |
-| w   |        | vi             | xPD | os              |   | oss                | o              |       |   |   |                    | dan |   |   |   |          444-12 |
+| w   |        | vi             | xPE | os              |   | oss                | o              |       |   |   |                    | dan |   |   |   |          444-12 |
 | w   |        | i              | xAP | i               |   | i                  | ı               |       |   |   |                    | dan |   |   |   |          444-12 |
 | w   |        | ræt            | xAJ | rette           |   | rette              | rette           |       |   |   |                    | dan |   |   |   |          444-12 |
 | w   |        | lægje          | xVB | lagde           |   | lagdhe             | lagdhe          |       |   |   |                    | dan |   |   |   |          444-12 |
@@ -317,9 +317,9 @@
 | w   |        | i              | xAP | i               |   | i                  | ı               |       |   |   |                    | dan |   |   |   |          444-14 |
 | w   |        |                | xNP | Roskilde        |   | Roskild            | Roıld          |       |   |   |                    | dan |   |   |   |          444-14 |
 | w   |        | for            | xAP | for             |   | for                | for             |       |   |   |                    | dan |   |   |   |          444-14 |
-| w   |        | sin            | xPD | sine            |   | sine               | ſıne            |       |   |   |                    | dan |   |   |   |          444-14 |
+| w   |        | sin            | xDP | sine            |   | sine               | ſıne            |       |   |   |                    | dan |   |   |   |          444-14 |
 | w   |        | ok             | xCC | og              |   | oc                 | oc              |       |   |   |                    | dan |   |   |   |          444-14 |
-| w   |        | sin            | xPD | sine            |   | sine               | ſıne            |       |   |   |                    | dan |   |   |   |          444-14 |
+| w   |        | sin            | xDP | sine            |   | sine               | ſıne            |       |   |   |                    | dan |   |   |   |          444-14 |
 | w   |        | forældre       | xNC | forældres       |   | forelders          | forelder       |       |   |   |                    | dan |   |   |   |          444-14 |
 | w   |        | sjal           | xNC | sjæle           |   | sielle             | ſielle          |       |   |   |                    | dan |   |   |   |          444-14 |
 | w   |        | ok             | xCC | og              |   | Oc                 | Oc              |       |   |   |                    | dan |   |   |   |          444-14 |
@@ -360,7 +360,7 @@
 | w   |        | same           | xAJ | samme           |   | sa(m)me            | ſa̅me            |       |   |   |                    | dan |   |   |   |          444-16 |
 | w   |        | tith           | xNC | tid             |   | tiid               | tiid            |       |   |   |                    | dan |   |   |   |          444-16 |
 | w   |        | for            | xAP | for             |   | for                | for             |       |   |   |                    | dan |   |   |   |          444-16 |
-| w   |        | vi             | xPD | os              |   | oss                | o              |       |   |   |                    | dan |   |   |   |          444-16 |
+| w   |        | vi             | xPE | os              |   | oss                | o              |       |   |   |                    | dan |   |   |   |          444-16 |
 | w   |        | til            | xAV | til             |   | tiill              | tııll           |       |   |   |                    | dan |   |   |   |          444-16 |
 | lm  | 444-17 |                |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | w   |        | sta            | xVB | stod            |   | stode              | ﬅode            |       |   |   |                    | dan |   |   |   |          444-17 |
@@ -374,7 +374,7 @@
 | w   |        | same           | xAJ | samme           |   | sam(m)e            | ſam̅e            |       |   |   |                    | dan |   |   |   |          444-17 |
 | w   |        | tith           | xNC | tid             |   | tiid               | tııd            |       |   |   |                    | dan |   |   |   |          444-17 |
 | w   |        | upa            | xAP | på              |   | paa                | paa             |       |   |   |                    | dan |   |   |   |          444-17 |
-| w   |        | bathe          | xPD | både            |   | bode               | bode            |       |   |   |                    | dan |   |   |   |          444-17 |
+| w   |        | bathe          | xDD | både            |   | bode               | bode            |       |   |   |                    | dan |   |   |   |          444-17 |
 | w   |        | sithe          | xNC | sider           |   | siidh(e)r          | ſiidh̅ꝛ          |       |   |   |                    | dan |   |   |   |          444-17 |
 | w   |        | mællem         | xAP | imellem         |   | emellom            | emello         |       |   |   |                    | dan |   |   |   |          444-17 |
 | w   |        | løpe           | xVB | løbe            |   | løbe               | løbe            |       |   |   |                    | dan |   |   |   |          444-17 |
@@ -395,7 +395,7 @@
 | w   |        | tilstæthe      | xAV | tilstede        |   | tilstede           | tılﬅede         |       |   |   |                    | dan |   |   |   |          444-18 |
 | w   |        | være           | xVB | var             |   | wor                | wor             |       |   |   |                    | dan |   |   |   |          444-18 |
 | w   |        | varthe         | xVB | vorde           |   | Wortt              | Wortt           |       |   |   |                    | dan |   |   |   |          444-18 |
-| w   |        | thær           | xPD | der             |   | th(e)r             | th̅ꝛ             |       |   |   |                    | dan |   |   |   |          444-18 |
+| w   |        | thær           | xAV | der             |   | th(e)r             | th̅ꝛ             |       |   |   |                    | dan |   |   |   |          444-18 |
 | lm  | 444-19 |                |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | w   |        | sva            | xAV | så              |   | saa                | ſaa             |       |   |   |                    | dan |   |   |   |          444-19 |
 | w   |        | upa            | xAP | på              |   | paa                | paa             |       |   |   |                    | dan |   |   |   |          444-19 |
@@ -413,14 +413,14 @@
 | w   |        |                | xNP | Clare           |   | klar(e)            | klar̅            |       |   |   |                    | dan |   |   |   |          444-19 |
 | w   |        | kloster        | xNC | kloster         |   | closter            | cloﬅer          |       |   |   |                    | dan |   |   |   |          444-19 |
 | w   |        | sum            | xCS | som             |   | som                | ſo             |       |   |   |                    | dan |   |   |   |          444-19 |
-| w   |        | hun            | xPD | hun             |   | hv(n)              | hv̅              |       |   |   |                    | dan |   |   |   |          444-19 |
+| w   |        | hun            | xPE | hun             |   | hv(n)              | hv̅              |       |   |   |                    | dan |   |   |   |          444-19 |
 | w   |        | af             | xAP | af              |   | aff                | aﬀ              |       |   |   |                    | dan |   |   |   |          444-19 |
 | lm  | 444-20 |                |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | w   |        | areldstith     | xNC | arilds tid      |   | ariltztid          | arıltztıd       |       |   |   | lemma areld(s)tith | dan |   |   |   |          444-20 |
 | w   |        | være           | xVB | været           |   | wærett             | wærett          |       |   |   |                    | dan |   |   |   |          444-20 |
 | w   |        | have           | xVB | har             |   | haffuer            | haffuer         |       |   |   |                    | dan |   |   |   |          444-20 |
 | w   |        | ok             | xCC | og              |   | Oc                 | Oc              |       |   |   |                    | dan |   |   |   |          444-20 |
-| w   |        | hvær           | xPD | hvis            |   | hues               | hue            |       |   |   |                    | dan |   |   |   |          444-20 |
+| w   |        | hvær           | xPI | hvis            |   | hues               | hue            |       |   |   |                    | dan |   |   |   |          444-20 |
 | w   |        | brist          | xNC | brist           |   | brost              | broſt           |       |   |   |                    | dan |   |   |   |          444-20 |
 | w   |        | fornævnd       | xAJ | fornævnte       |   | for(nefnde)        | forᷠͤ             |       |   |   |                    | dan |   |   |   |          444-20 |
 | PE  | b      |                |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
@@ -429,17 +429,17 @@
 | PE  | e      |                |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | w   |        | have           | xVB | har             |   | haffuer            | haﬀuer          |       |   |   |                    | dan |   |   |   |          444-20 |
 | w   |        | i              | xAP | i               |   | i                  | ı               |       |   |   |                    | dan |   |   |   |          444-20 |
-| w   |        | sin            | xPD | sit             |   | sith               | ſıth            |       |   |   |                    | dan |   |   |   |          444-20 |
+| w   |        | sin            | xDP | sit             |   | sith               | ſıth            |       |   |   |                    | dan |   |   |   |          444-20 |
 | w   |        | mal            | xNC | mål             |   | moll               | moll            |       |   |   |                    | dan |   |   |   |          444-20 |
 | w   |        | skule          | xVB | skal            |   | skall              | ſkall           |       |   |   |                    | dan |   |   |   |          444-20 |
-| w   |        | han            | xPD | han             |   | hand               | hand            |       |   |   |                    | dan |   |   |   |          444-20 |
+| w   |        | han            | xPE | han             |   | hand               | hand            |       |   |   |                    | dan |   |   |   |          444-20 |
 | lm  | 444-21 |                |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | w   |        | tale           | xVB | tale            |   | talle              | talle           |       |   |   |                    | dan |   |   |   |          444-21 |
 | w   |        | al             | xAJ | alle            |   | alle               | alle            |       |   |   |                    | dan |   |   |   |          444-21 |
 | w   |        | lotshærre      | xNC | lodsherrer      |   | lotzer(r)er(e)     | lotzer̅er̅        |       |   |   | ?                  | dan |   |   |   |          444-21 |
 | w   |        | til            | xAP | til             |   | till               | tıll            |       |   |   |                    | dan |   |   |   |          444-21 |
 | w   |        | um             | xCS | om              |   | om                 | o              |       |   |   |                    | dan |   |   |   |          444-21 |
-| w   |        | han            | xPD | hannem             |   | hanno(m)           | hanno̅           |       |   |   |                    | dan |   |   |   |          444-21 |
+| w   |        | han            | xPE | hannem             |   | hanno(m)           | hanno̅           |       |   |   |                    | dan |   |   |   |          444-21 |
 | w   |        | ække           | xAV | ikke            |   | ycke               | ycke            |       |   |   |                    | dan |   |   |   |          444-21 |
 | w   |        | nøghje         | xVB | nøjes           |   | nog(is)            | nogꝭ            |       |   |   |                    | dan |   |   |   |          444-21 |
 | w   |        | give           | xVB | givet           |   | Giffuet            | Giffuet         |       |   |   |                    | dan |   |   |   |          444-21 |
@@ -452,7 +452,7 @@
 | w   |        | sta            | xVB | står            |   | stor(e)            | ﬅor̅             |       |   |   |                    | dan |   |   |   |          444-21 |
 | lm  | 444-22 |                |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | w   |        | under          | xAP | under           |   | Wnder              | Wnder           |       |   |   |                    | dan |   |   |   |          444-22 |
-| w   |        | var            | xPD | vort            |   | Wort               | Wort            |       |   |   |                    | dan |   |   |   |          444-22 |
+| w   |        | var            | xDP | vort            |   | Wort               | Wort            |       |   |   |                    | dan |   |   |   |          444-22 |
 | w   |        | signet         | xNC | signet          |   | Signet(is)         | Sıgnetꝭ         |       |   |   |                    | dan |   |   |   |          444-22 |
 | lm  | 444-23 |                |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | ad  | b      |                |     |                 |   |                    |                 | plica |   |   |                    |     |   |   |   |                 |
