@@ -42,7 +42,7 @@
 | :s: |        |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |
 | pm  | 1r     |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |
 | lm  | 412-01 |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |
-| w   |        | vi          | xPD | vi           |   | Wij                  | Wij             |   |   |   |                 | dan |   |   |    | 412-01 |
+| w   |        | vi          | xPE | vi           |   | Wij                  | Wij             |   |   |   |                 | dan |   |   |    | 412-01 |
 | PE  | b      | OluMor001   |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |
 | w   |        |             | xNP | Oluf         |   | Olaff                | Olaff           |   |   |   |                 | dan |   |   |    | 412-01 |
 | w   |        |             | xNP | Mortensen    |   | mortenss(øn)         | moꝛtenſ        |   |   |   |                 | dan |   |   |    | 412-01 |
@@ -59,7 +59,7 @@
 | w   |        | vitherlik   | xAJ | vitterligt   |   | wid(er)licht         | wıdlıcht       |   |   |   |                 | dan |   |   |    | 412-01 |
 | w   |        | al          | xAJ | alle         |   | alle                 | alle            |   |   |   |                 | dan |   |   |    | 412-01 |
 | w   |        | at          | xCS | at           |   | at                   | at              |   |   |   |                 | dan |   |   |    | 412-01 |
-| w   |        | vi          | xPD | vi           |   | wij                  | wij             |   |   |   |                 | dan |   |   |    | 412-01 |
+| w   |        | vi          | xPE | vi           |   | wij                  | wij             |   |   |   |                 | dan |   |   |    | 412-01 |
 | w   |        | have        | xVB | have         |   | haue                 | haue            |   |   |   |                 | dan |   |   |    | 412-01 |
 | w   |        | unne        | xVB | undt         |   | vnt                  | vnt             |   |   |   |                 | dan |   |   |    | 412-01 |
 | w   |        | ok          | xCC | og           |   | oc                   | oc              |   |   |   |                 | dan |   |   |    | 412-01 |
@@ -96,7 +96,7 @@
 | PE  | e      | MetXxx001   |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |
 | lm  | 412-03 |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |
 | w   |        | sum         | xRP | som          |   | som                  | ſom             |   |   |   |                 | dan |   |   |    | 412-03 |
-| w   |        | han         | xPD | han          |   | ha(n)                | ha̅              |   |   |   |                 | dan |   |   |    | 412-03 |
+| w   |        | han         | xPE | han          |   | ha(n)                | ha̅              |   |   |   |                 | dan |   |   |    | 412-03 |
 | w   |        | nu          | xAV | nu           |   | nw                   | nw              |   |   |   |                 | dan |   |   |    | 412-03 |
 | w   |        | have        | xVB | haver          |   | hau(er)              | hau            |   |   |   |                 | dan |   |   |    | 412-03 |
 | w   |        | en          | xNA | en           |   | en                   | en              |   |   |   |                 | dan |   |   |    | 412-03 |
@@ -105,7 +105,7 @@
 | w   |        | thær        | xAV | der          |   | th(e)r               | thꝛ            |   |   |   |                 | dan |   |   |    | 412-03 |
 | w   |        | samestaths  | xAV | sammesteds   |   | sa(m)mesteds         | ſa̅meſted       |   |   |   |                 | dan |   |   |    | 412-03 |
 | w   |        | sum         | xRP | som          |   | som                  | ſom             |   |   |   |                 | dan |   |   |    | 412-03 |
-| w   |        | thæn        | xPD | de           |   | the                  | the             |   |   |   |                 | dan |   |   |    | 412-03 |
+| w   |        | thæn        | xPE | de           |   | the                  | the             |   |   |   |                 | dan |   |   |    | 412-03 |
 | w   |        | nu          | xAV | nu           |   | nw                   | nw              |   |   |   |                 | dan |   |   |    | 412-03 |
 | w   |        | uti         | xAV | udi          |   | vdi                  | vdi             |   |   |   |                 | dan |   |   |    | 412-03 |
 | w   |        | bo          | xVB | bo           |   | boo                  | boo             |   |   |   |                 | dan |   |   |    | 412-03 |
@@ -123,7 +123,7 @@
 | w   |        | vat         | xAJ | vådt         |   | waat                 | waat            |   |   |   |                 | dan |   |   |    | 412-04 |
 | w   |        | ok          | xCC | og           |   | oc                   | oc              |   |   |   |                 | dan |   |   |    | 412-04 |
 | w   |        | thyr        | xAJ | tørt         |   | thywrt               | thywꝛt          |   |   |   |                 | dan |   |   |    | 412-04 |
-| w   |        | ænge        | xPD | ingtet        |   | enchtet              | enchtet         |   |   |   |                 | dan |   |   |    | 412-04 |
+| w   |        | ænge        | xPI | ingtet        |   | enchtet              | enchtet         |   |   |   |                 | dan |   |   |    | 412-04 |
 | w   |        | undentaken  | xAJ | undentaget     |   | vndentaghit          | vndentaghıt     |   |   |   |                 | dan |   |   |    | 412-04 |
 | w   |        | ok          | xCC | og           |   | Oc                   | Oc              |   |   |   |                 | dan |   |   |    | 412-04 |
 | w   |        | thær        | xAV | der          |   | th(e)r               | thꝛ            |   |   |   |                 | dan |   |   |    | 412-04 |
@@ -151,19 +151,19 @@
 | w   |        | behalde     | xVB | beholde      |   | beholde              | beholde         |   |   |   |                 | dan |   |   |    | 412-05 |
 | w   |        | sva         | xAV | så           |   | swo                  | ſwo             |   |   |   |                 | dan |   |   | =  | 412-05 |
 | w   |        | længe       | xAV | længe        |   | lenge                | lenge           |   |   |   |                 | dan |   |   | == | 412-05 |
-| w   |        | thæn        | xPD | de           |   | the                  | the             |   |   |   |                 | dan |   |   |    | 412-05 |
-| w   |        | bathe       | xPD | både         |   | bode                 | bode            |   |   |   |                 | dan |   |   |    | 412-05 |
+| w   |        | thæn        | xAT | de           |   | the                  | the             |   |   |   |                 | dan |   |   |    | 412-05 |
+| w   |        | bathe       | xPI | både         |   | bode                 | bode            |   |   |   |                 | dan |   |   |    | 412-05 |
 | w   |        | leve        | xVB | leve         |   | leffue               | leffue          |   |   |   |                 | dan |   |   |    | 412-05 |
 | w   |        | thæn        | xAT | den          |   | th(e)n               | thn̅             |   |   |   |                 | dan |   |   |    | 412-05 |
-| w   |        | en          | xPD | ene          |   | enæ                  | enæ             |   |   |   |                 | dan |   |   |    | 412-05 |
+| w   |        | en          | xPI | ene          |   | enæ                  | enæ             |   |   |   |                 | dan |   |   |    | 412-05 |
 | w   |        | æfter       | xAP | efter        |   | efft(er)             | efft           |   |   |   |                 | dan |   |   |    | 412-05 |
 | w   |        | thæn        | xAT | den          |   | th(e)n               | thn̅             |   |   |   |                 | dan |   |   |    | 412-05 |
-| w   |        | anner       | xPD | anden        |   | a(n)ne(n)            | a̅ne̅             |   |   |   |                 | dan |   |   |    | 412-05 |
+| w   |        | anner       | xPI | anden        |   | a(n)ne(n)            | a̅ne̅             |   |   |   |                 | dan |   |   |    | 412-05 |
 | w   |        | i           | xAP | i            |   | J                    | J               |   |   |   |                 | dan |   |   |    | 412-05 |
 | w   |        | sva         | xAV | så           |   | swo                  | ſwo             |   |   |   |                 | dan |   |   |    | 412-05 |
 | w   |        | mate        | xNC | måde         |   | made                 | made            |   |   |   |                 | dan |   |   |    | 412-05 |
 | w   |        | at          | xCS | at           |   | at                   | at              |   |   |   |                 | dan |   |   |    | 412-05 |
-| w   |        | thæn        | xPD | de           |   | the                  | the             |   |   |   |                 | dan |   |   |    | 412-05 |
+| w   |        | thæn        | xPE | de           |   | the                  | the             |   |   |   |                 | dan |   |   |    | 412-05 |
 | w   |        | skule       | xVB | skulle       |   | skule                | ſkule           |   |   |   |                 | dan |   |   |    | 412-05 |
 | w   |        | garth       | xNC | gården       |   | garde(n)             | gaꝛde̅           |   |   |   |                 | dan |   |   |    | 412-05 |
 | w   |        | bygje       | xVB | bygge        |   | bygge                | bygge           |   |   |   |                 | dan |   |   |    | 412-05 |
@@ -178,12 +178,12 @@
 | w   |        | mate        | xNC | måde         |   | made                 | made            |   |   |   |                 | dan |   |   |    | 412-06 |
 | w   |        | halde       | xVB | holde        |   | holde                | holde           |   |   |   |                 | dan |   |   |    | 412-06 |
 | w   |        | æfter       | xAP | efter        |   | efft(er)             | efft           |   |   |   |                 | dan |   |   |    | 412-06 |
-| w   |        | thæn        | xPD | deres        |   | th(e)rr(is)          | thrrꝭ          |   |   |   |                 | dan |   |   |    | 412-06 |
+| w   |        | thæn        | xPE | deres        |   | th(e)rr(is)          | thrrꝭ          |   |   |   |                 | dan |   |   |    | 412-06 |
 | w   |        | formughe    | xNC | formue       |   | formwe               | foꝛmwe          |   |   |   |                 | dan |   |   |    | 412-06 |
 | w   |        | ok          | xCC | og           |   | oc                   | oc              |   |   |   |                 | dan |   |   |    | 412-06 |
 | w   |        | skule       | xVB | skulle       |   | skule                | ſkule           |   |   |   |                 | dan |   |   |    | 412-06 |
 | w   |        | give        | xVB | give         |   | giffue               | giffue          |   |   |   |                 | dan |   |   |    | 412-06 |
-| w   |        | vi          | xPD | os           |   | oss                  | oſſ             |   |   |   |                 | dan |   |   |    | 412-06 |
+| w   |        | vi          | xPE | os           |   | oss                  | oſſ             |   |   |   |                 | dan |   |   |    | 412-06 |
 | w   |        | ok          | xCC | og           |   | oc                   | oc              |   |   |   |                 | dan |   |   |    | 412-06 |
 | w   |        | var         | xDP | vore         |   | wore                 | woꝛe            |   |   |   |                 | dan |   |   |    | 412-06 |
 | w   |        | æfterkomere | xNC | efterkommere |   | efftekome(re)        | efftekome      |   |   |   |                 | dan |   |   |    | 412-06 |
@@ -228,7 +228,7 @@
 | PL  | b      |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |
 | w   |        |             | xNP | Tureby       |   | twrebye              | twꝛebye         |   |   |   |                 | dan |   |   |    | 412-08 |
 | PL  | e      |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |
-| w   |        | hvær        | xPD | hvert        |   | hwert                | hweꝛt           |   |   |   |                 | dan |   |   |    | 412-08 |
+| w   |        | hvær        | xDD | hvert        |   | hwert                | hweꝛt           |   |   |   |                 | dan |   |   |    | 412-08 |
 | w   |        | ar          | xNC | år           |   | aar                  | aaꝛ             |   |   |   |                 | dan |   |   |    | 412-08 |
 | w   |        | yte         | xVB | yde          |   | yde                  | yde             |   |   |   |                 | dan |   |   |    | 412-08 |
 | w   |        | ok          | xCC | og           |   | oc                   | oc              |   |   |   |                 | dan |   |   |    | 412-08 |
@@ -237,7 +237,7 @@
 | lm  | 412-09 |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |
 | w   |        | ok          | xCC | og           |   | Oc                   | Oc              |   |   |   |                 | dan |   |   |    | 412-09 |
 | w   |        | skule       | xVB | skulle       |   | skule                | ſkule           |   |   |   |                 | dan |   |   |    | 412-09 |
-| w   |        | thæn        | xPD | de           |   | the                  | the             |   |   |   |                 | dan |   |   |    | 412-09 |
+| w   |        | thæn        | xPE | de           |   | the                  | the             |   |   |   |                 | dan |   |   |    | 412-09 |
 | w   |        | halde       | xVB | holde        |   | holde                | holde           |   |   |   |                 | dan |   |   |    | 412-09 |
 | w   |        | var         | xDP | vor          |   | wor                  | wor             |   |   |   |                 | dan |   |   |    | 412-09 |
 | w   |        | æmbætesman  | xNC | embedsmand   |   | embitzma(n)          | embıtzma̅        |   |   |   |                 | dan |   |   |    | 412-09 |
@@ -259,14 +259,14 @@
 | w   |        | mæth        | xAV | med          |   | m(et)                | mꝫ              |   |   |   |                 | dan |   |   |    | 412-09 |
 | lm  | 412-10 |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |
 | w   |        | skule       | xVB | skulle       |   | skule                | ſkule           |   |   |   |                 | dan |   |   |    | 412-10 |
-| w   |        | thæn        | xPD | de           |   | the                  | the             |   |   |   |                 | dan |   |   |    | 412-10 |
+| w   |        | thæn        | xPE | de           |   | the                  | the             |   |   |   |                 | dan |   |   |    | 412-10 |
 | w   |        | være        | xVB | være         |   | wære                 | wæꝛe            |   |   |   |                 | dan |   |   |    | 412-10 |
 | w   |        | fri         | xAJ | fri          |   | frij                 | frij            |   |   |   |                 | dan |   |   |    | 412-10 |
 | w   |        | for         | xAP | for          |   | for(e)               | foꝛ            |   |   |   |                 | dan |   |   |    | 412-10 |
 | w   |        | arbejde     | xNC | arbejde      |   | arbeyde              | aꝛbeyde         |   |   |   |                 | dan |   |   |    | 412-10 |
 | w   |        | ok          | xCC | og           |   | oc                   | oc              |   |   |   |                 | dan |   |   |    | 412-10 |
 | w   |        | al          | xAJ | al           |   | ald                  | ald             |   |   |   |                 | dan |   |   |    | 412-10 |
-| w   |        | anner       | xPD | anden        |   | a(n)ne(n)            | a̅ne̅             |   |   |   |                 | dan |   |   |    | 412-10 |
+| w   |        | anner       | xDD | anden        |   | a(n)ne(n)            | a̅ne̅             |   |   |   |                 | dan |   |   |    | 412-10 |
 | w   |        | afgift      | xNC | afgift       |   | affgifft             | affgıfft        |   |   |   |                 | dan |   |   |    | 412-10 |
 | w   |        | af          | xAP | af           |   | aff                  | aff             |   |   |   |                 | dan |   |   |    | 412-10 |
 | w   |        | fornævnd    | xAJ | fornævnte    |   | for(nefnde)          | foꝛᷠͤ             |   |   |   |                 | dan |   |   |    | 412-10 |
@@ -282,7 +282,7 @@
 | w   |        | ok          | xCC | og           |   | oc                   | oc              |   |   |   |                 | dan |   |   |    | 412-10 |
 | w   |        | fornævnd    | xAJ | fornævnte    |   | for(nefnde)          | foꝛᷠͤ             |   |   |   |                 | dan |   |   |    | 412-10 |
 | lm  | 412-11 |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |
-| w   |        | han         | xPD | hans         |   | ha(n)s               | ha̅             |   |   |   |                 | dan |   |   |    | 412-11 |
+| w   |        | han         | xPE | hans         |   | ha(n)s               | ha̅             |   |   |   |                 | dan |   |   |    | 412-11 |
 | w   |        | husfrue     | xNC | husfrue      |   | husf(rv)e            | huſfͮe           |   |   |   |                 | dan |   |   |    | 412-11 |
 | PE  | b      | NieJen012   |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |
 | w   |        |             | xNP | Mette        |   | mette                | mette           |   |   |   |                 | dan |   |   |    | 412-11 |
@@ -301,8 +301,8 @@
 | w   |        | mærkelik    | xAJ | mærkelig     |   | m(er)keligh          | mkelıgh        |   |   |   |                 | dan |   |   |    | 412-11 |
 | w   |        | brist       | xNC | brist        |   | brøst                | bꝛøſt           |   |   |   |                 | dan |   |   |    | 412-11 |
 | w   |        | finne       | xVB | findes       |   | finnes               | finne          |   |   |   |                 | dan |   |   |    | 412-11 |
-| w   |        | i           | xPD | i            |   | i                    | i               |   |   |   |                 | dan |   |   |    | 412-11 |
-| w   |        | thæn        | xPD | dem          |   | th(e)m               | thm̅             |   |   |   |                 | dan |   |   |    | 412-11 |
+| w   |        | i           | xAP | i            |   | i                    | i               |   |   |   |                 | dan |   |   |    | 412-11 |
+| w   |        | thæn        | xPE | dem          |   | th(e)m               | thm̅             |   |   |   |                 | dan |   |   |    | 412-11 |
 | w   |        | tha         | xAV | da           |   | tha                  | tha             |   |   |   |                 | dan |   |   |    | 412-11 |
 | w   |        | skule       | xVB | skal         |   | skal                 | ſkal            |   |   |   |                 | dan |   |   |    | 412-11 |
 | lm  | 412-12 |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |
@@ -317,7 +317,7 @@
 | w   |        | gen         | xAV | igen         |   | igee(n)              | igee̅            |   |   |   |                 | dan |   |   |    | 412-12 |
 | w   |        | kome        | xVB | komme        |   | ko(me)               | ko̅ͤ              |   |   |   |                 | dan |   |   |    | 412-12 |
 | w   |        | til         | xAP | til          |   | till                 | tıll            |   |   |   |                 | dan |   |   |    | 412-12 |
-| w   |        | vi          | xPD | os           |   | oss                  | oſſ             |   |   |   |                 | dan |   |   |    | 412-12 |
+| w   |        | vi          | xPE | os           |   | oss                  | oſſ             |   |   |   |                 | dan |   |   |    | 412-12 |
 | w   |        | ok          | xCC | og           |   | oc                   | oc              |   |   |   |                 | dan |   |   |    | 412-12 |
 | w   |        | var         | xDP | vore         |   | wor(e)               | woꝛ            |   |   |   |                 | dan |   |   |    | 412-12 |
 | w   |        | efterkomere | xNC | efterkommere |   | efftekome(re)        | efftekome      |   |   |   |                 | dan |   |   |    | 412-12 |
@@ -327,7 +327,7 @@
 | w   |        |             | xNP | Tureby       |   | tur(e)by             | tuꝛby          |   |   |   |                 | dan |   |   |    | 412-12 |
 | PL  | e      |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |
 | w   |        | uten        | xAP | uden         |   | vden                 | vden            |   |   |   |                 | dan |   |   |    | 412-12 |
-| w   |        | noker       | xPD | nogen        |   | nogen                | nogen           |   |   |   |                 | dan |   |   |    | 412-12 |
+| w   |        | noker       | xDD | nogen        |   | nogen                | nogen           |   |   |   |                 | dan |   |   |    | 412-12 |
 | w   |        | lang       | xAJ | længer       |   | lenger               | lengeꝛ          |   |   |   |                 | dan |   |   |    | 412-12 |
 | lm  | 412-13 |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |
 | w   |        | tøvring     | xNC | tøvring      |   | thøffri(n)g          | thøffꝛi̅g        |   |   |   |                 | dan |   |   |    | 412-13 |
@@ -335,7 +335,7 @@
 | w   |        | æller       | xCC | eller        |   | ell(e)r              | ellꝛ           |   |   |   |                 | dan |   |   |    | 412-13 |
 | w   |        | hjalperethe | xNC | hjælperede   |   | hielperæde           | hıelperæde      |   |   |   |                 | dan |   |   |    | 412-13 |
 | w   |        | i           | xAP | i            |   | i                    | i               |   |   |   |                 | dan |   |   |    | 412-13 |
-| w   |        | noker       | xPD | nogen        |   | nogre                | nogꝛe           |   |   |   |                 | dan |   |   |    | 412-13 |
+| w   |        | noker       | xDD | nogen        |   | nogre                | nogꝛe           |   |   |   |                 | dan |   |   |    | 412-13 |
 | w   |        | mate        | xNC | måde         |   | made                 | made            |   |   |   |                 | dan |   |   |    | 412-13 |
 | w   |        |             |     |              |   | Jn                   | Jn              |   |   |   |                 | lat |   |   |    | 412-13 |
 | w   |        |             |     |              |   | c(uius)              | c              |   |   |   |                 | lat |   |   |    | 412-13 |
