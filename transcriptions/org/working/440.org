@@ -42,7 +42,7 @@
 | :s: |        |               |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |
 | pm  | 1r     |               |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |
 | lm  | 440-01 |               |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |
-| w   |        | jak           | xPD | jeg           |   | Jegh                     | Jegh                  |   |   |   |   | dan |   |   |   |        440-01 |
+| w   |        | jak           | xPE | jeg           |   | Jegh                     | Jegh                  |   |   |   |   | dan |   |   |   |        440-01 |
 | PE  | b      | ElsGri001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |
 | w   |        |               | xNP | Elsebe        |   | ælsebæ                   | ælſebæ                |   |   |   |   | dan |   |   |   |        440-01 |
 | PE  | e      | ElsGri001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |
@@ -77,7 +77,7 @@
 | w   |        | open          | xAJ | åbne          |   | obne                     | obne                  |   |   |   |   | dan |   |   |   |        440-03 |
 | w   |        | brev          | xNC | brev          |   | breff                    | bꝛeff                 |   |   |   |   | dan |   |   |   |        440-03 |
 | w   |        | at            | xCS | at            |   | At                       | At                    |   |   |   |   | dan |   |   |   |        440-03 |
-| w   |        | vi            | xPD | vi            |   | wi                       | wı                    |   |   |   |   | dan |   |   |   |        440-03 |
+| w   |        | vi            | xPE | vi            |   | wi                       | wı                    |   |   |   |   | dan |   |   |   |        440-03 |
 | w   |        | for           | xAP | for           |   | for                      | foꝛ                   |   |   |   |   | dan |   |   |   |        440-03 |
 | w   |        | hetherlik     | xAJ | hæderligt     |   | hedh(e)rligt             | hedhꝛligt            |   |   |   |   | dan |   |   |   |        440-03 |
 | w   |        | man           | xNC | mands         |   | ma(n)tz                  | ma̅tz                  |   |   |   |   | dan |   |   |   |        440-03 |
@@ -113,7 +113,7 @@
 | w   |        | kloster       | xNC | klosters      |   | closth(e)rs              | cloſthꝛ             |   |   |   |   | dan |   |   |   |        440-05 |
 | w   |        | goths         | xNC | gods          |   | gotz                     | gotz                  |   |   |   |   | dan |   |   |   |        440-05 |
 | w   |        | at            | xCS | at            |   | At                       | At                    |   |   |   |   | dan |   |   |   |        440-05 |
-| w   |        | han           | xPD | han           |   | ha(n)                    | ha̅                    |   |   |   |   | dan |   |   |   |        440-05 |
+| w   |        | han           | xPE | han           |   | ha(n)                    | ha̅                    |   |   |   |   | dan |   |   |   |        440-05 |
 | w   |        | mughe         | xVB | må            |   | maa                      | maa                   |   |   |   |   | dan |   |   |   |        440-05 |
 | lm  | 440-06 |               |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |
 | w   |        | være          | xVB | være          |   | waræ                     | waꝛæ                  |   |   |   |   | dan |   |   |   |        440-06 |
@@ -141,9 +141,9 @@
 | w   |        | bygje         | xVB | bygge         |   | byghe                    | byghe                 |   |   |   |   | dan |   |   |   |        440-07 |
 | w   |        | ok            | xCC | og            |   | oc                       | oc                    |   |   |   |   | dan |   |   |   |        440-07 |
 | w   |        | bo            | xVB | bo            |   | boo                      | boo                   |   |   |   |   | dan |   |   |   |        440-07 |
-| w   |        | hvar          | xPD | hvor          |   | hwar                     | hwaꝛ                  |   |   |   |   | dan |   |   |   |        440-07 |
-| w   |        | han           | xPD | han           |   | ha(n)                    | ha̅                    |   |   |   |   | dan |   |   |   |        440-07 |
-| w   |        | han           | xPD | ham           |   | ha(nnem)                 | ha̅ͫ                    |   |   |   |   | dan |   |   |   |        440-07 |
+| w   |        | hvar          | xAV | hvor          |   | hwar                     | hwaꝛ                  |   |   |   |   | dan |   |   |   |        440-07 |
+| w   |        | han           | xPE | han           |   | ha(n)                    | ha̅                    |   |   |   |   | dan |   |   |   |        440-07 |
+| w   |        | han           | xPE | hannem           |   | ha(nnem)                 | ha̅ͫ                    |   |   |   |   | dan |   |   |   |        440-07 |
 | w   |        | have          | xVB | have          |   | haffwe                   | haffwe                |   |   |   |   | dan |   |   |   |        440-07 |
 | w   |        | vilje         | xVB | vil           |   | will                     | wıll                  |   |   |   |   | dan |   |   |   |        440-07 |
 | lm  | 440-08 |               |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |
@@ -151,7 +151,7 @@
 | w   |        | thænne        | xDD | denne         |   | th(en)n(e)               | thn̅ͤ                   |   |   |   |   | dan |   |   |   |        440-08 |
 | w   |        | dagh          | xNC | dag           |   | dag                      | dag                   |   |   |   |   | dan |   |   |   |        440-08 |
 | w   |        | for           | xAP | for           |   | for                      | foꝛ                   |   |   |   |   | dan |   |   |   |        440-08 |
-| w   |        | vi            | xPD | os            |   | oss                      | oſſ                   |   |   |   |   | dan |   |   |   |        440-08 |
+| w   |        | vi            | xPE | os            |   | oss                      | oſſ                   |   |   |   |   | dan |   |   |   |        440-08 |
 | w   |        | ok            | xCC | og            |   | oc                       | oc                    |   |   |   |   | dan |   |   |   |        440-08 |
 | w   |        | var           | xDP | vore          |   | woræ                     | woꝛæ                  |   |   |   |   | dan |   |   |   |        440-08 |
 | w   |        | æfterkomere   | xNC | efterkommere  |   | effthr(er)ko(m)me(re)    | effthꝛko̅me          |   |   |   |   | dan |   |   |   |        440-08 |
@@ -164,10 +164,10 @@
 | w   |        | sva           | xAV | så            |   | saa                      | ſaa                   |   |   |   |   | dan |   |   |   |        440-09 |
 | w   |        | skjal         | xNC | skel          |   | skell                    | ſkell                 |   |   |   |   | dan |   |   |   |        440-09 |
 | w   |        | at            | xCS | at            |   | at                       | at                    |   |   |   |   | dan |   |   |   |        440-09 |
-| w   |        | han           | xPD | han           |   | ha(n)                    | ha̅                    |   |   |   |   | dan |   |   |   |        440-09 |
+| w   |        | han           | xPE | han           |   | ha(n)                    | ha̅                    |   |   |   |   | dan |   |   |   |        440-09 |
 | w   |        | skule         | xVB | skal          |   | skall                    | ſkall                 |   |   |   |   | dan |   |   |   |        440-09 |
 | w   |        | gøre          | xVB | gøre          |   | giøræ                    | gıøꝛæ                 |   |   |   |   | dan |   |   |   |        440-09 |
-| w   |        | vi            | xPD | os            |   | oss                      | oſſ                   |   |   |   |   | dan |   |   |   |        440-09 |
+| w   |        | vi            | xPE | os            |   | oss                      | oſſ                   |   |   |   |   | dan |   |   |   |        440-09 |
 | w   |        | ok            | xCC | og            |   | oc                       | oc                    |   |   |   |   | dan |   |   |   |        440-09 |
 | w   |        | kloster       | xNC | kloster       |   | closth(e)r               | cloſthꝛ              |   |   |   |   | dan |   |   |   |        440-09 |
 | w   |        | thæslike      | xAV | desligest     |   | thesligesth              | theſlıgeſth           |   |   |   |   | dan |   |   |   |        440-09 |
@@ -179,7 +179,7 @@
 | w   |        | uti           | xAP | udi           |   | wdhi                     | wdhi                  |   |   |   |   | dan |   |   |   |        440-10 |
 | w   |        | sanhet        | xNC | sandhed       |   | sanhiedh                 | ſanhıedh              |   |   |   |   | dan |   |   |   |        440-10 |
 | w   |        | hængje        | xVB | hænger        |   | he(n)gh(e)r              | he̅ghꝛ                |   |   |   |   | dan |   |   |   |        440-10 |
-| w   |        | jak           | xPD | jeg           |   | iegh                     | ıegh                  |   |   |   |   | dan |   |   |   |        440-10 |
+| w   |        | jak           | xPE | jeg           |   | iegh                     | ıegh                  |   |   |   |   | dan |   |   |   |        440-10 |
 | w   |        | min           | xDP | mit           |   | mit                      | mıt                   |   |   |   |   | dan |   |   |   |        440-10 |
 | w   |        | insighle      | xNC | indsegle       |   | inseglæ                  | ınſeglæ               |   |   |   |   | dan |   |   |   |        440-10 |
 | w   |        | mæth          | xAP | med           |   | m(et)                    | mꝫ                    |   |   |   |   | dan |   |   |   |        440-10 |
