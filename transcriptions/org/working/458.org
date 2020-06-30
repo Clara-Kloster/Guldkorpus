@@ -52,7 +52,7 @@ Entity vdblac = v with breve
 | w   |        | høre        | xVB | hører        |   | Hører            | Høꝛeꝛ       |   |   |   |            | dan |   |   |   |        458-01 |
 | w   |        | læse        | xVB | læse         |   | lesse            | lee        |   |   |   |            | dan |   |   |   |        458-01 |
 | w   |        | helse       | xVB | hilse        |   | Helse            | Helſe       |   |   |   |            | dan |   |   |   |        458-01 |
-| w   |        | vi          | xPD | vi           |   | wij              | wij         |   |   |   |            | dan |   |   |   |        458-01 |
+| w   |        | vi          | xPE | vi           |   | wij              | wij         |   |   |   |            | dan |   |   |   |        458-01 |
 | PE  | b      | PerOls001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |
 | w   |        |             | xNP | Per          |   | p(er)            | p̲           |   |   |   |            | dan |   |   |   |        458-01 |
 | w   |        |             | xNP | Olsen        |   | olss(øn)         | olſ        |   |   |   |            | dan |   |   |   |        458-01 |
@@ -91,7 +91,7 @@ Entity vdblac = v with breve
 | w   |        | hærre       | xNC | herre        |   | H(e)re           | H̅ꝛe         |   |   |   |            | dan |   |   |   |        458-03 |
 | w   |        |             | XX  |              |   | ⸠gøg⸡            | ⸠gøg⸡       |   |   |   |            | dan |   |   |   |        458-03 |
 | w   |        | gøre        | xVB | gøre         |   | gøre             | gøꝛe        |   |   |   |            | dan |   |   |   |        458-03 |
-| w   |        | vi          | xPD | vi           |   | wij              | wij         |   |   |   |            | dan |   |   |   |        458-03 |
+| w   |        | vi          | xPE | vi           |   | wij              | wij         |   |   |   |            | dan |   |   |   |        458-03 |
 | w   |        | vitherlik   | xAJ | vitterligt   |   | witt(er)ligtt    | wittligtt  |   |   |   |            | dan |   |   |   |        458-03 |
 | w   |        | fore        | xAP | for          |   | Ffore            | Ffoꝛe       |   |   |   |            | dan |   |   |   |        458-03 |
 | w   |        | al          | xAJ | alle         |   | alle             | alle        |   |   |   |            | dan |   |   |   |        458-03 |
@@ -115,7 +115,7 @@ Entity vdblac = v with breve
 | w   |        | skikke      | xVB | skikket      |   | skicked          | ſkicked     |   |   |   |            | dan |   |   |   |        458-04 |
 | lm  | 458-05 |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |
 | w   |        | fore        | xAP | fore         |   | fore             | foꝛe        |   |   |   |            | dan |   |   |   |        458-05 |
-| w   |        | vi          | xPD | os           |   | os               | o          |   |   |   |            | dan |   |   |   |        458-05 |
+| w   |        | vi          | xPE | os           |   | os               | o          |   |   |   |            | dan |   |   |   |        458-05 |
 | w   |        | ok          | xCC | og           |   | och              | och         |   |   |   |            | dan |   |   |   |        458-05 |
 | w   |        | mang        | xAJ | mange        |   | mange            | mange       |   |   |   |            | dan |   |   |   |        458-05 |
 | w   |        | dandeman    | xNC | dannemænd    |   | da(n)ne mendtt   | da̅ne mendtt |   |   |   |            | dan |   |   |   |        458-05 |
@@ -166,7 +166,7 @@ Entity vdblac = v with breve
 | w   |        | finger      | xNC | fingre       |   | fingre           | fingꝛe      |   |   |   |            | dan |   |   |   |        458-08 |
 | w   |        | ok          | xCC | og           |   | och              | och         |   |   |   |            | dan |   |   |   |        458-08 |
 | w   |        | bithje      | xVB | bad          |   | bad              | bad         |   |   |   |            | dan |   |   |   |        458-08 |
-| w   |        | sik         | xPD | sig          |   | sig              | ig         |   |   |   |            | dan |   |   |   |        458-08 |
+| w   |        | sik         | xPE | sig          |   | sig              | ig         |   |   |   |            | dan |   |   |   |        458-08 |
 | w   |        | guth        | xNC | Gud          |   | gudtt            | gudtt       |   |   |   |            | dan |   |   |   |        458-08 |
 | w   |        | til         | xAP | til          |   | till             | till        |   |   |   |            | dan |   |   |   |        458-08 |
 | w   |        | hjalp       | xNC | hjælpe       |   | Hielpe           | Hıelpe      |   |   |   |            | dan |   |   |   |        458-08 |
@@ -176,18 +176,18 @@ Entity vdblac = v with breve
 | w   |        | varthe      | xVB | vorde        |   | vorde            | voꝛde       |   |   |   |            | dan |   |   |   |        458-08 |
 | lm  | 458-09 |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |
 | w   |        | at          | xCS | at           |   | att              | att         |   |   |   |            | dan |   |   |   |        458-09 |
-| w   |        | han         | xPD | ham          |   | Ha(n)nom(m)      | Ha̅nom̅       |   |   |   |            | dan |   |   |   |        458-09 |
+| w   |        | han         | xPE | hannem          |   | Ha(n)nom(m)      | Ha̅nom̅       |   |   |   |            | dan |   |   |   |        458-09 |
 | w   |        | minne       | xVB | mindtes      |   | myntes           | mÿnte      |   |   |   |            | dan |   |   |   |        458-09 |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-09 |
 | w   |        | ful         | xAJ | fulde        |   | ffulde           | ﬀŭlde       |   |   |   |            | dan |   |   |   |        458-09 |
 | n   |        | 32            |    | 32           |   | xxxij            | xxxij       |   |   |   |            | dan |   |   |   |        458-09 |
 | w   |        | ar          | xNC | år           |   | aar              | aaꝛ         |   |   |   |            | dan |   |   |   |        458-09 |
 | w   |        | at          | xCS | at           |   | att              | att         |   |   |   |            | dan |   |   |   |        458-09 |
-| w   |        | thær        | xPD | der          |   | th(er)           | th         |   |   |   |            | dan |   |   |   |        458-09 |
+| w   |        | thær        | xAV | der          |   | th(er)           | th         |   |   |   |            | dan |   |   |   |        458-09 |
 | w   |        | være        | xVB | var          |   | wor              | woꝛ         |   |   |   |            | dan |   |   |   |        458-09 |
 | w   |        | aldrigh     | xAV | aldrig       |   | aldrig           | aldꝛig      |   |   |   |            | dan |   |   |   |        458-09 |
-| w   |        | noker       | xPD | nogen        |   | nogen(n)         | nogen̅       |   |   |   |            | dan |   |   |   |        458-09 |
-| w   |        | anner       | xPD | anden        |   | anden(n)         | anden̅       |   |   |   |            | dan |   |   |   |        458-09 |
+| w   |        | noker       | xDD | nogen        |   | nogen(n)         | nogen̅       |   |   |   |            | dan |   |   |   |        458-09 |
+| w   |        | anner       | xDD | anden        |   | anden(n)         | anden̅       |   |   |   |            | dan |   |   |   |        458-09 |
 | w   |        | lot         | xNC | lods         |   | lodtz            | lodtz       |   |   |   |            | dan |   |   |   |        458-09 |
 | lm  | 458-10 |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |
 | w   |        | eghere      | xNC | ejer         |   | Eyere            | Eyeꝛe       |   |   |   |            | dan |   |   |   |        458-10 |
@@ -198,9 +198,9 @@ Entity vdblac = v with breve
 | w   |        | brinne      | xNC | brænde       |   | brande           | bꝛande      |   |   |   |            | dan |   |   |   |        458-10 |
 | w   |        | mylne       | xNC | mølle        |   | mølle            | mølle       |   |   |   |            | dan |   |   |   |        458-10 |
 | w   |        | mæth        | xAP | med          |   | med              | med         |   |   |   |            | dan |   |   |   |        458-10 |
-| w   |        | en          | xPD | en           |   | Een(n)           | Een̅         |   |   |   |            | dan |   |   |   |        458-10 |
+| w   |        | en          | xPI | en           |   | Een(n)           | Een̅         |   |   |   |            | dan |   |   |   |        458-10 |
 | w   |        | æn          | xAV | end          |   | æn(n)            | æn̅          |   |   |   |            | dan |   |   |   |        458-10 |
-| w   |        | thæn        | xPD | de           |   | de               | de          |   |   |   |            | dan |   |   |   |        458-10 |
+| w   |        | thæn        | xPE | de           |   | de               | de          |   |   |   |            | dan |   |   |   |        458-10 |
 | w   |        | thær        | xRP | der          |   | der              | deꝛ         |   |   |   |            | dan |   |   |   |        458-10 |
 | w   |        | bo          | xVB | boede        |   | bødd             | bødd        |   |   |   |            | dan |   |   |   |        458-10 |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-10 |
@@ -242,17 +242,17 @@ Entity vdblac = v with breve
 | w   |        | finger      | xNC | fingre       |   | fingre           | fingꝛe      |   |   |   |            | dan |   |   |   |        458-12 |
 | w   |        | at          | xCS | at           |   | at               | at          |   |   |   |            | dan |   |   |   |        458-12 |
 | lm  | 458-13 |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |
-| w   |        | han         | xPD | ham          |   | ha(m)            | haͫ          |   |   |   |            | dan |   |   |   |        458-13 |
+| w   |        | han         | xPE | ham          |   | ha(m)            | haͫ          |   |   |   |            | dan |   |   |   |        458-13 |
 | w   |        | minne       | xVB | mindtes      |   | mynt(is)         | myntꝭ       |   |   |   |            | dan |   |   |   |        458-13 |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-13 |
 | w   |        | ful         | xAJ | fulde        |   | fulde            | fŭlde       |   |   |   |            | dan |   |   |   |        458-13 |
 | n   |        | 32            |    | 32           |   | xxxij            | xxxij       |   |   |   |            | dan |   |   |   |        458-13 |
 | w   |        | ar          | xNC | år           |   | aar              | aaꝛ         |   |   |   |            | dan |   |   |   |        458-13 |
 | w   |        | at          | xCS | at           |   | att              | att         |   |   |   |            | dan |   |   |   |        458-13 |
-| w   |        | thær        | xPD | der          |   | th(er)           | th         |   |   |   |            | dan |   |   |   |        458-13 |
+| w   |        | thær        | xAV | der          |   | th(er)           | th         |   |   |   |            | dan |   |   |   |        458-13 |
 | w   |        | være        | xVB | var          |   | wor              | woꝛ         |   |   |   |            | dan |   |   |   |        458-13 |
 | w   |        | aldrigh     | xAV | aldrig       |   | aldrigh          | aldꝛigh     |   |   |   |            | dan |   |   |   |        458-13 |
-| w   |        | anner       | xPD | anden        |   | anden(n)         | anden̅       |   |   |   |            | dan |   |   |   |        458-13 |
+| w   |        | anner       | xDD | anden        |   | anden(n)         | anden̅       |   |   |   |            | dan |   |   |   |        458-13 |
 | w   |        | lot         | xNC | lods         |   | lodttz           | lodttz      |   |   |   |            | dan |   |   |   |        458-13 |
 | w   |        | eghere      | xNC | ejer         |   | eyere            | eyeꝛe       |   |   |   |            | dan |   |   |   |        458-13 |
 | w   |        | til         | xAP | til          |   | tiill            | tiill       |   |   |   |            | dan |   |   |   |        458-13 |
@@ -286,7 +286,7 @@ Entity vdblac = v with breve
 | w   |        | ok          | xCC | og           |   | och              | och         |   |   |   |            | dan |   |   |   |        458-15 |
 | w   |        | sanhet      | xNC | sandhed      |   | sandh(et)        | ſandhꝫ      |   |   |   |            | dan |   |   |   |        458-15 |
 | w   |        | at          | xCS | at           |   | att              | att         |   |   |   |            | dan |   |   |   |        458-15 |
-| w   |        | han         | xPD | ham          |   | Ha(m)            | Haͫ          |   |   |   |            | dan |   |   |   |        458-15 |
+| w   |        | han         | xPE | ham          |   | Ha(m)            | Haͫ          |   |   |   |            | dan |   |   |   |        458-15 |
 | lm  | 458-16 |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |
 | w   |        | minne       | xVB | mindtes      |   | mint(is)         | mintꝭ       |   |   |   |            | dan |   |   |   |        458-16 |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-16 |
@@ -294,18 +294,18 @@ Entity vdblac = v with breve
 | n   |        | 30          |     | 30           |   | xxx              | xxx         |   |   |   |            | dan |   |   |   |        458-16 |
 | w   |        | ar          | xNC | år           |   | aar              | aaꝛ         |   |   |   |            | dan |   |   |   |        458-16 |
 | w   |        | at          | xCS | at           |   | att              | att         |   |   |   |            | dan |   |   |   |        458-16 |
-| w   |        | thær        | xPD | der          |   | th(er)           | th         |   |   |   |            | dan |   |   |   |        458-16 |
+| w   |        | thær        | xAV | der          |   | th(er)           | th         |   |   |   |            | dan |   |   |   |        458-16 |
 | w   |        | være        | xVB | var          |   | vor              | voꝛ         |   |   |   |            | dan |   |   |   |        458-16 |
 | w   |        | aldrigh     | xAV | aldrig       |   | aldreg           | aldꝛeg      |   |   |   |            | dan |   |   |   |        458-16 |
-| w   |        | noker       | xPD | nogen        |   | nogenn(n)        | nogenn̅      |   |   |   |            | dan |   |   |   |        458-16 |
-| w   |        | anner       | xPD | anden        |   | anden(n)         | anden̅       |   |   |   |            | dan |   |   |   |        458-16 |
+| w   |        | noker       | xDD | nogen        |   | nogenn(n)        | nogenn̅      |   |   |   |            | dan |   |   |   |        458-16 |
+| w   |        | anner       | xDD | anden        |   | anden(n)         | anden̅       |   |   |   |            | dan |   |   |   |        458-16 |
 | w   |        | lot         | xNC | lods         |   | lodttz           | lodttz      |   |   |   |            | dan |   |   |   |        458-16 |
 | w   |        | eghere      | xNC | ejer         |   | eyere            | eÿeꝛe       |   |   |   |            | dan |   |   |   |        458-16 |
 | w   |        | til         | xAP | til          |   | till             | till        |   |   |   |            | dan |   |   |   |        458-16 |
 | lm  | 458-17 |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |
 | w   |        | mylne       | xNC | mølle        |   | mølle            | mølle       |   |   |   |            | dan |   |   |   |        458-17 |
 | w   |        | æng         | xNC | engen        |   | engen(n)         | engen̅       |   |   |   |            | dan |   |   |   |        458-17 |
-| w   |        | anner       | xPD | anden        |   | anden(n)         | anden̅       |   |   |   |            | dan |   |   |   |        458-17 |
+| w   |        | anner       | xPI | anden        |   | anden(n)         | anden̅       |   |   |   |            | dan |   |   |   |        458-17 |
 | w   |        | æn          | xAV | end          |   | en(n)            | en̅          |   |   |   |            | dan |   |   |   |        458-17 |
 | w   |        | sum         | xCS | som          |   | som(m)           | ſom̅         |   |   |   |            | dan |   |   |   |        458-17 |
 | w   |        | forskreven  | xAJ | forskrevet   |   | ffor(screffuitt) | ﬀoꝛͧͥͭͭ         |   |   |   |            | dan |   |   |   |        458-17 |
@@ -337,7 +337,7 @@ Entity vdblac = v with breve
 | w   |        | al          | xAJ | alt          |   | aldtt            | aldtt       |   |   |   |            | dan |   |   |   |        458-19 |
 | w   |        | thæn        | xAT | den          |   | den(n)           | den̅         |   |   |   |            | dan |   |   |   |        458-19 |
 | w   |        | tith        | xNC | tid          |   | tiidtt           | tiidtt      |   |   |   |            | dan |   |   |   |        458-19 |
-| w   |        | han         | xPD | han          |   | Hand             | Hand        |   |   |   |            | dan |   |   |   |        458-19 |
+| w   |        | han         | xPE | han          |   | Hand             | Hand        |   |   |   |            | dan |   |   |   |        458-19 |
 | w   |        | have        | xVB | har          |   | Haffu(er)        | Haﬀu       |   |   |   |            | dan |   |   |   |        458-19 |
 | w   |        | have        | xVB | haft         |   | Hafftt           | Haﬀtt       |   |   |   |            | dan |   |   |   |        458-19 |
 | w   |        | skogh       | xNC | skov         |   | skouff           | ſkoŭﬀ       |   |   |   |            | dan |   |   |   |        458-19 |
@@ -349,12 +349,12 @@ Entity vdblac = v with breve
 | lm  | 458-20 |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |
 | w   |        | tha         | xAV | da           |   | da               | da          |   |   |   |            | dan |   |   |   |        458-20 |
 | w   |        | have        | xVB | havde        |   | Haffde           | Haﬀde       |   |   |   |            | dan |   |   |   |        458-20 |
-| w   |        | han         | xPD | han          |   | Hand             | Hand        |   |   |   |            | dan |   |   |   |        458-20 |
-| w   |        | thæn        | xPD | det          |   | dætt             | dætt        |   |   |   |            | dan |   |   |   |        458-20 |
+| w   |        | han         | xPE | han          |   | Hand             | Hand        |   |   |   |            | dan |   |   |   |        458-20 |
+| w   |        | thæn        | xPE | det          |   | dætt             | dætt        |   |   |   |            | dan |   |   |   |        458-20 |
 | w   |        | aldrigh     | xAV | aldrig       |   | aldrigh          | aldꝛigh     |   |   |   |            | dan |   |   |   |        458-20 |
 | w   |        | af          | xAP | af           |   | aff              | aﬀ          |   |   |   |            | dan |   |   |   |        458-20 |
-| w   |        | noker       | xPD | nogen        |   | nogen(n)         | nogen̅       |   |   |   |            | dan |   |   |   |        458-20 |
-| w   |        | anner       | xPD | anden        |   | anden(n)         | anden̅       |   |   |   |            | dan |   |   |   |        458-20 |
+| w   |        | noker       | xDD | nogen        |   | nogen(n)         | nogen̅       |   |   |   |            | dan |   |   |   |        458-20 |
+| w   |        | anner       | xDD | anden        |   | anden(n)         | anden̅       |   |   |   |            | dan |   |   |   |        458-20 |
 | w   |        | man         | xNC | mand         |   | mand             | mand        |   |   |   |            | dan |   |   |   |        458-20 |
 | ad  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |
 | w   |        | æn          | xAV | end          |   | end              | end         |   |   |   |            | dan |   |   |   |        458-20 |
@@ -368,8 +368,8 @@ Entity vdblac = v with breve
 | PE  | e      | MogAnd002   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |
 | w   |        | ok          | xCC | og           |   | oc               | oc          |   |   |   |            | dan |   |   |   |        458-21 |
 | w   |        | af          | xAP | af           |   | aff              | aﬀ          |   |   |   |            | dan |   |   |   |        458-21 |
-| w   |        | ænge        | xPD | ingen        |   | ingen(n)         | ingen̅       |   |   |   |            | dan |   |   |   |        458-21 |
-| w   |        | anner       | xPD | anden        |   | anden(n)         | anden̅       |   |   |   |            | dan |   |   |   |        458-21 |
+| w   |        | ænge        | xDD | ingen        |   | ingen(n)         | ingen̅       |   |   |   |            | dan |   |   |   |        458-21 |
+| w   |        | anner       | xPI | anden        |   | anden(n)         | anden̅       |   |   |   |            | dan |   |   |   |        458-21 |
 | w   |        | thær        | xAV | der          |   | der              | deꝛ         |   |   |   |            | dan |   |   |   |        458-21 |
 | w   |        | upa         | xAV | på           |   | paa              | paa         |   |   |   |            | dan |   |   |   |        458-21 |
 | w   |        | bithje      | xVB | bedes        |   | bed(is)          | be         |   |   |   |            | dan |   |   |   |        458-21 |
@@ -399,7 +399,7 @@ Entity vdblac = v with breve
 | w   |        | ok          | xCC | og           |   | och              | och         |   |   |   |            | dan |   |   |   |        458-23 |
 | w   |        | vitne       | xVB | vidne        |   | vidne            | vıdne       |   |   |   |            | dan |   |   |   |        458-23 |
 | w   |        | thær        | xAV | der          |   | th(e)r           | th̅ꝛ         |   |   |   |            | dan |   |   |   |        458-23 |
-| w   |        | en          | xPD | en           |   | enn(n)           | enn̅         |   |   |   |            | dan |   |   |   |        458-23 |
+| w   |        | en          | xPI | en           |   | enn(n)           | enn̅         |   |   |   |            | dan |   |   |   |        458-23 |
 | w   |        | sum         | xRP | som          |   | som(m)           | ſom̅         |   |   |   |            | dan |   |   |   |        458-23 |
 | PE  | b      | SveHof001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |
 | w   |        |             | xNP | Sven         |   | Suend            | ŭend       |   |   |   |            | dan |   |   |   |        458-23 |
@@ -510,10 +510,10 @@ Entity vdblac = v with breve
 | w   |        | sum         | xRP | som          |   | som(m)           | ſom̅         |   |   |   |            | dan |   |   |   |        458-29 |
 | w   |        | forskreven  | xAJ | forskrevet   |   | for(screffuitt)  | foꝛͧͥͭͭ         |   |   |   |            | dan |   |   |   |        458-29 |
 | w   |        | sta         | xVB | står         |   | staar            | ﬅaaꝛ        |   |   |   |            | dan |   |   |   |        458-29 |
-| w   |        | thæn        | xPD | det          |   | th(et)           | thꝫ         |   |   |   |            | dan |   |   |   |        458-29 |
+| w   |        | thæn        | xPE | det          |   | th(et)           | thꝫ         |   |   |   |            | dan |   |   |   |        458-29 |
 | w   |        | besta       | xVB | bestå        |   | bestaa           | beﬅaa       |   |   |   |            | dan |   |   |   |        458-29 |
 | w   |        | ok          | xAV | og           |   | och              | och         |   |   |   |            | dan |   |   |   |        458-29 |
-| w   |        | vi          | xPD | vi           |   | vij              | vij         |   |   |   |            | dan |   |   |   |        458-29 |
+| w   |        | vi          | xPE | vi           |   | vij              | vij         |   |   |   |            | dan |   |   |   |        458-29 |
 | w   |        | mæth        | xAP | med          |   | m(et)            | mꝫ          |   |   |   |            | dan |   |   |   |        458-29 |
 | w   |        | var         | xDP | vore         |   | vore             | voꝛe        |   |   |   |            | dan |   |   |   |        458-29 |
 | w   |        | insighle    | xNC | indsegle      |   | ingzegle         | ingzegle    |   |   |   |            | dan |   |   |   |        458-29 |
