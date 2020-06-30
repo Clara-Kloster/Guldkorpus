@@ -51,7 +51,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | høre          | xVB         | høre          |   | høræ                  | høræ         |   |   |   |   | dan |   |   |    |        408-01 |
 | w   |        | læse          | xVB         | læses         |   | læs(es)               | læ          |   |   |   |   | dan |   |   |    |        408-01 |
 | w   |        | helse         | xVB         | hilser        |   | hielsær               | hıelſæꝛ      |   |   |   |   | dan |   |   |    |        408-01 |
-| w   |        | jak           | xPD         | jeg           |   | jegh                  | ȷegh         |   |   |   |   | dan |   |   |    |        408-01 |
+| w   |        | jak           | xPE         | jeg           |   | jegh                  | ȷegh         |   |   |   |   | dan |   |   |    |        408-01 |
 | w   |        | mæstere       | xNC         | mester        |   | mesth(e)r             | meﬅh̅ꝛ        |   |   |   |   | dan |   |   |    |        408-01 |
 | PE  | b      | HanOlu001     |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        |               | xNP         | hans          |   | hans                  | han         |   |   |   |   | dan |   |   |    |        408-01 |
@@ -90,7 +90,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        |               | xNP         | Roskilde      |   | roskildæ              | roſkıldæ     |   |   |   |   | dan |   |   |    |        408-02 |
 | PL  | e      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        | ok            | xCC         | og            |   | och                   | och          |   |   |   |   | dan |   |   |    |        408-02 |
-| w   |        | han           | xPD         | hans          |   | hans                  | han         |   |   |   |   | dan |   |   |    |        408-02 |
+| w   |        | han           | xPE         | hans          |   | hans                  | han         |   |   |   |   | dan |   |   |    |        408-02 |
 | w   |        | nathe         | xNC         | nåde          |   | nad(e)                | na          |   |   |   |   | dan |   |   |    |        408-02 |
 | lm  | 408-03 |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        | ærlik         | xAJ         | ærlige        |   | Erlighæ               | Eꝛlighæ      |   |   |   |   | dan |   |   |    |        408-03 |
@@ -123,11 +123,11 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | i             | xAP         | i             |   | i                     | i            |   |   |   |   | dan |   |   |    |        408-04 |
 | w   |        | same          | xAJ         | samme         |   | sa(m)me               | ſa̅me         |   |   |   |   | dan |   |   | =  |        408-04 |
 | w   |        | stath         | xNC         | sted          |   | stedh                 | ﬅedh         |   |   |   |   | dan |   |   | == |        408-04 |
-| w   |        | vi            | xPD         | os            |   | oss                   | o           |   |   |   |   | dan |   |   |    |        408-04 |
-| w   |        | bathe         | xPD         | både          |   | bodæ                  | bodæ         |   |   |   |   | dan |   |   |    |        408-04 |
+| w   |        | vi            | xPE         | os            |   | oss                   | o           |   |   |   |   | dan |   |   |    |        408-04 |
+| w   |        | bathe         | xPI         | både          |   | bodæ                  | bodæ         |   |   |   |   | dan |   |   |    |        408-04 |
 | w   |        | mællem        | xAP         | mellem        |   | mellom                | mellom       |   |   |   |   | dan |   |   |    |        408-04 |
 | w   |        | mæth          | xAP         | med           |   | m(et)                 | mꝫ           |   |   |   |   | dan |   |   |    |        408-04 |
-| w   |        | bathe         | xPD         | begges        |   | begg(is)              | beggꝭ        |   |   |   |   | dan |   |   |    |        408-04 |
+| w   |        | bathe         | xDD         | begges        |   | begg(is)              | beggꝭ        |   |   |   |   | dan |   |   |    |        408-04 |
 | w   |        | var           | xDP         | vore          |   | woræ                  | woræ         |   |   |   |   | dan |   |   |    |        408-04 |
 | w   |        | garth         | xNC         | gårde         |   | gordæ                 | goꝛdæ        |   |   |   |   | dan |   |   |    |        408-04 |
 | w   |        | ok            | xCC         | og            |   | och                   | och          |   |   |   |   | dan |   |   |    |        408-04 |
@@ -141,7 +141,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | var           | xDP         | vore          |   | woræ                  | woræ         |   |   |   |   | dan |   |   |    |        408-05 |
 | w   |        | kanikedøme    | xNC         | kannikedømme  |   | Canichedømæ           | Canıchedømæ  |   |   |   |   | dan |   |   |    |        408-05 |
 | w   |        | sum           | xRP         | som           |   | som                   | ſom          |   |   |   |   | dan |   |   |    |        408-05 |
-| w   |        | vi            | xPD         | vi            |   | wii                   | wii          |   |   |   |   | dan |   |   |    |        408-05 |
+| w   |        | vi            | xPE         | vi            |   | wii                   | wii          |   |   |   |   | dan |   |   |    |        408-05 |
 | w   |        | nu            | xAV         | nu            |   | nw                    | nw           |   |   |   |   | dan |   |   |    |        408-05 |
 | w   |        | have          | xVB         | have          |   | haffuæ                | haffuæ       |   |   |   |   | dan |   |   |    |        408-05 |
 | w   |        | i             | xAP         | i             |   | i                     | i            |   |   |   |   | dan |   |   |    |        408-05 |
@@ -161,13 +161,13 @@ ASK: Remember to replace XML-tags with correct notation.
 | PE  | e      | OddHan001     |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        | ok            | xCC         | og            |   | och                   | och          |   |   |   |   | dan |   |   |    |        408-06 |
 | w   |        | al            | xAJ         | alle          |   | allæ                  | allæ         |   |   |   |   | dan |   |   |    |        408-06 |
-| w   |        | han           | xPD         | hans          |   | hans                  | han         |   |   |   |   | dan |   |   |    |        408-06 |
+| w   |        | han           | xPE         | hans          |   | hans                  | han         |   |   |   |   | dan |   |   |    |        408-06 |
 | w   |        | æfterkomere   | xNC         | efterkommere  |   | effth(e)rko(m)me(re)  | effth̅ꝛko̅me  |   |   |   |   | dan |   |   |    |        408-06 |
 | w   |        | uti           | xAP         | udi           |   | vthi                  | vthı         |   |   |   |   | dan |   |   |    |        408-06 |
 | w   |        | thæn          | xAT         | det           |   | th(et)                | thꝫ          |   |   |   |   | dan |   |   |    |        408-06 |
 | w   |        | kanikedøme    | xNC         | kannikedømme  |   | Canichedømæ           | Canichedømæ  |   |   |   |   | dan |   |   |    |        408-06 |
 | w   |        | sum           | xRP         | som           |   | so(m)                 | ſo̅           |   |   |   |   | dan |   |   |    |        408-06 |
-| w   |        | han           | xPD         | han           |   | ha(n)                 | ha̅           |   |   |   |   | dan |   |   |    |        408-06 |
+| w   |        | han           | xPE         | han           |   | ha(n)                 | ha̅           |   |   |   |   | dan |   |   |    |        408-06 |
 | w   |        | nu            | xAV         | nu            |   | nw                    | nw           |   |   |   |   | dan |   |   |    |        408-06 |
 | w   |        | have          | xVB         | har           |   | haw(er)               | haw         |   |   |   |   | dan |   |   |    |        408-06 |
 | w   |        | sum           | xRP         | som           |   | so(m)                 | ſo̅           |   |   |   |   | dan |   |   |    |        408-06 |
@@ -194,7 +194,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | residents     | xNC         | residens      |   | reside(n)cia(m)       | reſıde̅cıa̅    |   |   |   |   | lat |   |   |    |        408-07 |
 | lm  | 408-08 |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        | sum           | xRP         | som           |   | som                   | ſom          |   |   |   |   | dan |   |   |    |        408-08 |
-| w   |        | jak           | xPD         | jeg           |   | jegh                  | ȷegh         |   |   |   |   | dan |   |   |    |        408-08 |
+| w   |        | jak           | xPE         | jeg           |   | jegh                  | ȷegh         |   |   |   |   | dan |   |   |    |        408-08 |
 | w   |        | nu            | xAV         | nu            |   | nw                    | nw           |   |   |   |   | dan |   |   |    |        408-08 |
 | w   |        | uti           | xAV         | udi           |   | vdi                   | vdı          |   |   |   |   | dan |   |   |    |        408-08 |
 | w   |        | være          | xVB         | var           |   | wor                   | woꝛ          |   |   |   |   | dan |   |   |    |        408-08 |
@@ -204,7 +204,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | thæn          | xAT         | den           |   | th(e)n                | th̅          |   |   |   |   | dan |   |   |    |        408-08 |
 | w   |        | præbende      | xNC         | præbende      |   | prebendam             | prebendam    |   |   |   |   | lat |   |   |    |        408-08 |
 | w   |        | sum           | xRP         | som           |   | som                   | ſom          |   |   |   |   | dan |   |   |    |        408-08 |
-| w   |        | jak           | xPD         | jeg           |   | jegh                  | ȷegh         |   |   |   |   | dan |   |   |    |        408-08 |
+| w   |        | jak           | xPE         | jeg           |   | jegh                  | ȷegh         |   |   |   |   | dan |   |   |    |        408-08 |
 | w   |        | nu            | xAV         | nu            |   | nw                    | nw           |   |   |   |   | dan |   |   |    |        408-08 |
 | w   |        | i             | xAP         | i             |   | i                     | i            |   |   |   |   | dan |   |   |    |        408-08 |
 | w   |        | vare          | xNC         | være          |   | wæræ                  | wæræ         |   |   |   |   | dan |   |   |    |        408-08 |
@@ -223,7 +223,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | PL  | b      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        |               | xNP         | Valby         |   | waldby                | waldby       |   |   |   |   | dan |   |   |    |        408-09 |
 | PL  | e      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
-| w   |        | hvilik        | xPD         | hvilken       |   | hwilken               | hwilken      |   |   |   |   | dan |   |   |    |        408-09 |
+| w   |        | hvilik        | xDD         | hvilken       |   | hwilken               | hwilken      |   |   |   |   | dan |   |   |    |        408-09 |
 | w   |        | garth         | xNC         | gård          |   | gardh                 | gaꝛdh        |   |   |   |   | dan |   |   |    |        408-09 |
 | w   |        | æller         | xCC         | eller         |   | ell(e)r               | ell̅ꝛ         |   |   |   |   | dan |   |   |    |        408-09 |
 | w   |        | residents     | xNC         | residens      |   | reside(n)cia          | reſıde̅cia    |   |   |   |   | lat |   |   |    |        408-09 |
@@ -271,11 +271,11 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | ok            | xCC         | og            |   | och                   | och          |   |   |   |   | dan |   |   |    |        408-11 |
 | w   |        | fiskepark     | xNC         | fiskevand     |   | feskæ park            | feſkæ paꝛk   |   |   |   |   | dan |   |   |    |        408-11 |
 | w   |        | sum           | xRP         | som           |   | so(m)                 | ſo̅           |   |   |   |   | dan |   |   |    |        408-11 |
-| w   |        | han           | xPD         | han           |   | ha(n)                 | ha̅           |   |   |   |   | dan |   |   |    |        408-11 |
+| w   |        | han           | xPE         | han           |   | ha(n)                 | ha̅           |   |   |   |   | dan |   |   |    |        408-11 |
 | w   |        | nu            | xAV         | nu            |   | nw                    | nw           |   |   |   |   | dan |   |   |    |        408-11 |
 | w   |        | inhæghne      | xVB         | indhegnet     |   | indhegn(et)           | indhegnꝫ     |   |   |   |   | dan |   |   |    |        408-11 |
 | w   |        | være          | xVB         | er            |   | ær                    | æꝛ           |   |   |   |   | dan |   |   |    |        408-11 |
-| w   |        | ænge          | xPD         | ingte         |   | encgtæ                | encgtæ       |   |   |   |   | dan |   |   |    |        408-11 |
+| w   |        | ænge          | xPI         | ingte         |   | encgtæ                | encgtæ       |   |   |   |   | dan |   |   |    |        408-11 |
 | lm  | 408-12 |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        | undertaken    | xAJ         | undertaget    |   | wndh(e)rtagh(et)      | wndh̅ꝛtaghꝫ   |   |   |   |   | dan |   |   |    |        408-12 |
 | w   |        | uten          | xAP         | uden          |   | vdh(e)n               | vdh̅         |   |   |   |   | dan |   |   |    |        408-12 |
@@ -306,7 +306,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | en            | xAT         | et            |   | eth                   | eth          |   |   |   |   | dan |   |   |    |        408-13 |
 | w   |        | anniversarium | xNC         | anniversarium |   | a(n)niu(er)sa(ri)u(m) | a̅niuſau̅    |   |   |   |   | lat |   |   |    |        408-13 |
 | w   |        | sum           | xRP         | som           |   | som                   | ſom          |   |   |   |   | dan |   |   |    |        408-13 |
-| w   |        | jak           | xPD         | jeg           |   | jech                  | ȷech         |   |   |   |   | dan |   |   |    |        408-13 |
+| w   |        | jak           | xPE         | jeg           |   | jech                  | ȷech         |   |   |   |   | dan |   |   |    |        408-13 |
 | w   |        | ok            | xCC         | og            |   | oc                    | oc           |   |   |   |   | dan |   |   |    |        408-13 |
 | w   |        | min           | xDP         | mine          |   | mynæ                  | mynæ         |   |   |   |   | dan |   |   |    |        408-13 |
 | w   |        | æfterkomere   | xNC         | efterkommere  |   | effth(e)rko(m)me(re)  | effthꝛ̅ko̅me  |   |   |   |   | dan |   |   |    |        408-13 |
@@ -317,14 +317,14 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | utgive        | xVB         | udgive        |   | Vtgiffuæ              | Vtgiffuæ     |   |   |   |   | dan |   |   |    |        408-13 |
 | w   |        | sva           | xAV         | så            |   | saa                   | ſaa          |   |   |   |   | dan |   |   |    |        408-13 |
 | w   |        | længe         | xAV         | længe         |   | læn¦gæ                | læn¦gæ       |   |   |   |   | dan |   |   |    | 408-13—408-14 |
-| w   |        | thæn          | xPD         | det           |   | th(et)                | thꝫ          |   |   |   |   | dan |   |   |    |        408-14 |
+| w   |        | thæn          | xPE         | det           |   | th(et)                | thꝫ          |   |   |   |   | dan |   |   |    |        408-14 |
 | w   |        | varthe        | xVB         | vorder        |   | vordh(e)r             | voꝛdhꝛ̅       |   |   |   |   | dan |   |   |    |        408-14 |
 | w   |        | i             | xAP         | i             |   | i                     | ı            |   |   |   |   | dan |   |   |    |        408-14 |
-| w   |        | anner         | xPD         | anden         |   | andh(e)r              | andhꝛ̅        |   |   |   |   | dan |   |   |    |        408-14 |
+| w   |        | anner         | xDD         | anden         |   | andh(e)r              | andhꝛ̅        |   |   |   |   | dan |   |   |    |        408-14 |
 | w   |        | mate          | xNC         | måde          |   | mothæ                 | mothæ        |   |   |   |   | dan |   |   |    |        408-14 |
 | w   |        | vitherlægje   | xVB         | vederlagt     |   | weth(e)rlacth         | weth̅ꝛlacth   |   |   |   |   | dan |   |   |    |        408-14 |
 | w   |        | ok            | xCC         | og            |   | Och                   | Och          |   |   |   |   | dan |   |   |    |        408-14 |
-| w   |        | jak           | xPD         | jeg           |   | jech                  | ȷech         |   |   |   |   | dan |   |   |    |        408-14 |
+| w   |        | jak           | xPE         | jeg           |   | jech                  | ȷech         |   |   |   |   | dan |   |   |    |        408-14 |
 | w   |        | ok            | xCC         | og            |   | och                   | och          |   |   |   |   | dan |   |   |    |        408-14 |
 | w   |        | min           | xDP         | mine          |   | mynæ                  | mynæ         |   |   |   |   | dan |   |   |    |        408-14 |
 | w   |        | æfterkomere   | xNC         | efterkommere  |   | effth(e)rko(m)me(re)  | effth̅ꝛko̅me  |   |   |   |   | dan |   |   |    |        408-14 |
@@ -370,7 +370,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | høre          | xVB         | hører         |   | hører                 | hører        |   |   |   |   | dan |   |   |    |        408-16 |
 | w   |        | til           | xAP         | til           |   | til                   | til          |   |   |   |   | dan |   |   |    |        408-16 |
 | w   |        | forskreven    | xAJ         | forskrevne    |   | for(skreffne)         | foꝛᷠͤ          |   |   |   |   | dan |   |   |    |        408-16 |
-| w   |        | han           | xPD         | hans          |   | hans                  | han         |   |   |   |   | dan |   |   |    |        408-16 |
+| w   |        | han           | xPE         | hans          |   | hans                  | han         |   |   |   |   | dan |   |   |    |        408-16 |
 | w   |        | kanikdøme     | xNC         | kannikdømme   |   | Canichdøme            | Canıchdøme   |   |   |   |   | dan |   |   |    |        408-16 |
 | w   |        | sum           | xRP         | som           |   | som                   | ſom          |   |   |   |   | dan |   |   |    |        408-16 |
 | w   |        | kalle         | xVB         | kaldes        |   | kalles                | kalle       |   |   |   |   | dan |   |   |    |        408-16 |
@@ -386,7 +386,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        |               | xNP         | Christian     |   | Cristiern             | Criﬅıeꝛ     |   |   |   |   | dan |   |   |    |        408-17 |
 | PE  | e      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        | stifte        | xVB         | stiftede      |   | stifftedhæ            | ﬅıfftedhæ    |   |   |   |   | dan |   |   |    |        408-17 |
-| w   |        | hvilik        | xPD         | hvilken       |   | hwilken               | hwılken      |   |   |   |   | dan |   |   |    |        408-17 |
+| w   |        | hvilik        | xDD         | hvilken       |   | hwilken               | hwılken      |   |   |   |   | dan |   |   |    |        408-17 |
 | w   |        | forskreven    | xAJ         | forskrevne    |   | for(skreffne)         | foꝛᷠͤ          |   |   |   |   | dan |   |   |    |        408-17 |
 | w   |        | garth         | xNC         | gård          |   | gardh                 | gaꝛdh        |   |   |   |   | dan |   |   |    |        408-17 |
 | w   |        | høghboren     | xAJ         | højbåren      |   | høghbaren             | høghbaren    |   |   |   |   | dan |   |   |    |        408-17 |
@@ -416,7 +416,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | thri+kunung   | xNC         | trekonges     |   | trekoni(n)gess        | trekoni̅ge   |   |   |   |   | dan |   |   |    |        408-18 |
 | lm  | 408-19 |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        | kapel         | xNC         | kapel         |   | Capellæ               | Capellæ      |   |   |   |   | dan |   |   |    |        408-19 |
-| w   |        | hvilik        | xPD         | hvilken       |   | hwilken               | hwılken      |   |   |   |   | dan |   |   |    |        408-19 |
+| w   |        | hvilik        | xDD         | hvilken       |   | hwilken               | hwılken      |   |   |   |   | dan |   |   |    |        408-19 |
 | w   |        | garth         | xNC         | gård          |   | gardh                 | gaꝛdh        |   |   |   |   | dan |   |   |    |        408-19 |
 | w   |        | mæth          | xAP         | med           |   | m(et)                 | mꝫ           |   |   |   |   | dan |   |   |    |        408-19 |
 | w   |        |               | XX          |               |   | {000}                 | {000}        |   |   |   |   | dan |   |   |    |        408-19 |
@@ -448,7 +448,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | ok            | xCC         | og            |   | och                   | och          |   |   |   |   | dan |   |   |    |        408-20 |
 | w   |        | residents     | xNC         | residens      |   | Residencia(m)         | Reſıdencıa̅   |   |   |   |   | lat |   |   |    |        408-20 |
 | w   |        | i             | xAP         | i             |   | i                     | i            |   |   |   |   | dan |   |   |    |        408-20 |
-| w   |        | hvilik        | xPD         | hvilken       |   | hwilke(n)             | hwılke̅       |   |   |   |   | dan |   |   |    |        408-20 |
+| w   |        | hvilik        | xDD         | hvilken       |   | hwilke(n)             | hwılke̅       |   |   |   |   | dan |   |   |    |        408-20 |
 | w   |        | forskreven    | xAJ         | forskrevne    |   | for(skreffne)         | foꝛᷠͤ          |   |   |   |   | dan |   |   |    |        408-20 |
 | w   |        | garth         | xNC         | gård          |   | gardh                 | gaꝛdh        |   |   |   |   | dan |   |   |    |        408-20 |
 | lm  | 408-21 |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
@@ -461,7 +461,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | thæn          | xAT         | den           |   | th(e)n                | th̅          |   |   |   |   | dan |   |   |    |        408-21 |
 | w   |        | tith          | xNC         | tid           |   | {tidh}                | {tidh}       |   |   |   |   | dan |   |   |    |        408-21 |
 | w   |        | uti           | xAP         | udi           |   | vdhi                  | vdhı         |   |   |   |   | dan |   |   |    |        408-21 |
-| w   |        | bathe         | xPD         | både          |   | bodæ                  | bodæ         |   |   |   |   | dan |   |   |    |        408-21 |
+| w   |        | bathe         | xPI         | både          |   | bodæ                  | bodæ         |   |   |   |   | dan |   |   |    |        408-21 |
 | w   |        | sum           | xRP         | som           |   | so(m)                 | ſo̅           |   |   |   |   | dan |   |   |    |        408-21 |
 | w   |        | ligje         | xVB         | ligger        |   | liggh(e)r             | lıgghꝛ̅       |   |   |   |   | dan |   |   |    |        408-21 |
 | w   |        | i             | xAP         | i             |   | i                     | i            |   |   |   |   | dan |   |   |    |        408-21 |
@@ -557,10 +557,10 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | ok            | xCC         | og            |   | oc                    | oc           |   |   |   |   | dan |   |   |    |        408-26 |
 | w   |        | begripe       | xVB         | begrebet      |   | begrebith             | begrebith    |   |   |   |   | dan |   |   |    |        408-26 |
 | w   |        | være          | xVB         | er            |   | ær                    | æꝛ           |   |   |   |   | dan |   |   |    |        408-26 |
-| w   |        | ænge          | xPD         | ingte         |   | [æn]gte               | [æn]gte      |   |   |   |   | dan |   |   |    |        408-26 |
+| w   |        | ænge          | xPI         | ingte         |   | [æn]gte               | [æn]gte      |   |   |   |   | dan |   |   |    |        408-26 |
 | w   |        | undentaken    | xAJ         | undentaget    |   | vndh(e)n tagh(et)     | vndh̅taghꝫ   |   |   |   |   | dan |   |   |    |        408-26 |
-| w   |        | ehva          | xPD         | i hvad        |   | ee hwoth              | ee hwoth     |   |   |   |   | dan |   |   |    |        408-26 |
-| w   |        | thæn          | xPD         | det           |   | th(et)                | thꝫ          |   |   |   |   | dan |   |   |    |        408-26 |
+| w   |        | ehva          | xPI         | i hvad        |   | ee hwoth              | ee hwoth     |   |   |   |   | dan |   |   |    |        408-26 |
+| w   |        | thæn          | xPE         | det           |   | th(et)                | thꝫ          |   |   |   |   | dan |   |   |    |        408-26 |
 | w   |        | hældst        | xAV         | helst         |   | helssth               | helth       |   |   |   |   | dan |   |   |    |        408-26 |
 | w   |        | være          | xVB         | er            |   | er                    | eꝛ           |   |   |   |   | dan |   |   |    |        408-26 |
 | w   |        | æller         | xCC         | eller         |   | ell(e)r               | ell̅ꝛ         |   |   |   |   | dan |   |   |    |        408-26 |
