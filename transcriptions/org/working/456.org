@@ -42,22 +42,22 @@
 | :s: |        |             |     |            |   |               |               |   |   |   |   |     |   |   |   |        |
 | pm  |     1r |             |     |            |   |               |               |   |   |   |   |     |   |   |   |        |
 | lm  | 456-01 |             |     |            |   |               |               |   |   |   |   |     |   |   |   |        |
-| w   |        | jak         | xPD | jeg        |   | Jeg           | Jeg           |   |   |   |   | dan |   |   |   | 456-01 |
+| w   |        | jak         | xPE | jeg        |   | Jeg           | Jeg           |   |   |   |   | dan |   |   |   | 456-01 |
 | PE  |      b | OluMik001   |     |            |   |               |               |   |   |   |   |     |   |   |   |        |
 | w   |        |             | xNP | Oluf       |   | oluff         | oluff         |   |   |   |   | dan |   |   |   | 456-01 |
 | w   |        |             | xNP | Mikkelsen  |   | meckælss(øn)  | meckælſ      |   |   |   |   | dan |   |   |   | 456-01 |
 | PW  |      e | OluMik001   |     |            |   |               |               |   |   |   |   |     |   |   |   |        |
 | w   |        | kænne       | xVB | kendes     |   | kiennd(is)    | kienn        |   |   |   |   | dan |   |   |   | 456-01 |
-| w   |        | jak         | xPD | jeg        |   | Ieg           | Ieg           |   |   |   |   | dan |   |   |   | 456-01 |
-| w   |        | jak         | xPD | mig        |   | meg           | meg           |   |   |   |   | dan |   |   |   | 456-01 |
+| w   |        | jak         | xPE | jeg        |   | Ieg           | Ieg           |   |   |   |   | dan |   |   |   | 456-01 |
+| w   |        | jak         | xPE | mig        |   | meg           | meg           |   |   |   |   | dan |   |   |   | 456-01 |
 | w   |        | mæth        | xAP | med        |   | mett          | mett          |   |   |   |   | dan |   |   |   | 456-01 |
 | w   |        | thænne      | xDD | dette      |   | th(ette)      | thꝫͤ           |   |   |   |   | dan |   |   |   | 456-01 |
-| w   |        | min         | xPD | mit        |   | mytt          | mytt          |   |   |   |   | dan |   |   |   | 456-01 |
+| w   |        | min         | xDP | mit        |   | mytt          | mytt          |   |   |   |   | dan |   |   |   | 456-01 |
 | w   |        | open        | xAJ | åbne       |   | obnee         | obnee         |   |   |   |   | dan |   |   |   | 456-01 |
 | lm  | 456-02 |             |     |            |   |               |               |   |   |   |   |     |   |   |   |        |
 | w   |        | brev        | xNC | brev       |   | breff         | bꝛeff         |   |   |   |   | dan |   |   |   | 456-02 |
 | w   |        | at          | xCS | at         |   | Ath           | Ath           |   |   |   |   | dan |   |   |   | 456-02 |
-| w   |        | jak         | xPD | jeg        |   | Ieg           | Ieg           |   |   |   |   | dan |   |   |   | 456-02 |
+| w   |        | jak         | xPE | jeg        |   | Ieg           | Ieg           |   |   |   |   | dan |   |   |   | 456-02 |
 | w   |        | thakke      | xVB | takker     |   | Tacker        | Tacker        |   |   |   |   | dan |   |   |   | 456-02 |
 | w   |        | ærlik       | xAJ | ærlige     |   | E(r)liige     | Elııge       |   |   |   |   | dan |   |   |   | 456-02 |
 | w   |        | ok          | xCC | og         |   | och           | och           |   |   |   |   | dan |   |   |   | 456-02 |
@@ -75,7 +75,7 @@
 | w   |        |             | xNP | Anne       |   | Ann(n)e       | Ann̅e          |   |   |   |   | dan |   |   |   | 456-03 |
 | w   |        |             | xNP | Bosdatter  |   | bosdatt(er)   | boſdatt      |   |   |   |   | dan |   |   |   | 456-03 |
 | PE  |      e | AnnBos001   |     |            |   |               |               |   |   |   |   |     |   |   |   |        |
-| w   |        | hva         | xPD | hvis       |   | hwis          | hı          |   |   |   |   | dan |   |   |   | 456-03 |
+| w   |        | hva         | xPI | hvis       |   | hwis          | hı          |   |   |   |   | dan |   |   |   | 456-03 |
 | lm  | 456-04 |             |     |            |   |               |               |   |   |   |   |     |   |   |   |        |
 | w   |        | sjal        | xNC | sjæl       |   | Siæll         | ıæll         |   |   |   |   | dan |   |   |   | 456-04 |
 | w   |        | guth        | xNC | Gud        |   | guud          | guud          |   |   |   |   | dan |   |   |   | 456-04 |
@@ -93,7 +93,7 @@
 | w   |        |             | xNP | Roskilde   |   | Roskylle      | Roſkylle      |   |   |   |   | dan |   |   |   | 456-05 |
 | PL  |      e |             |     |            |   |               |               |   |   |   |   |     |   |   |   |        |
 | w   |        | thakke      | xVB | takkendes  |   | Tackynnd(is)  | Tackynn      |   |   |   |   | dan |   |   |   | 456-05 |
-| w   |        | thæn        | xPD | dem        |   | thønom(m)     | thønom̅        |   |   |   |   | dan |   |   |   | 456-05 |
+| w   |        | thæn        | xPE | dem        |   | thønom(m)     | thønom̅        |   |   |   |   | dan |   |   |   | 456-05 |
 | w   |        | al          | xAJ | alle       |   | alle          | alle          |   |   |   |   | dan |   |   |   | 456-05 |
 | w   |        | samen       | xAJ | sammen     |   | sam(m)en      | ſam̅en         |   |   |   |   | dan |   |   |   | 456-05 |
 | lm  | 456-06 |             |     |            |   |               |               |   |   |   |   |     |   |   |   |        |
@@ -105,24 +105,24 @@
 | w   |        | al          | xAJ | alle       |   | alle          | alle          |   |   |   |   | dan |   |   |   | 456-06 |
 | w   |        | mate        | xNC | måde       |   | made          | made          |   |   |   |   | dan |   |   |   | 456-06 |
 | w   |        | sum         | xRP | som        |   | ßom           | ßom           |   |   |   |   | dan |   |   |   | 456-06 |
-| w   |        | thæn        | xPD | de         |   | thy           | thy           |   |   |   |   | dan |   |   |   | 456-06 |
-| w   |        | jak         | xPD | mig        |   | meg           | meg           |   |   |   |   | dan |   |   |   | 456-06 |
+| w   |        | thæn        | xPE | de         |   | thy           | thy           |   |   |   |   | dan |   |   |   | 456-06 |
+| w   |        | jak         | xPE | mig        |   | meg           | meg           |   |   |   |   | dan |   |   |   | 456-06 |
 | lm  | 456-07 |             |     |            |   |               |               |   |   |   |   |     |   |   |   |        |
 | w   |        | nu          | xAV | nu         |   | nw            | nw            |   |   |   |   | dan |   |   |   | 456-07 |
 | w   |        | betale      | xVB | betalt     |   | betaledtt     | betaledtt     |   |   |   |   | dan |   |   |   | 456-07 |
 | w   |        | have        | xVB | haver      |   | haffue(r)     | haffue       |   |   |   |   | dan |   |   |   | 456-07 |
 | w   |        | thi         | xAV | thi        |   | Thy           | Thÿ           |   |   |   |   | dan |   |   |   | 456-07 |
 | w   |        | late        | xVB | lader      |   | ladhe(r)      | ladhe        |   |   |   |   | dan |   |   |   | 456-07 |
-| w   |        | jak         | xPD | jeg        |   | ieg           | ıeg           |   |   |   |   | dan |   |   |   | 456-07 |
-| w   |        | thæn        | xPD | dem        |   | thonom        | thonom        |   |   |   |   | dan |   |   |   | 456-07 |
+| w   |        | jak         | xPE | jeg        |   | ieg           | ıeg           |   |   |   |   | dan |   |   |   | 456-07 |
+| w   |        | thæn        | xPE | dem        |   | thonom        | thonom        |   |   |   |   | dan |   |   |   | 456-07 |
 | lm  | 456-08 |             |     |            |   |               |               |   |   |   |   |     |   |   |   |        |
 | w   |        | kvit        | xAJ | kvit       |   | quytt         | qűytt         |   |   |   |   | dan |   |   |   | 456-08 |
 | w   |        | fri         | xAJ | fri        |   | fry           | frÿ           |   |   |   |   | dan |   |   |   | 456-08 |
 | w   |        | for         | xAP | for        |   | for           | for           |   |   |   |   | dan |   |   |   | 456-08 |
-| w   |        | jak         | xPD | mig        |   | meg           | meg           |   |   |   |   | dan |   |   |   | 456-08 |
+| w   |        | jak         | xPE | mig        |   | meg           | meg           |   |   |   |   | dan |   |   |   | 456-08 |
 | w   |        | ok          | xCC | og         |   | och           | och           |   |   |   |   | dan |   |   |   | 456-08 |
 | w   |        | al          | xAJ | alle       |   | alle          | alle          |   |   |   |   | dan |   |   |   | 456-08 |
-| w   |        | min         | xPD | mine       |   | my(n)e        | mye          |   |   |   |   | dan |   |   |   | 456-08 |
+| w   |        | min         | xDP | mine       |   | my(n)e        | mye          |   |   |   |   | dan |   |   |   | 456-08 |
 | w   |        | arving      | xNC | arvinger   |   | arffui(n)ge   | aꝛffuı̅ge      |   |   |   |   | dan |   |   |   | 456-08 |
 | w   |        | for         | xAP | for        |   | for           | foꝛ           |   |   |   |   | dan |   |   |   | 456-08 |
 | w   |        | al          | xAJ | al         |   | al            | al            |   |   |   |   | dan |   |   |   | 456-08 |
@@ -140,7 +140,7 @@
 | PE  |      e | BodBos002   |     |            |   |               |               |   |   |   |   |     |   |   |   |        |
 | w   |        | ok          | xCC | og         |   | och           | och           |   |   |   |   | dan |   |   |   | 456-09 |
 | lm  | 456-10 |             |     |            |   |               |               |   |   |   |   |     |   |   |   |        |
-| w   |        | jak         | xPD | jeg        |   | ieg           | ıeg           |   |   |   |   | dan |   |   |   | 456-10 |
+| w   |        | jak         | xPE | jeg        |   | ieg           | ıeg           |   |   |   |   | dan |   |   |   | 456-10 |
 | w   |        | have        | xVB | havde      |   | haffde        | haffde        |   |   |   |   | dan |   |   |   | 456-10 |
 | w   |        | samen       | xAJ | samme      |   | sam(m)e       | ſam̅e          |   |   |   |   | dan |   |   |   | 456-10 |
 | w   |        | sva         | xAV | så         |   | ßaa           | ßaa           |   |   |   |   | dan |   |   |   | 456-10 |
@@ -155,7 +155,7 @@
 | w   |        | ytermere    | xAJ | ydermere   |   | yd(er)mer(e)  | ydmer       |   |   |   |   | dan |   |   |   | 456-11 |
 | w   |        | vitnesbyrth | xNC | vidnesbyrd |   | vynæ(r)byrdt  | vynæbyrdt    |   |   |   |   | dan |   |   |   | 456-11 |
 | w   |        | thrykje     | xVB | trykker    |   | Trøcker       | Tꝛøcker       |   |   |   |   | dan |   |   |   | 456-11 |
-| w   |        | jak         | xPD | jeg        |   | ieg           | ıeg           |   |   |   |   | dan |   |   |   | 456-11 |
+| w   |        | jak         | xPE | jeg        |   | ieg           | ıeg           |   |   |   |   | dan |   |   |   | 456-11 |
 | w   |        | min         | xDP | mit        |   | mytt          | mytt          |   |   |   |   | dan |   |   |   | 456-11 |
 | w   |        | signet      | xNC | signet     |   | syngetz       | yngetz       |   |   |   |   | dan |   |   |   | 456-11 |
 | lm  | 456-12 |             |     |            |   |               |               |   |   |   |   |     |   |   |   |        |
