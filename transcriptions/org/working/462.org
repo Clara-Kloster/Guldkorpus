@@ -51,7 +51,7 @@
 | w   |        | høre           | xVB | hører         |   | Horer               | Hoꝛeꝛ              |   |   |   |   | dan     |   |   |    |        462-01 |
 | w   |        | læse           | xVB | læse          |   | lesse               | leſſe              |   |   |   |   | dan     |   |   |    |        462-01 |
 | w   |        | helse          | xVB | hilse         |   | Helsse              | Helſſe             |   |   |   |   | dan     |   |   |    |        462-01 |
-| w   |        | vi             | xPD | vi            |   | wij                 | wij                |   |   |   |   | dan     |   |   |    |        462-01 |
+| w   |        | vi             | xPE | vi            |   | wij                 | wij                |   |   |   |   | dan     |   |   |    |        462-01 |
 | PE  | b      | PerOls001      |     |               |   |                     |                    |   |   |   |   |         |   |   |    |               |
 | w   |        |                | xNP | Per           |   | p(er)               | p̲                  |   |   |   |   | dan     |   |   |    |        462-01 |
 | w   |        |                | xNP | Olsen         |   | olss(øn)            | olſ               |   |   |   |   | dan     |   |   |    |        462-01 |
@@ -90,7 +90,7 @@
 | w   |        | var            | xDP | vor           |   | wor                 | woꝛ                |   |   |   |   | dan     |   |   |    |        462-03 |
 | w   |        | hærre          | xNC | herre         |   | Herre               | Heꝛꝛe              |   |   |   |   | dan     |   |   |    |        462-03 |
 | w   |        | gøre           | xVB | gøre          |   | g¡o!re              | goꝛe               |   |   |   |   | dan     |   |   |    |        462-03 |
-| w   |        | vi             | xPD | vi            |   | wij                 | wij                |   |   |   |   | dan     |   |   |    |        462-03 |
+| w   |        | vi             | xPE | vi            |   | wij                 | wij                |   |   |   |   | dan     |   |   |    |        462-03 |
 | w   |        | vitherlik      | xAJ | vitterligt    |   | witt(er)ligtt       | wıttlıgtt         |   |   |   |   | dan     |   |   |    |        462-03 |
 | w   |        | fore           | xAP | for           |   | ffor(e)             | ffoꝛ              |   |   |   |   | dan     |   |   |    |        462-03 |
 | lm  | 462-04 |                |     |               |   |                     |                    |   |   |   |   |         |   |   |    |               |
@@ -120,7 +120,7 @@
 | w   |        | skikke         | xVB | skikket       |   | skicked             | ſkıcked            |   |   |   |   | dan     |   |   |    |        462-05 |
 | lm  | 462-06 |                |     |               |   |                     |                    |   |   |   |   |         |   |   |    |               |
 | w   |        | fore           | xAP | for           |   | ffor(e)             | ffoꝛ              |   |   |   |   | dan     |   |   |    |        462-06 |
-| w   |        | vi             | xPD | os            |   | os                  | o                 |   |   |   |   | dan     |   |   |    |        462-06 |
+| w   |        | vi             | xPE | os            |   | os                  | o                 |   |   |   |   | dan     |   |   |    |        462-06 |
 | w   |        | ok             | xCC | og            |   | och                 | och                |   |   |   |   | dan     |   |   |    |        462-06 |
 | w   |        | mang           | xAJ | mange         |   | manghe              | manghe             |   |   |   |   | dan     |   |   |    |        462-06 |
 | w   |        | dandeman       | xNC | dannemænd     |   | da(n)ne mendtt      | da̅ne mendtt        |   |   |   |   | dan     |   |   |    |        462-06 |
@@ -177,7 +177,7 @@
 | w   |        | thing          | xNC | ting          |   | Tingh               | Tingh              |   |   |   |   | dan     |   |   |    |        462-10 |
 | w   |        | ok             | xCC | og            |   | och                 | och                |   |   |   |   | dan     |   |   |    |        462-10 |
 | w   |        | bithje         | xVB | bad           |   | badet               | badet              |   |   |   |   | dan     |   |   |    |        462-10 |
-| w   |        | sik            | xPD | sig           |   | ßigh                | ßigh               |   |   |   |   | dan     |   |   |    |        462-10 |
+| w   |        | sik            | xPE | sig           |   | ßigh                | ßigh               |   |   |   |   | dan     |   |   |    |        462-10 |
 | w   |        | guth           | xNC | Gud           |   | gudtt               | gŭdtt              |   |   |   |   | dan     |   |   |    |        462-10 |
 | w   |        | til            | xAP | til           |   | till                | till               |   |   |   |   | dan     |   |   |    |        462-10 |
 | lm  | 462-11 |                |     |               |   |                     |                    |   |   |   |   |         |   |   |    |               |
@@ -187,14 +187,14 @@
 | w   |        | at             | xIM | at            |   | att                 | att                |   |   |   |   | dan     |   |   |    |        462-11 |
 | w   |        | varthe         | xVB | vorde         |   | worde               | woꝛde              |   |   |   |   | dan     |   |   |    |        462-11 |
 | w   |        | at             | xCS | at            |   | att                 | att                |   |   |   |   | dan     |   |   |    |        462-11 |
-| w   |        | han            | xPD | ham           |   | Hanom(m)            | Hanom̅              |   |   |   |   | dan     |   |   |    |        462-11 |
+| w   |        | han            | xPE | hannem           |   | Hanom(m)            | Hanom̅              |   |   |   |   | dan     |   |   |    |        462-11 |
 | w   |        | minne          | xVB | mindes        |   | mint(is)            | mintꝭ              |   |   |   |   | dan     |   |   |    |        462-11 |
 | w   |        | i              | xAP | i             |   | y                   | ÿ                  |   |   |   |   | dan     |   |   |    |        462-11 |
 | w   |        | ful            | xAJ | fulde         |   | ffulde              | ffŭlde             |   |   |   |   | dan     |   |   |    |        462-11 |
 | n   |        | 32             |     | 32            |   | xxxvj               | xxxvj              |   |   |   |   | dan     |   |   |    |        462-11 |
 | lm  | 462-12 |                |     |               |   |                     |                    |   |   |   |   |         |   |   |    |               |
 | w   |        | ar             | xNC | år            |   | aar                 | aaꝛ                |   |   |   |   | dan     |   |   |    |        462-12 |
-| w   |        | thæn           | xPD | de            |   | thhe                | thhe               |   |   |   |   | dan     |   |   |    |        462-12 |
+| w   |        | thæn           | xPE | de            |   | thhe                | thhe               |   |   |   |   | dan     |   |   |    |        462-12 |
 | w   |        | hogge          | xVB | hugge         |   | Hugghe              | Hŭgghe             |   |   |   |   | dan     |   |   |    |        462-12 |
 | w   |        | upa            | xAP | på            |   | paa                 | paa                |   |   |   |   | dan     |   |   |    |        462-12 |
 | PL  | b      |                |     |               |   |                     |                    |   |   |   |   |         |   |   |    |               |
@@ -223,18 +223,18 @@
 | w   |        | um             | xAV | om            |   | om(m)               | om̅                 |   |   |   |   | dan     |   |   |    |        462-13 |
 | w   |        | kring          | xAV | kring         |   | kryngh              | kꝛÿngh             |   |   |   |   | dan     |   |   |    |        462-13 |
 | w   |        | ok             | xCC | og            |   | och                 | och                |   |   |   |   | dan     |   |   |    |        462-13 |
-| w   |        | ænge           | xPD | inge         |   | i(n)nghe            | ı̅nghe              |   |   |   |   | dan     |   |   |    |        462-13 |
+| w   |        | ænge           | xPI | inge         |   | i(n)nghe            | ı̅nghe              |   |   |   |   | dan     |   |   |    |        462-13 |
 | lm  | 462-14 |                |     |               |   |                     |                    |   |   |   |   |         |   |   |    |               |
 | w   |        | formene        | xVB | formente      |   | fformenthe          | ffoꝛmenthe         |   |   |   |   | dan     |   |   |    |        462-14 |
-| w   |        | thæn           | xPD | dem           |   | thennom(m)          | thennom̅            |   |   |   |   | dan     |   |   |    |        462-14 |
+| w   |        | thæn           | xPE | dem           |   | thennom(m)          | thennom̅            |   |   |   |   | dan     |   |   |    |        462-14 |
 | w   |        | thær           | xAV | der           |   | th(er)              | th                |   |   |   |   | dan     |   |   |    |        462-14 |
 | w   |        | at             | xIM | at            |   | att                 | att                |   |   |   |   | dan     |   |   |    |        462-14 |
 | w   |        | hogge          | xVB | hugge         |   | Hugghe              | Hŭgghe             |   |   |   |   | dan     |   |   |    |        462-14 |
 | w   |        | mæthen         | xCC | men           |   | menn(n)             | menn̅               |   |   |   |   | dan     |   |   |    |        462-14 |
 | w   |        | hælder         | xAV | heller        |   | Heller              | Helleꝛ             |   |   |   |   | dan     |   |   |    |        462-14 |
-| w   |        | thæn           | xPD | de            |   | the                 | the                |   |   |   |   | dan     |   |   |    |        462-14 |
+| w   |        | thæn           | xPE | de            |   | the                 | the                |   |   |   |   | dan     |   |   |    |        462-14 |
 | w   |        | hogge          | xVB | hugge         |   | Hugghe              | Hŭgghe             |   |   |   |   | dan     |   |   |    |        462-14 |
-| w   |        | thæn           | xPD | det           |   | th(et)              | thꝫ                |   |   |   |   | dan     |   |   |    |        462-14 |
+| w   |        | thæn           | xPE | det           |   | th(et)              | thꝫ                |   |   |   |   | dan     |   |   |    |        462-14 |
 | lm  | 462-15 |                |     |               |   |                     |                    |   |   |   |   |         |   |   |    |               |
 | w   |        | mæth           | xAP | med           |   | m(et)               | mꝫ                 |   |   |   |   | dan     |   |   |    |        462-15 |
 | w   |        | ræt            | xNC | rette         |   | rette               | ꝛette              |   |   |   |   | dan     |   |   |    |        462-15 |
@@ -242,8 +242,8 @@
 | w   |        | uræt           | xNC | urette        |   | wrette              | wrette             |   |   |   |   | dan     |   |   |    |        462-15 |
 | w   |        | thær           | xAV | der           |   | th(er)              | th                |   |   |   |   | dan     |   |   |    |        462-15 |
 | w   |        | vite           | xVB | vide          |   | wide                | wide               |   |   |   |   | dan     |   |   |    |        462-15 |
-| w   |        | han            | xPD | han           |   | ha(n)               | ha̅                 |   |   |   |   | dan     |   |   |    |        462-15 |
-| w   |        | ænge           | xPD | intet         |   | inth(et)            | inthꝫ              |   |   |   |   | dan     |   |   |    |        462-15 |
+| w   |        | han            | xPE | han           |   | ha(n)               | ha̅                 |   |   |   |   | dan     |   |   |    |        462-15 |
+| w   |        | ænge           | xPI | intet         |   | inth(et)            | inthꝫ              |   |   |   |   | dan     |   |   |    |        462-15 |
 | w   |        | af             | xAV | af            |   | aff                 | aff                |   |   |   |   | dan     |   |   |    |        462-15 |
 | w   |        | ok             | xCC | og            |   | och                 | och                |   |   |   |   | dan     |   |   |    |        462-15 |
 | w   |        | tha            | xAV | da            |   | da                  | da                 |   |   |   |   | dan     |   |   |    |        462-15 |
@@ -257,10 +257,10 @@
 | w   |        | at             | xCS | at            |   | att                 | att                |   |   |   |   | dan     |   |   |    |        462-16 |
 | w   |        | hand           | xNC | han           |   | Hand                | Hand               |   |   |   |   | dan     |   |   |    |        462-16 |
 | w   |        | vite           | xVB | vidste        |   | wiste               | wiſte              |   |   |   |   | dan     |   |   |    |        462-16 |
-| w   |        | ænge           | xPD | intet         |   | inthed              | ınthed             |   |   |   |   | dan     |   |   |    |        462-16 |
+| w   |        | ænge           | xPI | intet         |   | inthed              | ınthed             |   |   |   |   | dan     |   |   |    |        462-16 |
 | w   |        | af             | xAP | af            |   | aff                 | aff                |   |   |   |   | dan     |   |   |    |        462-16 |
 | w   |        | mylne          | xNC | mølle         |   | mølle               | mølle              |   |   |   |   | dan     |   |   |    |        462-16 |
-| w   |        | ænge           | xPD | engen         |   | Eenghen(n)          | Eenghen̅            |   |   |   |   | dan     |   |   |    |        462-16 |
+| w   |        | æng            | xNC | engen         |   | Eenghen(n)          | Eenghen̅            |   |   |   |   | dan     |   |   |    |        462-16 |
 | w   |        | at             | xCS | at            |   | att                 | att                |   |   |   |   | dan     |   |   |    |        462-16 |
 | w   |        | sæghje         | xVB | sige          |   | ssiie               | iie               |   |   |   |   | dan     |   |   |    |        462-16 |
 | lm  | 462-17 |                |     |               |   |                     |                    |   |   |   |   |         |   |   |    |               |
@@ -281,7 +281,7 @@
 | lm  | 462-18 |                |     |               |   |                     |                    |   |   |   |   |         |   |   |    |               |
 | w   |        | ok             | xCC | og            |   | och                 | och                |   |   |   |   | dan     |   |   |    |        462-18 |
 | w   |        | bithje         | xVB | bad           |   | bad                 | bad                |   |   |   |   | dan     |   |   |    |        462-18 |
-| w   |        | sik            | xPD | sig           |   | ßiigh               | ßiigh              |   |   |   |   | dan     |   |   |    |        462-18 |
+| w   |        | sik            | xPE | sig           |   | ßiigh               | ßiigh              |   |   |   |   | dan     |   |   |    |        462-18 |
 | w   |        | guth           | xNC | Gud           |   | gudtt               | gŭdtt              |   |   |   |   | dan     |   |   |    |        462-18 |
 | w   |        | til            | xAP | til           |   | Till                | Till               |   |   |   |   | dan     |   |   |    |        462-18 |
 | w   |        | hjalp          | xNC | hjælpe        |   | Hielpe              | Hielpe             |   |   |   |   | dan     |   |   |    |        462-18 |
@@ -291,7 +291,7 @@
 | w   |        | varthe         | xVB | vorde         |   | worde               | woꝛde              |   |   |   |   | dan     |   |   |    |        462-18 |
 | w   |        | at             | xCS | at            |   | att                 | att                |   |   |   |   | dan     |   |   |    |        462-18 |
 | lm  | 462-19 |                |     |               |   |                     |                    |   |   |   |   |         |   |   |    |               |
-| w   |        | han            | xPD | ham           |   | ha(m)               | haͫ                 |   |   |   |   | dan     |   |   |    |        462-19 |
+| w   |        | han            | xPE | ham           |   | ha(m)               | haͫ                 |   |   |   |   | dan     |   |   |    |        462-19 |
 | w   |        | minne          | xVB | mindes        |   | mint(is)            | mintꝭ              |   |   |   |   | dan     |   |   |    |        462-19 |
 | w   |        | i              | xAP | i             |   | y                   | ÿ                  |   |   |   |   | dan     |   |   |    |        462-19 |
 | w   |        | ful            | xAJ | fulde         |   | ffulldhe            | ffŭlldhe           |   |   |   |   | dan     |   |   |    |        462-19 |
@@ -299,7 +299,7 @@
 | w   |        | ar             | xNC | år            |   | aar                 | aaꝛ                |   |   |   |   | dan     |   |   |    |        462-19 |
 | w   |        | sithen         | xAV | siden         |   | ßydhen(n)           | ßydhen̅             |   |   |   |   | dan     |   |   |    |        462-19 |
 | w   |        | thær           | xAV | der           |   | der                 | deꝛ                |   |   |   |   | dan     |   |   |    |        462-19 |
-| w   |        | han            | xPD | han           |   | Hand                | Hand               |   |   |   |   | dan     |   |   |    |        462-19 |
+| w   |        | han            | xPE | han           |   | Hand                | Hand               |   |   |   |   | dan     |   |   |    |        462-19 |
 | w   |        | bo             | xVB | både          |   | bode                | bode               |   |   |   |   | dan     |   |   |    |        462-19 |
 | w   |        | i              | xAP | i             |   | y                   | ÿ                  |   |   |   |   | dan     |   |   |    |        462-19 |
 | w   |        | fornævnd       | xAJ | fornævnte     |   | ffor(nefnde)        | ffoꝛͩͤ               |   |   |   |   | dan     |   |   |    |        462-19 |
@@ -310,7 +310,7 @@
 | PL  | e      |                |     |               |   |                     |                    |   |   |   |   |         |   |   |    |               |
 | w   |        | tha            | xAV | da            |   | da                  | da                 |   |   |   |   | dan     |   |   |    |        462-20 |
 | w   |        | hogge          | xVB | hugge         |   | hugghe              | hugghe             |   |   |   |   | dan     |   |   |    |        462-20 |
-| w   |        | thæn           | xPD | de            |   | de                  | de                 |   |   |   |   | dan     |   |   |    |        462-20 |
+| w   |        | thæn           | xPE | de            |   | de                  | de                 |   |   |   |   | dan     |   |   |    |        462-20 |
 | w   |        | upa            | xAP | på            |   | paa                 | paa                |   |   |   |   | dan     |   |   |    |        462-20 |
 | PL  | b      |                |     |               |   |                     |                    |   |   |   |   |         |   |   |    |               |
 | w   |        |                | xNP | Spåne          |   | ßpaane              | ßpaane             |   |   |   |   | dan     |   |   |    |        462-20 |
@@ -324,7 +324,7 @@
 | PL  | e      |                |     |               |   |                     |                    |   |   |   |   |         |   |   |    |               |
 | lm  | 462-21 |                |     |               |   |                     |                    |   |   |   |   |         |   |   |    |               |
 | w   |        | ok             | xCC | og            |   | och                 | och                |   |   |   |   | dan     |   |   |    |        462-21 |
-| w   |        | ække           | xPD | ikke          |   | icke                | ıcke               |   |   |   |   | dan     |   |   |    |        462-21 |
+| w   |        | ække           | xAV | ikke          |   | icke                | ıcke               |   |   |   |   | dan     |   |   |    |        462-21 |
 | w   |        | vith           | xAJ | videre        |   | vider(e)            | videꝛ             |   |   |   |   | dan     |   |   |    |        462-21 |
 | w   |        | upa            | xAP | på            |   | paa                 | paa                |   |   |   |   | dan     |   |   |    |        462-21 |
 | w   |        | thænne         | xDD | disse         |   | thesse              | thee              |   |   |   |   | dan     |   |   |    |        462-21 |
@@ -364,7 +364,7 @@
 | w   |        |                | xNP | Igelsø        |   | ey¦elssø            | eÿ¦elø            |   |   |   |   | dan     |   |   |    | 462-23—462-24 |
 | PL  | e      |                |     |               |   |                     |                    |   |   |   |   |         |   |   |    |               |
 | w   |        | til            | xAP | til           |   | till                | till               |   |   |   |   | dan     |   |   |    |        462-24 |
-| w   |        | sik            | xPD | sig           |   | Sigh                | igh               |   |   |   |   | dan     |   |   |    |        462-24 |
+| w   |        | sik            | xPE | sig           |   | Sigh                | igh               |   |   |   |   | dan     |   |   |    |        462-24 |
 | w   |        | at             | xIM | at            |   | att                 | att                |   |   |   |   | dan     |   |   |    |        462-24 |
 | w   |        | take           | xVB | tag           |   | tagh                | tagh               |   |   |   |   | dan     |   |   |    |        462-24 |
 | n   |        | 12             |     | 12            |   | xj                  | xj                 |   |   |   |   | dan     |   |   |    |        462-24 |
@@ -510,11 +510,11 @@
 | w   |        | sum            | xRP | som           |   | ssom(m)             | om̅                |   |   |   |   | dan     |   |   |    |        462-33 |
 | w   |        | forskreven     | xAJ | forskrevet    |   | for(screffuitt)     | foꝛͥͭͭ               |   |   |   |   | dan     |   |   |    |        462-33 |
 | w   |        | sta            | xVB | står          |   | staar               | ſtaaꝛ              |   |   |   |   | dan     |   |   |    |        462-33 |
-| w   |        | thæn           | xPD | det           |   | th(et)              | thꝫ                |   |   |   |   | dan     |   |   |    |        462-33 |
+| w   |        | thæn           | xPE | det           |   | th(et)              | thꝫ                |   |   |   |   | dan     |   |   |    |        462-33 |
 | lm  | 462-34 |                |     |               |   |                     |                    |   |   |   |   |         |   |   |    |               |
 | w   |        | besta          | xVB | bestå         |   | bestaae             | beſtaae            |   |   |   |   | dan     |   |   |    |        462-34 |
 | w   |        | ok             | xCC | og            |   | och                 | och                |   |   |   |   | dan     |   |   |    |        462-34 |
-| w   |        | vi             | xPD | vi            |   | wy                  | wÿ                 |   |   |   |   | dan     |   |   |    |        462-34 |
+| w   |        | vi             | xPE | vi            |   | wy                  | wÿ                 |   |   |   |   | dan     |   |   |    |        462-34 |
 | w   |        | mæth           | xAP | med           |   | m(et)               | mꝫ                 |   |   |   |   | dan     |   |   |    |        462-34 |
 | w   |        | var            | xDP | vore          |   | wor(e)              | woꝛ               |   |   |   |   | dan     |   |   |    |        462-34 |
 | w   |        | insighle       | xNC | indsegle       |   | ingzegle            | ingzegle           |   |   |   |   | dan     |   |   |    |        462-34 |
