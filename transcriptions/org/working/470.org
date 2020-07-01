@@ -43,7 +43,7 @@
 | pm  |     1r |                |     |                |   |                |                |   |   |   |   |     |   |   |   |               |
 | lm  | 470-01 |                |     |                |   |                |                |   |   |   |   |     |   |   |   |               |
 | w   |        | kænne          | xVB | kendes         |   | Kendis         | Kendi         |   |   |   |   | dan |   |   |   |        470-01 |
-| w   |        | jak            | xPD | jeg            |   | Jeg            | Jeg            |   |   |   |   | dan |   |   |   |        470-01 |
+| w   |        | jak            | xPE | jeg            |   | Jeg            | Jeg            |   |   |   |   | dan |   |   |   |        470-01 |
 | PE  |      b | NieHem001      |     |                |   |                |                |   |   |   |   |     |   |   |   |               |
 | w   |        |                | xNP | Niels          |   | Nicolaus       | Nicolaŭ       |   |   |   |   | lat |   |   |   |        470-01 |
 | w   |        |                | xNP | Hemmingsen     |   | Hemmingius     | Hemmingiŭ     |   |   |   |   | lat |   |   |   |        470-01 |
@@ -58,7 +58,7 @@
 | w   |        | brev           | xNC | brev           |   | Breff          | Breff          |   |   |   |   | dan |   |   |   |        470-02 |
 | p   |        |                |     |                |   | ,              | ,              |   |   |   |   | dan |   |   |   |        470-02 |
 | w   |        | at             | xCS | at             |   | at             | at             |   |   |   |   | dan |   |   |   |        470-02 |
-| w   |        | jak            | xPD | mig            |   | mig            | mig            |   |   |   |   | dan |   |   |   |        470-02 |
+| w   |        | jak            | xPE | mig            |   | mig            | mig            |   |   |   |   | dan |   |   |   |        470-02 |
 | w   |        | være           | xVB | er             |   | er             | er             |   |   |   |   | dan |   |   |   |        470-02 |
 | w   |        | unne           | xVB | undt           |   | Vndt           | Vndt           |   |   |   |   | dan |   |   |   |        470-02 |
 | lm  | 470-03 |                |     |                |   |                |                |   |   |   |   |     |   |   |   |               |
@@ -144,7 +144,7 @@
 | p   |        |                |     |                |   | ,              | ,              |   |   |   |   | dan |   |   |   |        470-11 |
 | w   |        | sva            | xAV | så             |   | saa            | ſaa            |   |   |   |   | dan |   |   |   |        470-11 |
 | w   |        | længe          | xAV | længe          |   | lenge          | lenge          |   |   |   |   | dan |   |   |   |        470-11 |
-| w   |        | hun            | xPD | hun            |   | hun            | hŭn            |   |   |   |   | dan |   |   |   |        470-11 |
+| w   |        | hun            | xPE | hun            |   | hun            | hŭn            |   |   |   |   | dan |   |   |   |        470-11 |
 | w   |        | sitje          | xVB | sidder         |   | sidder         | ſidder         |   |   |   |   | dan |   |   |   |        470-11 |
 | w   |        | ænkje          | xNC | enke           |   | Encke          | Encke          |   |   |   |   | dan |   |   |   |        470-11 |
 | p   |        |                |     |                |   | ,              | ,              |   |   |   |   | dan |   |   |   |        470-11 |
@@ -154,7 +154,7 @@
 | w   |        | vilkor         | xNC | vilkår         |   | Vilkaar        | Vilkaar        |   |   |   |   | dan |   |   |   |        470-12 |
 | p   |        |                |     |                |   | ,              | ,              |   |   |   |   | dan |   |   |   |        470-12 |
 | w   |        | at             | xCS | at             |   | at             | at             |   |   |   |   | dan |   |   |   |        470-12 |
-| w   |        | vi             | xPD | vi             |   | Vi             | Vi             |   |   |   |   | dan |   |   |   |        470-12 |
+| w   |        | vi             | xPE | vi             |   | Vi             | Vi             |   |   |   |   | dan |   |   |   |        470-12 |
 | w   |        | af             | xAP | af             |   | aff            | aff            |   |   |   |   | dan |   |   |   |        470-12 |
 | w   |        | fornævnd       | xAJ | fornævnte      |   | for(nefnde)    | forᷠͤ            |   |   |   |   | dan |   |   |   |        470-12 |
 | w   |        |                | xNP | Clara          |   | Clare          | Clare          |   |   |   |   | dan |   |   |   |        470-12 |
@@ -200,7 +200,7 @@
 | p   |        |                |     |                |   | ,              | ,              |   |   |   |   | dan |   |   |   |        470-16 |
 | w   |        | ok             | xCC | og             |   | Oc             | Oc             |   |   |   |   | dan |   |   |   |        470-16 |
 | w   |        | sva            | xAV | så             |   | saa            | ſaa            |   |   |   |   | dan |   |   |   |        470-16 |
-| w   |        | sjalv          | xPD | selv           |   | selff          | ſelff          |   |   |   |   | dan |   |   |   |        470-16 |
+| w   |        | sjalv          | xPI | selv           |   | selff          | ſelff          |   |   |   |   | dan |   |   |   |        470-16 |
 | w   |        | fornævnd       | xAJ | fornævnte      |   | for(nefnde)    | forᷠͤ            |   |   |   |   | dan |   |   |   |        470-16 |
 | w   |        | ænghaghe       | xNC | enghave        |   | Eng¦hauffue    | Eng¦haŭffŭe    |   |   |   |   | dan |   |   |   | 470-16—470-17 |
 | w   |        | ok             | xCC  | og             |   | oc             | oc             |   |   |   |   | dan |   |   |   |        470-17 |
@@ -226,7 +226,7 @@
 | p   |        |                |     |                |   | .              | .              |   |   |   |   | dan |   |   |   |        470-19 |
 | w   |        | samelethes     | xAV | sammeledes     |   | Sammeledis     | Sammeledi     |   |   |   |   | dan |   |   |   |        470-19 |
 | w   |        | være           | xVB | er             |   | er             | er             |   |   |   |   | dan |   |   |   |        470-19 |
-| w   |        | jak            | xPD | mig            |   | mig            | mig            |   |   |   |   | dan |   |   |   |        470-19 |
+| w   |        | jak            | xPE | mig            |   | mig            | mig            |   |   |   |   | dan |   |   |   |        470-19 |
 | w   |        | ok             | xCC | og             |   | og             | og             |   |   |   |   | dan |   |   |   |        470-19 |
 | w   |        | fornævnd       | xAJ | fornævnte      |   | for(nefnde)    | forᷠͤ            |   |   |   |   | dan |   |   |   |        470-19 |
 | w   |        | min            | xDP | min            |   | min            | min            |   |   |   |   | dan |   |   |   |        470-19 |
@@ -243,7 +243,7 @@
 | w   |        | universitet    | xNC | universitet    |   | Vniuersitet    | Vniŭerſitet    |   |   |   |   | dan |   |   |   |        470-21 |
 | p   |        |                |     |                |   | ,              | ,              |   |   |   |   | dan |   |   |   |        470-21 |
 | w   |        | at             | xCS | at             |   | at             | at             |   |   |   |   | dan |   |   |   |        470-21 |
-| w   |        | vi             | xPD | vi             |   | Wi             | Wi             |   |   |   |   | dan |   |   |   |        470-21 |
+| w   |        | vi             | xPE | vi             |   | Wi             | Wi             |   |   |   |   | dan |   |   |   |        470-21 |
 | w   |        | mughe          | xVB | må             |   | mue            | mŭe            |   |   |   |   | dan |   |   |   |        470-21 |
 | w   |        | nyte           | xVB | nyde           |   | nyde           | nÿde           |   |   |   |   | dan |   |   |   |        470-21 |
 | w   |        | ok             | xCC | og             |   | oc             | oc             |   |   |   |   | dan |   |   |   |        470-21 |
@@ -274,7 +274,7 @@
 | w   |        | af             | xAP | af             |   | aff            | aff            |   |   |   |   | dan |   |   |   |        470-24 |
 | w   |        | universitet    | xNC | universitetet  |   | Vniuersitetit  | Vniŭerſitetit  |   |   |   |   | dan |   |   |   |        470-24 |
 | w   |        | ok             | xCC | og             |   | oc             | oc             |   |   |   |   | dan |   |   |   |        470-24 |
-| w   |        | ænge           | xPD | ingen          |   | ingen          | ingen          |   |   |   |   | dan |   |   |   |        470-24 |
+| w   |        | ænge           | xDD | ingen          |   | ingen          | ingen          |   |   |   |   | dan |   |   |   |        470-24 |
 | w   |        |                | xNC | pension        |   | Pension        | Penſion        |   |   |   |   | dan |   |   |   |        470-24 |
 | w   |        | æller          | xCC | eller          |   | eller          | eller          |   |   |   |   | dan |   |   |   |        470-24 |
 | lm  | 470-25 |                |     |                |   |                |                |   |   |   |   |     |   |   |   |               |
@@ -304,10 +304,10 @@
 | p   |        |                |     |                |   | ,              | ,              |   |   |   |   | dan |   |   |   |        470-27 |
 | w   |        | ok             | xCC | og             |   | oc             | oc             |   |   |   |   | dan |   |   |   |        470-27 |
 | w   |        | skule          | xVB | skulle         |   | skulle         | ſkŭlle         |   |   |   |   | dan |   |   |   |        470-27 |
-| w   |        | vi             | xPD | vi             |   | Wi             | Wi             |   |   |   |   | dan |   |   |   |        470-27 |
-| w   |        | han            | xPD | hannem            |   | hannem         | hannem         |   |   |   |   | dan |   |   |   |        470-27 |
+| w   |        | vi             | xPE | vi             |   | Wi             | Wi             |   |   |   |   | dan |   |   |   |        470-27 |
+| w   |        | han            | xPE | hannem            |   | hannem         | hannem         |   |   |   |   | dan |   |   |   |        470-27 |
 | lm  | 470-28 |                |     |                |   |                |                |   |   |   |   |     |   |   |   |               |
-| w   |        | ække           | xPD | ikke           |   | icke           | icke           |   |   |   |   | dan |   |   |   |        470-28 |
+| w   |        | ække           | xAV | ikke           |   | icke           | icke           |   |   |   |   | dan |   |   |   |        470-28 |
 | w   |        | forarghe       | xVB | forarge        |   | forarge        | forarge        |   |   |   |   | dan |   |   |   |        470-28 |
 | w   |        | mæthen         | xCC | men            |   | men            | men            |   |   |   |   | dan |   |   |   |        470-28 |
 | w   |        | hælder         | xAV | heller         |   | heller         | heller         |   |   |   |   | dan |   |   |   |        470-28 |
