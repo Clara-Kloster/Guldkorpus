@@ -42,7 +42,7 @@
 | :s: |        |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |
 | pm  | 1r     |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |
 | lm  | 469-01 |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |
-| w   |        | vi           | xPD | Vi             |   | Wi                 | Wi              |              |   |   |   | dan |   |   |   |          469-01 |
+| w   |        | vi           | xPE | Vi             |   | Wi                 | Wi              |              |   |   |   | dan |   |   |   |          469-01 |
 | w   |        | æfterskrive  | xVB | efterskrevne   |   | Effther(screffne)  | Efftherᷠͤ         |              |   |   |   | dan |   |   |   |          469-01 |
 | w   |        | rektor       | xNC | rektor         |   | Rector             | Rector          |              |   |   |   | lat |   |   |   |          469-01 |
 | w   |        | ok           | xCC | og             |   | oc                 | oc              |              |   |   |   | dan |   |   |   |          469-01 |
@@ -67,7 +67,7 @@
 | w   |        | brev         | xNC | brev           |   | Breff              | Breff           |              |   |   |   | dan |   |   |   |          469-03 |
 | p   |        |              |     |                |   | ,                  | ,               |              |   |   |   | dan |   |   |   |          469-03 |
 | w   |        | at           | xCS | at             |   | At                 | At              |              |   |   |   | dan |   |   |   |          469-03 |
-| w   |        | vi           | xPD | vi             |   | wi                 | wi              |              |   |   |   | dan |   |   |   |          469-03 |
+| w   |        | vi           | xPE | vi             |   | wi                 | wi              |              |   |   |   | dan |   |   |   |          469-03 |
 | w   |        | af           | xAP | af             |   | aff                | aff             |              |   |   |   | dan |   |   |   |          469-03 |
 | w   |        | synderlik    | xAJ | synderlige     |   | synderlige         | ÿnderlige      |              |   |   |   | dan |   |   |   |          469-03 |
 | w   |        | orsak        | xNC | årsager        |   | Aarsa¦ger          | Aarſa¦ger       |              |   |   |   | dan |   |   |   | 469-03---469-04 |
@@ -84,7 +84,7 @@
 | w   |        | mæth         | xAP | med            |   | met                | met             |              |   |   |   | dan |   |   |   |          469-04 |
 | w   |        | thænne       | xDD | dette          |   | dette              | dette           |              |   |   |   | dan |   |   |   |          469-04 |
 | lm  | 469-05 |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |
-| w   |        | var          | xPD | vort           |   | vort               | vort            |              |   |   |   | dan |   |   |   |          469-05 |
+| w   |        | var          | xDP | vort           |   | vort               | vort            |              |   |   |   | dan |   |   |   |          469-05 |
 | w   |        | open         | xAJ | åbne           |   | obne               | obne            |              |   |   |   | dan |   |   |   |          469-05 |
 | w   |        | brev         | xNC | brev           |   | Breff              | Breff           |              |   |   |   | dan |   |   |   |          469-05 |
 | p   |        |              |     |                |   | ,                  | ,               |              |   |   |   | dan |   |   |   |          469-05 |
@@ -105,7 +105,7 @@
 | w   |        |              | xNP | Hemmingsen     |   | Hemmingßenn        | Hemmingßenn     |              |   |   |   | dan |   |   |   |          469-06 |
 | PE  | e      | NieHem001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |
 | w   |        | ok           | xCC | og             |   | oc                 | oc              |              |   |   |   | dan |   |   |   |          469-06 |
-| w   |        | han          | xPD | hans           |   | hans               | han            |              |   |   |   | dan |   |   |   |          469-06 |
+| w   |        | han          | xPE | hans           |   | hans               | han            |              |   |   |   | dan |   |   |   |          469-06 |
 | lm  | 469-07 |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |
 | w   |        | husfrue      | xNC | hustru         |   | Hustrue            | Hŭſtrŭe         |              |   |   |   | dan |   |   |   |          469-07 |
 | PE  | b      | BirLau001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |
@@ -138,7 +138,7 @@
 | w   |        | æng+vang     | xNC | Engvangen      |   | Engvongenn         | Engvongenn      |              |   |   |   | dan |   |   |   |          469-10 |
 | p   |        |              |     |                |   | ,                  | ,               |              |   |   |   | dan |   |   |   |          469-10 |
 | w   |        | sum          | xRP | som            |   | Som                | om             |              |   |   |   | dan |   |   |   |          469-10 |
-| w   |        | var          | xPD | vor            |   | vor                | vor             |              |   |   |   | dan |   |   |   |          469-10 |
+| w   |        | var          | xDP | vor            |   | vor                | vor             |              |   |   |   | dan |   |   |   |          469-10 |
 | w   |        | kollegiatus  | xNC | kollega        |   | Colle¦ga           | Colle¦ga        |              |   |   |   | dan |   |   |   | 469-10---469-11 |
 | w   |        | doktor       | xNC | doktor         |   | D(octor)           | D.              |              |   |   |   | dan |   |   |   |          469-11 |
 | PE  | b      | AndLau002    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |
@@ -169,12 +169,12 @@
 | w   |        | tith         | xNC | tid            |   | tid                | tid             |              |   |   |   | dan |   |   |   |          469-13 |
 | w   |        | ok           | xCC | og             |   | oc                 | oc              |              |   |   |   | dan |   |   |   |          469-13 |
 | w   |        | fornævnd     | xAJ | fornævnte      |   | for(nefnde)        | forᷠͤ             |              |   |   |   | dan |   |   |   |          469-13 |
-| w   |        | han          | xPD | hans           |   | hans               | han            |              |   |   |   | dan |   |   |   |          469-13 |
+| w   |        | han          | xPE | hans           |   | hans               | han            |              |   |   |   | dan |   |   |   |          469-13 |
 | w   |        | husfrue      | xNC | hustru         |   | hustrues           | hŭſtrŭe        |              |   |   |   | dan |   |   |   |          469-13 |
 | p   |        |              |     |                |   | ,                  | ,               |              |   |   |   | dan |   |   |   |          469-13 |
 | w   |        | sva          | xAV | så             |   | saa                | ſaa             |              |   |   |   | dan |   |   |   |          469-13 |
 | w   |        | længe        | xAV | længe          |   | lenge              | lenge           |              |   |   |   | dan |   |   |   |          469-13 |
-| w   |        | hun          | xPD | hun            |   | hun                | hŭn             |              |   |   |   | dan |   |   |   |          469-13 |
+| w   |        | hun          | xPE | hun            |   | hun                | hŭn             |              |   |   |   | dan |   |   |   |          469-13 |
 | w   |        | sitje        | xVB | sidder         |   | sid¦der            | ſid¦der         |              |   |   |   | dan |   |   |   | 469-13---469-14 |
 | w   |        | ænkje        | xNC | enke           |   | Encke              | Encke           |              |   |   |   | dan |   |   |   |          469-14 |
 | p   |        |              |     |                |   | ,                  | ,               |              |   |   |   | dan |   |   |   |          469-14 |
@@ -200,7 +200,7 @@
 | w   |        | vilkor       | xNC | vilkår         |   | vilkaar            | vilkaar         |              |   |   |   | dan |   |   |   |          469-16 |
 | p   |        |              |     |                |   | ,                  | ,               |              |   |   |   | dan |   |   |   |          469-16 |
 | w   |        | at           | xCS | at             |   | at                 | at              |              |   |   |   | dan |   |   |   |          469-16 |
-| w   |        | thæn         | xPD | de             |   | de                 | de              |              |   |   |   | dan |   |   |   |          469-16 |
+| w   |        | thæn         | xPE | de             |   | de                 | de              |              |   |   |   | dan |   |   |   |          469-16 |
 | w   |        | af           | xAP | af             |   | aff                | aff             |              |   |   |   | dan |   |   |   |          469-16 |
 | w   |        | fornævnd     | xAJ | fornævnte      |   | for(nefnde)        | forᷠͤ             |              |   |   |   | dan |   |   |   |          469-16 |
 | w   |        |              | xNP | Clara          |   | Clare              | Clare           |              |   |   |   | dan |   |   |   |          469-16 |
@@ -245,7 +245,7 @@
 | p   |        |              |     |                |   | ,                  | ,               |              |   |   |   | dan |   |   |   |          469-21 |
 | w   |        | ok           | xCC | og             |   | Oc                 | Oc              |              |   |   |   | dan |   |   |   |          469-21 |
 | w   |        | sva          | xAV | så             |   | saa                | ſaa             |              |   |   |   | dan |   |   |   |          469-21 |
-| w   |        | sjalv        | xPD | selv           |   | selff              | ſelff           |              |   |   |   | dan |   |   |   |          469-21 |
+| w   |        | sjalv        | xPI | selv           |   | selff              | ſelff           |              |   |   |   | dan |   |   |   |          469-21 |
 | w   |        | fornævnd     | xAJ | fornævnte      |   | for(nefnde)        | forᷠͤ             |              |   |   |   | dan |   |   |   |          469-21 |
 | w   |        | ænghaghe     | xNC | Enghave        |   | Eng¦hauffue        | Eng¦haŭffŭe     |              |   |   |   | dan |   |   |   | 469-21---469-22 |
 | w   |        | ok           | xCC | og             |   | oc                 | oc              |              |   |   |   | dan |   |   |   |          469-22 |
@@ -272,7 +272,7 @@
 | p   |        |              |     |                |   | .                  | .               |              |   |   |   | dan |   |   |   |          469-24 |
 | w   |        | samelethes   | xAV | sammeledes     |   | Sam¦meledis        | am¦meledi     |              |   |   |   | dan |   |   |   | 469-24---469-25 |
 | w   |        | have         | xVB | have           |   | haffue             | haffŭe          |              |   |   |   | dan |   |   |   |          469-25 |
-| w   |        | vi           | xPD | vi             |   | wi                 | wi              |              |   |   |   | dan |   |   |   |          469-25 |
+| w   |        | vi           | xPE | vi             |   | wi                 | wi              |              |   |   |   | dan |   |   |   |          469-25 |
 | w   |        | i            | xAP | i              |   | i                  | i               |              |   |   |   | dan |   |   |   |          469-25 |
 | w   |        | synderlikhet | xNC | synderlighed   |   | Synderlighed       | ynderlighed    |              |   |   |   | dan |   |   |   |          469-25 |
 | w   |        | unne         | xVB | undt           |   | vndt               | vndt            |              |   |   |   | dan |   |   |   |          469-25 |
@@ -286,7 +286,7 @@
 | PE  | e      | NieHem001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |
 | w   |        | ok           | xCC | og             |   | oc                 | oc              |              |   |   |   | dan |   |   |   |          469-26 |
 | w   |        | fornævnd     | xAJ | fornævnte      |   | for(nefnde)        | forᷠͤ             |              |   |   |   | dan |   |   |   |          469-26 |
-| w   |        | han          | xPD | hans           |   | hans               | han            |              |   |   |   | dan |   |   |   |          469-26 |
+| w   |        | han          | xPE | hans           |   | hans               | han            |              |   |   |   | dan |   |   |   |          469-26 |
 | w   |        | husfrue      | xNC | hustru         |   | Hustrue            | Hŭſtrŭe         |              |   |   |   | dan |   |   |   |          469-26 |
 | p   |        |              |     |                |   | ,                  | ,               |              |   |   |   | dan |   |   |   |          469-26 |
 | w   |        | at           | xIM | at             |   | at                 | at              |              |   |   |   | dan |   |   |   |          469-26 |
@@ -328,7 +328,7 @@
 | w   |        | universitet  | xNC | Universitetet  |   | Vniuersitetet      | Vniŭerſitetet   |              |   |   |   | dan |   |   |   |          469-29 |
 | p   |        |              |     |                |   | ,                  | ,               |              |   |   |   | dan |   |   |   |          469-29 |
 | w   |        | ok           | xCC | og             |   | Oc                 | Oc              |              |   |   |   | dan |   |   |   |          469-29 |
-| w   |        | ænge         | xPD | ingen          |   | ingen              | ingen           |              |   |   |   | dan |   |   |   |          469-29 |
+| w   |        | ænge         | xDD | ingen          |   | ingen              | ingen           |              |   |   |   | dan |   |   |   |          469-29 |
 | lm  | 469-30 |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |
 | w   |        | pension      | xNC | pension        |   | pension            | penſion         |              |   |   |   | dan |   |   |   |          469-30 |
 | w   |        | æller        | xCC | eller          |   | eller              | eller           |              |   |   |   | dan |   |   |   |          469-30 |
@@ -348,7 +348,7 @@
 | w   |        | sva          | xAV | så             |   | saa                | ſaa             |              |   |   |   | dan |   |   |   |          469-31 |
 | lm  | 469-32 |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |
 | w   |        | længe        | xAV | længe          |   | lenge              | lenge           |              |   |   |   | dan |   |   |   |          469-32 |
-| w   |        | thæn         | xPD | de             |   | de                 | de              |              |   |   |   | dan |   |   |   |          469-32 |
+| w   |        | thæn         | xPE | de             |   | de                 | de              |              |   |   |   | dan |   |   |   |          469-32 |
 | w   |        | fornævnd     | xAJ | fornævnte      |   | for(nefnde)        | forᷠͤ             |              |   |   |   | dan |   |   |   |          469-32 |
 | w   |        | æple+haghe   | xNC | æblehave       |   | Abelhauffue        | Abelhaŭffŭe     |              |   |   |   | dan |   |   |   |          469-32 |
 | w   |        | nyte         | xVB | nydendes       |   | nydend(is)         | nÿden          |              |   |   |   | dan |   |   |   |          469-32 |
@@ -357,8 +357,8 @@
 | w   |        | varthe       | xVB | vorder         |   | vorder             | vorder          |              |   |   |   | dan |   |   |   |          469-33 |
 | p   |        |              |     |                |   | ,                  | ,               |              |   |   |   | dan |   |   |   |          469-33 |
 | w   |        | tho          | xAV | dog            |   | Dog                | Dog             |              |   |   |   | dan |   |   |   |          469-33 |
-| w   |        | thæn         | xPD | de             |   | de                 | de              |              |   |   |   | dan |   |   |   |          469-33 |
-| w   |        | han          | xPD | hannem            |   | hannem             | hannem          |              |   |   |   | dan |   |   |   |          469-33 |
+| w   |        | thæn         | xPE | de             |   | de                 | de              |              |   |   |   | dan |   |   |   |          469-33 |
+| w   |        | han          | xPE | hannem            |   | hannem             | hannem          |              |   |   |   | dan |   |   |   |          469-33 |
 | w   |        | ække         | xAV | ikke           |   | icke               | icke            |              |   |   |   | dan |   |   |   |          469-33 |
 | w   |        | forarghe     | xVB | forarge        |   | for¦arge           | for¦arge        |              |   |   |   | dan |   |   |   | 469-33---469-34 |
 | w   |        | skule        | xVB | skulle         |   | skulle             | ſkŭlle          |              |   |   |   | dan |   |   |   |          469-34 |
