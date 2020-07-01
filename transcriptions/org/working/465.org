@@ -42,7 +42,7 @@
 | :s: |        |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | pm  | 1r     |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | lm  | 465-01 |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
-| w   |        | vi          | xPD | vi              |   | Wy                    | Wÿ                    |             |   |   |   | dan |   |   |   |        465-01 |
+| w   |        | vi          | xPE | vi              |   | Wy                    | Wÿ                    |             |   |   |   | dan |   |   |   |        465-01 |
 | w   |        | æfterskrive | xVB | efterskrevne    |   | Effther(screffne)     | Efftherᷠͤ               |             |   |   |   | dan |   |   |   |        465-01 |
 | p   |        |             |     |                 |   | ,                     | ,                     |             |   |   |   | dan |   |   |   |        465-01 |
 | w   |        | rektor      | xNC |                 |   | Rector                | Rector                |             |   |   |   | lat |   |   |   |        465-01 |
@@ -71,7 +71,7 @@
 | w   |        | brev        | xNC | brev            |   | breff                 | breff                 |             |   |   |   | dan |   |   |   |        465-04 |
 | p   |        |             |     |                 |   | ,                     | ,                     |             |   |   |   | dan |   |   |   |        465-04 |
 | w   |        | at          | xCS | at              |   | Att                   | Att                   |             |   |   |   | dan |   |   |   |        465-04 |
-| w   |        | vi          | xPD | vi              |   | wy                    | wÿ                    |             |   |   |   | dan |   |   |   |        465-04 |
+| w   |        | vi          | xPE | vi              |   | wy                    | wÿ                    |             |   |   |   | dan |   |   |   |        465-04 |
 | ad  | b      |             |     |                 |   |                       |                       | margin-left |   |   |   |     |   |   |   |               |
 | w   |        | af          | xAP | af              |   | aff                   | aff                   |             |   |   |   | dan |   |   |   |        465-04 |
 | w   |        | synderlik   | xAJ | synderlige      |   | synderlige            | ynderlige            |             |   |   |   | dan |   |   |   |        465-04 |
@@ -127,8 +127,8 @@
 | ad  | e      |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | p   |        |             |     |                 |   | ,                     | ,                     |             |   |   |   | dan |   |   |   |        465-07 |
 | w   |        | ok          | xCC | og              |   | och                   | och                   |             |   |   |   | dan |   |   |   |        465-07 |
-| w   |        | hans        | xPD | hans            |   | Hans                  | Han                  |             |   |   |   | dan |   |   |   |        465-07 |
-| w   |        | husfrue     | xNC | hustru          |   | Hus¦true              | Hŭ¦trŭe              |             |   |   |   | dan |   |   |   | 465-07—465-08 |
+| w   |        | hans        | xPE | hans            |   | Hans                  | Han                  |             |   |   |   | dan |   |   |   |        465-07 |
+| w   |        | husfrue     | xNC | hustrue          |   | Hus¦true              | Hŭ¦trŭe              |             |   |   |   | dan |   |   |   | 465-07—465-08 |
 | de  | b      |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | PE  | b      | AnnPed002   |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | w   |        |             | xNP | Anne            |   | Anne                  | Anne                  |             |   |   |   | dan |   |   |   |        465-08 |
@@ -220,12 +220,12 @@
 | w   |        | ok          | xCC | og              |   | och                   | och                   |             |   |   |   | dan |   |   |   |        465-12 |
 | w   |        | sva         | xAV | så              |   | saa                   | ſaa                   |             |   |   |   | dan |   |   |   |        465-12 |
 | w   |        | længe       | xAV | længe           |   | lenge                 | lenge                 |             |   |   |   | dan |   |   |   |        465-12 |
-| w   |        | han         | xPD | han             |   | hand                  | hand                  |             |   |   |   | dan |   |   |   |        465-12 |
+| w   |        | han         | xPE | han             |   | hand                  | hand                  |             |   |   |   | dan |   |   |   |        465-12 |
 | w   |        | live        | xVB | lever           |   | leffuer               | leffŭer               |             |   |   |   | dan |   |   |   |        465-12 |
 | p   |        |             |     |                 |   | ,                     | ,                     |             |   |   |   | dan |   |   |   |        465-12 |
 | lm  | 465-13 |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | w   |        | ok          | xCC | og              |   | och                   | och                   |             |   |   |   | dan |   |   |   |        465-13 |
-| w   |        | han         | xPD | hans            |   | hans                  | han                  |             |   |   |   | dan |   |   |   |        465-13 |
+| w   |        | han         | xPE | hans            |   | hans                  | han                  |             |   |   |   | dan |   |   |   |        465-13 |
 | w   |        | husfrue     | xNC | hustrues         |   | Hustrues              | Hŭſtrŭe              |             |   |   |   | dan |   |   |   |        465-13 |
 | de  | b      |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | PE  | b      | AnnPed002   |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
@@ -243,7 +243,7 @@
 | lm  | 465-14 |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | w   |        | sva         | xAV | så              |   | saa                   | ſaa                   |             |   |   |   | dan |   |   |   |        465-14 |
 | w   |        | længe       | xAV | længe           |   | lenge                 | lenge                 |             |   |   |   | dan |   |   |   |        465-14 |
-| w   |        | hun         | xPD | hun             |   | hun                   | hŭn                   |             |   |   |   | dan |   |   |   |        465-14 |
+| w   |        | hun         | xPE | hun             |   | hun                   | hŭn                   |             |   |   |   | dan |   |   |   |        465-14 |
 | w   |        | sitje       | xVB | sidder          |   | sider                 | ſider                 |             |   |   |   | dan |   |   |   |        465-14 |
 | w   |        | ænkje       | xNC | enke           |   | Encke                 | Encke                 |             |   |   |   | dan |   |   |   |        465-14 |
 | p   |        |             |     |                 |   | ,                     | ,                     |             |   |   |   | dan |   |   |   |        465-14 |
@@ -273,7 +273,7 @@
 | w   |        | svadan      | xAJ | sådan           |   | saadann               | ſaadann               |             |   |   |   | dan |   |   |   |        465-16 |
 | w   |        | vilkor      | xNC | vilkår          |   | wilkaar               | wilkaar               |             |   |   |   | dan |   |   |   |        465-16 |
 | w   |        | at          | xCS | at              |   | att                   | att                   |             |   |   |   | dan |   |   |   |        465-16 |
-| w   |        | thæn        | xPD | de              |   | di                    | di                    |             |   |   |   | dan |   |   |   |        465-16 |
+| w   |        | thæn        | xPE | de              |   | di                    | di                    |             |   |   |   | dan |   |   |   |        465-16 |
 | w   |        | af          | xAP | af              |   | aff                   | aff                   |             |   |   |   | dan |   |   |   |        465-16 |
 | lm  | 465-17 |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | ad  | b      |             |     |                 |   |                       |                       | supralinear |   |   |   |     |   |   |   |               |
@@ -288,7 +288,7 @@
 | w   |        | ok          | xCC | og              |   | och                   | och                   |             |   |   |   | dan |   |   |   |        465-17 |
 | w   |        | af          | xAP | af              |   | aff                   | aff                   |             |   |   |   | dan |   |   |   |        465-17 |
 | lm  | 465-18 |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
-| w   |        | thæn        | xPD | dem             |   | them                  | them                  |             |   |   |   | dan |   |   |   |        465-18 |
+| w   |        | thæn        | xPE | dem             |   | them                  | them                  |             |   |   |   | dan |   |   |   |        465-18 |
 | w   |        | fjarthing   | xNC | fjerding        |   | fierding              | fierding              |             |   |   |   | dan |   |   |   |        465-18 |
 | w   |        | jorth       | xNC | jord            |   | Jord                  | Jord                  |             |   |   |   | dan |   |   |   |        465-18 |
 | ad  | b      |             |     |                 |   |                       |                       | supralinear |   |   |   |     |   |   |   |               |
@@ -329,7 +329,7 @@
 | w   |        | thær        | xAV | der             |   | der                   | der                   |             |   |   |   | dan |   |   |   |        465-21 |
 | w   |        | hos         | xAP | hos             |   | hoss                  | hoſſ                  |             |   |   |   | dan |   |   |   |        465-21 |
 | ad  | e      |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
-| w   |        | sjalv       | xPD | selve           |   | selffue               | ſelffŭe               |             |   |   |   | dan |   |   |   |        465-21 |
+| w   |        | sjalv       | xDD | selve           |   | selffue               | ſelffŭe               |             |   |   |   | dan |   |   |   |        465-21 |
 | ad  | b      |             |     |                 |   |                       |                       | supralinear |   |   |   |     |   |   |   |               |
 | w   |        | fornævnd    | xAJ | fornævnte       |   | for(nefnde)           | forᷠͤ                   |             |   |   |   | dan |   |   |   |        465-21 |
 | ad  | e      |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
@@ -347,7 +347,7 @@
 | PE  | b      | NieLol001   |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | w   |        |             | xNP | Niels           |   | Nelds                 | Neld                 |             |   |   |   | dan |   |   |   |        465-22 |
 | PE  | e      | NieLol001   |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
-| w   |        | han         | xPD | ham             |   | ha(n)nom              | ha̅nom                 |             |   |   |   | dan |   |   |   |        465-22 |
+| w   |        | han         | xPE | hannem             |   | ha(n)nom              | ha̅nom                 |             |   |   |   | dan |   |   |   |        465-22 |
 | w   |        | bruke       | xVB | brugt           |   | brugdt                | brŭgdt                |             |   |   |   | dan |   |   |   |        465-22 |
 | lm  | 465-23 |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | w   |        | have        | xVB | har             |   | haffuer               | haffŭer               |             |   |   |   | dan |   |   |   |        465-23 |
@@ -380,7 +380,7 @@
 | w   |        | i           | xAP | i               |   | i                     | i                     |             |   |   |   | dan |   |   |   |        465-25 |
 | lm  | 465-26 |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | de  | b      |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
-| w   |        | noker       | xPD | nogen           |   | nogen                 | nogen                 |             |   |   |   | dan |   |   |   |        465-26 |
+| w   |        | noker       | xDD | nogen           |   | nogen                 | nogen                 |             |   |   |   | dan |   |   |   |        465-26 |
 | de  | e      |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | ad  | b      |             |     |                 |   |                       |                       | supralinear |   |   |   |     |   |   |   |               |
 | w   |        | al          | xAJ | alle            |   | alle                  | alle                  |             |   |   |   | dan |   |   |   |        465-26 |
@@ -389,7 +389,7 @@
 | p   |        |             |     |                 |   | .                     | .                     |             |   |   |   | dan |   |   |   |        465-26 |
 | w   |        | samelethes  | xAV | sammeledes      |   | Sammeledis            | Sammeledi            |             |   |   |   | dan |   |   |   |        465-26 |
 | w   |        | have        | xVB | havde           |   | haffue                | haffŭe                |             |   |   |   | dan |   |   |   |        465-26 |
-| w   |        | vi          | xPD | vi              |   | wi                    | wi                    |             |   |   |   | dan |   |   |   |        465-26 |
+| w   |        | vi          | xPE | vi              |   | wi                    | wi                    |             |   |   |   | dan |   |   |   |        465-26 |
 | ad  | b      |             |     |                 |   |                       |                       | supralinear |   |   |   |     |   |   |   |               |
 | w   |        | særdeles    | xAV | særdeles        |   | serdelis              | ſerdeli              |             |   |   |   | dan |   |   |   |        465-26 |
 | ad  | e      |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
@@ -398,7 +398,7 @@
 | w   |        | ok          | xCC | og              |   | oc                    | oc                    |             |   |   |   | dan |   |   |   |        465-26 |
 | w   |        | tillate     | xVB | tilladt         |   | tilladet              | tilladet              |             |   |   |   | dan |   |   |   |        465-26 |
 | w   |        | at          | xCS | at              |   | at                    | at                    |             |   |   |   | dan |   |   |   |        465-26 |
-| w   |        | thæn        | xPD | de              |   | de                    | de                    |             |   |   |   | dan |   |   |   |        465-26 |
+| w   |        | thæn        | xPE | de              |   | de                    | de                    |             |   |   |   | dan |   |   |   |        465-26 |
 | w   |        | mughe       | xVB | må              |   | maa                   | maa                   |             |   |   |   | dan |   |   |   |        465-26 |
 | w   |        | thær        | xAV | der             |   | der                   | der                   |             |   |   |   | dan |   |   |   |        465-26 |
 | ad  | b      |             |     |                 |   |                       |                       | supralinear |   |   |   |     |   |   |   |               |
@@ -444,7 +444,7 @@
 | p   |        |             |     |                 |   | ,                     | ,                     |             |   |   |   | dan |   |   |   |        465-27 |
 | w   |        | ok          | xCC | og              |   | oc                    | oc                    |             |   |   |   | dan |   |   |   |        465-27 |
 | lm  | 465-28 |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
-| w   |        | ænge        | xPD | ingen           |   | ingen                 | ingen                 |             |   |   |   | dan |   |   |   |        465-28 |
+| w   |        | ænge        | xDD | ingen           |   | ingen                 | ingen                 |             |   |   |   | dan |   |   |   |        465-28 |
 | w   |        | pension     | xNC | pension         |   | pension               | penſion               |             |   |   |   | dan |   |   |   |        465-28 |
 | ad  | b      |             |     |                 |   |                       |                       | sublinear   |   |   |   |     |   |   |   |               |
 | w   |        | æller       | xCC | eller           |   | eller                 | eller                 |             |   |   |   | dan |   |   |   |        465-28 |
@@ -456,20 +456,20 @@
 | w   |        | give        | xVB | give            |   | giffue                | giffŭe                |             |   |   |   | dan |   |   |   |        465-28 |
 | de  | b      |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | w   |        | til         | xAP | til             |   | til                   | til                   |             |   |   |   | dan |   |   |   |        465-28 |
-| w   |        | ænge        | xPD | ingen           |   | ingen                 | ingen                 |             |   |   |   | dan |   |   |   |        465-28 |
+| w   |        | ænge        | xPI | ingen           |   | ingen                 | ingen                 |             |   |   |   | dan |   |   |   |        465-28 |
 | de  | e      |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | w   |        | sva         | xAV | så              |   | saa                   | ſaa                   |             |   |   |   | dan |   |   |   |        465-28 |
 | w   |        | længe       | xAV | længe           |   | lenge                 | lenge                 |             |   |   |   | dan |   |   |   |        465-28 |
-| w   |        | thæn        | xPD | de              |   | de                    | de                    |             |   |   |   | dan |   |   |   |        465-28 |
+| w   |        | thæn        | xPE | de              |   | de                    | de                    |             |   |   |   | dan |   |   |   |        465-28 |
 | de  | b      |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
-| w   |        | thæn        | xPD | de              |   | den                   | den                   |             |   |   |   | dan |   |   |   |        465-28 |
+| w   |        | thæn        | xPE | den              |   | den                   | den                   |             |   |   |   | dan |   |   |   |        465-28 |
 | w   |        | behalde     | xVB | beholdendes     |   | beholdend(is)         | beholdendꝭ            |             |   |   |   | dan |   |   |   |        465-28 |
 | de  | e      |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | w   |        | varthe      | xVB | vorder          |   | vorder                | vorder                |             |   |   |   | dan |   |   |   |        465-28 |
 | ad  | b      |             |     |                 |   |                       |                       | margin-bot  |   |   |   |     |   |   |   |               |
 | w   |        | dogh        | xAV | dog             |   | dog                   | dog                   |             |   |   |   | dan |   |   |   |        465-28 |
-| w   |        | thæn        | xPD | de              |   | de                    | de                    |             |   |   |   | dan |   |   |   |        465-28 |
-| w   |        | han         | xPD | ham             |   | ha(n)ne(m)            | ha̅ne̅                  |             |   |   |   | dan |   |   |   |        465-28 |
+| w   |        | thæn        | xPE | de              |   | de                    | de                    |             |   |   |   | dan |   |   |   |        465-28 |
+| w   |        | han         | xPE | hannem             |   | ha(n)ne(m)            | ha̅ne̅                  |             |   |   |   | dan |   |   |   |        465-28 |
 | w   |        |             | XX  |                 |   | forbeden              | forbeden              |             |   |   |   | dan |   |   |   |        465-28 |
 | w   |        | skule       | xVB | skulle          |   | skulle                | ſkŭlle                |             |   |   |   | dan |   |   |   |        465-28 |
 | w   |        | ok          | xCC | og              |   | oc                    | oc                    |             |   |   |   | dan |   |   |   |        465-28 |
@@ -477,7 +477,7 @@
 | w   |        | ække        | xAV | ikke            |   | icke                  | icke                  |             |   |   |   | dan |   |   |   |        465-29 |
 | w   |        | forarghe    | xVB | forarge         |   | forarge               | forarge               |             |   |   |   | dan |   |   |   |        465-29 |
 | w   |        | i           | xAP | i               |   | i                     | i                     |             |   |   |   | dan |   |   |   |        465-29 |
-| w   |        | noker       | xPD | nogen           |   | nogen                 | nogen                 |             |   |   |   | dan |   |   |   |        465-29 |
+| w   |        | noker       | xDD | nogen           |   | nogen                 | nogen                 |             |   |   |   | dan |   |   |   |        465-29 |
 | w   |        | mate        | xNC | måde            |   | maade                 | maade                 |             |   |   |   | dan |   |   |   |        465-29 |
 | ad  | e      |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | lm  | 465-30 |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
@@ -498,7 +498,7 @@
 | w   |        | forvaring   | xNC | forvaring       |   | foruaring             | forŭaring             |             |   |   |   | dan |   |   |   |        465-32 |
 | p   |        |             |     |                 |   | ,                     | ,                     |             |   |   |   | dan |   |   |   |        465-32 |
 | w   |        | have        | xVB | have            |   | haffue                | haffŭe                |             |   |   |   | dan |   |   |   |        465-32 |
-| w   |        | vi          | xPD | vi              |   | wij                   | wij                   |             |   |   |   | dan |   |   |   |        465-32 |
+| w   |        | vi          | xPE | vi              |   | wij                   | wij                   |             |   |   |   | dan |   |   |   |        465-32 |
 | w   |        | vitherlik   | xAJ | vitterlig       |   | witterlig             | witterlig             |             |   |   |   | dan |   |   |   |        465-32 |
 | w   |        | late        | xVB | ladet            |   | laditt                | ladıtt                |             |   |   |   | dan |   |   |   |        465-32 |
 | lm  | 465-33 |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
