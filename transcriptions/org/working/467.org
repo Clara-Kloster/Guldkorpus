@@ -43,7 +43,7 @@ wdblac = w with breve
 | :s: |        |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | pm  | 1r     |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | lm  | 467-01 |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | vi                 | xPD | vi                  |   | Wij                       | Wij                |             |   |   |     | dan |   |   |    |        467-01 |
+| w   |        | vi                 | xPE | vi                  |   | Wij                       | Wij                |             |   |   |     | dan |   |   |    |        467-01 |
 | w   |        | æfterskrive        | xVB | efterskrevne        |   | epther(screffne)          | eptherᷠͤ             |             |   |   |     | dan |   |   |    |        467-01 |
 | PE  | b      | OluAnd003          |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |                    | xNP | Oluf                |   | Oluff                     | Olŭff              |             |   |   |     | dan |   |   |    |        467-01 |
@@ -101,7 +101,7 @@ wdblac = w with breve
 | w   |        | være               | xVB | var                 |   | uar                       | űar                |             |   |   |     | dan |   |   | =  |        467-04 |
 | w   |        | skikke             | xVB | skikket             |   | skikitt                   | ſkikitt            |             |   |   |     | dan |   |   | == |        467-04 |
 | w   |        | for                | xAP | for                 |   | for                       | for                |             |   |   |     | dan |   |   |    |        467-04 |
-| w   |        | vi                 | xPD | os                  |   | oss                       | oſſ                |             |   |   |     | dan |   |   |    |        467-04 |
+| w   |        | vi                 | xPE | os                  |   | oss                       | oſſ                |             |   |   |     | dan |   |   |    |        467-04 |
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-04 |
 | w   |        | dandeman           | xNC | dannemænd           |   | dannemend                 | dannemend          |             |   |   |     | dan |   |   |    |        467-04 |
 | w   |        | flere              | xAJ | flere               |   | flere                     | flere              |             |   |   |     | dan |   |   |    |        467-04 |
@@ -183,11 +183,11 @@ wdblac = w with breve
 | w   |        |                    | xNP | Målund              |   | maalund                   | maalŭnd            |             |   |   |     | dan |   |   |    |        467-08 |
 | PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | p   |        |                    |     |                     |   | .                         | .                  |             |   |   |     | dan |   |   |    |        467-08 |
-| w   |        | hvilik             | xPD | hvilke              |   | huilke                    | hŭilke             |             |   |   |     | dan |   |   |    |        467-08 |
+| w   |        | hvilik             | xDD | hvilke              |   | huilke                    | hŭilke             |             |   |   |     | dan |   |   |    |        467-08 |
 | w   |        | fornævnd           | xAJ | fornævnte           |   | for(nefnde)               | for.ᷠͤ               |             |   |   |     | dan |   |   |    |        467-08 |
 | w   |        | bekænne            | xVB | bekende             |   | bekiende                  | bekiende           |             |   |   |     | dan |   |   |    |        467-08 |
 | w   |        | for                | xAP | for                 |   | for                       | for                |             |   |   |     | dan |   |   |    |        467-08 |
-| w   |        | vi                 | xPD | os                  |   | oss                       | oſſ                |             |   |   |     | dan |   |   |    |        467-08 |
+| w   |        | vi                 | xPE | os                  |   | oss                       | oſſ                |             |   |   |     | dan |   |   |    |        467-08 |
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-08 |
 | w   |        | menigh             | xAJ | menige              |   | menige                    | menige             |             |   |   |     | dan |   |   |    |        467-08 |
 | w   |        | man                | xNC | mand                |   | mand                      | mand               |             |   |   |     | dan |   |   |    |        467-08 |
@@ -199,7 +199,7 @@ wdblac = w with breve
 | w   |        | thing              | xNC | ting                |   | ting                      | ting               |             |   |   |     | dan |   |   |    |        467-09 |
 | w   |        | søkje              | xVB | søgte               |   | Søgtte                    | øgtte             |             |   |   |     | dan |   |   |    |        467-09 |
 | w   |        | at                 | xCS | at                  |   | ath                       | ath                |             |   |   |     | dan |   |   |    |        467-09 |
-| w   |        | thæn               | xPD | de                  |   | dij                       | dij                |             |   |   |     | dan |   |   |    |        467-09 |
+| w   |        | thæn               | xPE | de                  |   | dij                       | dij                |             |   |   |     | dan |   |   |    |        467-09 |
 | w   |        | af                 | xAP | af                  |   | aff                       | aff                |             |   |   |     | dan |   |   |    |        467-09 |
 | w   |        | ærlik              | xAJ | ærlig               |   | Erliig                    | Erliig             |             |   |   |     | dan |   |   |    |        467-09 |
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-09 |
@@ -229,7 +229,7 @@ wdblac = w with breve
 | w   |        | skogh              | xNC | skov                |   | skuff                     | ſkŭff              |             |   |   |     | dan |   |   |    |        467-11 |
 | p   |        |                    |     |                     |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-11 |
 | w   |        | hvar               | xCS | hvor                |   | huor                      | hŭor               |             |   |   |     | dan |   |   |    |        467-11 |
-| w   |        | thæn               | xPD | de                  |   | d[ij]                     | d[ij]              |             |   |   |     | dan |   |   |    |        467-11 |
+| w   |        | thæn               | xPE | de                  |   | d[ij]                     | d[ij]              |             |   |   |     | dan |   |   |    |        467-11 |
 | w   |        | have               | xVB | har                 |   | [haffuir]                 | [haffuir]          |             |   |   |     | dan |   |   |    |        467-11 |
 | w   |        | være               | xVB | været               |   | weritt                    | weritt             |             |   |   |     | dan |   |   |    |        467-11 |
 | w   |        | grangivelik        | xAJ | grangiveligen       |   | grandgibeliigen           | grandgibeliigen    |             |   |   |     | dan |   |   |    |        467-11 |
@@ -262,7 +262,7 @@ wdblac = w with breve
 | w   |        | ærlik              | xAJ | ærlig               |   | Erliig                    | Erliig             |             |   |   |     | dan |   |   |    |        467-13 |
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-13 |
 | w   |        |                    | xNP | velbyrdig           |   | welbiurdiig               | welbiŭrdiig        |             |   |   |     | dan |   |   |    |        467-13 |
-| w   |        | man                | xPD | mand                |   | mand                      | mand               |             |   |   |     | dan |   |   |    |        467-13 |
+| w   |        | man                | xNC | mand                |   | mand                      | mand               |             |   |   |     | dan |   |   |    |        467-13 |
 | PE  | b      | JakSee001          |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |                    | xNP | Jakob               |   | Jacop                     | Jacop              |             |   |   |     | dan |   |   |    |        467-13 |
 | w   |        |                    | xNP | Seefeld             |   | se¦ffeld                  | ſe¦ffeld           |             |   |   |     | dan |   |   |    | 467-13—467-14 |
@@ -401,12 +401,12 @@ wdblac = w with breve
 | w   |        |                    | xNP | København           |   | købing haffwin            | købing haffwin     |             |   |   |     | dan |   |   |    |        467-23 |
 | PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | p   |        |                    |     |                     |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-23 |
-| w   |        | hvilik             | xPD | hvilke              |   | huilke                    | hŭilke             |             |   |   |     | dan |   |   |    |        467-23 |
+| w   |        | hvilik             | xDD | hvilke              |   | huilke                    | hŭilke             |             |   |   |     | dan |   |   |    |        467-23 |
 | w   |        | fornævnd           | xAJ | fornævnte           |   | for(nefnde)               | for.ᷠͤ               |             |   |   |     | dan |   |   |    |        467-23 |
 | w   |        | goth               | xAJ | gode                |   | gode                      | gode               |             |   |   |     | dan |   |   |    |        467-23 |
 | w   |        | man                | xNC | mænd                |   | mend                      | mend               |             |   |   |     | dan |   |   |    |        467-23 |
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-23 |
-| w   |        | thæn               | xPD | deres               |   | deris                     | deri              |             |   |   |     | dan |   |   |    |        467-23 |
+| w   |        | thæn               | xPE | deres               |   | deris                     | deri              |             |   |   |     | dan |   |   |    |        467-23 |
 | w   |        | fulmyndigh         | xAJ | fuldmyndige         |   | fulMøndiige               | fŭlMøndiige        |             |   |   |     | dan |   |   |    |        467-23 |
 | lm  | 467-24 |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | foghet             | xNC | fogeder             |   | fogder                    | fogder             |             |   |   |     | dan |   |   |    |        467-24 |
@@ -419,7 +419,7 @@ wdblac = w with breve
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-24 |
 | w   |        | al                 | xAJ | alle                |   | alle                      | alle               |             |   |   |     | dan |   |   |    |        467-24 |
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-24 |
-| w   |        | hvær               | xPD | hver                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-24 |
+| w   |        | hvær               | xPI | hver                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-24 |
 | w   |        | give               | xVB | gav                 |   | gaff                      | gaff               |             |   |   |     | dan |   |   |    |        467-24 |
 | w   |        | logh               | xNC | lov                 |   | loff                      | loff               |             |   |   |     | dan |   |   |    |        467-24 |
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-24 |
@@ -446,14 +446,14 @@ wdblac = w with breve
 | PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | ligje              | xVB | ligger              |   | liiger                    | liiger             |             |   |   |     | dan |   |   |    |        467-26 |
 | w   |        | mæth               | xAP | med                 |   | med                       | med                |             |   |   |     | dan |   |   |    |        467-26 |
-| w   |        | thæn               | xPD | deres               |   | deris                     | deri              |             |   |   |     | dan |   |   |    |        467-26 |
+| w   |        | thæn               | xPE | deres               |   | deris                     | deri              |             |   |   |     | dan |   |   |    |        467-26 |
 | w   |        | jorth              | xNC | jord                |   | Jord                      | Jord               |             |   |   |     | dan |   |   |    |        467-26 |
 | w   |        | i                  | xAP | i                   |   | ij                        | ij                 |             |   |   |     | dan |   |   |    |        467-26 |
 | w   |        | mark               | xNC | marken              |   | markin                    | markin             |             |   |   |     | dan |   |   |    |        467-26 |
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-26 |
 | w   |        | æfter              | xAP | efter               |   | epther                    | epther             |             |   |   |     | dan |   |   |    |        467-26 |
 | w   |        | al                 | xAJ | alle                |   | alle                      | alle               |             |   |   |     | dan |   |   |    |        467-26 |
-| w   |        | thæn               | xPD | deres               |   | deris                     | deri              |             |   |   |     | dan |   |   |    |        467-26 |
+| w   |        | thæn               | xPE | deres               |   | deris                     | deri              |             |   |   |     | dan |   |   |    |        467-26 |
 | lm  | 467-27 |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |                    | xAJ | bevilling           |   | bewilliing                | bewilliing         |             |   |   |     | dan |   |   |    |        467-27 |
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-27 |
@@ -542,18 +542,18 @@ wdblac = w with breve
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-32 |
 | w   |        | i                  | xAP | i                   |   | ij                        | ij                 |             |   |   |     | dan |   |   |    |        467-32 |
 | w   |        | mællem             | xAP | mellem              |   | melom                     | melom              |             |   |   |     | dan |   |   |    |        467-32 |
-| w   |        | hvær               | xPD | hver                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-32 |
+| w   |        | hvær               | xDD | hver                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-32 |
 | w   |        | bol                | xNC | bol                 |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-32 |
 | lm  | 467-33 |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | blive              | xVB | blev                |   | Bliff                     | Bliff              |             |   |   |     | dan |   |   |    |        467-33 |
-| w   |        | thær               | xPD | der                 |   | ther                      | ther               |             |   |   |     | dan |   |   |    |        467-33 |
+| w   |        | thær               | xAV | der                 |   | ther                      | ther               |             |   |   |     | dan |   |   |    |        467-33 |
 | w   |        | pæl                | xNC | pæle                |   | peelle                    | peelle             |             |   |   |     | dan |   |   |    |        467-33 |
 | w   |        | sla                | xVB | slagen              |   | Slagin                    | lagin             |             |   |   |     | dan |   |   |    |        467-33 |
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-33 |
 | w   |        | blive              | xVB | blev                |   | bliff                     | bliff              |             |   |   |     | dan |   |   |    |        467-33 |
 | w   |        | thær               | xAV | der                 |   | ther                      | ther               |             |   |   |     | dan |   |   |    |        467-33 |
 | w   |        | uti                | xAP | udi                 |   | udij                      | ŭdij               |             |   |   |     | dan |   |   |    |        467-33 |
-| w   |        | hvær               | xPD | hver                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-33 |
+| w   |        | hvær               | xDD | hver                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-33 |
 | w   |        | bol                | xNC | bol                 |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-33 |
 | w   |        | øster              | xAV | øster               |   | øster                     | øſter              |             |   |   |     | dan |   |   |    |        467-33 |
 | w   |        | upa                | xAP | på                  |   | paa                       | paa                |             |   |   |     | dan |   |   |    |        467-33 |
@@ -562,7 +562,7 @@ wdblac = w with breve
 | w   |        | fjure              | xNA | fire                |   | firre                     | firre              |             |   |   |     | dan |   |   |    |        467-34 |
 | w   |        | rep                | xNC | reb                 |   | Reeb                      | Reeb               |             |   |   |     | dan |   |   |    |        467-34 |
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-34 |
-| w   |        | hvær               | xPD | hver                |   | huuer                     | hŭuer              |             |   |   |     | dan |   |   |    |        467-34 |
+| w   |        | hvær               | xDD | hver                |   | huuer                     | hŭuer              |             |   |   |     | dan |   |   |    |        467-34 |
 | w   |        | rep                | xNC | reb                 |   | reeb                      | reeb               |             |   |   |     | dan |   |   |    |        467-34 |
 | w   |        | være               | xVB | var                 |   | war                       | war                |             |   |   |     | dan |   |   |    |        467-34 |
 | w   |        | ni                 | xNA | ni                  |   | Nij                       | Nij                |             |   |   |     | dan |   |   |    |        467-34 |
@@ -603,7 +603,7 @@ wdblac = w with breve
 | w   |        | thær               | xAV | der                 |   | der                       | der                |             |   |   |     | dan |   |   |    |        467-36 |
 | w   |        | næst               | xAV | næst                |   | nest                      | neſt               |             |   |   |     | dan |   |   |    |        467-36 |
 | w   |        | begynne            | xVB | begyndt             |   | begint                    | begint             |             |   |   |     | dan |   |   |    |        467-36 |
-| w   |        | noker              | xPD | noget               |   | nogitt                    | nogitt             |             |   |   |     | dan |   |   |    |        467-36 |
+| w   |        | noker              | xPI | noget               |   | nogitt                    | nogitt             |             |   |   |     | dan |   |   |    |        467-36 |
 | p   |        |                    |     |                     |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-36 |
 | lm  | 467-37 |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | i                  | xNC | i                   |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-37 |
@@ -660,12 +660,12 @@ wdblac = w with breve
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-40 |
 | w   |        | ut                 | xAV | ud                  |   | ud                        | ŭd                 |             |   |   |     | dan |   |   |    |        467-40 |
 | w   |        | i                  | xAP | i                   |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-40 |
-| w   |        | hvær               | xPD | hver                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-40 |
+| w   |        | hvær               | xDD | hver                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-40 |
 | w   |        | bol                | xNC | bol                 |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-40 |
 | w   |        | fjure              | xNA | fire                |   | fire                      | fire               |             |   |   |     | dan |   |   |    |        467-40 |
 | w   |        | rep                | xNC | reb                 |   | reeb                      | reeb               |             |   |   |     | dan |   |   |    |        467-40 |
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-40 |
-| w   |        | hvær               | xPD | hvert               |   | huertt                    | hŭertt             |             |   |   |     | dan |   |   |    |        467-40 |
+| w   |        | hvær               | xDD | hvert               |   | huertt                    | hŭertt             |             |   |   |     | dan |   |   |    |        467-40 |
 | w   |        | rep                | xNC | reb                 |   | reeb                      | reeb               |             |   |   |     | dan |   |   |    |        467-40 |
 | w   |        | sæks               | xNA | seks                |   | Sexs                      | ex               |             |   |   |     | dan |   |   |    |        467-40 |
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-40 |
@@ -679,7 +679,7 @@ wdblac = w with breve
 | w   |        | thæn               | xAT | det                 |   | diid                      | diid               |             |   |   |     | dan |   |   |    |        467-41 |
 | w   |        | thrithje           | xNO | tredje              |   | tridde                    | tridde             |             |   |   |     | dan |   |   |    |        467-41 |
 | w   |        | rep                | xNC | reb                 |   | reeb                      | reeb               |             |   |   |     | dan |   |   |    |        467-41 |
-| w   |        | noker              | xPD | noget               |   | Nogitt                    | Nogitt             |             |   |   |     | dan |   |   |    |        467-41 |
+| w   |        | noker              | xPI | noget               |   | Nogitt                    | Nogitt             |             |   |   |     | dan |   |   |    |        467-41 |
 | w   |        | ut                 | xAV | ud                  |   | ud                        | ŭd                 |             |   |   |     | dan |   |   |    |        467-41 |
 | w   |        | i                  | xAP | i                   |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-41 |
 | PL  | b      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
@@ -725,7 +725,7 @@ wdblac = w with breve
 | w   |        | sla                | xVB | slagen              |   | Slagin                    | lagin             |             |   |   |     | dan |   |   |    |        467-44 |
 | w   |        | i                  | xAV | i                   |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-44 |
 | w   |        | mællem             | xAP | mellem              |   | mellom                    | mellom             |             |   |   |     | dan |   |   |    |        467-44 |
-| w   |        | hvær               | xPD | hver                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-44 |
+| w   |        | hvær               | xDD | hver                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-44 |
 | w   |        | bol                | xNC | bol                 |   | boeel                     | boeel              |             |   |   |     | dan |   |   |    |        467-44 |
 | w   |        | ok                 | xCC | og                  |   | och                       | och                |             |   |   |     | dan |   |   |    |        467-44 |
 | w   |        | vænde              | xVB | vende               |   | wendde                    | wendde             |             |   |   |     | dan |   |   |    |        467-44 |
@@ -760,14 +760,14 @@ wdblac = w with breve
 | w   |        | bol                | xNC | bol                 |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-46 |
 | p   |        |                    |     |                     |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-46 |
 | w   |        | i                  | xAP | i                   |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-46 |
-| w   |        | hvær               | xPD | hver                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-46 |
+| w   |        | hvær               | xDD | hver                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-46 |
 | w   |        | bol                | xNC | bol                 |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-46 |
 | lm  | 467-47 |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | fjure              | xNA | fire                |   | firre                     | firre              |             |   |   |     | dan |   |   |    |        467-47 |
 | w   |        | rep                | xNC | reb                 |   | reeb                      | reeb               |             |   |   |     | dan |   |   |    |        467-47 |
 | p   |        |                    |     |                     |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-47 |
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-47 |
-| w   |        | hvær               | xPD | hver                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-47 |
+| w   |        | hvær               | xDD | hver                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-47 |
 | w   |        | rep                | xNC | reb                 |   | reeb                      | reeb               |             |   |   |     | dan |   |   |    |        467-47 |
 | w   |        | fjure              | xNA | fire                |   | firre                     | firre              |             |   |   |     | dan |   |   |    |        467-47 |
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-47 |
@@ -833,12 +833,12 @@ wdblac = w with breve
 | w   |        | bol                | xNC | bol                 |   | boeel                     | boeel              |             |   |   |     | dan |   |   |    |        467-51 |
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-51 |
 | w   |        | i                  | xAP | i                   |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-51 |
-| w   |        | hvær               | xPD | hver                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-51 |
+| w   |        | hvær               | xDD | hver                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-51 |
 | w   |        | bol                | xNC | bol                 |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-51 |
 | w   |        | thri               | xNA | tre                 |   | tre                       | tre                |             |   |   |     | dan |   |   |    |        467-51 |
 | w   |        | rep                | xNC | reb                 |   | reeb                      | reeb               |             |   |   |     | dan |   |   |    |        467-51 |
 | w   |        | ok                 | xAV | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-51 |
-| w   |        | hvær               | xPD | hver                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-51 |
+| w   |        | hvær               | xDD | hver                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-51 |
 | w   |        | rep                | xNC | reb                 |   | reeb                      | reeb               |             |   |   |     | dan |   |   |    |        467-51 |
 | w   |        | fjure              | xNA | fire                |   | firre                     | firre              |             |   |   |     | dan |   |   |    |        467-51 |
 | w   |        | ok                 | xAV | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-51 |
@@ -851,7 +851,7 @@ wdblac = w with breve
 | w   |        | sæks               | xNA | seks                |   | Sexs                      | ex               |             |   |   |     | dan |   |   |    |        467-52 |
 | w   |        | faghn              | xNC | favne               |   | foffne                    | foffne             |             |   |   |     | dan |   |   |    |        467-52 |
 | w   |        | upa                | xAP | på                  |   | pa                        | pa                 |             |   |   |     | dan |   |   |    |        467-52 |
-| w   |        | hvær               | xPD | hver                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-52 |
+| w   |        | hvær               | xDD | hver                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-52 |
 | w   |        | bol                | xNC | bol                 |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-52 |
 | p   |        |                    |     |                     |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-52 |
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-52 |
@@ -894,14 +894,14 @@ wdblac = w with breve
 | PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | p   |        |                    |     |                     |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-55 |
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-55 |
-| w   |        | hvær               | xPD | hver                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-55 |
+| w   |        | hvær               | xPI | hver                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-55 |
 | w   |        | bekome             | xVB | bekommer            |   | bechomer                  | bechomer           |             |   |   |     | dan |   |   |    |        467-55 |
-| w   |        | thæn               | xPD | deres               |   | deris                     | deri              |             |   |   |     | dan |   |   |    |        467-55 |
+| w   |        | thæn               | xPE | deres               |   | deris                     | deri              |             |   |   |     | dan |   |   |    |        467-55 |
 | w   |        | anpart             | xNC | anpart              |   | anpart                    | anpart             |             |   |   |     | dan |   |   |    |        467-55 |
 | w   |        | æfter              | xAV | efter               |   | epther                    | epther             |             |   |   |     | dan |   |   |    |        467-55 |
 | w   |        | sum                | xCS | som                 |   | som                       | ſom                |             |   |   |     | dan |   |   |    |        467-55 |
 | w   |        | lathe              | xNC | laden               |   | laden                     | laden              |             |   |   |     | dan |   |   |    |        467-55 |
-| w   |        | thæn               | xPD | dem                 |   | denom                     | deno              |             |   |   |     | dan |   |   |    |        467-55 |
+| w   |        | thæn               | xPE | dennem                 |   | denom                     | deno              |             |   |   |     | dan |   |   |    |        467-55 |
 | lm  | 467-56 |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | til                | xAV | til                 |   | thiil                     | thiil              |             |   |   |     | dan |   |   |    |        467-56 |
 | w   |        | halde              | xVB | holdt               |   | holt                      | holt               |             |   |   |     | dan |   |   |    |        467-56 |
@@ -922,7 +922,7 @@ wdblac = w with breve
 | w   |        | tilkome            | xVB | tilkommer           |   | thiil ko(m)mir            | thiil ko̅mir        |             |   |   |     | dan |   |   |    |        467-56 |
 | lm  | 467-57 |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | thæn               | xAT | den                 |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-57 |
-| w   |        | anner              | xPD | anden               |   | anden                     | anden              |             |   |   |     | dan |   |   |    |        467-57 |
+| w   |        | anner              | xNO | anden               |   | anden                     | anden              |             |   |   |     | dan |   |   |    |        467-57 |
 | w   |        | bol                | xNC | bol                 |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-57 |
 | w   |        | i                  | xAP | i                   |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-57 |
 | w   |        | sunder             | xAJ | sønder              |   | Sindder                   | indder            |             |   |   |     | dan |   |   |    |        467-57 |
@@ -1040,7 +1040,7 @@ wdblac = w with breve
 | w   |        | pæl                | xNC | pæle                |   | pele                      | pele               |             |   |   |     | dan |   |   |    |        467-64 |
 | w   |        | sla                | xVB | slagen              |   | Slagin                    | lagin             |             |   |   |     | dan |   |   |    |        467-64 |
 | w   |        | mællem             | xAP | mellem              |   | mellom                    | mellom             |             |   |   |     | dan |   |   |    |        467-64 |
-| w   |        | hvær               | xPD | hver                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-64 |
+| w   |        | hvær               | xDD | hver                |   | huer                      | hŭer               |             |   |   |     | dan |   |   |    |        467-64 |
 | w   |        | bol                | xNC | bol                 |   | boel                      | boel               |             |   |   |     | dan |   |   |    |        467-64 |
 | p   |        |                    |     |                     |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-64 |
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-64 |
@@ -1097,7 +1097,7 @@ wdblac = w with breve
 | PE  | e      | OluAnd003          |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | tilkome            | xVB | tilkommer           |   | thiil komir               | thiil komir        |             |   |   |     | dan |   |   |    |        467-67 |
 | w   |        | thæn               | xAT | den                 |   | den                       | den                |             |   |   |     | dan |   |   |    |        467-67 |
-| w   |        | anner              | xPD | anden               |   | anden                     | anden              |             |   |   |     | dan |   |   |    |        467-67 |
+| w   |        | anner              | xNA | anden               |   | anden                     | anden              |             |   |   |     | dan |   |   |    |        467-67 |
 | w   |        | bol                | xNC | bol                 |   | boeel                     | boeel              |             |   |   |     | dan |   |   |    |        467-67 |
 | p   |        |                    |     |                     |   | :                         | :                  |             |   |   |     | dan |   |   |    |        467-67 |
 | pb  | 467-68 |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
@@ -1186,9 +1186,9 @@ wdblac = w with breve
 | w   |        | ærlik              | xAJ | ærlige              |   | Erlige                    | Erlige             |             |   |   |     | dan |   |   |    |        467-73 |
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-73 |
 | w   |        | vælforstandigh     | xAJ | velforstandige      |   | welforstandiige           | welfortandiige    |             |   |   |     | dan |   |   |    |        467-73 |
-| w   |        | man                | xPD | mand                |   | mand                      | mand               |             |   |   |     | dan |   |   |    |        467-73 |
+| w   |        | man                | xNC | mand                |   | mand                      | mand               |             |   |   |     | dan |   |   |    |        467-73 |
 | de  | b      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | man                | xPD | mand                |   | mand                      | mand               |             |   |   |     | dan |   |   |    |        467-73 |
+| w   |        | man                | xNC | mand                |   | mand                      | mand               |             |   |   |     | dan |   |   |    |        467-73 |
 | de  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | PE  | b      | NieSkr001          |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |                    | xNP | Niels               |   | Nils                      | Nil               |             |   |   |     | dan |   |   |    |        467-73 |
@@ -1284,7 +1284,7 @@ wdblac = w with breve
 | w   |        |                    | xNP | Tårnby              |   | thornby                   | thornbÿ            |             |   |   |     | dan |   |   |    |        467-79 |
 | PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | p   |        |                    |     |                     |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-79 |
-| w   |        | hvilik             | xPD | hvilke              |   | huilke                    | hŭilke             |             |   |   |     | dan |   |   |    |        467-79 |
+| w   |        | hvilik             | xDD | hvilke              |   | huilke                    | hŭilke             |             |   |   |     | dan |   |   |    |        467-79 |
 | w   |        | fornævnd           | xAJ | fornævnte           |   | for(nefnde)               | for.ᷠͤ               |             |   |   |     | dan |   |   |    |        467-79 |
 | w   |        |                    | XX  |                     |   | wune                      | wŭne               |             |   |   |     | dan |   |   |    |        467-79 |
 | w   |        | al                 | xAJ | alle                |   | alle                      | alle               |             |   |   |     | dan |   |   |    |        467-79 |
@@ -1317,10 +1317,10 @@ wdblac = w with breve
 | w   |        | for                | xAP | for                 |   | for                       | for                |             |   |   |     | dan |   |   |    |        467-81 |
 | p   |        |                    |     |                     |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-81 |
 | lm  | 467-82 |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| w   |        | vi                 | xPD | os                  |   | oss                       | oſſ                |             |   |   |     | dan |   |   |    |        467-82 |
-| w   |        | thæn               | xPD | det                 |   | diid                      | diid               |             |   |   |     | dan |   |   |    |        467-82 |
+| w   |        | vi                 | xPE | os                  |   | oss                       | oſſ                |             |   |   |     | dan |   |   |    |        467-82 |
+| w   |        | thæn               | xPE | det                 |   | diid                      | diid               |             |   |   |     | dan |   |   |    |        467-82 |
 | w   |        | vitne              | xVB | vidner              |   | winder                    | winder             |             |   |   |     | dan |   |   |    |        467-82 |
-| w   |        | vi                 | xPD | vi                  |   | wy                        | wÿ                 |             |   |   |     | dan |   |   |    |        467-82 |
+| w   |        | vi                 | xPE | vi                  |   | wy                        | wÿ                 |             |   |   |     | dan |   |   |    |        467-82 |
 | w   |        | mæth               | xAP | med                 |   | med                       | med                |             |   |   |     | dan |   |   |    |        467-82 |
 | w   |        | var                | xDP | vores               |   | wores                     | wore              |             |   |   |     | dan |   |   |    |        467-82 |
 | w   |        | insighle           | xNC | indsegl             |   | indSegel                  | indegel           |             |   |   |     | dan |   |   |    |        467-82 |
