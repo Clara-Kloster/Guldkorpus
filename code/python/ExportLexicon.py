@@ -40,9 +40,43 @@ for item in danish:
     for row in d:
         if row[None][0].strip() == "w":
             lemma = row[None][2].strip()
+            pos = row[None][3].strip()
+            dipl_unstripped = row[None][6].strip()
+            dipl = re.sub(r'[^a-zæøA-ZÆØ]','',dipl_unstripped).lower()
             if lemma not in lemmas:
                 lemmas.append(lemma)
-                lemmas.sort()
-for item in lemmas:
-    print(item)                
+                lemmata[lemma] = { }
+            if pos not in lemmata[lemma].keys():
+                lemmata[lemma][pos] = { }
+            if dipl not in lemmata[lemma][pos].keys():
+                lemmata[lemma][pos][dipl] = [ ]
+            if item not in lemmata[lemma][pos][dipl]:
+                lemmata[lemma][pos][dipl].append(item)
+                    
+
+lemmas.sort()
+lemmas.pop(0)
+write_file = open(sys.path[-1] + '/code/output/Lexicon.org', 'w')
+write_file.write("#+TITLE: St. Clara Lexicon\n#+OPTIONS: toc:nil\n")
+write_file.write("#+LATEX_CLASS_OPTIONS: [a4paper,twocolumn] \n")
+write_file.write("#+LATEX_HEADER: \\usepackage{titlesec} \\titleformat{\\section}[runin]{\\bfseries}{}{0.5em}{} \\titlespacing{\\section}{0pt}{2ex}{1ex} \\titleformat{\\subsection}[runin]{}{}{0ex}{} \\titlespacing{\\subsection}{0pt}{1ex}{1ex} \n")
+write_file.write("#+LATEX_HEADER: \\usepackage{fancyhdr} \\pagestyle{fancy} \\fancyhf{} \\fancyhead[LE,RO]{Clara Kloster Leksikon} \\fancyfoot[RE,LO]{\\today} \\fancyfoot[LE,RO]{\\thepage} \n")
+write_file.write("#+LATEX_HEADER: \\renewcommand\\maketitle{}\n")
+for lemma in lemmas:
+    print(lemma, lemmata[lemma])
+    write_file.write("* " + lemma + "\n")
+    for pos in lemmata[lemma].keys():
+        write_file.write("** " + pos + "\n")
+        attestations = [ ]
+        for dipl in lemmata[lemma][pos].keys():
+            attestations.append(dipl)
+        attestations.sort()
+        for item in attestations:
+            write_file.write("/" + item + "/ ")
+            lemmata[lemma][pos][item].sort()
+            for charter in lemmata[lemma][pos][item]:
+                write_file.write(charter + " ")
+        write_file.write("\n")
+    
+    
         
