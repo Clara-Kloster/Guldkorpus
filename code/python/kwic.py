@@ -55,7 +55,7 @@ for item in danish:
         if row[None][0].strip() == "w" or row[None][0].strip() == "n":
             wordlist.append(row[None][6].strip())
             row_number += 1
-        if row[None][2].strip() == lemma:
+        if row[None][2].strip() == lemma and row[None][0].strip() == "w":
             target_lemma.append(row_number)
             target_pos.append(row[None][3].strip())     
     for target in target_lemma:
