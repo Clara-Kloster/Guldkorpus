@@ -17,36 +17,47 @@ else:
 
 # Find relative path
 sys.path.append(os.path.realpath('../..'))
-directory = sys.path[-1] + '/transcriptions/org/lemmatisation/' # needs to be fixed to working later
+input_directory = sys.path[-1] + '/transcriptions/org/working/'
+output_directory = sys.path[-1] + '/code/output/'
+metafile = sys.path[-1] + '/documentation/corpus_lists.org'
 lemmata = []
 lemmaTable = { }
 attestTable = { }
 
-for filename in os.listdir(directory):
-    if filename.endswith(".org"):
-        working_file = directory + filename
-        shortname = filename.replace(".org","")
-        data = open(working_file).read()
-        mo = re.search("Transcription\n.*\n(\n|$)", data, re.S)
-        mytable = mo.group(0)
-        d = csv.DictReader(mytable.splitlines(), delimiter='|')
-        for row in d:
-            lemma = row[None][2].strip()
-            attestation = row[None][6].strip().lower()
-            if normalize == True:
-                attestation = attestation.replace('j','i').replace('w','v')
-            attestation_stripped = re.sub('[^a-zæøA-ZÆØ]', '', attestation)
-            if lemma not in lemmata:
-                lemmata.append(lemma)
-                lemmata.sort()
-                lemmaTable[lemma] = [ ]
-                attestTable[lemma] = [ ]
-            #if shortname not in lemmaTable[lemma]:
-            lemmaTable[lemma].append(shortname)
-            attestTable[lemma].append(attestation_stripped)
-        continue
-    else:
-        continue
+# Make list of Danish language files
+danish = [ ]
+metadata = open(metafile).read()
+mo = re.search("NAME: Korpusliste\n.*\n(\n|$)", metadata, re.S)
+mytable = mo.group(0)
+d = csv.DictReader(mytable.splitlines(), delimiter = "|")
+for row in d:
+    try:
+        if row[None][8].strip() == "Dansk":
+            danish.append(row[None][0].strip())
+    except:
+        pass
+danish.sort()
+print("Number of files: " + str(len(danish)))
+
+for item in danish:
+    working_file = input_directory + item + ".org"
+    data = open(working_file).read()
+    mo = re.search("Transcription\n.*\n(\n|$)", data, re.S)
+    mytable = mo.group(0)
+    d = csv.DictReader(mytable.splitlines(), delimiter='|')
+    for row in d:
+        lemma = row[None][2].strip()
+        attestation = row[None][6].strip().lower()
+        if normalize == True:
+            attestation = attestation.replace('j','i').replace('w','v')
+        attestation_stripped = re.sub('[^a-zæøA-ZÆØ]', '', attestation)
+        if lemma not in lemmata:
+            lemmata.append(lemma)
+            lemmata.sort()
+            lemmaTable[lemma] = [ ]
+            attestTable[lemma] = [ ]
+        lemmaTable[lemma].append(item)
+        attestTable[lemma].append(attestation_stripped)
 
 traces = [ ]
 xvals = [ ]
@@ -70,7 +81,7 @@ for key in lemmaTable[lemma]:
         if int(data.cell(row,0).value) == int(key):
             date = int(data.cell(row,2).value)
             region = str(data.cell(row, 4).value)
-            city = str(data.cell(row, 3).value.encode('utf-8'))
+            city = str(data.cell(row, 3).value)
     if date != 0:
         xvals.append(date)
         yvals.append(attestation)
@@ -102,7 +113,7 @@ trace = plotly.graph_objs.Scatter(
     )
 )
 traces = [trace]
-layout = dict(title = lemma, yaxis=dict(categoryorder = "category descending"))
+layout = dict(title = lemma, yaxis=dict(categoryorder = "min descending"))
 fig = plotly.graph_objs.Figure(data=traces, layout=layout)
 plotly.offline.plot(fig)
 
