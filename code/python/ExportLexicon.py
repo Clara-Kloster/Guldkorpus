@@ -6,6 +6,12 @@ import sys
 import re
 import csv
 
+# Optional arg for specific POS
+if len(sys.argv) > 1:
+    target_pos = sys.argv[1]
+else:
+    target_pos = "all"
+
 # Find relative path
 sys.path.append(os.path.realpath('../..'))
 input_directory = sys.path[-1] + '/transcriptions/org/working/'
@@ -56,27 +62,30 @@ for item in danish:
 
 lemmas.sort()
 lemmas.pop(0)
-write_file = open(sys.path[-1] + '/code/output/Lexicon.org', 'w')
+write_file = open(sys.path[-1] + '/code/output/Lexicon_' + target_pos + '.org', 'w')
 write_file.write("#+TITLE: St. Clara Lexicon\n#+OPTIONS: toc:nil\n")
 write_file.write("#+LATEX_CLASS_OPTIONS: [a4paper,twocolumn] \n")
 write_file.write("#+LATEX_HEADER: \\usepackage{titlesec} \\titleformat{\\section}[runin]{\\bfseries}{}{0.5em}{} \\titlespacing{\\section}{0pt}{2ex}{1ex} \\titleformat{\\subsection}[runin]{}{}{0ex}{} \\titlespacing{\\subsection}{0pt}{1ex}{1ex} \n")
-write_file.write("#+LATEX_HEADER: \\usepackage{fancyhdr} \\pagestyle{fancy} \\fancyhf{} \\fancyhead[LE,RO]{Clara Kloster Leksikon} \\fancyfoot[RE,LO]{\\today} \\fancyfoot[LE,RO]{\\thepage} \n")
+write_file.write("#+LATEX_HEADER: \\usepackage{fancyhdr} \\pagestyle{fancy} \\fancyhf{} \\fancyhead[LE,RO]{Clara Kloster Leksikon (" + target_pos + ")} \\fancyfoot[RE,LO]{\\today} \\fancyfoot[LE,RO]{\\thepage} \n")
 write_file.write("#+LATEX_HEADER: \\renewcommand\\maketitle{}\n")
+number_of_lemmata = 0
 for lemma in lemmas:
     print(lemma, lemmata[lemma])
-    write_file.write("* " + lemma + "\n")
+    if target_pos == "all" or target_pos in lemmata[lemma].keys():
+        write_file.write("* " + lemma + "\n")
+        number_of_lemmata += 1
     for pos in lemmata[lemma].keys():
-        write_file.write("** " + pos + "\n")
-        attestations = [ ]
-        for dipl in lemmata[lemma][pos].keys():
-            attestations.append(dipl)
-        attestations.sort()
-        for item in attestations:
-            write_file.write("/" + item + "/ ")
-            lemmata[lemma][pos][item].sort()
-            for charter in lemmata[lemma][pos][item]:
-                write_file.write(charter + " ")
-        write_file.write("\n")
-    
-    
-        
+        if target_pos == "all" or target_pos == pos:
+            write_file.write("** " + pos + "\n")
+            attestations = [ ]
+            for dipl in lemmata[lemma][pos].keys():
+                attestations.append(dipl)
+            attestations.sort()
+            for item in attestations:
+                write_file.write("/" + item + "/ ")
+                lemmata[lemma][pos][item].sort()
+                for charter in lemmata[lemma][pos][item]:
+                    write_file.write(charter + " ")
+            write_file.write("\n")
+
+print("Number of lemmata printed: " + str(number_of_lemmata))
