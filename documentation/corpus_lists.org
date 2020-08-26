@@ -636,11 +636,12 @@ workbook.close()
 ** Eksport liste
 #+BEGIN_SRC python :results file :exports results :var data=Korpusliste :preamble "# -*- coding: utf-8 -*-"
 header = data[1]
-code = header.index("code")
+code = header.index("onumber")
 fasc = header.index("fasc.")
 num = header.index("num.")
 year = header.index("year")
 lang = header.index("language")
+note = header.index("notes")
 
 import xlsxwriter
 workbook = xlsxwriter.Workbook('List.xlsx')
@@ -650,12 +651,14 @@ bold = workbook.add_format({'bold':1})
 worksheet.write('A1', 'Code', bold)
 worksheet.write('B1', 'Year', bold)
 worksheet.write('C1', 'Language', bold)
+worksheet.write('D1', 'Notes', bold)
 
 row = 1
 for a in data:
      worksheet.write(row, 0, a[code])
      worksheet.write(row, 1, a[year])
      worksheet.write(row, 2, a[lang])
+     worksheet.write(row, 3, a[note])
      row += 1
 workbook.close()
 

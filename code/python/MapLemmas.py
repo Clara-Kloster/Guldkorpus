@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# This program finds all lemmas in org files and prints with filename
+# This program finds all instances of a given lemma and maps them on a timeline
 import re
 import csv
 import os
@@ -115,5 +115,9 @@ trace = plotly.graph_objs.Scatter(
 traces = [trace]
 layout = dict(title = lemma, yaxis=dict(categoryorder = "min descending"))
 fig = plotly.graph_objs.Figure(data=traces, layout=layout)
-plotly.offline.plot(fig)
+if normalize == True:
+    file_name = "../output/Lemmata/" + lemma + "_norm.html"
+else:
+    file_name = "../output/Lemmata/" +lemma + ".hmtl"
+plotly.offline.plot(fig, filename=file_name)
 
