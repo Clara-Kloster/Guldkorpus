@@ -118,6 +118,6 @@ fig = plotly.graph_objs.Figure(data=traces, layout=layout)
 if normalize == True:
     file_name = "../output/Lemmata/" + lemma + "_norm.html"
 else:
-    file_name = "../output/Lemmata/" +lemma + ".hmtl"
+    file_name = "../output/Lemmata/" +lemma + ".html"
 plotly.offline.plot(fig, filename=file_name)
 
