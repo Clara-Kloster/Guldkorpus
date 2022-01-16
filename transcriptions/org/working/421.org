@@ -42,6 +42,7 @@
 | :s: |        |               |         |             |   |                   |            |             |   |   |        |     |   |   |    |               |
 | pm  | 1r     |               |         |             |   |                   |            |             |   |   |        |     |   |   |    |               |
 | lm  | 421-01 |               |         |             |   |                   |            |             |   |   |        |     |   |   |    |               |
+| d   | b      | 1             |         | protocol    |   |                   |            |             |   |   |        |     |   |   |    |               |
 | w   |        | jak           | xPE     | jeg         |   | Jegh              | Jegh       |             |   |   |        | dan |   |   |    |        421-01 |
 | PE  | b      | AxeLag001     |         |             |   |                   |            |             |   |   |        |     |   |   |    |               |
 | w   |        |               | xNP     | Axel        |   | Axel              | Axel       |             |   |   |        | dan |   |   |    |        421-01 |
@@ -60,6 +61,8 @@
 | w   |        | open          | xAJ     | åbne        |   | opne              | opne       |             |   |   |        | dan |   |   |    |        421-01 |
 | w   |        | brev          | xNC     | brev        |   | breff             | bꝛeff      |             |   |   |        | dan |   |   |    |        421-01 |
 | w   |        | ok            | xCC     | og          |   | och               | och        |             |   |   |        | dan |   |   |    |        421-01 |
+| d   | e      | 1             |         |             |   |                   |            |             |   |   |        |     |   |   |    |               |
+| d   | b      | 2             |         | context     |   |                   |            |             |   |   |        |     |   |   |    |               |
 | w   |        | kænne         | xVB     | kendes      |   | ke(n)nes          | ke̅ne      |             |   |   |        | dan |   |   |    |        421-01 |
 | w   |        | jak           | xPE     | mig         |   | mik               | mık        |             |   |   |        | dan |   |   |    |        421-01 |
 | w   |        | af            | xAP     | af          |   | aff               | aff        |             |   |   |        | dan |   |   |    |        421-01 |
@@ -299,6 +302,8 @@
 | w   |        | fore          | xAV     | før         |   | for(e)            | foꝛ       |             |   |   |        | dan |   |   |    |        421-12 |
 | w   |        | være          | xVB     | er          |   | ær                | ær         |             |   |   |        | dan |   |   |    |        421-12 |
 | w   |        | røre          | xVB     | rørt        |   | rørd              | røꝛd       |             |   |   |        | dan |   |   |    |        421-12 |
+| d   | e      | 2             |         |             |   |                   |            |             |   |   |        |     |   |   |    |               |
+| d   | b      | 3             |         | eschatocol  |   |                   |            |             |   |   |        |     |   |   |    |               |
 | w   |        | hængje        | xVB     | hænger      |   | hængh(er)         | hængh     |             |   |   |        | dan |   |   |    |        421-12 |
 | w   |        | jak           | xPE     | jeg         |   | iegh              | ıegh       |             |   |   |        | dan |   |   |    |        421-12 |
 | w   |        | min           | xDP     | mit         |   | mith              | mith       |             |   |   |        | dan |   |   |    |        421-12 |
@@ -359,4 +364,5 @@
 | w   |        |               |         |             |   | d(omi)ni          | dn̅ı        |             |   |   |        | lat |   |   |    |        421-15 |
 | n   |        |               |         |             |   | Mcdxc             | Mcdxc      |             |   |   |        | lat |   |   |    |        421-15 |
 | w   |        |               |         |             |   | Primo             | Pꝛimo      |             |   |   |        | lat |   |   |    |        421-15 |
+| d   | e      | 3             |         |             |   |                   |            |             |   |   |        |     |   |   |    |               |
 | :e: |        |               |         |             |   |                   |            |             |   |   |        |     |   |   |    |               |

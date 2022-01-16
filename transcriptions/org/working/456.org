@@ -42,6 +42,7 @@
 | :s: |        |             |     |            |   |               |               |   |   |   |   |     |   |   |   |        |
 | pm  |     1r |             |     |            |   |               |               |   |   |   |   |     |   |   |   |        |
 | lm  | 456-01 |             |     |            |   |               |               |   |   |   |   |     |   |   |   |        |
+| d   | b      | 1           |     | protocol   |   |               |               |   |   |   |   |     |   |   |   |        |
 | w   |        | jak         | xPE | jeg        |   | Jeg           | Jeg           |   |   |   |   | dan |   |   |   | 456-01 |
 | PE  |      b | OluMik001   |     |            |   |               |               |   |   |   |   |     |   |   |   |        |
 | w   |        |             | xNP | Oluf       |   | oluff         | oluff         |   |   |   |   | dan |   |   |   | 456-01 |
@@ -56,6 +57,8 @@
 | w   |        | open        | xAJ | åbne       |   | obnee         | obnee         |   |   |   |   | dan |   |   |   | 456-01 |
 | lm  | 456-02 |             |     |            |   |               |               |   |   |   |   |     |   |   |   |        |
 | w   |        | brev        | xNC | brev       |   | breff         | bꝛeff         |   |   |   |   | dan |   |   |   | 456-02 |
+| d   | e      | 1           |     |            |   |               |               |   |   |   |   |     |   |   |   |        |
+| d   | b      | 2           |     | context    |   |               |               |   |   |   |   |     |   |   |   |        |
 | w   |        | at          | xCS | at         |   | Ath           | Ath           |   |   |   |   | dan |   |   |   | 456-02 |
 | w   |        | jak         | xPE | jeg        |   | Ieg           | Ieg           |   |   |   |   | dan |   |   |   | 456-02 |
 | w   |        | thakke      | xVB | takker     |   | Tacker        | Tacker        |   |   |   |   | dan |   |   |   | 456-02 |
@@ -150,7 +153,9 @@
 | w   |        | til         | xAP | til        |   | tiill         | tiill         |   |   |   |   | dan |   |   |   | 456-10 |
 | w   |        | thæn        | xAT | denne      |   | thenn(n)e     | thenn̅e        |   |   |   |   | dan |   |   |   | 456-10 |
 | w   |        | dagh        | xNC | dag        |   | dag           | dag           |   |   |   |   | dan |   |   |   | 456-10 |
+| d   | e      | 2           |     |            |   |               |               |   |   |   |   |     |   |   |   |        |
 | lm  | 456-11 |             |     |            |   |               |               |   |   |   |   |     |   |   |   |        |
+| d   | b      | 3           |     | eschatocol |   |               |               |   |   |   |   |     |   |   |   |        |
 | w   |        | til         | xAP | til        |   | Thyll         | Thyll         |   |   |   |   | dan |   |   |   | 456-11 |
 | w   |        | ytermere    | xAJ | ydermere   |   | yd(er)mer(e)  | ydmer       |   |   |   |   | dan |   |   |   | 456-11 |
 | w   |        | vitnesbyrth | xNC | vidnesbyrd |   | vynæ(r)byrdt  | vynæbyrdt    |   |   |   |   | dan |   |   |   | 456-11 |
@@ -169,4 +174,5 @@
 | w   |        |             | lat |            |   | dom(in)i      | domı          |   |   |   |   | lat |   |   |   | 456-12 |
 | lm  | 456-13 |             |     |            |   |               |               |   |   |   |   |     |   |   |   |        |
 | n   |        |             | lat |            |   | mdxxxx        | dxxxx        |   |   |   |   | lat |   |   |   | 456-13 |
+| d   | e      | 3           |     |            |   |               |               |   |   |   |   |     |   |   |   |        |
 | :e: |        |             |     |            |   |               |               |   |   |   |   |     |   |   |   |        |

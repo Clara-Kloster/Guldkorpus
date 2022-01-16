@@ -42,6 +42,7 @@
 | :s: |        |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |
 | pm  | 1r     |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |
 | lm  | 425-01 |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |
+| d   | b      | 1           |     | protocol       |   |                   |              |   |   |   |        |     |   |   |    |        |
 | w   |        | al          | xAJ | alle           |   | Alle              | Alle         |   |   |   |        | dan |   |   |    | 425-01 |
 | w   |        | man         | xNC | mænd           |   | me(n)             | me̅           |   |   |   |        | dan |   |   |    | 425-01 |
 | w   |        | thænne      | xDD | dette          |   | th(etta)          | thꝫᷓ          |   |   |   |        | dan |   |   |    | 425-01 |
@@ -115,6 +116,8 @@
 | w   |        | millium     | lat |                |   | milliu(m)         | milliu̅       |   |   |   |        | lat |   |   |    | 425-05 |
 | w   |        | virginum    | lat |                |   | v(ir)ginu(m)      | vginu̅       |   |   |   |        | lat |   |   |    | 425-05 |
 | w   |        | dagh        | xNC | dag            |   | dagh              | dagh         |   |   |   |        | dan |   |   |    | 425-05 |
+| d   | e      | 1           |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |
+| d   | b      | 2           |     | context        |   |                   |              |   |   |   |        |     |   |   |    |        |
 | w   |        | tha         | xAV | da             |   | tha               | tha          |   |   |   |        | dan |   |   |    | 425-05 |
 | w   |        | være        | xVB | var            |   | wor               | woꝛ          |   |   |   |        | dan |   |   |    | 425-05 |
 | w   |        | skikke      | xVB | skikket        |   | skycketh          | ſkycketh     |   |   |   |        | dan |   |   |    | 425-05 |
@@ -429,7 +432,9 @@
 | w   |        | være        | xVB | er             |   | er                | eꝛ           |   |   |   |        | dan |   |   |    | 425-23 |
 | w   |        | røre        | xVB | rørt           |   | rørd              | røꝛd         |   |   |   |        | dan |   |   |    | 425-23 |
 | w   |        |             |     |                |   |                   |              |   |   |   |        | dan |   |   |    | 425-23 |
+| d   | e      | 2           |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |
 | lm  | 425-24 |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |
+| d   | b      | 3           |     | eschatocol     |   |                   |              |   |   |   |        |     |   |   |    |        |
 | w   |        | til         | xAP | til            |   | Tel               | Tel          |   |   |   |        | dan |   |   |    | 425-24 |
 | w   |        | bætre       | xAJ | bedre          |   | bædy(re)          | bædy        |   |   |   |        | dan |   |   |    | 425-24 |
 | w   |        | bevisning   | xNC | bevisning      |   | bewyssni(n)gh     | bewyſſni̅gh   |   |   |   |        | dan |   |   |    | 425-24 |
@@ -449,4 +454,5 @@
 | w   |        |             | lat |                |   | loco              | loco         |   |   |   |        | lat |   |   |    | 425-25 |
 | w   |        |             | lat |                |   | vt                | vt           |   |   |   |        | lat |   |   | =  | 425-25 |
 | w   |        |             | lat |                |   | (supra)           | &pk;         |   |   |   |        | lat |   |   | == | 425-25 |
+| d   | e      | 3           |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |
 | :e: |        |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |

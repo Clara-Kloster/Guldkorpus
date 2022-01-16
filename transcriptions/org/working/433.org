@@ -42,6 +42,7 @@
 | :s: |        |             |     |             |   |               |               |            |   |   |          |     |   |   |    |               |
 | pm  |     1r |             |     |             |   |               |               |            |   |   |          |     |   |   |    |               |
 | lm  | 433-01 |             |     |             |   |               |               |            |   |   |          |     |   |   |    |               |
+| d   | b      | 1           |     | protocol    |   |               |               |            |   |   |          |     |   |   |    |               |
 | w   |        | al          | xAJ | alle        |   | Allæ          | Allæ          |            |   |   |          | dan |   |   |    |        433-01 |
 | w   |        | man         | xNC | mænd        |   | mæn           | mæ           |            |   |   |          | dan |   |   |    |        433-01 |
 | w   |        | thænne      | xDD | dette       |   | th(et)tæ      | thꝫtæ         |            |   |   |          | dan |   |   |    |        433-01 |
@@ -90,7 +91,9 @@
 | w   |        | ok          | xCC | og          |   | oc            | oc            |            |   |   |          | dan |   |   |    |        433-02 |
 | w   |        | kome        | xVB | komme       |   | ko(m)mæ       | ko̅mæ          |            |   |   |          | dan |   |   |    |        433-02 |
 | w   |        | skule       | xVB | skullende   |   | skulindæ      | ſkulındæ      |            |   |   |          | dan |   |   |    |        433-02 |
+| d   | e      | 1           |     |             |   |               |               |            |   |   |          |     |   |   |    |               |
 | lm  | 433-03 |             |     |             |   |               |               |            |   |   |          |     |   |   |    |               |
+| d   | b      | 2           |     | context     |   |               |               |            |   |   |          |     |   |   |    |               |
 | w   |        | at          | xCS | at          |   | ad            | ad            |            |   |   |          | dan |   |   |    |        433-03 |
 | w   |        | vi          | xPE | vi          |   | wi            | wi            |            |   |   |          | dan |   |   |    |        433-03 |
 | w   |        | have        | xVB | have        |   | hawæ          | hawæ          |            |   |   |          | dan |   |   |    |        433-03 |
@@ -257,6 +260,8 @@
 | w   |        | hvær        | xDD | hvers       |   | hwers         | hweꝛ         |            |   |   |          | dan |   |   |    |        433-12 |
 | w   |        | man         | xNC | mands       |   | manz          | manz          |            |   |   |          | dan |   |   |    |        433-12 |
 | w   |        | gensaghn    | xNC | gensagn     |   | geen sawn     | geen ſawn     |            |   |   |          | dan |   |   |    |        433-12 |
+| d   | e      | 2           |     |             |   |               |               |            |   |   |          |     |   |   |    |               |
+| d   | b      | 3           |     | eschatocol  |   |               |               |            |   |   |          |     |   |   |    |               |
 | w   |        | til         | xAP | til         |   | Till          | Tıll          |            |   |   |          | dan |   |   |    |        433-12 |
 | w   |        | ytermere    | xAJ | ydermere    |   | ydermer(e)    | ẏdeꝛmer      |            |   |   |          | dan |   |   |    |        433-12 |
 | w   |        | stathfæste  | xNC | stedfæste   |   | stadhfestæ    | ſtadhfeſtæ    |            |   |   |          | dan |   |   |    |        433-12 |
@@ -284,4 +289,5 @@
 | w   |        | thæn        | xAT | det         |   | th(et)        | thꝫ           |            |   |   |          | dan |   |   |    |        433-14 |
 | w   |        | fjarthe     | xNO | fjerde      |   | fierdhe       | fıerdhe       |            |   |   |          | dan |   |   |    |        433-14 |
 | w   |        | ar          | xNC | år          |   | aar           | aaꝛ           |            |   |   |          | dan |   |   |    |        433-14 |
+| d   | e      | 3           |     |             |   |               |               |            |   |   |          |     |   |   |    |               |
 | :e: |        |             |     |             |   |               |               |            |   |   |          |     |   |   |    |               |

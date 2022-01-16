@@ -42,6 +42,7 @@
 | :s: |        |             |     |              |   |                  |               |   |   |   |   |     |   |   |    |               |
 | pm  |     1r |             |     |              |   |                  |               |   |   |   |   |     |   |   |    |               |
 | lm  | 417-01 |             |     |              |   |                  |               |   |   |   |   |     |   |   |    |               |
+| d   | b      | 1           |     | protocol     |   |                  |               |   |   |   |   |     |   |   |    |               |
 | w   |        | al          | xAJ | alle         |   | Alle             | Alle          |   |   |   |   | dan |   |   |    |        417-01 |
 | w   |        | man         | xNC | mænd         |   | men              | me           |   |   |   |   | dan |   |   |    |        417-01 |
 | w   |        | thænne      | xDD | dette        |   | th(ette)         | thꝫͤ           |   |   |   |   | dan |   |   |    |        417-01 |
@@ -85,6 +86,8 @@
 | w   |        | var         | xDP | vort         |   | worth            | woꝛth         |   |   |   |   | dan |   |   |    |        417-03 |
 | w   |        | open        | xAJ | åbne         |   | oppnæ            | onæ          |   |   |   |   | dan |   |   |    |        417-03 |
 | w   |        | brev        | xNC | brev         |   | b(re)ff          | bf̅f           |   |   |   |   | dan |   |   |    |        417-03 |
+| d   | e      | 1           |     |              |   |                  |               |   |   |   |   |     |   |   |    |               |
+| d   | b      | 2           |     | context      |   |                  |               |   |   |   |   |     |   |   |    |               |
 | w   |        | at          | xIM | at           |   | adh              | adh           |   |   |   |   | dan |   |   |    |        417-03 |
 | lm  | 417-04 |             |     |              |   |                  |               |   |   |   |   |     |   |   |    |               |
 | w   |        | mæth        | xAP | med          |   | m(et)            | mꝫ            |   |   |   |   | dan |   |   |    |        417-04 |
@@ -519,6 +522,8 @@
 | w   |        | æfter       | xAP | efter        |   | efth(e)r         | efthꝛ        |   |   |   |   | dan |   |   |    |        417-33 |
 | w   |        | dane+man    | xNC | dannemænds   |   | da(n)ne menz     | da̅ne menz     |   |   |   |   | dan |   |   |    |        417-33 |
 | w   |        | sæghjelse   | xNC | sigelse      |   | sielsæ           | ſıelſæ        |   |   |   |   | dan |   |   |    |        417-33 |
+| d   | e      | 2           |     |              |   |                  |               |   |   |   |   |     |   |   |    |               |
+| d   | b      | 3           |     | eschatocol   |   |                  |               |   |   |   |   |     |   |   |    |               |
 | w   |        |             |     |              |   | Jn               | Jn            |   |   |   |   | lat |   |   |    |        417-33 |
 | w   |        |             |     |              |   | cui(us)          | cuı          |   |   |   |   | lat |   |   |    |        417-33 |
 | w   |        |             |     |              |   | rei              | ꝛei           |   |   |   |   | lat |   |   |    |        417-33 |
@@ -551,4 +556,5 @@
 | w   |        |             |     |              |   | die              | dıe           |   |   |   |   | lat |   |   |    |        417-35 |
 | w   |        |             |     |              |   | mens(is)         | men          |   |   |   |   | lat |   |   |    |        417-35 |
 | w   |        |             |     |              |   | ap(ri)lis        | aplı        |   |   |   |   | lat |   |   |    |        417-35 |
+| d   | e      | 3           |     |              |   |                  |               |   |   |   |   |     |   |   |    |               |
 | :e: |        |             |     |              |   |                  |               |   |   |   |   |     |   |   |    |               |

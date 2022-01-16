@@ -43,10 +43,13 @@ Pontoppidan Annales II 680
 | :s: |        |   |   |        |   |                           |                           |   |   |   |   |     |   |   |    |                |
 | pm  | 1r     |   |   |        |   |                           |                           |   |   |   |   |     |   |   |    |                |
 | lm  | 415-01 |   |   |        |   |                           |                           |   |   |   |   |     |   |   |    |                |
+| d  | b      | 1  |   | protocol       |   |                           |                           |   |   |   |   |     |   |   |    |                |
 | w   |        |   |   |        |   | In                        | In                        |   |   |   |   | lat |   |   |    |         415-01 |
 | w   |        |   |   |        |   | nomine                    | nomíne                    |   |   |   |   | lat |   |   |    |         415-01 |
 | w   |        |   |   |        |   | d(omi)ni                  | dn̅ı                       |   |   |   |   | lat |   |   |    |         415-01 |
 | w   |        |   |   |        |   | amen                      | amen                      |   |   |   |   | lat |   |   |    |         415-01 |
+| d  | e      | 1  |   |        |   |                           |                           |   |   |   |   |     |   |   |    |                |
+| d  | b      | 2  |   | context       |   |                           |                           |   |   |   |   |     |   |   |    |                |
 | w   |        |   |   |        |   | Anno                      | Anno                      |   |   |   |   | lat |   |   |    |         415-01 |
 | w   |        |   |   |        |   | a                         | a                         |   |   |   |   | lat |   |   |    |         415-01 |
 | w   |        |   |   |        |   | Natiuitate                | Natıuıtate                |   |   |   |   | lat |   |   |    |         415-01 |
@@ -1198,7 +1201,7 @@ Pontoppidan Annales II 680
 | w   |        |   |   |        |   | specialiter               | ſpecıalıter               |   |   |   |   | lat |   |   |    |         415-40 |
 | w   |        |   |   |        |   | et                        | et                        |   |   |   |   | lat |   |   |    |         415-40 |
 | w   |        |   |   |        |   | Rogatis                   | Rogatis                   |   |   |   |   | lat |   |   |    |         415-40 |
-| d   | b      |   |   | notary |   |                           |                           |   |   |   |   |     |   |   |    |                |
+| d   | b      | 4  |   | notary |   |                           |                           |   |   |   |   |     |   |   |    |                |
 | lm  | 415-41 |   |   |        |   |                           |                           |   |   |   |   |     |   |   |    |                |
 | w   |        |   |   |        |   | Et                        | Et                        |   |   |   |   | lat |   |   |    |         415-41 |
 | w   |        |   |   |        |   | Ego                       | go                       |   |   |   |   | lat |   |   |    |         415-41 |
@@ -1266,6 +1269,8 @@ Pontoppidan Annales II 680
 | w   |        |   |   |        |   | propria                   | proprıa                   |   |   |   |   | lat |   |   |    |         415-45 |
 | w   |        |   |   |        |   | fideliter                 | fıdelıteꝛ                 |   |   |   |   | lat |   |   |    |         415-45 |
 | w   |        |   |   |        |   | scriptum                  | ſcrıptum                  |   |   |   |   | lat |   |   |    |         415-45 |
+| d  | e      | 2  |   |        |   |                           |                           |   |   |   |   |     |   |   |    |                |
+| d  | b      | 3  |   | eschatocol       |   |                           |                           |   |   |   |   |     |   |   |    |                |
 | w   |        |   |   |        |   | Exinde                    | xinde                    |   |   |   |   | lat |   |   |    |         415-45 |
 | lm  | 415-46 |   |   |        |   |                           |                           |   |   |   |   |     |   |   |    |                |
 | w   |        |   |   |        |   | confeci                   | confecı                   |   |   |   |   | lat |   |   |    |         415-46 |
@@ -1296,5 +1301,6 @@ Pontoppidan Annales II 680
 | w   |        |   |   |        |   | Rogatus                   | Rogatu                   |   |   |   |   | lat |   |   |    |         415-47 |
 | w   |        |   |   |        |   | et                        | et                        |   |   |   |   | lat |   |   |    |         415-47 |
 | w   |        |   |   |        |   | Requisitus                | Requıſıtus                |   |   |   |   | lat |   |   |    |         415-47 |
-| d   | e      |   |   |        |   |                           |                           |   |   |   |   |     |   |   |    |                |
+| d   | e      | 4  |   |        |   |                           |                           |   |   |   |   |     |   |   |    |                |
+| d  | e      | 3  |   |        |   |                           |                           |   |   |   |   |     |   |   |    |                |
 | :e: |        |   |   |        |   |                           |                           |   |   |   |   |     |   |   |    |                |

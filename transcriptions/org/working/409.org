@@ -42,6 +42,7 @@
 | :s: |        |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |
 | pm  | 1r     |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |
 | lm  | 409-01 |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |
+| d   | b      | 1             |     | protocol       |   |                   |              |   |   |   |   |         |   |   |   |        |
 | w   |        | al            | xAJ | alle           |   | Alle              | Alle         |   |   |   |   | dan     |   |   |   | 409-01 |
 | w   |        | man           | xNC | mænd           |   | me(n)             | me̅           |   |   |   |   | dan     |   |   |   | 409-01 |
 | w   |        | thænne        | xDD | dette          |   | th(ette)          | thꝫͤ          |   |   |   |   | dan     |   |   |   | 409-01 |
@@ -82,6 +83,8 @@
 | w   |        | min           | xDP | mit            |   | myt               | mẏt          |   |   |   |   | dan     |   |   |   | 409-02 |
 | w   |        | open          | xAJ | åbne           |   | opne              | opne         |   |   |   |   | dan     |   |   |   | 409-02 |
 | w   |        | brev          | xNC | brev           |   | br(e)ff           | bꝛ̅ff         |   |   |   |   | dan     |   |   |   | 409-02 |
+| d   | e      | 1             |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |
+| d   | b      | 2             |     | context        |   |                   |              |   |   |   |   |         |   |   |   |        |
 | w   |        | at            | xCS | at             |   | at                | at           |   |   |   |   | dan     |   |   |   | 409-02 |
 | w   |        | jak           | xPE | jeg            |   | jegh              | ȷegh         |   |   |   |   | dan     |   |   |   | 409-02 |
 | w   |        | have          | xVB | har            |   | hawer             | hawer        |   |   |   |   | dan     |   |   |   | 409-02 |
@@ -490,6 +493,8 @@
 | w   |        | uten          | xAP | uden           |   | vth(e)n           | vth̅         |   |   |   |   | dan     |   |   |   | 409-16 |
 | w   |        | al            | xAJ | al             |   | all               | all          |   |   |   |   | dan     |   |   |   | 409-16 |
 | w   |        | skathe        | xNC | skade          |   | skadhe            | ſkadhe       |   |   |   |   | dan     |   |   |   | 409-16 |
+| d   | e      | 2             |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |
+| d   | b      | 3             |     | eschatocol     |   |                   |              |   |   |   |   |         |   |   |   |        |
 | w   |        | til           | xAP | til            |   | Till              | Tıll         |   |   |   |   | dan     |   |   |   | 409-16 |
 | w   |        | ytermere      | xAJ | ydermere       |   | yd(er)mer(e)      | ydmer      |   |   |   |   | dan     |   |   |   | 409-16 |
 | w   |        | forvaring     | xNC | forvaring      |   | forwari(n)gh      | foꝛwari̅gh    |   |   |   |   | dan     |   |   |   | 409-16 |
@@ -581,5 +586,5 @@
 | w   |        |               |     |                |   | b(ea)ti           | bt̅ı          |   |   |   |   | lat     |   |   |   | 409-20 |
 | w   |        |               |     |                |   | bartolomei        | baꝛtolomei   |   |   |   |   | lat     |   |   |   | 409-20 |
 | w   |        |               |     |                |   | ap(osto)li        | ap̅li         |   |   |   |   | lat     |   |   |   | 409-20 |
+| d   | e      | 3             |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |
 | :e: |        |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |
-|     |        |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |

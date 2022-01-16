@@ -42,6 +42,7 @@
 | :s: |        |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
 | pm  | 1r     |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
 | lm  | 439-01 |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
+| d   | b      | 1           |     | protocol     |   |                 |              |   |   |   |   |     |   |   |   |               |
 | w   |        | jak         | xPE | jeg          |   | Jek             | Jek          |   |   |   |   | dan |   |   |   |        439-01 |
 | PE  | b      | PedDeg001   |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
 | w   |        |             | xNP | Peder        |   | pedh(e)r        | pedhꝛ       |   |   |   |   | dan |   |   |   |        439-01 |
@@ -73,6 +74,8 @@
 | w   |        | min         | xDP | mit          |   | myth            | mÿth         |   |   |   |   | dan |   |   |   |        439-02 |
 | w   |        | open        | xAJ | åbne         |   | opne            | opne         |   |   |   |   | dan |   |   |   |        439-02 |
 | w   |        | brev        | xNC | brev         |   | breff           | bꝛeff        |   |   |   |   | dan |   |   |   |        439-02 |
+| d   | e      | 1           |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
+| d   | b      | 2           |     | context      |   |                 |              |   |   |   |   |     |   |   |   |               |
 | w   |        | at          | xCS | at           |   | ath             | ath          |   |   |   |   | dan |   |   |   |        439-02 |
 | w   |        | ar          | xNC | år           |   | Aar             | Aaꝛ          |   |   |   |   | dan |   |   |   |        439-02 |
 | w   |        | æfter       | xAP | efter        |   | effth(e)r       | effthꝛ      |   |   |   |   | dan |   |   |   |        439-02 |
@@ -257,6 +260,8 @@
 | w   |        | fornævnd    | xAJ | fornævnte    |   | for(nefnde)     | foꝛᷠͤ          |   |   |   |   | dan |   |   |   |        439-12 |
 | w   |        |             | xNP | Clara        |   | klar(e)         | klaꝛ        |   |   |   |   | dan |   |   |   |        439-12 |
 | w   |        | kloster     | xNC | kloster      |   | klosth(e)r      | kloſthꝛ     |   |   |   |   | dan |   |   |   |        439-12 |
+| d   | e      | 2           |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
+| d   | b      | 3           |     | eschatocol   |   |                 |              |   |   |   |   |     |   |   |   |               |
 | w   |        | til         | xAP | til          |   | Tiil            | Tiil         |   |   |   |   | dan |   |   |   |        439-12 |
 | w   |        | vitnesbyrth | xNC | vidnesbyrd   |   | vitnesbyrdh     | vitneſbÿꝛdh  |   |   |   |   | dan |   |   |   |        439-12 |
 | w   |        | at          | xCS | at           |   | ath             | ath          |   |   |   |   | dan |   |   |   |        439-12 |
@@ -284,4 +289,5 @@
 | w   |        |             |     |              |   | loco            | loco         |   |   |   |   | lat |   |   |   |        439-14 |
 | w   |        |             |     |              |   | ut              | ut           |   |   |   |   | lat |   |   |   |        439-14 |
 | w   |        |             |     |              |   | Sup(ra)         | upᷓ          |   |   |   |   | lat |   |   |   |        439-14 |
+| d   | e      | 3           |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
 | :e: |        |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |

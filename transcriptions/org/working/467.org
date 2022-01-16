@@ -43,6 +43,7 @@ wdblac = w with breve
 | :s: |        |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | pm  | 1r     |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | lm  | 467-01 |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| d   | b      | 1                  |     | protocol            |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | vi                 | xPE | vi                  |   | Wij                       | Wij                |             |   |   |     | dan |   |   |    |        467-01 |
 | w   |        | æfterskrive        | xVB | efterskrevne        |   | epther(screffne)          | eptherᷠͤ             |             |   |   |     | dan |   |   |    |        467-01 |
 | PE  | b      | OluAnd003          |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
@@ -87,6 +88,8 @@ wdblac = w with breve
 | w   |        | open               | xAJ | åbne                |   | obne                      | obne               |             |   |   |     | dan |   |   |    |        467-03 |
 | w   |        | brev               | xNC | brev                |   | briff                     | briff              |             |   |   |     | dan |   |   |    |        467-03 |
 | p   |        |                    |     |                     |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-03 |
+| d   | e      | 1                  |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| d   | b      | 2                  |     | context             |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | at                 | xCS | at                  |   | ad                        | ad                 |             |   |   |     | dan |   |   |    |        467-03 |
 | w   |        | ar                 | xNC | år                  |   | aar                       | aar                |             |   |   |     | dan |   |   |    |        467-03 |
 | w   |        | æfter              | xAP | efter               |   | epther                    | epther             |             |   |   |     | dan |   |   |    |        467-03 |
@@ -1294,6 +1297,7 @@ wdblac = w with breve
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-79 |
 | w   |        | san                | xNC | sanden              |   | sand¦den                  | ſand¦den           |             |   |   |     | dan |   |   |    | 467-79—467-80 |
 | p   |        |                    |     |                     |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-80 |
+| d   | b      | 3                  |     | eschatocol          |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | at                 | xCS | at                  |   | ad                        | ad                 |             |   |   |     | dan |   |   |    |        467-80 |
 | w   |        | sva                | xAV | så                  |   | Sa                        | a                 |             |   |   |     | dan |   |   |    |        467-80 |
 | w   |        | være               | xVB | er                  |   | er                        | er                 |             |   |   |     | dan |   |   |    |        467-80 |
@@ -1333,4 +1337,5 @@ wdblac = w with breve
 | w   |        |                    |     |                     |   | dat(um)                   | datꝭ               |             |   |   |     | lat |   |   |    |        467-83 |
 | w   |        |                    |     |                     |   | ut                        | ŭt                 |             |   |   |     | lat |   |   |    |        467-83 |
 | w   |        |                    |     |                     |   | supra                     | sŭpra              |             |   |   |     | lat |   |   |    |        467-83 |
+| d   | e      | 3                  |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | :e: |        |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |

@@ -42,6 +42,7 @@
 | :s: |        |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |
 | pm  | 1r     |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |
 | lm  | 416-01 |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |
+| d   | b      | 1             |     | protocol    |   |                  |                  |   |   |   |   |     |   |   |    |        |
 | w   |        | vi            | xPE | vi          |   | Wii              | Wii              |   |   |   |   | dan |   |   |    | 416-01 |
 | PE  | b      | RexHan001     |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |
 | w   |        |               | xNP | Hans        |   | Hans             | Han             |   |   |   |   | dan |   |   |    | 416-01 |
@@ -91,6 +92,8 @@
 | w   |        | gøre          | xVB | gøre        |   | gøre             | gøꝛe             |   |   |   |   | dan |   |   |    | 416-03 |
 | w   |        | al            | xAJ | alle        |   | alle             | alle             |   |   |   |   | dan |   |   |    | 416-03 |
 | w   |        | vitherlik     | xAJ | vitterligt  |   | with(e)rligt     | wıthꝛlıgt       |   |   |   |   | dan |   |   |    | 416-03 |
+| d   | e      | 1             |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |
+| d   | b      | 2             |     | context     |   |                  |                  |   |   |   |   |     |   |   |    |        |
 | w   |        | at            | xCS | at          |   | at               | at               |   |   |   |   | dan |   |   |    | 416-03 |
 | w   |        | vi            | xPE | vi          |   | wii              | wii              |   |   |   |   | dan |   |   |    | 416-03 |
 | w   |        | af            | xAP | af          |   | aff              | aff              |   |   |   |   | dan |   |   |    | 416-03 |
@@ -273,6 +276,8 @@
 | w   |        | hævnd         | xNC | hævn        |   | heffnd           | heffnd           |   |   |   |   | dan |   |   |    | 416-14 |
 | w   |        | ok            | xCC | og          |   | oc               | oc               |   |   |   |   | dan |   |   |    | 416-14 |
 | w   |        | aræthe        | xNC | åræde       |   | arrethe          | arꝛethe          |   |   |   |   | dan |   |   |    | 416-14 |
+| d   | e      | 2             |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |
+| d   | b      | 3             |     | eschatocol  |   |                  |                  |   |   |   |   |     |   |   |    |        |
 | w   |        |               |     |             |   | In               | In               |   |   |   |   | lat |   |   |    | 416-14 |
 | w   |        |               |     |             |   | cui(us)          | cui             |   |   |   |   | lat |   |   |    | 416-14 |
 | w   |        |               |     |             |   | n(ost)re         | nr̅e              |   |   |   |   | lat |   |   |    | 416-14 |
@@ -305,4 +310,5 @@
 | w   |        |               |     |             |   | quadringentesimo | quadꝛıngenteſımo |   |   |   |   | lat |   |   |    | 416-16 |
 | w   |        |               |     |             |   | Octuagesimo      | Octuageſımo      |   |   |   |   | lat |   |   |    | 416-16 |
 | w   |        |               |     |             |   | quarto           | quaꝛto           |   |   |   |   | lat |   |   | == | 416-16 |
+| d   | e      | 3             |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |
 | :e: |        |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |

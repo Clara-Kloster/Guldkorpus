@@ -42,6 +42,7 @@
 | :s: |        |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |
 | pm  | 1r     |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |
 | lm  | 461-01 |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |
+| d   | b      | 1           |     | protocol  |   |                  |              |   |   |   |   |     |   |   |   |               |
 | w   |        | jak         | xPE | jeg       |   | Jegh             | Jegh         |   |   |   |   | dan |   |   |   |        461-01 |
 | PE  | b      | PerOls001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |
 | w   |        |             | xNP | Peder     |   | ped(er)          | ped         |   |   |   |   | dan |   |   |   |        461-01 |
@@ -78,6 +79,8 @@
 | w   |        | sankte      | xAJ | sankte    |   | s(anc)ti         | ſt̅i          |   |   |   |   | lat |   |   |   |        461-03 |
 | w   |        |             | xNP | Luci      |   | Lvcj             | Lvcj         |   |   |   |   | lat |   |   |   |        461-03 |
 | w   |        | dagh        | xNC | dag       |   | dagh             | dagh         |   |   |   |   | dan |   |   |   |        461-03 |
+| d   | e      | 1           |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |
+| d   | b      | 2           |     | context   |   |                  |              |   |   |   |   |     |   |   |   |               |
 | w   |        | være        | xVB | var       |   | vor              | voꝛ          |   |   |   |   | dan |   |   |   |        461-03 |
 | w   |        | skikke      | xVB | skikket   |   | skycked          | ſkÿcked      |   |   |   |   | dan |   |   |   |        461-03 |
 | w   |        | for         | xAP | for       |   | for              | foꝛ          |   |   |   |   | dan |   |   |   |        461-03 |
@@ -243,6 +246,8 @@
 | w   |        | same        | xAJ | samme     |   | so(m)me          | ſo̅me         |   |   |   |   | dan |   |   |   |        461-14 |
 | w   |        | skogh       | xNC | skov      |   | skaff            | ſkaff        |   |   |   |   | dan |   |   |   |        461-14 |
 | w   |        | hog         | xNC | hug       |   | hogh             | hőgh         |   |   |   |   | dan |   |   |   |        461-14 |
+| d   | e      | 2           |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |
+| d   | b      | 3           |     | eschatocol |   |                  |              |   |   |   |   |     |   |   |   |               |
 | w   |        | at          | xCS | at        |   | atth             | atth         |   |   |   |   | dan |   |   |   |        461-14 |
 | lm  | 461-15 |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |
 | w   |        | sva         | xAV | så        |   | Szo              | zo          |   |   |   |   | dan |   |   |   |        461-15 |
@@ -269,4 +274,5 @@
 | w   |        | dattum      | lat |           |   | datt(um)         | datt̅ꝭ        |   |   |   |   | lat |   |   |   |        461-16 |
 | w   |        | vt          | lat |           |   | vtt              | vtt          |   |   |   |   | lat |   |   |   |        461-16 |
 | w   |        | supra       | lat |           |   | sup(ra)          | ſ̅upᷓ          |   |   |   |   | lat |   |   |   |        461-16 |
+| d   | e      | 3           |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |
 | :e: |        |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |

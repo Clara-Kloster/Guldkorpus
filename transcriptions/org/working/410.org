@@ -42,6 +42,7 @@
 | :s: |        |               |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |
 | pm  | 1r     |               |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |
 | lm  | 410-01 |               |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |
+| d   | b      | 1             |     | protocol       |   |                       |                 |   |   |   |        |     |   |   |    |        |
 | w   |        | jak           | xPE | jeg            |   | Jak                   | Jak             |   |   |   |        | dan |   |   |    | 410-01 |
 | PE  | b      | EliEsk001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |
 | w   |        |               | xNP | Elitze         |   | Elitzæ                | Elıtzæ          |   |   |   |        | dan |   |   |    | 410-01 |
@@ -57,6 +58,8 @@
 | w   |        | nærværende    | xAJ | nærværende     |   | nærwæ(er)nd(e)        | næꝛwæn        |   |   |   |        | dan |   |   |    | 410-01 |
 | w   |        | ok            | xCC | og             |   | och                   | och             |   |   |   |        | dan |   |   |    | 410-01 |
 | w   |        | kome+skule    | xVB | kommeskullende |   | ko(m)me(skulende)     | ko̅me           |   |   |   | de-sup | dan |   |   |    | 410-01 |
+| d   | e      | 1             |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |
+| d   | b      | 2             |     | context        |   |                       |                 |   |   |   |        |     |   |   |    |        |
 | w   |        | at            | xCS | at             |   | ath                   | ath             |   |   |   |        | dan |   |   |    | 410-01 |
 | w   |        | jak           | xPE | jeg            |   | iek                   | ıek             |   |   |   |        | dan |   |   |    | 410-01 |
 | w   |        | have          | xVB | har            |   | haffu(er)             | haffu          |   |   |   |        | dan |   |   |    | 410-01 |
@@ -475,6 +478,8 @@
 | lm  | 410-20 |               |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |
 | w   |        | vinlik        | xAJ | venligt        |   | wenligth              | wenligth        |   |   |   |        | dan |   |   |    | 410-20 |
 | w   |        | skifte        | xNC | skifte         |   | skiffthæ              | ſkiffthæ        |   |   |   |        | dan |   |   |    | 410-20 |
+| d   | e      | 2             |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |
+| d   | b      | 3             |     | eschatocol     |   |                       |                 |   |   |   |        |     |   |   |    |        |
 | w   |        | til           | xAP | til            |   | Thil                  | Thıl            |   |   |   |        | dan |   |   |    | 410-20 |
 | w   |        | ytermere      | xAJ | ydermere       |   | ydh(e)rme(re)         | ydhꝛme        |   |   |   |        | dan |   |   |    | 410-20 |
 | w   |        | vitne         | xNC | vidne          |   | w⟨i⟩dnæ               | w⟨i⟩dnæ         |   |   |   |        | dan |   |   |    | 410-20 |
@@ -575,4 +580,5 @@
 | w   |        | sankte        | xAJ | sankte         |   | s(anc)ti              | ſtı̅             |   |   |   |        | dan |   |   |    | 410-24 |
 | w   |        |               | xNP | Laurens        |   | laur(e)n(cii)         | laurnͥͥ          |   |   |   |        | dan |   |   |    | 410-24 |
 | w   |        | dagh          | xNC | dag            |   | dagh                  | dagh            |   |   |   |        | dan |   |   |    | 410-24 |
+| d   | e      | 3             |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |
 | :e: |        |               |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |

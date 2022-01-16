@@ -42,6 +42,7 @@
 | :s: |        |             |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |
 | pm  |     1r |             |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |
 | lm  | 468-01 |             |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |
+| d   | b      | 1           |     | protocol       |   |                |                |   |   |   |                          |     |   |   |    |        |
 | w   |        | kær         | xAJ | kære           |   | Kiere          | Kiere          |   |   |   |                          | dan |   |   |    | 468-01 |
 | w   |        | doktor      | xNC | doktor         |   | doctor         | doctor         |   |   |   |                          | lat |   |   |    | 468-01 |
 | PE  |      b | AndXxx002   |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |
@@ -81,6 +82,8 @@
 | w   |        | ække        | xAV | ikke           |   | Jcke           | Jcke           |   |   |   |                          | dan |   |   |    | 468-04 |
 | w   |        | forhalde    | xVB | forholde       |   | forholde       | forholde       |   |   |   |                          | dan |   |   |    | 468-04 |
 | p   |        |             |     |                |   | ,              | ,              |   |   |   |                          | dan |   |   |    | 468-04 |
+| d   | e      | 1           |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |
+| d   | b      | 2           |     | context        |   |                |                |   |   |   |                          |     |   |   |    |        |
 | w   |        | at          | xCS | at             |   | Att            | Att            |   |   |   |                          | dan |   |   |    | 468-04 |
 | w   |        | jak         | xPE | jeg            |   | Jeg            | Jeg            |   |   |   |                          | dan |   |   |    | 468-04 |
 | w   |        | i           | xAP | i              |   | j              | j              |   |   |   |                          | dan |   |   |    | 468-04 |
@@ -329,6 +332,8 @@
 | w   |        | landgoths   | xNC | landgods       |   | landg(ods)     | landg         |   |   |   | de-sup                   | dan |   |   |    | 468-25 |
 | w   |        | ut          | xAV | ud             |   | vd,            | vd,            |   |   |   |                          | dan |   |   |    | 468-25 |
 | p   |        |             |     |                |   | /              | /              |   |   |   |                          | dan |   |   |    | 468-25 |
+| d   | e      | 2           |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |
+| d   | b      | 3           |     | eschatocol     |   |                |                |   |   |   |                          |     |   |   |    |        |
 | w   |        | kær        | xAJ | kære           |   | kiere          | kiere          |   |   |   |                          | dan |   |   |    | 468-25 |
 | lm  | 468-26 |             |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |
 | w   |        | hærre       | xNC | herr           |   | her            | her            |   |   |   |                          | dan |   |   |    | 468-26 |
@@ -376,4 +381,5 @@
 | lm  | 468-31 |             |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |
 | w   |        |             |     |                |   | Wind           | Wind           |   |   |   |                          | dan |   |   |    | 468-31 |
 | PE  |      e | JakWin001   |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |
+| d   | e      | 3           |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |
 | :e: |        |             |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |

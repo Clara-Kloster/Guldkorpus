@@ -42,6 +42,7 @@
 | :s: |        |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |
 | pm  | 1r     |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |
 | lm  | 412-01 |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |
+| d   | b      | 1           |     | protocol     |   |                      |                 |   |   |   |                 |     |   |   |    |        |
 | w   |        | vi          | xPE | vi           |   | Wij                  | Wij             |   |   |   |                 | dan |   |   |    | 412-01 |
 | PE  | b      | OluMor001   |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |
 | w   |        |             | xNP | Oluf         |   | Olaff                | Olaff           |   |   |   |                 | dan |   |   |    | 412-01 |
@@ -58,6 +59,8 @@
 | w   |        | gøre        | xVB | gøre         |   | Gøre                 | Gøꝛe            |   |   |   |                 | dan |   |   |    | 412-01 |
 | w   |        | vitherlik   | xAJ | vitterligt   |   | wid(er)licht         | wıdlıcht       |   |   |   |                 | dan |   |   |    | 412-01 |
 | w   |        | al          | xAJ | alle         |   | alle                 | alle            |   |   |   |                 | dan |   |   |    | 412-01 |
+| d   | e      | 1           |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |
+| d   | b      | 2           |     | context      |   |                      |                 |   |   |   |                 |     |   |   |    |        |
 | w   |        | at          | xCS | at           |   | at                   | at              |   |   |   |                 | dan |   |   |    | 412-01 |
 | w   |        | vi          | xPE | vi           |   | wij                  | wij             |   |   |   |                 | dan |   |   |    | 412-01 |
 | w   |        | have        | xVB | have         |   | haue                 | haue            |   |   |   |                 | dan |   |   |    | 412-01 |
@@ -337,6 +340,8 @@
 | w   |        | i           | xAP | i            |   | i                    | i               |   |   |   |                 | dan |   |   |    | 412-13 |
 | w   |        | noker       | xDD | nogen        |   | nogre                | nogꝛe           |   |   |   |                 | dan |   |   |    | 412-13 |
 | w   |        | mate        | xNC | måde         |   | made                 | made            |   |   |   |                 | dan |   |   |    | 412-13 |
+| d   | e      | 2           |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |
+| d   | b      | 3           |     | eschatocol   |   |                      |                 |   |   |   |                 |     |   |   |    |        |
 | w   |        |             |     |              |   | Jn                   | Jn              |   |   |   |                 | lat |   |   |    | 412-13 |
 | w   |        |             |     |              |   | c(uius)              | c              |   |   |   |                 | lat |   |   |    | 412-13 |
 | w   |        |             |     |              |   | r(e)i                | ri             |   |   |   |                 | lat |   |   |    | 412-13 |
@@ -361,4 +366,5 @@
 | w   |        |             |     |              |   | Millesimo            | Milleſımo       |   |   |   |                 | lat |   |   |    | 412-14 |
 | w   |        |             |     |              |   | Quadri(n)ge(n)tesimo | Quadꝛı̅ge̅teſimo  |   |   |   |                 | lat |   |   |    | 412-14 |
 | w   |        |             |     |              |   | Octogesimoprimo      | Octogeſımopꝛimo |   |   |   |                 | lat |   |   |    | 412-14 |
+| d   | e      | 3           |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |
 | :e: |        |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |

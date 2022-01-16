@@ -42,6 +42,7 @@
 | :s: |        |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |
 | pm  | 1r     |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |
 | lm  | 469-01 |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |
+| d   | b      | 1            |     | protocol       |   |                    |                 |              |   |   |   |     |   |   |   |                 |
 | w   |        | vi           | xPE | Vi             |   | Wi                 | Wi              |              |   |   |   | dan |   |   |   |          469-01 |
 | w   |        | æfterskrive  | xVB | efterskrevne   |   | Effther(screffne)  | Efftherᷠͤ         |              |   |   |   | dan |   |   |   |          469-01 |
 | w   |        | rektor       | xNC | rektor         |   | Rector             | Rector          |              |   |   |   | lat |   |   |   |          469-01 |
@@ -66,6 +67,8 @@
 | w   |        | open         | xAJ | åbne           |   | obne               | obne            |              |   |   |   | dan |   |   |   |          469-03 |
 | w   |        | brev         | xNC | brev           |   | Breff              | Breff           |              |   |   |   | dan |   |   |   |          469-03 |
 | p   |        |              |     |                |   | ,                  | ,               |              |   |   |   | dan |   |   |   |          469-03 |
+| d   | e      | 1            |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |
+| d   | b      | 2            |     | context        |   |                    |                 |              |   |   |   |     |   |   |   |                 |
 | w   |        | at           | xCS | at             |   | At                 | At              |              |   |   |   | dan |   |   |   |          469-03 |
 | w   |        | vi           | xPE | vi             |   | wi                 | wi              |              |   |   |   | dan |   |   |   |          469-03 |
 | w   |        | af           | xAP | af             |   | aff                | aff             |              |   |   |   | dan |   |   |   |          469-03 |
@@ -374,6 +377,8 @@
 | w   |        | makt         | xNC | magt           |   | mact               | mact            |              |   |   |   | dan |   |   |   |          469-35 |
 | w   |        | halde        | xVB | holde          |   | holde              | holde           |              |   |   |   | dan |   |   |   |          469-35 |
 | p   |        |              |     |                |   | .                  | .               |              |   |   |   | dan |   |   |   |          469-35 |
+| d   | e      | 2            |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |
+| d   | b      | 3            |     | eschatocol     |   |                    |                 |              |   |   |   |     |   |   |   |                 |
 | w   |        | til          | xAP | til            |   | Til                | Til             |              |   |   |   | dan |   |   |   |          469-35 |
 | w   |        | ytermere     | xAJ | ydermere       |   | ydermere           | ÿdermere        |              |   |   |   | dan |   |   |   |          469-35 |
 | lm  | 469-36 |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |
@@ -406,4 +411,5 @@
 | w   |        |              | lat |                |   | Anno               | Anno            |              |   |   |   | lat |   |   |   |          469-38 |
 | n   |        |              | lat |                |   | 1590               | 1590            |              |   |   |   | dan |   |   |   |          469-38 |
 | p   |        |              |     |                |   | .                  | .               |              |   |   |   | dan |   |   |   |          469-38 |
+| d   | e      | 3            |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |
 | :e: |        |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |

@@ -42,6 +42,7 @@
 | :s: |        |                |       |               |   |                      |               |   |   |   |                |         |   |   |    |               |
 | pm  |     1r |                |       |               |   |                      |               |   |   |   |                |         |   |   |    |               |
 | lm  | 449-01 |                |       |               |   |                      |               |   |   |   |                |         |   |   |    |               |
+| d   | b      | 1              |       | protocol      |   |                      |               |   |   |   |                |         |   |   |    |               |
 | w   |        | jak            | xPE   | jeg           |   | JEg                  | JEg           |   |   |   |                | dan     |   |   |    |        449-01 |
 | PE  |      b | PedJør001      |       |               |   |                      |               |   |   |   |                |         |   |   |    |               |
 | w   |        |                | xNP   | Peder         |   | Peder                | Pedeꝛ         |   |   |   |                | dan     |   |   |    |        449-01 |
@@ -61,7 +62,9 @@
 | w   |        | min            | xDP   | mit           |   | mit                  | mit           |   |   |   |                | dan     |   |   |    |        449-01 |
 | w   |        | open           | xAJ   | åbne          |   | obne                 | obne          |   |   |   |                | dan     |   |   |    |        449-01 |
 | w   |        | brev           | xNC   | brev          |   | breff                | bꝛeff         |   |   |   |                | dan     |   |   |    |        449-01 |
+| d   | e      | 1              |       |               |   |                      |               |   |   |   |                |         |   |   |    |               |
 | lm  | 449-02 |                |       |               |   |                      |               |   |   |   |                |         |   |   |    |               |
+| d   | b      | 2              |       | context       |   |                      |               |   |   |   |                |         |   |   |    |               |
 | w   |        | at             | xCS   | at            |   | att                  | att           |   |   |   |                | dan     |   |   |    |        449-02 |
 | w   |        | jak            | xPE   | jeg           |   | ieg                  | ıeg           |   |   |   |                | dan     |   |   |    |        449-02 |
 | w   |        | ok             | xCC   | og            |   | oc                   | oc            |   |   |   |                | dan     |   |   |    |        449-02 |
@@ -741,6 +744,8 @@
 | w   |        | vilje          | xVB   | ville         |   | wille                | wille         |   |   |   |                | dan     |   |   |    |        449-31 |
 | w   |        | for            | xAP   | for           |   | fore                 | fore          |   |   |   |                | dan     |   |   |    |        449-31 |
 | w   |        | guth           | xNC   | Gud           |   | gud                  | gud           |   |   |   |                | dan     |   |   |    |        449-31 |
+| d   | e      | 2              |       |               |   |                      |               |   |   |   |                |         |   |   |    |               |
+| d   | b      | 3              |       | eschatocol    |   |                      |               |   |   |   |                |         |   |   |    |               |
 | w   |        | til            | xAP   | til           |   | Tiill                | Tiill         |   |   |   |                | dan     |   |   |    |        449-31 |
 | w   |        | ytermere       | xAJ   | ydermere      |   | ydermerer(e)         | ydermerer    |   |   |   |                | dan     |   |   |    |        449-31 |
 | w   |        | forvaring      | xNC   | forvaring     |   | foruaring            | foruaring     |   |   |   |                | dan     |   |   |    |        449-31 |
@@ -815,4 +820,5 @@
 | w   |        | etcetera       | xAV   | etcetera      |   | (et) c(etera)        | ⁊c̅            |   |   |   |                | lat     |   |   |    |        449-34 |
 | lm  | 449-35 |                |       |               |   |                      |               |   |   |   |                |         |   |   |    |               |
 | n   |        | 1530               |     | 1530          |   | MDXXX                | MDXXX         |   |   |   |                | dan     |   |   |    |        449-35 |
+| d   | e      | 3              |       |               |   |                      |               |   |   |   |                |         |   |   |    |               |
 | :e: |        |                |       |               |   |                      |               |   |   |   |                |         |   |   |    |               |

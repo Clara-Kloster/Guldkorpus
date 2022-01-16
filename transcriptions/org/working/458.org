@@ -43,6 +43,7 @@ Entity vdblac = v with breve
 | :s: |        |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |
 | pm  | 1r     |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |
 | lm  | 458-01 |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |
+| d   | b      | 1           |     | protocol     |   |                  |             |   |   |   |            |     |   |   |   |               |
 | w   |        | al          | xAJ | alle         |   | Alle             | Alle        |   |   |   |            | dan |   |   |   |        458-01 |
 | w   |        | man         | xNC | mænd         |   | mend             | mend        |   |   |   |            | dan |   |   |   |        458-01 |
 | w   |        | thænne      | xDD | dette        |   | th(ette)         | thꝫͤ         |   |   |   |            | dan |   |   |   |        458-01 |
@@ -95,6 +96,8 @@ Entity vdblac = v with breve
 | w   |        | vitherlik   | xAJ | vitterligt   |   | witt(er)ligtt    | wittligtt  |   |   |   |            | dan |   |   |   |        458-03 |
 | w   |        | fore        | xAP | for          |   | Ffore            | Ffoꝛe       |   |   |   |            | dan |   |   |   |        458-03 |
 | w   |        | al          | xAJ | alle         |   | alle             | alle        |   |   |   |            | dan |   |   |   |        458-03 |
+| d   | e      | 1           |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |
+| d   | b      | 2           |     | context      |   |                  |             |   |   |   |            |     |   |   |   |               |
 | w   |        | at          | xCS | at           |   | att              | att         |   |   |   |            | dan |   |   |   |        458-03 |
 | w   |        | ar          | xNC | år           |   | aar              | aaꝛ         |   |   |   |            | dan |   |   |   |        458-03 |
 | w   |        | æfter       | xAP | efter        |   | eft(e)r          | eftꝛ       |   |   |   |            | dan |   |   |   |        458-03 |
@@ -481,7 +484,9 @@ Entity vdblac = v with breve
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |
 | w   |        |             | xNP | Uggerløse    |   | vgg(er)løsse     | vggløſſe   |   |   |   |            | dan |   |   |   |        458-26 |
 | PL  | e      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |
+| d   | e      | 2           |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |
 | lm  | 458-27 |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |
+| d   | b      | 3           |     | eschatocol   |   |                  |             |   |   |   |            |     |   |   |   |               |
 | w   |        | thænne      | xDD | disse        |   | thesse           | theſſe      |   |   |   |            | dan |   |   |   |        458-27 |
 | w   |        | fornævnd    | xAJ | fornævnte    |   | for(nefnde)      | foꝛᷠͤ         |   |   |   |            | dan |   |   |   |        458-27 |
 | n   |        | 12            |    | 12           |   | {xij}            | {xij}       |   |   |   |            | dan |   |   |   |        458-27 |
@@ -527,4 +532,5 @@ Entity vdblac = v with breve
 | w   |        |             |     |              |   | dat(um)          | datꝭ        |   |   |   |            | lat |   |   |   |        458-30 |
 | w   |        |             |     |              |   | vtt              | vtt         |   |   |   |            | lat |   |   |   |        458-30 |
 | w   |        |             |     |              |   | svp(ra)          | ſvpᷓ         |   |   |   |            | lat |   |   |   |        458-30 |
+| d   | e      | 3           |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |
 | :e: |        |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |

@@ -42,6 +42,7 @@
 | :s: |        |               |     |              |   |                    |                    |   |   |   |   |     |   |   |   |                 |
 | pm  | 1r     |               |     |              |   |                    |                    |   |   |   |   |     |   |   |   |                 |
 | lm  | 463-01 |               |     |              |   |                    |                    |   |   |   |   |     |   |   |   |                 |
+| d   | b      | 1             |     | protocol     |   |                    |                    |   |   |   |   |     |   |   |   |                 |
 | w   |        | jak           | xPE | jeg          |   | Jegh               | Jegh               |   |   |   |   | dan |   |   |   |          463-01 |
 | PE  | b      | PerOls001     |     |              |   |                    |                    |   |   |   |   |     |   |   |   |                 |
 | w   |        |               | xNP | Peder        |   | ped(er)            | ped               |   |   |   |   | dan |   |   |   |          463-01 |
@@ -64,6 +65,8 @@
 | w   |        | min           | xDP | mit          |   | mytth              | mÿtth              |   |   |   |   | dan |   |   |   |          463-02 |
 | w   |        | open          | xAJ | åbne         |   | obne               | obne               |   |   |   |   | dan |   |   |   |          463-02 |
 | w   |        | brev          | xNC | brev         |   | breff              | bꝛeff              |   |   |   |   | dan |   |   |   |          463-02 |
+| d   | e      | 1             |     |              |   |                    |                    |   |   |   |   |     |   |   |   |                 |
+| d   | b      | 2             |     | context      |   |                    |                    |   |   |   |   |     |   |   |   |                 |
 | w   |        | ar            | xNC | år           |   | ar                 | ar                 |   |   |   |   | dan |   |   |   |          463-02 |
 | w   |        | æfter         | xAP | efter        |   | efftt(er)          | efftt             |   |   |   |   | dan |   |   |   |          463-02 |
 | w   |        | guth          | xNC | Guds         |   | gud(is)            | gu                |   |   |   |   | dan |   |   |   |          463-02 |
@@ -229,6 +232,8 @@
 | w   |        | ræt           | xAJ | rette        |   | Rette              | Rette              |   |   |   |   | dan |   |   |   |          463-17 |
 | w   |        | have          | xVB | har          |   | haffue(r)          | haffűe            |   |   |   |   | dan |   |   |   |          463-17 |
 | w   |        | være          | xVB | været        |   | veretth            | veꝛetth            |   |   |   |   | dan |   |   |   |          463-17 |
+| d   | e      | 2             |     |              |   |                    |                    |   |   |   |   |     |   |   |   |                 |
+| d   | b      | 3             |     | eschatocol   |   |                    |                    |   |   |   |   |     |   |   |   |                 |
 | w   |        | at            | xCS | at           |   | atth               | atth               |   |   |   |   | dan |   |   |   |          463-17 |
 | w   |        | sva           | xAV | så           |   | Szo                | zo                |   |   |   |   | dan |   |   |   |          463-17 |
 | w   |        | i             | xAP | i            |   | y                  | ÿ                  |   |   |   |   | dan |   |   |   |          463-17 |
@@ -253,4 +258,5 @@
 | w   |        |               |     |              |   | datum(m)           | datűm̅              |   |   |   |   | lat |   |   |   |          463-19 |
 | w   |        |               |     |              |   | vtt                | vtt                |   |   |   |   | lat |   |   |   |          463-19 |
 | w   |        |               |     |              |   | supr(a)            | ſűpꝛͣ               |   |   |   |   | lat |   |   |   |          463-19 |
+| d   | e      | 3             |     |              |   |                    |                    |   |   |   |   |     |   |   |   |                 |
 | :e: |        |               |     |              |   |                    |                    |   |   |   |   |     |   |   |   |                 |

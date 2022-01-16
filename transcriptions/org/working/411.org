@@ -42,6 +42,7 @@
 | :s: |        |              |     |              |            |                     |                |             |   |   |              |     |   |   |    |        |
 | pm  | 1r     |              |     |              |            |                     |                |             |   |   |              |     |   |   |    |        |
 | lm  | 411-01 |              |     |              |            |                     |                |             |   |   |              |     |   |   |    |        |
+| d   | b      | 1            |     | protocol     |            |                     |                |             |   |   |              |     |   |   |    |        |
 | w   |        | al           | xAJ | alle         |            | Alle                | Alle           |             |   |   |              | dan |   |   |    | 411-01 |
 | w   |        | man          | xNC | mænd         |            | me(n)               | me̅             |             |   |   |              | dan |   |   |    | 411-01 |
 | w   |        | thænne       | xDD | dette        |            | th(ette)            | th̅ꝫͤ            |             |   |   |              | dan |   |   |    | 411-01 |
@@ -76,6 +77,8 @@
 | w   |        | min          | xDP | mit          |            | meth                | meth           |             |   |   |              | dan |   |   |    | 411-02 |
 | w   |        | open         | xAJ | åbne         |            | opnæ                | opnæ           |             |   |   |              | dan |   |   |    | 411-02 |
 | w   |        | brev         | xNC | brev         |            | b(re)ff             | bff           |             |   |   |              | dan |   |   |    | 411-02 |
+| d   | e      | 1            |     |              |            |                     |                |             |   |   |              |     |   |   |    |        |
+| d   | b      | 2            |     | context      |            |                     |                |             |   |   |              |     |   |   |    |        |
 | w   |        | at           | xCS | at           |            | Ath                 | Ath            |             |   |   |              | dan |   |   |    | 411-02 |
 | w   |        | jak          | xPE | jeg          |            | jegh                | ȷegh           |             |   |   |              | dan |   |   |    | 411-02 |
 | w   |        | ok           | xCC | og           |            | och                 | och            |             |   |   |              | dan |   |   |    | 411-02 |
@@ -278,6 +281,8 @@
 | w   |        | i            | xAP | i            |            | i                   | i              |             |   |   |              | dan |   |   |    | 411-12 |
 | w   |        | noker        | xDD | nogre        |            | nog(r)æ             | nogᷓæ           |             |   |   |              | dan |   |   |    | 411-12 |
 | w   |        | mate         | xNC | måde         |            | madhæ               | madhæ          |             |   |   |              | dan |   |   |    | 411-12 |
+| d   | e      | 2            |     |              |            |                     |                |             |   |   |              |     |   |   |    |        |
+| d   | b      | 3            |     | eschatocol   |            |                     |                |             |   |   |              |     |   |   |    |        |
 | w   |        | til          | xAP | til          |            | Til                 | Til            |             |   |   |              | dan |   |   |    | 411-12 |
 | w   |        | ytermere     | xAJ | ydermere     |            | vthr(er)me(re)      | vthꝛme       |             |   |   |              | dan |   |   |    | 411-12 |
 | w   |        | vitnesbyrth  | xNC | vidnesbyrd   |            | witnesbyrdh         | wıtneſbyꝛdh    |             |   |   |              | dan |   |   |    | 411-12 |
@@ -356,4 +361,5 @@
 | w   |        |              | lat |              |            | Vrbanj              | Vꝛbanj         |             |   |   |              | lat |   |   |    | 411-16 |
 | w   |        |              | lat |              |            | p(a)pe              | ᷓe             |             |   |   |              | lat |   |   |    | 411-16 |
 | w   |        |              | lat |              |            | (et cetera)         | cᷓ             |             |   |   |              | lat |   |   |    | 411-16 |
+| d   | e      | 3            |     |              |            |                     |                |             |   |   |              |     |   |   |    |        |
 | :e: |        |              |     |              |            |                     |                |             |   |   |              |     |   |   |    |        |

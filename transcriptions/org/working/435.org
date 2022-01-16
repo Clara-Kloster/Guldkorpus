@@ -42,6 +42,7 @@
 | :s: |        |               |     |              |   |                  |               |   |   |   |   |     |   |   |    |        |
 | pm  | 1r     |               |     |              |   |                  |               |   |   |   |   |     |   |   |    |        |
 | lm  | 435-01 |               |     |              |   |                  |               |   |   |   |   |     |   |   |    |        |
+| d   | b      | 1             |     | protocol     |   |                  |               |   |   |   |   |     |   |   |    |        |
 | w   |        | al            | xAJ | alle         |   | Alle             | Alle          |   |   |   |   | dan |   |   |    | 435-01 |
 | w   |        | man           | xNC | mænd         |   | me(n)            | me̅            |   |   |   |   | dan |   |   |    | 435-01 |
 | w   |        | thænne        | xDD | dette        |   | thette           | thette        |   |   |   |   | dan |   |   |    | 435-01 |
@@ -87,6 +88,8 @@
 | w   |        | var           | xDP | vort         |   | vorth            | vorth         |   |   |   |   | dan |   |   |    | 435-03 |
 | w   |        | open          | xAJ | åbne         |   | opne             | opne          |   |   |   |   | dan |   |   |    | 435-03 |
 | w   |        | brev          | xNC | brev         |   | breff            | bꝛeff         |   |   |   |   | dan |   |   |    | 435-03 |
+| d   | e      | 1             |     |              |   |                  |               |   |   |   |   |     |   |   |    |        |
+| d   | b      | 2             |     | context      |   |                  |               |   |   |   |   |     |   |   |    |        |
 | w   |        | thæt          | xCS | det          |   | thet             | thet          |   |   |   |   | dan |   |   |    | 435-03 |
 | w   |        | vi            | xPE | vi           |   | vii              | vii           |   |   |   |   | dan |   |   |    | 435-03 |
 | w   |        | mæth          | xAP | med          |   | meth             | meth          |   |   |   |   | dan |   |   |    | 435-03 |
@@ -413,6 +416,8 @@
 | w   |        | var           | xDP | vort         |   | vorth            | voꝛth         |   |   |   |   | dan |   |   |    | 435-21 |
 | w   |        | konvent       | xNC | konvents     |   | co(n)uentz       | co̅űentz       |   |   |   |   | dan |   |   |    | 435-21 |
 | w   |        | brev          | xNC | brev         |   | breff            | bꝛeff         |   |   |   |   | dan |   |   |    | 435-21 |
+| d   | e      | 2             |     |              |   |                  |               |   |   |   |   |     |   |   |    |        |
+| d   | b      | 3             |     | eschatocol   |   |                  |               |   |   |   |   |     |   |   |    |        |
 | w   |        | til           | xAP | til          |   | Till             | Till          |   |   |   |   | dan |   |   |    | 435-21 |
 | w   |        | ytermere      | xAJ | ydermere     |   | ith(e)rmer(e)    | ithꝛmer     |   |   |   |   | dan |   |   |    | 435-21 |
 | w   |        | vitnesbyrth   | xNC | vidnesbyrd   |   | vitnesbyrd       | vitneſbÿꝛd    |   |   |   |   | dan |   |   |    | 435-21 |
@@ -458,4 +463,5 @@
 | w   |        |               | lat |              |   | millesimo        | milleſimo     |   |   |   |   | lat |   |   |    | 435-24 |
 | w   |        |               | lat |              |   | quingentesimo    | qűingenteſimo |   |   |   |   | lat |   |   |    | 435-24 |
 | w   |        |               | lat |              |   | septimo          | ſeptimo       |   |   |   |   | lat |   |   |    | 435-24 |
+| d   | e      | 3             |     |              |   |                  |               |   |   |   |   |     |   |   |    |        |
 | :e: |        |               |     |              |   |                  |               |   |   |   |   |     |   |   |    |        |

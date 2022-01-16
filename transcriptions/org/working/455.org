@@ -42,6 +42,7 @@
 | :s: |        |             |     |              |   |                       |                 |   |   |   |           |     |   |   |   |               |
 | pm  | 1r     |             |     |              |   |                       |                 |   |   |   |           |     |   |   |   |               |
 | lm  | 455-01 |             |     |              |   |                       |                 |   |   |   |           |     |   |   |   |               |
+| d   | b      | 1           |     | protocol     |   |                       |                 |   |   |   |           |     |   |   |   |               |
 | w   |        | al          | xAJ | alle         |   | Alle                  | Alle            |   |   |   |           | dan |   |   |   |        455-01 |
 | w   |        | man         | xNC | mænd         |   | mendt                 | mendt           |   |   |   |           | dan |   |   |   |        455-01 |
 | w   |        | thænne      | xDD | dette        |   | th(ette)              | thꝫͤ             |   |   |   |           | dan |   |   |   |        455-01 |
@@ -115,7 +116,9 @@
 | w   |        |             | xNP | Maria        |   | ma(ri)e               | mae            |   |   |   |           | dan |   |   |   |        455-03 |
 | w   |        | dagh        | xNC | dag          |   | dag                   | dag             |   |   |   |           | dan |   |   |   |        455-03 |
 | w   |        | nativitas   | xNC |              |   | nati(vitatis)         | natiͭꝭ           |   |   |   | is-sup    | lat |   |   |   |        455-03 |
+| d   | e      | 1           |     |              |   |                       |                 |   |   |   |           |     |   |   |   |               |
 | lm  | 455-04 |             |     |              |   |                       |                 |   |   |   |           |     |   |   |   |               |
+| d   | b      | 2           |     | context      |   |                       |                 |   |   |   |           |     |   |   |   |               |
 | w   |        | tha         | xAV | da           |   | Tha                   | Tha             |   |   |   |           | dan |   |   |   |        455-04 |
 | w   |        | være        | xVB | var          |   | vor                   | voꝛ             |   |   |   |           | dan |   |   |   |        455-04 |
 | p   |        |             |     |              |   | /                     | /               |   |   |   |           | dan |   |   |   |        455-04 |
@@ -591,6 +594,8 @@
 | w   |        | forskreven  | xAJ | forskrevet   |   | forsk(reffuit)        | foꝛſkꝭͭ          |   |   |   |           | dan |   |   |   |        455-24 |
 | w   |        | sta         | xVB | stander      |   | standh(e)r            | ſtandhꝛ        |   |   |   |           | dan |   |   |   |        455-24 |
 | p   |        |             |     |              |   | /                     | /               |   |   |   |           | dan |   |   |   |        455-24 |
+| d   | e      | 2           |     |              |   |                       |                 |   |   |   |           |     |   |   |   |               |
+| d   | b      | 3           |     | eschatocol   |   |                       |                 |   |   |   |           |     |   |   |   |               |
 | w   |        | at          | xCS | at           |   | Att                   | Att             |   |   |   |           | dan |   |   |   |        455-24 |
 | w   |        | sva         | xAV | så           |   | saa                   | ſaa             |   |   |   |           | dan |   |   |   |        455-24 |
 | w   |        | i           | xAP | i            |   | j                     | j               |   |   |   |           | dan |   |   |   |        455-24 |
@@ -620,4 +625,5 @@
 | w   |        | sum         | xCS | som          |   | som                   | ſo             |   |   |   |           | dan |   |   |   |        455-25 |
 | w   |        | forskreven  | xAJ | forskrevet   |   | forsk(reffuit)        | foꝛſkꝭͭ          |   |   |   |           | dan |   |   |   |        455-25 |
 | w   |        | sta         | xVB | står         |   | star                  | ſtaꝛ            |   |   |   |           | dan |   |   |   |        455-25 |
+| d   | e      | 3           |     |              |   |                       |                 |   |   |   |           |     |   |   |   |               |
 | :e: |        |             |     |              |   |                       |                 |   |   |   |           |     |   |   |   |               |

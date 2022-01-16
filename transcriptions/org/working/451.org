@@ -42,6 +42,7 @@
 | :s: |        |               |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |
 | pm  |     1r |               |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |
 | lm  | 451-01 |               |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |
+| d   |      b | 1             |     | protocol       |   |                     |                |   |   |   |   |     |   |   |    |               |
 | w   |        | vi            | xPE | vi             |   | Wij                 | Wij            |   |   |   |   | dan |   |   |    |        451-01 |
 | PE  |      b | KriOld001     |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |
 | w   |        |               | xNP | Kristoffer     |   | Christoffer         | Chriſtoffer    |   |   |   |   | dan |   |   |    |        451-01 |
@@ -63,6 +64,8 @@
 | lm  | 451-02 |               |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |
 | w   |        | vitherlik     | xAJ | vitterligt     |   | witth(e)rligtt      | witth̅rligtt    |   |   |   |   | dan |   |   |    |        451-02 |
 | w   |        | al            | xAJ | alle           |   | alle                | alle           |   |   |   |   | dan |   |   |    |        451-02 |
+| d   |      e | 1             |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |
+| d   |      b | 2             |     | context        |   |                     |                |   |   |   |   |     |   |   |    |               |
 | w   |        | at            | xCS | at             |   | Att                 | Att            |   |   |   |   | dan |   |   |    |        451-02 |
 | w   |        | vi            | xPE | vi             |   | wij                 | wij            |   |   |   |   | dan |   |   |    |        451-02 |
 | w   |        | af            | xAP | af             |   | aff                 | aff            |   |   |   |   | dan |   |   |    |        451-02 |
@@ -527,6 +530,8 @@
 | w   |        | ok            | xCC | og             |   | oc                  | oc             |   |   |   |   | dan |   |   |    |        451-29 |
 | w   |        | varthneth     | xNC | vornede        |   | vor⟨n⟩ede           | vor⟨n⟩ede      |   |   |   |   | dan |   |   |    |        451-29 |
 | p   |        |               |     |                |   | ,                   | ,              |   |   |   |   | dan |   |   |    |        451-29 |
+| d   |      e | 2             |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |
+| d   |      b | 3             |     | eschatocol     |   |                     |                |   |   |   |   |     |   |   |    |               |
 | w   |        | give          | xVB | givet          |   | Giffuit             | Giffŭit        |   |   |   |   | dan |   |   |    |        451-29 |
 | w   |        | upa           | xAP | på             |   | paa                 | paa            |   |   |   |   | dan |   |   |    |        451-29 |
 | w   |        | var           | xDP | vort           |   | wort                | wort           |   |   |   |   | dan |   |   |    |        451-29 |
@@ -550,4 +555,5 @@
 | w   |        | under         | xAP | under          |   | wnder               | wnder          |   |   |   |   | dan |   |   |    |        451-30 |
 | w   |        | var           | xDP | vort           |   | wort                | wort           |   |   |   |   | dan |   |   |    |        451-30 |
 | w   |        |               | lat |                |   | Secret(is)          | ecretꝭ        |   |   |   |   | dan |   |   |    |        451-30 |
+| d   |      e | 3             |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |
 | :e: |        |               |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |

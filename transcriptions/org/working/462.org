@@ -42,6 +42,7 @@
 | :s: |        |                |     |               |   |                     |                    |   |   |   |   |         |   |   |    |               |
 | pm  | 1r     |                |     |               |   |                     |                    |   |   |   |   |         |   |   |    |               |
 | lm  | 462-01 |                |     |               |   |                     |                    |   |   |   |   |         |   |   |    |               |
+| d   | b      | 1              |     | protocol      |   |                     |                    |   |   |   |   |         |   |   |    |               |
 | w   |        | al             | xAJ | alle          |   | Alle                | Alle               |   |   |   |   | dan     |   |   |    |        462-01 |
 | w   |        | man            | xNC | mænd          |   | mend                | mend               |   |   |   |   | dan     |   |   |    |        462-01 |
 | w   |        | thænne         | xDD | dette         |   | th(ette)            | thꝫͤ                |   |   |   |   | dan     |   |   |    |        462-01 |
@@ -100,6 +101,8 @@
 | w   |        | var            | xDP | vort          |   | wortt               | woꝛtt              |   |   |   |   | dan     |   |   |    |        462-04 |
 | w   |        | open           | xAJ | åbne          |   | Obne                | Obne               |   |   |   |   | dan     |   |   |    |        462-04 |
 | w   |        | brev           | xNC | brev          |   | breff               | bꝛeff              |   |   |   |   | dan     |   |   |    |        462-04 |
+| d   | e      | 1              |     |               |   |                     |                    |   |   |   |   |         |   |   |    |               |
+| d   | b      | 2              |     | context       |   |                     |                    |   |   |   |   |         |   |   |    |               |
 | w   |        | at             | xCS | at            |   | att                 | att                |   |   |   |   | dan     |   |   |    |        462-04 |
 | w   |        | ar             | xNC | år            |   | aar                 | aaꝛ                |   |   |   |   | dan     |   |   |    |        462-04 |
 | w   |        | æfter          | xAP | efter         |   | ept(er)             | ept               |   |   |   |   | dan     |   |   |    |        462-04 |
@@ -468,6 +471,8 @@
 | PL  | b      |                |     |               |   |                     |                    |   |   |   |   |         |   |   |    |               |
 | w   |        |                | xNP | Undløse       |   | wndløse             | wndløſe            |   |   |   |   | dan     |   |   |    |        462-30 |
 | PL  | e      |                |     |               |   |                     |                    |   |   |   |   |         |   |   |    |               |
+| d   | e      | 2              |     |               |   |                     |                    |   |   |   |   |         |   |   |    |               |
+| d   | b      | 3              |     | context       |   |                     |                    |   |   |   |   |         |   |   |    |               |
 | w   |        | thænne         | xDD | disse         |   | Thesse              | Theſſe             |   |   |   |   | dan     |   |   |    |        462-30 |
 | w   |        | fornævnd       | xAJ | fornævnte     |   | ffor(nefnde)        | ffoꝛᷠͤ               |   |   |   |   | dan     |   |   |    |        462-30 |
 | n   |        | 12             |     | 12            |   | xij                 | xij                |   |   |   |   | dan     |   |   |    |        462-30 |
@@ -528,4 +533,5 @@
 | w   |        |                |     |               |   | dat(um)             | datꝭ               |   |   |   |   | lat     |   |   |    |        462-35 |
 | w   |        |                |     |               |   | vtt                 | vtt                |   |   |   |   | lat     |   |   |    |        462-35 |
 | w   |        |                |     |               |   | ßup(ra)             | ßŭpꝰ               |   |   |   |   | lat     |   |   |    |        462-35 |
+| d   | e      | 3              |     |               |   |                     |                    |   |   |   |   |         |   |   |    |               |
 | :e: |        |                |     |               |   |                     |                    |   |   |   |   |         |   |   |    |               |

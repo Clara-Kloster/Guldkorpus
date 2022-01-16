@@ -43,6 +43,7 @@ eller ÆA. 595
 | :s: |        |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |
 | pm  | 1r     |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |
 | lm  | 448-01 |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |
+| d   | b      | 1           |     | protocol          |   |                       |                    |   |   |   |        |     |   |   |    |               |
 | w   |        | jak         | xPE | jeg               |   | Jegh                  | Jegh               |   |   |   |        | dan |   |   |    |        448-01 |
 | PE  | b      | OluNie003   |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |
 | w   |        |             | xNP | Oluf              |   | Oluff                 | Oluff              |   |   |   |        | dan |   |   |    |        448-01 |
@@ -62,6 +63,8 @@ eller ÆA. 595
 | w   |        | min         | xDP | mit               |   | mit                   | mit                |   |   |   |        | dan |   |   |    |        448-01 |
 | w   |        | open        | xAJ | åbne              |   | obne                  | obne               |   |   |   |        | dan |   |   |    |        448-01 |
 | w   |        | brev        | xNC | brev              |   | breff                 | breff              |   |   |   |        | dan |   |   |    |        448-01 |
+| d   | e      | 1           |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |
+| d   | b      | 2           |     | context           |   |                       |                    |   |   |   |        |     |   |   |    |               |
 | w   |        | at          | xCS | at                |   | at                    | at                 |   |   |   |        | dan |   |   |    |        448-01 |
 | w   |        | jak         | xPE | jeg               |   | ieg                   | ıeg                |   |   |   |        | dan |   |   |    |        448-01 |
 | w   |        | have        | xNC | har               |   | haw(er)               | haw               |   |   |   |        | dan |   |   |    |        448-01 |
@@ -473,6 +476,8 @@ eller ÆA. 595
 | w   |        | aldeles     | xAV | aldeles           |   | aldieless             | aldıeleſſ          |   |   |   |        | dan |   |   |    |        448-21 |
 | w   |        | uten        | xAP | uden              |   | vten                  | vten               |   |   |   |        | dan |   |   |    |        448-21 |
 | w   |        | skathe      | xNC | skade             |   | skade                 | ſkade              |   |   |   |        | dan |   |   |    |        448-21 |
+| d   | e      | 2           |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |
+| d   | b      | 3           |     | eschatocol        |   |                       |                    |   |   |   |        |     |   |   |    |               |
 | w   |        | til         | xAP | til               |   | Till                  | Tıll               |   |   |   |        | dan |   |   |    |        448-21 |
 | w   |        | ytermere    | xAJ | ydermere          |   | idermere              | ıdeꝛmeꝛe           |   |   |   |        | dan |   |   |    |        448-21 |
 | w   |        | vitnesbyrth | xNC | vidnesbyrd        |   | viutnesbird           | viutneſbırd        |   |   |   |        | dan |   |   |    |        448-21 |
@@ -560,4 +565,5 @@ eller ÆA. 595
 | w   |        | thæn        | xPE | det               |   | th(et)                | thꝫ                |   |   |   |        | dan |   |   |    |        448-25 |
 | w   |        | attende     | xNO | ottende           |   | otthende              | otthende           |   |   |   |        | dan |   |   |    |        448-25 |
 | p   |        |             |     |                   |   | ⁘                     | ⁘                  |   |   |   |        | dan |   |   |    |        448-25 |
+| d   | e      | 3           |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |
 | :e: |        |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |

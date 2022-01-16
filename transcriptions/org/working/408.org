@@ -42,6 +42,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | :s: |        |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | pm  | 1r     |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | lm  | 408-01 |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
+| d   | b      | 1             |             | protocol      |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        | al            | xAJ         | alle          |   | Allæ                  | Allæ         |   |   |   |   | dan |   |   |    |        408-01 |
 | w   |        | man           | xNC         | mænd          |   | mæn                   | mæn          |   |   |   |   | dan |   |   |    |        408-01 |
 | w   |        | thænne        | xDD         | dette         |   | th(ette)              | thꝫͤ          |   |   |   |   | dan |   |   |    |        408-01 |
@@ -71,6 +72,8 @@ ASK: Remember to replace XML-tags with correct notation.
 | lm  | 408-02 |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        | vitherlik     | xAJ         | vitterligt    |   | with(e)rlicht         | wıth̅ꝛlicht   |   |   |   |   | dan |   |   |    |        408-02 |
 | w   |        | al            | xAJ         | alle          |   | allæ                  | allæ         |   |   |   |   | dan |   |   |    |        408-02 |
+| d   | e      | 1             |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
+| d   | b      | 2             |             | context       |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        | at            | xCS         | at            |   | ath                   | ath          |   |   |   |   | dan |   |   |    |        408-02 |
 | w   |        | æfter         | xAP         | efter         |   | effth(e)r             | effthꝛ̅       |   |   |   |   | dan |   |   |    |        408-02 |
 | w   |        | værthigh      | xAJ         | værdige       |   | wærdighe              | wæꝛdıghe     |   |   |   |   | dan |   |   |    |        408-02 |
@@ -566,6 +569,8 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | æller         | xCC         | eller         |   | ell(e)r               | ell̅ꝛ         |   |   |   |   | dan |   |   |    |        408-26 |
 | w   |        | nævne         | xVB         | nævnes        |   | neffnis               | neffni      |   |   |   |   | dan |   |   |    |        408-26 |
 | w   |        | kunne         | xVB         | kan           |   | kan                   | ka          |   |   |   |   | dan |   |   |    |        408-26 |
+| d   | e      | 2             |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
+| d   | b      | 3             |             | eschatocol    |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        |               |             |               |   | Jn                    | Jn           |   |   |   |   | lat |   |   |    |        408-26 |
 | w   |        |               |             |               |   | cui(us)               | cuı         |   |   |   |   | lat |   |   |    |        408-26 |
 | w   |        |               |             |               |   | Rei                   | Rei          |   |   |   |   | lat |   |   |    |        408-26 |
@@ -613,4 +618,5 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        |               |             |               |   | v(ir)ginis            | vgini      |   |   |   |   | lat |   |   |    |        408-29 |
 | w   |        |               |             |               |   | (et)                  | ⁊            |   |   |   |   | lat |   |   |    |        408-29 |
 | w   |        |               |             |               |   | martir(is)            | maꝛtırꝭ      |   |   |   |   | lat |   |   |    |        408-29 |
+| d   | e      | 3             |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | :e: |        |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |

@@ -42,6 +42,7 @@
 | :s: |        |               |     |              |            |                  |               |   |   |   |          |     |   |   |    |                 |
 | pm  | 1r     |               |     |              |            |                  |               |   |   |   |          |     |   |   |    |                 |
 | lm  | 430-01 |               |     |              |            |                  |               |   |   |   |          |     |   |   |    |                 |
+| d   | b      | 1             |     | protocol     |            |                  |               |   |   |   |          |     |   |   |    |                 |
 | w   |        | vi            | xPE | Vi           |            | Wy               | Wÿ            |   |   |   |          | dan |   |   |    |          430-01 |
 | w   |        | al            | xAJ | alle         |            | allæ             | allæ          |   |   |   |          | dan |   |   |    |          430-01 |
 | w   |        | øthmjuk       | xAJ | ydmyge       |            | ytmyghæ          | ÿtmÿghæ       |   |   |   |          | dan |   |   |    |          430-01 |
@@ -62,6 +63,8 @@
 | w   |        | open          | xAJ | åbne         |            | oppnæ            | onæ          |   |   |   |          | dan |   |   |    |          430-01 |
 | lm  | 430-02 |               |     |              |            |                  |               |   |   |   |          |     |   |   |    |                 |
 | w   |        | brev          | xNC | brev         |            | b(re)ff          | bff          |   |   |   |          | dan |   |   |    |          430-02 |
+| d   | e      | 1             |     |              |            |                  |               |   |   |   |          |     |   |   |    |                 |
+| d   | b      | 2             |     | context      |            |                  |               |   |   |   |          |     |   |   |    |                 |
 | w   |        | at            | xCS | at           |            | Ath              | Ath           |   |   |   |          | dan |   |   |    |          430-02 |
 | w   |        | ar            | xNC | år           |            | ardh             | aꝛdh          |   |   |   |          | dan |   |   |    |          430-02 |
 | w   |        | æfter         | xAP | efter        |            | effth(e)r        | effthꝛ       |   |   |   |          | dan |   |   |    |          430-02 |
@@ -354,6 +357,8 @@
 | w   |        | for           | xAP | for          |            | fo(r)            | fo           |   |   |   |          | dan |   |   |    |          430-17 |
 | w   |        | skrive        | xVB | skrevet      |            | sc(re)ffwit      | ſcffwit      |   |   |   |          | dan |   |   |    |          430-17 |
 | w   |        | sta           | xVB | står         |            | stoor            | ſtooꝛ         |   |   |   |          | dan |   |   |    |          430-17 |
+| d   | e      | 2             |     |              |            |                  |               |   |   |   |          |     |   |   |    |                 |
+| d   | b      | 3             |     | eschatocol   |            |                  |               |   |   |   |          |     |   |   |    |                 |
 | w   |        | til           | xAP | til          |            | Till             | Till          |   |   |   |          | dan |   |   |    |          430-17 |
 | w   |        | ytermere      | xAJ | ydermere     |            | yth(e)rme(re)    | ythꝛme      |   |   |   |          | dan |   |   |    |          430-17 |
 | w   |        | forvarning    | xNC | forvaring    |            | forwarni(n)gh    | foꝛwaꝛni̅gh    |   |   |   |          | dan |   |   |    |          430-17 |
@@ -406,4 +411,5 @@
 | w   |        | for           | xAP | fore          |            | for(e)           | for          |   |   |   |          | dan |   |   |    |          430-20 |
 | w   |        | skrive        | xVB | skrevet      |            | sc(re)ffwit      | ſcffwit      |   |   |   |          | dan |   |   |    |          430-20 |
 | w   |        | sta           | xVB | står         |            | stoor            | ſtooꝛ         |   |   |   |          | dan |   |   |    |          430-20 |
+| d   | e      | 3             |     |              |            |                  |               |   |   |   |          |     |   |   |    |                 |
 | :e: |        |               |     |              |            |                  |               |   |   |   |          |     |   |   |    |                 |

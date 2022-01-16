@@ -42,6 +42,7 @@
 | :s: |        |                |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | pm  | 1r     |                |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | lm  | 444-01 |                |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
+| d   | b      | 1              |     | protocol        |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | w   |        | vi             | xPE | Vi              |   | Wij                | Wıȷ             |       |   |   |                    | dan |   |   |   |          444-01 |
 | PE  | b      | RexFre001      |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | w   |        |                | xNP | Frederik        |   | frederich          | frederıch       |       |   |   |                    | dan |   |   |   |          444-01 |
@@ -89,6 +90,8 @@
 | w   |        | gøre           | xVB | gøre            |   | Giør(e)            | Gıør̅            |       |   |   |                    | dan |   |   |   |          444-02 |
 | w   |        | al             | xAJ | alle            |   | alle               | alle            |       |   |   |                    | dan |   |   |   |          444-02 |
 | w   |        | viterlik       | xAJ | vitterligt      |   | witth(e)rligt      | wıtth̅rlıgt      |       |   |   |                    | dan |   |   |   |          444-02 |
+| d   | e      | 1              |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
+| d   | b      | 2              |     | context         |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | w   |        | at             | xCS | at              |   | atth               | atth            |       |   |   |                    | dan |   |   |   |          444-02 |
 | lm  | 444-03 |                |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | w   |        | ar             | xNC | år              |   | aar                | aar             |       |   |   |                    | dan |   |   |   |          444-03 |
@@ -450,10 +453,13 @@
 | w   |        | sum            | xCS | som             |   | som                | ſo             |       |   |   |                    | dan |   |   |   |          444-21 |
 | w   |        | fornævnd       | xAJ | fornævnt       |   | forneu(n)ett       | forneŭ̅ett       |       |   |   |                    | dan |   |   |   |          444-21 |
 | w   |        | sta            | xVB | står            |   | stor(e)            | ﬅor̅             |       |   |   |                    | dan |   |   |   |          444-21 |
+| d   | e      | 2              |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | lm  | 444-22 |                |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
+| d   | b      | 3              |     | eschatocol      |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | w   |        | under          | xAP | under           |   | Wnder              | Wnder           |       |   |   |                    | dan |   |   |   |          444-22 |
 | w   |        | var            | xDP | vort            |   | Wort               | Wort            |       |   |   |                    | dan |   |   |   |          444-22 |
 | w   |        | signet         | xNC | signet          |   | Signet(is)         | Sıgnetꝭ         |       |   |   |                    | dan |   |   |   |          444-22 |
+| d   | e      | 3              |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | lm  | 444-23 |                |     |                 |   |                    |                 |       |   |   |                    |     |   |   |   |                 |
 | ad  | b      |                |     |                 |   |                    |                 | plica |   |   |                    |     |   |   |   |                 |
 | w   |        |                |     |                 |   | Ad                 | Ad              |       |   |   |                    | lat |   |   |   |          444-23 |

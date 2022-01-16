@@ -42,6 +42,7 @@
 | :s: |        |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | pm  | 1r     |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | lm  | 465-01 |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
+| d   | b      | 1           |     | protocol        |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | w   |        | vi          | xPE | vi              |   | Wy                    | Wÿ                    |             |   |   |   | dan |   |   |   |        465-01 |
 | w   |        | æfterskrive | xVB | efterskrevne    |   | Effther(screffne)     | Efftherᷠͤ               |             |   |   |   | dan |   |   |   |        465-01 |
 | p   |        |             |     |                 |   | ,                     | ,                     |             |   |   |   | dan |   |   |   |        465-01 |
@@ -70,6 +71,8 @@
 | w   |        | open        | xAJ | åbne            |   | obne                  | obne                  |             |   |   |   | dan |   |   |   |        465-04 |
 | w   |        | brev        | xNC | brev            |   | breff                 | breff                 |             |   |   |   | dan |   |   |   |        465-04 |
 | p   |        |             |     |                 |   | ,                     | ,                     |             |   |   |   | dan |   |   |   |        465-04 |
+| d   | e      | 1           |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
+| d   | b      | 2           |     | context         |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | w   |        | at          | xCS | at              |   | Att                   | Att                   |             |   |   |   | dan |   |   |   |        465-04 |
 | w   |        | vi          | xPE | vi              |   | wy                    | wÿ                    |             |   |   |   | dan |   |   |   |        465-04 |
 | ad  | b      |             |     |                 |   |                       |                       | margin-left |   |   |   |     |   |   |   |               |
@@ -489,7 +492,9 @@
 | w   |        | ok          | xCC | og              |   | oc                    | oc                    |             |   |   |   | dan |   |   |   |        465-30 |
 | w   |        | bruke       | xVB | brugendes       |   | brugend(is)           | brŭgen               |             |   |   |   | dan |   |   |   |        465-30 |
 | ad  | e      |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
+| d   | e      | 2           |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | lm  | 465-31 |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
+| d   | b      | 3           |     | eschatocol      |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | w   |        | til         | xAP | til             |   | Thill                 | Thill                 |             |   |   |   | dan |   |   |   |        465-31 |
 | w   |        | ytermere    | xAJ | ydermere        |   | ydermere              | ydermere              |             |   |   |   | dan |   |   |   |        465-31 |
 | w   |        | vitnesbyrth | xNC | vidnesbyrd      |   | widnisbyrd            | widnibyrd            |             |   |   |   | dan |   |   |   |        465-31 |
@@ -537,4 +542,5 @@
 | de  | e      |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | n   |        | Mdlxxviij   | lat |                 |   | Mdlxxviij             | Mdlxxviij             |             |   |   |   | lat |   |   |   |        465-37 |
 | p   |        |             |     |                 |   | .                     | .                     |             |   |   |   | dan |   |   |   |        465-37 |
+| d   | e      | 3           |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | :e: |        |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |

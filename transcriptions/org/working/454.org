@@ -42,6 +42,7 @@
 | :s: |        |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |
 | pm  | 1r     |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |
 | lm  | 454-01 |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |
+| d   | b      | 1           |     | protocol      |   |                       |               |   |   |   |   |     |   |   |   |               |
 | w   |        | jak         | xPE | jeg           |   | Jegh                  | Jegh          |   |   |   |   | dan |   |   |   |        454-01 |
 | w   |        | syster      | xNC | søster        |   | søsth(e)r             | ſøſthꝛ       |   |   |   |   | dan |   |   |   |        454-01 |
 | PE  | b      | BodBos002   |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |
@@ -75,6 +76,8 @@
 | w   |        | var         | xDP | vort          |   | vortt                 | oꝛtt         |   |   |   |   | dan |   |   |   |        454-03 |
 | w   |        | open        | xAJ | åbne          |   | obne                  | obne          |   |   |   |   | dan |   |   |   |        454-03 |
 | w   |        | brev        | xNC | brev          |   | breff                 | bꝛeff         |   |   |   |   | dan |   |   |   |        454-03 |
+| d   | e      | 1           |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |
+| d   | b      | 2           |     | context       |   |                       |               |   |   |   |   |     |   |   |   |               |
 | w   |        | at          | xCS | at            |   | att                   | att           |   |   |   |   | dan |   |   |   |        454-03 |
 | w   |        | vi          | xPE | vi            |   | wy                    | wÿ            |   |   |   |   | dan |   |   |   |        454-03 |
 | w   |        | have        | xVB | have          |   | haffue                | haffűe        |   |   |   |   | dan |   |   |   |        454-03 |
@@ -397,6 +400,8 @@
 | w   |        | vi          | xPE | os            |   | woss                  | oſſ          |   |   |   |   | dan |   |   |   |        454-26 |
 | w   |        | til         | xAP | til           |   | tiill                 | tiill         |   |   |   |   | dan |   |   |   |        454-26 |
 | w   |        | goth        | xAJ | gode          |   | gode                  | gode          |   |   |   |   | dan |   |   |   |        454-26 |
+| d   | e      | 2           |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |
+| d   | b      | 3           |     | eschatocol    |   |                       |               |   |   |   |   |     |   |   |   |               |
 | w   |        | thæn       | xPE | des           |   | thiiss                | thiiſſ        |   |   |   |   | dan |   |   |   |        454-26 |
 | w   |        | ytermere    | xAJ | ydermere      |   | ød(er)mer(e)          | ødmer       |   |   |   |   | dan |   |   |   |        454-26 |
 | w   |        | bevisning   | xNC | bevisning     |   | beuissni(e)gh         | beűiſſni̅gh    |   |   |   |   | dan |   |   |   |        454-26 |
@@ -427,4 +432,5 @@
 | w   |        | anno        | lat |               |   | An(n)o                | An̅o           |   |   |   |   | lat |   |   |   |        454-28 |
 | w   |        | dominj      | lat |               |   | d(omi)nj              | dn̅j           |   |   |   |   | lat |   |   |   |        454-28 |
 | n   |        | mdxxxvij    | lat |               |   | mdxxxvij              | mdxxxvij      |   |   |   |   | lat |   |   |   |        454-28 |
+| d   | e      | 3           |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |
 | :e: |        |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |

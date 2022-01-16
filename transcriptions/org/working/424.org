@@ -42,6 +42,7 @@
 | :s: |   |               |     |               |   |                 |               |   |   |   |              |     |   |   |    |        |
 | pm  |   |               |     |               |   |                 |               |   |   |   |              |     |   |   |    |        |
 | lm  |   |               |     |               |   |                 |               |   |   |   |              |     |   |   |    |        |
+| d   | b | 1             |     | protocol      |   |                 |               |   |   |   |              |     |   |   |    |        |
 | w   |   | al            | xAJ | alle          |   | Alle            | Alle          |   |   |   |              | dan |   |   |    | 424-01 |
 | w   |   | man           | xNC | mænd          |   | me(n)           | me̅            |   |   |   |              | dan |   |   |    | 424-01 |
 | w   |   | thænne        | xDD | dette         |   | thette          | thette        |   |   |   |              | dan |   |   |    | 424-01 |
@@ -89,6 +90,8 @@
 | w   |   | ok            | xCC | og            |   | Och             | Och           |   |   |   |              | dan |   |   |    | 424-02 |
 | w   |   | gøre          | xVB | gøre          |   | giør(e)         | gıør         |   |   |   |              | dan |   |   |    | 424-02 |
 | w   |   | vitherlik     | xAJ | vitterligt    |   | witherligt      | wıtherligt    |   |   |   |              | dan |   |   |    | 424-02 |
+| d   | e | 1             |     |               |   |                 |               |   |   |   |              |     |   |   |    |        |
+| d   | b | 2             |     | context       |   |                 |               |   |   |   |              |     |   |   |    |        |
 | w   |   | at            | xCS | at            |   | at              | at            |   |   |   |              | dan |   |   |    | 424-02 |
 | w   |   | ar            | xNC | år            |   | aar             | aar           |   |   |   |              | dan |   |   |    | 424-02 |
 | w   |   | æfter         | xAP | efter         |   | effther         | effther       |   |   |   |              | dan |   |   |    | 424-02 |
@@ -541,6 +544,8 @@
 | w   |   | vilje         | xVB | villet        |   | willet          | wıllet        |   |   |   |              | dan |   |   |    | 424-24 |
 | w   |   | ok            | xCC | og            |   | oc              | oc            |   |   |   |              | dan |   |   |    | 424-24 |
 | w   |   | ukærth        | xAJ | ukært         |   | wkerth          | wkeꝛth        |   |   |   |              | dan |   |   |    | 424-24 |
+| d   | e | 2             |     |               |   |                 |               |   |   |   |              |     |   |   |    |        |
+| d   | b | 3             |     | eschatocol    |   |                 |               |   |   |   |              |     |   |   |    |        |
 | w   |   |               | lat |               |   | Jn              | Jn            |   |   |   |              | lat |   |   |    | 424-24 |
 | w   |   |               | lat |               |   | cui(us)         | cuı          |   |   |   |              | lat |   |   |    | 424-24 |
 | w   |   |               | lat |               |   | rei             | rei           |   |   |   |              | lat |   |   |    | 424-24 |
@@ -559,4 +564,5 @@
 | w   |   |               | lat |               |   | loco            | loco          |   |   |   |              | lat |   |   |    | 424-25 |
 | w   |   |               | lat |               |   | sup(ra)         | ſupᷓ           |   |   |   |              | lat |   |   |    | 424-25 |
 | w   |   |               | lat |               |   | dict(is)        | dıctꝭ         |   |   |   |              | lat |   |   |    | 424-25 |
+| d   | e | 3             |     |               |   |                 |               |   |   |   |              |     |   |   |    |        |
 | :e: |   |               |     |               |   |                 |               |   |   |   |              |     |   |   |    |        |

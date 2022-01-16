@@ -42,6 +42,7 @@
 | :s: |        |               |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |
 | pm  | 1r     |               |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |
 | lm  | 452-01 |               |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |
+| d   | b      | 1             |     | protocol     |   |                 |              |   |   |   |                   |     |   |   |    |        |
 | w   |        | vi            | xPE | vi           |   | Vii             | Vii          |   |   |   |                   | dan |   |   |    | 452-01 |
 | w   |        | æfterskrive   | xVB | efterskrevne |   | Efft(screffe)   | Efftꝭᷠͤ        |   |   |   |                   | dan |   |   |    | 452-01 |
 | PE  | b      | JenHan001     |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |
@@ -92,6 +93,8 @@
 | lm  | 452-04 |               |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |
 | w   |        | var           | xDP | vort         |   | vortt           | voꝛtt        |   |   |   |                   | dan |   |   |    | 452-04 |
 | w   |        | sedel         | xNC | seddel       |   | Zedell          | Zedell       |   |   |   |                   | dan |   |   |    | 452-04 |
+| d   | e      | 1             |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |
+| d   | b      | 2             |     | context      |   |                 |              |   |   |   |                   |     |   |   |    |        |
 | w   |        | at            | xCS | at           |   | at              | at           |   |   |   |                   | dan |   |   | =  | 452-04 |
 | w   |        | vi            | xPE | vi           |   | vii             | vii          |   |   |   |                   | dan |   |   | == | 452-04 |
 | w   |        | mæth          | xAP | med          |   | mett            | mett         |   |   |   |                   | dan |   |   |    | 452-04 |
@@ -146,7 +149,9 @@
 | w   |        | han           | xPE | hans         |   | hans            | han         |   |   |   |                   | dan |   |   |    | 452-08 |
 | w   |        |               | lat |              |   | nod(is)         | no          |   |   |   |                   | dan |   |   |    | 452-08 |
 | w   |        |               | lat |              |   | quittans        | quittan     |   |   |   |                   | dan |   |   |    | 452-08 |
+| d   | e      | 2             |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |
 | lm  | 452-09 |               |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |
+| d   | b      | 3             |     | eschatocol   |   |                 |              |   |   |   |                   |     |   |   |    |        |
 | w   |        |               | lat |              |   | dat(um)         | datꝭ         |   |   |   |                   | lat |   |   |    | 452-09 |
 | PL  | b      |               |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |
 | w   |        |               | lat |              |   | Rosk(ildis)     | Roſkꝭ       |   |   |   |                   | lat |   |   |    | 452-09 |
@@ -166,4 +171,5 @@
 | w   |        | var           | xDP | vort         |   | vortt           | voꝛtt        |   |   |   |                   | dan |   |   |    | 452-10 |
 | w   |        | stat          | xNC | stads        |   | Statz           | tatz        |   |   |   |                   | dan |   |   |    | 452-10 |
 | w   |        | sekret        | xNC | sekret       |   | Sec(re)tt       | ectt       |   |   |   |                   | dan |   |   |    | 452-10 |
+| d   | e      | 3             |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |
 | :e: |        |               |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |

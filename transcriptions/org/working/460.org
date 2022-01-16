@@ -43,6 +43,7 @@ vdblac = v with breve
 | :s: |        |             |     |              |   |                   |              |             |   |   |   |     |   |   |    |               |
 | pm  | 1r     |             |     |              |   |                   |              |             |   |   |   |     |   |   |    |               |
 | lm  | 460-01 |             |     |              |   |                   |              |             |   |   |   |     |   |   |    |               |
+| d   | b      | 1           |     | protocol     |   |                   |              |             |   |   |   |     |   |   |    |               |
 | w   |        | al          | xAJ | alle         |   | Alle              | Alle         |             |   |   |   | dan |   |   |    |        460-01 |
 | w   |        | man         | xNC | mænd         |   | mendtt            | mendtt       |             |   |   |   | dan |   |   |    |        460-01 |
 | w   |        | thænne      | xDD | dette        |   | th(ette)          | thꝫͤ          |             |   |   |   | dan |   |   |    |        460-01 |
@@ -102,6 +103,8 @@ vdblac = v with breve
 | lm  | 460-05 |             |     |              |   |                   |              |             |   |   |   |     |   |   |    |               |
 | w   |        | fore        | xAP | for          |   | ffore             | ﬀoꝛe         |             |   |   |   | dan |   |   |    |        460-05 |
 | w   |        | al          | xAJ | alle         |   | alle              | alle         |             |   |   |   | dan |   |   |    |        460-05 |
+| d   | e      | 1           |     |              |   |                   |              |             |   |   |   |     |   |   |    |               |
+| d   | b      | 2           |     | context      |   |                   |              |             |   |   |   |     |   |   |    |               |
 | w   |        | at          | xCS | at           |   | att               | att          |             |   |   |   | dan |   |   |    |        460-05 |
 | w   |        | ar          | xNC | år           |   | aar               | aaꝛ          |             |   |   |   | dan |   |   |    |        460-05 |
 | w   |        | æfter       | xAP | efter        |   | ept(er)           | ept         |             |   |   |   | dan |   |   |    |        460-05 |
@@ -474,6 +477,8 @@ vdblac = v with breve
 | PL  | b      |             |     |              |   |                   |              |             |   |   |   |     |   |   |    |               |
 | w   |        |             | xNP | Tjørntved    |   | ty{ø}rnetued      | tÿ{ø}ꝛnetued |             |   |   |   | dan |   |   |    |        460-34 |
 | PL  | e      |             |     |              |   |                   |              |             |   |   |   |     |   |   |    |               |
+| d   | e      | 2           |     |              |   |                   |              |             |   |   |   |     |   |   |    |               |
+| d   | b      | 3           |     | eschatocol   |   |                   |              |             |   |   |   |     |   |   |    |               |
 | w   |        | thænne      | xDD | disse        |   | thesse            | thee        |             |   |   |   | dan |   |   |    |        460-34 |
 | w   |        | fornævnd    | xAJ | fornvænte    |   | ffor(nefnde)      | ﬀoꝛᷠͤ          |             |   |   |   | dan |   |   |    |        460-34 |
 | n   |        | 12          |     | 12           |   | xij               | xij          |             |   |   |   | dan |   |   |    |        460-34 |
@@ -520,4 +525,5 @@ vdblac = v with breve
 | w   |        |             |     |              |   | dat(um)           | datꝭ         |             |   |   |   | lat |   |   |    |        460-38 |
 | w   |        |             |     |              |   | vt                | vt           |             |   |   |   | lat |   |   |    |        460-38 |
 | w   |        |             |     |              |   | ssup(ra)          | upᷓ          |             |   |   |   | lat |   |   |    |        460-38 |
+| d   | e      | 3           |     |              |   |                   |              |             |   |   |   |     |   |   |    |               |
 | :e: |        |             |     |              |   |                   |              |             |   |   |   |     |   |   |    |               |

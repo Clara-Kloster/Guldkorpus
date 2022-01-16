@@ -44,6 +44,7 @@ initial Ff unique to scribe
 | :s: |        |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |
 | pm  | 1r     |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |
 | lm  | 418-01 |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |
+| d   | b      | 1             |     | protocol            |   |                      |                  |   |   |   |            |     |   |   |    |        |
 | w   |        | al            | xAJ | alle                |   | Alle                 | Alle             |   |   |   |            | dan |   |   |    | 418-01 |
 | w   |        | man           | xNC | mænd                |   | me(n)                | me̅               |   |   |   |            | dan |   |   |    | 418-01 |
 | w   |        | thænne        | xDD | dette               |   | th(ettæ)             | thꝫᷔ              |   |   |   |            | dan |   |   |    | 418-01 |
@@ -77,6 +78,8 @@ initial Ff unique to scribe
 | w   |        | min           | xDP | mit                 |   | mith                 | mıth             |   |   |   |            | dan |   |   |    | 418-02 |
 | w   |        | open          | xAJ | åbne                |   | opne                 | opne             |   |   |   |            | dan |   |   |    | 418-02 |
 | w   |        | brev          | xNC | brev                |   | breff                | bꝛeff            |   |   |   |            | dan |   |   |    | 418-02 |
+| d   | e      | 1             |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |
+| d   | b      | 2             |     | context             |   |                      |                  |   |   |   |            |     |   |   |    |        |
 | w   |        | i             | xAP | i                   |   | i                    | ı                |   |   |   |            | dan |   |   |    | 418-02 |
 | w   |        | leghe         | xNC | leje                |   | leyiæ                | leyiæ            |   |   |   |            | dan |   |   |    | 418-02 |
 | w   |        | at            | xIM | at                  |   | at                   | at               |   |   |   |            | dan |   |   | =  | 418-02 |
@@ -522,6 +525,8 @@ initial Ff unique to scribe
 | w   |        | al            | xAJ | al                  |   | aal                  | aal              |   |   |   |            | dan |   |   |    | 418-20 |
 | w   |        | ytermere      | xAJ | ydermere            |   | yd(e)rmer(e)         | ydꝛmeꝛ         |   |   |   |            | dan |   |   |    | 418-20 |
 | w   |        | rætgang       | xNC | rettergang          |   | reetgangh            | reetgangh        |   |   |   |            | dan |   |   |    | 418-20 |
+| d   | e      | 2             |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |
+| d   | b      | 3             |     | eschatocol          |   |                      |                  |   |   |   |            |     |   |   |    |        |
 | w   |        | til           | xAP | til                 |   | Tiil                 | Tiil             |   |   |   |            | dan |   |   |    | 418-20 |
 | w   |        | ytermere      | xAJ | ydermere            |   | yd(e)rmer(e)         | ydꝛmeꝛ         |   |   |   |            | dan |   |   |    | 418-20 |
 | w   |        | bevisning     | xNC | bevisning           |   | beuisni(n)g          | beuıſni̅g         |   |   |   |            | dan |   |   |    | 418-20 |
@@ -582,4 +587,5 @@ initial Ff unique to scribe
 | n   |        |               |     |                     |   | Mcdlxxx              | cdlxxx          |   |   |   |            | lat |   |   |    | 418-23 |
 | w   |        |               |     |                     |   | Octauo               | Octauo           |   |   |   |            | lat |   |   |    | 418-23 |
 | p   |        |               |     |                     |   | .                    | .                |   |   |   |            | lat |   |   |    | 418-23 |
+| d   | e      | 3             |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |
 | :e: |        |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |

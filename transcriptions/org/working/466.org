@@ -42,6 +42,7 @@
 | :s: |        |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |
 | pm  | 1r     |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |
 | lm  | 466-01 |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |
+| d   | b      | 1             |     | protocol      |   |                  |                  |   |   |   |   |     |   |   |   |               |
 | PE  | b      | JenOlu002     |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |
 | w   |        |               | xNP | Jens          |   | Jenns            | Jenns            |   |   |   |   | dan |   |   |   |        466-01 |
 | w   |        |               | xNP | Olufsen       |   | Ollufßen         | Ollŭfßen         |   |   |   |   | dan |   |   |   |        466-01 |
@@ -70,6 +71,8 @@
 | w   |        | open          | xAJ | åbne          |   | obnne            | obnne            |   |   |   |   | dan |   |   |   |        466-03 |
 | w   |        | brev          | xNC | brev          |   | breff            | breff            |   |   |   |   | dan |   |   |   |        466-03 |
 | p   |        |               |     |               |   | ,                | ,                |   |   |   |   | dan |   |   |   |        466-03 |
+| d   | e      | 1             |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |
+| d   | b      | 2             |     | context       |   |                  |                  |   |   |   |   |     |   |   |   |               |
 | w   |        | at            | xCS | at            |   | Ath              | Ath              |   |   |   |   | dan |   |   |   |        466-03 |
 | w   |        | ar            | xNC | år            |   | Aar              | Aar              |   |   |   |   | dan |   |   |   |        466-03 |
 | w   |        | etcetera      | xAV |               |   | (et) c(etera)    | ⁊c̅               |   |   |   |   | lat |   |   |   |        466-03 |
@@ -240,6 +243,8 @@
 | w   |        | ræt           | xAJ | rette         |   | rette            | rette            |   |   |   |   | dan |   |   |   |        466-16 |
 | p   |        |               |     |               |   | ,                | ,                |   |   |   |   | dan |   |   |   |        466-16 |
 | w   |        | etcetera      | xAV |               |   | (et) c(etera)    | ⁊c̅               |   |   |   |   | lat |   |   |   |        466-16 |
+| d   | e      | 2             |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |
+| d   | b      | 3             |     | eschatocol    |   |                  |                  |   |   |   |   |     |   |   |   |               |
 | w   |        | at            | xCS | at            |   | Ath              | Ath              |   |   |   |   | dan |   |   |   |        466-16 |
 | w   |        | han           | xPE | hans          |   | hanns            | hann            |   |   |   |   | dan |   |   |   |        466-16 |
 | w   |        | tilbuth       | xNC | tilbud        |   | tilbudt          | tilbŭdt          |   |   |   |   | dan |   |   |   |        466-16 |
@@ -271,4 +276,5 @@
 | w   |        |               |     |               |   | vt               | vt               |   |   |   |   | lat |   |   |   |        466-19 |
 | w   |        |               |     |               |   | supra            | ſŭpra            |   |   |   |   | lat |   |   |   |        466-19 |
 | w   |        |               |     |               |   |                  |                  |   |   |   |   | lat |   |   |   |        466-19 |
+| d   | e      | 3             |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |
 | :e: |        |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |

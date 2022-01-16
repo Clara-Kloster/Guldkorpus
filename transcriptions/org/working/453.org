@@ -42,6 +42,7 @@
 | :s: |        |             |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |
 | pm  | 1r     |             |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |
 | lm  | 453-01 |             |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |
+| d   | b      | 1           |     | protocol        |   |                    |              |   |   |   |   |     |   |   |   |        |
 | w   |        | jak         | xPE | jeg             |   | Jeg                | Jeg          |   |   |   |   | dan |   |   |   | 453-01 |
 | PE  | b      | JenKem001   |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |
 | w   |        |             | xNP | Jens            |   | Jens               | Jen         |   |   |   |   | dan |   |   |   | 453-01 |
@@ -172,6 +173,8 @@
 | w   |        | ok          | xCC | og              |   | oc                 | oc           |   |   |   |   | dan |   |   |   | 453-10 |
 | w   |        | til         | xAV | til             |   | tiill              | tiill        |   |   |   |   | dan |   |   |   | 453-10 |
 | w   |        | sta         | xVB | stode           |   | stode              | ſtode        |   |   |   |   | dan |   |   |   | 453-10 |
+| d   | e      | 1           |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |
+| d   | b      | 2           |     | context         |   |                    |              |   |   |   |   |     |   |   |   |        |
 | w   |        | at          | xCS | at              |   | att                | att          |   |   |   |   | dan |   |   |   | 453-10 |
 | w   |        | hærre       | xNC | herr            |   | h(er)              | h           |   |   |   |   | dan |   |   |   | 453-10 |
 | PE  | b      | MadOls001   |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |
@@ -228,6 +231,8 @@
 | lm  | 453-15 |             |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |
 | w   |        | for         | xAP | for             |   | for                | foꝛ          |   |   |   |   | dan |   |   |   | 453-15 |
 | w   |        | jak         | xPE | mig             |   | mig                | mig          |   |   |   |   | dan |   |   |   | 453-15 |
+| d   | e      | 2           |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |
+| d   | b      | 3           |     | eschatocol      |   |                    |              |   |   |   |   |     |   |   |   |        |
 | w   |        | thæn        | xPE | det             |   | th(et)             | thꝫ          |   |   |   |   | dan |   |   |   | 453-15 |
 | w   |        | vitne       | xVB | vidner          |   | vitner             | vitneꝛ       |   |   |   |   | dan |   |   |   | 453-15 |
 | w   |        | jak         | xPE | jeg             |   | Jeg                | Jeg          |   |   |   |   | dan |   |   |   | 453-15 |
@@ -244,4 +249,5 @@
 | w   |        | datum       | lat |                 |   | dat(um)            | datꝭ         |   |   |   |   | lat |   |   |   | 453-16 |
 | w   |        | vt          | lat |                 |   | vt                 | vt           |   |   |   |   | lat |   |   |   | 453-16 |
 | w   |        | supra       | lat |                 |   | sup(ra)            | ſŭpᷓ          |   |   |   |   | lat |   |   |   | 453-16 |
+| d   | e      | 3           |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |
 | :e: |        |             |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |

@@ -42,6 +42,7 @@
 | :s: |        |                |     |                |   |                  |               |   |   |   |               |     |   |   |   |        |
 | pm  | 1r     |                |     |                |   |                  |               |   |   |   |               |     |   |   |   |        |
 | lm  | 442-01 |                |     |                |   |                  |               |   |   |   |               |     |   |   |   |        |
+| d   | b      | 1              |     | protocol       |   |                  |               |   |   |   |               |     |   |   |   |        |
 | w   |        | al             | xAJ | alle           |   | Allæ             | Allæ          |   |   |   |               | dan |   |   |   | 442-01 |
 | w   |        | man            | xNC | mænd           |   | men              | me           |   |   |   |               | dan |   |   |   | 442-01 |
 | w   |        | thænne         | xDD | dette          |   | th(ette)         | thꝫͤ           |   |   |   |               | dan |   |   |   | 442-01 |
@@ -81,6 +82,8 @@
 | w   |        | gøre           | xVB | gøre           |   | gøræ             | gøꝛæ          |   |   |   |               | dan |   |   |   | 442-03 |
 | w   |        | vi             | xPE | vi             |   | vij              | vij           |   |   |   |               | dan |   |   |   | 442-03 |
 | w   |        | vitherlik      | xAJ | vitterlig      |   | vidh(er)ligh     | vidhꝭlıgh     |   |   |   |               | dan |   |   |   | 442-03 |
+| d   | e      | 1              |     |                |   |                  |               |   |   |   |               |     |   |   |   |        |
+| d   | b      | 2              |     | context        |   |                  |               |   |   |   |               |     |   |   |   |        |
 | w   |        | at             | xCS | at             |   | ath              | ath           |   |   |   |               | dan |   |   |   | 442-03 |
 | w   |        | vi             | xPE | vi             |   | vij              | vij           |   |   |   |               | dan |   |   |   | 442-03 |
 | w   |        | af             | xAP | af             |   | aff              | aff           |   |   |   |               | dan |   |   |   | 442-03 |
@@ -178,6 +181,8 @@
 | w   |        | æller          | xCC | eller          |   | eldh(er)         | eldhꝭ         |   |   |   |               | dan |   |   |   | 442-09 |
 | w   |        | kome           | xVB | kommende       |   | ko(m)mend(e)     | ko̅men        |   |   |   |               | dan |   |   |   | 442-09 |
 | w   |        | varthe         | xVB | vorde          |   | vordæ            | voꝛdæ         |   |   |   |               | dan |   |   |   | 442-09 |
+| d   | e      | 2              |     |                |   |                  |               |   |   |   |               |     |   |   |   |        |
+| d   | b      | 3              |     | eschatocol     |   |                  |               |   |   |   |               |     |   |   |   |        |
 | w   |        | til            | xAP | til            |   | tell             | tell          |   |   |   |               | dan |   |   |   | 442-09 |
 | w   |        | ytermere       | xAJ | ydermere       |   | ydh(er)meræ      | ydhꝭmeꝛæ      |   |   |   |               | dan |   |   |   | 442-09 |
 | w   |        | vitnesbyrth    | xNC | vidnesbyrd     |   | vidnæbyrd        | vıdnæbyꝛd     |   |   |   |               | dan |   |   |   | 442-09 |
@@ -211,4 +216,5 @@
 | w   |        |                |     |                |   | anno             | anno          |   |   |   |               | lat |   |   |   | 442-11 |
 | w   |        |                |     |                |   | d(omi)nj         | dn̅ȷ           |   |   |   |               | lat |   |   |   | 442-11 |
 | n   |        |                |     |                |   | 1511             | 1511          |   |   |   |               | lat |   |   |   | 442-11 |
+| d   | e      | 3              |     |                |   |                  |               |   |   |   |               |     |   |   |   |        |
 | :e: |        |                |     |                |   |                  |               |   |   |   |               |     |   |   |   |        |

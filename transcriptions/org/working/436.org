@@ -42,6 +42,7 @@
 | :s: |        |              |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
 | pm  |     1r |              |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
 | lm  | 436-01 |              |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
+| d   | b      | 1            |     | protocol     |   |                 |              |   |   |   |   |     |   |   |   |               |
 | w   |        | al           | xAJ | alle         |   | Allæ            | Allæ         |   |   |   |   | dan |   |   |   |        436-01 |
 | w   |        | man          | xNC | mænd         |   | me(n)           | me̅           |   |   |   |   | dan |   |   |   |        436-01 |
 | w   |        | thænne       | xDD | dette        |   | th(ette)        | thꝫͤ          |   |   |   |   | dan |   |   |   |        436-01 |
@@ -84,6 +85,8 @@
 | w   |        | var          | xDP | vort         |   | vorth           | voꝛth        |   |   |   |   | dan |   |   |   |        436-03 |
 | w   |        | open         | xAJ | åbne         |   | offnæ           | offnæ        |   |   |   |   | dan |   |   |   |        436-03 |
 | w   |        | brev         | xNC | brev         |   | breff           | bꝛeff        |   |   |   |   | dan |   |   |   |        436-03 |
+| d   | e      | 1            |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
+| d   | b      | 2            |     | context      |   |                 |              |   |   |   |   |     |   |   |   |               |
 | w   |        | at           | xCS | at           |   | ath             | ath          |   |   |   |   | dan |   |   |   |        436-03 |
 | w   |        | vi           | xPE | vi           |   | vij             | vij          |   |   |   |   | dan |   |   |   |        436-03 |
 | w   |        | have         | xVB | have         |   | haffuæ          | haffuæ       |   |   |   |   | dan |   |   |   |        436-03 |
@@ -252,6 +255,8 @@
 | w   |        | hva          | xPI | hvem         |   | hwem            | hwe         |   |   |   |   | dan |   |   |   |        436-13 |
 | w   |        | vi           | xPE | os           |   | voss            | voſſ         |   |   |   |   | dan |   |   |   |        436-13 |
 | w   |        | take         | xVB | tages        |   | thack(is)       | thackꝭ       |   |   |   |   | dan |   |   |   |        436-13 |
+| d   | e      | 2            |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
+| d   | b      | 3            |     | eschatocol   |   |                 |              |   |   |   |   |     |   |   |   |               |
 | w   |        | til          | xAP | til          |   | tell            | tell         |   |   |   |   | dan |   |   |   |        436-13 |
 | w   |        | ytermere     | xAJ | ydermere     |   | ydh(e)rmeræ     | ydhꝛꝭmeꝛæ    |   |   |   |   | dan |   |   |   |        436-13 |
 | w   |        | vitnesbyrth  | xNC | vidnesbyrd   |   | vidnæ byr       | vıdnæ byꝛ    |   |   |   |   | dan |   |   |   |        436-13 |
@@ -278,4 +283,5 @@
 | w   |        |              |     |              |   | milesimo        | mıleſımo     |   |   |   |   | lat |   |   |   |        436-15 |
 | w   |        |              |     |              |   | qui(n)gentesimo | quı̅genteſımo |   |   |   |   | lat |   |   |   |        436-15 |
 | w   |        |              |     |              |   | octauo          | octauo       |   |   |   |   | lat |   |   |   |        436-15 |
+| d   | e      | 3            |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
 | :e: |        |              |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |

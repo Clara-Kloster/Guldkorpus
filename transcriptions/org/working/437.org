@@ -42,6 +42,7 @@
 | :s: |        |               |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |
 | pm  |     1r |               |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |
 | lm  | 437-01 |               |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |
+| d   | b      | 1             |     | protocol    |   |                 |              |   |   |   |           |     |   |   |    |        |
 | w   |        | al            | xAJ | alle        |   | Alle            | Alle         |   |   |   |           | dan |   |   |    | 437-01 |
 | w   |        | man           | xNC | mænd        |   | me(n)           | me̅           |   |   |   |           | dan |   |   |    | 437-01 |
 | w   |        | thænne        | xDD | dette       |   | th(ette)        | thꝫͤ          |   |   |   |           | dan |   |   |    | 437-01 |
@@ -75,6 +76,8 @@
 | w   |        | kome          | xVB | komme       |   | ko(m)me         | ko̅me         |   |   |   |           | dan |   |   |    | 437-02 |
 | w   |        | skule         | xVB | skullende   |   | skullend(e)     | ſkűllen     |   |   |   |           | dan |   |   |    | 437-02 |
 | p   |        |               |     |             |   | /               | /            |   |   |   |           | dan |   |   |    | 437-02 |
+| d   | e      | 1             |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |
+| d   | b      | 2             |     | context     |   |                 |              |   |   |   |           |     |   |   |    |        |
 | w   |        | at            | xCS | at          |   | Ath             | Ath          |   |   |   |           | dan |   |   |    | 437-02 |
 | w   |        | jak           | xPE | jeg         |   | jegh            | ȷegh         |   |   |   |           | dan |   |   |    | 437-02 |
 | lm  | 437-03 |               |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |
@@ -284,6 +287,8 @@
 | w   |        | i             | xAP | i           |   | i               | i            |   |   |   |           | dan |   |   |    | 437-14 |
 | w   |        | noker         | xDD | nogen       |   | nogh(e)r        | noghꝛ       |   |   |   |           | dan |   |   |    | 437-14 |
 | w   |        | mate          | xNC | måde        |   | maathe          | maathe       |   |   |   |           | dan |   |   |    | 437-14 |
+| d   | e      | 2             |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |
+| d   | b      | 3             |     | eschatocol  |   |                 |              |   |   |   |           |     |   |   |    |        |
 | w   |        |               |     |             |   | Jn              | Jn           |   |   |   |           | lat |   |   |    | 437-14 |
 | w   |        |               |     |             |   | cui(us)         | cűi         |   |   |   |           | lat |   |   |    | 437-14 |
 | w   |        |               |     |             |   | Rei             | Rei          |   |   |   |           | lat |   |   |    | 437-14 |
@@ -308,4 +313,5 @@
 | w   |        |               |     |             |   | millesimo       | milleſimo    |   |   |   |           | lat |   |   |    | 437-16 |
 | w   |        |               |     |             |   | q(ui)ngentesimo | qngenteſimo |   |   |   |           | lat |   |   |    | 437-16 |
 | w   |        |               |     |             |   | octauo          | octauo       |   |   |   |           | lat |   |   |    | 437-16 |
+| d   | e      | 3             |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |
 | :e: |        |               |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |

@@ -42,6 +42,7 @@
 | :s: |        |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |
 | pm  | 1r     |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |
 | lm  | 459-01 |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |
+| d   | b      | 1          |     | protocol    |   |                  |             |   |   |   |   |     |   |   |    |               |
 | w   |        | al         | xAJ | alle        |   | Alle             | Alle        |   |   |   |   | dan |   |   |    |        459-01 |
 | w   |        | man        | xNC | mænd        |   | mendtt           | mendtt      |   |   |   |   | dan |   |   |    |        459-01 |
 | w   |        | thænne     | xDD | dette       |   | th(ette)         | thꝫͤ         |   |   |   |   | dan |   |   |    |        459-01 |
@@ -95,6 +96,8 @@
 | lm  | 459-04 |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |
 | w   |        | fore       | xAP | for         |   | ffore            | ﬀoꝛe        |   |   |   |   | dan |   |   |    |        459-04 |
 | w   |        | al         | xAJ | alle        |   | alle             | alle        |   |   |   |   | dan |   |   |    |        459-04 |
+| d   | e      | 1          |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |
+| d   | b      | 2          |     | context     |   |                  |             |   |   |   |   |     |   |   |    |               |
 | w   |        | at         | xCS | at          |   | att              | att         |   |   |   |   | dan |   |   |    |        459-04 |
 | w   |        | ar         | xNC | år          |   | aar              | aaꝛ         |   |   |   |   | dan |   |   |    |        459-04 |
 | w   |        | æfter      | xAP | efter       |   | efft(er)         | eﬀt        |   |   |   |   | dan |   |   |    |        459-04 |
@@ -377,6 +380,8 @@
 | w   |        | sum        | xCS | som         |   | som(m)           | ſom̅         |   |   |   |   | dan |   |   |    |        459-25 |
 | w   |        | forskreven | xAJ | forskrevet  |   | ffor(screffuitt) | ﬀoꝛͧͥͭͭ         |   |   |   |   | dan |   |   |    |        459-25 |
 | w   |        | sta        | xVB | står        |   | staar            | ﬅaaꝛ        |   |   |   |   | dan |   |   |    |        459-25 |
+| d   | e      | 2          |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |
+| d   | b      | 3          |     | eschatocol  |   |                  |             |   |   |   |   |     |   |   |    |               |
 | w   |        | thæn       | xPE | det         |   | th(et)           | thꝫ         |   |   |   |   | dan |   |   |    |        459-25 |
 | w   |        | besta      | xVB | bestå       |   | bestaa           | beﬅaa       |   |   |   |   | dan |   |   |    |        459-25 |
 | w   |        | ok         | xAV | og          |   | och              | och         |   |   |   |   | dan |   |   |    |        459-25 |
@@ -394,4 +399,5 @@
 | w   |        |            |     |             |   | dat(um)          | datꝭ        |   |   |   |   | lat |   |   |    |        459-26 |
 | w   |        |            |     |             |   | vtt              | vtt         |   |   |   |   | lat |   |   |    |        459-26 |
 | w   |        |            |     |             |   | ßvp(ra)          | ßvp       |   |   |   |   | lat |   |   |    |        459-26 |
+| d   | e      | 3          |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |
 | :e: |        |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |

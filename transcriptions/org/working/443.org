@@ -41,6 +41,7 @@
 | :s: |        |               |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |
 | pm  |     1r |               |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |
 | lm  | 443-01 |               |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |
+| d   | b      | 1             |     | protocol      |   |                            |                            |   |   |   |   |     |   |   |    |               |
 | w   |        | vi            | xPE | vi            |   | Wij                        | Wij                        |   |   |   |   | dan |   |   |    |        443-01 |
 | PE  |      b | LagUrn001     |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |
 | w   |        |               | xNP | Lage          |   | laghæ                      | laghæ                      |   |   |   |   | dan |   |   |    |        443-01 |
@@ -56,6 +57,8 @@
 | PL  |      e |               |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |
 | w   |        | gøre          | xVB | gøre          |   | Giør(e)                    | Gıør                      |   |   |   |   | dan |   |   |    |        443-01 |
 | w   |        | vitherlik     | xAJ | vitterligt    |   | with(e)rligt               | wıthꝛ̅lıgt                  |   |   |   |   | dan |   |   |    |        443-01 |
+| d   | e      | 1             |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |
+| d   | b      | 2             |     | context       |   |                            |                            |   |   |   |   |     |   |   |    |               |
 | w   |        | at            | xCS | at            |   | At                         | At                         |   |   |   |   | dan |   |   |    |        443-01 |
 | w   |        | vi            | xPE | vi            |   | wij                        | wij                        |   |   |   |   | dan |   |   |    |        443-01 |
 | w   |        | mæth          | xAP | med           |   | mett                       | mett                       |   |   |   |   | dan |   |   |    |        443-01 |
@@ -397,6 +400,8 @@
 | w   |        | æfter         | xAP | efter         |   | effth(e)r                  | effthꝛ̅                     |   |   |   |   | dan |   |   |    |        443-22 |
 | w   |        | kapitel       | xNC | kapitels      |   | capittels                  | capittel                  |   |   |   |   | dan |   |   |    |        443-22 |
 | w   |        | statut        | xNC | statutter     |   | statuter                   | ſtatűter                   |   |   |   |   | dan |   |   |    |        443-22 |
+| d   | e      | 2             |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |
+| d   | b      | 3             |     | eschatocol    |   |                            |                            |   |   |   |   |     |   |   |    |               |
 | w   |        |               |     |               |   | In                         | In                         |   |   |   |   | lat |   |   |    |        443-22 |
 | w   |        |               |     |               |   | quor(um)                   | quoꝝ                       |   |   |   |   | lat |   |   |    |        443-22 |
 | lm  | 443-23 |               |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |
@@ -435,4 +440,5 @@
 | w   |        |               |     |               |   | domini                     | domini                     |   |   |   |   | lat |   |   |    |        443-25 |
 | w   |        |               |     |               |   | Millesimo                  | Mılleſımo                  |   |   |   |   | lat |   |   | =  |        443-25 |
 | w   |        |               |     |               |   | quingentesimodecimosextimo | quingenteſımodecımoſextimo |   |   |   |   | lat |   |   | == |        443-25 |
+| d   | e      | 3             |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |
 | :e: |        |               |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |

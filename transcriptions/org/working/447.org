@@ -43,6 +43,7 @@
 | :s: |        |               |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |
 | pm  |     1r |               |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |
 | lm  | 447-01 |               |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |
+| d   | b      | 1             |     | protocol      |   |                       |               |   |   |   |                 |     |   |   |    |               |
 | w   |        | jak           | xPE | jeg           |   | Jeg                   | Jeg           |   |   |   |                 | dan |   |   |    |        447-01 |
 | PE  |      b | SofPed001     |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |
 | w   |        |               | xNP | Sofie         |   | Soaphie               | oaphie       |   |   |   |                 | dan |   |   |    |        447-01 |
@@ -73,6 +74,8 @@
 | lm  | 447-03 |               |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |
 | w   |        | open          | xAJ | åbne          |   | Opnne                 | Opnne         |   |   |   |                 | dan |   |   |    |        447-03 |
 | w   |        | brev          | xNC | brev          |   | breff                 | bꝛeff         |   |   |   |                 | dan |   |   |    |        447-03 |
+| d   | e      | 1             |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |
+| d   | b      | 2             |     | context       |   |                       |               |   |   |   |                 |     |   |   |    |               |
 | w   |        | at            | xCS | at            |   | Att                   | Att           |   |   |   |                 | dan |   |   |    |        447-03 |
 | w   |        | jak           | xPE | jeg           |   | jeg                   | ȷeg           |   |   |   |                 | dan |   |   |    |        447-03 |
 | w   |        | mæth          | xAP | med           |   | m(et)                 | mꝫ            |   |   |   |                 | dan |   |   |    |        447-03 |
@@ -479,6 +482,8 @@
 | lm  | 447-35 |               |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |
 | w   |        | sta           | xVB | stande        |   | stande                | ſtande        |   |   |   |                 | dan |   |   |    |        447-35 |
 | w   |        | etcetera      | xAV |               |   | (et cetera)           | ⁊cꝭ           |   |   |   |                 | lat |   |   |    |        447-35 |
+| d   | e      | 2             |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |
+| d   | b      | 3             |     | eschatocol    |   |                       |               |   |   |   |                 |     |   |   |    |               |
 | w   |        | at            | xIM | at            |   | Ath                   | Ath           |   |   |   |                 | dan |   |   |    |        447-35 |
 | w   |        | sta           | xVB | stå           |   | staa                  | ſtaa          |   |   |   |                 | dan |   |   |    |        447-35 |
 | w   |        | upa           | xAP | på            |   | paa                   | paa           |   |   |   |                 | dan |   |   |    |        447-35 |
@@ -556,4 +561,5 @@
 | w   |        |               |     |               |   | quingentesimo         | qŭingenteſimo |   |   |   |                 | lat |   |   |    |        447-41 |
 | w   |        |               |     |               |   | vicesimo              | viceſimo      |   |   |   |                 | lat |   |   |    |        447-41 |
 | w   |        |               |     |               |   | Octauo                | Octaŭo        |   |   |   |                 | lat |   |   |    |        447-41 |
+| d   | e      | 3             |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |
 | :e: |        |               |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |

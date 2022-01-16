@@ -42,6 +42,7 @@ Skadet
 | :s: |        |   |   |   |   |                    |                   |        |   |   |   |       |   |   |   |                |
 | pm  | 1r     |   |   |   |   |                    |                   |        |   |   |   |       |   |   |   |                |
 | lm  | 488-01 |   |   |   |   |                    |                   |        |   |   |   |       |   |   |   |                |
+| d  | b      | 1  |   | protocol  |   |                    |                   |        |   |   |   |       |   |   |   |                |
 | w   |        |   |   |   |   | W[i]               | W[ı]              |        |   |   |   | Dansk |   |   |   |         488-01 |
 | PE  | b      |   |   |   |   |                    |                   |        |   |   |   |       |   |   |   |                |
 | w   |        |   |   |   |   | christiærn         | chriſtiæꝛ        |        |   |   |   | Dansk |   |   |   |         488-01 |
@@ -71,6 +72,8 @@ Skadet
 | w   |        |   |   |   |   | giør(e)            | giør             |        |   |   |   | Dansk |   |   |   |         488-02 |
 | w   |        |   |   |   |   | alle               | alle              |        |   |   |   | Dansk |   |   |   |         488-02 |
 | w   |        |   |   |   |   | with[(e)rlict]     | with[rlict]      |        |   |   |   | Dansk |   |   |   |         488-02 |
+| d  | e      | 1  |   |   |   |                    |                   |        |   |   |   |       |   |   |   |                |
+| d  | b      | 2  |   | context  |   |                    |                   |        |   |   |   |       |   |   |   |                |
 | w   |        |   |   |   |   | at                 | at                |        |   |   |   | Dansk |   |   |   |         488-02 |
 | w   |        |   |   |   |   | aar                | aaꝛ               |        |   |   |   | Dansk |   |   |   |         488-02 |
 | w   |        |   |   |   |   | efft(er)           | efft             |        |   |   |   | Dansk |   |   |   |         488-02 |
@@ -270,7 +273,9 @@ Skadet
 | w   |        |   |   |   |   | 000                | 000               |        |   |   |   | Dansk |   |   |   |         488-13 |
 | w   |        |   |   |   |   | sielffue           | ſielffue          |        |   |   |   | Dansk |   |   |   |         488-13 |
 | w   |        |   |   |   |   | [riæt]             | [riæt]            |        |   |   |   | Dansk |   |   |   |         488-13 |
+| d  | e      | 2  |   |   |   |                    |                   |        |   |   |   |       |   |   |   |                |
 | lm  | 488-14 |   |   |   |   |                    |                   |        |   |   |   |       |   |   |   |                |
+| d  | b      | 3  |   | eschatocol  |   |                    |                   |        |   |   |   |       |   |   |   |                |
 | w   |        |   |   |   |   | Rei                | Rei               |        |   |   |   | Latin |   |   |   |         488-14 |
 | w   |        |   |   |   |   | testimoniu(m)      | teſtimoniu̅        |        |   |   |   | Latin |   |   |   |         488-14 |
 | w   |        |   |   |   |   | sigillu(m)         | ſigillu̅           |        |   |   |   | Latin |   |   |   |         488-14 |
@@ -284,4 +289,5 @@ Skadet
 | w   |        |   |   |   |   | milite             | milite            |        |   |   |   | Latin |   |   |   |         488-15 |
 | w   |        |   |   |   |   | justitia(rio)      | ȷustitiaͦ          |        |   |   |   | Latin |   |   |   |         488-15 |
 | w   |        |   |   |   |   | n(ost)ro           | nr̅o               |        |   |   |   | Latin |   |   |   |         488-15 |
+| d  | e      | 3  |   |   |   |                    |                   |        |   |   |   |       |   |   |   |                |
 | :e: |        |   |   |   |   |                    |                   |        |   |   |   |       |   |   |   |                |

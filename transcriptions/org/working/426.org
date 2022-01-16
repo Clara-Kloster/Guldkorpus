@@ -42,6 +42,7 @@ Rep. 7613 samme dag/afsender AM XLVI 22
 | :s: |        |                      |     |                     |   |                       |                     |             |   |   |        |     |   |   |    |               |
 | pm  | 1r     |                      |     |                     |   |                       |                     |             |   |   |        |     |   |   |    |               |
 | lm  | 426-01 |                      |     |                     |   |                       |                     |             |   |   |        |     |   |   |    |               |
+| d   | b      | 1                    |     | protocol            |   |                       |                     |             |   |   |        |     |   |   |    |               |
 | w   |        | vi                   | xPE | vi                  |   | Wij                   | Wij                 |             |   |   |        | dan |   |   |    |        426-01 |
 | PE  | b      | NieSka002            |     |                     |   |                       |                     |             |   |   |        |     |   |   |    |               |
 | w   |        |                      | xNP | Niels               |   | Niels                 | Nıel               |             |   |   |        | dan |   |   |    |        426-01 |
@@ -58,6 +59,8 @@ Rep. 7613 samme dag/afsender AM XLVI 22
 | w   |        | gøre                 | xVB | gøre                |   | Gør(e)                | Gøꝛ                |             |   |   |        | dan |   |   |    |        426-01 |
 | w   |        | vitherlik            | xAJ | vitterligt          |   | wit(er)ligt           | wıtligt            |             |   |   |        | dan |   |   |    |        426-01 |
 | w   |        | al                   | xAJ | alle                |   | alle                  | alle                |             |   |   |        | dan |   |   |    |        426-01 |
+| d   | e      | 1                    |     |                     |   |                       |                     |             |   |   |        |     |   |   |    |               |
+| d   | b      | 2                    |     | context             |   |                       |                     |             |   |   |        |     |   |   |    |               |
 | w   |        | at                   | xCS | at                  |   | at                    | at                  |             |   |   |        | dan |   |   |    |        426-01 |
 | w   |        | vi                   | xPE | vi                  |   | wij                   | wij                 |             |   |   |        | dan |   |   |    |        426-01 |
 | w   |        | have                 | xVB | have                |   | haffue                | haffue              |             |   |   |        | dan |   |   |    |        426-01 |
@@ -448,6 +451,8 @@ Rep. 7613 samme dag/afsender AM XLVI 22
 | w   |        | uti                  | xAP | udi                 |   | vdi                   | vdı                 |             |   |   |        | dan |   |   |    |        426-19 |
 | w   |        | noker                | xDD | noger               |   | nog(er)               | nog                |             |   |   |        | dan |   |   |    |        426-19 |
 | w   |        | mate                 | xNC | måde                |   | madhe                 | madhe               |             |   |   |        | dan |   |   |    |        426-19 |
+| d   | e      | 2                    |     |                     |   |                       |                     |             |   |   |        |     |   |   |    |               |
+| d   | b      | 3                    |     | eschatocol          |   |                       |                     |             |   |   |        |     |   |   |    |               |
 | w   |        |                      |     |                     |   | Jn                    | Jn                  |             |   |   |        | lat |   |   |    |        426-19 |
 | w   |        |                      |     |                     |   | Cui(us)               | Cuı                |             |   |   |        | lat |   |   |    |        426-19 |
 | w   |        |                      |     |                     |   | r(e)i                 | ri                 |             |   |   |        | lat |   |   |    |        426-19 |
@@ -499,4 +504,5 @@ Rep. 7613 samme dag/afsender AM XLVI 22
 | w   |        |                      |     |                     |   | Dominj                | Dominj              |             |   |   |        | lat |   |   |    |        426-21 |
 | n   |        |                      |     |                     |   | mcdxc                 | mcdxc               |             |   |   |        | lat |   |   | =  |        426-21 |
 | w   |        |                      |     |                     |   | quarto                | quaꝛto              |             |   |   |        | lat |   |   | == |        426-21 |
+| d   | e      | 3                    |     |                     |   |                       |                     |             |   |   |        |     |   |   |    |               |
 | :e: |        |                      |     |                     |   |                       |                     |             |   |   |        |     |   |   |    |               |
