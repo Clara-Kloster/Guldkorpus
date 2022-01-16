@@ -42,6 +42,7 @@
 | :s: |        |             |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |
 | pm  | 1r     |             |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |
 | lm  | 368-01 |             |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |
+| d   | b      | 1           |     | protocol       |   |                     |             |   |   |   |        |     |   |   |   |        |
 | w   |        | vi          | xPE | vi             |   | Wy                  | Wý          |   |   |   |        | dan |   |   |   | 368-01 |
 | PE  | b      | JenPed007   |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |
 | w   |        |             | xNP | Jens           |   | Jens                | Jen        |   |   |   |        | dan |   |   |   | 368-01 |
@@ -59,6 +60,8 @@
 | w   |        | ok          | xCC | og             |   | oc                  | oc          |   |   |   |        | dan |   |   |   | 368-01 |
 | w   |        | kome+skule  | xVB | kommeskullende |   | ko(m)me(skulende)   | ko̅me       |   |   |   | de-sup | dan |   |   |   | 368-01 |
 | p   |        |             |     |                |   | .                   | .           |   |   |   |        | dan |   |   |   | 368-01 |
+| d   | e      | 1           |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |
+| d   | b      | 2           |     | context        |   |                     |             |   |   |   |        |     |   |   |   |        |
 | w   |        | at          | xCS | at             |   | At                  | At          |   |   |   |        | dan |   |   |   | 368-01 |
 | w   |        | vi          | xPE | vi             |   | wy                  | wý          |   |   |   |        | dan |   |   |   | 368-01 |
 | w   |        | mæth        | xAP | med            |   | m(et)               | mꝫ          |   |   |   |        | dan |   |   |   | 368-01 |
@@ -175,6 +178,8 @@
 | w   |        | i           | xAP | i              |   | j                   | j           |   |   |   |        | dan |   |   |   | 368-07 |
 | w   |        | pant        | xNC | pant           |   | pant                | pant        |   |   |   |        | dan |   |   |   | 368-07 |
 | w   |        | foresætje   | xVB | foresætte      |   | for(e) sættæ        | for ſættæ  |   |   |   |        | dan |   |   |   | 368-07 |
+| d   | e      | 2           |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |
+| d   | b      | 3           |     | eschatocol     |   |                     |             |   |   |   |        |     |   |   |   |        |
 | w   |        |             | lat |                |   | Jn                  | Jn          |   |   |   |        | lat |   |   |   | 368-07 |
 | w   |        |             | lat |                |   | Cui(us)             | Cuiꝰ        |   |   |   |        | lat |   |   |   | 368-07 |
 | w   |        |             | lat |                |   | rei                 | rei         |   |   |   |        | lat |   |   |   | 368-07 |
@@ -195,4 +200,5 @@
 | w   |        |             | lat |                |   | d(o)m(ini)ca        | dm̅ca        |   |   |   |        | lat |   |   |   | 368-08 |
 | w   |        |             | lat |                |   | Esto                | Eſto        |   |   |   |        | lat |   |   |   | 368-08 |
 | w   |        |             | lat |                |   | michi               | michi       |   |   |   |        | lat |   |   |   | 368-08 |
+| d   | e      | 3           |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |
 | :e: |        |             |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |

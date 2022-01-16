@@ -42,6 +42,7 @@
 | :s: |        |   |   |   |   |                      |               |   |   |   |   |     |   |   |   |        |
 | pm  | 1r     |   |   |   |   |                      |               |   |   |   |   |     |   |   |   |        |
 | lm  | 355-01 |   |   |   |   |                      |               |   |   |   |   |     |   |   |   |        |
+| d   | b      | 1 |   | protocol  |   |              |               |   |   |   |   |     |   |   |   |        |
 | w   |        |   |   |   |   | Omnibus              | Omnibu       |   |   |   |   | lat |   |   |   | 355-01 |
 | w   |        |   |   |   |   | p(re)sens            | p̅ſen         |   |   |   |   | lat |   |   |   | 355-01 |
 | w   |        |   |   |   |   | scriptu(m)           | ſcriptu̅       |   |   |   |   | lat |   |   |   | 355-01 |
@@ -67,6 +68,8 @@
 | w   |        |   |   |   |   | p(rese)ntibus        | p̅ntıbu       |   |   |   |   | lat |   |   |   | 355-02 |
 | w   |        |   |   |   |   | et                   | et            |   |   |   |   | lat |   |   |   | 355-02 |
 | w   |        |   |   |   |   | futuris              | futurı       |   |   |   |   | lat |   |   |   | 355-02 |
+| d   | e      | 1 |   |   |   |                      |               |   |   |   |   |     |   |   |   |        |
+| d   | b      | 2 |   | context   |   |              |               |   |   |   |   |     |   |   |   |        |
 | w   |        |   |   |   |   | nos                  | no           |   |   |   |   | lat |   |   |   | 355-02 |
 | w   |        |   |   |   |   | a                    | a             |   |   |   |   | lat |   |   |   | 355-02 |
 | w   |        |   |   |   |   | dil(e)c(t)o          | dilc̅o         |   |   |   |   | lat |   |   |   | 355-02 |
@@ -300,6 +303,8 @@
 | w   |        |   |   |   |   | toto                 | toto          |   |   |   |   | lat |   |   |   | 355-14 |
 | w   |        |   |   |   |   | fuerit               | fuerit        |   |   |   |   | lat |   |   |   | 355-14 |
 | w   |        |   |   |   |   | p(er)soluta          | ꝑſoluta       |   |   |   |   | lat |   |   |   | 355-14 |
+| d   | e      | 2 |   |   |   |                      |               |   |   |   |   |     |   |   |   |        |
+| d   | b      | 3 |   | eschatocol   |   |           |               |   |   |   |   |     |   |   |   |        |
 | w   |        |   |   |   |   | Jn                   | Jn            |   |   |   |   | lat |   |   |   | 355-14 |
 | w   |        |   |   |   |   | cuius                | cuiu         |   |   |   |   | lat |   |   |   | 355-14 |
 | w   |        |   |   |   |   | rei                  | reı           |   |   |   |   | lat |   |   |   | 355-14 |
@@ -320,22 +325,22 @@
 | w   |        |   |   |   |   | ve(ne)rabiliu(m)     | ve̅rabılıu̅     |   |   |   |   | lat |   |   |   | 355-15 |
 | w   |        |   |   |   |   | viroru(m)            | viroꝛu̅        |   |   |   |   | lat |   |   |   | 355-15 |
 | w   |        |   |   |   |   | d(omi)noru(m)        | dn̅oru̅         |   |   |   |   | lat |   |   |   | 355-15 |
-| PE  | b      | PedAbb002  |   |   |   |                      |               |   |   |   |   |     |   |   |   |        |
+| PE  | b      | PedAbb002  |   |   |   |             |               |   |   |   |   |     |   |   |   |        |
 | w   |        |   |   |   |   | petri                | petri         |   |   |   |   | lat |   |   |   | 355-15 |
-| PE  | e      | PedAbb002  |   |   |   |                      |               |   |   |   |   |     |   |   |   |        |
+| PE  | e      | PedAbb002  |   |   |   |             |               |   |   |   |   |     |   |   |   |        |
 | PL  | b      |   |   |   |   |                      |               |   |   |   |   |     |   |   |   |        |
 | w   |        |   |   |   |   | Ringstaden(sis)      | Ringﬅade̅     |   |   |   |   | lat |   |   |   | 355-15 |
 | PL  | e      |   |   |   |   |                      |               |   |   |   |   |     |   |   |   |        |
-| PE  | b      | JakAbb002  |   |   |   |                      |               |   |   |   |   |     |   |   |   |        |
+| PE  | b      | JakAbb002  |   |   |   |             |               |   |   |   |   |     |   |   |   |        |
 | w   |        |   |   |   |   | Jacobj               | Jacobȷ        |   |   |   |   | lat |   |   |   | 355-15 |
-| PE  | e      | JakAbb002  |   |   |   |                      |               |   |   |   |   |     |   |   |   |        |
+| PE  | e      | JakAbb002  |   |   |   |             |               |   |   |   |   |     |   |   |   |        |
 | PL  | b      |   |   |   |   |                      |               |   |   |   |   |     |   |   |   |        |
 | w   |        |   |   |   |   | nestweden(sis)       | neﬅwede̅      |   |   |   |   | lat |   |   |   | 355-15 |
 | PL  | e      |   |   |   |   |                      |               |   |   |   |   |     |   |   |   |        |
 | w   |        |   |   |   |   | et                   | et            |   |   |   |   | lat |   |   |   | 355-15 |
-| PE  | b      | MadAbb001  |   |   |   |                      |               |   |   |   |   |     |   |   |   |        |
+| PE  | b      | MadAbb001  |   |   |   |             |               |   |   |   |   |     |   |   |   |        |
 | w   |        |   |   |   |   | mathie               | mathıe        |   |   |   |   | lat |   |   |   | 355-15 |
-| PE  | e      | MadAbb001  |   |   |   |                      |               |   |   |   |   |     |   |   |   |        |
+| PE  | e      | MadAbb001  |   |   |   |             |               |   |   |   |   |     |   |   |   |        |
 | w   |        |   |   |   |   | de                   | de            |   |   |   |   | lat |   |   |   | 355-15 |
 | w   |        |   |   |   |   | paraclito            | paraclıto     |   |   |   |   | lat |   |   |   | 355-15 |
 | w   |        |   |   |   |   | abbatu(m)            | abbatu̅        |   |   |   |   | lat |   |   |   | 355-15 |
@@ -355,4 +360,5 @@
 | w   |        |   |   |   |   | martinj              | martinj       |   |   |   |   | lat |   |   |   | 355-16 |
 | w   |        |   |   |   |   | confessoris          | confeori    |   |   |   |   | lat |   |   |   | 355-16 |
 | p   |        |   |   |   |   | .                    | .             |   |   |   |   | lat |   |   |   | 355-16 |
+| d   | e      | 3 |   |   |   |                      |               |   |   |   |   |     |   |   |   |        |
 | :e: |        |   |   |   |   |                      |               |   |   |   |   |     |   |   |   |        |

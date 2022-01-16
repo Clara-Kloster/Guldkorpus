@@ -42,6 +42,7 @@
 | :s: |        |               |     |                |   |                |               |   |   |   |        |     |   |   |    |               |
 | pm  | 1r     |               |     |                |   |                |               |   |   |   |        |     |   |   |    |               |
 | lm  | 375-01 |               |     |                |   |                |               |   |   |   |        |     |   |   |    |               |
+| d   | b      | 1             |     | protocol       |   |                |               |   |   |   |        |     |   |   |    |               |
 | w   |        | al            | xAJ | alle           |   | Alle           | Alle          |   |   |   |        | dan |   |   |    |        375-01 |
 | w   |        | man           | xNC | mænd           |   | men            | men           |   |   |   |        | dan |   |   |    |        375-01 |
 | w   |        | thænne        | xDD | dette          |   | th(ette)       | thͭꝭ           |   |   |   | is-sup | dan |   |   |    |        375-01 |
@@ -71,6 +72,8 @@
 | w   |        | nærværende    | xAJ | nærværende     |   | nær(værende)   | nær          |   |   |   | de-sup | dan |   |   |    |        375-02 |
 | w   |        | ok            | xCC | og             |   | oc             | oc            |   |   |   |        | dan |   |   |    |        375-02 |
 | w   |        | kome+skule    | xVB | kommeskullende |   | komescu(lende) | komescu      |   |   |   | de-sup | dan |   |   |    |        375-02 |
+| d   | e      | 1             |     |                |   |                |               |   |   |   |        |     |   |   |    |               |
+| d   | b      | 2             |     | context        |   |                |               |   |   |   |        |     |   |   |    |               |
 | w   |        | at            | xCS | at             |   | at             | at            |   |   |   |        | dan |   |   |    |        375-02 |
 | w   |        | jak           | xPE | jeg            |   | jæch           | ȷæch          |   |   |   |        | dan |   |   |    |        375-02 |
 | w   |        | vitherkænne   | xVB | vederkendes    |   | with(e)rkennes | withꝝkenne   |   |   |   |        | dan |   |   |    |        375-02 |
@@ -131,6 +134,8 @@
 | w   |        | sjal          | xNC | sjæl           |   | siæll          | ſıæll         |   |   |   |        | dan |   |   |    |        375-04 |
 | w   |        | guth          | xNC | Gud            |   | gudh           | gudh          |   |   |   |        | dan |   |   |    |        375-04 |
 | w   |        | have          | xVB | have           |   | hauæ           | hauæ          |   |   |   |        | dan |   |   |    |        375-04 |
+| d   | e      | 2             |     |                |   |                |               |   |   |   |        |     |   |   |    |               |
+| d   | b      | 3             |     | eschatocol     |   |                |               |   |   |   |        |     |   |   |    |               |
 | w   |        | til           | xAP | til            |   | Til            | Tıl           |   |   |   |        | dan |   |   |    |        375-04 |
 | w   |        | ytermere      | xAJ | ydermere       |   | yt(er)me(re)   | ẏtme        |   |   |   |        | dan |   |   |    |        375-04 |
 | lm  | 375-05 |               |     |                |   |                |               |   |   |   |        |     |   |   |    |               |
@@ -191,4 +196,5 @@
 | w   |        |               | lat |                |   | an(te)         | a̅            |   |   |   |        | lat |   |   |    |        375-07 |
 | w   |        |               | lat |                |   | d(o)m(ini)cam  | dm̅ca         |   |   |   |        | lat |   |   |    |        375-07 |
 | w   |        |               | lat |                |   | T(ri)nitatis   | Tnitatı     |   |   |   |        | lat |   |   |    |        375-07 |
+| d   | e      | 3             |     |                |   |                |               |   |   |   |        |     |   |   |    |               |
 | :e: |        |               |     |                |   |                |               |   |   |   |        |     |   |   |    |               |

@@ -43,8 +43,9 @@ ASK: Remember to replace XML-tags with correct notation.
 | :s: |        |             |     |            |   |                 |              |   |   |   |   |     |   |   |   |               |
 | pm  | 1r     |             |     |            |   |                 |              |   |   |   |   |     |   |   |   |               |
 | lm  | 366-01 |             |     |            |   |                 |              |   |   |   |   |     |   |   |   |               |
+| d   | b      | 1           |     | context    |   |                 |              |   |   |   |   |     |   |   |    |               |
 | w   |        | gøre        | xVB | gjort      |   | giort           | gıort        |   |   |   |   | dan |   |   |   |        366-01 |
-| w   |        | have        | xVB | haver        |   | haver           | haver        |   |   |   |   | dan |   |   |   |        366-01 |
+| w   |        | have        | xVB | haver      |   | haver           | haver        |   |   |   |   | dan |   |   |   |        366-01 |
 | w   |        | sva         | xAV | så         |   | sa              | ſa           |   |   |   |   | dan |   |   |   |        366-01 |
 | w   |        | at          | xCS | at         |   | at              | at           |   |   |   |   | dan |   |   |   |        366-01 |
 | w   |        |             | xUA |            |   | 000             | 000          |   |   |   |   | dan |   |   |   |        366-01 |
@@ -146,6 +147,8 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | ytermere    | xAJ | ydermere   |   | ydhermeere      | ydhermeere   |   |   |   |   | dan |   |   |   |        366-08 |
 | w   |        | forvaring   | xNC | forvaring  |   | farwari(n)gh    | farwarı̅gh    |   |   |   |   | dan |   |   |   |        366-08 |
 | lm  | 366-09 |             |     |            |   |                 |              |   |   |   |   |     |   |   |   |               |
+| d   | e      | 1           |     |            |   |                 |              |   |   |   |   |     |   |   |   |               |
+| d   | b      | 2           |     | eschatocol |   |                 |              |   |   |   |   |     |   |   |   |               |
 | w   |        | tha         | xAV | da         |   | tha             | tha          |   |   |   |   | dan |   |   |   |        366-09 |
 | w   |        | hængje      | xVB | hænger     |   | he(n)ghe{r}     | he̅ghe{r}     |   |   |   |   | dan |   |   |   |        366-09 |
 | w   |        | fornævnd    | xAJ | fornævnte  |   | far(nefnde)     | farͩͤ          |   |   |   |   | dan |   |   |   |        366-09 |
@@ -218,4 +221,5 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | sankte      | xAJ | sankte     |   | sante           | ſante        |   |   |   |   | dan |   |   |   |        366-13 |
 | w   |        |             | xNP | Matthias   |   | mattias         | mattia      |   |   |   |   | dan |   |   |   |        366-13 |
 | w   |        | dagh        | xNC | dag        |   | dach            | dach         |   |   |   |   | dan |   |   |   |        366-13 |
+| d   | e      | 2           |     |            |   |                 |              |   |   |   |   |     |   |   |    |               |
 | :e: |        |             |     |            |   |                 |              |   |   |   |   |     |   |   |   |               |

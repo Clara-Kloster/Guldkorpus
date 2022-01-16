@@ -42,6 +42,7 @@
 | :s: |        |              |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |
 | pm  | 1r     |              |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |
 | lm  | 373-01 |              |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |
+| d   | b      | 1            |     | protocol      |   |                     |              |   |   |   |   |     |   |   |    |               |
 | w   |        | al           | xAJ | alle          |   | Alle                | lle         |   |   |   |   | dan |   |   |    |        373-01 |
 | w   |        | man          | xNC | mænd          |   | men                 | me          |   |   |   |   | dan |   |   |    |        373-01 |
 | w   |        | thænne       | xDD | dette         |   | thette              | thette       |   |   |   |   | dan |   |   |    |        373-01 |
@@ -57,6 +58,8 @@
 | w   |        |              | xNP | Krags         |   | krags               | krag        |   |   |   |   | dan |   |   |    |        373-01 |
 | w   |        | dotter       | xNC | datter        |   | Dott(er)            | Dott        |   |   |   |   | dan |   |   |    |        373-01 |
 | PE  | e      | CecPed002    |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |
+| d   | e      | 1            |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |
+| d   | b      | 2            |     | context       |   |                     |              |   |   |   |   |     |   |   |    |               |
 | w   |        | at           | xCS | at            |   | at                  | at           |   |   |   |   | dan |   |   |    |        373-01 |
 | w   |        | jak          | xPE | jeg           |   | jech                | ȷech         |   |   |   |   | dan |   |   |    |        373-01 |
 | w   |        | af           | xAP | af            |   | aff                 | aff          |   |   |   |   | dan |   |   |    |        373-01 |
@@ -356,6 +359,8 @@
 | w   |        | æller        | xCC | eller         |   | ell(e)r             | el̅lr         |   |   |   |   | dan |   |   |    |        373-19 |
 | w   |        | gensæghjelse | xNC | gensigelse    |   | gensielsse          | genſielſſe   |   |   |   |   | dan |   |   |    |        373-19 |
 | p   |        |              |     |               |   | /                   | /            |   |   |   |   | dan |   |   |    |        373-19 |
+| d   | e      | 2            |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |
+| d   | b      | 3            |     | eschatocol    |   |                     |              |   |   |   |   |     |   |   |    |               |
 | w   |        | til          | xAP | til           |   | till                | tıll         |   |   |   |   | dan |   |   |    |        373-19 |
 | w   |        | hvær         | xPI | hvis          |   | hwes                | hwe         |   |   |   |   | dan |   |   |    |        373-19 |
 | w   |        | thing        | xNC | tings         |   | things              | thıngs       |   |   |   |   | dan |   |   |    |        373-19 |
@@ -417,4 +422,5 @@
 | w   |        |              | lat |               |   | j(n)ue(n)c(i)o(n)is | ȷ̅ue̅coı̅s      |   |   |   |   | lat |   |   |    |        373-22 |
 | w   |        |              | lat |               |   | s(anc)te            | st̅e          |   |   |   |   | lat |   |   |    |        373-22 |
 | w   |        |              | lat |               |   | cruc(is)            | crucꝭ        |   |   |   |   | lat |   |   |    |        373-22 |
+| d   | e      | 3            |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |
 | :e: |        |              |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |

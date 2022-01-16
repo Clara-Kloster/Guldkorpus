@@ -42,6 +42,7 @@
 | :s: |        |               |     |                |   |                 |              |   |   |   |   |     |   |   |    |               |
 | pm  | 1r     |               |     |                |   |                 |              |   |   |   |   |     |   |   |    |               |
 | lm  | 365-01 |               |     |                |   |                 |              |   |   |   |   |     |   |   |    |               |
+| d   | b      | 1             |     | protocol       |   |                 |              |   |   |   |   |     |   |   |    |               |
 | w   |        | al            | xAJ | alle           |   | Allæ            | Allæ         |   |   |   |   | dan |   |   |    |        365-01 |
 | w   |        | man           | xNC | mænd           |   | mæ(n)           | mæ̅           |   |   |   |   | dan |   |   |    |        365-01 |
 | w   |        | thænne        | xDD | dette          |   | th(e)ttæ        | thttæ        |   |   |   |   | dan |   |   |    |        365-01 |
@@ -113,6 +114,8 @@
 | w   |        | ok            | xAV | og             |   | oc              | oc           |   |   |   |   | dan |   |   |    |        365-03 |
 | w   |        | kome+skule    | xVB | kommeskullende |   | ko(m)meskulæ    | ko̅meſkulæ    |   |   |   |   | dan |   |   |    |        365-03 |
 | p   |        |               |     |                |   | /               | /            |   |   |   |   | dan |   |   |    |        365-03 |
+| d   | e      | 1             |     |                |   |                 |              |   |   |   |   |     |   |   |    |               |
+| d   | b      | 2             |     | context        |   |                 |              |   |   |   |   |     |   |   |    |               |
 | w   |        | at            | xCS | at             |   | at              | at           |   |   |   |   | dan |   |   |    |        365-03 |
 | w   |        | ar            | xNC | år             |   | aar             | aar          |   |   |   |   | dan |   |   |    |        365-03 |
 | w   |        | æfter         | xAP | efter          |   | æfft(er)        | æfft        |   |   |   |   | dan |   |   |    |        365-03 |
@@ -251,6 +254,8 @@
 | w   |        | tve           | xNA | to             |   | two             | two          |   |   |   |   | dan |   |   |    |        365-10 |
 | w   |        | løthigh       | xAJ | lødig          |   | lød(ig)         | lødw̸         |   |   |   |   | dan |   |   |    |        365-10 |
 | w   |        | mark          | xNC | mark           |   | m(a)rk          | mrk         |   |   |   |   | dan |   |   |    |        365-10 |
+| d   | e      | 2             |     |                |   |                 |              |   |   |   |   |     |   |   |    |               |
+| d   | b      | 3             |     | eschatocol     |   |                 |              |   |   |   |   |     |   |   |    |               |
 | w   |        | thænne        | xDD | dette          |   | Thættæ          | Thættæ       |   |   |   |   | dan |   |   |    |        365-10 |
 | w   |        | hær           | xAV | her            |   | hær             | hær          |   |   |   |   | dan |   |   |    |        365-10 |
 | w   |        | høre          | xVB | hørte          |   | hørthe          | høꝛthe       |   |   |   |   | dan |   |   |    |        365-10 |
@@ -277,4 +282,5 @@
 | w   |        |               | lat |                |   | quo             | quo          |   |   |   |   | lat |   |   |    |        365-11 |
 | w   |        |               | lat |                |   | supra           | ſupra        |   |   |   |   | lat |   |   |    |        365-11 |
 | p   |        |               |     |                |   | ///             | ///          |   |   |   |   | dan |   |   |    |        365-11 |
+| d   | e      | 3             |     |                |   |                 |              |   |   |   |   |     |   |   |    |               |
 | :e: |        |               |     |                |   |                 |              |   |   |   |   |     |   |   |    |               |

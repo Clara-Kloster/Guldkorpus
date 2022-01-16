@@ -42,11 +42,12 @@ ASK: Remember to replace XML-tags with correct notation.
 | :s: |        |             |     |                    |   |                     |                  |   |   |   |                       |         |   |   |   |        |
 | pm  |     1r |             |     |                    |   |                     |                  |   |   |   |                       |         |   |   |   |        |
 | lm  | 369-01 |             |     |                    |   |                     |                  |   |   |   |                       |         |   |   |   |        |
+| d   | b      | 1           |     | protocol           |   |                     |                  |   |   |   |                       |         |   |   |   |        |
 | w   |        | al          | xAJ | alle               |   | Alle                | Alle             |   |   |   |                       | dan     |   |   |   | 369-01 |
 | w   |        | man         | xNC | mænd               |   | men                 | me              |   |   |   |                       | dan     |   |   |   | 369-01 |
 | w   |        | thænne      | xDD | dette              |   | th(et)te            | thꝫte            |   |   |   |                       | dan     |   |   |   | 369-01 |
 | w   |        | brev        | xNC | brev               |   | breff               | breff            |   |   |   |                       | dan     |   |   |   | 369-01 |
-| w   |        | se          | xVB | seer                |   | seer                | ſeer             |   |   |   |                       | dan     |   |   |   | 369-01 |
+| w   |        | se          | xVB | seer               |   | seer                | ſeer             |   |   |   |                       | dan     |   |   |   | 369-01 |
 | w   |        | æller       | xCC | eller              |   | ell(e)r             | ell̅r             |   |   |   |                       | dan     |   |   |   | 369-01 |
 | w   |        | høre        | xVB | hører              |   | hør(e)r             | hørr            |   |   |   |                       | dan     |   |   |   | 369-01 |
 | w   |        | læse        | xVB | læse               |   | læse                | læſe             |   |   |   |                       | dan     |   |   |   | 369-01 |
@@ -73,6 +74,8 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | ok          | xCC | og                 |   | oc                  | oc               |   |   |   |                       | dan     |   |   |   | 369-02 |
 | w   |        | kome        | xVB | komme              |   | ko(m)me             | ko̅me             |   |   |   |                       | dan     |   |   |   | 369-02 |
 | w   |        | skule       | xVB | skulle             |   | scule               | ſcule            |   |   |   |                       | dan     |   |   |   | 369-02 |
+| d   | e      | 1           |     |                    |   |                     |                  |   |   |   |                       |         |   |   |   |        |
+| d   | b      | 2           |     | context            |   |                     |                  |   |   |   |                       |         |   |   |   |        |
 | w   |        | at          | xCS | at                 |   | at                  | at               |   |   |   |                       | dan     |   |   |   | 369-02 |
 | w   |        | jak         | xPE | jeg                |   | jech                | ȷech             |   |   |   |                       | dan     |   |   |   | 369-02 |
 | w   |        | vitherkænne | xVB | vederkender        |   | veth(e)rkæ(n)ner    | veth̅rkæ̅ner       |   |   |   |                       | dan     |   |   |   | 369-02 |
@@ -220,6 +223,8 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | æller       | xCC | eller              |   | ell(e)r             | el̅lr             |   |   |   |                       | dan     |   |   |   | 369-10 |
 | w   |        | landslogh   | xNC | landslov           |   | landzlow            | landzlow         |   |   |   |                       | dan     |   |   |   | 369-10 |
 | p   |        |             |     |                    |   | /                   | /                |   |   |   |                       | dan     |   |   |   | 369-10 |
+| d   | e      | 2           |     |                    |   |                     |                  |   |   |   |                       |         |   |   |   |        |
+| d   | b      | 3           |     | eschatocol         |   |                     |                  |   |   |   |                       |         |   |   |   |        |
 | w   |        | til         | xAP | til                |   | til                 | til              |   |   |   |                       | dan     |   |   |   | 369-10 |
 | w   |        | forvaring   | xNC | forvaring          |   | forwaringh          | forwaringh       |   |   |   |                       | dan     |   |   |   | 369-10 |
 | lm  | 369-11 |             |     |                    |   |                     |                  |   |   |   |                       |         |   |   |   |        |
@@ -287,4 +292,5 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        |             | lat |                    |   | s(anc)ti            | ſt̅ı              |   |   |   |                       | lat     |   |   |   | 369-14 |
 | w   |        |             | lat |                    |   | lucij               | lucij            |   |   |   |                       | lat     |   |   |   | 369-14 |
 | w   |        |             | lat |                    |   | m(artyris)          | mᷓͬꝭ               |   |   |   | final sup             | lat     |   |   |   | 369-14 |
+| d   | e      | 3           |     |                    |   |                     |                  |   |   |   |                       |         |   |   |   |        |
 | :e: |        |             |     |                    |   |                     |                  |   |   |   |                       |         |   |   |   |        |

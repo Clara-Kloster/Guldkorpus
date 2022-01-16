@@ -41,6 +41,7 @@
 *** Transcription
 | :s: |        |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |
 | pm  | 1r     |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |
+| d   | b      | 1           |     | protocol    |   |                    |                 |   |   |   |   |     |   |   |   |               |
 | lm  | 326-01 |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |
 | w   |        | al          | xAJ | Alle        |   | Allæ               | Allæ            |   |   |   |   | dan |   |   |    |        326-01 |
 | w   |        | man         | xNC | mænd        |   | mæn                | mæ             |   |   |   |   | dan |   |   |    |        326-01 |
@@ -49,7 +50,7 @@
 | w   |        | høre        | xVB | hører       |   | hørær              | hørær           |   |   |   |   | dan |   |   |    |        326-01 |
 | w   |        | læse        | xVB | læst        |   | læsit              | læſıt           |   |   |   |   | dan |   |   |    |        326-01 |
 | w   |        | æller       | xCC | æller       |   | ællæs              | ællæ           |   |   |   |   | dan |   |   |    |        326-01 |
-| w   |        | se          | xVB | seer         |   | seer               | ſeer            |   |   |   |   | dan |   |   |    |        326-01 |
+| w   |        | se          | xVB | seer        |   | seer               | ſeer            |   |   |   |   | dan |   |   |    |        326-01 |
 | w   |        | helse       | xVB | hilser      |   | Helsær             | Helſær          |   |   |   |   | dan |   |   |    |        326-01 |
 | w   |        | jak         | xPE | jeg         |   | jæk                | ȷæk             |   |   |   |   | dan |   |   |    |        326-01 |
 | PE  | b      | AndJak001   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |
@@ -79,8 +80,10 @@
 | w   |        | thænne      | xDD | dette       |   | th(et)tæ           | thꝫtæ           |   |   |   |   | dan |   |   |    |        326-02 |
 | w   |        | min         | xDP | mit         |   | myt                | myt             |   |   |   |   | dan |   |   |    |        326-02 |
 | w   |        | open        | xAJ | åbne        |   | opnæ               | opnæ            |   |   |   |   | dan |   |   |    |        326-02 |
-| w   |        | brev        | xNC | brev        |   | ⟨breff⟩            | ⟨breff⟩         |   |   |   |   | dan |   |   |    |        326-02 |
+| w   |        | brev        | xNC | brev        |   | ⟨breff⟩             | ⟨breff⟩         |   |   |   |   | dan |   |   |    |        326-02 |
 | w   |        | at          | xCS | at          |   | at                 | at              |   |   |   |   | dan |   |   |    |        326-02 |
+| d   | e      | 1           |     |             |   |                    |                 |   |   |   |   |     |   |   |   |               |
+| d   | b      | 2           |     | context     |   |                    |                 |   |   |   |   |     |   |   |   |               |
 | w   |        | jak         | xPE | jeg         |   | jæk                | ȷæk             |   |   |   |   | dan |   |   |    |        326-02 |
 | w   |        | vitherkænne | xVB | vederkendes |   | vedhærkæ(n)næs     | vedhærkæ̅næ     |   |   |   |   | dan |   |   |    |        326-02 |
 | w   |        | jak         | xPE | mig         |   | myk                | myk             |   |   |   |   | dan |   |   |    |        326-02 |
@@ -299,6 +302,8 @@
 | w   |        | sum         | xRP | som         |   | swm                | ſwm             |   |   |   |   | dan |   |   |    |        326-11 |
 | w   |        | landslogh   | xNC | landsloven  |   | lansloghæn         | lanſloghæ      |   |   |   |   | dan |   |   |    |        326-11 |
 | w   |        | utvise      | xVB | udviser     |   | vt visær           | vt vıſær        |   |   |   |   | dan |   |   |    |        326-11 |
+| d   | e      | 2           |     |             |   |                    |                 |   |   |   |   |     |   |   |   |               |
+| d   | b      | 3           |     | eschatocol  |   |                    |                 |   |   |   |   |     |   |   |   |               |
 | w   |        |             | lat |             |   | Jn                 | Jn              |   |   |   |   | lat |   |   |    |        326-11 |
 | w   |        |             | lat |             |   | cui(us)            | cuı            |   |   |   |   | lat |   |   |    |        326-11 |
 | w   |        |             | lat |             |   | rej                | reȷ             |   |   |   |   | lat |   |   |    |        326-11 |
@@ -397,4 +402,5 @@
 | w   |        |             | lat |             |   | die                | dıe             |   |   |   |   | lat |   |   |    |        326-14 |
 | w   |        |             | lat |             |   | om(n)i             | om̅ı             |   |   |   |   | lat |   |   |    |        326-14 |
 | w   |        |             | lat |             |   | s(anc)tor(um)      | ſto̅ꝝ            |   |   |   |   | lat |   |   |    |        326-14 |
+| d   | e      | 3           |     |             |   |                    |                 |   |   |   |   |     |   |   |   |               |
 | :e: |        |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |

@@ -42,6 +42,7 @@
 | :s: |        |              |     |                |   |                    |              |   |   |   |        |     |   |   |   |        |
 | pm  | 1r     |              |     |                |   |                    |              |   |   |   |        |     |   |   |   |        |
 | lm  | 381-01 |              |     |                |   |                    |              |   |   |   |        |     |   |   |   |        |
+| d   | b      | 1            |     | protocol       |   |                    |              |   |   |   |        |     |   |   |   |        |
 | w   |        | al           | xAJ | alle           |   | Allæ               | Allæ         |   |   |   |        | dan |   |   |   | 381-01 |
 | w   |        | man          | xNC | mænd           |   | men                | men          |   |   |   |        | dan |   |   |   | 381-01 |
 | w   |        | thænne       | xDD | dette          |   | th(ette)           | thꝫͤ          |   |   |   |        | dan |   |   |   | 381-01 |
@@ -74,6 +75,8 @@
 | w   |        | ok           | xCC | og             |   | oc                 | oc           |   |   |   |        | dan |   |   |   | 381-02 |
 | w   |        | kome+skule   | xVB | kommeskullende |   | ko(m)mescu(luende) | ko̅meſcu     |   |   |   | de-sup | dan |   |   |   | 381-02 |
 | w   |        | thæn         | xCS | det            |   | th(et)             | thꝫ          |   |   |   |        | dan |   |   |   | 381-02 |
+| d   | e      | 1            |     |                |   |                    |              |   |   |   |        |     |   |   |   |        |
+| d   | b      | 2            |     | content        |   |                    |              |   |   |   |        |     |   |   |   |        |
 | w   |        | jak          | xPE | jeg            |   | jech               | ȷech         |   |   |   |        | dan |   |   |   | 381-02 |
 | w   |        | vitherkænne  | xVB | vederkender    |   | weth(e)rke(n)ner   | weth̅ꝛke̅ner   |   |   |   |        | dan |   |   |   | 381-02 |
 | w   |        | jak          | xPE | mig            |   | mik                | mík          |   |   |   |        | dan |   |   |   | 381-02 |
@@ -226,6 +229,8 @@
 | w   |        | hinder       | xNC | hinder         |   | hinder             | hindeꝛ       |   |   |   |        | dan |   |   |   | 381-11 |
 | w   |        | æller        | xCC | eller          |   | æller              | ælleꝛ        |   |   |   |        | dan |   |   |   | 381-11 |
 | w   |        | gensæghjelse | xNC | gensigelse     |   | gensielsæ          | genſielſæ    |   |   |   |        | dan |   |   |   | 381-11 |
+| d   | e      | 2            |     |                |   |                    |              |   |   |   |        |     |   |   |   |        |
+| d   | b      | 3            |     | eschatocol     |   |                    |              |   |   |   |        |     |   |   |   |        |
 | w   |        |              | lat |                |   | Jn                 | Jn           |   |   |   |        | lat |   |   |   | 381-11 |
 | w   |        |              | lat |                |   | cui(us)            | cuiꝰ         |   |   |   |        | lat |   |   |   | 381-11 |
 | w   |        |              | lat |                |   | r(e)i              | rͤi           |   |   |   |        | lat |   |   |   | 381-11 |
@@ -290,4 +295,5 @@
 | w   |        |              | lat |                |   | fer(i)a            | fera        |   |   |   |        | lat |   |   |   | 381-14 |
 | w   |        |              | lat |                |   | q(ui)nta           | qnta        |   |   |   |        | lat |   |   |   | 381-14 |
 | w   |        |              | lat |                |   | pasche             | paſche       |   |   |   |        | lat |   |   |   | 381-14 |
+| d   | e      | 3            |     |                |   |                    |              |   |   |   |        |     |   |   |   |        |
 | :e: |        |              |     |                |   |                    |              |   |   |   |        |     |   |   |   |        |

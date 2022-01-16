@@ -42,6 +42,7 @@
 | :s: |        |              |     |               |   |                                          |                                |   |   |   |   |     |   |   |    |        |
 | pm  |     1r |              |     |               |   |                                          |                                |   |   |   |   |     |   |   |    |        |
 | lm  | 376-01 |              |     |               |   |                                          |                                |   |   |   |   |     |   |   |    |        |
+| d   | b      | 1            |     | protocol      |   |                                          |                                |   |   |   |   |     |   |   |    |        |
 | w   |        | al           | xAJ | alle          |   | Alle                                     | Alle                           |   |   |   |   | dan |   |   |    | 376-01 |
 | w   |        | man          | xNC | mænd          |   | mæn                                      | mæ                            |   |   |   |   | dan |   |   |    | 376-01 |
 | w   |        | thænne       | xDD | dette         |   | thette                                   | thette                         |   |   |   |   | dan |   |   |    | 376-01 |
@@ -97,6 +98,8 @@
 | w   |        | var          | xDP | vort          |   | wort                                     | wort                           |   |   |   |   | dan |   |   |    | 376-03 |
 | w   |        | open         | xAJ | åbne          |   | obne                                     | obne                           |   |   |   |   | dan |   |   |    | 376-03 |
 | w   |        | brev         | xNC | brev          |   | breff                                    | breff                          |   |   |   |   | dan |   |   |    | 376-03 |
+| d   | e      | 1            |     |               |   |                                          |                                |   |   |   |   |     |   |   |    |        |
+| d   | b      | 2            |     | context       |   |                                          |                                |   |   |   |   |     |   |   |    |        |
 | w   |        | at           | xCS | at            |   | at                                       | at                             |   |   |   |   | dan |   |   |    | 376-03 |
 | w   |        | æfter        | xAV | efter         |   | effter                                   | effteꝛ                         |   |   |   |   | dan |   |   |    | 376-03 |
 | w   |        | thi          | xAV | thi           |   | thy                                      | thy                            |   |   |   |   | dan |   |   |    | 376-03 |
@@ -425,6 +428,8 @@
 | w   |        | fornævnd     | xAJ | fornævnte     |   | for(nefnde)                              | forͩͤ(.)                         |   |   |   |   | dan |   |   |    | 376-20 |
 | lm  | 376-21 |              |     |               |   |                                          |                                |   |   |   |   |     |   |   |    |        |
 | w   |        | residents    | xNC |               |   | residencia(m)                            | reſıdencıa̅                     |   |   |   |   | lat |   |   |    | 376-21 |
+| d   | e      | 2            |     |               |   |                                          |                                |   |   |   |   |     |   |   |    |        |
+| d   | b      | 3            |     | eschatocol    |   |                                          |                                |   |   |   |   |     |   |   |    |        |
 | w   |        |              | lat |               |   | Jn                                       | Jn                             |   |   |   |   | lat |   |   |    | 376-21 |
 | w   |        |              | lat |               |   | c(uius)                                  | c                             |   |   |   |   | lat |   |   |    | 376-21 |
 | w   |        |              | lat |               |   | rei                                      | rei                            |   |   |   |   | lat |   |   |    | 376-21 |
@@ -446,4 +451,5 @@
 | w   |        |              | lat |               |   | beati                                    | beati                          |   |   |   |   | lat |   |   |    | 376-22 |
 | w   |        |              | lat |               |   | martinj                                  | martinj                        |   |   |   |   | lat |   |   |    | 376-22 |
 | w   |        |              | lat |               |   | Episcopi                                 | Epiſcopi                       |   |   |   |   | lat |   |   |    | 376-22 |
+| d   | e      | 3            |     |               |   |                                          |                                |   |   |   |   |     |   |   |    |        |
 | :e: |        |              |     |               |   |                                          |                                |   |   |   |   |     |   |   |    |        |

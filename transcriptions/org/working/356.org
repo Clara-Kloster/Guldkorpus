@@ -42,6 +42,7 @@
 | :s: |        |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | pm  | 1r     |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | lm  | 356-01 |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
+| d   | b      | 1           |      | protocol       |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        | thæn        | xPE  | det            |   | Th(et)              | Thꝫ          |   |   |   |                  | dan |   |   |    |        356-01 |
 | w   |        | skule       | xVB  | skal           |   | skal                | ſkal         |   |   |   |                  | dan |   |   |    |        356-01 |
 | w   |        | al          | xAJ  | alle           |   | alle                | alle         |   |   |   |                  | dan |   |   |    |        356-01 |
@@ -52,6 +53,8 @@
 | w   |        | ok          | xCC  | og             |   | ok                  | ok           |   |   |   |                  | dan |   |   |    |        356-01 |
 | w   |        | kome+skule  | xVB  | kommeskullende |   | komesculendæ        | komeſculendæ |   |   |   |                  | dan |   |   |    |        356-01 |
 | w   |        | at          | xCS  | at             |   | ath                 | ath          |   |   |   |                  | dan |   |   |    |        356-01 |
+| d   | e      | 1           |      |                |   |                     |              |   |   |   |                  |     |   |   |   |               |
+| d   | b      | 2           |      | context        |   |                     |              |   |   |   |                  |     |   |   |   |               |
 | w   |        | jak         | xPE  | jeg            |   | Jech                | Jech         |   |   |   |                  | dan |   |   |    |        356-01 |
 | PE  | b      | AndJak001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        |             | xNP  | Anders         |   | anders              | ander       |   |   |   |                  | dan |   |   |    |        356-01 |
@@ -372,6 +375,8 @@
 | w   |        | sum         | xCS  | som            |   | som                 | ſom          |   |   |   |                  | dan |   |   |    |        356-17 |
 | w   |        | for         | xAP  | fore           |   | for(e)              | for         |   |   |   |                  | dan |   |   |    |        356-17 |
 | w   |        | sta         | xVB  | står           |   | stor                | ſtoꝛ         |   |   |   |                  | dan |   |   |    |        356-17 |
+| d   | e      | 2           |      |                |   |                     |              |   |   |   |                  |     |   |   |   |               |
+| d   | b      | 3           |      | eschatocol     |   |                     |              |   |   |   |                  |     |   |   |   |               |
 | w   |        |             | lat  |                |   | Jn                  | Jn           |   |   |   |                  | lat |   |   |    |        356-17 |
 | w   |        |             | lat  |                |   | Cui(us)             | Cuıꝰ         |   |   |   |                  | lat |   |   |    |        356-17 |
 | w   |        |             | lat  |                |   | rei                 | reı          |   |   |   |                  | lat |   |   |    |        356-17 |
@@ -420,4 +425,5 @@
 | w   |        |             | lat  |                |   | s(anc)ti            | ſ̅tı          |   |   |   |                  | lat |   |   |    |        356-19 |
 | lm  | 356-20 |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        |             | lat  |                |   | pauli               | paulı        |   |   |   |                  | lat |   |   |    |        356-19 |
+| d   | e      | 3           |      |                |   |                     |              |   |   |   |                  |     |   |   |   |               |
 | :e: |        |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |

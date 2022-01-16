@@ -42,6 +42,7 @@ AM 187 8vo
 | :s: |        |              |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |
 | pm  | 1r     |              |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |
 | lm  | 340-01 |              |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |
+| d   | b      | 1            |     | protocol       |   |                   |               |   |   |   |   |     |   |   |   |               |
 | w   |        | jak          | xPE | Jeg            |   | Jæk               | Jæk           |   |   |   |   | dan |   |   |   |        340-01 |
 | PE  | b      | AnnPed001    |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |
 | w   |        |              |     | Anne           |   | annæ              | annæ          |   |   |   |   | dan |   |   |   |        340-01 |
@@ -79,6 +80,8 @@ AM 187 8vo
 | w   |        | nærværende   | xAJ | nærværende     |   | narwæren¦dæ       | narwæren¦dæ   |   |   |   |   | dan |   |   |   | 340-02—340-03 |
 | w   |        | ok           | xCC | og             |   | oc                | oc            |   |   |   |   | dan |   |   |   |        340-03 |
 | w   |        | kome+skule   | xVB | kommeskullende |   | ko(m)me skulendæ  | ko̅me ſkulendæ |   |   |   |   | dan |   |   |   |        340-03 |
+| d   | e      | 1            |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |
+| d   | b      | 2            |     | context        |   |                   |               |   |   |   |   |     |   |   |   |               |
 | w   |        | at           | xCS | at             |   | at                | at            |   |   |   |   | dan |   |   |   |        340-03 |
 | w   |        | jak          | xPE | jeg            |   | iæk               | iæk           |   |   |   |   | dan |   |   |   |        340-03 |
 | w   |        | vitherkænne  | xVB | vederkendes    |   | weth(er) ke(n)nes | weth ke̅nes   |   |   |   |   | dan |   |   |   |        340-03 |
@@ -127,7 +130,7 @@ AM 187 8vo
 | w   |        | kloster      | xNC | kloster        |   | clost(er)         | cloﬅ         |   |   |   |   | dan |   |   |   |        340-05 |
 | p   |        |              |     |                |   | .                 | .             |   |   |   |   | dan |   |   |   |        340-05 |
 | w   |        | innen        | xAP | inden          |   | innæn             | innæn         |   |   |   |   | dan |   |   |   |        340-05 |
-| w   |        | han          | xPE | hannem            |   | hanu(m)           | hanu̅          |   |   |   |   | dan |   |   |   |        340-05 |
+| w   |        | han          | xPE | hannem         |   | hanu(m)           | hanu̅          |   |   |   |   | dan |   |   |   |        340-05 |
 | w   |        | thær         | xRP | der            |   | th(er)            | th           |   |   |   |   | dan |   |   |   |        340-05 |
 | w   |        | thæn         | xAT | den            |   | then              | then          |   |   |   |   | dan |   |   |   |        340-05 |
 | w   |        | hetherlik    | xAJ | hæderlige      |   | hetherlekhæ       | hetherlekhæ   |   |   |   |   | dan |   |   |   |        340-05 |
@@ -216,7 +219,7 @@ AM 187 8vo
 | w   |        | garth        | xNC | gård           |   | garth             | garth         |   |   |   |   | dan |   |   |   |        340-09 |
 | w   |        | ok           | xCC | og             |   | oc                | oc            |   |   |   |   | dan |   |   |   |        340-09 |
 | w   |        | besætje      | xVB | besætte        |   | besætæ            | beſætæ        |   |   |   |   | dan |   |   |   |        340-09 |
-| w   |        | han          | xPE | hannem            |   | hanu(m)           | hanu̅          |   |   |   |   | dan |   |   |   |        340-09 |
+| w   |        | han          | xPE | hannem         |   | hanu(m)           | hanu̅          |   |   |   |   | dan |   |   |   |        340-09 |
 | w   |        | væl          | xAV | vel            |   | wæl               | wæl           |   |   |   |   | dan |   |   |   |        340-09 |
 | w   |        | ok           | xCC | og             |   | oc                | oc            |   |   |   |   | dan |   |   |   |        340-09 |
 | w   |        | nar          | xCS | når            |   | nar               | nar           |   |   |   |   | dan |   |   |   |        340-09 |
@@ -262,6 +265,8 @@ AM 187 8vo
 | lm  | 340-12 |              |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |
 | w   |        | sæghjelse    | xNC | sigelse        |   | sighelsæ          | ſighelſæ      |   |   |   |   | dan |   |   |   |        340-12 |
 | p   |        |              |     |                |   | .                 | .             |   |   |   |   | dan |   |   |   |        340-12 |
+| d   | e      | 2            |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |
+| d   | b      | 3            |     | eschatocol     |   |                   |               |   |   |   |   |     |   |   |   |               |
 | w   |        |              | lat |                |   | Jn                | Jn            |   |   |   |   | lat |   |   |   |        340-12 |
 | w   |        |              | lat |                |   | cui(us)           | cui          |   |   |   |   | lat |   |   |   |        340-12 |
 | w   |        |              | lat |                |   | rei               | rei           |   |   |   |   | lat |   |   |   |        340-12 |
@@ -286,4 +291,5 @@ AM 187 8vo
 | w   |        |              | lat |                |   | omniu(m)          | omniu̅         |   |   |   |   | lat |   |   |   |        340-13 |
 | w   |        |              | lat |                |   | s(an)c(t)or(um)   | ſc̅oꝝ          |   |   |   |   | lat |   |   |   |        340-13 |
 | p   |        |              |     |                |   | .                 | .             |   |   |   |   | lat |   |   |   |        340-13 |
+| d   | e      | 3            |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |
 | :e: |        |              |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |

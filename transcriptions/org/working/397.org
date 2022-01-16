@@ -42,6 +42,7 @@
 | :s: |        |              |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |
 | pm  | 1r     |              |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |
 | lm  | 397-01 |              |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |
+| d   | b      | 1            |     | protocol       |   |                   |                |   |   |   |        |         |   |   |    |                |
 | w   |        | al           | xAJ | alle           |   | Alle              | Alle           |   |   |   |        | dan     |   |   |    |         397-01 |
 | w   |        | man          | xNC | mænd           |   | men               | men            |   |   |   |        | dan     |   |   |    |         397-01 |
 | w   |        | thænne       | xDD | dette          |   | thettæ            | thettæ         |   |   |   |        | dan     |   |   |    |         397-01 |
@@ -75,6 +76,8 @@
 | w   |        | nærværende   | xAJ | nærværende     |   | nerwe(rende)      | nerwe         |   |   |   | de-sup | dan     |   |   |    |         397-02 |
 | w   |        | ok           | xCC | og             |   | oc                | oc             |   |   |   |        | dan     |   |   |    |         397-02 |
 | w   |        | kome+skule   | xVB | kommeskullende |   | komescule(nde)    | komeſcule̅     |   |   |   |        | dan     |   |   |    |         397-02 |
+| d   | e      | 1            |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |
+| d   | b      | 2            |     | context        |   |                   |                |   |   |   |        |         |   |   |    |                |
 | w   |        | at           | xCS | at             |   | at                | at             |   |   |   |        | dan     |   |   |    |         397-02 |
 | w   |        | jak          | xPE | jeg            |   | jegh              | ȷegh           |   |   |   |        | dan     |   |   |    |         397-02 |
 | w   |        | vitherkænne  | xVB | vederkender    |   | weth(e)rken(n)er  | wethꝛ̅ken̅eꝛ     |   |   |   |        | dan     |   |   |    |         397-02 |
@@ -340,6 +343,8 @@
 | w   |        | i            | xAP | i              |   | j                 | ȷ              |   |   |   |        | dan     |   |   |    |         397-15 |
 | w   |        | noker        | xDD | nogen          |   | nogh(e)r          | noghꝛ         |   |   |   |        | dan     |   |   |    |         397-15 |
 | w   |        | mate         | xNC | måde           |   | made              | made           |   |   |   |        | dan     |   |   |    |         397-15 |
+| d   | e      | 2            |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |
+| d   | b      | 3            |     | eschatocol     |   |                   |                |   |   |   |        |         |   |   |    |                |
 | w   |        | til          | xAP | til            |   | till              | tıll           |   |   |   |        | dan     |   |   |    |         397-15 |
 | w   |        | æn           | xAV | en             |   | en                | e             |   |   |   |        | dan     |   |   |    |         397-15 |
 | w   |        | stor         | xAJ | større         |   | størr(e)          | ſtørr         |   |   |   |        | dan     |   |   |    |         397-15 |
@@ -432,4 +437,5 @@
 | w   |        |              |     |                |   | v(ir)ginis        | vgıni        |   |   |   |        | lat     |   |   |    |         397-19 |
 | w   |        |              |     |                |   | gl(ori)ose        | gl̅oſe          |   |   |   |        | lat     |   |   |    |         397-19 |
 | w   |        |              |     |                |   | (et)c(etera)      | ⁊cꝭ            |   |   |   |        | lat     |   |   |    |         397-19 |
+| d   | e      | 3            |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |
 | :e: |        |              |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |

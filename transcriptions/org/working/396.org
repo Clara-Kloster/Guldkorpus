@@ -42,6 +42,7 @@
 | :s: |        |               |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |
 | pm  | 1r     |               |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |
 | lm  | 396-01 |               |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |
+| d   | b      | 1             |     | protocol       |   |                   |               |   |   |   |        |         |   |   |   |        |
 | w   |        | al            | xAJ | alle           |   | Alle              | Alle          |   |   |   |        | dan     |   |   |   | 396-01 |
 | w   |        | man           | xNC | mænd           |   | men               | men           |   |   |   |        | dan     |   |   |   | 396-01 |
 | w   |        | thænne        | xDD | dette          |   | th(ette)          | thꝫͤ           |   |   |   |        | dan     |   |   |   | 396-01 |
@@ -110,6 +111,8 @@
 | w   |        | nærværende    | xAJ | nærværende     |   | n(er)(værende).   | n.          |   |   |   | de-sup | dan     |   |   |   | 396-03 |
 | w   |        | ok            | xCC | og             |   | oc                | oc            |   |   |   |        | dan     |   |   |   | 396-03 |
 | w   |        | kome+skule    | xVB | kommeskullende |   | kome scule(n)d(e) | kome ſcule̅   |   |   |   |        | dan     |   |   |   | 396-03 |
+| d   | e      | 1             |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |
+| d   | b      | 2             |     | context        |   |                   |               |   |   |   |        |         |   |   |   |        |
 | w   |        | at            | xCS | at             |   | at                | at            |   |   |   |        | dan     |   |   |   | 396-03 |
 | w   |        | ar            | xNC | år             |   | aar               | aar           |   |   |   |        | dan     |   |   |   | 396-03 |
 | w   |        | æfter         | xAP | efter          |   | æffth(e)r         | æffthꝛ̅        |   |   |   |        | dan     |   |   |   | 396-03 |
@@ -396,6 +399,8 @@
 | w   |        | æfter         | xAP | efter          |   | efft(er)          | efft         |   |   |   |        | dan     |   |   |   | 396-16 |
 | w   |        | thænne        | xDD | denne          |   | th(en)ne          | thn̅e          |   |   |   |        | dan     |   |   |   | 396-16 |
 | w   |        | dagh          | xNC | dag            |   | daw               | daw           |   |   |   |        | dan     |   |   |   | 396-16 |
+| d   | e      | 2             |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |
+| d   | b      | 3             |     | context        |   |                   |               |   |   |   |        |         |   |   |   |        |
 | w   |        | at            | xCS | at             |   | at                | at            |   |   |   |        | dan     |   |   |   | 396-16 |
 | w   |        | sva           | xAV | så             |   | swo               | ſwo           |   |   |   |        | dan     |   |   |   | 396-16 |
 | w   |        | være          | xVB | er             |   | ær                | ær            |   |   |   |        | dan     |   |   |   | 396-16 |
@@ -438,4 +443,5 @@
 | w   |        | vt            | lat |                |   | vt                | vt            |   |   |   |        | lat     |   |   |   | 396-18 |
 | w   |        | supra         | lat |                |   | sup(ra)           | ſupᷓ           |   |   |   |        | lat     |   |   |   | 396-18 |
 | w   |        | scriptis      | lat |                |   | sc(ri)pt(is)      | ſcptꝭ        |   |   |   |        | lat     |   |   |   | 396-18 |
+| d   | e      | 3             |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |
 | :e: |        |               |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |

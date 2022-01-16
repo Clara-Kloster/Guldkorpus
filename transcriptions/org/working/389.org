@@ -42,6 +42,7 @@ eller ÆA. 578
 | :s: |        |                 |     |                 |   |                      |                  |   |   |   |                  |     |   |   |    |               |
 | pm  | 1r     |                 |     |                 |   |                      |                  |   |   |   |                  |     |   |   |    |               |
 | lm  | 389-01 |                 |     |                 |   |                      |                  |   |   |   |                  |     |   |   |    |               |
+| d   | b      | 1               |     | protocol        |   |                      |                  |   |   |   |                  |     |   |   |    |        |
 | w   |        | vi              | xPE | vi              |   | Wy                   | Wẏ               |   |   |   |                  | dan |   |   |    |        389-01 |
 | PE  | b      | RexChr001       |     |                 |   |                      |                  |   |   |   |                  |     |   |   |    |               |
 | w   |        |                 | xNP | Christian       |   | c(ri)stiern          | cſtieꝛ         |   |   |   |                  | dan |   |   |    |        389-01 |
@@ -304,6 +305,8 @@ eller ÆA. 578
 | w   |        | var             | xDP | vort            |   | vort                 | voꝛt             |   |   |   |                  | dan |   |   |    |        389-10 |
 | w   |        | open            | xAJ | åbne            |   | opnæ                 | opnæ             |   |   |   |                  | dan |   |   |    |        389-10 |
 | w   |        | brev            | xNC | brev            |   | breff                | bꝛeff            |   |   |   |                  | dan |   |   |    |        389-10 |
+| d   | e      | 1               |     |                 |   |                      |                  |   |   |   |                  |     |   |   |    |        |
+| d   | b      | 2               |     | context         |   |                      |                  |   |   |   |                  |     |   |   |    |        |
 | w   |        | at              | xCS | at              |   | At                   | At               |   |   |   |                  | dan |   |   |    |        389-10 |
 | w   |        | ar              | xNC | år              |   | aar                  | aaꝛ              |   |   |   |                  | dan |   |   |    |        389-10 |
 | w   |        | æfter           | xAP | efter           |   | efft(er)             | efft            |   |   |   |                  | dan |   |   |    |        389-10 |
@@ -571,6 +574,8 @@ eller ÆA. 578
 | w   |        | upa             | xAP | på              |   | paa                  | paa              |   |   |   |                  | dan |   |   |    |        389-21 |
 | w   |        | thing           | xNC | tinget          |   | tingh(et)            | tinghꝫ           |   |   |   |                  | dan |   |   |    |        389-21 |
 | p   |        |                 |     |                 |   | ,                    | ,                |   |   |   |                  | dan |   |   |    |        389-21 |
+| d   | e      | 2               |     |                 |   |                      |                  |   |   |   |                  |     |   |   |    |        |
+| d   | b      | 3               |     | eschatocol      |   |                      |                  |   |   |   |                  |     |   |   |    |        |
 | w   |        | thæn            | xPE | det             |   | th(et)               | thꝫ              |   |   |   |                  | dan |   |   |    |        389-21 |
 | w   |        | vitne           | xVB | vidne           |   | vitnæ                | vitnæ            |   |   |   |                  | dan |   |   |    |        389-21 |
 | lm  | 389-22 |                 |     |                 |   |                      |                  |   |   |   |                  |     |   |   |    |               |
@@ -651,4 +656,5 @@ eller ÆA. 578
 | w   |        |                 | lat |                 |   | test(imonium)        | teſtꝭͫ            |   |   |   |                  | lat |   |   |    |        389-25 |
 | w   |        |                 | lat |                 |   | o(mn)i(u)m           | oi̅m              |   |   |   |                  | lat |   |   |    |        389-25 |
 | w   |        |                 | lat |                 |   | p(re)missor(um)      | p̅miſſoꝝ          |   |   |   |                  | lat |   |   |    |        389-25 |
+| d   | e      | 3               |     |                 |   |                      |                  |   |   |   |                  |     |   |   |    |        |
 | :e: |        |                 |     |                 |   |                      |                  |   |   |   |                  |     |   |   |    |               |

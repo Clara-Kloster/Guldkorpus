@@ -42,6 +42,7 @@
 | :s: |        |             |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |
 | pm  |     1r |             |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |
 | lm  | 372-01 |             |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |
+| d   | b      | 1           |     | protocol    |   |                  |             |   |   |   |   |     |   |   |    |        |
 | w   |        | al          | xAJ | alle        |   | Alle             | Alle        |   |   |   |   | dan |   |   |    | 372-01 |
 | w   |        | man         | xNC | mænd        |   | men              | me         |   |   |   |   | dan |   |   |    | 372-01 |
 | w   |        | thænne      | xDD | dette       |   | thette           | thette      |   |   |   |   | dan |   |   |    | 372-01 |
@@ -78,6 +79,8 @@
 | w   |        | var         | xDP | vort        |   | wort             | wort        |   |   |   |   | dan |   |   |    | 372-02 |
 | w   |        | open        | xAJ | åbne        |   | opne             | opne        |   |   |   |   | dan |   |   |    | 372-02 |
 | w   |        | brev        | xNC | brev        |   | b(re)ff          | b̅ff         |   |   |   |   | dan |   |   |    | 372-02 |
+| d   | e      | 1           |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |
+| d   | b      | 2           |     | context     |   |                  |             |   |   |   |   |     |   |   |    |        |
 | w   |        | at          | xCS | at          |   | at               | at          |   |   |   |   | dan |   |   |    | 372-02 |
 | w   |        | vi          | xPE | vi          |   | wy               | wy          |   |   |   |   | dan |   |   |    | 372-02 |
 | w   |        | have        | xVB | have        |   | haue             | haue        |   |   |   |   | dan |   |   |    | 372-02 |
@@ -270,6 +273,8 @@
 | w   |        | sum         | xAV | som         |   | so(m)            | ſo̅          |   |   |   |   | dan |   |   |    | 372-12 |
 | w   |        | han         | xPE | hannem         |   | hano(m)          | hano̅        |   |   |   |   | dan |   |   |    | 372-12 |
 | w   |        | byrje       | xVB | bør         |   | bør              | bør         |   |   |   |   | dan |   |   |    | 372-12 |
+| d   | e      | 2           |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |
+| d   | b      | 3           |     | eschatocol  |   |                  |             |   |   |   |   |     |   |   |    |        |
 | w   |        |             | lat |             |   | jn               | ȷn          |   |   |   |   | lat |   |   |    | 372-12 |
 | w   |        |             | lat |             |   | cui(us)          | cuıꝰ        |   |   |   |   | lat |   |   |    | 372-12 |
 | w   |        |             | lat |             |   | rei              | reı         |   |   |   |   | lat |   |   |    | 372-12 |
@@ -312,4 +317,5 @@
 | w   |        |             | lat |             |   | (et)             | ⁊           |   |   |   |   | lat |   |   |    | 372-14 |
 | w   |        |             | lat |             |   | m(arty)r(is)     | mᷓrꝭ         |   |   |   |   | lat |   |   |    | 372-14 |
 | w   |        |             | lat |             |   | gl(ori)osi       | gl̅oſi       |   |   |   |   | lat |   |   |    | 372-14 |
+| d   | e      | 3           |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |
 | :e: |        |             |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |

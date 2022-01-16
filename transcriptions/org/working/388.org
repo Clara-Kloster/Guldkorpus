@@ -42,6 +42,7 @@
 | :s: |        |           |     |            |   |                 |              |   |   |   |   |     |   |   |    |        |
 | pm  |     1r |           |     |            |   |                 |              |   |   |   |   |     |   |   |    |        |
 | lm  | 388-01 |           |     |            |   |                 |              |   |   |   |   |     |   |   |    |        |
+| d   | b      | 1         |     | protocol   |   |                 |              |   |   |   |   |     |   |   |    |        |
 | w   |        | jak       | xPE | Jeg        |   | Jech            | Jech         |   |   |   |   | dan |   |   |    | 388-01 |
 | PE  |      b | JakOlu003 |     |            |   |                 |              |   |   |   |   |     |   |   |    |        |
 | w   |        |           | xNP | Jep        |   | jeip            | ȷeıp         |   |   |   |   | dan |   |   |    | 388-01 |
@@ -59,6 +60,8 @@
 | w   |        | min       | xDP | mit        |   | mit             | mıt          |   |   |   |   | dan |   |   |    | 388-01 |
 | w   |        | open      | xAJ | åbne       |   | obne            | obne         |   |   |   |   | dan |   |   |    | 388-01 |
 | w   |        | brev      | xNC | brev       |   | breff           | bꝛeff        |   |   |   |   | dan |   |   |    | 388-01 |
+| d   | e      | 1         |     |            |   |                 |              |   |   |   |   |     |   |   |    |        |
+| d   | b      | 2         |     | context    |   |                 |              |   |   |   |   |     |   |   |    |        |
 | w   |        | at        | xCS | at         |   | at              | at           |   |   |   |   | dan |   |   |    | 388-01 |
 | w   |        | jak       | xPE | jeg        |   | Jegh            | Jegh         |   |   |   |   | dan |   |   |    | 388-01 |
 | lm  | 388-02 |           |     |            |   |                 |              |   |   |   |   |     |   |   |    |        |
@@ -185,6 +188,8 @@
 | w   |        | til       | xAP | til        |   | till            | tıll         |   |   |   |   | dan |   |   |    | 388-09 |
 | w   |        | evigh     | xAJ | evig       |   | ewigh           | ewıgh        |   |   |   |   | dan |   |   |    | 388-09 |
 | w   |        | thith     | xNC | tid        |   | tiidh           | tiidh        |   |   |   |   | dan |   |   |    | 388-09 |
+| d   | e      | 2         |     |            |   |                 |              |   |   |   |   |     |   |   |    |        |
+| d   | b      | 3         |     | eschatocol |   |                 |              |   |   |   |   |     |   |   |    |        |
 | w   |        |           | lat |            |   | In              | In           |   |   |   |   | lat |   |   |    | 388-09 |
 | w   |        |           | lat |            |   | C(uius)         | C           |   |   |   |   | lat |   |   |    | 388-09 |
 | w   |        |           | lat |            |   | Rei             | Rei          |   |   |   |   | lat |   |   |    | 388-09 |
@@ -205,4 +210,5 @@
 | w   |        |           | lat |            |   | septi(m)o       | ſeptı̅o       |   |   |   |   |     |   |   | == | 388-10 |
 | w   |        |           | lat |            |   | Sab(bato)       | Sabͭͦ          |   |   |   |   | lat |   |   |    | 388-10 |
 | w   |        |           | lat |            |   | septuagesime    | ſeptuageſíme |   |   |   |   | lat |   |   |    | 388-10 |
+| d   | e      | 3         |     |            |   |                 |              |   |   |   |   |     |   |   |    |        |
 | :e: |        |           |     |            |   |                 |              |   |   |   |   |     |   |   |    |        |

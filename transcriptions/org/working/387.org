@@ -42,6 +42,7 @@
 | :s: |        |               |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |
 | pm  | 1r     |               |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |
 | lm  | 387-01 |               |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |
+| d   | b      | 1             |     | protocol       |   |                  |              |   |   |   |   |     |   |   |    |               |
 | w   |        | al            | xAJ | alle           |   | Alle             | Alle         |   |   |   |   | dan |   |   |    |        387-01 |
 | w   |        | man           | xNC | mænd           |   | me(n)            | me̅           |   |   |   |   | dan |   |   |    |        387-01 |
 | w   |        | thænne        | xDD | dette          |   | th(ette)         | thꝫͤ          |   |   |   |   | dan |   |   |    |        387-01 |
@@ -79,6 +80,8 @@
 | w   |        | nærværende    | xAJ | nærværendes    |   | nr(værendes)     | nrꝭ         |   |   |   |   | dan |   |   |    |        387-03 |
 | w   |        | ok            | xCC | og             |   | oc               | oc           |   |   |   |   | dan |   |   |    |        387-03 |
 | w   |        | kome+skule    | xVB | kommeskullende |   | komeskolend(e)   | komeſkolen  |   |   |   |   | dan |   |   |    |        387-03 |
+| d   | e      | 1             |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |
+| d   | b      | 2             |     | context        |   |                  |              |   |   |   |   |     |   |   |    |               |
 | w   |        | at            | xCS | at             |   | at               | at           |   |   |   |   | dan |   |   |    |        387-03 |
 | w   |        | jak           | xPE | jeg            |   | jek              | ȷek          |   |   |   |   | dan |   |   |    |        387-03 |
 | w   |        | mæth          | xAP | med            |   | m(et)            | mꝫ           |   |   |   |   | dan |   |   |    |        387-03 |
@@ -261,6 +264,8 @@
 | w   |        | noker         | xDD | noger          |   | nogh(e)r         | nogh̅ꝛ        |   |   |   |   | dan |   |   |    |        387-15 |
 | w   |        | anner         | xDD | anden          |   | anne(n)          | anne̅         |   |   |   |   | dan |   |   |    |        387-15 |
 | w   |        | ræt           | xNC | ret            |   | ret              | ret          |   |   |   |   | dan |   |   |    |        387-15 |
+| d   | e      | 2             |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |
+| d   | b      | 3             |     | eschatocol     |   |                  |              |   |   |   |   |     |   |   |    |               |
 | w   |        | til           | xAP | til            |   | til              | tıl          |   |   |   |   | dan |   |   |    |        387-15 |
 | w   |        | ytermere      | xAJ | ydermere       |   | ydh(e)rmere      | ydh̅ꝛmere     |   |   |   |   | dan |   |   |    |        387-15 |
 | w   |        | visse         | xNC | visse          |   | wisse            | wıſſe        |   |   |   |   | dan |   |   |    |        387-15 |
@@ -345,4 +350,5 @@
 | n   |        |               | lat |                |   | lvj              | lvj          |   |   |   |   | lat |   |   |    |        387-21 |
 | w   |        |               | lat |                |   | vt               | vt           |   |   |   |   | lat |   |   |    |        387-21 |
 | w   |        |               | lat |                |   | sup(ra)          | ſup         |   |   |   |   | lat |   |   |    |        387-21 |
+| d   | e      | 3             |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |
 | :e: |        |               |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |

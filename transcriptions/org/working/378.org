@@ -42,6 +42,7 @@
 | :s: |        |             |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |
 | pm  | 1r     |             |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |
 | lm  | 378-01 |             |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |
+| d   | b      | 1           |     | protocol           |   |                      |               |   |   |   |       |     |   |   |   |               |
 | w   |        | al          | xAJ | alle               |   | Alle                 | Alle          |   |   |   |       | dan |   |   |   |        378-01 |
 | w   |        | man         | xNC | mænd               |   | me(n)                | me̅            |   |   |   |       | dan |   |   |   |        378-01 |
 | w   |        | thænne      | xDD | dette              |   | th(ette)             | thꝫͤ           |   |   |   |       | dan |   |   |   |        378-01 |
@@ -69,6 +70,8 @@
 | w   |        | open        | xAJ | åbne               |   | opne                 | opne          |   |   |   |       | dan |   |   |   |        378-02 |
 | w   |        | brev        | xNC | brev               |   | breff                | breff         |   |   |   |       | dan |   |   |   |        378-02 |
 | w   |        | at          | xCS | at                 |   | at                   | at            |   |   |   |       | dan |   |   |   |        378-02 |
+| d   | e      | 1           |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |
+| d   | b      | 2           |     | context            |   |                      |               |   |   |   |       |     |   |   |   |               |
 | w   |        | jak         | xPE | jeg                |   | iec                  | ıec           |   |   |   |       | dan |   |   |   |        378-02 |
 | w   |        | have        | xVB | har                |   | haffu(er)            | haffu        |   |   |   |       | dan |   |   |   |        378-02 |
 | w   |        | afhænde     | xVB | afhændet           |   | aff hend             | aff hend      |   |   |   |       | dan |   |   |   |        378-02 |
@@ -238,6 +241,8 @@
 | w   |        | sum         | xRP | som                |   | som                  | ſo           |   |   |   |       | dan |   |   |   |        378-10 |
 | w   |        | forskreven  | xAJ | foreskrevet        |   | for(e) sc(re)ffu(et) | for ſcffuꝫ  |   |   |   |       | dan |   |   |   |        378-10 |
 | w   |        | sta         | xVB | står               |   | staar                | ſtaar         |   |   |   |       | dan |   |   |   |        378-10 |
+| d   | e      | 2           |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |
+| d   | b      | 3           |     | eschatocol         |   |                      |               |   |   |   |       |     |   |   |   |               |
 | w   |        | til         | xAP | til                |   | Tell                 | Tell          |   |   |   |       | dan |   |   |   |        378-10 |
 | w   |        | mere        | xAJ | mere               |   | mer(e)               | mer          |   |   |   |       | dan |   |   |   |        378-10 |
 | w   |        | visse       | xNC | visse              |   | wisse                | wiſſe         |   |   |   |       | dan |   |   |   |        378-10 |
@@ -313,4 +318,5 @@
 | w   |        |             | lat |                    |   | ca(n)ta(tur)         | ca̅taᷣ          |   |   |   |       | lat |   |   |   |        378-13 |
 | lm  | 378-14 |             |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |
 | w   |        |             | lat |                    |   | Ca(n)tate            | Ca̅tate        |   |   |   |       | lat |   |   |   |        378-14 |
+| d   | e      | 3           |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |
 | :e: |        |             |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |

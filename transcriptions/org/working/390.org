@@ -42,6 +42,7 @@ Særligt æ-tegn
 | :s: |        |             |     |             |              |               |               |            |   |   |   |     |   |   |    |                 |
 | pm  | 1r     |             |     |             |              |               |               |            |   |   |   |     |   |   |    |                 |
 | lm  | 390-01 |             |     |             |              |               |               |            |   |   |   |     |   |   |    |                 |
+| d   | b      | 1           |     | protocol    |              |               |               |            |   |   |   |     |   |   |    |                 |
 | w   |        | al          | xAJ | Alle        |              | Allæ          | Allæ          |            |   |   |   | dan |   |   |    |          390-01 |
 | w   |        | man         | xNC | mænd        |              | mæn           | mæn           |            |   |   |   | dan |   |   |    |          390-01 |
 | w   |        | thænne      | xDD | dette       |              | th(et)tæ      | thꝫtæ         |            |   |   |   | dan |   |   |    |          390-01 |
@@ -81,6 +82,8 @@ Særligt æ-tegn
 | w   |        | var         | xDP | vort        |              | wort          | woꝛt          |            |   |   |   | dan |   |   |    |          390-02 |
 | w   |        | open        | xAJ | åbne        |              | obnæ          | obnæ          |            |   |   |   | dan |   |   |    |          390-02 |
 | w   |        | brev        | xNC | brev        |              | b(re)ff       | b̅ff           |            |   |   |   | dan |   |   |    |          390-02 |
+| d   | e      | 1           |     |             |              |               |               |            |   |   |   |     |   |   |    |                 |
+| d   | b      | 2           |     | context     |              |               |               |            |   |   |   |     |   |   |    |                 |
 | w   |        | at          | xCS | at          |              | adh           | adh           |            |   |   |   | dan |   |   |    |          390-02 |
 | w   |        | vi          | xPE | vi          |              | wi            | wı            |            |   |   |   | dan |   |   |    |          390-02 |
 | w   |        | have        | xVB | have        |              | hawæ          | hawæ          |            |   |   |   | dan |   |   |    |          390-02 |
@@ -245,7 +248,9 @@ Særligt æ-tegn
 | w   |        | sankte      | xAJ | sankt       |              | s(an)c(t)æ    | ſc̅æ           |            |   |   |   | dan |   |   |    |          390-09 |
 | w   |        |             | xNP | Clara       |              | claræ         | claꝛæ         |            |   |   |   | dan |   |   |    |          390-09 |
 | w   |        | kloster     | xNC | kloster     |              | clost(er)     | cloſt̅͛         |            |   |   |   | dan |   |   |    |          390-09 |
+| d   | e      | 2           |     |             |              |               |               |            |   |   |   |     |   |   |    |                 |
 | lm  | 390-10 |             |     |             |              |               |               |            |   |   |   |     |   |   |    |                 |
+| d   | b      | 3           |     | eschatocol  |              |               |               |            |   |   |   |     |   |   |    |                 |
 | w   |        | ytermere    | xAV | ydermere    |              | yderme(r)e    | ẏdeꝛme͛e       |            |   |   |   | dan |   |   |    |          390-10 |
 | w   |        | til         | xAP | til         |              | til           | tıl           |            |   |   |   | dan |   |   |    |          390-10 |
 | w   |        | forvaring   | xNC | forvaring   |              | forwaringh    | foꝛwarıngh    |            |   |   |   | dan |   |   |    |          390-10 |
@@ -284,4 +289,5 @@ Særligt æ-tegn
 | lm  | 390-12 |             |     |             |              |               |               |            |   |   |   |     |   |   |    |                 |
 | w   |        |             | lat |             |              | s(an)c(t)e    | ſc̅e           |            |   |   |   | lat |   |   |    |          390-12 |
 | w   |        |             | lat |             |              | c(ru)cis      | cᷣcı          |            |   |   |   | lat |   |   |    |          390-12 |
+| d   | e      | 3           |     |             |              |               |               |            |   |   |   |     |   |   |    |                 |
 | :e: |        |             |     |             |              |               |               |            |   |   |   |     |   |   |    |                 |

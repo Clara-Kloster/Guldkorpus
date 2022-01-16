@@ -42,6 +42,7 @@
 | :s: |        |             |     |               |        |                 |              |   |   |   |               |     |   |   |    |                 |
 | pm  | 1r     |             |     |               |        |                 |              |   |   |   |               |     |   |   |    |                 |
 | lm  | 377-01 |             |     |               |        |                 |              |   |   |   |               |     |   |   |    |                 |
+| d   | b      | 1           |     | protocol      |        |                 |              |   |   |   |               |     |   |   |    |                 |
 | w   |        | al          | xAJ | alle          |        | Alle            | Alle         |   |   |   |               | dan |   |   |    |          377-01 |
 | w   |        | man         | xNC | mænd          |        | me(n)           | me̅           |   |   |   |               | dan |   |   |    |          377-01 |
 | w   |        | thænne      | xDD | dette         |        | th(ette)        | thꝫͤ          |   |   |   |               | dan |   |   |    |          377-01 |
@@ -64,6 +65,8 @@
 | p   |        |             |     |               |        | /               | /            |   |   |   |               | dan |   |   |    |          377-01 |
 | w   |        | ok          | xCC | og            |        | och             | och          |   |   |   |               | dan |   |   |    |          377-01 |
 | w   |        | kungøre     | xVB | kundgør       |        | ku(n)gør        | ku̅gøꝛ        |   |   |   |               | dan |   |   |    |          377-01 |
+| d   | e      | 1           |     |               |        |                 |              |   |   |   |               |     |   |   |    |                 |
+| d   | b      | 2           |     | context       |        |                 |              |   |   |   |               |     |   |   |    |                 |
 | w   |        | at          | xCS | at            |        | at              | at           |   |   |   |               | dan |   |   |    |          377-01 |
 | w   |        | jak         | xPE | jeg           |        | iech            | ıech         |   |   |   |               | dan |   |   |    |          377-01 |
 | w   |        | have        | xVB | har           |        | hauer           | haueꝛ        |   |   |   |               | dan |   |   |    |          377-01 |
@@ -221,6 +224,8 @@
 | w   |        | al          | xAJ | alle          |        | alle            | alle         |   |   |   |               | dan |   |   |    |          377-08 |
 | w   |        | hjalperethe | xNC | hjælperede    |        | hielperæthe     | hıelperæthe  |   |   |   |               | dan |   |   |    |          377-08 |
 | p   |        |             |     |               |        | /               | /            |   |   |   |               | dan |   |   |    |          377-08 |
+| d   | e      | 2           |     |               |        |                 |              |   |   |   |               |     |   |   |    |                 |
+| d   | b      | 3           |     | eschatocol    |        |                 |              |   |   |   |               |     |   |   |    |                 |
 | w   |        | til         | xAP | til           |        | til             | til          |   |   |   |               | dan |   |   |    |          377-08 |
 | w   |        | mere        | xAJ | mere          |        | mer(e)          | mer         |   |   |   |               | dan |   |   |    |          377-08 |
 | w   |        | bevisning   | xNC | bevisning     |        | bewisni(n)gh    | bewíſn̅ıgh    |   |   |   |               | dan |   |   |    |          377-08 |
@@ -290,4 +295,5 @@
 | w   |        |             | lat |               |        | qua             | qua          |   |   |   |               | lat |   |   |    |          377-10 |
 | w   |        |             | lat |               |        | ca(n)ta(tur)    | ca̅ta        |   |   |   |               | lat |   |   |    |          377-10 |
 | w   |        |             | lat |               |        | Cantate         | Cantate      |   |   |   |               | lat |   |   |    |          377-10 |
+| d   | e      | 3           |     |               |        |                 |              |   |   |   |               |     |   |   |    |                 |
 | :e: |        |             |     |               |        |                 |              |   |   |   |               |     |   |   |    |                 |

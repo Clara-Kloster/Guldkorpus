@@ -42,6 +42,7 @@
 | :s: |        |                 |     |                |   |                  |              |   |   |   |   |         |   |   |    |        |
 | pm  |     1r |                 |     |                |   |                  |              |   |   |   |   |         |   |   |    |        |
 | lm  | 399-01 |                 |     |                |   |                  |              |   |   |   |   |         |   |   |    |        |
+| d   | b      | 1               |     | protocol       |   |                  |              |   |   |   |   |         |   |   |    |        |
 | w   |        | al              | xAJ | alle           |   | Allæ             | Allæ         |   |   |   |   | dan     |   |   |    | 399-01 |
 | w   |        | man             | xNC | mænd           |   | mæn              | mæ          |   |   |   |   | dan     |   |   |    | 399-01 |
 | w   |        | thænne          | xDD | dette          |   | th(et)tæ         | thꝫtæ        |   |   |   |   | dan     |   |   |    | 399-01 |
@@ -75,6 +76,8 @@
 | w   |        | min             | xDP | min            |   | min              | mı          |   |   |   |   | dan     |   |   |    | 399-02 |
 | w   |        | leve            | xVB | levende        |   | lewendæ          | lewendæ      |   |   |   |   | dan     |   |   |    | 399-02 |
 | w   |        | røst            | xNC | røst           |   | røst             | røſt         |   |   |   |   | dan     |   |   |    | 399-02 |
+| d   | e      | 1               |     |                |   |                  |              |   |   |   |   |         |   |   |    |        |
+| d   | b      | 2               |     | context        |   |                  |              |   |   |   |   |         |   |   |    |        |
 | w   |        | at              | xCS | at             |   | ad               | ad           |   |   |   |   | dan     |   |   |    | 399-02 |
 | w   |        | thæn            | xAT | den            |   | then             | the         |   |   |   |   | dan     |   |   |    | 399-02 |
 | w   |        | jorth           | xNC | gård           |   | !giord¡          | !gioꝛd¡      |   |   |   |   | dan     |   |   |    | 399-02 |
@@ -179,7 +182,9 @@
 | w   |        | ut              | xAV | ud             |   | vd               | vd           |   |   |   |   | dan     |   |   |    | 399-07 |
 | w   |        | til             | xAP | til            |   | til              | tıl          |   |   |   |   | dan     |   |   |    | 399-07 |
 | w   |        | dom             | xNC | dommen         |   | dommen           | domme       |   |   |   |   | dan     |   |   |    | 399-07 |
+| d   | e      | 2               |     |                |   |                  |              |   |   |   |   |         |   |   |    |        |
 | lm  | 399-08 |                 |     |                |   |                  |              |   |   |   |   |         |   |   |    |        |
+| d   | b      | 3               |     | eschatocol     |   |                  |              |   |   |   |   |         |   |   |    |        |
 | w   |        | ok              | xCC | og             |   | Oc               | Oc           |   |   |   |   | dan     |   |   |    | 399-08 |
 | w   |        | til             | xAP | til            |   | til              | tıl          |   |   |   |   | dan     |   |   |    | 399-08 |
 | w   |        | ytermere        | xAJ | ydermere       |   | yd(er)mer(e)     | ẏdmer      |   |   |   |   | dan     |   |   |    | 399-08 |
@@ -223,4 +228,5 @@
 | w   |        | virginis        | lat |                |   | v(ir)gi(ni)s     | vgi̅        |   |   |   |   | lat     |   |   |    | 399-10 |
 | w   |        | et              | lat |                |   | (et)             | ⁊            |   |   |   |   | lat     |   |   |    | 399-10 |
 | w   |        | martyris        | lat |                |   | m(a)rt(yri)s     | mꝛ̅t         |   |   |   |   | lat     |   |   |    | 399-10 |
+| d   | e      | 3               |     |                |   |                  |              |   |   |   |   |         |   |   |    |        |
 | :e: |        |                 |     |                |   |                  |              |   |   |   |   |         |   |   |    |        |

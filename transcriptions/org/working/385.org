@@ -42,6 +42,7 @@ SDHK: "Clause Rönnovs Arkiv?"
 | :s: |        |   |   |   |   |                       |                    |   |   |   |                 |        |   |   |    |               |
 | pm  | 1r     |   |   |   |   |                       |                    |   |   |   |                 |        |   |   |    |               |
 | lm  | 385-01 |   |   |   |   |                       |                    |   |   |   |                 |        |   |   |    |               |
+| d  | b      | 1  |   | protocol  |   |                       |                    |   |   |   |                 |        |   |   |    |               |
 | w   |        |   |   |   |   | Wy                    | Wy                 |   |   |   |                 | Svensk |   |   |    |        385-01 |
 | w   |        |   |   |   |   | effterskriffne        | eﬀteꝛſkrıﬀne       |   |   |   |                 | Svensk |   |   |    |        385-01 |
 | w   |        |   |   |   |   | som                   | ſo                |   |   |   |                 | Svensk |   |   |    |        385-01 |
@@ -99,6 +100,8 @@ SDHK: "Clause Rönnovs Arkiv?"
 | lm  | 385-03 |   |   |   |   |                       |                    |   |   |   |                 |        |   |   |    |               |
 | w   |        |   |   |   |   | gør(um)               | gøꝝ                |   |   |   |                 | Svensk |   |   |    |        385-03 |
 | w   |        |   |   |   |   | witerligt             | wıteꝛlıgt          |   |   |   |                 | Svensk |   |   |    |        385-03 |
+| d  | e      | 1  |   |   |   |                       |                    |   |   |   |                 |        |   |   |    |               |
+| d  | b      | 2  |   | context  |   |                       |                    |   |   |   |                 |        |   |   |    |               |
 | w   |        |   |   |   |   | at                    | at                 |   |   |   |                 | Svensk |   |   |    |        385-03 |
 | w   |        |   |   |   |   | are(n)                | aꝛe̅                |   |   |   |                 | Svensk |   |   |    |        385-03 |
 | w   |        |   |   |   |   | efft                  | eﬀt                |   |   |   |                 | Svensk |   |   |    |        385-03 |
@@ -839,6 +842,8 @@ SDHK: "Clause Rönnovs Arkiv?"
 | w   |        |   |   |   |   | ffor(e)               | ffor              |   |   |   |                 | Svensk |   |   |    |        385-29 |
 | w   |        |   |   |   |   | at                    | at                 |   |   |   |                 | Svensk |   |   |    |        385-29 |
 | w   |        |   |   |   |   | bøta                  | bøta               |   |   |   |                 | Svensk |   |   |    |        385-29 |
+| d  | e      | 2  |   |   |   |                       |                    |   |   |   |                 |        |   |   |    |               |
+| d  | b      | 3  |   | eschatocol  |   |                       |                    |   |   |   |                 |        |   |   |    |               |
 | w   |        |   |   |   |   | Tess                  | Teſſ               |   |   |   |                 | Svensk |   |   |    |        385-29 |
 | w   |        |   |   |   |   | yt(er)mer(e)          | ytmer            |   |   |   |                 | Svensk |   |   |    |        385-29 |
 | lm  | 385-30 |   |   |   |   |                       |                    |   |   |   |                 |        |   |   |    |               |
@@ -874,4 +879,5 @@ SDHK: "Clause Rönnovs Arkiv?"
 | w   |        |   |   |   |   | fforskriffuit         | ffoꝛſkriffuit      |   |   |   |                 | Svensk |   |   |    |        385-31 |
 | w   |        |   |   |   |   | star                  | ſtaꝛ               |   |   |   |                 | Svensk |   |   |    |        385-31 |
 | p   |        |   |   |   |   | :-                    | :-                 |   |   |   |                 | Svensk |   |   |    |        385-31 |
+| d  | e      | 3  |   |   |   |                       |                    |   |   |   |                 |        |   |   |    |               |
 | :e: |        |   |   |   |   |                       |                    |   |   |   |                 |        |   |   |    |               |

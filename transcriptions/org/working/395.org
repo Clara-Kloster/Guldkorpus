@@ -42,6 +42,7 @@
 | :s: |        |              |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |
 | pm  | 1r     |              |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |
 | lm  | 395-01 |              |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |
+| d   | b      | 1            |     | protocol       |   |                 |                |   |   |   |                             |     |   |   |    |               |
 | w   |        | al           | xAJ | alle           |   | Alle            | Alle           |   |   |   |                             | dan |   |   |    |        395-01 |
 | w   |        | man          | xNC | mænd           |   | me(n)           | me̅             |   |   |   |                             | dan |   |   |    |        395-01 |
 | w   |        | thænne       | xDD | dette          |   | th(etta)        | thꝫᷓ            |   |   |   |                             | dan |   |   |    |        395-01 |
@@ -71,6 +72,8 @@
 | w   |        | kungøre      | xVB | kundgør        |   | kungør          | kŭngøꝛ         |   |   |   |                             | dan |   |   |    |        395-01 |
 | w   |        | for          | xAP | for            |   | for             | foꝛ            |   |   |   |                             | dan |   |   |    |        395-01 |
 | w   |        | al           | xAJ | alle           |   | alle            | alle           |   |   |   |                             | dan |   |   |    |        395-01 |
+| d   | e      | 1            |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |
+| d   | b      | 2            |     | context        |   |                 |                |   |   |   |                             |     |   |   |    |               |
 | w   |        | at           | xCS | at             |   | At              | At             |   |   |   |                             | dan |   |   |    |        395-01 |
 | w   |        | jak          | xPE | jeg            |   | Iæk             | Iæk            |   |   |   |                             | dan |   |   |    |        395-01 |
 | w   |        | af           | xAP | af             |   | aff             | aff            |   |   |   |                             | dan |   |   |    |        395-01 |
@@ -469,6 +472,8 @@
 | w   |        | i            | xAP | i              |   | i               | i              |   |   |   |                             | dan |   |   |    |        395-14 |
 | w   |        | noker        | xDD | nogen          |   | nogr(e)         | nogꝛ          |   |   |   |                             | dan |   |   |    |        395-14 |
 | w   |        | mate         | xNC | nåde           |   | made            | made           |   |   |   |                             | dan |   |   |    |        395-14 |
+| d   | e      | 2            |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |
+| d   | b      | 3            |     | eschatocol     |   |                 |                |   |   |   |                             |     |   |   |    |               |
 | w   |        | til          | xAP | til            |   | Til             | Tıl            |   |   |   |                             | dan |   |   |    |        395-14 |
 | w   |        | ytermere     | xAJ | ydermere       |   | ydermer(e)      | ydermeꝛ       |   |   |   |                             | dan |   |   |    |        395-14 |
 | w   |        | visse        | xNC | visse          |   | wisse           | wiſſe          |   |   |   |                             | dan |   |   |    |        395-14 |
@@ -573,4 +578,5 @@
 | w   |        | frue         | xNC | frue           |   | ffrwe           | ffrwe          |   |   |   |                             | dan |   |   |    |        395-18 |
 | w   |        | dagh         | xNC | dag            |   | dagh            | dagh           |   |   |   |                             | dan |   |   |    |        395-18 |
 | w   |        | kyndelmisse  | xNC | kyndelmisse    |   | kyndelmøsse     | kẏndelmøſſe    |   |   |   |                             | dan |   |   |    |        395-18 |
+| d   | e      | 3            |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |
 | :e: |        |              |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |

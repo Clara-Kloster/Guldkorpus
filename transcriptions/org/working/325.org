@@ -41,6 +41,7 @@ Seal strips contain a draft version of the same text.
 *** Transcription
 | :s: |        |             |     |             |   |                 |               |   |   |   |   |     |   |   |   |                |
 | pm  | 1r     |             |     |             |   |                 |               |   |   |   |   |     |   |   |   |                |
+| d   | b      | 1           |     | protocol     |   |                 |              |   |   |   |   |     |   |   |   |               |
 | lm  | 325-01 |             |     |             |   |                 |               |   |   |   |   |     |   |   |   |                |
 | w   |        | al          | xAJ | alle        |   | Alle            | Alle          |   |   |   |   | dan |   |   |   |         325-01 |
 | w   |        | man         | xNC | mænd        |   | men             | me           |   |   |   |   | dan |   |   |   |         325-01 |
@@ -60,6 +61,8 @@ Seal strips contain a draft version of the same text.
 | w   |        | kome        | xVB | komme       |   | kome            | kome          |   |   |   |   | dan |   |   |   |         325-02 |
 | w   |        | skule       | xVB | skulle      |   | skwlæ           | ſkwlæ         |   |   |   |   | dan |   |   |   |         325-02 |
 | w   |        | thæn        | xAT | det         |   | th(et)          | thꝫ           |   |   |   |   | dan |   |   |   |         325-02 |
+| d   | e      | 1           |     |             |   |                 |               |   |   |   |   |     |   |   |   |                |
+| d   | b      | 2           |     | context     |   |                 |               |   |   |   |   |     |   |   |   |               |
 | w   |        | jak         | xPE | jeg         |   | jak             | ȷak           |   |   |   |   | dan |   |   |   |         325-02 |
 | PE  | b      | LarVin001   |     |             |   |                 |               |   |   |   |   |     |   |   |   |                |
 | w   |        |             | xNP | Lars        |   | laur(e)ns       | laurn       |   |   |   |   | dan |   |   |   |         325-02 |
@@ -302,6 +305,8 @@ Seal strips contain a draft version of the same text.
 | w   |        | al          | xAJ | alle        |   | alle            | alle          |   |   |   |   | dan |   |   |   |         325-17 |
 | w   |        | man         | xNC | mænd        |   | me(n)ne         | me̅ne          |   |   |   |   | dan |   |   |   |         325-17 |
 | w   |        | tiltale     | xNC | tiltale     |   | til¦tale        | til¦tale      |   |   |   |   | dan |   |   |   |  325-17-325-18 |
+| d   | e      | 2           |     |             |   |                 |               |   |   |   |   |     |   |   |   |               |
+| d   | b      | 3           |     | eschatocol  |   |                 |               |   |   |   |   |     |   |   |   |               |
 | w   |        |             | lat |             |   | Jn              | Jn            |   |   |   |   | lat |   |   |   |         325-18 |
 | w   |        |             | lat |             |   | Cui(us)         | Cui          |   |   |   |   | lat |   |   |   |         325-18 |
 | w   |        |             | lat |             |   | r(e)i           | rí           |   |   |   |   | lat |   |   |   |         325-18 |
@@ -339,7 +344,7 @@ Seal strips contain a draft version of the same text.
 | PE  | e      | JenJak004   |     |             |   |                 |               |   |   |   |   |     |   |   |   |                |
 | PE  | b      | HenBer001   |     |             |   |                 |               |   |   |   |   |     |   |   |   |                |
 | w   |        |             | lat |             |   | henrici         | henrici       |   |   |   |   | lat |   |   |   |         325-19 |
-| lm  | 325-20 |             |     |             |   |                 |               |   |   |   |   |     |   |   |   |                |
+| lm  | 325-20 |             |     |             |   |                 |               |   |   |   |   |     |   |   |   |                   |
 | w   |        |             | lat |             |   | van             | van           |   |   |   |   | dan |   |   |   |         325-20 |
 | w   |        |             | lat |             |   | berghen         | berghen       |   |   |   |   | dan |   |   |   |         325-20 |
 | PE  | e      | HenBer001   |     |             |   |                 |               |   |   |   |   |     |   |   |   |                |
@@ -374,4 +379,5 @@ Seal strips contain a draft version of the same text.
 | w   |        |             | lat |             |   | quarto          | quarto        |   |   |   |   | lat |   |   |   |         325-21 |
 | w   |        |             | lat |             |   | vigilia         | vigilia       |   |   |   |   | lat |   |   |   |         325-21 |
 | w   |        |             | lat |             |   | pentecost(es)   | pentecoſtꝭ    |   |   |   |   | lat |   |   |   |         325-21 |
+| d   | e      | 3           |     |             |   |                 |               |   |   |   |   |     |   |   |   |               |
 | :e: |        |             |     |             |   |                 |               |   |   |   |   |     |   |   |   |                |

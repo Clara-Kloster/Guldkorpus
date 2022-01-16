@@ -42,6 +42,7 @@ AM 187 8vo
 | :s: |        |           |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |
 | pm  | 1r     |           |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |
 | lm  | 371-01 |           |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |
+| d   | b      | 1         |     | protocol   |   |                 |            |   |   |   |   |     |   |   |    |        |
 | w   |        | al        | xAJ | alle       |   | Alle            | Alle       |   |   |   |   | dan |   |   |    | 371-01 |
 | w   |        | man       | xNC | mænd       |   | mæn             | mæ        |   |   |   |   | dan |   |   |    | 371-01 |
 | w   |        | thænne    | xDD | dette      |   | th(et)te        | thꝫte      |   |   |   |   | dan |   |   |    | 371-01 |
@@ -56,6 +57,8 @@ AM 187 8vo
 | w   |        |           | xNP | Brahe      |   | brathe          | bꝛathe     |   |   |   |   | dan |   |   |    | 371-01 |
 | PE  | e      | PerBra001 |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |
 | w   |        | af+vapn   | xNC | åvåben     |   | awapn           | awap      |   |   |   |   | dan |   |   |    | 371-01 |
+| d   | e      | 1         |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |
+| d   | b      | 2         |     | context    |   |                 |            |   |   |   |   |     |   |   |    |        |
 | w   |        | thæn      | xCS | det        |   | Th(et)          | Thꝫ        |   |   |   |   | dan |   |   |    | 371-01 |
 | w   |        | skule     | xVB | skal       |   | skal            | ſkal       |   |   |   |   | dan |   |   |    | 371-01 |
 | w   |        | al        | xAJ | alle       |   | alle            | alle       |   |   |   |   | dan |   |   |    | 371-01 |
@@ -117,6 +120,8 @@ AM 187 8vo
 | w   |        | ok        | xCC | og         |   | oc              | oc         |   |   |   |   | dan |   |   |    | 371-05 |
 | w   |        | min       | xDP | mine       |   | mine            | míne       |   |   |   |   | dan |   |   |    | 371-05 |
 | w   |        | arving    | xNC | arvinge    |   | arwinge         | arwínge    |   |   |   |   | dan |   |   |    | 371-05 |
+| d   | e      | 2         |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |
+| d   | b      | 3         |     | eschatocol |   |                 |            |   |   |   |   |     |   |   |    |        |
 | w   |        |           | lat |            |   | Jn              | Jn         |   |   |   |   | lat |   |   | =  | 371-05 |
 | w   |        |           | lat |            |   | cui(us)         | cuı       |   |   |   |   | lat |   |   | == | 371-05 |
 | w   |        |           | lat |            |   | rei             | reı        |   |   |   |   | lat |   |   |    | 371-05 |
@@ -174,4 +179,5 @@ AM 187 8vo
 | w   |        |           | lat |            |   | natiui(tatem)   | natıuıͭͤͫ     |   |   |   |   | lat |   |   |    | 371-08 |
 | lm  | 371-09 |           |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |
 | w   |        |           | lat |            |   | d(omi)ni        | dn̅ı        |   |   |   |   | lat |   |   |    | 371-09 |
+| d   | e      | 3         |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |
 | :e: |        |           |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |

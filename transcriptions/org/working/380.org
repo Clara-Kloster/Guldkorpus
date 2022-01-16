@@ -42,6 +42,7 @@
 | :s: |        |               |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |
 | pm  | 1r     |               |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |
 | lm  | 380-01 |               |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |
+| d   | b      | 1             |     | protocol     |   |                    |                    |   |   |   |   |     |   |   |    |        |
 | w   |        | vi            | xPE | vi           |   | Wy                 | Wy                 |   |   |   |   | dan |   |   |    | 380-01 |
 | PE  | b      | RexChr001     |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |
 | w   |        |               | xNP | Christian    |   | Cristiern          | Crıſtıeꝛn          |   |   |   |   | dan |   |   |    | 380-01 |
@@ -73,6 +74,8 @@
 | w   |        | vitherlik     | xAJ | vitterligt   |   | widerlicht         | wıderlıcht         |   |   |   |   | dan |   |   |    | 380-02 |
 | w   |        | al            | xAJ | alle         |   | alle               | alle               |   |   |   |   | dan |   |   |    | 380-02 |
 | w   |        | man           | xNC | mænd         |   | men                | men                |   |   |   |   | dan |   |   |    | 380-02 |
+| d   | e      | 1             |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |
+| d   | b      | 2             |     | context      |   |                    |                    |   |   |   |   |     |   |   |    |        |
 | w   |        | at            | xCS | at           |   | at                 | at                 |   |   |   |   | dan |   |   |    | 380-02 |
 | w   |        | vi            | xPE | vi           |   | wi                 | wi                 |   |   |   |   | dan |   |   |    | 380-02 |
 | w   |        | af            | xAP | af           |   | aff                | aff                |   |   |   |   | dan |   |   |    | 380-02 |
@@ -181,6 +184,8 @@
 | w   |        | hævnd         | xNC | hævn         |   | heffnd             | heffnd             |   |   |   |   | dan |   |   |    | 380-08 |
 | w   |        | ok            | xCC | og           |   | oc                 | oc                 |   |   |   |   | dan |   |   |    | 380-08 |
 | w   |        | vrethe        | xNC | urede        |   | Wrethe             | Wꝛethe             |   |   |   |   | dan |   |   |    | 380-08 |
+| d   | e      | 2             |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |
+| d   | b      | 3             |     | eschatocol   |   |                    |                    |   |   |   |   |     |   |   |    |        |
 | w   |        |               | lat |              |   | Datum              | Datu              |   |   |   |   | lat |   |   |    | 380-08 |
 | w   |        |               | lat |              |   | castro             | caſtro             |   |   |   |   | lat |   |   |    | 380-08 |
 | w   |        |               | lat |              |   | n(ost)ro           | nr̅o                |   |   |   |   | lat |   |   |    | 380-08 |
@@ -211,4 +216,5 @@
 | w   |        |               | lat |              |   | quadringentesimo== | quadꝛingenteſimo== |   |   |   |   | lat |   |   | == | 380-09 |
 | w   |        |               | lat |              |   | q(ua)d(ra)ges(imo) | qᷓdᷓgeͦ              |   |   |   |   | lat |   |   | =  | 380-09 |
 | w   |        |               | lat |              |   | nono               | nono               |   |   |   |   | lat |   |   | == | 380-09 |
+| d   | e      | 3             |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |
 | :e: |        |               |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |
