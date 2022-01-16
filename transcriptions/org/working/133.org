@@ -42,6 +42,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | :s: |        |   |   |   |   |                        |              |             |   |   |   |     |   |   |   |               |
 | pm  | 1r     |   |   |   |   |                        |              |             |   |   |   |     |   |   |   |               |
 | lm  | 133-01 |   |   |   |   |                        |              |             |   |   |   |     |   |   |   |               |
+| d  | b       | 1  |   | protocol  |   |                        |              |             |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | Vniu(er)sis            | Vníu͛ſıs      |             |   |   |   | lat |   |   |   |        133-01 |
 | w   |        |   |   |   |   | p(re)sens              | p͛ſens        |             |   |   |   | lat |   |   |   |        133-01 |
 | w   |        |   |   |   |   | sc(ri)pt(um)           | ſcpt̅        |             |   |   |   | lat |   |   |   |        133-01 |
@@ -58,6 +59,8 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        |   |   |   |   | d(omi)no               | ꝺn̅o          |             |   |   |   | lat |   |   |   |        133-01 |
 | w   |        |   |   |   |   | se(m)pit(er)na(m)      | ſe̅pıt͛na̅      |             |   |   |   | lat |   |   |   |        133-01 |
 | p   |        |   |   |   |   | /                      | /            |             |   |   |   | lat |   |   |   |        133-01 |
+| d  | e       | 1  |   |   |   |                        |              |             |   |   |   |     |   |   |   |               |
+| d  | b       | 2  |   | context  |   |                        |              |             |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | Constare               | Conﬅare      |             |   |   |   | lat |   |   |   |        133-01 |
 | w   |        |   |   |   |   | volo                   | volo         |             |   |   |   | lat |   |   |   |        133-01 |
 | w   |        |   |   |   |   | ta(m)                  | ta̅           |             |   |   |   | lat |   |   |   |        133-01 |
@@ -263,6 +266,8 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        |   |   |   |   | p(er)petuo             | ꝑpetuo       |             |   |   |   | lat |   |   |   |        133-11 |
 | w   |        |   |   |   |   | possid(er)e            | poſſıꝺ͛e      |             |   |   |   | lat |   |   |   |        133-11 |
 | p   |        |   |   |   |   | /                      | /            |             |   |   |   | lat |   |   |   |        133-11 |
+| d  | e       | 2  |   |   |   |                        |              |             |   |   |   |     |   |   |   |               |
+| d  | b       | 3  |   | eschatocol  |   |                        |              |             |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | Ne                     | Ne           |             |   |   |   | lat |   |   |   |        133-11 |
 | w   |        |   |   |   |   | (i)g(itur)             | g           |             |   |   |   | lat |   |   |   |        133-11 |
 | w   |        |   |   |   |   | sup(er)                | ſuꝑ          |             |   |   |   | lat |   |   |   |        133-11 |
@@ -318,4 +323,5 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        |   |   |   |   | valentini              | ỽalentíní    |             |   |   |   | lat |   |   |   |        133-13 |
 | w   |        |   |   |   |   | m(a)rtiris             | mᷓrtíríſ      |             |   |   |   | lat |   |   |   |        133-13 |
 | p   |        |   |   |   |   | .                      | .            |             |   |   |   | lat |   |   |   |        133-13 |
+| d  | e       | 3  |   |   |   |                        |              |             |   |   |   |     |   |   |   |               |
 | :e: |        |   |   |   |   |                        |              |             |   |   |   |     |   |   |   |               |

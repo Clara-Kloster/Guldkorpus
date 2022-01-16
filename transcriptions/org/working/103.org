@@ -42,6 +42,7 @@ ASK: Remember to convert the <del rend=...> tag to the correct notation.
 | :s: |        |   |   |   |   |                         |              |   |   |   |   |     |   |   |    |               |
 | pm  |     1r |   |   |   |   |                         |              |   |   |   |   |     |   |   |    |               |
 | lm  | 103-01 |   |   |   |   |                         |              |   |   |   |   |     |   |   |    |               |
+| d   | b      | 1 |   | protocol |   |                  |              |   |   |   |   |     |   |   |    |               |
 | w   |        |   |   |   |   | Om(n)ib(us)             | Om̅ıbꝫ        |   |   |   |   | lat |   |   |    |        103-01 |
 | w   |        |   |   |   |   | p(re)sens               | p͛ſenſ        |   |   |   |   | lat |   |   |    |        103-01 |
 | w   |        |   |   |   |   | sc(ri)ptu(m)            | scptu̅       |   |   |   |   | lat |   |   |    |        103-01 |
@@ -72,7 +73,9 @@ ASK: Remember to convert the <del rend=...> tag to the correct notation.
 | w   |        |   |   |   |   | d(omi)no                | ꝺn̅o          |   |   |   |   | lat |   |   |    |        103-01 |
 | w   |        |   |   |   |   | sempit(er)na(m)         | sempıt͛na̅     |   |   |   |   | lat |   |   |    |        103-01 |
 | p   |        |   |   |   |   | /                       | /            |   |   |   |   | lat |   |   |    |        103-01 |
+| d   | e      | 1 |   |   |   |                         |              |   |   |   |   |     |   |   |    |               |
 | lm  | 103-02 |   |   |   |   |                         |              |   |   |   |   |     |   |   |    |               |
+| d   | b      | 2 |   | context |   |                   |              |   |   |   |   |     |   |   |    |               |
 | w   |        |   |   |   |   | Nou(er)itis             | Nou͛ıtıs      |   |   |   |   | lat |   |   |    |        103-02 |
 | w   |        |   |   |   |   | nos                     | nos          |   |   |   |   | lat |   |   |    |        103-02 |
 | w   |        |   |   |   |   | litt(er)as              | lıtt͛as       |   |   |   |   | lat |   |   |    |        103-02 |
@@ -424,7 +427,9 @@ ASK: Remember to convert the <del rend=...> tag to the correct notation.
 | w   |        |   |   |   |   | anno                    | anno         |   |   |   |   | lat |   |   |    |        103-17 |
 | w   |        |   |   |   |   | p(ri)mo                 | pmo         |   |   |   |   | lat |   |   |    |        103-17 |
 | p   |        |   |   |   |   | .                       | .            |   |   |   |   | lat |   |   |    |        103-17 |
+| d   | e      | 2 |   |   |   |                         |              |   |   |   |   |     |   |   |    |               |
 | lm  | 103-18 |   |   |   |   |                         |              |   |   |   |   |     |   |   |    |               |
+| d   | b      | 3 |   | eschatocol |   |                |              |   |   |   |   |     |   |   |    |               |
 | w   |        |   |   |   |   | Jn                      | Jn           |   |   |   |   | lat |   |   |    |        103-18 |
 | w   |        |   |   |   |   | cui(us)                 | cuıꝰ         |   |   |   |   | lat |   |   |    |        103-18 |
 | w   |        |   |   |   |   | rei                     | reí          |   |   |   |   | lat |   |   |    |        103-18 |
@@ -457,4 +462,5 @@ ASK: Remember to convert the <del rend=...> tag to the correct notation.
 | w   |        |   |   |   |   | b(eat)e                 | be̅           |   |   |   |   | lat |   |   |    |        103-19 |
 | w   |        |   |   |   |   | virg(inis)              | ỽırg͛         |   |   |   |   | lat |   |   |    |        103-19 |
 | w   |        |   |   |   |   | marie                   | mrıe        |   |   |   |   | lat |   |   |    |        103-19 |
+| d   | e      | 3 |   |   |   |                         |              |   |   |   |   |     |   |   |    |               |
 | :e: |        |   |   |   |   |                         |              |   |   |   |   |     |   |   |    |               |

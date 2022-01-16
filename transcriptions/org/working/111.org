@@ -42,6 +42,7 @@ ASK: Remember to remove XML-tag and introduce correct notation instead.
 | :s: |        |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | pm  | 1r     |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | lm  | 111-01 |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
+| d   | b      | 1 |   | protocol |   |            |              |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | vniu(er)sis       | ỽníu͛ſıs      |   |   |   |   | lat |   |   |   |        111-01 |
 | w   |        |   |   |   |   | p(re)s(e)ns       | p͛ſn̅s         |   |   |   |   | lat |   |   |   |        111-01 |
 | w   |        |   |   |   |   | sc(ri)ptu(m)      | ſc͛ptu̅        |   |   |   |   | lat |   |   |   |        111-01 |
@@ -70,6 +71,8 @@ ASK: Remember to remove XML-tag and introduce correct notation instead.
 | w   |        |   |   |   |   | succescio         | ſucceſcıo    |   |   |   |   | lat |   |   |   |        111-02 |
 | w   |        |   |   |   |   | futuror(um)       | futuroꝝ      |   |   |   |   | lat |   |   |   |        111-02 |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-02 |
+| d   | e      | 1 |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
+| d   | b      | 2 |   | context |   |             |              |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | me                | me           |   |   |   |   | lat |   |   |   |        111-02 |
 | w   |        |   |   |   |   | vendidisse        | ỽenꝺıꝺıſſe   |   |   |   |   | lat |   |   |   |        111-02 |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-02 |
@@ -180,6 +183,8 @@ ASK: Remember to remove XML-tag and introduce correct notation instead.
 | PL  | e      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-07 |
 | lm  | 111-08 |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
+| d   | e      | 2 |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
+| d   | b      | 3 |   | eschatocol |   |          |              |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | Jn                | Jn           |   |   |   |   | lat |   |   |   |        111-08 |
 | w   |        |   |   |   |   | cuius             | cuíus        |   |   |   |   | lat |   |   |   |        111-08 |
 | w   |        |   |   |   |   | rei               | reí          |   |   |   |   | lat |   |   |   |        111-08 |
@@ -245,4 +250,5 @@ ASK: Remember to remove XML-tag and introduce correct notation instead.
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-11 |
 | n   |        |   |   |   |   | xcº               | xcͦ           |   |   |   |   | lat |   |   |   |        111-11 |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-11 |
+| d   | e      | 3 |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | :e: |        |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |

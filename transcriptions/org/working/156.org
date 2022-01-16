@@ -42,6 +42,7 @@ ASK: Remember to replace XML-tag with correct notation.
 | :s: |        |   |   |   |   |                   |                  |   |   |   |   |     |   |   |   |               |
 | pm  | 1r     |   |   |   |   |                   |                  |   |   |   |   |     |   |   |   |               |
 | lm  | 156-01 |   |   |   |   |                   |                  |   |   |   |   |     |   |   |   |               |
+| d  | b      | 1  |   | protocol  |   |                   |                  |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | NOS               | NOS              |   |   |   |   | lat |   |   |   |        156-01 |
 | PE  | b      | OluEps001  |   |   |   |                   |                  |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | Olauus            | Olauu           |   |   |   |   | lat |   |   |   |        156-01 |
@@ -53,6 +54,8 @@ ASK: Remember to replace XML-tag with correct notation.
 | w   |        |   |   |   |   | Roskilden(sis)    | Roſkílꝺen̅        |   |   |   |   | lat |   |   |   |        156-01 |
 | PL  | e      |   |   |   |   |                   |                  |   |   |   |   |     |   |   |   |               |
 | p   |        |   |   |   |   | .                 | .                |   |   |   |   | lat |   |   |   |        156-01 |
+| d  | e      | 1  |   |   |   |                   |                  |   |   |   |   |     |   |   |   |               |
+| d  | b      | 2  |   | context  |   |                   |                  |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | Ad                | Aꝺ               |   |   |   |   | lat |   |   |   |        156-01 |
 | w   |        |   |   |   |   | honorem           | honoꝛem          |   |   |   |   | lat |   |   |   |        156-01 |
 | w   |        |   |   |   |   | d(omi)ni          | ꝺn̅í              |   |   |   |   | lat |   |   |   |        156-01 |
@@ -243,6 +246,8 @@ ASK: Remember to replace XML-tag with correct notation.
 | w   |        |   |   |   |   | concedimus        | conceꝺímu       |   |   |   |   | lat |   |   |   |        156-06 |
 | w   |        |   |   |   |   | indulgenciarum    | ınꝺulgencıꝛu   |   |   |   |   | lat |   |   |   |        156-06 |
 | p   |        |   |   |   |   | .                 | .                |   |   |   |   | lat |   |   |   |        156-06 |
+| d  | e      | 2  |   |   |   |                   |                  |   |   |   |   |     |   |   |   |               |
+| d  | b      | 3  |   | eschatocol  |   |                   |                  |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | Jn                | Jn               |   |   |   |   | lat |   |   |   |        156-06 |
 | w   |        |   |   |   |   | Cuj(us)           | Cuȷꝰ             |   |   |   |   | lat |   |   |   |        156-06 |
 | w   |        |   |   |   |   | Rei               | Reí              |   |   |   |   | lat |   |   |   |        156-06 |
@@ -273,4 +278,5 @@ ASK: Remember to replace XML-tag with correct notation.
 | w   |        |   |   |   |   | die               | ꝺíe              |   |   |   |   | lat |   |   |   |        156-07 |
 | w   |        |   |   |   |   | Pentecostes/⁘/⁘/⁘ | Pentecoﬅe/⁘/⁘/⁘ |   |   |   |   | lat |   |   |   |        156-07 |
 | p   |        |   |   |   |   | /                 | /                |   |   |   |   | lat |   |   |   |        156-07 |
+| d  | e      | 3  |   |   |   |                   |                  |   |   |   |   |     |   |   |   |               |
 | :e: |        |   |   |   |   |                   |                  |   |   |   |   |     |   |   |   |               |
