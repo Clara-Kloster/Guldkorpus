@@ -1,0 +1,1143 @@
+#+TITLE: Tekstopmærkning i MenotaB-systemet
+#+AUTHOR: Alex Speed Kjeldsen
+# #+OPTIONS: toc:nil
+#+LATEX_HEADER: \cohead{{\scshape Tekstopmærkning i MenotaB-systemet}}
+#+DATE: Version 0.1
+
+* Om dette dokument
+Dette dokument indeholder samtlige typer opmærkning brugt i Editiones
+Arnamagnæanæ Electronicæ.
+
+Hver type indeholder:
+ 1. beskrivelse
+ 2. eksempel fra AM 421 12mo og GKS 1009 fol
+
+Generelle antagelser:
+ - Hvis ikke andet er indikeret formodes rettelser i teksten at være foretaget
+   af den umiddelbare hovedhånd. 
+
+NB: Flere afsnit er opmærkede med TODO-tags, fordi et eller andet er uafklaret
+eller ikke eksemplificeret.
+
+* De overordnede kategorier som angivet i første kolonne
+** =ad= (addition) 
+Senere tilføjelser i manuskriptet, både marginalnoter og korrektioner.
+
+Marginalnoter anses ikke som integrale af teksten og refererer vha. (ad[ID])
+indhold til marginalfanen i noteapparatet.
+
+*** Marginaltekst 
+Samtidige teksttilføjelser har to muligheder:
+
+1. simpel (markeres blot ved indførselstegn i w-linjen)
+   #+BEGIN_SRC orgmode
+   | w |   | kuggr | xNC gM nS cA sI |   | kugg | ⸌kvgg⸍ | ⸌kvgg⸍ |   |   | {k:k}{v:u}{gg:G} | Det interlineært tilføjede 'kvgg' er en rettelse til det på linjen stående 'ſkıp'. |   | A |   |   | 01r37 |
+   #+END_SRC
+
+2. datatung (får ekstra linje)
+   #+BEGIN_SRC orgmode
+   | ad | X |           |        |   |            | AM421hand3 |            | supralinear |   |   |   |    |   |   |   |         |
+   | w  |   | korsfæste | xVB fP |   | korsfæstet | koꝛ⸌s⸍feſt   | koꝛ⸌s⸍feſt  |      001338 |   |   |   | da |   |   |   | 015r-11 |
+   #+END_SRC
+
+Senere tilføjelser indeholdes i noteapparatet, men refererer til det punkt i
+teksten, hvor det forekommer.
+
+*** Skabelon
+Samtidig tilføjelse:
+#+BEGIN_SRC orgmode
+| ad | (type) | (ID)      | (ad[ID]) |   |            | (hand)     |            | (place on page) |   |   |   |    |   |   |   | (location) |
+| w  |        | korsfæste | xVB fP   |   | korsfæstet | koꝛ⸌s⸍feſt   | koꝛ⸌s⸍feſt  |          001338 |   |   |   | da |   |   |   | 015r-11    |
+#+END_SRC
+
+Senere tilføjelse:
+#+BEGIN_SRC orgmode
+| ad | b | 1 | ad1 |   |   | AM421hand6 |   |   |   |   |   |   |   |   |   | 002r |
+| ad | e | 1 |     |   |   |            |   |   |   |   |   |   |   |   |   |      |
+#+END_SRC
+
+Marginalfanen i noter:
+#+BEGIN_SRC orgmode
+| :ad: |          | 1        | ad1                                           |   |          | AM421hand6   |              | below the text |   |   |   |    |   |                                                                                  |   | 002r     |
+| lm   | 002r-a01 |          |                                               |   |          |              |              |                |   |   |   |    |   |                                                                                  |   |          |
+| tr   | b        | 001      | For at den lille side ikke skal fremstå blank |   |          |              |              |                |   |   |   |    |   |                                                                                  |   |          |
+| w    |          | ne       | udl                                           |   | ne       | ⸍⸍ne⸌⸌       | ⸍⸍ne⸌⸌       |         000151 |   |   |   | la |   | :R: ASK, denne tabel slettes vel? Vigtigt at det fremgår på det pågældende sted. |   | 002r-a01 |
+| w    |          | pagella  | udl                                           |   | pagella  | ⸍⸍pagella⸌⸌  | ⸍⸍pagella⸌⸌  |         000152 |   |   |   | la |   |                                                                                  |   | 002r-a01 |
+| w    |          | appare   | udl                                           |   | appareat | ⸍⸍appareat⸌⸌ | ⸍⸍appareat⸌⸌ |         000153 |   |   |   | la |   |                                                                                  |   | 002r-a01 |
+| lm   | 002r-a02 |          |                                               |   |          |              |              |                |   |   |   |    |   |                                                                                  |   |          |
+| w    |          | pallidus | udl                                           |   | pallida  | ⸍⸍pallida⸌⸌  | ⸍⸍pallida⸌⸌  |         000154 |   |   |   | la |   |                                                                                  |   | 002r-a02 |
+| tr   | e        | 001      |                                               |   |          |              |              |                |   |   |   |    |   |                                                                                  |   |          |
+| :e:  |          |          |                                               |   |          |              |              |                |   |   |   |    |   |                                                                                  |   |          |
+#+END_SRC
+
+*** AM 421 12mo
+#+BEGIN_SRC orgmode
+| ad | b | 1 |   |   |   | AM421hand6 |   |   |   |   |   |   |   |   |   | 002r |
+| ad | e | 1 |   |   |   |            |   |   |   |   |   |   |   |   |   |      |
+
+| ad | X |           |        |   |            | AM421hand3 |            | supralinear |   |   |   |    |   |   |   |         |
+| w  |   | korsfæste | xVB fP |   | korsfæstet | koꝛ⸌s⸍feſt   | koꝛ⸌s⸍feſt  |      001338 |   |   |   | da |   |   |   | 015r-11 |
+#+END_SRC
+
+*** GKS 1009 fol
+#+BEGIN_SRC orgmode
+| ad | b |   |   |   |   |   |   | left margin |   |   |   |   |   |   |   | 007v |
+...
+| ad | e |   |   |   |   |   |   |             |   |   |   |   |   |   |   |      |
+#+END_SRC
+
+** =d= (division) 
+Opmærker forskellige tekstdele.
+
+Består af start og end tags, der begge skal indeholde ID. Start-tagget kan
+indeholde yderligere information.
+
+*** Skabelon
+#+BEGIN_SRC orgmode
+| d | b | (ID) | (kapitel ID) | (type***) | (niveau) | (kapitel) | (farve) |   |   |   |   |   |   |   |   |   |
+...
+| d | e | (ID) |              |           |          |           |         |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+*** AM 421 12mo
+(kapitel) = MJ(kapitel ID); Bør økonomiseres (ASK). 
+
+#+BEGIN_SRC orgmode
+| d | b | 2 | 01 | prayer | 1 | MJ01 |   |   |   |   |   |   |   |   |   |   |
+...
+| d | e | 2 |    |        |   |      |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** GKS 1009 fol
+(ID) = (kapitel i Gade & Andersson)/(kapitel GKS 1009 fol) 
+
+#+BEGIN_SRC orgmode
+| d | b | 001/001 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+...
+| d | e | 001/001 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** Typer
+**** =transcription=
+Indrammer hele transkriptionen
+
+#+BEGIN_SRC orgmode
+| d | b | 1 |   | transcription |   |   |   |   |   |   |   |   |   |   |   |   |
+...
+| d | e | 1 |   |               |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+**** =prayer=
+Overordnet tag for hver helbøn. Kan indeholde rubric, final_rubric,
+prayer_in_verse, prayer_text, hymnus, antiphona. 
+
+#+BEGIN_SRC orgmode
+| d | b | 2 | 01 | prayer | 1 | MJ01 |   |   |   |   |   |   |   |   |   |   |
+...
+| d | e | 2 |    |        |   |      |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+**** =rubric=
+Tekst der indleder bønnen. 
+
+#+BEGIN_SRC orgmode
+| d | b | 3 |   | rubric |   |   | red |   |   |   |   |   |   |   |   |   |
+...
+| d | e | 3 |   |        |   |   |     |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+**** =final_rubric=
+Tekst der ofte forklarende afslutter en bøn.
+
+#+BEGIN_SRC orgmode
+| d | b | 44 |   | final_rubric |   |   | red |   |   |   |   |   |   |   |   |   |
+...
+| d | e | 44 |   |              |   |   |     |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+**** =prayer_in_verse=
+Bøn på vers
+
+#+BEGIN_SRC orgmode
+| d | b | 30 | 13.1 | prayer_in_verse | 2 | MJ13.1 |   |   |   |   |   |   |   |   |   |   |
+...
+| d | e | 30 |      |                 |   |        |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+**** =prayer_text=
+Selve bønnen
+
+#+BEGIN_SRC orgmode
+| d | b | 34 |   | prayer_text |   |   |   |   |   |   |   |   |   |   |   |   |
+...
+| d | e | 34 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+**** =part_of_prayer=
+Brugt ved markante afsnit inden for samme bøn. 
+
+#+BEGIN_SRC orgmode
+| d | b | 38 | 15.2 | part_of_prayer | 2 | MJ15.2 |   |   |   |   |   |   |   |  |   |   |
+...
+| d | e | 38 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+**** =hymnus=
+Hymne
+
+#+BEGIN_SRC orgmode
+| d | b | 102 | 16.2 | hymnus | 2 | MJ16.2 |   |   |   |   |   |   |   |   |   |   |
+...
+| d | e | 102 |      |        |   |        |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+**** =antiphona=
+Antiphona
+
+#+BEGIN_SRC orgmode
+| d | b | 25 | 11.2 | antiphona | 2 | MJ11.2 |   |   |   |   |   |   |   |   |   |   |
+...
+| d | e | 25 |      |           |   |        |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+**** =prayers_of_communion=
+Indeholder flere bønner
+
+#+BEGIN_SRC orgmode
+| d | b | 378 | 26 | prayers_of_communion | 1 | MJ26 |   |   |   |   |   |   |   |   |   |   |
+...
+| d | e | 378 |    |                      |   |      |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+**** =collecta=
+En kollekt er en bestemt type bøn, der kan indeholdes i en anden bøn.
+
+#+BEGIN_SRC orgmode
+| d | b | 8 |   | collecta |   |   |   |   |   |   |   |   |   |   |   |   |
+...
+| d | e | 8 |   |          |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+**** =psalter=
+Psalter, indeholder part_of_psalter
+
+#+BEGIN_SRC orgmode
+| d | b | 121 | 21 | psalter | 1 | MJ21 |   |   |   |   |   |   |   |   |   |   |
+...
+| d | e | 121 |    |         |   |      |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+**** =part_of_psalter=
+Ét af psalterens tre delelementer, herunder et antal prayer.
+
+#+BEGIN_SRC orgmode
+| d | b | 123 | 21.2 | part_of_psalter | 2 | MJ21.2 |   |   |   |   |   |   |   |   |   |   |
+...
+| d | e | 123 |      |                 |   |        |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+**** =versiculus=
+Enkel verselinje.
+
+#+BEGIN_SRC orgmode
+| d | b | 7 |   | versiculus |   |   |   |   |   |   |   |   |   |   |   |   |
+...
+| d | e | 7 |   |            |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+**** =Ten_Commandments=                                                :TODO:
+# Af konsistenshensyn burde dette omdøbes til =ten_commandments=
+
+De ti bud.
+
+#+BEGIN_SRC orgmode
+| d | b | 499 | 46 | Ten_Commandments | 1 | MJ46 |   |   |   |   |   |   |   |   |   |   |   |
+...
+| d | e | 499 |    |                  |   |      |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+**** =exordium=
+Indledning. Rhetorica Divina. Kan bestå af invocatio og captatio_benevolentiae
+
+#+BEGIN_SRC orgmode
+| d | b | 39 |   | exordium |   |   |   |   |   |   |   |   |   |   |   |   |
+...
+| d | e | 39 |   |          |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+**** =invocatio=
+Påkaldelse. Rhetorica Divina.
+
+#+BEGIN_SRC orgmode
+| d | b | 40 |   | invocatio |   |   |   |   |   |   |   |   |   |   |   |   |
+...
+| d | e | 40 |   |           |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+**** =captatio_benevolentiae=
+"Vinde sig velvilje". Rhetorica Divina.
+
+#+BEGIN_SRC orgmode
+| d | b | 387 |   | captatio_benevolentiae |   |   |   |   |   |   |   |   |   |   |   |   |
+...
+| d | e | 387 |   |                        |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+**** =narratio=
+Fortællende del af bønnen. Rhetorica Divina.
+
+#+BEGIN_SRC orgmode
+| d | b | 41 |   | narratio |   |   |   |   |   |   |   |   |   |   |   |   |
+...
+| d | e | 41 |   |          |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+**** =petitio=
+Den egentlige bøn. Rhetorica Divina.
+
+#+BEGIN_SRC orgmode
+| d | b | 42 |   | petitio |   |   |   |   |   |   |   |   |   |   |   |   |
+...
+| d | e | 42 |   |         |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+**** =conclusio=
+Bønnens afslutning, til tider blot 'amen'. Rhetorica Divina.
+
+#+BEGIN_SRC orgmode
+| d | b | 43 |   | conclusio |   |   |   |   |   |   |   |   |   |   |   |   |
+...
+| d | e | 43 |   |           |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+** =de= (deleted) 
+Tekst slettet i manuskriptet.
+
+Indsat som milestone der forholder sig til det efterfølgende ord.
+
+(method) indeholder: overstrike, subpunctuation, erasure.
+
+
+*** Skabelon
+#+BEGIN_SRC orgmode
+| de | X |       |     |   |         | (hand)  | (method) |         |   |   |   |    |   |   |   |         |
+| w  |   | skyld | xNC |   | ⸠skyld⸡   | ⸠ſkyld⸡  | ⸠ſkyld⸡    | 004763 |   |   |   | da |   |   |   | 039v-05 |
+#+END_SRC
+
+*** AM 421 12mo
+#+BEGIN_SRC orgmode
+| de | X |       |     |   |         | AM421hand1 | overstrike |        |   |   |   |    |   |   |   |         |
+| w  |   | skyld | xNC |   | ⸠skyld⸡   | ⸠ſkyld⸡     | ⸠ſkyld⸡     | 004763 |   |   |   | da |   |   |   | 039v-05 |
+#+END_SRC
+
+*** GKS 1009 fol
+#+BEGIN_SRC orgmode
+| de | X |       |                              |   |        |          | subpunction |   |   |                           |                                                                                                                                 |   |   |   |   |         |
+| w  |   | gruna | xVB fF tPS mIN p3 nS vA iWKO |   | grunar | grvn(ar) | grvnͬ⸠a⸡     |   |   | {g:g}{r:r}{v:u}{n:n}{ͬ:Ar} | Efter 'ͬ' et 'a', der er slettet ved underprikning, mens det derefter følgende 'r' er rettet til 'v'. :R: Således sammenskrevet. |   | A |   | = | 001v-19 |
+#+END_SRC
+
+** =fi= (figure)
+Billede.
+
+Kræver begin og end tags.
+
+*** Skabelon
+#+BEGIN_SRC orgmode
+| fi | b | (ID) | (ID 2) | (Danish title) | (Iconclass nr.) | (type) | (colors) | (technique) |   |   |   |   |   |   |   | (location) |
+...
+| fi | e | (ID) |        |                |                 |        |          |             |   |   |   |   |   |   |   |            |
+#+END_SRC
+
+*** AM 421 12mo
+#+BEGIN_SRC orgmode
+| fi | b                         |          8 | 009       | Anna selvtredje | 73A221     | full_page    | red, blue, yellow | gold_brush |                 |   |   |    |   |   |   | 033v              |
+| h  | b                         |         30 |           | supplied        |            |              |                   |            | Anna selvtredje |   |   |    |   |   |   |                   |
+| h  | e                         |         30 |           |                 |            |              |                   |            |                 |   |   |    |   |   |   |                   |
+| pa | b                         |         75 |           |                 |            |              |                   |            |                 |   |   |    |   |   |   |                   |
+| q  | b                         |          3 | spoken    |                 |            |              |                   |            |                 |   |   |    |   |   |   |                   |
+| lm | 033v-f01                  |            |           |                 |            |              |                   |            |                 |   |   |    |   |   |   |                   |
+| w  | hjalpe (65019968:2)       |     hjælpe | xVB fF    |                 | Hjælp      | Hielp        | Hielp             |     003872 |                 |   |   | da |   |   |   | 033v-f01          |
+| PE | b                         |  AnnXxx001 | type_holy |                 |            |              |                   |            |                 |   |   |    |   |   |   |                   |
+| w  | sankte (65034735:1)       |      sankt | xAJ       |                 | sankt      | ſ(anc)ta     | ſta̅               |     003873 |                 |   |   | da |   |   |   | 033v-f01          |
+| w  |                           |       Anna | xNP       |                 | Anna       | anna         | anna              |     003874 |                 |   |   | da |   |   |   | 033v-f01          |
+| w  | sjalvthrithje (65035207:) | selvtredje | xPD       |                 | selvtredje | ſelff¦trediæ | ſelff¦trediæ      |     003875 |                 |   |   | da |   |   |   | 033v-f01—033v-f02 |
+| PE | e                         |  AnnXxx001 |           |                 |            |              |                   |            |                 |   |   |    |   |   |   |                   |
+| q  | e                         |          3 |           |                 |            |              |                   |            |                 |   |   |    |   |   |   |                   |
+| pa | e                         |         75 |           |                 |            |              |                   |            |                 |   |   |    |   |   |   |                   |
+| fi | e                         |          8 |           |                 |            |              |                   |            |                 |   |   |    |   |   |   |                   |
+#+END_SRC
+
+*** GKS 1009 fol
+Bruges ikke.
+
+** =ga= (gap)                                                          :TODO:
+Lakune i teksten.
+
+TODO: 
+ - ! Er det nødvendigt med 'klodserne' i GKS 1009 fol
+ - ! Hvad gør vi med ordinterne?
+ - ! When the milestone element =<gap>= occurs within a word, this is indicated
+   by a Euro sign (€). Dette overhovedet ikke brugt. Skal det indføres? 
+
+*** AM 421 12mo
+#+BEGIN_SRC orgmode
+| ga |   |   | lacuna |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** GKS 1009 fol
+#+BEGIN_SRC orgmode
+| ga |   |   | lacuna |   | ■ | ■ | ■ |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+** =gb= (gathering break)
+Lægskifte. Milestone.
+
+*** Skabelon
+#+BEGIN_SRC orgmode
+| gb | (nr) | (X for opsplitning af ord) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC 
+
+*** AM 421 12mo
+#+BEGIN_SRC orgmode
+| gb | 013 | X    |        |   |       |           |        |        |   |   |   |    |   |   |   |                 |
+| w  |     | vide | xVB fF |   | vider | we‖th(e)ꝛ | we‖thꝛ̅  | 011321 |   |   |   | da |   |   |   | 097v-15—098r-01 |
+#+END_SRC
+
+** =h= (head)
+Overskrift.
+
+Kræver begin og end tag. 
+
+*** Skabelon
+#+BEGIN_SRC orgmode
+| h | b | (ID) |   | (supplied) |   |   |   |   | (titel / farve) |   |   |   |   |   |   |   |
+| h | e | (ID) |   |            |   |   |   |   |                 |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** AM 421 12mo
+Bruges både til supplerede overskrifter og underoverskrifter i håndskriftet.
+
+#+BEGIN_SRC orgmode
+| h | b | 1 |   | supplied |   |   |   |   | Bøn til Jesu Kristi navne |   |   |   |   |   |   |   |
+| h | e | 1 |   |          |   |   |   |   |                           |   |   |   |   |   |   |   |
+#+END_SRC
+
+#+BEGIN_SRC orgmode
+| h | b |    5 |     |   |      |        |    |        |           |   |   |    |   |   |   |         |
+| w |   | vers | xNC |   | vers | w(ers) | w͛ | 000288 | {lW:cRed} |   |   | da |   |   |   | 004v-09 |
+| h | e |    5 |     |   |      |        |    |        |           |   |   |    |   |   |   |         |
+#+END_SRC
+
+*** GKS 1009 fol
+Bruges kun for overskrifter i håndskriftet.
+
+#+BEGIN_SRC orgmode
+| h  | b |           |                 |   |           |                 | red       |   |   |                                   | Overskriften, der er anbragt sidst i linjen, er særdeles utydelig, men det synes muligt at læse noget på UV-billeder. Tjek hs., tjek UV. Fik mest ud af at læse den i selve håndskriftet i dagslys. :R: indført 'red' som i AM 421 12mo. |   |   |   |   |       |
+| w  |   | saga      | xNC gF nS cN sI |   | Saga      | {Saga}          | {Saga}    |   |   | {S:ſ}{a:a}{g:g}{a:A}              |                                                                                                                                                                                                                                          |   | A |   |   | 01r01 |
+| PE | b | MagGóð001 |                 |   |           |                 |           |   |   |                                   |                                                                                                                                                                                                                                          |   |   |   |   |       |
+| w  |   | Magnús    | xNP gM nS cG sI |   | Magn[ús]  | {agn}[(uſ)]    | {agn}[ꝰ] |   |   | {:§m}{a:§a}{g:§g}{n:§n}{[ꝰ]:§úſ} |                                                                                                                                                                                                                                          |   | A |   |   | 01r01 |
+| PE | e | MagGóð001 |                 |   |           |                 |           |   |   |                                   |                                                                                                                                                                                                                                          |   |   |   |   |       |
+| w  |   | konungr   | xNC gM nS cG sI |   | k[onung]s | {k}[(onvng)]{ſ} | {k}[̅]{ſ}  |   |   | {k:§k}{[̅]:§onung}{ſ:§ſ}           |                                                                                                                                                                                                                                          |   | A |   |   | 01r01 |
+| w  |   |           |                 |   | ■         | ■               | ■         |   |   |                                   | Dette tegn bruges for &tabt;                                                                                                                                                                                                             |   | A |   |   | 01r01 |
+| h  | e |           |                 |   |           |                 |           |   |   |                                   |                                                                                                                                                                                                                                          |   |   |   |   |       |
+#+END_SRC
+** =hs= (hand shift)
+Håndskift. Milestone.
+*** Skabelon
+#+BEGIN_SRC orgmode
+| hs |   | (hand ID) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** AM 421 12mo
+#+BEGIN_SRC orgmode
+| hs |   | AM421hand1a |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** GKS 1009 fol
+14. kolonne indeholder ligeledes skriverinformation i alle w rækker
+
+#+BEGIN_SRC orgmode
+| hs |   | GKS1009handB |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+** =l= (line) 
+Linje eller vers.
+Kræver begin og end tag.
+
+*** Skabelon
+#+BEGIN_SRC orgmode
+| l | b | (ID) | (nr. within lg) |   |   |   |   | (met) | (real) | (rhyme foot) |   |   |   |   |   |   |
+...
+| l | e | (ID) |                 |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** AM 421 12mo
+#+BEGIN_SRC orgmode
+| l | b | 28 | 3 |   |   |   |   |   | -+-+- | B |   |   |   |   |   |   |
+...
+| l | e | 28 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** GKS 1009 fol
+Bruges ikke.
+
+** =lg= (line group)
+Strofe.
+
+Kræver begin og end tag.
+
+*** Skabelon
+#+BEGIN_SRC orgmode
+| lg | b | (ID) | (stanza nr.) | (type) |   |   |   | (meter) | (rhyme) |   |   |   |   |   |   |   |   |
+...
+| lg | e | (ID) |   |        |   |   |   |         |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** AM 421 12mo
+#+BEGIN_SRC orgmode
+| lg | b | 7 | 01 | stanza |   |   |   | iambic dimeter |   | aaBBC |   |   |   |   |   |   |
+...
+| lg | e | 7 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** GKS 1009 fol
+Bruges ikke.
+
+** =lm= (line break)
+Linjeskift. Milestone.
+
+Linjeskift markeres ordinternt i word-rækken (location) med — mellem de to linjer.
+
+*** Skabelon
+#+BEGIN_SRC orgmode
+| lm | (linjenr) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+ad (addition)
+
+#+BEGIN_SRC orgmode
+| lm | 016v-a01 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+fi (figure)
+
+#+BEGIN_SRC orgmode
+| lm | 016v-f01 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** AM 421 12mo
+#+BEGIN_SRC orgmode
+| lm | 001r-01 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** GKS 1009 fol
+#+BEGIN_SRC orgmode
+| lm | 001r-01 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+** =mm= (metamark) 
+Strukturmarkører.
+
+*** Skabelon
+#+BEGIN_SRC orgmode
+| mm |   | (type) |   | (color) |   | (facs) |   |   |   |   |   |   |   | (note) |   |   |
+#+END_SRC
+
+*** AM 421 12mo
+#+BEGIN_SRC orgmode
+| mm |   | linefil |   | red |   | xxxxxxxxxxxx |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** GKS 1009 fol                                                       :TODO:
+Bruges ikke (slet ikke? ASK).
+
+** =n= (numeral)
+Talord gengivet med numeriske tegn.
+
+*** Skabelon
+#+BEGIN_SRC orgmode
+| n |   | (value) | xTA |   | (spelled out) | (dipl) | (dipl) |   |   |   |   |   | (hand) |   |   | (location) |
+#+END_SRC
+
+*** AM 421 12mo
+#+BEGIN_SRC orgmode
+| n |   | 5 | xTA |   | 5 | 5 | 5 | 013870 |   |   |   | da |   |   |   | 119r-06 |
+#+END_SRC
+
+*** GKS 1009 fol
+#+BEGIN_SRC orgmode
+| n |   | 2 | xTA |   | tveir | .ii. | .ıı. |   |   |   |   |   | A |   |   | 01v03 |
+#+END_SRC
+
+** =p= (punctuation) 
+Tegnsætning, i manuskript eller udgave.
+
+(hand) og (location) udfyldes kun ifbm. (facs) og (dipl).
+
+*** Skabelon
+#+BEGIN_SRC orgmode
+| p |   |   |   |   | (norm) | (dipl) | (facs) |   |   |   |   |   | (hand) |   |   | (location) |
+#+END_SRC
+
+*** AM 421 12mo
+#+BEGIN_SRC orgmode
+| p |   |   |   |   | , |   |   |   |   |   |   |   |   |   |   |  |
+#+END_SRC
+
+*** GKS 1009 fol
+(hand) bruges kun ved (facs) og (dipl).
+
+#+BEGIN_SRC orgmode
+| p |   |   |   |   | . | . | . |   |   |   |   |   | A |   |   | 01r02 |
+#+END_SRC
+
+** =pa= (paragraph)
+Brødtekst.
+
+Kræver begin og end tag.
+
+*** Skabelon
+#+BEGIN_SRC orgmode
+| pa | b | (ID) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+...
+| pa | e | (ID) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** AM 421 12mo
+#+BEGIN_SRC orgmode
+| pa | b | 1 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+...
+| pa | e | 1 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** GKS 1009 fol
+#+BEGIN_SRC orgmode
+| pa | b |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+...
+| pa | e |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+** =pe= (page break edition)
+Side i udgave.
+
+Milestone. Udgaven må nødvendigvis defineres for at referencen giver mening.
+
+*** Skabelon
+#+BEGIN_SRC orgmode
+| pe | [(vol):(page)]  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** AM 421 12mo
+Bruges ikke.
+
+*** GKS 1009 fol
+Udgave: Morkinskinna I (Íslenzk Fornrit XXXIII) = I, Morkinskinna II (Íslenzk
+Fornrit XXXIV) = II
+
+#+BEGIN_SRC orgmode
+| pe | I:4 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+** =PE= (person) 
+Personopmærkning.
+
+Kræver begin og end tag.
+
+(ref) bruges til at samle navne der falder på hver sin side af navneord (fx
+konungr) eller strukturelle milestones (fx linje- eller sideskift).
+
+*** Skabelon
+#+BEGIN_SRC orgmode
+| PE | b | (ID) | (type) | (part) | (ref) |   |   |   |   |   |   |   |   |   |   |   |
+...
+| PE | e | (ID) |        |        |       |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** AM 421 12mo                                                        :TODO:
+NB! Har flg. typer: =type_divine=, =type_holy=, =type_biblical=, =type_worldly= (kan vel
+økonomiseres ved at fjerne =type_=, ASK?).
+
+#+BEGIN_SRC orgmode
+| PE | b | JesKri001 | type_divine | np1 | →JesKri001/ |   |   |   |   |   |   |   |   |   |   |   |
+...
+| PE | e | JesKri001 |             | np1 |             |   |   |   |   |   |   |   |   |   |   |   |
+...
+| PE | b | JesKri001 |             | np2 | #JesKri001/ |   |   |   |   |   |   |   |   |   |   |   |
+...
+| PE | e | JesKri001 |             | np2 |             |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** GKS 1009 fol
+#+BEGIN_SRC orgmode
+| PE | b | ÓláHel001 |   | np1 | →ÓláHel001/01r09 |   |   |   |   |   |   |   |   |   |   |   |
+...
+| PE | e | ÓláHel001 |   | np1 |                  |   |   |   |   |   |   |   |   |   |   |   |
+...
+| PE | b | ÓláHel001 |   | np2 | #ÓláHel001/01r09 |   |   |   |   |   |   |   |   |   |   |   |
+...
+| PE | e | ÓláHel001 |   | np2 |                  |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+** =PL= (place)
+Stednavneangivelse.
+
+Kræver begin og slut tag.
+
+*** Skabelon
+#+BEGIN_SRC orgmode
+| PL | b | (ID) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+...
+| PL | e | (ID) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** AM 421 12mo
+#+BEGIN_SRC orgmode
+| PL | b | ParXxx001 |     |   |         |         |         |        |   |   |   |    |   |   |   |         |
+...
+| PL | e | ParXxx001 |     |   |         |         |         |        |   |   |   |    |   |   |   |         |
+#+END_SRC
+
+*** GKS 1009 fol
+#+BEGIN_SRC orgmode
+| PL | b | GarRUS001 |                 |   |           |            |            |   |   |                                                  |   |   |   |   |   |       |
+...
+| PL | e | GarRUS001 |                 |   |           |            |            |   |   |                                                  |   |   |   |   |   |       |
+#+END_SRC
+
+** =pm= (page break manuscript) 
+Sideskifte i håndskriftet. Milestone.
+
+*** Skabelon
+#+BEGIN_SRC orgmode
+| pm | (sidenr.) | (ID) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** AM 421 12mo
+#+BEGIN_SRC orgmode
+| pm | 001r | #AM12-421-1r |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** GKS 1009 fol
+#+BEGIN_SRC orgmode
+| pm | 01r |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+** =PP= (prayer) 
+Opmærkning af referencer til bønner.
+
+Kræver begin og end tag.
+
+*** Skabelon
+#+BEGIN_SRC orgmode
+| PP | b | (ID) |  |   |   |   |   |   |   |   |   |   |   |   |   |   |
+...
+| PP | e | (ID) |        |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** AM 421 12mo
+#+BEGIN_SRC orgmode
+| PP | b | VulTuu001 |    |   |   |   |   |   |   |   |   |   |   |   |   |   |
+...
+| PP | e | VulTuu001 |    |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** GKS 1009 fol
+Bruges ikke.
+
+** =q= (quote)  
+Tekststrenge i citationstegn.
+
+NB! iflg. TEI kan egentlige citater markeres med 'spoken' som i AM 421 12mo. Da
+dette formodes at være default brug af q kan 'spoken' udelades. 
+
+*** Skabelon
+#+BEGIN_SRC orgmode
+| q | b | (ID) | (spoken) |   |   |   |   |   |   |   |   |   |   |   |   |   |
+...
+| q | e | (ID) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** AM 421 12mo
+#+BEGIN_SRC orgmode
+| q | b | 1 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+...
+| q | e | 1 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** GKS 1009 fol
+#+BEGIN_SRC orgmode
+| q | b |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+...
+| q | e |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+** =s= (segment)
+Mindre tekstelementer, fra ordniveau og opefter.
+
+Kræver begin og end tag. 
+
+*** Skabelon
+#+BEGIN_SRC orgmode
+| s | b | (ID) |   | (type***) | (subtype****) |   |   |   |   |   |   |   |   |   |   |   |
+...
+| s | e | (ID) |   |                     |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** AM 421 12mo
+#+BEGIN_SRC orgmode
+| s | b | 8 |   | figure | polyptoton |   |   |   |   |   |   |   |   |   |   |   |
+...
+| s | e | 8 |   |        |            |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** GKS 1009 fol
+#+BEGIN_SRC orgmode
+| s | b |   |   | conjunction | þó at |   |   |   |   |   |   |   |   |   |   |   |
+...
+| s | e |   |   |             |       |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** Typer
+**** =praise=
+Lovprisning, ofte i invocatio og typisk ved brug af konjunktiv.
+
+#+BEGIN_SRC orgmode
+| s | b | 90 |   | praise |   |   |   |   |   |   |   |   |   |   |   |   |
+...
+| s | e | 90 |   |        |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+**** =elative_superlative=
+Superlativ brug uden korrelat.
+
+#+BEGIN_SRC orgmode
+| s | b | 1 |   | elative_superlative |   |   |   |   |   |   |   |   |   |   |   |   |
+...
+| s | e | 1 |   |                     |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+**** =instruction=
+Instruktion til læser om at udføre en bestemt handling.
+
+#+BEGIN_SRC orgmode
+| s | b | 5 |   | instruction |   |   |   |   |   |   |   |   |   |   |   |   |
+...
+| s | e | 5 |   |             |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+**** =salutatio=
+En explicit hilsen, typisk i invocatio.
+
+#+BEGIN_SRC orgmode
+| s | b | 97 |   | salutatio |   |   |   |   |   |   |   |   |   |   |   |   |
+...
+| s | e | 97 |   |           |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+**** =figure=
+Sproglige figurer, kræver specificering af undertype:
+
+***** =antithesis=
+Modsætninger.
+
+#+BEGIN_SRC orgmode
+| s | b | 2 |   | figure | antithesis |   |   |   |   |   |   |   |   |   |   |   |
+...
+| s | e | 2 |   |        |            |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+***** =variatio=
+Den varierede ordgentagelse, også kaldet hendiadyoin (Gr. 'én gennem to').
+
+#+BEGIN_SRC orgmode
+| s | b | 3 |   | variatio |   |   |   |   |   |   |   |   |   |   |   |   |
+...
+| s | e | 3 |   |          |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+***** =polyptoton=
+Etymologisk gentagelse. 
+
+#+BEGIN_SRC orgmode
+| s | b | 8 |   | figure | polyptoton |   |   |   |   |   |   |   |   |   |   |   |
+...
+| s | e | 8 |   |        |            |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+***** =apostrophe=
+Invokation, påkaldelse.
+
+#+BEGIN_SRC orgmode
+| s | b | 00000 |   | figure | apostrophe |   |   |   |   |   |   |   |   |   |   |   |
+...
+| s | e | 00000 |   |        |            |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+***** =appositio=
+Navnetillæg, forklarende navnesamstilling.
+
+#+BEGIN_SRC orgmode
+| s | b | 80001 |   | figure | appositio |   |   |   |   |   |   |   |   |   |   |   |
+...
+| s | e | 80001 |   |        |           |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+***** =parallelism=
+Bredt formuleret, bl.a. gentagelse af sætningskonstruktionen.
+
+#+BEGIN_SRC orgmode
+| s | b | 2420001 |   | figure | paralellism |   |   |   |   |   |   |   |   |   |   |   |
+...
+| s | e | 2420001 |   |        |             |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+***** =metaphor=
+Overført billedligt ord eller udtryk.
+
+#+BEGIN_SRC orgmode
+| s | b | 86 |   | figure | metaphor |   |   |   |   |   |   |   |   |   |   |   |
+...
+| s | e | 86 |   |        |          |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+***** =simile=
+En metafor med eksplicit forbindeled, fx 'ligesom' Albeck 130
+
+#+BEGIN_SRC orgmode
+| s | b | 2420002 |   | figure | simile |   |   |   |   |   |   |   |   |   |   |   |
+...
+| s | e | 2420002 |   |        |        |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+***** =synecdoche=
+Pars pro toto eller totum pro parte.
+
+#+BEGIN_SRC orgmode
+| s | b | 920019 |   | figure | synecdoche |   |   |   |   |   |   |   |   |   |   |   |
+...
+| s | e | 920019 |   |        |            |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+**** =rhyme=
+Rimfigurer, kræver specificering af undertype:
+
+***** =assonance=
+Halvrim, vokalrim.
+
+#+BEGIN_SRC orgmode
+| s | b | 150 |   | rhyme | assonance |   |   |   |   |   |   |   |   |   |   |   |
+...
+| s | e | 150 |   |       |           |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+***** =alliteration=
+Bogstavrim, overensstemmelse mellem begyndelseslyd i betonet stavelse. 
+
+#+BEGIN_SRC orgmode
+| s | b | 90001 |   | rhyme | alliteration |   |   |   |   |   |   |   |   |   |   |   |
+...
+| s | e | 90001 |   |       |              |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+**** =semantic=
+Udpræget brug af ord fra bestemt semantisk kategori, kræver undertype:
+
+*ASK*: Strengt taget giver det ingen mening at operere med en undertype, når der kun er én at vælge imellem.
+
+***** =affective=
+#+BEGIN_SRC orgmode
+| s | b | 880001 |   | semantic | affective |   |   |   |   |   |   |   |   |   |   |   |
+...
+| s | e | 880001 |   |          |           |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+**** =conjunction=                                                     :TODO:
+TODO: Indsæt eksempler.
+
+Sammensat konjunktion (bruges kun i GKS 1009 fol), kræver undertype:
+
+***** =þó at=
+***** =fyrr en=
+***** =því at=
+***** =þá er=
+***** =þegar er=
+***** =þar er=
+***** =áðr en=
+***** =þar sem=
+***** =svá at=
+***** =síðan er=
+***** =svá sem=
+***** =þangat til er=
+***** =fyrir því at=
+***** =fyr því atví=
+***** =þar til er=
+**** =preposition=                                                     :TODO:
+TODO: Indsæt eksempler.
+
+Sammensat præposition (bruges kun i GKS 1009 fol), kræver undertype:
+
+***** =fyr sunnan=
+***** =fyr norðan=
+***** =fyr innan=
+***** =fyr ofan=
+***** =fyr vestan=
+***** =fyr framan=
+***** =fyr útan=
+**** =pronoun=                                                         :TODO:
+TODO: Indsæt eksempel.
+
+Sammensat pronomen (bruges kun i GKS 1009 fol), kræver undertype:
+***** =né einn= 
+**** =textual_parallel=                                                :TODO:
+TODO: Indsæt eksempel.
+
+Tekststykke med paralleltekst, kræver specificering af hvilken:
+
+***** =ágr=
+Ágrip.
+
+** =su= (surplus, me:suppressed, me:expunged)                          :TODO:
+Parts of words that are marked with =<surplus>=, =<me:suppressed>= (or
+the older =<me:expunged>=) are rendered inside of vertical bars with
+quills facing outwards (⸡ ⸠).
+
+*** Skabelon                                                           :TODO:
+MANGLER.
+
+*** AM 421 12mo
+#+BEGIN_SRC orgmode
+| w | nu (65032009:) | nu | xAV rP |   | ⸡nu⸠ | ⸡nw⸠ | ⸡nw⸠ | 000474 |   |   |   | da |   | :R: Chr.Ped'sens s. 393: "se og barmhertelige nu..." |   | 006r-09 |
+#+END_SRC
+
+*** GKS 1009 fol
+#+BEGIN_SRC orgmode
+| w |   | ok | xCC |   | ⸡ok⸠ | ⸡oc⸠ | ⸡oc⸠ |   |   | {!o¡:§o}{!c¡:§k} |   |   | A |   |   | 001r-06 |
+#+END_SRC
+
+** =tr= (translation) 
+Oversættelse af en tekst.
+
+Kræver begin og end tag.
+
+*** Skabelon
+#+BEGIN_SRC orgmode
+| tr | b | (ID) | (translation) |   |   |   |   |   |   |   |   |   |   |   |   |   |
+...
+| tr | e | (ID) |               |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** AM 421 12mo
+#+BEGIN_SRC orgmode
+| tr | b | 004 | De vil søge din vilje |   |   |   |   |   |   |   |   |   |   |   |   |   |
+...
+| tr | e | 004 |                       |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** GKS 1009 fol
+Bruges ikke.
+
+** =ts= (transposition)
+Transposition.
+
+Kan både være på bogstav- og ordniveau.
+
+*** Skabelon
+#+BEGIN_SRC orgmode
+| ts | b |   |   |   |   | (hand) | (marker) | ([original order] in w row) |   |   |   |   |   |   |   |   |
+...
+| ts | e |   |   |   |   |        |          |                             |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+#+BEGIN_SRC orgmode
+| ts | X |   |   |   |   | (hand) | (marker) | (original order of letters) |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** AM 421 12mo
+Bruges ikke.
+
+*** GKS 1009 fol
+**** Ord
+#+BEGIN_SRC orgmode
+| ts | b |       |              |   |       | GKS1009handUA | ..   |     |   |                  |   |   |   |   |   |         |
+| w  |   | hér   | xAV rP       |   | hér   | her           | her  | [2] |   | {h:h}{e:é}{r:r}  |   |   | A |   |   | 001v-19 |
+| w  |   | neinn | xPI gM nS cA |   | neinn | nei()       | neı̅ | [1] |   | {n:n}{eı:ę}{̅:N} |   |   | A |   |   | 001v-19 |
+| ts | e |       |              |   |       |               |      |     |   |                  |   |   |   |   |   |         |
+#+END_SRC
+
+**** Bogstav
+#+BEGIN_SRC orgmode
+| ts  | X       |                    |                                 |             |                | GKS1009handUA    | .                | k̅k̅ eıng |    |                                                                       |                                                                                                                                                                   |   |                 |   |    |                 |
+| w   |         | konungaeign        | xNC gF nS cA sI                 |             | konungaeign    | k(ononga) eign   | k̅k̅ eıgn          |         |    | {k:k}{̅k̅:onungA}{·}{eı:ę}{g:g}{n:n}                                    | Skr. eing med &ombyt; over "n" og "g"                                                                                                                             |   | B               |   |    | 011r-41         |
+#+END_SRC
+
+** =w= (word)
+Ordtag.
+
+*** Skabelon
+#+BEGIN_SRC orgmode
+| w | (lemma 1) | (lemma 2) | (msa) | (norm 1) | (norm 2) | (dipl) | (facs) | (ID) | (palaeography) | (grapho-phonematic) | (note[GKS]) | (language) | (hand[GKS]/compound analysis[AM]) | (note[AM]) | (spacing) | (location) |
+#+END_SRC
+
+*** AM 421 12mo
+#+BEGIN_SRC orgmode
+| w |   | hvosomhelst | xPI |   | Hvosomhelst | Hwoſomhelſt | woſomhelſt | 000001 |   |   |   | da | {hvo:hvo}{som:som}{helst:helst} |   |   | 001r-01 |
+#+END_SRC
+
+*** GKS 1009 fol
+#+BEGIN_SRC orgmode
+| w |   | saga | xNC gF nS cN sI |   | Saga | {Saga} | {Saga} |   |   | {S:ſ}{a:a}{g:g}{a:A} |   |   | A |   |   | 01r01 |
+#+END_SRC
+
+** =:m:= (manuscript)                                                  :TODO:
+Beskrivelse af håndskriftet.
+
+*** Skabelon
+#+BEGIN_SRC orgmode
+| :m: | (chapter no.) | (year) | (chapter title) |   | (collection, city) | (MS ID) |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** DocXML                                                             :TODO:
+*ASK*: Skal det forstås således, at dette er skabelonen som defineret i
+XSLT-dokumentationen og stylesheet-et?
+
+#+BEGIN_SRC orgmode
+| :m: | (chapter no.) | (MS ID) | (year) |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+*** GKS 1009 fol
+#+BEGIN_SRC orgmode
+| :m: | 1 | 1275 |   |   | Det kongelige bibliotek, København | GKS 1009 fol |   |
+#+END_SRC
+
+*** AM 421 12mo
+#+BEGIN_SRC orgmode
+| :m: | 10 | 1514 | Hil dig, Maria  |   | Den Arnamagnæanske Samling, København | AM 421 12mo |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+** =:s:= (start) 
+Tekstafsnittets begyndelse.
+
+Resten af linjen tom; breddevisningsdefinitioner kan forekomme i enkelte eller alle
+kolonner i almindelig orgmode-syntaks
+
+#+BEGIN_SRC orgmode
+| :s: |   |   |   |   |   |   | <20>                 |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+** =:e:= (end) 
+Tekstafsnittets slutning.
+Resten af linjen tom.
+
+#+BEGIN_SRC orgmode
+| :e: |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
+
+** =:Ø:= (nul) 
+Genoptagelse af tekst inden for samme tekstafsnit.
+
+Bruges for at tabellerne ikke skal blive for store og dermed for langsomme at
+håndtere.
+
+Resten af linjen tom; breddevisningsdefinitioner kan fremkomme i enkelte eller
+alle kolonner i almindeling orgmode-syntaks.
+
+#+BEGIN_SRC orgmode
+| :Ø: |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+#+END_SRC
