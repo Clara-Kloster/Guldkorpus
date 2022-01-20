@@ -153,6 +153,6 @@ def parse_tags(tag, table, line_offset):
                 stack.append(row)
         
     if stack:
-        error_types[("missing_e")].format(start_tag, tag)
+        errors.append(error_types[("missing_e")].format(start_tag, tag))
 
     return tags, errors
