@@ -19,15 +19,28 @@ class Cell(object):
 class RowGroup(object):
     def __init__(self, start, end, *contents):
         self.start = start
-        self.endt = end
+        self.end = end
         self.contents = contents
+
+        start_line = ""
+        end_line   = ""
+        for c in contents:
+            line_ref = c[-1].value
+            if line_ref:
+                if not start_line:
+                    start_line = line_ref
+                end_line = line_ref
+        if start_line == end_line:
+            self.line_attr = (start_line, )
+        else:
+            self.line_attr = (start_line, end_line)
     
     def update_tag_cell(self, i, value):
         self.start[i] = value
         self.end[i] = value
     
     def __str__(self):
-        return " ".join(str(c[6]) for c in self.contents) #By default uses col 6 from row (dipl)
+        return " ".join(str(c[6]) for c in self.contents if c[6]) #By default uses col 6 from row (dipl)
 
 
 class Row(object):
