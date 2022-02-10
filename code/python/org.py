@@ -1,5 +1,9 @@
 import re
 
+
+STRING_ROW = 6
+LINE_ROW = -1
+
 class Cell(object):
     def __init__(self, value, space_before, space_after):
         self.value = value
@@ -15,6 +19,7 @@ class Cell(object):
     def __len__(self):
         return len(self.value)
     
+TAG_ID_ROW = 2
 
 class RowGroup(object):
     def __init__(self, start, end, *contents):
@@ -22,10 +27,11 @@ class RowGroup(object):
         self.end = end
         self.contents = contents
 
+        # Parse line span
         start_line = ""
         end_line   = ""
         for c in contents:
-            line_ref = c[-1].value
+            line_ref = c[LINE_ROW].value
             if line_ref:
                 if not start_line:
                     start_line = line_ref
@@ -34,13 +40,26 @@ class RowGroup(object):
             self.line_attr = (start_line, )
         else:
             self.line_attr = (start_line, end_line)
+        
+        # Parse tag id
+        start_id = self.start[TAG_ID_ROW].value
+        end_id = self.end[TAG_ID_ROW].value
+        assert start_id == end_id, "Tagged sequence have non-identical ids ('{}'/'{}')".format(start_id, end_id)
+
     
-    def update_tag_cell(self, i, value):
-        self.start[i] = value
-        self.end[i] = value
+    def update_tag_id(self, value):
+        self.start[TAG_ID_ROW].update(value)
+        self.end[TAG_ID_ROW].update(value)
     
+    def get_tag_id(self):
+        return self.start[TAG_ID_ROW].value
+
+    def __iter__(self):
+        for row in self.contents:
+            yield row
+
     def __str__(self):
-        return " ".join(str(c[6]) for c in self.contents if c[6]) #By default uses col 6 from row (dipl)
+        return " ".join(str(c[STRING_ROW]) for c in self.contents if c[STRING_ROW]) #By default uses col 6 from row (dipl)
 
 
 class Row(object):
@@ -126,46 +145,85 @@ def parse_org_transcr(name):
     return preamble, table
 
 
+TAG_ROW = 0
+TAG_BE_ROW = 1
+
 def parse_tags(tag, table, line_offset):
+
+    """
+    Identify tagged row sequences in org-tables, where tags are identified
+    by rows containing tag type in column <TAG_ROW> and begin/end indicator in
+    column <TAG_BE_ROW>. Tags may have id specified by begin and end tags in column
+    <TAG_ID_ROW>, which is currently specified while parsing tags RowGroup objects.
+    However, the id of tagged sequences may in included during identification,
+    as it allows for tags with overlapping edges (see below).
+
+    Specifications
+    =======================
+    ~~ Overlapping edges ~~
+    !__Does not__ support overlapping edges of tags of similar types:
+        - tags are closed blindly in an edge-agnostic manner, always closing the latest sequence opened
+        - as is, an error will be raised if tags with overlapping edges are supplied with ids
+            but the error raised will not be related to edges, but id mismatch
+        - if this should be allowed, stack should be popped based on id.
+    !__Does__ support overlapping edges of tags with dissimlar types:
+        - will not raise an error if resulting tags are overlapping
+        - this could be a problem as the resulting orgs are to be converted into xml
+            as overlapping edges are will not be well-formed
+        - could be tested as a post-process validation step
+    """    
     n = line_offset
     
     errors = []
     error_types = {
-        ("missing_e", "overlap") : "[L{}] <{}> misses an end-tag or tag overlap occurred",
         ("missing_b") : "[L{}] <{}> misses a begin-tag",
-        ("missing_e") : "[L{}] <{}> misses an end-tag"
+        ("missing_e") : "[L{}] <{}> misses an end-tag",
+        ("missing_be") : "[L{}] <{}> misses an star/end indicator",
+        ("id_mismatch") : "[LL{}--{}] ",
     }
 
     tags = [] 
     stack = []
-    start_tag = 0
 
     for i, row in enumerate(table):
+        
+        # Identify missing begin/end identifier
+        if str(row[TAG_ROW]) == tag and str(row[TAG_BE_ROW]) == "":
+            errors.append(error_types[("missing_be")].format(i+n, tag))
+        
         # Identify begin tag
-        if str(row[0]) == tag and str(row[1]) == "b":
-            
-            if stack:
-                errors.append(error_types[("missing_e", "overlap")].format(start_tag, tag))
+        elif str(row[TAG_ROW]) == tag and str(row[TAG_BE_ROW]) == "b":
+            stack.append([i,])
 
-            stack.append(row)
-            start_tag = n+i
 
         # Identify end tag
-        elif str(row[0]) == tag and str(row[1]) == "e":
+        elif str(row[TAG_ROW]) == tag and str(row[TAG_BE_ROW]) == "e":
 
             if not stack:
-                errors.append(error_types[("missing_b")].format(n+i, tag))
+                errors.append(error_types[("missing_b")].format(i+n, tag))
+                continue
 
-            stack.append(row)
-            tags.append(stack)
-            stack = []
+            closed_tag = stack.pop()
+            closed_tag.append(i)
+            tags.append(closed_tag)
+
 
         # Tag contents
         else:
-            if stack:
-                stack.append(row)
+            for seq in stack:
+                seq.append(i)
         
     if stack:
-        errors.append(error_types[("missing_e")].format(start_tag, tag))
+        for seq in stack:
+            errors.append(error_types[("missing_e")].format(seq[0]+n, tag))
 
-    return tags, errors
+    parsed_tags = []
+    for seq in tags:
+        try:
+            row_sequence = [table[i] for i in seq]
+            parsed_tags.append(RowGroup(row_sequence[0], row_sequence[-1], *row_sequence[1:-1]))
+        except AssertionError as error_message:
+            errors.append(error_types[("id_mismatch")].format(seq[0]+n, seq[-1]+n)+str(error_message))
+
+
+    return tags, parsed_tags, errors
