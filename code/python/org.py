@@ -3,6 +3,8 @@ import re
 
 STRING_ROW = 6
 LINE_ROW = -1
+TAG_ROW = 0
+TAG_BE_ROW = 1
 
 class Cell(object):
     def __init__(self, value, space_before, space_after):
@@ -25,7 +27,7 @@ class RowGroup(object):
     def __init__(self, start, end, *contents):
         self.start = start
         self.end = end
-        self.contents = contents
+        self.contents = [c for c in contents if str(c[TAG_ROW]) in ("w", "p")]
 
         # Parse line span
         start_line = ""
@@ -95,7 +97,11 @@ class Row(object):
                         space_after=match_group[3])
             for match_group in re.findall(cell_pattern, s)
         ])
-
+    
+    @classmethod
+    #TODO: Better default spacing?
+    def from_list(cls, L):
+        return([Cell(value=l, space_before="", space_after="") for l in L])
 
 class Table(object):
     def __init__(self, rows=[]):
@@ -144,9 +150,6 @@ def parse_org_transcr(name):
     table = Table.from_lines(table)                
     return preamble, table
 
-
-TAG_ROW = 0
-TAG_BE_ROW = 1
 
 def parse_tags(tag, table, line_offset):
 
