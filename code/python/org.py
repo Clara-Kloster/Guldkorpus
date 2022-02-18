@@ -27,7 +27,7 @@ class RowGroup(object):
     def __init__(self, start, end, *contents):
         self.start = start
         self.end = end
-        self.contents = [c for c in contents if str(c[TAG_ROW]) in ("w", "p")]
+        self.contents = [c for c in contents if str(c[TAG_ROW]) in ("w", "p", "n") and str(c[STRING_ROW])]
 
         # Parse line span
         start_line = ""
@@ -47,11 +47,12 @@ class RowGroup(object):
         start_id = self.start[TAG_ID_ROW].value
         end_id = self.end[TAG_ID_ROW].value
         assert start_id == end_id, "Tagged sequence have non-identical ids ('{}'/'{}')".format(start_id, end_id)
-
+        self.id = start_id
     
     def update_tag_id(self, value):
         self.start[TAG_ID_ROW].update(value)
         self.end[TAG_ID_ROW].update(value)
+        self.id = value
     
     def get_tag_id(self):
         return self.start[TAG_ID_ROW].value
