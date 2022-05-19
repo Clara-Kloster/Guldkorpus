@@ -7,7 +7,7 @@ def test_tag_completion():
     test_tags = ("PE", "PL")
     errors = {}
 
-    for transcr in os.listdir(test_dir):
+    for transcr in [x for x in os.listdir(test_dir) if x.endswith(".org")]:
         preamble, table = parse_org_transcr(test_dir+transcr)
 
         line_offset = len(preamble.split("\n"))
