@@ -57,8 +57,10 @@
 | d   | b      | 2           |      | context        |   |                     |              |   |   |   |                  |     |   |   |   |               |
 | w   |        | jak         | xPE  | jeg            |   | Jech                | Jech         |   |   |   |                  | dan |   |   |    |        356-01 |
 | PE  | b      | AndJak001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
+| PE | b | AndJak001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
 | w   |        |             | xNP  | Anders         |   | anders              | ander       |   |   |   |                  | dan |   |   |    |        356-01 |
 | w   |        |             | xNP  | Jepsen         |   | Jeyæpss(øn)         | Jeyæpſ      |   |   |   |                  | dan |   |   |    |        356-01 |
+| PE | e | AndJak001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
 | lm  | 356-02 |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        |             | xNP  | Lunge          |   | lu(n)ge             | lu̅ge         |   |   |   |                  | dan |   |   |    |        356-02 |
 | PE  | e      | AndJak001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
@@ -179,9 +181,11 @@
 | w   |        | garth       | xNC  | gård           |   | gord                | goꝛd         |   |   |   |                  | dan |   |   |    |        356-07 |
 | w   |        | ibidem      | xAV  |                |   | ibid(em)            | ıbı         |   |   |   |                  | lat |   |   |    |        356-07 |
 | PE  | b      | NieKnu006   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
+| PE | b | NieSty001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
 | w   |        |             | xNP  | Nis            |   | nis                 | ni          |   |   |   |                  | dan |   |   |    |        356-07 |
 | PE  | e      | NieKnu006   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |
 | w   |        |             | xNP  | Stynk          |   | stynk               | ſtẏnk        |   |   |   |                  | dan |   |   |    |        356-07 |
+| PE | e | NieSty001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
 | w   |        | i           | xAV  | i              |   | i                   | ı            |   |   |   |                  | dan |   |   |    |        356-07 |
 | w   |        | bo          | xVB  | bor            |   | bor                 | boꝛ          |   |   |   |                  | dan |   |   |    |        356-07 |
 | w   |        | ok          | xCC  | og             |   | oc                  | oc           |   |   |   |                  | dan |   |   |    |        356-07 |
