@@ -58,7 +58,9 @@
 | w   |        |              | xNP | Nielsdatter    |   | nielssedott(er) | nielſſedott   |   |   |   |                             | dan |   |   |    |        395-01 |
 | PE  | e      | KatNie001    |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |
 | w   |        | af           | xAP | af             |   | aff             | aff            |   |   |   |                             | dan |   |   |    |        395-01 |
+| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
 | w   |        |              | xNP | Voldrup        |   | Woldorp         | Woldoꝛp        |   |   |   |                             | dan |   |   |    |        395-01 |
+| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
 | PE  | b      | JenPed008    |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |
 | w   |        |              | xNP | Jens           |   | Jes             | Je            |   |   |   |                             | dan |   |   |    |        395-01 |
 | w   |        |              | xNP | Pedersen       |   | pætherssøns     | pætheꝛſſøn    |   |   |   |                             | dan |   |   |    |        395-01 |
@@ -517,7 +519,9 @@
 | PE  | e      | OluMor001    |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |
 | w   |        | biskop       | xNC | biskop         |   | Biscop          | Bıſcop         |   |   |   |                             | dan |   |   |    |        395-16 |
 | w   |        | i            | xAP | i              |   | i               | i              |   |   |   |                             | dan |   |   |    |        395-16 |
+| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
 | w   |        |              | xNP | Roskilde       |   | Roschilde       | Roſchılde      |   |   |   |                             | dan |   |   |    |        395-16 |
+| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
 | p   |        |              |     |                |   | /               | /              |   |   |   |                             | dan |   |   |    |        395-16 |
 | w   |        | hærre        | xNC | hr.             |   | Her             | Her            |   |   |   |                             | dan |   |   |    |        395-16 |
 | PE  | b      | JenBru001    |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |
@@ -526,13 +530,17 @@
 | PE  | e      | JenBru001    |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |
 | w   |        | prior        | xNC | prior          |   | pior            | pioꝛ           |   |   |   |                             | dan |   |   |    |        395-16 |
 | w   |        | i            | xAP | i              |   | i               | i              |   |   |   |                             | dan |   |   |    |        395-16 |
+| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
 | w   |        |              | xNP | Antworskov     |   | Antwordskow     | Antwoꝛdſkow    |   |   |   |                             | dan |   |   |    |        395-16 |
+| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
 | PE  | b      | DanNul001    |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |
 | w   |        |              | xNP | Daniel         |   | Daniel          | Daniel         |   |   |   |                             | dan |   |   |    |        395-16 |
 | PE  | e      | DanNul001    |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |
 | w   |        | kantor       | xNC | kantor         |   | ca(n)tor        | ca̅toꝛ          |   |   |   |                             | dan |   |   |    |        395-16 |
 | w   |        | i            | xAP | i              |   | i               | i              |   |   |   |                             | dan |   |   |    |        395-16 |
+| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
 | w   |        |              | xNP | København      |   | køpnehaffn      | køpnehaffn     |   |   |   |                             | dan |   |   |    |        395-16 |
+| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
 | w   |        |              | xNC | kansler        |   | Canceller       | Cancelleꝛ      |   |   |   |                             | dan |   |   |    |        395-16 |
 | w   |        | hærre        | xNC | hr.             |   | h(er)           | h             |   |   |   |                             | dan |   |   |    |        395-16 |
 | PE  | b      | JenTho001    |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |
@@ -556,14 +564,18 @@
 | w   |        |              | xNP | Jensen         |   | jenss(øn)       | ȷenſ          |   |   |   |                             | dan |   |   |    |        395-17 |
 | PE  | e      | AndJen004    |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |
 | w   |        | af           | xAP | af             |   | aff             | aff            |   |   |   |                             | dan |   |   |    |        395-17 |
+| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
 | w   |        |              | xNP | Terslev        |   | tersløff        | teꝛſløff       |   |   |   |                             | dan |   |   |    |        395-17 |
+| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
 | w   |        | sum          | xRP | som            |   | Som             | om            |   |   |   |                             | dan |   |   |    |        395-17 |
 | w   |        | give         | xVB | givet          |   | giffuet         | gıffuet       |   |   |   |                             | dan |   |   |    |        395-17 |
 | w   |        | ok           | xCC | og             |   | oc              | oc             |   |   |   |                             | dan |   |   |    |        395-17 |
 | w   |        | skrive       | xVB | skrevet        |   | Sc(re)ffuit     | cffuit       |   |   |   |                             | dan |   |   |    |        395-17 |
 | w   |        | være         | xVB | er             |   | er              | er             |   |   |   |                             | dan |   |   |    |        395-17 |
 | w   |        | i            | xAP | i              |   | i               | i              |   |   |   |                             | dan |   |   |    |        395-17 |
+| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
 | w   |        |              | xNP | Kalundborg     |   | kalundborgh     | kalundboꝛgh    |   |   |   |                             | dan |   |   |    |        395-17 |
+| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
 | w   |        | ar           | xNC | år             |   | Aar             | Aar            |   |   |   |                             | dan |   |   |    |        395-17 |
 | w   |        | æfter        | xAP | efter          |   | efft(er)        | efft          |   |   |   |                             | dan |   |   |    |        395-17 |
 | w   |        | guth         | xNC | Guds           |   | gudz            | gudz           |   |   |   |                             | dan |   |   |    |        395-17 |
