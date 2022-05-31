@@ -61,7 +61,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | kanik         | xNC         | kannik        |   | Canich                | Canich       |   |   |   |   | dan |   |   |    |        408-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i             | xAP         | i             |   | i                     | i            |   |   |   |   | dan |   |   |    |        408-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP         | Roskilde      |   | roskildh              | roſkıldh     |   |   |   |   | dan |   |   |    |        408-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |               | xNP         | Roskilde      |   | roskildh              | roſkıldh     |   |   |   |   | dan |   |   |    |        408-01 | 1:protocol |          |  |    |    |1727|    |
 | PL  | e      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ævinnelik     | xAJ         | evindelig     |   | ewindeligh            | ewindelıgh   |   |   |   |   | dan |   |   |    |        408-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | mæth          | xAP         | med           |   | m(et)                 | mꝫ           |   |   |   |   | dan |   |   |    |        408-01 | 1:protocol |          |  |    |    |    |    |
@@ -90,7 +90,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | biskop        | xNC         | biskop        |   | biscop                | bıſcop       |   |   |   |   | dan |   |   |    |        408-02 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP         | i             |   | i                     | i            |   |   |   |   | dan |   |   |    |        408-02 | 2:context |          |  |    |    |    |    |
 | PL  | b      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP         | Roskilde      |   | roskildæ              | roſkıldæ     |   |   |   |   | dan |   |   |    |        408-02 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP         | Roskilde      |   | roskildæ              | roſkıldæ     |   |   |   |   | dan |   |   |    |        408-02 | 2:context |          |  |    |    |1728|    |
 | PL  | e      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ok            | xCC         | og            |   | och                   | och          |   |   |   |   | dan |   |   |    |        408-02 | 2:context |          |  |    |    |    |    |
 | w   |        | han           | xPE         | hans          |   | hans                  | han         |   |   |   |   | dan |   |   |    |        408-02 | 2:context |          |  |    |    |    |    |
@@ -149,7 +149,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | have          | xVB         | have          |   | haffuæ                | haffuæ       |   |   |   |   | dan |   |   |    |        408-05 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP         | i             |   | i                     | i            |   |   |   |   | dan |   |   |    |        408-05 | 2:context |          |  |    |    |    |    |
 | PL  | b      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP         | Roskilde      |   | roskilde              | roſkılde     |   |   |   |   | dan |   |   |    |        408-05 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP         | Roskilde      |   | roskilde              | roſkılde     |   |   |   |   | dan |   |   |    |        408-05 | 2:context |          |  |    |    |1729|    |
 | PL  | e      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | domkirkje     | xNC         | domkirke      |   | do(m)kirkæ            | do̅kıꝛkæ      |   |   |   |   | dan |   |   |    |        408-05 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP         | i             |   | i                     | i            |   |   |   |   | dan |   |   |    |        408-05 | 2:context |          |  |    |    |    |    |
@@ -216,7 +216,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | kalle         | xVB         | kaldes        |   | kalles                | kalle       |   |   |   |   | dan |   |   |    |        408-08 | 2:context |          |  |    |    |    |    |
 | w   |        | præbende      | xNC         | præbende      |   | prebenda              | prebenda     |   |   |   |   | lat |   |   |    |        408-08 | 2:context |          |  |    |    |    |    |
 | PL  | b      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP         | Karleby       |   | karleby               | kaꝛleby      |   |   |   |   | dan |   |   |    |        408-08 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP         | Karleby       |   | karleby               | kaꝛleby      |   |   |   |   | dan |   |   |    |        408-08 | 2:context |          |  |    |    |1730|    |
 | PL  | e      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | lm  | 408-09 |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ok            | xCC         | og            |   | och                   | och          |   |   |   |   | dan |   |   |    |        408-09 | 2:context |          |  |    |    |    |    |
@@ -224,7 +224,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | forn          | xAJ         | forn          |   | foren                 | foren        |   |   |   |   | dan |   |   |    |        408-09 | 2:context |          |  |    |    |    |    |
 | w   |        | hete          | xVB         | hed           |   | heeth                 | heeth        |   |   |   |   | dan |   |   |    |        408-09 | 2:context |          |  |    |    |    |    |
 | PL  | b      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP         | Valby         |   | waldby                | waldby       |   |   |   |   | dan |   |   |    |        408-09 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP         | Valby         |   | waldby                | waldby       |   |   |   |   | dan |   |   |    |        408-09 | 2:context |          |  |    |    |1731|    |
 | PL  | e      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | hvilik        | xDD         | hvilken       |   | hwilken               | hwilken      |   |   |   |   | dan |   |   |    |        408-09 | 2:context |          |  |    |    |    |    |
 | w   |        | garth         | xNC         | gård          |   | gardh                 | gaꝛdh        |   |   |   |   | dan |   |   |    |        408-09 | 2:context |          |  |    |    |    |    |
@@ -340,14 +340,14 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | kalle         | xVB         | kaldes        |   | kalles                | kalle       |   |   |   |   | dan |   |   |    |        408-15 | 2:context |          |  |    |    |    |    |
 | w   |        | præbende      | xNC         | præbende      |   | prebendæ              | prebendæ     |   |   |   |   | dan |   |   |    |        408-15 | 2:context |          |  |    |    |    |    |
 | PL  | b      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP         | Karleby       |   | karlæby               | kaꝛlæby      |   |   |   |   | dan |   |   |    |        408-15 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP         | Karleby       |   | karlæby               | kaꝛlæby      |   |   |   |   | dan |   |   |    |        408-15 | 2:context |          |  |    |    |1732|    |
 | PL  | e      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ok            | xCC         | og            |   | och                   | och          |   |   |   |   | dan |   |   |    |        408-15 | 2:context |          |  |    |    |    |    |
 | w   |        | til           | xAP         | til           |   | til                   | tıl          |   |   |   |   | dan |   |   |    |        408-15 | 2:context |          |  |    |    |    |    |
 | w   |        | forn          | xAJ         | forn          |   | for(e)n               | foꝛn        |   |   |   |   | dan |   |   |    |        408-15 | 2:context |          |  |    |    |    |    |
 | w   |        | hete          | xVB         | hed           |   | heeth                 | heeth        |   |   |   |   | dan |   |   |    |        408-15 | 2:context |          |  |    |    |    |    |
 | PL  | b      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP         | Valby         |   | valdby                | valdby       |   |   |   |   | dan |   |   |    |        408-15 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP         | Valby         |   | valdby                | valdby       |   |   |   |   | dan |   |   |    |        408-15 | 2:context |          |  |    |    |1733|    |
 | PL  | e      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | skule         | xVB         | skulle        |   | skullæ                | ſkullæ       |   |   |   |   | dan |   |   |    |        408-15 | 2:context |          |  |    |    |    |    |
 | w   |        | gen           | xAV         | igen          |   | i geen                | i geen       |   |   |   |   | dan |   |   |    |        408-15 | 2:context |          |  |    |    |    |    |
@@ -404,7 +404,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | rathman       | xNC         | rådmand       |   | radma(n)              | radma̅        |   |   |   |   | dan |   |   |    |        408-18 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP         | i             |   | i                     | i            |   |   |   |   | dan |   |   |    |        408-18 | 2:context |          |  |    |    |    |    |
 | PL  | b      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP         | Roskilde      |   | rosk(ilde)            | roſkꝭ        |   |   |   |   | dan |   |   |    |        408-18 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP         | Roskilde      |   | rosk(ilde)            | roſkꝭ        |   |   |   |   | dan |   |   |    |        408-18 | 2:context |          |  |    |    |1734|    |
 | PL  | e      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ok            | xCC         | og            |   | Och                   | Och          |   |   |   |   | dan |   |   |    |        408-18 | 2:context |          |  |    |    |    |    |
 | w   |        | give          | xVB         | gav           |   | gaff                  | gaff         |   |   |   |   | dan |   |   |    |        408-18 | 2:context |          |  |    |    |    |    |
@@ -469,14 +469,14 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | ligje         | xVB         | ligger        |   | liggh(e)r             | lıgghꝛ̅       |   |   |   |   | dan |   |   |    |        408-21 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP         | i             |   | i                     | i            |   |   |   |   | dan |   |   |    |        408-21 | 2:context |          |  |    |    |    |    |
 | PL  | b      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        | sankte        | xAJ         | sankt         |   | s(anc)ti              | ﬅı̅           |   |   |   |   | lat |   |   |    |        408-21 | 2:context |          |  |    |    |    |    |
-| w   |        |               | xNP         | Budolfi       |   | botulphi              | botulphi     |   |   |   |   | lat |   |   |    |        408-21 | 2:context |          |  |    |    |    |    |
-| w   |        | sokn          | xNC         | sogn          |   | soghn                 | ſoghn        |   |   |   |   | dan |   |   |    |        408-21 | 2:context |          |  |    |    |    |    |
+| w   |        | sankte        | xAJ         | sankt         |   | s(anc)ti              | ﬅı̅           |   |   |   |   | lat |   |   |    |        408-21 | 2:context |          |  |    |    |1735|    |
+| w   |        |               | xNP         | Budolfi       |   | botulphi              | botulphi     |   |   |   |   | lat |   |   |    |        408-21 | 2:context |          |  |    |    |1735|    |
+| w   |        | sokn          | xNC         | sogn          |   | soghn                 | ſoghn        |   |   |   |   | dan |   |   |    |        408-21 | 2:context |          |  |    |    |1735|    |
 | PL  | e      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | northen       | xAJ         | norden        |   | nordhn(m)             | noꝛdh̅       |   |   |   |   | dan |   |   |    |        408-21 | 2:context |          |  |    |    |    |    |
 | w   |        | vither        | xAP         | ved           |   | widh                  | wıdh         |   |   |   |   | dan |   |   |    |        408-21 | 2:context |          |  |    |    |    |    |
 | PL  | b      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        | athel+gate    | xNC         | adelgaden     |   | adelgadhn(m)          | adelgadh̅    |   |   |   |   | dan |   |   |    |        408-21 | 2:context |          |  |    |    |    |    |
+| w   |        | athel+gate    | xNC         | adelgaden     |   | adelgadhn(m)          | adelgadh̅    |   |   |   |   | dan |   |   |    |        408-21 | 2:context |          |  |    |    |1736|    |
 | PL  | e      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | tvært         | xAV         | tvært         |   | twerth                | tweꝛth       |   |   |   |   | dan |   |   |    |        408-21 | 2:context |          |  |    |    |    |    |
 | lm  | 408-22 |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -509,7 +509,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | længth        | xNC         | længe         |   | læ{n}gæ               | læ{n}gæ      |   |   |   |   | dan |   |   |    |        408-23 | 2:context |          |  |    |    |    |    |
 | w   |        | fran          | xAP         | fra           |   | fran                  | fran         |   |   |   |   | dan |   |   |    |        408-23 | 2:context |          |  |    |    |    |    |
 | PL  | b      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        | athel+gate    | xNC         | adelgaden     |   | adelgadh(e)n          | adelgadh̅    |   |   |   |   | dan |   |   |    |        408-23 | 2:context |          |  |    |    |    |    |
+| w   |        | athel+gate    | xNC         | adelgaden     |   | adelgadh(e)n          | adelgadh̅    |   |   |   |   | dan |   |   |    |        408-23 | 2:context |          |  |    |    |1737|    |
 | PL  | e      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ut            | xAV         | ud            |   | vth                   | vth          |   |   |   |   | dan |   |   |    |        408-23 | 2:context |          |  |    |    |    |    |
 | w   |        | mæth          | xAP         | med           |   | m(et)                 | mꝫ           |   |   |   |   | dan |   |   |    |        408-23 | 2:context |          |  |    |    |    |    |
@@ -591,7 +591,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        |               |             |               |   | venera(bilis)         | venera̅       |   |   |   |   | lat |   |   |    |        408-27 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |               |             |               |   | capituli              | capıtulı     |   |   |   |   | lat |   |   |    |        408-27 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               |             |               |   | Roskilden(sis)        | Roſkılde̅    |   |   |   |   | lat |   |   |    |        408-27 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |               |             |               |   | Roskilden(sis)        | Roſkılde̅    |   |   |   |   | lat |   |   |    |        408-27 | 3:eschatocol |          |  |    |    |1738|    |
 | PL  | e      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |               |             |               |   | p(rese)ntib(us)       | pn̅tib       |   |   |   |   | lat |   |   |    |        408-27 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 408-28 |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -599,7 +599,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        |               |             |               |   | appensu(m)            | aenſu̅       |   |   |   |   | lat |   |   |    |        408-28 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |               |             |               |   | Dat(um)               | Datꝭ         |   |   |   |   | lat |   |   |    |        408-28 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               |             |               |   | Rosk0000              | Roſk0000     |   |   |   |   | lat |   |   |    |        408-28 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |               |             |               |   | Rosk0000              | Roſk0000     |   |   |   |   | lat |   |   |    |        408-28 | 3:eschatocol |          |  |    |    |1739|    |
 | PL  | e      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |               |             |               |   | Anno                  | Anno         |   |   |   |   | lat |   |   |    |        408-28 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |               |             |               |   | d(omi)nj              | dnȷ̅          |   |   |   |   | lat |   |   |    |        408-28 | 3:eschatocol |          |  |    |    |    |    |

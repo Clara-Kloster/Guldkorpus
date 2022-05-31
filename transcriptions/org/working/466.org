@@ -49,13 +49,13 @@
 | PE  | e      | JenOlu002     |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | af            | xAP | af            |   | aff              | aff              |   |   |   |   | dan |   |   |   |        466-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Skørping      |   | Schørpinge       | chørpinge       |   |   |   |   | dan |   |   |   |        466-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Skørping      |   | Schørpinge       | chørpinge       |   |   |   |   | dan |   |   |   |        466-01 | 1:protocol |          |  |    |    |2182|    |
 | PL  | e      |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |               |     |               |   | ,                | ,                |   |   |   |   | dan |   |   |   |        466-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | hærethsfoghet | xNC | herredsfoged  |   | Herridtzfougidt  | Herridtzfoŭgidt  |   |   |   |   | dan |   |   |   |        466-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i             | xAP | i             |   | y                | ÿ                |   |   |   |   | dan |   |   |   |        466-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Stevnsherred  |   | Steffns¦herridt  | teffns¦herridt  |   |   |   |   | dan |   |   |   | 466-01—466-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Stevnsherred  |   | Steffns¦herridt  | teffns¦herridt  |   |   |   |   | dan |   |   |   | 466-01—466-02 | 1:protocol |          |  |    |    |2183|    |
 | PL  | e      |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |               |     |               |   | ,                | ,                |   |   |   |   | dan |   |   |   |        466-02 | 1:protocol |          |  |    |    |    |    |
 | w   |        | kænne         | xVB | kendes        |   | Kiendis          | Kiendis          |   |   |   |   | dan |   |   |   |        466-02 | 1:protocol |          |  |    |    |    |    |
@@ -93,7 +93,7 @@
 | w   |        | skikke        | xVB | skikket       |   | shickit          | ſhickit          |   |   |   |   | dan |   |   |   |        466-04 | 2:context |          |  |    |    |    |    |
 | w   |        | upa           | xAP | på            |   | paa              | paa              |   |   |   |   | dan |   |   |   |        466-04 | 2:context |          |  |    |    |    |    |
 | PL  | b      |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Stevns Herred |   | Steffns¦herridtz | teffns¦herridtz |   |   |   |   | dan |   |   |   | 466-04—466-05 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Stevns Herred |   | Steffns¦herridtz | teffns¦herridtz |   |   |   |   | dan |   |   |   | 466-04—466-05 | 2:context |          |  |    |    |2184|    |
 | PL  | e      |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | thing         | xNC | ting          |   | tingh            | tingh            |   |   |   |   | dan |   |   |   |        466-05 | 2:context |          |  |    |    |    |    |
 | w   |        | for           | xAP | for           |   | for              | for              |   |   |   |   | dan |   |   |   |        466-05 | 2:context |          |  |    |    |    |    |
@@ -120,7 +120,7 @@
 | w   |        | til           | xAP | til           |   | till             | till             |   |   |   |   | dan |   |   |   |        466-06 | 2:context |          |  |    |    |    |    |
 | lm  | 466-07 |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | PL  | b      |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Gørslev       |   | Giordsløff       | Giordſløff       |   |   |   |   | dan |   |   |   |        466-07 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Gørslev       |   | Giordsløff       | Giordſløff       |   |   |   |   | dan |   |   |   |        466-07 | 2:context |          |  |    |    |2185|    |
 | PL  | e      |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |               |     |               |   | ,                | ,                |   |   |   |   | dan |   |   |   |        466-07 | 2:context |          |  |    |    |    |    |
 | w   |        | at            | xCS | at            |   | ath              | ath              |   |   |   |   | dan |   |   |   |        466-07 | 2:context |          |  |    |    |    |    |
@@ -150,7 +150,7 @@
 | lm  | 466-09 |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | mæth          | xAP | med           |   | medt             | medt             |   |   |   |   | dan |   |   |   |        466-09 | 2:context |          |  |    |    |    |    |
 | PL  | b      |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Strøby        |   | Strøbye          | trøbÿe          |   |   |   |   | dan |   |   |   |        466-09 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Strøby        |   | Strøbye          | trøbÿe          |   |   |   |   | dan |   |   |   |        466-09 | 2:context |          |  |    |    |2186|    |
 | PL  | e      |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | man           | xNC | mænd          |   | mendt            | mendt            |   |   |   |   | dan |   |   |   |        466-09 | 2:context |          |  |    |    |    |    |
 | w   |        | mot           | xAP | mod           |   | modt             | modt             |   |   |   |   | dan |   |   |   |        466-09 | 2:context |          |  |    |    |    |    |
@@ -160,7 +160,7 @@
 | w   |        | ligje         | xVB | ligger        |   | Ligger           | Ligger          |   |   |   |   | dan |   |   |   |        466-09 | 2:context |          |  |    |    |    |    |
 | w   |        | til           | xAP | til           |   | tiill            | tiill            |   |   |   |   | dan |   |   |   |        466-09 | 2:context |          |  |    |    |    |    |
 | PL  | b      |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Strøby        |   | Strøbye          | trøbÿe          |   |   |   |   | dan |   |   |   |        466-09 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Strøby        |   | Strøbye          | trøbÿe          |   |   |   |   | dan |   |   |   |        466-09 | 2:context |          |  |    |    |2187|    |
 | PL  | e      |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 466-10 |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | amot         | xAP | imod          |   | Emodt            | Emodt            |   |   |   |   | dan |   |   |   |        466-10 | 2:context |          |  |    |    |    |    |
@@ -170,7 +170,7 @@
 | w   |        | ligje         | xVB | ligger        |   | ligger           | ligger           |   |   |   |   | dan |   |   |   |        466-10 | 2:context |          |  |    |    |    |    |
 | w   |        | til           | xAP | til           |   | till             | till             |   |   |   |   | dan |   |   |   |        466-10 | 2:context |          |  |    |    |    |    |
 | PL  | b      |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Gørslev       |   | giordsløff       | giordſløff       |   |   |   |   | dan |   |   |   |        466-10 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Gørslev       |   | giordsløff       | giordſløff       |   |   |   |   | dan |   |   |   |        466-10 | 2:context |          |  |    |    |2188|    |
 | PL  | e      |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |               |     |               |   | ,                | ,                |   |   |   |   | dan |   |   |   |        466-10 | 2:context |          |  |    |    |    |    |
 | w   |        | ok            | xCC | og            |   | Och              | Och              |   |   |   |   | dan |   |   |   |        466-10 | 2:context |          |  |    |    |    |    |
@@ -199,8 +199,8 @@
 | w   |        | upa           | xAP | på            |   | paa              | paa              |   |   |   |   | dan |   |   |   |        466-12 | 2:context |          |  |    |    |    |    |
 | w   |        | han           | xPE | hans          |   | hans             | han             |   |   |   |   | dan |   |   |   |        466-12 | 2:context |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        | løv+mark      | xNC | løvmarke      |   | Løumarcke        | Løumarcke        |   |   |   |   | dan |   |   |   |        466-12 | 2:context |          |  |    |    |    |    |
-| w   |        | skogh         | xNC | skove         |   | skouffue         | ſkoŭffŭe         |   |   |   |   | dan |   |   |   |        466-12 | 2:context |          |  |    |    |    |    |
+| w   |        | løv+mark      | xNC | løvmarke      |   | Løumarcke        | Løumarcke        |   |   |   |   | dan |   |   |   |        466-12 | 2:context |          |  |    |    |2189|    |
+| w   |        | skogh         | xNC | skove         |   | skouffue         | ſkoŭffŭe         |   |   |   |   | dan |   |   |   |        466-12 | 2:context |          |  |    |    |2189|    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |               | xNC | skæppelund    |   | skeppe¦lund      | ſkeppe¦lŭnd      |   |   |   |   | dan |   |   |   | 466-12—466-13 | 2:context |          |  |    |    |    |    |
 | w   |        | ok            | xCC | og            |   | och              | och              |   |   |   |   | dan |   |   |   |        466-13 | 2:context |          |  |    |    |    |    |
@@ -208,7 +208,7 @@
 | w   |        | skogh         | xNC | skov          |   | skouffue         | ſkoŭffŭe         |   |   |   |   | dan |   |   |   |        466-13 | 2:context |          |  |    |    |    |    |
 | w   |        | til           | xAP | til           |   | tiill            | tiill            |   |   |   |   | dan |   |   |   |        466-13 | 2:context |          |  |    |    |    |    |
 | PL  | b      |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Gørslev       |   | Giordsløff       | Giordſløff       |   |   |   |   | dan |   |   |   |        466-13 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Gørslev       |   | Giordsløff       | Giordſløff       |   |   |   |   | dan |   |   |   |        466-13 | 2:context |          |  |    |    |2190|    |
 | PL  | e      |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | ligje         | xVB | liggendes     |   | liggenndis       | liggenndi       |   |   |   |   | dan |   |   |   |        466-13 | 2:context |          |  |    |    |    |    |
 | p   |        |               |     |               |   | ,                | ,                |   |   |   |   | dan |   |   |   |        466-13 | 2:context |          |  |    |    |    |    |
@@ -225,7 +225,7 @@
 | w   |        | at            | xAP | ad            |   | ath              | ath              |   |   |   |   | dan |   |   |   |        466-14 | 2:context |          |  |    |    |    |    |
 | lm  | 466-15 |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | PL  | b      |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Strøby        |   | Strøbye          | trøbÿe          |   |   |   |   | dan |   |   |   |        466-15 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Strøby        |   | Strøbye          | trøbÿe          |   |   |   |   | dan |   |   |   |        466-15 | 2:context |          |  |    |    |2191|    |
 | PL  | e      |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | fang          | xNC | fang          |   | fanngh           | fanngh           |   |   |   |   | dan |   |   |   |        466-15 | 2:context |          |  |    |    |    |    |
 | p   |        |               |     |               |   | ,                | ,                |   |   |   |   | dan |   |   |   |        466-15 | 2:context |          |  |    |    |    |    |

@@ -50,7 +50,7 @@
 | PE  | e      | AxeLag001     |         |             |   |                   |            |             |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | upa           | xAP     | på          |   | ppa               | a         |             |   |   |        | dan |   |   |    |        421-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |               |         |             |   |                   |            |             |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP     | Klaksholm   |   | claxholm          | claxholm   |             |   |   |        | dan |   |   |    |        421-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |               | xNP     | Klaksholm   |   | claxholm          | claxholm   |             |   |   |        | dan |   |   |    |        421-01 | 1:protocol |          |  |    |    |1850|    |
 | PL  | e      |               |         |             |   |                   |            |             |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | riddere       | xNC     | ridder      |   | Ridder(e)         | Riddeꝛ    |             |   |   |        | dan |   |   |    |        421-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | gøre          | xVB     | gør         |   | gør               | gøꝛ        |             |   |   |        | dan |   |   |    |        421-01 | 1:protocol |          |  |    |    |    |    |
@@ -97,7 +97,7 @@
 | w   |        | garth         | xNC     | gård        |   | gard              | gaꝛd       |             |   |   |        | dan |   |   |    |        421-03 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP     | i           |   | i                 | ı          |             |   |   |        | dan |   |   |    |        421-03 | 2:context |          |  |    |    |    |    |
 | PL  | b      |               |         |             |   |                   |            |             |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP     | Rejnstrup   |   | rengstrupp        | rengﬅru   |             |   |   |        | dan |   |   |    |        421-03 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP     | Rejnstrup   |   | rengstrupp        | rengﬅru   |             |   |   |        | dan |   |   |    |        421-03 | 2:context |          |  |    |    |1851|    |
 | PL  | e      |               |         |             |   |                   |            |             |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ligje         | xVB     | liggende    |   | ligh(e)nd(e)      | lıghn    |             |   |   |        | dan |   |   |    |        421-03 | 2:context |          |  |    |    |    |    |
 | w   |        | sum           | xRP     | som         |   | som               | ſom        |             |   |   |        | dan |   |   |    |        421-03 | 2:context |          |  |    |    |    |    |
@@ -339,7 +339,7 @@
 | w   |        | burghemæstere | xNC     | borgmester  |   | burgæmestæ(ra)    | burgæmeﬅæᷓ  |             |   |   |        | dan |   |   |    |        421-14 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | i             | xAP     | i           |   | i                 | ı          |             |   |   |        | dan |   |   |    |        421-14 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |               |         |             |   |                   |            |             |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP     | Roskilde    |   | Rosk(ilde)        | Roſkᷔ       |             |   |   |        | dan |   |   |    |        421-14 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |               | xNP     | Roskilde    |   | Rosk(ilde)        | Roſkᷔ       |             |   |   |        | dan |   |   |    |        421-14 | 3:eschatocol |          |  |    |    |1852|    |
 | PL  | e      |               |         |             |   |                   |            |             |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ok            | xCC     | og          |   | och               | och        |             |   |   |        | dan |   |   |    |        421-14 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | HanPou001     |         |             |   |                   |            |             |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -351,7 +351,7 @@
 | w   |        |               |         |             |   | Dat(um)           | Datꝭ       |             |   |   |        | lat |   |   |    |        421-14 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 421-15 |               |         |             |   |                   |            |             |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | PL  | b      |               |         |             |   |                   |            |             |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               |         |             |   | G(re)sid          | Gſıd      |             |   |   |        | lat |   |   |    |        421-15 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |               |         |             |   | G(re)sid          | Gſıd      |             |   |   |        | lat |   |   |    |        421-15 | 3:eschatocol |          |  |    |    |1853|    |
 | PL  | e      |               |         |             |   |                   |            |             |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |               |         |             |   | Ff(er)ia          | Ffıa      |             |   |   |        | lat |   |   |    |        421-15 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |               |         |             |   | sexta             | ſexta      |             |   |   |        | lat |   |   |    |        421-15 | 3:eschatocol |          |  |    |    |    |    |

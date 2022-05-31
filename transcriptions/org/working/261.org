@@ -53,7 +53,7 @@ skadet
 | PE  | e      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | de              | de           |   |   |   |   | lat |   |   |   |        261-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | keldeb[ec       | keldeb[ec    |   |   |   |   | lat |   |   |   |        261-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | keldeb[ec       | keldeb[ec    |   |   |   |   | lat |   |   |   |        261-01 | 1:protocol |          |  |    |    |2560|    |
 | PL  | e      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(a)l(u)t(e)m   | l̅tm         |   |   |   |   | lat |   |   |   |        261-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | in              | ın           |   |   |   |   | lat |   |   |   |        261-01 | 1:protocol |          |  |    |    |    |    |
@@ -78,13 +78,13 @@ skadet
 | w   |        |   |   |   |   | bona            | bona         |   |   |   |   | lat |   |   |   |        261-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | in              | ın           |   |   |   |   | lat |   |   |   |        261-02 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | olsteth         | olſteth      |   |   |   |   | lat |   |   |   |        261-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | olsteth         | olſteth      |   |   |   |   | lat |   |   |   |        261-02 | 2:context |          |  |    |    |2561|    |
 | PL  | e      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | hy(m)mer        | hy̅mer        |   |   |   |   | lat |   |   |   |        261-02 | 2:context |          |  |    |    |    |    |
-| p   |        |   |   |   |   | /               | /            |   |   |   |   | lat |   |   |   |        261-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | hy(m)mer        | hy̅mer        |   |   |   |   | lat |   |   |   |        261-02 | 2:context |          |  |    |    |2558|    |
+| p   |        |   |   |   |   | /               | /            |   |   |   |   | lat |   |   |   |        261-02 | 2:context |          |  |    |    |2558|    |
 | lm  | 261-03 |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | sysel           | ſyſel        |   |   |   |   | lat |   |   |   |        261-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | sysel           | ſyſel        |   |   |   |   | lat |   |   |   |        261-03 | 2:context |          |  |    |    |2558|    |
 | PL  | e      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | sita            | ſıta         |   |   |   |   | lat |   |   |   |        261-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | m(ihi)          | m           |   |   |   |   | lat |   |   |   |        261-03 | 2:context |          |  |    |    |    |    |
@@ -98,7 +98,7 @@ skadet
 | PE  | e      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | de              | de           |   |   |   |   | lat |   |   |   |        261-03 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | æsendorp        | æſendorp     |   |   |   |   | lat |   |   |   |        261-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | æsendorp        | æſendorp     |   |   |   |   | lat |   |   |   |        261-03 | 2:context |          |  |    |    |2559|    |
 | PL  | e      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | in              | ın           |   |   |   |   | lat |   |   |   |        261-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | placito         | placıto      |   |   |   |   | lat |   |   |   |        261-03 | 2:context |          |  |    |    |    |    |
@@ -141,7 +141,7 @@ skadet
 | w   |        |   |   |   |   | sing(u)la       | ſıngl̅a       |   |   |   |   | lat |   |   |   |        261-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | bona            | bona         |   |   |   |   | lat |   |   |   |        261-06 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | syellandie      | ſyelladıe   |   |   |   |   | lat |   |   |   |        261-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | syellandie      | ſyelladıe   |   |   |   |   | lat |   |   |   |        261-06 | 2:context |          |  |    |    |2562|    |
 | PL  | e      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | sita            | ſíta         |   |   |   |   | lat |   |   |   |        261-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | que             | que          |   |   |   |   | lat |   |   |   |        261-06 | 2:context |          |  |    |    |    |    |

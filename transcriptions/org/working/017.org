@@ -58,7 +58,7 @@ udateret
 | w   |       |   |   |   |   | conradi         | conradı    |   |   |   |   | lat |   |   |   |       17-01 | 1:protocol |          |  |20|    |    |    |
 | w   |       |   |   |   |   | de              | de         |   |   |   |   | lat |   |   |   |       17-01 | 1:protocol |          |  |20|    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Regensten       | Regenﬅe   |   |   |   |   | lat |   |   |   |       17-01 | 1:protocol |          |  |20|    |    |    |
+| w   |       |   |   |   |   | Regensten       | Regenﬅe   |   |   |   |   | lat |   |   |   |       17-01 | 1:protocol |          |  |20|    |15|    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | e     | KonReg001  |   |   |   |                 |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | p   |       |   |   |   |   | .               | .          |   |   |   |   | lat |   |   |   |       17-01 | 1:protocol |          |  |    |    |    |    |
@@ -93,7 +93,7 @@ udateret
 | PE  | e     | PedSkj001  |   |   |   |                 |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | Ep(iscop)i      | Ep̅ı        |   |   |   |   | lat |   |   |   |       17-03 | 2:context |          |  |    |    |    |    |
 | PL  | b     |   |   |   |   |                 |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Roschilden(sis) | Roſchılde̅ |   |   |   |   | lat |   |   |   |       17-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Roschilden(sis) | Roſchılde̅ |   |   |   |   | lat |   |   |   |       17-03 | 2:context |          |  |    |    |16|    |
 | PL  | e     |   |   |   |   |                 |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | dimisim(us)     | dímíſı᷒    |   |   |   |   | lat |   |   |   |       17-03 | 2:context |          |  |    |    |    |    |
 | lm  | 17-04 |   |   |   |   |                 |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
@@ -144,7 +144,7 @@ udateret
 | p   |       |   |   |   |   | .               | .          |   |   |   |   | lat |   |   |   |       17-06 | 3:eschatocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | Da-¦tu(m)       | Da-¦tu̅     |   |   |   |   | lat |   |   |   | 17-06—17-07 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b     |   |   |   |   |                 |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Roschildis      | Roſchıldıſ |   |   |   |   | lat |   |   |   |       17-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Roschildis      | Roſchıldıſ |   |   |   |   | lat |   |   |   |       17-07 | 3:eschatocol |          |  |    |    |17|    |
 | PL  | e     |   |   |   |   |                 |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | p   |       |   |   |   |   | .               | .          |   |   |   |   | lat |   |   |   |       17-07 | 3:eschatocol |          |  |    |    |    |    |
 | d  | e     | 3  |   |   |   |                 |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |

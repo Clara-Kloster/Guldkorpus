@@ -58,7 +58,7 @@
 | w   |        |   |   |   |   | in                   | in              |   |   |   |   | lat |   |   |    |        342-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(ro)uincia          | ꝓuíncıa         |   |   |   |   | lat |   |   |    |        342-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                      |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | flackebyershær(et)   | flackebyerſhærꝫ |   |   |   |   | lat |   |   |    |        342-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | flackebyershær(et)   | flackebyerſhærꝫ |   |   |   |   | lat |   |   |    |        342-01 | 1:protocol |          |  |    |    |1416|    |
 | PL  | e      |   |   |   |   |                      |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /                    | /               |   |   |   |   | lat |   |   |    |        342-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | PedEbb001  |   |   |   |                      |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -93,7 +93,7 @@
 | PE  | e      | LarAge001  |   |   |   |                      |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | de                   | de              |   |   |   |   | lat |   |   |    |        342-02 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                      |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | agheroph             | agheroph        |   |   |   |   | lat |   |   |    |        342-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | agheroph             | agheroph        |   |   |   |   | lat |   |   |    |        342-02 | 1:protocol |          |  |    |    |1417|    |
 | PL  | e      |   |   |   |   |                      |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /                    | /               |   |   |   |   | lat |   |   |    |        342-02 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | /                    | /               |   |   |   |   | lat |   |   |    |        342-02 | 1:protocol |          |  |    |    |    |    |
@@ -139,7 +139,7 @@
 | w   |        |   |   |   |   | p(ro)uinciali        | ꝓuincıalí       |   |   |   |   | lat |   |   |    |        342-04 | 2:context |          |  |    |    |    |    |
 | lm  | 342-05 |   |   |   |   |                      |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                      |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | flackebyrsh(æ)r(et)  | flackebyrſhrꝭ   |   |   |   |   | lat |   |   |    |        342-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | flackebyrsh(æ)r(et)  | flackebyrſhrꝭ   |   |   |   |   | lat |   |   |    |        342-05 | 2:context |          |  |    |    |1418|    |
 | PL  | e      |   |   |   |   |                      |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | in                   | in              |   |   |   |   | lat |   |   |    |        342-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(rese)ncia          | pn̅cıa           |   |   |   |   | lat |   |   |    |        342-05 | 2:context |          |  |    |    |    |    |
@@ -171,8 +171,8 @@
 | w   |        |   |   |   |   | p(rese)nc(ium)       | pn̅cꝭ            |   |   |   |   | lat |   |   | == |        342-06 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                      |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | PE | b | ÅstSve001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ostrado              | oﬅrado          |   |   |   |   | lat |   |   |    |        342-06 | 2:context |          |  |1407|    |    |    |
-| w   |        |   |   |   |   | swenonis             | ſwenoni        |   |   |   |   | lat |   |   |    |        342-06 | 2:context |          |  |1407|    |    |    |
+| w   |        |   |   |   |   | ostrado              | oﬅrado          |   |   |   |   | lat |   |   |    |        342-06 | 2:context |          |  |1407|    |2282|    |
+| w   |        |   |   |   |   | swenonis             | ſwenoni        |   |   |   |   | lat |   |   |    |        342-06 | 2:context |          |  |1407|    |2282|    |
 | PE | e | ÅstSve001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |                      |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | vna(m)               | vna̅             |   |   |   |   | lat |   |   |    |        342-06 | 2:context |          |  |    |    |    |    |
@@ -181,11 +181,11 @@
 | w   |        |   |   |   |   | villicalem           | vıllıcalem      |   |   |   |   | lat |   |   |    |        342-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | in                   | in              |   |   |   |   | lat |   |   |    |        342-07 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                      |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | reynstorp            | reynﬅorp        |   |   |   |   | lat |   |   |    |        342-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | reynstorp            | reynﬅorp        |   |   |   |   | lat |   |   |    |        342-07 | 2:context |          |  |    |    |1419|    |
 | PL  | e      |   |   |   |   |                      |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | in                   | in              |   |   |   |   | lat |   |   |    |        342-07 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                      |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | flackebyersh(æ)r(et) | flackebyerſhrꝭ  |   |   |   |   | lat |   |   |    |        342-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | flackebyersh(æ)r(et) | flackebyerſhrꝭ  |   |   |   |   | lat |   |   |    |        342-07 | 2:context |          |  |    |    |1420|    |
 | PL  | e      |   |   |   |   |                      |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | sita(m)              | ſıta̅            |   |   |   |   | lat |   |   |    |        342-07 | 2:context |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                    | .               |   |   |   |   | lat |   |   |    |        342-07 | 2:context |          |  |    |    |    |    |

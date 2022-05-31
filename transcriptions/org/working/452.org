@@ -56,7 +56,7 @@
 | w   |        | burghemæstere | xNC | borgmester   |   | burgemesth(e)r  | buꝛgemeſthꝛ̅  |   |   |   |                   | dan |   |   |    | 452-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i             | xAP | i            |   | ij              | ij           |   |   |   |                   | dan |   |   |    | 452-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |               |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Roskilde     |   | Rosk(ilde)      | Roſkꝭ       |   |   |   |                   | dan |   |   |    | 452-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Roskilde     |   | Rosk(ilde)      | Roſkꝭ       |   |   |   |                   | dan |   |   |    | 452-01 | 1:protocol |          |  |    |    |2034|    |
 | PL  | e      |               |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
 | PE  | b      | PerMik001     |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        |               | xNP | Per          |   | p(e)r           | p̲ꝛ           |   |   |   |                   | dan |   |   |    | 452-01 | 1:protocol |          |  |2170|    |    |    |
@@ -122,7 +122,7 @@
 | w   |        | hær           | xAV | her          |   | h(er)           | h̅            |   |   |   |                   | dan |   |   |    | 452-06 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i            |   | ij              | ij           |   |   |   |                   | dan |   |   |    | 452-06 | 2:context |          |  |    |    |    |    |
 | PL  | b      |               |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Roskilde     |   | Rosk(ilde)      | Roſkꝭ       |   |   |   |                   | dan |   |   |    | 452-06 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Roskilde     |   | Rosk(ilde)      | Roſkꝭ       |   |   |   |                   | dan |   |   |    | 452-06 | 2:context |          |  |    |    |2035|    |
 | PL  | e      |               |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | hvilik        | xDD | hvilket      |   | huilket         | huilket      |   |   |   |                   | dan |   |   |    | 452-06 | 2:context |          |  |    |    |    |    |
 | w   |        | silv          | xNC | sølv         |   | sølff           | ſølff        |   |   |   |                   | dan |   |   |    | 452-06 | 2:context |          |  |    |    |    |    |
@@ -139,7 +139,7 @@
 | lm  | 452-08 |               |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | upa           | xAP | på           |   | poo             | poo          |   |   |   |                   | dan |   |   |    | 452-08 | 2:context |          |  |    |    |    |    |
 | PL  | b      |               |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Københavns   |   | køff(enhaffns)  | køffꝭͣ̅        |   |   |   |                   | dan |   |   |    | 452-08 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Københavns   |   | køff(enhaffns)  | køffꝭͣ̅        |   |   |   |                   | dan |   |   |    | 452-08 | 2:context |          |  |    |    |2036|    |
 | PL  | e      |               |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | slot          | xNC | slot         |   | slott           | ſlott        |   |   |   |                   | dan |   |   |    | 452-08 | 2:context |          |  |    |    |    |    |
 | w   |        | give          | xVB | givendes     |   | giffue(n)d(is)  | giffue̅      |   |   |   |                   | dan |   |   |    | 452-08 | 2:context |          |  |    |    |    |    |
@@ -154,7 +154,7 @@
 | d   | b      | 3             |     | eschatocol   |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        |               | lat |              |   | dat(um)         | datꝭ         |   |   |   |                   | lat |   |   |    | 452-09 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |               |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | lat |              |   | Rosk(ildis)     | Roſkꝭ       |   |   |   |                   | lat |   |   |    | 452-09 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |               | lat |              |   | Rosk(ildis)     | Roſkꝭ       |   |   |   |                   | lat |   |   |    | 452-09 | 3:eschatocol |          |  |    |    |2037|    |
 | PL  | e      |               |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | othensdagh    | xNC | onsdag       |   | otth(e)nssdag   | otthn̅ſſdag   |   |   |   |                   | dan |   |   |    | 452-09 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | næst          | xAV | næst         |   | nest            | neſt         |   |   |   |                   | dan |   |   |    | 452-09 | 3:eschatocol |          |  |    |    |    |    |

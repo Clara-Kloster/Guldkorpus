@@ -55,7 +55,7 @@
 | p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | af         | xAP    | af           |   | aff             | aff          |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Onsala       |   | othænsalæ       | othænſalæ    |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |            | xNP    | Onsala       |   | othænsalæ       | othænſalæ    |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |1330|    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |            |        |              |   | /               | /            |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | præst      | xNC    | præste       |   | præste          | præſte       |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
@@ -107,7 +107,7 @@
 | w   |        | i          | xAP    | i            |   | j               | ȷ            |   |   |   |   | dan |   |   |   |        323-03 | 1:protocol |          |  |    |    |    |    |
 | p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-03 | 1:protocol |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Kongesbakke  |   | kongæsbacke     | kongæſbacke  |   |   |   |   | dan |   |   |   |        323-03 | 1:protocol |          |  |    |    |    |    |
+| w   |        |            | xNP    | Kongesbakke  |   | kongæsbacke     | kongæſbacke  |   |   |   |   | dan |   |   |   |        323-03 | 1:protocol |          |  |    |    |1331|    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-03 | 1:protocol |          |  |    |    |    |    |
 | w   |        | upa        | xAP    | opå          |   | vppa            | va          |   |   |   |   | dan |   |   |   |        323-03 | 1:protocol |          |  |    |    |    |    |
@@ -170,20 +170,20 @@
 | w   |        | kalle      | xVB    | kaldes       |   | kalles          | kalle       |   |   |   |   | dan |   |   |   |        323-05 | 2:context |          |  |    |    |    |    |
 | lm  | 323-06 |            |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | PL  | b      |            |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            |        | Helles       |   | hælles          | hælle       |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
-| w   |        | aker       | xNC    | ager         |   | agher           | agher        |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
+| w   |        |            |        | Helles       |   | hælles          | hælle       |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |1332|    |
+| w   |        | aker       | xNC    | ager         |   | agher           | agher        |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |1332|    |
 | PL  | e      |            |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
 | w   |        | i          | xAP    | i            |   | j               | ȷ            |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
 | p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
 | PL  | b      |            |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Fjære        |   | fyæræ           | fyæræ        |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
+| w   |        |            | xNP    | Fjære        |   | fyæræ           | fyæræ        |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |1334|    |
 | PL  | e      |            |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
 | w   |        | i          | xAP    | i            |   | j               | ȷ            |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
 | p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
 | PL  | b      |            |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Lindome sogn |   | lyu(n)gemæsoken | lyu̅gemæſoken |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
+| w   |        |            | xNP    | Lindome sogn |   | lyu(n)gemæsoken | lyu̅gemæſoken |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |1333|    |
 | PL  | e      |            |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
 | w   |        | mæth       | xAP    | med          |   | m(et)           | ꝫ           |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
@@ -228,7 +228,7 @@
 | w   |        | i          | xAP    | i            |   | j               | ȷ            |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |    |    |
 | p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |    |    |
 | PL  | b      |            |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Fjære        |   | fyæræ           | fyæræ        |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |    |    |
+| w   |        |            | xNP    | Fjære        |   | fyæræ           | fyæræ        |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |1335|    |
 | PL  | e      |            |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |    |    |
 | w   |        | ehvar      | xAV    | ihvor        |   | æ. hwr          | æ. hwr       |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |    |    |

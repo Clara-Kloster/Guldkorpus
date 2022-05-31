@@ -52,7 +52,7 @@ eller ÆA. 595
 | w   |        | riddere     | xNC | ridder            |   | Rider                 | Rider              |   |   |   |        | dan |   |   |    |        448-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | til         | xAP | til               |   | till                  | tıll               |   |   |   |        | dan |   |   |    |        448-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Vallø             |   | valløff               | valløff            |   |   |   |        | dan |   |   |    |        448-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Vallø             |   | valløff               | valløff            |   |   |   |        | dan |   |   |    |        448-01 | 1:protocol |          |  |    |    |2009|    |
 | PL  | e      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | gøre        | xVB | gøre              |   | gøre                  | gøre               |   |   |   |        | dan |   |   |    |        448-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | vitherlik   | xAJ | vitterligt        |   | vitterligt            | vıtterlıgt         |   |   |   |        | dan |   |   |    |        448-01 | 1:protocol |          |  |    |    |    |    |
@@ -97,7 +97,7 @@ eller ÆA. 595
 | w   |        | kloster     | xNC | klostret          |   | clost(re)t            | cloſtt            |   |   |   |        | dan |   |   |    |        448-03 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i                 |   | i                     | i                  |   |   |   |        | dan |   |   |    |        448-03 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Roskilde          |   | Roschelde             | Roſchelde          |   |   |   |        | dan |   |   |    |        448-03 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Roskilde          |   | Roschelde             | Roſchelde          |   |   |   |        | dan |   |   |    |        448-03 | 2:context |          |  |    |    |2010|    |
 | PL  | e      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | um          | xAP | om                |   | om                    | o                 |   |   |   |        | dan |   |   |    |        448-03 | 2:context |          |  |    |    |    |    |
 | w   |        | jorth       | xNC | jorde             |   | iorde                 | ıoꝛde              |   |   |   |        | dan |   |   |    |        448-03 | 2:context |          |  |    |    |    |    |
@@ -137,23 +137,23 @@ eller ÆA. 595
 | w   |        | ligje       | xVB | liggendes         |   | legend(is)            | legen             |   |   |   |        | dan |   |   |    |        448-05 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i                 |   | i                     | i                  |   |   |   |        | dan |   |   |    |        448-05 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Sjælland          |   | Sielandh              | ielandh           |   |   |   |        | dan |   |   |    |        448-05 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Sjælland          |   | Sielandh              | ielandh           |   |   |   |        | dan |   |   |    |        448-05 | 2:context |          |  |    |    |2011|    |
 | PL  | e      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i                 |   | i                     | i                  |   |   |   |        | dan |   |   |    |        448-05 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Tre               |   | tre                   | tꝛe                |   |   |   |        | dan |   |   |    |        448-05 | 2:context |          |  |    |    |    |    |
-| w   |        | hæreth      | xNC | Herred            |   | herit                 | heꝛıt              |   |   |   |        | dan |   |   |    |        448-05 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Tre               |   | tre                   | tꝛe                |   |   |   |        | dan |   |   |    |        448-05 | 2:context |          |  |    |    |2012|    |
+| w   |        | hæreth      | xNC | Herred            |   | herit                 | heꝛıt              |   |   |   |        | dan |   |   |    |        448-05 | 2:context |          |  |    |    |2012|    |
 | PL  | e      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i                 |   | i                     | i                  |   |   |   |        | dan |   |   |    |        448-05 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Slangerup         |   | slangd(ro)p           | ſlangdͦp            |   |   |   |        | dan |   |   |    |        448-05 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Slangerup         |   | slangd(ro)p           | ſlangdͦp            |   |   |   |        | dan |   |   |    |        448-05 | 2:context |          |  |    |    |2013|2937|
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        | sokn        | xNC | sogn              |   | sogen                 | ſoge              |   |   |   |        | dan |   |   |    |        448-05 | 2:context |          |  |    |    |    |    |
+| w   |        | sokn        | xNC | sogn              |   | sogen                 | ſoge              |   |   |   |        | dan |   |   |    |        448-05 | 2:context |          |  |    |    |    |2937|
 | PL  | e      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i                 |   | i                     | i                  |   |   |   |        | dan |   |   |    |        448-05 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Hørup             |   | hørop                 | hørop              |   |   |   |        | dan |   |   |    |        448-05 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Hørup             |   | hørop                 | hørop              |   |   |   |        | dan |   |   |    |        448-05 | 2:context |          |  |    |    |2014|    |
 | PL  | e      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | sum         | xRP | som               |   | som                   | ſo                |   |   |   |        | dan |   |   |    |        448-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | HanNie001   |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -215,18 +215,18 @@ eller ÆA. 595
 | w   |        | ligje       | xVB | liggendes         |   | legend(is)            | legen             |   |   |   |        | dan |   |   |    |        448-08 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i                 |   | i                     | i                  |   |   |   |        | dan |   |   |    |        448-08 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Bæverskovs Herred |   | bewerskougesh(er)ritt | bewerſkoűgeſhꝛitt |   |   |   |        | dan |   |   |    |        448-08 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Bæverskovs Herred |   | bewerskougesh(er)ritt | bewerſkoűgeſhꝛitt |   |   |   |        | dan |   |   |    |        448-08 | 2:context |          |  |    |    |2015|    |
 | PL  | e      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i                 |   | i                     | i                  |   |   |   |        | dan |   |   |    |        448-08 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Herfølge          |   | h(er)føgle            | h̅føgle             |   |   |   |        | dan |   |   |    |        448-08 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Herfølge          |   | h(er)føgle            | h̅føgle             |   |   |   |        | dan |   |   |    |        448-08 | 2:context |          |  |    |    |2016|2938|
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        | sokn        | xNC | sogn              |   | sogen                 | ſogen              |   |   |   |        | dan |   |   |    |        448-08 | 2:context |          |  |    |    |    |    |
+| w   |        | sokn        | xNC | sogn              |   | sogen                 | ſogen              |   |   |   |        | dan |   |   |    |        448-08 | 2:context |          |  |    |    |    |2938|
 | PL  | e      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i                 |   | i                     | i                  |   |   |   |        | dan |   |   |    |        448-08 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Hastrup           |   | hadstorp              | hadſtorp           |   |   |   |        | dan |   |   |    |        448-08 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Hastrup           |   | hadstorp              | hadſtorp           |   |   |   |        | dan |   |   |    |        448-08 | 2:context |          |  |    |    |2017|    |
 | PL  | e      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | sum         | xRP | som               |   | som                   | ſo                |   |   |   |        | dan |   |   |    |        448-08 | 2:context |          |  |    |    |    |    |
 | PE  | b      | LarIng001   |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -284,8 +284,8 @@ eller ÆA. 595
 | w   |        | eghedom     | xNC | ejendom           |   | eygedom               | eygedo            |   |   |   |        | dan |   |   |    |        448-11 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i                 |   | i                     | i                  |   |   |   |        | dan |   |   |    |        448-11 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Tre               |   | tre                   | tre                |   |   |   |        | dan |   |   |    |        448-11 | 2:context |          |  |    |    |    |    |
-| w   |        | hæreth      | xNC | Herred            |   | h(er)rith             | hrith             |   |   |   |        | dan |   |   |    |        448-11 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Tre               |   | tre                   | tre                |   |   |   |        | dan |   |   |    |        448-11 | 2:context |          |  |    |    |2018|    |
+| w   |        | hæreth      | xNC | Herred            |   | h(er)rith             | hrith             |   |   |   |        | dan |   |   |    |        448-11 | 2:context |          |  |    |    |2018|    |
 | PL  | e      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | mæth        | xAP | med               |   | m(et)                 | mꝫ                 |   |   |   |        | dan |   |   |    |        448-11 | 2:context |          |  |    |    |    |    |
 | w   |        | skogh       | xNC | skov              |   | skowg                 | ſkowg              |   |   |   |        | dan |   |   |    |        448-11 | 2:context |          |  |    |    |    |    |
@@ -516,10 +516,10 @@ eller ÆA. 595
 | PE  | e      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | til         | xAP | til               |   | til                   | tıl                |   |   |   |        | dan |   |   |    |        448-23 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Bostrup           |   | bustorp               | bűſtorp            |   |   |   |        | dan |   |   |    |        448-23 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Bostrup           |   | bustorp               | bűſtorp            |   |   |   |        | dan |   |   |    |        448-23 | 3:eschatocol |          |  |    |    |2019|    |
 | PL  | e      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | PL  | b      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Danmarks          |   | Da(n)marck(is)        | Da̅marckꝭ           |   |   |   |        | dan |   |   |    |        448-23 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Danmarks          |   | Da(n)marck(is)        | Da̅marckꝭ           |   |   |   |        | dan |   |   |    |        448-23 | 3:eschatocol |          |  |    |    |2020|    |
 | PL  | e      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | rike        | xNC | riges             |   | rig(is)               | ꝛıgꝭ               |   |   |   |        | dan |   |   |    |        448-23 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |             | XX  |                   |   | maarss                | maarſſ             |   |   |   |        | dan |   |   |    |        448-23 | 3:eschatocol |          |  |    |    |    |    |
@@ -540,7 +540,7 @@ eller ÆA. 595
 | w   |        | ærkedjakn   | xNC | ærkedegn          |   | erchedegen            | eꝛchedegen         |   |   |   |        | dan |   |   |    |        448-24 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | i           | xAP | i                 |   | i                     | i                  |   |   |   |        | dan |   |   |    |        448-24 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Roskilde          |   | Rosk(ilde)            | Roſkꝭ              |   |   |   |        | dan |   |   |    |        448-24 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Roskilde          |   | Rosk(ilde)            | Roſkꝭ              |   |   |   |        | dan |   |   |    |        448-24 | 3:eschatocol |          |  |    |    |2021|    |
 | PL  | e      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og                |   | oc                    | oc                 |   |   |   |        | dan |   |   |    |        448-24 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | mæstere     | xNC | mester            |   | mester                | meſter             |   |   |   |        | dan |   |   |    |        448-24 | 3:eschatocol |          |  |    |    |    |    |
@@ -554,7 +554,7 @@ eller ÆA. 595
 | ad  | e      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |             |     |                   |   | Dat(um)               | Datꝭ               |   |   |   |        | lat |   |   |    |        448-24 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             |     | Vallø             |   | valløff               | valløff            |   |   |   |        | dan |   |   |    |        448-24 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             |     | Vallø             |   | valløff               | valløff            |   |   |   |        | dan |   |   |    |        448-24 | 3:eschatocol |          |  |    |    |2022|    |
 | PL  | e      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |             |     |                   |   | ip(s)o                | ıp̅o                |   |   |   |        | lat |   |   |    |        448-24 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |             |     |                   |   | die                   | dıe                |   |   |   |        | lat |   |   |    |        448-24 | 3:eschatocol |          |  |    |    |    |    |

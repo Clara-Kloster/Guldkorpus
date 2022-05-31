@@ -50,7 +50,7 @@ Modbrev til SDHK 32745
 | PE  | e      | SteStu001  |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Riidd(er)r     | Rııddr      |   |   |   |    | swe |   |   |   | 423-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Swe(er)ig(is)  | weıgꝭ      |   |   |   |    | swe |   |   |   | 423-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Swe(er)ig(is)  | weıgꝭ      |   |   |   |    | swe |   |   |   | 423-01 | 1:protocol |          |  |    |    |1858|    |
 | PL  | e      |   |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | righis         | ꝛıghı       |   |   |   |    | swe |   |   |   | 423-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | fforstande(er) | ﬀoꝛﬅande    |   |   |   |    | swe |   |   |   | 423-01 | 1:protocol |          |  |    |    |    |    |
@@ -112,7 +112,7 @@ Modbrev til SDHK 32745
 | w   |        |   |   |   |   | som            | ſo          |   |   |   |    | swe |   |   |   | 423-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | kalles         | kalle       |   |   |   |    | swe |   |   |   | 423-04 | 2:context |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lidh(e)rne     | lıdh̅ꝛne      |   |   |   |    | swe |   |   |   | 423-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | lidh(e)rne     | lıdh̅ꝛne      |   |   |   |    | swe |   |   |   | 423-04 | 2:context |          |  |    |    |1859|    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | som            | ſo          |   |   |   |    | swe |   |   |   | 423-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ligger         | lıggeꝛ       |   |   |   |    | swe |   |   |   | 423-04 | 2:context |          |  |    |    |    |    |
@@ -128,8 +128,8 @@ Modbrev til SDHK 32745
 | w   |        |   |   |   |   | jord           | ȷoꝛd         |   |   |   |    | swe |   |   |   | 423-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | j              | j            |   |   |   |    | swe |   |   |   | 423-05 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Solne          | olne        |   |   |   |    | swe |   |   |   | 423-05 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | sokn           | ſok         |   |   |   |    | swe |   |   |   | 423-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Solne          | olne        |   |   |   |    | swe |   |   |   | 423-05 | 2:context |          |  |    |    |1860|    |
+| w   |        |   |   |   |   | sokn           | ſok         |   |   |   |    | swe |   |   |   | 423-05 | 2:context |          |  |    |    |1860|    |
 | PL  | e      |   |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ffor           | ﬀoꝛ          |   |   |   |    | swe |   |   |   | 423-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | hollett        | hollett      |   |   |   |    | swe |   |   |   | 423-05 | 2:context |          |  |    |    |    |    |
@@ -159,7 +159,7 @@ Modbrev til SDHK 32745
 | w   |        |   |   |   |   | Stenhus        | tenhu      |   |   |   |    | swe |   |   |   | 423-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | j              | j            |   |   |   |    | swe |   |   |   | 423-06 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Stokholm       | tokhol     |   |   |   |    | swe |   |   |   | 423-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Stokholm       | tokhol     |   |   |   |    | swe |   |   |   | 423-06 | 2:context |          |  |    |    |1861|    |
 | PL  | e      |   |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | liggiendis     | lıggıendı   |   |   |   |    | swe |   |   |   | 423-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | østtentil      | øﬅtentil     |   |   |   |    | swe |   |   |   | 423-06 | 2:context |          |  |    |    |    |    |
@@ -179,14 +179,14 @@ Modbrev til SDHK 32745
 | w   |        |   |   |   |   | som            | ſo          |   |   |   |    | swe |   |   |   | 423-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | kalles         | kalle       |   |   |   |    | swe |   |   |   | 423-07 | 2:context |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | jerle          | ȷeꝛle        |   |   |   |    | swe |   |   |   | 423-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | jerle          | ȷeꝛle        |   |   |   |    | swe |   |   |   | 423-07 | 2:context |          |  |    |    |1862|    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | och            | och          |   |   |   |    | swe |   |   |   | 423-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | liggendis      | lıggendı    |   |   |   |    | swe |   |   |   | 423-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | j              | ȷ            |   |   |   |    | swe |   |   |   | 423-07 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | solne          | ſolne        |   |   |   |    | swe |   |   |   | 423-07 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | sokn           | ſok         |   |   |   |    | swe |   |   |   | 423-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | solne          | ſolne        |   |   |   |    | swe |   |   |   | 423-07 | 2:context |          |  |    |    |1863|    |
+| w   |        |   |   |   |   | sokn           | ſok         |   |   |   |    | swe |   |   |   | 423-07 | 2:context |          |  |    |    |1863|    |
 | PL  | e      |   |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
 | lm  | 423-08 |   |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Thy            | Thy          |   |   |   |    | swe |   |   |   | 423-08 | 2:context |          |  |    |    |    |    |
@@ -299,7 +299,7 @@ Modbrev til SDHK 32745
 | w   |        |   |   |   |   | ær             | æꝛ           |   |   |   |    | swe |   |   |   | 423-14 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | j              | j            |   |   |   |    | swe |   |   |   | 423-14 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Stokholm       | tokhol     |   |   |   |    | swe |   |   |   | 423-14 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Stokholm       | tokhol     |   |   |   |    | swe |   |   |   | 423-14 | 3:eschatocol |          |  |    |    |1864|    |
 | PL  | e      |   |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Ar             | Aꝛ           |   |   |   |    | swe |   |   |   | 423-14 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | och            | och          |   |   |   |    | swe |   |   |   | 423-14 | 3:eschatocol |          |  |    |    |    |    |

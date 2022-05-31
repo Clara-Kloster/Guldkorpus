@@ -50,7 +50,7 @@
 | w   |        | busk+foghet | xNC | buskfoged       |   | buskfogiit         | bŭſkfogiit   |   |   |   |   | dan |   |   |   | 453-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | til         | xAP | til             |   | tiill              | tiill        |   |   |   |   | dan |   |   |   | 453-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |             |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Try herredsting |   | tryhe(re)tzting    | tꝛÿhetzting |   |   |   |   | dan |   |   |   | 453-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Try herredsting |   | tryhe(re)tzting    | tꝛÿhetzting |   |   |   |   | dan |   |   |   | 453-01 | 1:protocol |          |  |    |    |2038|    |
 | PL  | e      |             |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | kænne       | xVB | kendes          |   | kend(is)           | kendꝭ        |   |   |   |   | dan |   |   |   | 453-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | mæth        | xAP | med             |   | m(et)              | mꝫ           |   |   |   |   | dan |   |   |   | 453-01 | 1:protocol |          |  |    |    |    |    |
@@ -88,7 +88,7 @@
 | w   |        | uti         | xAP | udi             |   | vdj                | vdj          |   |   |   |   | dan |   |   |   | 453-04 | 1:protocol |          |  |    |    |    |    |
 | lm  | 453-05 |             |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | PL  | b      |             |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Havelsø         |   | haffuelsø          | haffuelſø    |   |   |   |   | dan |   |   |   | 453-05 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Havelsø         |   | haffuelsø          | haffuelſø    |   |   |   |   | dan |   |   |   | 453-05 | 1:protocol |          |  |    |    |2039|    |
 | PL  | e      |             |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | PE  | b      | LarOls001   |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |             | xNP | Lars            |   | las                | la          |   |   |   |   | dan |   |   |   | 453-05 | 1:protocol |          |  |2178|    |    |    |
@@ -128,14 +128,14 @@
 | PE  | e      | PouJør001   |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | uti         | xAV | udi             |   | vdi                | vdı          |   |   |   |   | dan |   |   |   | 453-07 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |             |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Kremme          |   | kr(e)m(m)e         | kꝛm̅e        |   |   |   |   | dan |   |   |   | 453-07 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Kremme          |   | kr(e)m(m)e         | kꝛm̅e        |   |   |   |   | dan |   |   |   | 453-07 | 1:protocol |          |  |    |    |2040|    |
 | PL  | e      |             |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | PE  | b      | EbbXxx001   |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |             | xNP | Ebbe            |   | Ebbe               | Ebbe         |   |   |   |   | dan |   |   |   | 453-07 | 1:protocol |          |  |2185|    |    |    |
 | PE  | e      | EbbXxx001   |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | uti         | xAV | udi             |   | vdi                | vdi          |   |   |   |   | dan |   |   |   | 453-07 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |             |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Ubberup         |   | vbbe(ro)p          | vbbeͦp        |   |   |   |   | dan |   |   |   | 453-07 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Ubberup         |   | vbbe(ro)p          | vbbeͦp        |   |   |   |   | dan |   |   |   | 453-07 | 1:protocol |          |  |    |    |2041|    |
 | PL  | e      |             |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | PE  | b      | NieBla001   |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |             | xNP | Niels           |   | niels              | niel        |   |   |   |   | dan |   |   |   | 453-07 | 1:protocol |          |  |2186|    |    |    |
@@ -149,7 +149,7 @@
 | PE  | e      | AndJen006   |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | uti         | xAP | udi             |   | vdi                | vdi          |   |   |   |   | dan |   |   |   | 453-08 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |             |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Grynsterup      |   | gry(n)ste(ro)p     | gꝛÿ̅ſteͦp      |   |   |   |   | dan |   |   |   | 453-08 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Grynsterup      |   | gry(n)ste(ro)p     | gꝛÿ̅ſteͦp      |   |   |   |   | dan |   |   |   | 453-08 | 1:protocol |          |  |    |    |2042|    |
 | PL  | e      |             |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | PE  | b      | KnuFin001   |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |             | xNP | Knud            |   | knudt              | knudt        |   |   |   |   | dan |   |   |   | 453-08 | 1:protocol |          |  |2188|    |    |    |
@@ -184,7 +184,7 @@
 | PE  | e      | MadOls001   |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | uti         | xAP | udi             |   | vdi                | vdi          |   |   |   |   | dan |   |   |   | 453-11 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Linby           |   | lynby              | lÿnbÿ        |   |   |   |   | dan |   |   |   | 453-11 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Linby           |   | lynby              | lÿnbÿ        |   |   |   |   | dan |   |   |   | 453-11 | 2:context |          |  |    |    |2043|    |
 | PL  | e      |             |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | PE  | b      |             |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |             | xNP | Hans            |   | hans               | han         |   |   |   |   | dan |   |   |   | 453-11 | 2:context |          |  |2553|    |    |    |
@@ -201,11 +201,11 @@
 | w   |        | skjal       | xNC | skel            |   | scell              | ſcell        |   |   |   |   | dan |   |   |   | 453-12 | 2:context |          |  |    |    |    |    |
 | w   |        | mællem      | xAP | mellem          |   | mello(m)           | mello̅        |   |   |   |   | dan |   |   |   | 453-12 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Linby           |   | lynby              | lÿnbÿ        |   |   |   |   | dan |   |   |   | 453-12 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Linby           |   | lynby              | lÿnbÿ        |   |   |   |   | dan |   |   |   | 453-12 | 2:context |          |  |    |    |2044|    |
 | PL  | e      |             |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og              |   | oc                 | oc           |   |   |   |   | dan |   |   |   | 453-12 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Ølsle           |   | ølslee             | ølſlee       |   |   |   |   | dan |   |   |   | 453-12 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Ølsle           |   | ølslee             | ølſlee       |   |   |   |   | dan |   |   |   | 453-12 | 2:context |          |  |    |    |2045|    |
 | PL  | e      |             |     |                 |   |                    |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | sva         | xAV | så              |   | saa                | ſaa          |   |   |   |   | dan |   |   |   | 453-12 | 2:context |          |  |    |    |    |    |
 | w   |        | sum         | xCS | som             |   | som(m)             | ſom̅          |   |   |   |   | dan |   |   |   | 453-12 | 2:context |          |  |    |    |    |    |

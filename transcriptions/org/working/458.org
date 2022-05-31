@@ -60,14 +60,14 @@ Entity vdblac = v with breve
 | PE  | e      | PerOls001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Bonderup     |   | bonde(rv)p       | bondeͮp      |   |   |   |            | dan |   |   |   |        458-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Bonderup     |   | bonde(rv)p       | bondeͮp      |   |   |   |            | dan |   |   |   |        458-01 | 1:protocol |          |  |    |    |2091|    |
 | PL  | e      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | hæreth      | xNC | herred       |   | H(e)ridtt        | H̅ꝛidtt      |   |   |   |            | dan |   |   |   |        458-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | foghet      | xNC | foged        |   | fogidtt          | fogıdtt     |   |   |   |            | dan |   |   |   |        458-01 | 1:protocol |          |  |    |    |    |    |
 | lm  | 458-02 |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-02 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Merløse      |   | merlose          | meꝛloſe     |   |   |   |            | dan |   |   |   |        458-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Merløse      |   | merlose          | meꝛloſe     |   |   |   |            | dan |   |   |   |        458-02 | 1:protocol |          |  |    |    |2092|    |
 | PL  | e      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | hæreth      | xNC | herred       |   | H(e)ridtt        | H̅ꝛıdtt      |   |   |   |            | dan |   |   |   |        458-02 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | JenJep001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -76,7 +76,7 @@ Entity vdblac = v with breve
 | PE  | e      | JenJep001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-02 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Stenlille    |   | stenlille        | ﬅenlille    |   |   |   |            | dan |   |   |   |        458-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Stenlille    |   | stenlille        | ﬅenlille    |   |   |   |            | dan |   |   |   |        458-02 | 1:protocol |          |  |    |    |2093|    |
 | PL  | e      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | NieLau003   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |             | xNP | Niels        |   | niels            | niel       |   |   |   |            | dan |   |   |   |        458-02 | 1:protocol |          |  |2245|    |    |    |
@@ -84,7 +84,7 @@ Entity vdblac = v with breve
 | PE  | e      | NieLau003   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-02 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Butterup     |   | bute(rv)p        | bŭteͮp       |   |   |   |            | dan |   |   |   |        458-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Butterup     |   | bute(rv)p        | bŭteͮp       |   |   |   |            | dan |   |   |   |        458-02 | 1:protocol |          |  |    |    |2094|    |
 | PL  | e      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | ævinnelik   | xAJ | evindelig    |   | Euinde¦ligh      | Eŭinde¦ligh |   |   |   |            | dan |   |   |   | 458-02—458-03 | 1:protocol |          |  |    |    |    |    |
 | w   |        | mæth        | xAP | med          |   | m(et)            | mꝫ          |   |   |   |            | dan |   |   |   |        458-03 | 1:protocol |          |  |    |    |    |    |
@@ -135,7 +135,7 @@ Entity vdblac = v with breve
 | PE  | e      | MogAnd002   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-06 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Tåstrup      |   | taast(rv)p       | taaﬅͮp       |   |   |   |            | dan |   |   |   |        458-06 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Tåstrup      |   | taast(rv)p       | taaﬅͮp       |   |   |   |            | dan |   |   |   |        458-06 | 2:context |          |  |    |    |2095|    |
 | PL  | e      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | innen       | xAP | inden        |   | inden(n)         | inden̅       |   |   |   |            | dan |   |   |   |        458-06 | 2:context |          |  |    |    |    |    |
 | w   |        | thing       | xNC | ting         |   | ting             | ting        |   |   |   |            | dan |   |   |   |        458-06 | 2:context |          |  |    |    |    |    |
@@ -155,7 +155,7 @@ Entity vdblac = v with breve
 | PE  | e      | HanSve001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-07 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Tåstrup      |   | taast(rv)p       | taaﬅͮp       |   |   |   |            | dan |   |   |   |        458-07 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Tåstrup      |   | taast(rv)p       | taaﬅͮp       |   |   |   |            | dan |   |   |   |        458-07 | 2:context |          |  |    |    |2096|    |
 | PL  | e      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | framgange   | xVB | fremgik      |   | ffrem(m) gick    | ﬀꝛem̅ gick   |   |   |   |            | dan |   |   |   |        458-07 | 2:context |          |  |    |    |    |    |
 | w   |        | innen       | xAP | inden        |   | inden(n)         | inden̅       |   |   |   |            | dan |   |   |   |        458-07 | 2:context |          |  |    |    |    |    |
@@ -199,8 +199,8 @@ Entity vdblac = v with breve
 | w   |        | æng         | xNC | engen        |   | engen(n)         | engen̅       |   |   |   |            | dan |   |   |   |        458-10 | 2:context |          |  |    |    |    |    |
 | w   |        | vither      | xAP | ved          |   | ved              | ved         |   |   |   |            | dan |   |   |   |        458-10 | 2:context |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        | brinne      | xNC | brænde       |   | brande           | bꝛande      |   |   |   |            | dan |   |   |   |        458-10 | 2:context |          |  |    |    |    |    |
-| w   |        | mylne       | xNC | mølle        |   | mølle            | mølle       |   |   |   |            | dan |   |   |   |        458-10 | 2:context |          |  |    |    |    |    |
+| w   |        | brinne      | xNC | brænde       |   | brande           | bꝛande      |   |   |   |            | dan |   |   |   |        458-10 | 2:context |          |  |    |    |2097|    |
+| w   |        | mylne       | xNC | mølle        |   | mølle            | mølle       |   |   |   |            | dan |   |   |   |        458-10 | 2:context |          |  |    |    |2097|    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | mæth        | xAP | med          |   | med              | med         |   |   |   |            | dan |   |   |   |        458-10 | 2:context |          |  |    |    |    |    |
 | w   |        | en          | xPI | en           |   | Een(n)           | Een̅         |   |   |   |            | dan |   |   |   |        458-10 | 2:context |          |  |    |    |    |    |
@@ -217,7 +217,7 @@ Entity vdblac = v with breve
 | w   |        | garth       | xNC | gård         |   | gaard            | gaaꝛd       |   |   |   |            | dan |   |   |   |        458-11 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | ij               | ij          |   |   |   |            | dan |   |   |   |        458-11 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Tåstrup      |   | taast(rv)p       | taaﬅͮp       |   |   |   |            | dan |   |   |   |        458-11 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Tåstrup      |   | taast(rv)p       | taaﬅͮp       |   |   |   |            | dan |   |   |   |        458-11 | 2:context |          |  |    |    |2307|    |
 | PL  | e      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAV | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-11 | 2:context |          |  |    |    |    |    |
 | w   |        | thær        | xAV | der          |   | dær              | dæꝛ         |   |   |   |            | dan |   |   |   |        458-11 | 2:context |          |  |    |    |    |    |
@@ -232,7 +232,7 @@ Entity vdblac = v with breve
 | lm  | 458-12 |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-12 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Bonderup     |   | bonde(rv)p       | bondeͮp      |   |   |   |            | dan |   |   |   |        458-12 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Bonderup     |   | bonde(rv)p       | bondeͮp      |   |   |   |            | dan |   |   |   |        458-12 | 2:context |          |  |    |    |2098|    |
 | PL  | e      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og           |   | oc               | oc          |   |   |   |            | dan |   |   |   |        458-12 | 2:context |          |  |    |    |    |    |
 | w   |        | samelethes  | xAV | sammeledes   |   | sameled(is)      | ſamele     |   |   |   |            | dan |   |   |   |        458-12 | 2:context |          |  |    |    |    |    |
@@ -281,7 +281,7 @@ Entity vdblac = v with breve
 | PE  | e      | HenAnd001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-15 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Undstrup     |   | wnst(rv)p        | wnﬅͮp        |   |   |   |            | dan |   |   |   |        458-15 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Undstrup     |   | wnst(rv)p        | wnﬅͮp        |   |   |   |            | dan |   |   |   |        458-15 | 2:context |          |  |    |    |2099|    |
 | PL  | e      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og           |   | oc               | oc          |   |   |   |            | dan |   |   |   |        458-15 | 2:context |          |  |    |    |    |    |
 | w   |        | samelethes  | xAV | sammeledes   |   | sameled(is)      | ſamele     |   |   |   |            | dan |   |   |   |        458-15 | 2:context |          |  |    |    |    |    |
@@ -328,7 +328,7 @@ Entity vdblac = v with breve
 | PE  | e      | NieLau004   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-18 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Oblarup      |   | obla(rv)p        | oblaͮp       |   |   |   |            | dan |   |   |   |        458-18 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Oblarup      |   | obla(rv)p        | oblaͮp       |   |   |   |            | dan |   |   |   |        458-18 | 2:context |          |  |    |    |2100|    |
 | PL  | e      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og           |   | oc               | oc          |   |   |   |            | dan |   |   |   |        458-18 | 2:context |          |  |    |    |    |    |
 | w   |        | samelethes  | xAV | sammeledes   |   | sameled(is)      | ſamele     |   |   |   |            | dan |   |   |   |        458-18 | 2:context |          |  |    |    |    |    |
@@ -412,7 +412,7 @@ Entity vdblac = v with breve
 | PE  | e      | SveHof001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-23 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Kvanløse     |   | quandløsse       | qŭandløe   |   |   |   |            | dan |   |   |   |        458-23 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Kvanløse     |   | quandløsse       | qŭandløe   |   |   |   |            | dan |   |   |   |        458-23 | 2:context |          |  |    |    |2101|    |
 | PL  | e      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 458-24 |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | AriAnd001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -421,7 +421,7 @@ Entity vdblac = v with breve
 | PE  | e      | AriAnd001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-24 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Uggerløse    |   | vgg(er)løsse     | vggløe    |   |   |   |            | dan |   |   |   |        458-24 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Uggerløse    |   | vgg(er)løsse     | vggløe    |   |   |   |            | dan |   |   |   |        458-24 | 2:context |          |  |    |    |2102|    |
 | PL  | e      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | LarNie003   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |             | xNP | Lasse        |   | lase             | laſe        |   |   |   |            | dan |   |   |   |        458-24 | 2:context |          |  |2256|    |    |    |
@@ -440,7 +440,7 @@ Entity vdblac = v with breve
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-24 | 2:context |          |  |    |    |    |    |
 | lm  | 458-25 |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Østrup       |   | øst(rv)p         | øﬅͮp         |   |   |   |            | dan |   |   |   |        458-25 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Østrup       |   | øst(rv)p         | øﬅͮp         |   |   |   |            | dan |   |   |   |        458-25 | 2:context |          |  |    |    |2103|    |
 | PL  | e      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | PerEri002   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |             | xNP | Per          |   | p(er)            | p̲           |   |   |   |            | dan |   |   |   |        458-25 | 2:context |          |  |2259|    |    |    |
@@ -448,7 +448,7 @@ Entity vdblac = v with breve
 | PE  | e      | PerEri002   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-25 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Vanløse      |   | vandløse         | vandløſe    |   |   |   |            | dan |   |   |   |        458-25 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Vanløse      |   | vandløse         | vandløſe    |   |   |   |            | dan |   |   |   |        458-25 | 2:context |          |  |    |    |2104|    |
 | PL  | e      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | OluPed004   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |             | xNP | Oluf         |   | oluf             | oluf        |   |   |   |            | dan |   |   |   |        458-25 | 2:context |          |  |2260|    |    |    |
@@ -461,7 +461,7 @@ Entity vdblac = v with breve
 | PE  | e      | JenHan002   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-25 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Søndersted   |   | synderstedtt     | ſyndeꝛﬅedtt |   |   |   |            | dan |   |   |   |        458-25 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Søndersted   |   | synderstedtt     | ſyndeꝛﬅedtt |   |   |   |            | dan |   |   |   |        458-25 | 2:context |          |  |    |    |2105|    |
 | PL  | e      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 458-26 |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | NieMog001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -475,7 +475,7 @@ Entity vdblac = v with breve
 | PE  | e      | LarGal001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-26 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Igelsø       |   | eyelsßøs         | eÿelſßø    |   |   |   |            | dan |   |   |   |        458-26 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Igelsø       |   | eyelsßøs         | eÿelſßø    |   |   |   |            | dan |   |   |   |        458-26 | 2:context |          |  |    |    |2106|    |
 | PL  | e      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og           |   | och              | och         |   |   |   |            | dan |   |   |   |        458-26 | 2:context |          |  |    |    |    |    |
 | PE  | b      | OluJen005   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -484,7 +484,7 @@ Entity vdblac = v with breve
 | PE  | e      | OluJen005   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-26 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Uggerløse    |   | vgg(er)løsse     | vggløſſe   |   |   |   |            | dan |   |   |   |        458-26 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Uggerløse    |   | vgg(er)løsse     | vggløſſe   |   |   |   |            | dan |   |   |   |        458-26 | 2:context |          |  |    |    |2107|    |
 | PL  | e      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | d   | e      | 2           |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 458-27 |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |

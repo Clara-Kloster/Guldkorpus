@@ -54,7 +54,7 @@
 | w   |        | biskop      | xNC | biskop       |   | biscop               | biſcop          |   |   |   |                 | dan |   |   |    | 412-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                    | i               |   |   |   |                 | dan |   |   |    | 412-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Roskilde     |   | Roskilde             | Roſkılde        |   |   |   |                 | dan |   |   |    | 412-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Roskilde     |   | Roskilde             | Roſkılde        |   |   |   |                 | dan |   |   |    | 412-01 | 1:protocol |          |  |    |    |1769|    |
 | PL  | e      |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | gøre        | xVB | gøre         |   | Gøre                 | Gøꝛe            |   |   |   |                 | dan |   |   |    | 412-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | vitherlik   | xAJ | vitterligt   |   | wid(er)licht         | wıdlıcht       |   |   |   |                 | dan |   |   |    | 412-01 | 1:protocol |          |  |    |    |    |    |
@@ -134,15 +134,15 @@
 | w   |        | var         | xDP | vor          |   | wor(e)               | woꝛ            |   |   |   |                 | dan |   |   |    | 412-04 | 2:context |          |  |    |    |    |    |
 | w   |        | biskop      | xNC | biskops      |   | biscops              | biſcop         |   |   |   |                 | dan |   |   |    | 412-04 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        | tiende      | xNC | tiender      |   | tinder               | tindeꝛ          |   |   |   |                 | dan |   |   |    | 412-04 | 2:context |          |  |    |    |    |    |
+| w   |        | tiende      | xNC | tiender      |   | tinder               | tindeꝛ          |   |   |   |                 | dan |   |   |    | 412-04 | 2:context |          |  |    |    |1770|    |
 | PL  | e      |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | af          | xAP | af           |   | aff                  | aff             |   |   |   |                 | dan |   |   |    | 412-04 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd    | xAJ | fornævnte    |   | for(nefnde)          | foꝛᷠͤ             |   |   |   |                 | dan |   |   |    | 412-04 | 2:context |          |  |    |    |    |    |
 | w   |        |             | xNP | Kongstede    |   | kongstæde            | kongſtæde       |   |   |   |                 | dan |   |   |    | 412-04 | 2:context |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og           |   | oc                   | oc              |   |   |   |                 | dan |   |   |    | 412-04 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Roholte      |   | Roolte               | Roolte          |   |   |   |                 | dan |   |   |    | 412-04 | 2:context |          |  |    |    |    |    |
-| w   |        | sokn        | xNC | sogn         |   | sog(e)n              | ſogn           |   |   |   |                 | dan |   |   |    | 412-04 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Roholte      |   | Roolte               | Roolte          |   |   |   |                 | dan |   |   |    | 412-04 | 2:context |          |  |    |    |1771|    |
+| w   |        | sokn        | xNC | sogn         |   | sog(e)n              | ſogn           |   |   |   |                 | dan |   |   |    | 412-04 | 2:context |          |  |    |    |1771|    |
 | PL  | e      |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
 | lm  | 412-05 |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | at          | xIM | at           |   | at                   | at              |   |   |   |                 | dan |   |   |    | 412-05 | 2:context |          |  |    |    |    |    |
@@ -194,7 +194,7 @@
 | w   |        | biskop      | xNC | biskop       |   | biscop               | biſcop          |   |   |   |                 | dan |   |   |    | 412-07 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                    | i               |   |   |   |                 | dan |   |   |    | 412-07 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Roskilde     |   | Roskilde             | Roſkilde        |   |   |   |                 | dan |   |   |    | 412-07 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Roskilde     |   | Roskilde             | Roſkilde        |   |   |   |                 | dan |   |   |    | 412-07 | 2:context |          |  |    |    |1772|    |
 | PL  | e      |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | arlik       | xAJ | årlige       |   | arlighe              | aꝛlıghe         |   |   |   |                 | dan |   |   |    | 412-07 | 2:context |          |  |    |    |    |    |
 | w   |        | til         | xAP | til          |   | till                 | tıll            |   |   |   |                 | dan |   |   |    | 412-07 | 2:context |          |  |    |    |    |    |
@@ -221,7 +221,7 @@
 | w   |        | af          | xAP | af           |   | aff                  | aff             |   |   |   |                 | dan |   |   |    | 412-08 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd    | xAJ | fornævnte    |   | for(nefnde)          | foꝛᷠͤ             |   |   |   |                 | dan |   |   |    | 412-08 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        | tiende      | xNC | tiender      |   | tinder               | tindeꝛ          |   |   |   |                 | dan |   |   |    | 412-08 | 2:context |          |  |    |    |    |    |
+| w   |        | tiende      | xNC | tiender      |   | tinder               | tindeꝛ          |   |   |   |                 | dan |   |   |    | 412-08 | 2:context |          |  |    |    |1773|    |
 | PL  | e      |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | innen       | xAP | inden        |   | jnne(n)              | ȷnne̅            |   |   |   |                 | dan |   |   |    | 412-08 | 2:context |          |  |    |    |    |    |
 | w   |        | kyndelmisse | xNC | Kyndelmisse  |   | kyndelmøsse          | kyndelmøſſe     |   |   |   |                 | dan |   |   |    | 412-08 | 2:context |          |  |    |    |    |    |
@@ -229,7 +229,7 @@
 | w   |        | var         | xDP | vor          |   | wor                  | woꝛ             |   |   |   |                 | dan |   |   |    | 412-08 | 2:context |          |  |    |    |    |    |
 | w   |        | garth       | xNC | gård         |   | gardh                | gaꝛdh           |   |   |   |                 | dan |   |   |    | 412-08 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Tureby       |   | twrebye              | twꝛebye         |   |   |   |                 | dan |   |   |    | 412-08 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Tureby       |   | twrebye              | twꝛebye         |   |   |   |                 | dan |   |   |    | 412-08 | 2:context |          |  |    |    |1774|    |
 | PL  | e      |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | hvær        | xDD | hvert        |   | hwert                | hweꝛt           |   |   |   |                 | dan |   |   |    | 412-08 | 2:context |          |  |    |    |    |    |
 | w   |        | ar          | xNC | år           |   | aar                  | aaꝛ             |   |   |   |                 | dan |   |   |    | 412-08 | 2:context |          |  |    |    |    |    |
@@ -247,7 +247,7 @@
 | w   |        | i           | xAP | i            |   | i                    | i               |   |   |   |                 | dan |   |   |    | 412-09 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd    | xAJ | fornævnte    |   | for(nefnde)          | foꝛᷠͤ             |   |   |   |                 | dan |   |   |    | 412-09 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Tureby       |   | twreby               | twꝛeby          |   |   |   |                 | dan |   |   |    | 412-09 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Tureby       |   | twreby               | twꝛeby          |   |   |   |                 | dan |   |   |    | 412-09 | 2:context |          |  |    |    |1775|    |
 | PL  | e      |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | en          | xAT | en           |   | en                   | en              |   |   |   |                 | dan |   |   |    | 412-09 | 2:context |          |  |    |    |    |    |
 | w   |        | mughelik    | xAJ | mulig        |   | mweligh              | mwelıgh         |   |   |   |                 | dan |   |   |    | 412-09 | 2:context |          |  |    |    |    |    |
@@ -327,7 +327,7 @@
 | w   |        | til         | xAP | til          |   | till                 | tıll            |   |   |   |                 | dan |   |   |    | 412-12 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd    | xAJ | fornævnte    |   | for(nefnde)          | foꝛᷠͤ             |   |   |   |                 | dan |   |   |    | 412-12 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Tureby       |   | tur(e)by             | tuꝛby          |   |   |   |                 | dan |   |   |    | 412-12 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Tureby       |   | tur(e)by             | tuꝛby          |   |   |   |                 | dan |   |   |    | 412-12 | 2:context |          |  |    |    |1776|    |
 | PL  | e      |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | uten        | xAP | uden         |   | vden                 | vden            |   |   |   |                 | dan |   |   |    | 412-12 | 2:context |          |  |    |    |    |    |
 | w   |        | noker       | xDD | nogen        |   | nogen                | nogen           |   |   |   |                 | dan |   |   |    | 412-12 | 2:context |          |  |    |    |    |    |
@@ -353,7 +353,7 @@
 | w   |        |             |     |              |   | appe(n)su(m)         | ae̅ſu̅           |   |   |   |                 | lat |   |   |    | 412-13 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |             |     |              |   | Datu(m)              | Datu̅            |   |   |   |                 | lat |   |   |    | 412-13 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             |     |              |   | Nestwed(e)           | Neſtwe         |   |   |   |                 | dan |   |   |    | 412-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             |     |              |   | Nestwed(e)           | Neſtwe         |   |   |   |                 | dan |   |   |    | 412-13 | 3:eschatocol |          |  |    |    |1777|    |
 | PL  | e      |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
 | lm  | 412-14 |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        |             |     |              |   | ip(s)o               | ıp̅o             |   |   |   |                 | lat |   |   |    | 412-14 | 3:eschatocol |          |  |    |    |    |    |

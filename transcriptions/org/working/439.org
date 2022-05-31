@@ -50,7 +50,7 @@
 | PE  | e      | PedDeg001   |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | af          | xAP | af           |   | aff             | aff          |   |   |   |   | dan |   |   |   |        439-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Vindinge     |   | vindinge        | vindinge     |   |   |   |   | dan |   |   |   |        439-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Vindinge     |   | vindinge        | vindinge     |   |   |   |   | dan |   |   |   |        439-01 | 1:protocol |          |  |    |    |1954|    |
 | PL  | e      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | sum         | xRP | som          |   | som             | ſo          |   |   |   |   | dan |   |   |   |        439-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i               | i            |   |   |   |   | dan |   |   |   |        439-01 | 1:protocol |          |  |    |    |    |    |
@@ -62,9 +62,9 @@
 | w   |        | stath       | xNC | sted         |   | stedh           | ſtedh        |   |   |   |   | dan |   |   |   |        439-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | upa         | xAP | på           |   | poo             | poo          |   |   |   |   | dan |   |   |   |        439-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Flakkebjergs |   | flackebiers     | flackebieꝛ  |   |   |   |   | dan |   |   |   |        439-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Flakkebjergs |   | flackebiers     | flackebieꝛ  |   |   |   |   | dan |   |   |   |        439-01 | 1:protocol |          |  |    |    |1955|    |
 | lm  | 439-02 |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        | hæreth      | xNC | Herreds      |   | hær(is)         | hærꝭ         |   |   |   |   | dan |   |   |   |        439-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        | hæreth      | xNC | Herreds      |   | hær(is)         | hærꝭ         |   |   |   |   | dan |   |   |   |        439-02 | 1:protocol |          |  |    |    |1955|    |
 | PL  | e      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | thing       | xNC | ting         |   | tingh           | tingh        |   |   |   |   | dan |   |   |   |        439-02 | 1:protocol |          |  |    |    |    |    |
 | w   |        | gøre        | xVB | gør          |   | Gør             | Gøꝛ          |   |   |   |   | dan |   |   |   |        439-02 | 1:protocol |          |  |    |    |    |    |
@@ -131,7 +131,7 @@
 | w   |        | thjanere    | xNC | tjenere      |   | tyæner(e)       | tÿæneꝛ      |   |   |   |   | dan |   |   |   |        439-05 | 2:context |          |  |    |    |    |    |
 | w   |        | af          | xAP | af           |   | aff             | aff          |   |   |   |   | dan |   |   |   |        439-05 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Roskilde     |   | roskille        | ꝛoſkille     |   |   |   |   | dan |   |   |   |        439-05 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Roskilde     |   | roskille        | ꝛoſkille     |   |   |   |   | dan |   |   |   |        439-05 | 2:context |          |  |    |    |1956|    |
 | PL  | e      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | sum         | xRP | som          |   | som             | ſo          |   |   |   |   | dan |   |   |   |        439-05 | 2:context |          |  |    |    |    |    |
 | lm  | 439-06 |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -142,7 +142,7 @@
 | PE  | e      | JepLau001   |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | af          | xAP | af           |   | aff             | aff          |   |   |   |   | dan |   |   |   |        439-06 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Sneslev      |   | snesløff        | ſneſløff     |   |   |   |   | dan |   |   |   |        439-06 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Sneslev      |   | snesløff        | ſneſløff     |   |   |   |   | dan |   |   |   |        439-06 | 2:context |          |  |    |    |1957|    |
 | PL  | e      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | for         | xAP | for          |   | for             | foꝛ          |   |   |   |   | dan |   |   |   |        439-06 | 2:context |          |  |    |    |    |    |
 | su  | b      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -170,7 +170,7 @@
 | PE  | e      | LarMor001   |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | af          | xAP | af           |   | aff             | aff          |   |   |   |   | dan |   |   |   |        439-07 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Sneslev      |   | snesløff        | ſneſløff     |   |   |   |   | dan |   |   |   |        439-07 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Sneslev      |   | snesløff        | ſneſløff     |   |   |   |   | dan |   |   |   |        439-07 | 2:context |          |  |    |    |1958|    |
 | PL  | e      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | være        | xVB | var          |   | vor             | voꝛ          |   |   |   |   | dan |   |   |   |        439-07 | 2:context |          |  |    |    |    |    |
 | w   |        | hær         | xAV | her          |   | h(er)           | h̅            |   |   |   |   | dan |   |   |   |        439-07 | 2:context |          |  |    |    |    |    |
@@ -199,13 +199,13 @@
 | w   |        | pave        | xNC | paver        |   | pawer           | paweꝛ        |   |   |   |   | dan |   |   |   |        439-09 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i               | i            |   |   |   |   | dan |   |   |   |        439-09 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Rom          |   | rom             | ꝛo          |   |   |   |   | dan |   |   |   |        439-09 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Rom          |   | rom             | ꝛo          |   |   |   |   | dan |   |   |   |        439-09 | 2:context |          |  |    |    |1959|    |
 | PL  | e      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og           |   | ok              | ok           |   |   |   |   | dan |   |   |   |        439-09 | 2:context |          |  |    |    |    |    |
 | w   |        | kunung      | xNC | konger       |   | konger          | kongeꝛ       |   |   |   |   | dan |   |   |   |        439-09 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i               | i            |   |   |   |   | dan |   |   |   |        439-09 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Danmark      |   | da(n)mark       | da̅maꝛk       |   |   |   |   | dan |   |   |   |        439-09 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Danmark      |   | da(n)mark       | da̅maꝛk       |   |   |   |   | dan |   |   |   |        439-09 | 2:context |          |  |    |    |1960|    |
 | PL  | e      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og           |   | ok              | ok           |   |   |   |   | dan |   |   |   |        439-09 | 2:context |          |  |    |    |    |    |
 | w   |        | æfter       | xAP | efter        |   | effth(e)r       | effthꝛ      |   |   |   |   | dan |   |   |   |        439-09 | 2:context |          |  |    |    |    |    |

@@ -59,7 +59,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | PE  |      e | GriJen001   |     |                    |   |                     |                  |   |   |   |                       |         |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | af          | xAP | af                 |   | aff                 | aff              |   |   |   |                       | dan     |   |   |   | 369-01 | 1:protocol |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Olstrup            |   | olstrøp             | olſtrøp          |   |   |   |                       | dan     |   |   |   | 369-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Olstrup            |   | olstrøp             | olſtrøp          |   |   |   |                       | dan     |   |   |   | 369-01 | 1:protocol |          |  |    |    |1523|    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | væpnere     | xNC | væbner             |   | vebner(e)           | vebner          |   |   |   |                       | dan     |   |   |   | 369-01 | 1:protocol |          |  |    |    |    |    |
 | lm  | 369-02 |             |     |                    |   |                     |                  |   |   |   |                       |         |   |   |   |        |          |          |  |    |    |    |    |
@@ -105,7 +105,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | kloster     | xNC | kloster            |   | clost(er)           | cloſt           |   |   |   |                       | dan     |   |   |   | 369-04 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i                  |   | j                   | j                |   |   |   |                       | dan     |   |   |   | 369-04 | 2:context |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Roskilde           |   | rosk(ild)e          | roſk̅e            |   |   |   |                       | dan     |   |   |   | 369-04 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Roskilde           |   | rosk(ild)e          | roſk̅e            |   |   |   |                       | dan     |   |   |   | 369-04 | 2:context |          |  |    |    |1524|    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | en          | xNA | en                 |   | een                 | ee              |   |   |   |                       | dan     |   |   |   | 369-04 | 2:context |          |  |    |    |    |    |
 | w   |        | garth       | xNC | gård               |   | gorth               | goꝛth            |   |   |   |                       | dan     |   |   |   | 369-04 | 2:context |          |  |    |    |    |    |
@@ -113,11 +113,11 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | ligje       | xVB | ligger             |   | ligg(er)            | lıgg            |   |   |   |                       | dan     |   |   |   | 369-04 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i                  |   | j                   | j                |   |   |   |                       | dan     |   |   |   | 369-04 | 2:context |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Høve               |   | høwe                | høwe             |   |   |   |                       | dan     |   |   |   | 369-04 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Høve               |   | høwe                | høwe             |   |   |   |                       | dan     |   |   |   | 369-04 | 2:context |          |  |    |    |1525|    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i                  |   | j                   | j                |   |   |   |                       | dan     |   |   |   | 369-04 | 2:context |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Flakkebjergsherred |   | flakkeberghsher(et) | flakkeberghſherꝫ |   |   |   |                       | dan     |   |   |   | 369-04 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Flakkebjergsherred |   | flakkeberghsher(et) | flakkeberghſherꝫ |   |   |   |                       | dan     |   |   |   | 369-04 | 2:context |          |  |    |    |1526|    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | sum         | xRP | som                |   | som                 | ſo              |   |   |   |                       | dan     |   |   |   | 369-04 | 2:context |          |  |    |    |    |    |
 | w   |        | nu          | xAV | nu                 |   | nw                  | nw               |   |   |   |                       | dan     |   |   |   | 369-04 | 2:context |          |  |    |    |    |    |
@@ -279,7 +279,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | lm  | 369-13 |             |     |                    |   |                     |                  |   |   |   |                       |         |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | af          | xAP | af                 |   | aff                 | aff              |   |   |   |                       | dan     |   |   |   | 369-13 | 3:eschatocol |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Frøslev            |   | frøsløff            | frøſløff         |   |   |   |                       | dan     |   |   |   | 369-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Frøslev            |   | frøsløff            | frøſløff         |   |   |   |                       | dan     |   |   |   | 369-13 | 3:eschatocol |          |  |    |    |1527|    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | have        | xVB | have               |   | haue                | haue             |   |   |   |                       | dan     |   |   |   | 369-13 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | hængje      | xVB | hængt              |   | hengt               | hengt            |   |   |   |                       | dan     |   |   |   | 369-13 | 3:eschatocol |          |  |    |    |    |    |
@@ -290,7 +290,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | brev        | xNC | brev               |   | b(re)ff             | b̅ff              |   |   |   |                       | dan     |   |   |   | 369-13 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |             | lat |                    |   | dat(um)             | datͫ              |   |   |   |                       | lat     |   |   |   | 369-13 | 3:eschatocol |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | lat |                    |   | haffnis             | haffni          |   |   |   |                       | lat     |   |   |   | 369-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | lat |                    |   | haffnis             | haffni          |   |   |   |                       | lat     |   |   |   | 369-13 | 3:eschatocol |          |  |    |    |1528|    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |             | lat |                    |   | a(n)no              | a̅no              |   |   |   |                       | lat     |   |   |   | 369-13 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |             | lat |                    |   | d(omi)ni            | dn̅ı              |   |   |   |                       | lat     |   |   |   | 369-13 | 3:eschatocol |          |  |    |    |    |    |

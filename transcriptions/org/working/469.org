@@ -52,7 +52,7 @@
 | w   |        | uti          | xAP | udi            |   | vdi                | vdi             |              |   |   |   | dan |   |   |   |          469-01 | 1:protocol |          |  |    |    |    |    |
 | lm  | 469-02 |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
 | PL  | b      |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Københavns     |   | københaffns        | københaffn     |              |   |   |   | dan |   |   |   |          469-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |              | xNP | Københavns     |   | københaffns        | københaffn     |              |   |   |   | dan |   |   |   |          469-02 | 1:protocol |          |  |    |    |2240|    |
 | PL  | e      |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
 | w   |        | universitet  | xNC | Universitet    |   | Vniuersitet        | Vniŭerſitet     |              |   |   |   | dan |   |   |   |          469-02 | 1:protocol |          |  |    |    |    |    |
 | p   |        |              |     |                |   | ,                  | ,               |              |   |   |   | dan |   |   |   |          469-02 | 1:protocol |          |  |    |    |    |    |
@@ -122,7 +122,7 @@
 | w   |        | ænghaghe     | xNC | enghave        |   | Enghauffue         | Enghaŭffŭe      |              |   |   |   | dan |   |   |   |          469-08 | 2:context |          |  |    |    |    |    |
 | w   |        | uti          | xAP | udi            |   | vdi                | vdi             |              |   |   |   | dan |   |   |   |          469-08 | 2:context |          |  |    |    |    |    |
 | PL  | b      |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Roskilde       |   | Roskilde           | Roſkilde        |              |   |   |   | dan |   |   |   |          469-08 | 2:context |          |  |    |    |    |    |
+| w   |        |              | xNP | Roskilde       |   | Roskilde           | Roſkilde        |              |   |   |   | dan |   |   |   |          469-08 | 2:context |          |  |    |    |2241|    |
 | PL  | e      |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
 | p   |        |              |     |                |   | ,                  | ,               |              |   |   |   | dan |   |   |   |          469-08 | 2:context |          |  |    |    |    |    |
 | w   |        | kalle        | xVB | kaldes         |   | kaldis             | kaldi          |              |   |   |   | dan |   |   |   |          469-08 | 2:context |          |  |    |    |    |    |
@@ -402,7 +402,7 @@
 | p   |        |              |     |                |   | .                  | .               |              |   |   |   | dan |   |   |   |          469-37 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |              | lat |                |   | Dat(um)            | Dat.            |              |   |   |   | lat |   |   |   |          469-37 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
-| w   |        |              | xNP |                |   | Køffuenhaffn       | Køffŭenhaffn    |              |   |   |   | dan |   |   |   |          469-37 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |              | xNP |                |   | Køffuenhaffn       | Køffŭenhaffn    |              |   |   |   | dan |   |   |   |          469-37 | 3:eschatocol |          |  |    |    |2242|    |
 | PL  | e      |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
 | p   |        |              |     |                |   | ,                  | ,               |              |   |   |   | dan |   |   |   |          469-37 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 469-38 |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |

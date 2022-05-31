@@ -59,7 +59,7 @@
 | PE  | e      | KatNie001    |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | af           | xAP | af             |   | aff             | aff            |   |   |   |                             | dan |   |   |    |        395-01 | 1:protocol |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Voldrup        |   | Woldorp         | Woldoꝛp        |   |   |   |                             | dan |   |   |    |        395-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |              | xNP | Voldrup        |   | Woldorp         | Woldoꝛp        |   |   |   |                             | dan |   |   |    |        395-01 | 1:protocol |          |  |    |    |1637|    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | JenPed008    |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |              | xNP | Jens           |   | Jes             | Je            |   |   |   |                             | dan |   |   |    |        395-01 | 1:protocol |          |  |1705|    |    |    |
@@ -111,14 +111,14 @@
 | w   |        |              | xNP | Dorothea       |   | Dorothee        | Doꝛothee       |   |   |   |                             | dan |   |   |    |        395-02 | 2:context |          |  |1706|    |    |    |
 | PE  | e      | RegDor001    |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |          |          |  |    |    |    |    |
 | PL  | b      |              |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Danmarks       |   | Da(n)m(ar)cks   | Da̅mᷓck         |   |   |   |                             | dan |   |   |    |        395-02 | 2:context |          |  |    |    |    |    |
+| w   |        |              | xNP | Danmarks       |   | Da(n)m(ar)cks   | Da̅mᷓck         |   |   |   |                             | dan |   |   |    |        395-02 | 2:context |          |  |    |    |1638|    |
 | PL  | e      |              |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |          |          |  |    |    |    |    |
 | lm  | 395-03 |              |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |          |          |  |    |    |    |    |
 | PL  | b      |              |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Sveriges       |   | Swerigis        | werigı       |   |   |   |                             | dan |   |   |    |        395-03 | 2:context |          |  |    |    |    |    |
+| w   |        |              | xNP | Sveriges       |   | Swerigis        | werigı       |   |   |   |                             | dan |   |   |    |        395-03 | 2:context |          |  |    |    |1639|    |
 | PL  | e      |              |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |          |          |  |    |    |    |    |
 | PL  | b      |              |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Norges         |   | Norgis          | Noꝛgı         |   |   |   |                             | dan |   |   |    |        395-03 | 2:context |          |  |    |    |    |    |
+| w   |        |              | xNP | Norges         |   | Norgis          | Noꝛgı         |   |   |   |                             | dan |   |   |    |        395-03 | 2:context |          |  |    |    |1640|    |
 | PL  | e      |              |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | etcetera     | xAV | etc            |   | (et)c(etera)    | ⁊cᷓ             |   |   |   |                             | lat |   |   |    |        395-03 | 2:context |          |  |    |    |    |    |
 | w   |        | drotning     | xNC | dronning       |   | Drotning        | Drotning       |   |   |   |                             | dan |   |   |    |        395-03 | 2:context |          |  |    |    |    |    |
@@ -137,11 +137,11 @@
 | w   |        | garth        | xNC | gårde          |   | gardhe          | gaꝛdhe         |   |   |   |                             | dan |   |   |    |        395-03 | 2:context |          |  |    |    |    |    |
 | w   |        | i            | xAP | i              |   | i               | i              |   |   |   |                             | dan |   |   |    |        395-03 | 2:context |          |  |    |    |    |    |
 | PL  | b      |              |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Romdrup        |   | Rumprop         | Rŭmprop        |   |   |   |                             | dan |   |   |    |        395-03 | 2:context |          |  |    |    |    |    |
+| w   |        |              | xNP | Romdrup        |   | Rumprop         | Rŭmprop        |   |   |   |                             | dan |   |   |    |        395-03 | 2:context |          |  |    |    |1641|    |
 | PL  | e      |              |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | i            | xAP | i              |   | i               | i              |   |   |   |                             | dan |   |   |    |        395-03 | 2:context |          |  |    |    |    |    |
 | PL  | b      |              |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Bregninge sogn |   | bregninghesokn  | bꝛegningheſokn |   |   |   |                             | dan |   |   |    |        395-03 | 2:context |          |  |    |    |    |    |
+| w   |        |              | xNP | Bregninge sogn |   | bregninghesokn  | bꝛegningheſokn |   |   |   |                             | dan |   |   |    |        395-03 | 2:context |          |  |    |    |1642|    |
 | PL  | e      |              |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | i            | xAP | i              |   | j               | j              |   |   |   |                             | dan |   |   |    |        395-03 | 2:context |          |  |    |    |    |    |
 | w   |        | hvilik       | xDD | hvilke         |   | huilke          | huilke         |   |   |   |                             | dan |   |   |    |        395-03 | 2:context |          |  |    |    |    |    |
@@ -520,7 +520,7 @@
 | w   |        | biskop       | xNC | biskop         |   | Biscop          | Bıſcop         |   |   |   |                             | dan |   |   |    |        395-16 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | i            | xAP | i              |   | i               | i              |   |   |   |                             | dan |   |   |    |        395-16 | 3:eschatocol |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Roskilde       |   | Roschilde       | Roſchılde      |   |   |   |                             | dan |   |   |    |        395-16 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |              | xNP | Roskilde       |   | Roschilde       | Roſchılde      |   |   |   |                             | dan |   |   |    |        395-16 | 3:eschatocol |          |  |    |    |1643|    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |              |     |                |   | /               | /              |   |   |   |                             | dan |   |   |    |        395-16 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | hærre        | xNC | hr.             |   | Her             | Her            |   |   |   |                             | dan |   |   |    |        395-16 | 3:eschatocol |          |  |    |    |    |    |
@@ -531,7 +531,7 @@
 | w   |        | prior        | xNC | prior          |   | pior            | pioꝛ           |   |   |   |                             | dan |   |   |    |        395-16 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | i            | xAP | i              |   | i               | i              |   |   |   |                             | dan |   |   |    |        395-16 | 3:eschatocol |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Antworskov     |   | Antwordskow     | Antwoꝛdſkow    |   |   |   |                             | dan |   |   |    |        395-16 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |              | xNP | Antworskov     |   | Antwordskow     | Antwoꝛdſkow    |   |   |   |                             | dan |   |   |    |        395-16 | 3:eschatocol |          |  |    |    |1644|    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | DanNul001    |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |              | xNP | Daniel         |   | Daniel          | Daniel         |   |   |   |                             | dan |   |   |    |        395-16 | 3:eschatocol |          |  |1713|    |    |    |
@@ -539,7 +539,7 @@
 | w   |        | kantor       | xNC | kantor         |   | ca(n)tor        | ca̅toꝛ          |   |   |   |                             | dan |   |   |    |        395-16 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | i            | xAP | i              |   | i               | i              |   |   |   |                             | dan |   |   |    |        395-16 | 3:eschatocol |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |              | xNP | København      |   | køpnehaffn      | køpnehaffn     |   |   |   |                             | dan |   |   |    |        395-16 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |              | xNP | København      |   | køpnehaffn      | køpnehaffn     |   |   |   |                             | dan |   |   |    |        395-16 | 3:eschatocol |          |  |    |    |1645|    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |              | xNC | kansler        |   | Canceller       | Cancelleꝛ      |   |   |   |                             | dan |   |   |    |        395-16 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | hærre        | xNC | hr.             |   | h(er)           | h             |   |   |   |                             | dan |   |   |    |        395-16 | 3:eschatocol |          |  |    |    |    |    |
@@ -565,7 +565,7 @@
 | PE  | e      | AndJen004    |     |                |   |                 |                |   |   |   |                             |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | af           | xAP | af             |   | aff             | aff            |   |   |   |                             | dan |   |   |    |        395-17 | 3:eschatocol |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Terslev        |   | tersløff        | teꝛſløff       |   |   |   |                             | dan |   |   |    |        395-17 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |              | xNP | Terslev        |   | tersløff        | teꝛſløff       |   |   |   |                             | dan |   |   |    |        395-17 | 3:eschatocol |          |  |    |    |1646|    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | sum          | xRP | som            |   | Som             | om            |   |   |   |                             | dan |   |   |    |        395-17 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | give         | xVB | givet          |   | giffuet         | gıffuet       |   |   |   |                             | dan |   |   |    |        395-17 | 3:eschatocol |          |  |    |    |    |    |
@@ -574,7 +574,7 @@
 | w   |        | være         | xVB | er             |   | er              | er             |   |   |   |                             | dan |   |   |    |        395-17 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | i            | xAP | i              |   | i               | i              |   |   |   |                             | dan |   |   |    |        395-17 | 3:eschatocol |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Kalundborg     |   | kalundborgh     | kalundboꝛgh    |   |   |   |                             | dan |   |   |    |        395-17 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |              | xNP | Kalundborg     |   | kalundborgh     | kalundboꝛgh    |   |   |   |                             | dan |   |   |    |        395-17 | 3:eschatocol |          |  |    |    |1647|    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | ar           | xNC | år             |   | Aar             | Aar            |   |   |   |                             | dan |   |   |    |        395-17 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | æfter        | xAP | efter          |   | efft(er)        | efft          |   |   |   |                             | dan |   |   |    |        395-17 | 3:eschatocol |          |  |    |    |    |    |

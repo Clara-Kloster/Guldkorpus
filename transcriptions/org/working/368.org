@@ -53,7 +53,7 @@
 | w   |        | biskop      | xNC | biskop         |   | biscop              | biſcop      |   |   |   |        | dan |   |   |   | 368-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i           | xAP | i              |   | j                   | j           |   |   |   |        | dan |   |   |   | 368-01 | 1:protocol |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Roskilde       |   | Rosk(ilde)          | Roſkꝭ       |   |   |   |        | dan |   |   |   | 368-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Roskilde       |   | Rosk(ilde)          | Roſkꝭ       |   |   |   |        | dan |   |   |   | 368-01 | 1:protocol |          |  |    |    |1518|    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | kungøre     | xVB | kundgøre       |   | ku(n)gør(e)         | ku̅gør      |   |   |   |        | dan |   |   |   | 368-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | al          | xAJ | alle           |   | allæ                | allæ        |   |   |   |        | dan |   |   |   | 368-01 | 1:protocol |          |  |    |    |    |    |
@@ -79,7 +79,7 @@
 | w   |        | kapitel     | xNC | kapitel        |   | capittell           | capittell   |   |   |   |        | dan |   |   |   | 368-02 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i              |   | j                   | j           |   |   |   |        | dan |   |   |   | 368-02 | 2:context |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Roskilde       |   | rosk(ilde)          | roſkꝭ       |   |   |   |        | dan |   |   |   | 368-02 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Roskilde       |   | rosk(ilde)          | roſkꝭ       |   |   |   |        | dan |   |   |   | 368-02 | 2:context |          |  |    |    |1519|    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | in          | xAV | ind            |   | jn                  | ȷn          |   |   |   |        | dan |   |   |   | 368-02 | 2:context |          |  |    |    |    |    |
 | w   |        | at          | xIM | at             |   | at                  | at          |   |   |   | =      |     |   |   |   |        | 2:context |          |  |    |    |    |    |
@@ -88,8 +88,8 @@
 | w   |        | garth       | xNC | gård           |   | gardh               | gardh       |   |   |   |        | dan |   |   |   | 368-02 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i              |   | j                   | j           |   |   |   |        | dan |   |   |   | 368-02 | 2:context |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Ølse           |   | ølsye               | ølſye       |   |   |   |        | dan |   |   |   | 368-02 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | magle          |   | magle               | magle       |   |   |   |        | dan |   |   |   | 368-02 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Ølse           |   | ølsye               | ølſye       |   |   |   |        | dan |   |   |   | 368-02 | 2:context |          |  |    |    |1520|    |
+| w   |        |             | xNP | magle          |   | magle               | magle       |   |   |   |        | dan |   |   |   | 368-02 | 2:context |          |  |    |    |1520|    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |             |     |                |   | /                   | /           |   |   |   |        | dan |   |   |   | 368-02 | 2:context |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og             |   | oc                  | oc          |   |   |   |        | dan |   |   |   | 368-02 | 2:context |          |  |    |    |    |    |
@@ -98,8 +98,8 @@
 | w   |        | garth       | xNC | gårde          |   | garthe              | garthe      |   |   |   |        | dan |   |   |   | 368-03 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i              |   | j                   | j           |   |   |   |        | dan |   |   |   | 368-03 | 2:context |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Schæntzweth    |   | schæntzweth         | ſchæntzweth |   |   |   |        | dan |   |   |   | 368-03 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | magle          |   | maglæ               | maglæ       |   |   |   |        | dan |   |   |   | 368-03 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Schæntzweth    |   | schæntzweth         | ſchæntzweth |   |   |   |        | dan |   |   |   | 368-03 | 2:context |          |  |    |    |1521|    |
+| w   |        |             | xNP | magle          |   | maglæ               | maglæ       |   |   |   |        | dan |   |   |   | 368-03 | 2:context |          |  |    |    |1521|    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | hvilik      | xPI | hvilke         |   | huelke              | huelke      |   |   |   |        | dan |   |   |   | 368-03 | 2:context |          |  |    |    |    |    |
 | w   |        | sum         | xRP | som            |   | so(m)               | ſo̅          |   |   |   |        | dan |   |   |   | 368-03 | 2:context |          |  |    |    |    |    |
@@ -202,7 +202,7 @@
 | lm  | 368-08 |             |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |             | lat |                |   | Dat(um)             | Datͫ         |   |   |   |        | lat |   |   |   | 368-08 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |             |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |             | lat |                |   | rosk(ildis)         | roſkꝭ       |   |   |   |        | lat |   |   |   | 368-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | lat |                |   | rosk(ildis)         | roſkꝭ       |   |   |   |        | lat |   |   |   | 368-08 | 3:eschatocol |          |  |    |    |1522|    |
 | PL  | e      |             |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |             | lat |                |   | Anno                | Anno        |   |   |   |        | lat |   |   |   | 368-08 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |             | lat |                |   | d(omi)nj            | dn̅ȷ         |   |   |   |        | lat |   |   |   | 368-08 | 3:eschatocol |          |  |    |    |    |    |

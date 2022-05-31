@@ -63,7 +63,7 @@
 | w   |        | biskop        | xNC | biskop          |   | biscop               | bıſcop         |   |   |   |   | dan |   |   |   | 339-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i             | xAP | i               |   | j                    | j              |   |   |   |   | dan |   |   |   | 339-01 | 1:protocol |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               | xAJ | Roskilde        |   | Roskildæ             | Roſkıldæ       |   |   |   |   | dan |   |   |   | 339-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |               | xAJ | Roskilde        |   | Roskildæ             | Roſkıldæ       |   |   |   |   | dan |   |   |   | 339-01 | 1:protocol |          |  |    |    |1410|    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 339-02 |               |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | kærlik        | xAJ | kærlige         |   | kerleghæ             | kerleghæ       |   |   |   |   | dan |   |   |   | 339-02 | 1:protocol |          |  |    |    |    |    |
@@ -195,8 +195,8 @@
 | w   |        | garth         | xNC | gård            |   | gardh                | gardh          |   |   |   |   | dan |   |   |   | 339-07 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i               |   | j                    | j              |   |   |   |   | dan |   |   |   | 339-07 | 2:context |          |  |    |    |    |    |
 | PL  |      b |               |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Ølse            |   | ølsiyæ               | ølſıẏæ         |   |   |   |   | dan |   |   |   | 339-07 | 2:context |          |  |    |    |    |    |
-| w   |        |               | xAJ | magle           |   | maglæ                | maglæ          |   |   |   |   | dan |   |   |   | 339-07 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Ølse            |   | ølsiyæ               | ølſıẏæ         |   |   |   |   | dan |   |   |   | 339-07 | 2:context |          |  |    |    |1411|    |
+| w   |        |               | xAJ | magle           |   | maglæ                | maglæ          |   |   |   |   | dan |   |   |   | 339-07 | 2:context |          |  |    |    |1411|    |
 | PL  |      e |               |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | i             | xAP | i               |   | j                    | j              |   |   |   |   | dan |   |   |   | 339-07 | 2:context |          |  |    |    |    |    |
 | w   |        | hvilik        | xPI | hvilken         |   | hwilken              | hwılke        |   |   |   |   | dan |   |   |   | 339-07 | 2:context |          |  |    |    |    |    |
@@ -219,8 +219,8 @@
 | p   |        |               |     |                 |   | .                    | .              |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i               |   | j                    | j              |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               |     | Skensved        |   | skentswith           | ſkentſwith     |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |    |    |    |    |
-| w   |        |               |     | magle           |   | maglæ                | magl̅æ          |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |    |    |    |    |
+| w   |        |               |     | Skensved        |   | skentswith           | ſkentſwith     |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |    |    |1412|    |
+| w   |        |               |     | magle           |   | maglæ                | magl̅æ          |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |    |    |1412|    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i             | xAP | i               |   | j                    | j              |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |    |    |    |    |
 | w   |        | en            | xNA | en              |   | een                  | ee            |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |    |    |    |    |

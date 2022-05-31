@@ -62,7 +62,7 @@
 | w   |        | byman       | xNC | bymand         |   | byman               | bẏma         |   |   |   |   | dan |   |   |    |        362-02 | 1:protocol |          |  |    |    |    |    |
 | w   |        | innen       | xAP | inden          |   | jnne(n)             | ȷnnē          |   |   |   |   | dan |   |   |    |        362-02 | 1:protocol |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Malmø          |   | malmøie             | malmøie       |   |   |   |   | dan |   |   |    |        362-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Malmø          |   | malmøie             | malmøie       |   |   |   |   | dan |   |   |    |        362-02 | 1:protocol |          |  |    |    |1490|    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | ævinnelik   | xAV | evindelige     |   | ewinnelike          | ewinnelike    |   |   |   |   | dan |   |   |    |        362-02 | 1:protocol |          |  |    |    |    |    |
 | w   |        | mæth        | xAP | med            |   | m(et)               | mꝫ            |   |   |   |   | dan |   |   |    |        362-02 | 1:protocol |          |  |    |    |    |    |
@@ -110,7 +110,7 @@
 | w   |        | garth       | xNC | gård           |   | gaarth              | gaarth        |   |   |   |   | dan |   |   |    |        362-05 | 2:context |          |  |    |    |    |    |
 | w   |        | innen       | xAP | inden          |   | jnne(n)             | ȷnnē          |   |   |   |   | dan |   |   |    |        362-05 | 2:context |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Malmø          |   | malmøie             | malmøie       |   |   |   |   | dan |   |   |    |        362-05 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Malmø          |   | malmøie             | malmøie       |   |   |   |   | dan |   |   |    |        362-05 | 2:context |          |  |    |    |1491|    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | væster      | xAJ | vester         |   | weste(r)            | weſteᷣ         |   |   |   |   | dan |   |   |    |        362-05 | 2:context |          |  |    |    |    |    |
 | lm  | 362-06 |             |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -120,8 +120,8 @@
 | w   |        | væsten      | xAJ | vesten         |   | wessten             | weſſte       |   |   |   |   | dan |   |   |    |        362-06 | 2:context |          |  |    |    |    |    |
 | w   |        | næst        | xAJ | næst           |   | nest                | neſt          |   |   |   |   | dan |   |   |    |        362-06 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Bransvik       |   | bransswiks          | branſſwik    |   |   |   |   | dan |   |   |    |        362-06 | 2:context |          |  |    |    |    |    |
-| w   |        | garth       | xNC | gård           |   | gaarth              | gaarth        |   |   |   |   | dan |   |   |    |        362-06 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Bransvik       |   | bransswiks          | branſſwik    |   |   |   |   | dan |   |   |    |        362-06 | 2:context |          |  |    |    |2288|    |
+| w   |        | garth       | xNC | gård           |   | gaarth              | gaarth        |   |   |   |   | dan |   |   |    |        362-06 | 2:context |          |  |    |    |2288|    |
 | PL  | e      |             |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og             |   | oc                  | oc            |   |   |   |   | dan |   |   |    |        362-06 | 2:context |          |  |    |    |    |    |
 | w   |        | halde       | xVB | holder         |   | holder              | holder        |   |   |   |   | dan |   |   |    |        362-06 | 2:context |          |  |    |    |    |    |
@@ -130,8 +130,8 @@
 | w   |        | længe       | xAV | længen         |   | lenghen             | lenghe       |   |   |   |   | dan |   |   |    |        362-07 | 2:context |          |  |    |    |    |    |
 | w   |        | fran        | xAP | fra            |   | fraa                | fraa          |   |   |   |   | dan |   |   |    |        362-07 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        | almænning   | xNC | alminning      |   | alme(n)nings        | almēning     |   |   |   |   | dan |   |   |    |        362-07 | 2:context |          |  |    |    |    |    |
-| w   |        | gate        | xNC | gaden          |   | gaden               | gade         |   |   |   |   | dan |   |   |    |        362-07 | 2:context |          |  |    |    |    |    |
+| w   |        | almænning   | xNC | alminning      |   | alme(n)nings        | almēning     |   |   |   |   | dan |   |   |    |        362-07 | 2:context |          |  |    |    |2287|    |
+| w   |        | gate        | xNC | gaden          |   | gaden               | gade         |   |   |   |   | dan |   |   |    |        362-07 | 2:context |          |  |    |    |2287|    |
 | PL  | e      |             |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og             |   | oc                  | oc            |   |   |   |   | dan |   |   |    |        362-07 | 2:context |          |  |    |    |    |    |
 | w   |        | nither      | xAP | neder          |   | nyth(e)r            | nẏth̅ꝛ         |   |   |   |   | dan |   |   |    |        362-07 | 2:context |          |  |    |    |    |    |
@@ -147,12 +147,12 @@
 | w   |        | alen        | xNC | alen           |   | alen                | ale          |   |   |   |   | dan |   |   |    |        362-08 | 2:context |          |  |    |    |    |    |
 | w   |        | til         | xAP | til            |   | til                 | til           |   |   |   |   | dan |   |   |    |        362-08 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Clara          |   | klare               | klare         |   |   |   |   | dan |   |   |    |        362-08 | 2:context |          |  |    |    |    |    |
-| w   |        | kloster     | xNC | kloster        |   | kloster             | kloſter       |   |   |   |   | dan |   |   |    |        362-08 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Clara          |   | klare               | klare         |   |   |   |   | dan |   |   |    |        362-08 | 2:context |          |  |    |    |2286|    |
+| w   |        | kloster     | xNC | kloster        |   | kloster             | kloſter       |   |   |   |   | dan |   |   |    |        362-08 | 2:context |          |  |    |    |2286|    |
 | PL  | e      |             |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | innen       | xAP | inden          |   | jnne(n)             | ȷnnē          |   |   |   |   | dan |   |   |    |        362-08 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Roskilde       |   | rosskilde           | roſſkilde     |   |   |   |   | dan |   |   |    |        362-08 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Roskilde       |   | rosskilde           | roſſkilde     |   |   |   |   | dan |   |   |    |        362-08 | 2:context |          |  |    |    |1492|    |
 | PL  | e      |             |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | in          | xAV | ind            |   | in                  | i            |   |   |   |   | dan |   |   |    |        362-08 | 2:context |          |  |    |    |    |    |
 | w   |        | mæth        | xAP | med            |   | m(et)               | mꝫ            |   |   |   |   | dan |   |   |    |        362-08 | 2:context |          |  |    |    |    |    |
@@ -197,13 +197,13 @@
 | w   |        | thæn        | xAT | det            |   | th(et)              | thꝫ           |   |   |   |   | dan |   |   |    |        362-11 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd    | xAJ | fornævnte      |   | forneffndde         | forneffndde   |   |   |   |   | dan |   |   |    |        362-11 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Clara          |   | klare               | klare         |   |   |   |   | dan |   |   |    |        362-11 | 2:context |          |  |    |    |    |    |
-| w   |        | kloster     | xNC | kloster        |   | kloste(r)           | kloſteᷣ        |   |   |   |   | dan |   |   |    |        362-11 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Clara          |   | klare               | klare         |   |   |   |   | dan |   |   |    |        362-11 | 2:context |          |  |    |    |2285|    |
+| w   |        | kloster     | xNC | kloster        |   | kloste(r)           | kloſteᷣ        |   |   |   |   | dan |   |   |    |        362-11 | 2:context |          |  |    |    |2285|    |
 | PL  | e      |             |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | lm  | 362-12 |             |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | innen       | xAP | inden          |   | jnnen               | ȷnne         |   |   |   |   | dan |   |   |    |        362-12 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Roskilde       |   | rosskilde           | roſſkilde     |   |   |   |   | dan |   |   |    |        362-12 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Roskilde       |   | rosskilde           | roſſkilde     |   |   |   |   | dan |   |   |    |        362-12 | 2:context |          |  |    |    |2284|    |
 | PL  | e      |             |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | thæn        | xAT | den            |   | then                | the          |   |   |   |   | dan |   |   |    |        362-12 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd    | xAJ | fornævnte      |   | forneffndde         | forneffndde   |   |   |   |   | dan |   |   |    |        362-12 | 2:context |          |  |    |    |    |    |
@@ -248,7 +248,7 @@
 | w   |        | rathman     | xNC | rådmand        |   | rathman             | rathma       |   |   |   |   | dan |   |   |    |        362-15 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | innen       | xAP | inden          |   | jnne(n)             | jnnē          |   |   |   |   | dan |   |   |    |        362-15 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |             |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Malmø          |   | malmøie             | malmøie       |   |   |   |   | dan |   |   |    |        362-15 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Malmø          |   | malmøie             | malmøie       |   |   |   |   | dan |   |   |    |        362-15 | 3:eschatocol |          |  |    |    |1493|    |
 | PL  | e      |             |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og             |   | oc                  | oc            |   |   |   |   | dan |   |   |    |        362-15 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | JenTru001   |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |

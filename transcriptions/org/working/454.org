@@ -56,7 +56,7 @@
 | w   |        | kloster     | xNC | kloster       |   | klosth(e)r            | kloſth̅ꝛ       |   |   |   |   | dan |   |   |   |        454-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | uti         | xAP | udi           |   | wtj                   | wtj           |   |   |   |   | dan |   |   |   |        454-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Roskilde      |   | roskyld               | ꝛoſkÿld       |   |   |   |   | dan |   |   |   |        454-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Roskilde      |   | roskyld               | ꝛoſkÿld       |   |   |   |   | dan |   |   |   |        454-01 | 1:protocol |          |  |    |    |2046|    |
 | PL  | e      |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og            |   | och                   | och           |   |   |   |   | dan |   |   |   |        454-01 | 1:protocol |          |  |    |    |    |    |
 | lm  | 454-02 |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -105,7 +105,7 @@
 | PE  | e      | EriKri001   |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | af          | xAP | af            |   | aff                   | aff           |   |   |   |   | dan |   |   |   |        454-05 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Vindinge      |   | windinge              | windinge      |   |   |   |   | dan |   |   |   |        454-05 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Vindinge      |   | windinge              | windinge      |   |   |   |   | dan |   |   |   |        454-05 | 2:context |          |  |    |    |2047|    |
 | PL  | e      |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og            |   | oc                    | oc            |   |   |   |   | dan |   |   |   |        454-05 | 2:context |          |  |    |    |    |    |
 | w   |        | han         | xPE | hans          |   | hans                  | han          |   |   |   |   | dan |   |   |   |        454-05 | 2:context |          |  |    |    |    |    |
@@ -134,8 +134,8 @@
 | w   |        | kloster     | xNC | kloster       |   | klost(e)r             | kloſtr       |   |   |   |   | dan |   |   |   |        454-07 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i             |   | y                     | ÿ             |   |   |   |   | dan |   |   |   |        454-07 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Flakkebjergs  |   | flacke bier(e)s       | flacke bieꝛ |   |   |   |   | dan |   |   |   |        454-07 | 2:context |          |  |    |    |    |    |
-| w   |        | hæreth      | xNC | herred        |   | h(er)r(e)t            | hrt         |   |   |   |   | dan |   |   |   |        454-07 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Flakkebjergs  |   | flacke bier(e)s       | flacke bieꝛ |   |   |   |   | dan |   |   |   |        454-07 | 2:context |          |  |    |    |2048|    |
+| w   |        | hæreth      | xNC | herred        |   | h(er)r(e)t            | hrt         |   |   |   |   | dan |   |   |   |        454-07 | 2:context |          |  |    |    |2048|    |
 | PL  | e      |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i             |   | y                     | ÿ             |   |   |   |   | dan |   |   |   |        454-07 | 2:context |          |  |    |    |    |    |
 | w   |        | bathe       | xDD | begges        |   | begis                 | begi         |   |   |   |   | dan |   |   |   |        454-07 | 2:context |          |  |    |    |    |    |
@@ -152,7 +152,7 @@
 | w   |        | garth       | xNC | gårde         |   | gorde                 | goꝛde         |   |   |   |   | dan |   |   |   |        454-08 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i             |   | i                     | i             |   |   |   |   | dan |   |   |   |        454-08 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Sneslev       |   | Snessluff             | neſſlűff     |   |   |   |   | dan |   |   |   |        454-08 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Sneslev       |   | Snessluff             | neſſlűff     |   |   |   |   | dan |   |   |   |        454-08 | 2:context |          |  |    |    |2049|    |
 | PL  | e      |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i             |   | y                     | ÿ             |   |   |   |   | dan |   |   |   |        454-08 | 2:context |          |  |    |    |    |    |
 | w   |        | thæn        | xAT | den           |   | !th(e)m¡              | !thm¡        |   |   |   |   | dan |   |   |   |        454-08 | 2:context |          |  |    |    |    |    |
@@ -206,7 +206,7 @@
 | w   |        | garth       | xNC | gård          |   | gord                  | goꝛd          |   |   |   |   | dan |   |   |   |        454-12 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i             |   | i                     | i             |   |   |   |   | dan |   |   |   |        454-12 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Høve          |   | høffue                | høffűe        |   |   |   |   | dan |   |   |   |        454-12 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Høve          |   | høffue                | høffűe        |   |   |   |   | dan |   |   |   |        454-12 | 2:context |          |  |    |    |2306|    |
 | PL  | e      |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | sum         | xRP | som           |   | som                   | ſo           |   |   |   |   | dan |   |   |   |        454-12 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MorMur001   |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -232,7 +232,7 @@
 | w   |        | garth       | xNC | gård          |   | gord                  | goꝛd          |   |   |   |   | dan |   |   |   |        454-13 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i             |   | i                     | i             |   |   |   |   | dan |   |   |   |        454-13 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Lyngby        |   | liunghby              | liűnghbÿ      |   |   |   |   | dan |   |   |   |        454-13 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Lyngby        |   | liunghby              | liűnghbÿ      |   |   |   |   | dan |   |   |   |        454-13 | 2:context |          |  |    |    |2050|    |
 | PL  | e      |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 454-14 |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | sum         | xRP | som           |   | som                   | ſom           |   |   |   |   | dan |   |   |   |        454-14 | 2:context |          |  |    |    |    |    |
@@ -259,7 +259,7 @@
 | w   |        | garth       | xNC | gård          |   | gord                  | goꝛd          |   |   |   |   | dan |   |   |   |        454-15 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i             |   | i                     | i             |   |   |   |   | dan |   |   |   |        454-15 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Rejnstrup     |   | regn(er)st(rv)p       | ꝛegnſtͮp      |   |   |   |   | dan |   |   |   |        454-15 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Rejnstrup     |   | regn(er)st(rv)p       | ꝛegnſtͮp      |   |   |   |   | dan |   |   |   |        454-15 | 2:context |          |  |    |    |2051|    |
 | PL  | e      |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | sum         | xRP | som           |   | som                   | ſo           |   |   |   |   | dan |   |   |   |        454-15 | 2:context |          |  |    |    |    |    |
 | PE  | b      | HanÅge001   |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -284,7 +284,7 @@
 | w   |        | i           | xAV | i             |   | y                     | ÿ             |   |   |   |   | dan |   |   |   |        454-16 | 2:context |          |  |    |    |    |    |
 | lm  | 454-17 |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | PL  | b      |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Øllerup       |   | ølle(rv)p             | ølleͮp         |   |   |   |   | dan |   |   |   |        454-17 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Øllerup       |   | ølle(rv)p             | ølleͮp         |   |   |   |   | dan |   |   |   |        454-17 | 2:context |          |  |    |    |2052|    |
 | PL  | e      |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | sum         | xRP | som           |   | som                   | ſo           |   |   |   |   | dan |   |   |   |        454-17 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JepPed001   |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -308,8 +308,8 @@
 | w   |        | garth       | xNC | gård          |   | gord                  | goꝛd          |   |   |   |   | dan |   |   |   |        454-18 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i             |   | i                     | i             |   |   |   |   | dan |   |   |   |        454-18 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Høje          |   | høghe                 | høghe         |   |   |   |   | dan |   |   |   |        454-18 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Bjerg         |   | bier(e)gh             | biergh       |   |   |   |   | dan |   |   |   |        454-18 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Høje          |   | høghe                 | høghe         |   |   |   |   | dan |   |   |   |        454-18 | 2:context |          |  |    |    |2053|    |
+| w   |        |             | xNP | Bjerg         |   | bier(e)gh             | biergh       |   |   |   |   | dan |   |   |   |        454-18 | 2:context |          |  |    |    |2053|    |
 | PL  | e      |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | give        | xVB | giver         |   | gyffu(e)r             | gÿffűr       |   |   |   |   | dan |   |   |   |        454-18 | 2:context |          |  |    |    |    |    |
 | n   |        | 3           |   | 3             |   | iij                   | iij           |   |   |   |   | dan |   |   |   |        454-18 | 2:context |          |  |    |    |    |    |
@@ -423,7 +423,7 @@
 | w   |        | skrive      | xVB | skrevet       |   | Sc(re)ffuitt          | cffűitt     |   |   |   |   | dan |   |   |   |        454-28 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | uti         | xAP | udi           |   | vtj                   | vtj           |   |   |   |   | dan |   |   |   |        454-28 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Roskilde      |   | roskyld               | ꝛoſkÿld       |   |   |   |   | dan |   |   |   |        454-28 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Roskilde      |   | roskyld               | ꝛoſkÿld       |   |   |   |   | dan |   |   |   |        454-28 | 3:eschatocol |          |  |    |    |2054|    |
 | PL  | e      |             |     |               |   |                       |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | filipe      | lat |               |   | filipe                | filipe        |   |   |   |   | dan |   |   |   |        454-28 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | et          | lat |               |   | (et)                  |              |   |   |   |   | lat |   |   |   |        454-28 | 3:eschatocol |          |  |    |    |    |    |

@@ -63,8 +63,8 @@
 | w   |        | riddere     | xNC | ridder      |   | riddær             | rıddær          |   |   |   |   | dan |   |   |    |        326-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i           | xAP | i           |   | j                  | ȷ               |   |   |   |   | dan |   |   |    |        326-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Gunnerslev  |   | gw(n)nærsløf       | gw̅nærſløf       |   |   |   |   | dan |   |   |    |        326-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        | litel       | xAJ | Lille       |   | lillæ              | lıllæ           |   |   |   |   | dan |   |   |    |        326-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Gunnerslev  |   | gw(n)nærsløf       | gw̅nærſløf       |   |   |   |   | dan |   |   |    |        326-01 | 1:protocol |          |  |    |    |1339|    |
+| w   |        | litel       | xAJ | Lille       |   | lillæ              | lıllæ           |   |   |   |   | dan |   |   |    |        326-01 | 1:protocol |          |  |    |    |1339|    |
 | PL  | e      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | p   |        |             |     |             |   | .                  | .               |   |   |   |   | dan |   |   |    |        326-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | ævinnelik   | xAJ | evindeligen |   | ewy(n)¦nærlighæn   | ewy̅¦nærlıghæ   |   |   |   |   | dan |   |   |    | 326-01—326-02 | 1:protocol |          |  |    |    |    |    |
@@ -105,7 +105,7 @@
 | w   |        | bo          | xVB | bor         |   | boor               | booꝛ            |   |   |   |   | dan |   |   |    |        326-03 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i           |   | j                  | ȷ               |   |   |   |   | dan |   |   |    |        326-03 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Rejnstrup   |   | ræynstorp          | ræynſtoꝛp       |   |   |   |   | dan |   |   |    |        326-03 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Rejnstrup   |   | ræynstorp          | ræynſtoꝛp       |   |   |   |   | dan |   |   |    |        326-03 | 2:context |          |  |    |    |1340|    |
 | PL  | e      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | tve         | xNA | to          |   | too                | too             |   |   |   |   | dan |   |   |    |        326-03 | 2:context |          |  |    |    |    |    |
 | w   |        | aker        | xNC | agre        |   | agra               | agra            |   |   |   |   | dan |   |   |    |        326-03 | 2:context |          |  |    |    |    |    |
@@ -119,7 +119,7 @@
 | w   |        | aker        | xNC | ager        |   | aghær              | aghær           |   |   |   |   | dan |   |   |    |        326-04 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i           |   | j                  | ȷ               |   |   |   |   | dan |   |   |    |        326-04 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Bagnevangen |   | bagnæ⸠hy⸡va(n)ghyn | bagnæ⸠hy⸡va̅ghy |   |   |   |   | dan |   |   |    |        326-04 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Bagnevangen |   | bagnæ⸠hy⸡va(n)ghyn | bagnæ⸠hy⸡va̅ghy |   |   |   |   | dan |   |   |    |        326-04 | 2:context |          |  |    |    |2277|    |
 | PL  | e      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | p   |        |             |     |             |   | .                  | .               |   |   |   |   | dan |   |   |    |        326-04 | 2:context |          |  |    |    |    |    |
 | w   |        | thæn        | xPE | de          |   | the                | the             |   |   |   |   | dan |   |   |    |        326-04 | 2:context |          |  |    |    |    |    |
@@ -128,13 +128,13 @@
 | w   |        | ligje       | xVB | lagde       |   | laghæ              | laghæ           |   |   |   |   | dan |   |   |    |        326-04 | 2:context |          |  |    |    |    |    |
 | w   |        | til         | xAP | til         |   | til                | tıl             |   |   |   |   | dan |   |   |    |        326-04 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Ingmars     |   | jnggemars          | ȷnggemar       |   |   |   |   | dan |   |   |    |        326-04 | 2:context |          |  |    |    |    |    |
-| w   |        | garth       | xNC | gård        |   | gardh              | gardh           |   |   |   |   | dan |   |   |    |        326-04 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Ingmars     |   | jnggemars          | ȷnggemar       |   |   |   |   | dan |   |   |    |        326-04 | 2:context |          |  |    |    |1341|    |
+| w   |        | garth       | xNC | gård        |   | gardh              | gardh           |   |   |   |   | dan |   |   |    |        326-04 | 2:context |          |  |    |    |1341|    |
 | PL  | e      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i           |   | j                  | ȷ               |   |   |   |   | dan |   |   |    |        326-04 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Gunderslev  |   | gw(n)nærsløf       | gw̅nærſløf       |   |   |   |   | dan |   |   |    |        326-04 | 2:context |          |  |    |    |    |    |
-| w   |        | litel       | xAJ | Lille       |   | lillæ              | lıllæ           |   |   |   |   | dan |   |   |    |        326-04 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Gunderslev  |   | gw(n)nærsløf       | gw̅nærſløf       |   |   |   |   | dan |   |   |    |        326-04 | 2:context |          |  |    |    |1342|    |
+| w   |        | litel       | xAJ | Lille       |   | lillæ              | lıllæ           |   |   |   |   | dan |   |   |    |        326-04 | 2:context |          |  |    |    |1342|    |
 | PL  | e      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | p   |        |             |     |             |   | .                  | .               |   |   |   |   | dan |   |   |    |        326-04 | 2:context |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og          |   | ok                 | ok              |   |   |   |   | dan |   |   |    |        326-04 | 2:context |          |  |    |    |    |    |
@@ -181,8 +181,8 @@
 | w   |        | ligje       | xVB | lå          |   | laa                | laa             |   |   |   |   | dan |   |   |    |        326-06 | 2:context |          |  |    |    |    |    |
 | w   |        | til         | xAP | til         |   | til                | til             |   |   |   |   | dan |   |   |    |        326-06 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Ingmars     |   | jngemars           | ȷngemar        |   |   |   |   | dan |   |   |    |        326-06 | 2:context |          |  |    |    |    |    |
-| w   |        | garth       | xNC | gård        |   | gardh              | gardh           |   |   |   |   | dan |   |   |    |        326-06 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Ingmars     |   | jngemars           | ȷngemar        |   |   |   |   | dan |   |   |    |        326-06 | 2:context |          |  |    |    |1343|    |
+| w   |        | garth       | xNC | gård        |   | gardh              | gardh           |   |   |   |   | dan |   |   |    |        326-06 | 2:context |          |  |    |    |1343|    |
 | PL  | e      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | p   |        |             |     |             |   | .                  | .               |   |   |   |   | dan |   |   |    |        326-06 | 2:context |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og          |   | ok                 | ok              |   |   |   |   | dan |   |   |    |        326-06 | 2:context |          |  |    |    |    |    |
@@ -214,8 +214,8 @@
 | w   |        | have        | xVB | havde       |   | hafdhæ             | hafdhæ          |   |   |   |   | dan |   |   |    |        326-07 | 2:context |          |  |    |    |    |    |
 | w   |        | fran        | xAP | fra         |   | fran               | fra            |   |   |   |   | dan |   |   |    |        326-07 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Bavelse     |   | bawlssæ            | bawlſſæ         |   |   |   |   | dan |   |   |    |        326-07 | 2:context |          |  |    |    |    |    |
-| w   |        | sjo         | xNC | sø          |   | syø                | ſyø             |   |   |   |   | dan |   |   |    |        326-07 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Bavelse     |   | bawlssæ            | bawlſſæ         |   |   |   |   | dan |   |   |    |        326-07 | 2:context |          |  |    |    |1344|    |
+| w   |        | sjo         | xNC | sø          |   | syø                | ſyø             |   |   |   |   | dan |   |   |    |        326-07 | 2:context |          |  |    |    |1344|    |
 | PL  | e      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | p   |        |             |     |             |   | .                  | .               |   |   |   |   | dan |   |   |    |        326-07 | 2:context |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og          |   | ok                 | ok              |   |   |   |   | dan |   |   |    |        326-07 | 2:context |          |  |    |    |    |    |
@@ -233,8 +233,8 @@
 | w   |        | thvær       | xAV | tvært       |   | thwert             | thwert          |   |   |   |   | dan |   |   |    |        326-08 | 2:context |          |  |    |    |    |    |
 | w   |        | yver        | xAP | over        |   | jwær               | ȷwær            |   |   |   |   | dan |   |   |    |        326-08 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        | tove        | xNP | tove        |   | towæ               | towæ            |   |   |   |   | dan |   |   |    |        326-08 | 2:context |          |  |    |    |    |    |
-| w   |        | bjargh      | xNC | bjerg       |   | biærgh             | bıærgh          |   |   |   |   | dan |   |   |    |        326-08 | 2:context |          |  |    |    |    |    |
+| w   |        | tove        | xNP | tove        |   | towæ               | towæ            |   |   |   |   | dan |   |   |    |        326-08 | 2:context |          |  |    |    |1345|    |
+| w   |        | bjargh      | xNC | bjerg       |   | biærgh             | bıærgh          |   |   |   |   | dan |   |   |    |        326-08 | 2:context |          |  |    |    |1345|    |
 | PL  | e      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | p   |        |             |     |             |   | .                  | .               |   |   |   |   | dan |   |   |    |        326-08 | 2:context |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og          |   | ok                 | ok              |   |   |   |   | dan |   |   |    |        326-08 | 2:context |          |  |    |    |    |    |
@@ -328,7 +328,7 @@
 | PE  | e      | HenMol003   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |             | lat |             |   | de                 | de              |   |   |   |   | lat |   |   |    |        326-12 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | lat |             |   | bawlssæ            | bawlſſæ         |   |   |   |   | dan |   |   |    |        326-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | lat |             |   | bawlssæ            | bawlſſæ         |   |   |   |   | dan |   |   |    |        326-12 | 3:eschatocol |          |  |    |    |1346|    |
 | PL  | e      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |             | lat |             |   | d(omi)ni           | dn̅ı             |   |   |   |   | lat |   |   |    |        326-12 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | JenPed005   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -344,7 +344,7 @@
 | lm  | 326-13 |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |             | lat |             |   | de                 | de              |   |   |   |   | lat |   |   |    |        326-13 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | lat |             |   | vidhfwglæbiærgh    | vıdhfwglæbıærgh |   |   |   |   | dan |   |   |    |        326-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | lat |             |   | vidhfwglæbiærgh    | vıdhfwglæbıærgh |   |   |   |   | dan |   |   |    |        326-13 | 3:eschatocol |          |  |    |    |1347|    |
 | PL  | e      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | PE  | b      | EriTho001   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |             | lat |             |   | erici              | erıcı           |   |   |   |   | lat |   |   |    |        326-13 | 3:eschatocol |          |  |1316|    |    |    |
@@ -352,7 +352,7 @@
 | PE  | e      | EriTho001   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |             | lat |             |   | de                 | de              |   |   |   |   | lat |   |   |    |        326-13 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | lat |             |   | vynstorp           | vynſtoꝛp        |   |   |   |   | dan |   |   |    |        326-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | lat |             |   | vynstorp           | vynſtoꝛp        |   |   |   |   | dan |   |   |    |        326-13 | 3:eschatocol |          |  |    |    |1348|    |
 | PL  | e      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | p   |        |             |     |             |   | .                  | .               |   |   |   |   | lat |   |   |    |        326-13 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | PedTro001   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -362,7 +362,7 @@
 | w   |        |             | lat |             |   | aduocati           | aduocatı        |   |   |   |   | lat |   |   |    |        326-13 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |             | lat |             |   | cast(ri)           | caſt           |   |   |   |   | lat |   |   |    |        326-13 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | lat |             |   | helsingborgh       | helſíngboꝛgh    |   |   |   |   | lat |   |   |    |        326-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | lat |             |   | helsingborgh       | helſíngboꝛgh    |   |   |   |   | lat |   |   |    |        326-13 | 3:eschatocol |          |  |    |    |1349|    |
 | PL  | e      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | PE  | b      | NieLun001   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |             | lat |             |   | nicolaj            | nıcolaȷ         |   |   |   |   | lat |   |   |    |        326-13 | 3:eschatocol |          |  |1318|    |    |    |
@@ -389,7 +389,7 @@
 | PE  | e      | AndSve001   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |             | lat |             |   | de                 | de              |   |   |   |   | lat |   |   |    |        326-14 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | lat |             |   | ræynstorp          | ræynſtoꝛp       |   |   |   |   | dan |   |   |    |        326-14 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | lat |             |   | ræynstorp          | ræynſtoꝛp       |   |   |   |   | dan |   |   |    |        326-14 | 3:eschatocol |          |  |    |    |1350|    |
 | PL  | e      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |             | lat |             |   | p(rese)ntib(us)    | p̅ntibꝫ          |   |   |   |   | lat |   |   |    |        326-14 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |             | lat |             |   | est                | eſt             |   |   |   |   | lat |   |   |    |        326-14 | 3:eschatocol |          |  |    |    |    |    |

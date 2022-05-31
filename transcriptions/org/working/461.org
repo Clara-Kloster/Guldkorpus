@@ -50,13 +50,13 @@
 | PE  | e      | PerOls001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | af          | xAP | af        |   | aff              | aff          |   |   |   |   | dan |   |   |   |        461-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Bonderup  |   | bonder(v)p       | bondeꝛͮp      |   |   |   |   | dan |   |   |   |        461-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Bonderup  |   | bonder(v)p       | bondeꝛͮp      |   |   |   |   | dan |   |   |   |        461-01 | 1:protocol |          |  |    |    |2145|    |
 | PL  | e      |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | hæreth      | xNC | herreds   |   | heriitths        | heꝛiitth    |   |   |   |   | dan |   |   |   |        461-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | foghet      | xNC | foged     |   | fogetth          | fogetth      |   |   |   |   | dan |   |   |   |        461-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i           | xAP | i         |   | y                | ÿ            |   |   |   |   | dan |   |   |   |        461-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Merløse   |   | me(er)løsße      | meløſße     |   |   |   |   | dan |   |   |   |        461-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Merløse   |   | me(er)løsße      | meløſße     |   |   |   |   | dan |   |   |   |        461-01 | 1:protocol |          |  |    |    |2146|    |
 | PL  | e      |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | hæreth      | xNC | Herred    |   | he(r)ytth        | heÿtth      |   |   |   |   | dan |   |   |   |        461-01 | 1:protocol |          |  |    |    |    |    |
 | lm  | 461-02 |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -109,7 +109,7 @@
 | w   |        | kloster     | xNC | kloster   |   | Closter(e)       | Cloſteꝛ     |   |   |   |   | dan |   |   |   |        461-05 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i         |   | y                | ÿ            |   |   |   |   | dan |   |   |   |        461-05 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Roskilde  |   | roskylle         | ꝛoſkylle     |   |   |   |   | dan |   |   |   |        461-05 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Roskilde  |   | roskylle         | ꝛoſkylle     |   |   |   |   | dan |   |   |   |        461-05 | 2:context |          |  |    |    |2147|    |
 | PL  | e      |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | ænge        | xDD | ingen     |   | Jngend           | Jngend       |   |   |   |   | dan |   |   |   |        461-05 | 2:context |          |  |    |    |    |    |
 | w   |        | thing       | xNC | tinge     |   | tynge            | tÿnge        |   |   |   |   | dan |   |   |   |        461-05 | 2:context |          |  |    |    |    |    |
@@ -126,8 +126,8 @@
 | PE  | e      | JepJør001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | af          | xAP | af        |   | aff              | aff          |   |   |   |   | dan |   |   |   |        461-06 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Mølle     |   | mølle            | mølle        |   |   |   |   | dan |   |   |   |        461-06 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Borup     |   | bor(v)r          | boꝛpͮ         |   |   |   |   | dan |   |   |   |        461-06 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Mølle     |   | mølle            | mølle        |   |   |   |   | dan |   |   |   |        461-06 | 2:context |          |  |    |    |2148|    |
+| w   |        |             | xNP | Borup     |   | bor(v)r          | boꝛpͮ         |   |   |   |   | dan |   |   |   |        461-06 | 2:context |          |  |    |    |2148|    |
 | PL  | e      |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | for         | xAP | for       |   | for              | foꝛ          |   |   |   |   | dan |   |   |   |        461-06 | 2:context |          |  |    |    |    |    |
 | w   |        | noker       | xDD | nogen     |   | Noge(n)d         | Noge̅d        |   |   |   |   | dan |   |   |   |        461-06 | 2:context |          |  |    |    |    |    |
@@ -151,7 +151,7 @@
 | w   |        | garth       | xNC | gård      |   | ⸠0⸡g{ar}d        | ⸠0⸡g{aꝛ}d    |   |   |   |   | dan |   |   |   |        461-08 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i         |   | y                | ÿ            |   |   |   |   | dan |   |   |   |        461-08 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Tåstrup   |   | tost(rv)p        | toſtpͮ        |   |   |   |   | dan |   |   |   |        461-08 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Tåstrup   |   | tost(rv)p        | toſtpͮ        |   |   |   |   | dan |   |   |   |        461-08 | 2:context |          |  |    |    |2308|    |
 | PL  | e      |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | af          | xAP | af        |   | aff              | aff          |   |   |   |   | dan |   |   |   |        461-08 | 2:context |          |  |    |    |    |    |
 | w   |        | ræt         | xNC | rette     |   | rette            | ꝛette        |   |   |   |   | dan |   |   |   |        461-08 | 2:context |          |  |    |    |    |    |
