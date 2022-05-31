@@ -46,7 +46,7 @@ class RowGroup(object):
         # Parse tag id
         start_id = self.start[TAG_ID_ROW].value
         end_id = self.end[TAG_ID_ROW].value
-        assert start_id == end_id, "Tagged sequence have non-identical ids ('{}'/'{}')".format(start_id, end_id)
+        assert start_id == end_id, "Tagged <{}> sequence have non-identical ids ('{}'/'{}')".format(str(self.start[TAG_ROW]), start_id, end_id)
         self.id = start_id
     
     def update_tag_id(self, value):

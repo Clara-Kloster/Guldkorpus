@@ -4,7 +4,7 @@ import os
 def test_tag_completion():
 
     test_dir = "transcriptions/org/working/"
-    test_tags = ("PE", "PL")
+    test_tags = ("PE", "PL", "d", "ad", "su", "de")
     errors = {}
 
     for transcr in [x for x in os.listdir(test_dir) if x.endswith(".org")]:
