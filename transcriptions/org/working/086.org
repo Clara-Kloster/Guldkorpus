@@ -43,151 +43,151 @@
 | pm  | 1r    |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |              |          |          |  |    |    |    |    |
 | lm  | 86-01 |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |              |          |          |  |    |    |    |    |
 | d  | b     | 1  |   | protocol  |   |                  |              |   |   |   |   |     |   |   |   |              |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Omnibus          | Omníbu      |   |   |   |   | lat |   |   |   |        86-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | p(re)sens        | p͛ſenſ        |   |   |   |   | lat |   |   |   |        86-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | sc(ri)ptu(m)     | cptu      |   |   |   |   | lat |   |   |   |        86-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | c(er)nentib(us)  | c͛nentíbꝰ     |   |   |   |   | lat |   |   |   |        86-01 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Omnibus          | Omníbu      |   |   |   |   | lat |   |   |   |        86-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | p(re)sens        | p͛ſenſ        |   |   |   |   | lat |   |   |   |        86-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | sc(ri)ptu(m)     | cptu      |   |   |   |   | lat |   |   |   |        86-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | c(er)nentib(us)  | c͛nentíbꝰ     |   |   |   |   | lat |   |   |   |        86-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b     |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |              |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | .N.              | .N.          |   |   |   |   | lat |   |   |   |        86-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | h(er)man s(un)   | h͛man        |   |   |   |   | lat |   |   |   |        86-01 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | .N.              | .N.          |   |   |   |   | lat |   |   |   |        86-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | h(er)man s(un)   | h͛man        |   |   |   |   | lat |   |   |   |        86-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | e     |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |              |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Aduoc(atus)      | duoc͛        |   |   |   |   | lat |   |   |   |        86-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | roskilden(sis)   | roſkılden͛    |   |   |   |   | lat |   |   |   |        86-01 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                | .            |   |   |   |   | lat |   |   |   |        86-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Sal(u)t(em)      | Sl̅t         |   |   |   |   | lat |   |   |   |        86-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | in               | ín           |   |   |   |   | lat |   |   |   |        86-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | d(omi)no         | dn̅o          |   |   |   |   | lat |   |   |   |        86-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | sempit(er)nam    | ſempıt͛na    |   |   |   |   | lat |   |   |   |        86-01 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                | .            |   |   |   |   | lat |   |   |   |        86-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Notum            | Notu        |   |   |   |   | lat |   |   |   |        86-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | fac(i)o          | fac̅o         |   |   |   |   | lat |   |   |   |        86-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | p(re)sentibus    | p͛ſentıbu    |   |   |   |   | lat |   |   |   |        86-01 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Aduoc(atus)      | duoc͛        |   |   |   |   | lat |   |   |   |        86-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | roskilden(sis)   | roſkılden͛    |   |   |   |   | lat |   |   |   |        86-01 | 1:protocol |          |  |    |    |    |    |
+| p   |       |   |   |   |   | .                | .            |   |   |   |   | lat |   |   |   |        86-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Sal(u)t(em)      | Sl̅t         |   |   |   |   | lat |   |   |   |        86-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | in               | ín           |   |   |   |   | lat |   |   |   |        86-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | d(omi)no         | dn̅o          |   |   |   |   | lat |   |   |   |        86-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | sempit(er)nam    | ſempıt͛na    |   |   |   |   | lat |   |   |   |        86-01 | 1:protocol |          |  |    |    |    |    |
+| p   |       |   |   |   |   | .                | .            |   |   |   |   | lat |   |   |   |        86-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Notum            | Notu        |   |   |   |   | lat |   |   |   |        86-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | fac(i)o          | fac̅o         |   |   |   |   | lat |   |   |   |        86-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | p(re)sentibus    | p͛ſentıbu    |   |   |   |   | lat |   |   |   |        86-01 | 1:protocol |          |  |    |    |    |    |
 | lm  | 86-02 |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |              |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | (et)             |             |   |   |   |   | lat |   |   |   |        86-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | futuris.         | futurıſ.     |   |   |   |   | lat |   |   |   |        86-02 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | /                | /            |   |   |   |   | lat |   |   |   |        86-02 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | (et)             |             |   |   |   |   | lat |   |   |   |        86-02 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | futuris.         | futurıſ.     |   |   |   |   | lat |   |   |   |        86-02 | 1:protocol |          |  |    |    |    |    |
+| p   |       |   |   |   |   | /                | /            |   |   |   |   | lat |   |   |   |        86-02 | 1:protocol |          |  |    |    |    |    |
 | d  | e     | 1  |   |   |   |                  |              |   |   |   |   |     |   |   |   |              |          |          |  |    |    |    |    |
 | d  | b     | 2  |   | context  |   |                  |              |   |   |   |   |     |   |   |   |              |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Q(uo)d           | Qd͛           |   |   |   |   | lat |   |   |   |        86-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | me               | me           |   |   |   |   | lat |   |   |   |        86-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | p(re)sente.      | p͛ſente.      |   |   |   |   | lat |   |   |   |        86-02 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | /                | /            |   |   |   |   | lat |   |   |   |        86-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Cernente.        | Cernente.    |   |   |   |   | lat |   |   |   |        86-02 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | /                | /            |   |   |   |   | lat |   |   |   |        86-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Audiente.        | udíente.    |   |   |   |   | lat |   |   |   |        86-02 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | /                | /            |   |   |   |   | lat |   |   |   |        86-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | (et)             |             |   |   |   |   | lat |   |   |   |        86-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | (con)sensum      | ꝯſenſu      |   |   |   |   | lat |   |   |   |        86-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | beniuolum        | beníuolu    |   |   |   |   | lat |   |   |   |        86-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | adhibente        | adhıbente    |   |   |   |   | lat |   |   |   |        86-02 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                | .            |   |   |   |   | lat |   |   |   |        86-02 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Q(uo)d           | Qd͛           |   |   |   |   | lat |   |   |   |        86-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | me               | me           |   |   |   |   | lat |   |   |   |        86-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | p(re)sente.      | p͛ſente.      |   |   |   |   | lat |   |   |   |        86-02 | 2:context |          |  |    |    |    |    |
+| p   |       |   |   |   |   | /                | /            |   |   |   |   | lat |   |   |   |        86-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Cernente.        | Cernente.    |   |   |   |   | lat |   |   |   |        86-02 | 2:context |          |  |    |    |    |    |
+| p   |       |   |   |   |   | /                | /            |   |   |   |   | lat |   |   |   |        86-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Audiente.        | udíente.    |   |   |   |   | lat |   |   |   |        86-02 | 2:context |          |  |    |    |    |    |
+| p   |       |   |   |   |   | /                | /            |   |   |   |   | lat |   |   |   |        86-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | (et)             |             |   |   |   |   | lat |   |   |   |        86-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | (con)sensum      | ꝯſenſu      |   |   |   |   | lat |   |   |   |        86-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | beniuolum        | beníuolu    |   |   |   |   | lat |   |   |   |        86-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | adhibente        | adhıbente    |   |   |   |   | lat |   |   |   |        86-02 | 2:context |          |  |    |    |    |    |
+| p   |       |   |   |   |   | .                | .            |   |   |   |   | lat |   |   |   |        86-02 | 2:context |          |  |    |    |    |    |
 | PE  | b     |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |              |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Nicolaus         | Nıcolau     |   |   |   |   | lat |   |   |   |        86-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | willelm¦s(un)    | willel¦    |   |   |   |   | lat |   |   |   | 86-02--86-03 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Nicolaus         | Nıcolau     |   |   |   |   | lat |   |   |   |        86-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | willelm¦s(un)    | willel¦    |   |   |   |   | lat |   |   |   | 86-02--86-03 | 2:context |          |  |    |    |    |    |
 | PE  | e     |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |              |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | !sciuis¡         | !cíuí¡     |   |   |   |   | lat |   |   |   |        86-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | roskilden(sis)   | roſkılde̅    |   |   |   |   | lat |   |   |   |        86-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | ex               | ex           |   |   |   |   | lat |   |   |   |        86-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | p(ar)te          | p̲te          |   |   |   |   | lat |   |   |   |        86-03 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | !sciuis¡         | !cíuí¡     |   |   |   |   | lat |   |   |   |        86-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | roskilden(sis)   | roſkılde̅    |   |   |   |   | lat |   |   |   |        86-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | ex               | ex           |   |   |   |   | lat |   |   |   |        86-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | p(ar)te          | p̲te          |   |   |   |   | lat |   |   |   |        86-03 | 2:context |          |  |    |    |    |    |
 | PE  | b     |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |              |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Jacobj           | Jacobȷ       |   |   |   |   | lat |   |   |   |        86-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | dicti            | dıı         |   |   |   |   | lat |   |   |   |        86-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | jærnhouoth       | ȷærnhouoth   |   |   |   |   | lat |   |   |   |        86-03 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Jacobj           | Jacobȷ       |   |   |   |   | lat |   |   |   |        86-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | dicti            | dıı         |   |   |   |   | lat |   |   |   |        86-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | jærnhouoth       | ȷærnhouoth   |   |   |   |   | lat |   |   |   |        86-03 | 2:context |          |  |    |    |    |    |
 | PE  | e     |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |              |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | affinjs          | affín      |   |   |   |   | lat |   |   |   |        86-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | mej              | meȷ          |   |   |   |   | lat |   |   |   |        86-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | !quendam¡        | !quenda¡    |   |   |   |   | lat |   |   |   |        86-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | ⸌t(er)ram⸍       | ⸌t͛ram⸍       |   |   |   |   | lat |   |   |   |        86-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | decem            | decem        |   |   |   |   | lat |   |   |   |        86-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | solidor(um)      | ſolıdoꝝ      |   |   |   |   | lat |   |   |   |        86-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | in               | ín           |   |   |   |   | lat |   |   |   |        86-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | censu            | cenſu        |   |   |   |   | lat |   |   |   |        86-03 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | /                | /            |   |   |   |   | lat |   |   |   |        86-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | qua(m)           | qua         |   |   |   |   | lat |   |   |   |        86-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | ide(m)           | ıde         |   |   |   |   | lat |   |   |   |        86-03 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | affinjs          | affín      |   |   |   |   | lat |   |   |   |        86-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | mej              | meȷ          |   |   |   |   | lat |   |   |   |        86-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | !quendam¡        | !quenda¡    |   |   |   |   | lat |   |   |   |        86-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | ⸌t(er)ram⸍       | ⸌t͛ram⸍       |   |   |   |   | lat |   |   |   |        86-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | decem            | decem        |   |   |   |   | lat |   |   |   |        86-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | solidor(um)      | ſolıdoꝝ      |   |   |   |   | lat |   |   |   |        86-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | in               | ín           |   |   |   |   | lat |   |   |   |        86-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | censu            | cenſu        |   |   |   |   | lat |   |   |   |        86-03 | 2:context |          |  |    |    |    |    |
+| p   |       |   |   |   |   | /                | /            |   |   |   |   | lat |   |   |   |        86-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | qua(m)           | qua         |   |   |   |   | lat |   |   |   |        86-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | ide(m)           | ıde         |   |   |   |   | lat |   |   |   |        86-03 | 2:context |          |  |    |    |    |    |
 | lm  | 86-04 |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |              |          |          |  |    |    |    |    |
 | PE  | b     |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |              |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Jacob(us)        | Jacobꝰ       |   |   |   |   | lat |   |   |   |        86-04 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Jacob(us)        | Jacobꝰ       |   |   |   |   | lat |   |   |   |        86-04 | 2:context |          |  |    |    |    |    |
 | PE  | e     |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |              |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | i(n)             | ı̅            |   |   |   |   | lat |   |   |   |        86-04 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | i(n)             | ı̅            |   |   |   |   | lat |   |   |   |        86-04 | 2:context |          |  |    |    |    |    |
 | PL  | b     |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |              |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | høgby            | høgby        |   |   |   |   | lat |   |   |   |        86-04 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | høgby            | høgby        |   |   |   |   | lat |   |   |   |        86-04 | 2:context |          |  |    |    |    |    |
 | PL  | e     |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |              |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | post             | poﬅ          |   |   |   |   | lat |   |   |   |        86-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | patre(m)         | patre       |   |   |   |   | lat |   |   |   |        86-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | suum             | ſuu         |   |   |   |   | lat |   |   |   |        86-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | successione      | ucceſſıone  |   |   |   |   | lat |   |   |   |        86-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | h(er)editaria    | h͛edıtarıa    |   |   |   |   | lat |   |   |   |        86-04 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                | .            |   |   |   |   | lat |   |   |   |        86-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | iuste            | íuﬅe         |   |   |   |   | lat |   |   |   |        86-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | tenuit           | tenuít       |   |   |   |   | lat |   |   |   |        86-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | (et)             |             |   |   |   |   | lat |   |   |   |        86-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | possedit         | poſſedıt     |   |   |   |   | lat |   |   |   |        86-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | sororibus        | ororıbu    |   |   |   |   | lat |   |   |   |        86-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | s(an)c(t)e       | ce         |   |   |   |   | lat |   |   |   |        86-04 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | post             | poﬅ          |   |   |   |   | lat |   |   |   |        86-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | patre(m)         | patre       |   |   |   |   | lat |   |   |   |        86-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | suum             | ſuu         |   |   |   |   | lat |   |   |   |        86-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | successione      | ucceſſıone  |   |   |   |   | lat |   |   |   |        86-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | h(er)editaria    | h͛edıtarıa    |   |   |   |   | lat |   |   |   |        86-04 | 2:context |          |  |    |    |    |    |
+| p   |       |   |   |   |   | .                | .            |   |   |   |   | lat |   |   |   |        86-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | iuste            | íuﬅe         |   |   |   |   | lat |   |   |   |        86-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | tenuit           | tenuít       |   |   |   |   | lat |   |   |   |        86-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | (et)             |             |   |   |   |   | lat |   |   |   |        86-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | possedit         | poſſedıt     |   |   |   |   | lat |   |   |   |        86-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | sororibus        | ororıbu    |   |   |   |   | lat |   |   |   |        86-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | s(an)c(t)e       | ce         |   |   |   |   | lat |   |   |   |        86-04 | 2:context |          |  |    |    |    |    |
 | lm  | 86-05 |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |              |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Clare            | Clare        |   |   |   |   | lat |   |   |   |        86-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | roskildis        | roſkıldı    |   |   |   |   | lat |   |   |   |        86-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | p(ro)            | ꝓ            |   |   |   |   | lat |   |   |   |        86-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | pleno            | pleno        |   |   |   |   | lat |   |   |   |        86-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | p(re)cio         | p͛cıo         |   |   |   |   | lat |   |   |   |        86-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | ad               | ad           |   |   |   |   | lat |   |   |   |        86-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | manus            | manuſ        |   |   |   |   | lat |   |   |   |        86-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | recepto          | recepto      |   |   |   |   | lat |   |   |   |        86-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | (et)             |             |   |   |   |   | lat |   |   |   |        86-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | total(ite)r      | totalr͛       |   |   |   |   | lat |   |   |   |        86-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | p(er)soluto      | p̲ſoluto      |   |   |   |   | lat |   |   |   |        86-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | vendidit         | ỽendıdıt     |   |   |   |   | lat |   |   |   |        86-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | (et)             |             |   |   |   |   | lat |   |   |   |        86-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | scotauit         | ſcotauít     |   |   |   |   | dan |   |   |   |        86-05 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Clare            | Clare        |   |   |   |   | lat |   |   |   |        86-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | roskildis        | roſkıldı    |   |   |   |   | lat |   |   |   |        86-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | p(ro)            | ꝓ            |   |   |   |   | lat |   |   |   |        86-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | pleno            | pleno        |   |   |   |   | lat |   |   |   |        86-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | p(re)cio         | p͛cıo         |   |   |   |   | lat |   |   |   |        86-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | ad               | ad           |   |   |   |   | lat |   |   |   |        86-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | manus            | manuſ        |   |   |   |   | lat |   |   |   |        86-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | recepto          | recepto      |   |   |   |   | lat |   |   |   |        86-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | (et)             |             |   |   |   |   | lat |   |   |   |        86-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | total(ite)r      | totalr͛       |   |   |   |   | lat |   |   |   |        86-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | p(er)soluto      | p̲ſoluto      |   |   |   |   | lat |   |   |   |        86-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | vendidit         | ỽendıdıt     |   |   |   |   | lat |   |   |   |        86-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | (et)             |             |   |   |   |   | lat |   |   |   |        86-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | scotauit         | ſcotauít     |   |   |   |   | dan |   |   |   |        86-05 | 2:context |          |  |    |    |    |    |
 | lm  | 86-06 |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |              |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | iure             | íure         |   |   |   |   | lat |   |   |   |        86-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | p(er)petuo       | ̲etuo        |   |   |   |   | lat |   |   |   |        86-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | possidendam      | poſſıdenda  |   |   |   |   | lat |   |   |   |        86-06 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                | .            |   |   |   |   | lat |   |   |   |        86-06 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | iure             | íure         |   |   |   |   | lat |   |   |   |        86-06 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | p(er)petuo       | ̲etuo        |   |   |   |   | lat |   |   |   |        86-06 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | possidendam      | poſſıdenda  |   |   |   |   | lat |   |   |   |        86-06 | 2:context |          |  |    |    |    |    |
+| p   |       |   |   |   |   | .                | .            |   |   |   |   | lat |   |   |   |        86-06 | 2:context |          |  |    |    |    |    |
 | d  | e     | 2  |   |   |   |                  |              |   |   |   |   |     |   |   |   |              |          |          |  |    |    |    |    |
 | d  | b     | 3  |   | eschatocol  |   |                  |              |   |   |   |   |     |   |   |   |              |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Ne               | Ne           |   |   |   |   | lat |   |   |   |        86-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | (i)g(itur)       | g           |   |   |   |   | lat |   |   |   |        86-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | hec              | hec          |   |   |   |   | lat |   |   |   |        86-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | vendic(i)o       | ỽendıc̅o      |   |   |   |   | lat |   |   |   |        86-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | tam              | ta          |   |   |   |   | lat |   |   |   |        86-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | discrete         | dıſcrete     |   |   |   |   | lat |   |   |   |        86-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | f(a)c(t)a        | fca         |   |   |   |   | lat |   |   |   |        86-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | in               | ín           |   |   |   |   | lat |   |   |   |        86-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | posteru(m)       | poﬅeru      |   |   |   |   | lat |   |   |   |        86-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | retractarj       | retraarȷ    |   |   |   |   | lat |   |   |   |        86-06 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Ne               | Ne           |   |   |   |   | lat |   |   |   |        86-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | (i)g(itur)       | g           |   |   |   |   | lat |   |   |   |        86-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | hec              | hec          |   |   |   |   | lat |   |   |   |        86-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | vendic(i)o       | ỽendıc̅o      |   |   |   |   | lat |   |   |   |        86-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | tam              | ta          |   |   |   |   | lat |   |   |   |        86-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | discrete         | dıſcrete     |   |   |   |   | lat |   |   |   |        86-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | f(a)c(t)a        | fca         |   |   |   |   | lat |   |   |   |        86-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | in               | ín           |   |   |   |   | lat |   |   |   |        86-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | posteru(m)       | poﬅeru      |   |   |   |   | lat |   |   |   |        86-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | retractarj       | retraarȷ    |   |   |   |   | lat |   |   |   |        86-06 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 86-07 |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |              |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | debeat           | debeat       |   |   |   |   | lat |   |   |   |        86-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | p(er)            | p̲            |   |   |   |   | lat |   |   |   |        86-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | que(m)cu(m)q(ue) | quecuqꝫ    |   |   |   |   | lat |   |   |   |        86-07 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                | .            |   |   |   |   | lat |   |   |   |        86-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | p(re)sens        | p͛ſenſ        |   |   |   |   | lat |   |   |   |        86-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | sc(ri)ptu(m)     | cptu      |   |   |   |   | lat |   |   |   |        86-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | sigillo          | ıgıllo      |   |   |   |   | lat |   |   |   |        86-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | meo              | meo          |   |   |   |   | lat |   |   |   |        86-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | duxi             | duxı         |   |   |   |   | lat |   |   |   |        86-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | consignandum     | conſıgnandu |   |   |   |   | lat |   |   |   |        86-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | in               | ín           |   |   |   |   | lat |   |   |   |        86-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | hui(us)          | huıꝰ         |   |   |   |   | lat |   |   |   |        86-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | rej              | reȷ          |   |   |   |   | lat |   |   |   |        86-07 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                | .            |   |   |   |   | lat |   |   |   |        86-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | euidens          | euídenſ      |   |   |   |   | lat |   |   |   |        86-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | testimo¦nium     | teﬅímo¦níu  |   |   |   |   | lat |   |   |   |  86-07—86-08 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | (et)             |             |   |   |   |   | lat |   |   |   |        86-08 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | cautelam         | cautela     |   |   |   |   | lat |   |   |   |        86-08 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                | .            |   |   |   |   | lat |   |   |   |        86-08 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Datum            | Datu        |   |   |   |   | lat |   |   |   |        86-08 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Anno             | nno         |   |   |   |   | lat |   |   |   |        86-08 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | d(omi)nj         | dnȷ         |   |   |   |   | lat |   |   |   |        86-08 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | mº               | .ͦ.          |   |   |   |   | lat |   |   |   |        86-08 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | CCº               | CCͦ.          |   |   |   |   | lat |   |   |   |        86-08 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | lxxº              | lxxͦ.         |   |   |   |   | lat |   |   |   |        86-08 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | viijº             | ỽıͦıȷ.        |   |   |   |   | lat |   |   |   |        86-08 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Jn               | Jn           |   |   |   |   | lat |   |   |   |        86-08 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | !vigillia¡       | !ỽıgıllıa¡   |   |   |   |   | lat |   |   |   |        86-08 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Epiphanie        | pıphaníe    |   |   |   |   | lat |   |   |   |        86-08 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | D(omi)nj         | Dnȷ         |   |   |   |   | lat |   |   |   |        86-08 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                | .            |   |   |   |   | lat |   |   |   |        86-08 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | debeat           | debeat       |   |   |   |   | lat |   |   |   |        86-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | p(er)            | p̲            |   |   |   |   | lat |   |   |   |        86-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | que(m)cu(m)q(ue) | quecuqꝫ    |   |   |   |   | lat |   |   |   |        86-07 | 3:eschatocol |          |  |    |    |    |    |
+| p   |       |   |   |   |   | .                | .            |   |   |   |   | lat |   |   |   |        86-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | p(re)sens        | p͛ſenſ        |   |   |   |   | lat |   |   |   |        86-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | sc(ri)ptu(m)     | cptu      |   |   |   |   | lat |   |   |   |        86-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | sigillo          | ıgıllo      |   |   |   |   | lat |   |   |   |        86-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | meo              | meo          |   |   |   |   | lat |   |   |   |        86-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | duxi             | duxı         |   |   |   |   | lat |   |   |   |        86-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | consignandum     | conſıgnandu |   |   |   |   | lat |   |   |   |        86-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | in               | ín           |   |   |   |   | lat |   |   |   |        86-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | hui(us)          | huıꝰ         |   |   |   |   | lat |   |   |   |        86-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | rej              | reȷ          |   |   |   |   | lat |   |   |   |        86-07 | 3:eschatocol |          |  |    |    |    |    |
+| p   |       |   |   |   |   | .                | .            |   |   |   |   | lat |   |   |   |        86-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | euidens          | euídenſ      |   |   |   |   | lat |   |   |   |        86-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | testimo¦nium     | teﬅímo¦níu  |   |   |   |   | lat |   |   |   |  86-07—86-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | (et)             |             |   |   |   |   | lat |   |   |   |        86-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | cautelam         | cautela     |   |   |   |   | lat |   |   |   |        86-08 | 3:eschatocol |          |  |    |    |    |    |
+| p   |       |   |   |   |   | .                | .            |   |   |   |   | lat |   |   |   |        86-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Datum            | Datu        |   |   |   |   | lat |   |   |   |        86-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Anno             | nno         |   |   |   |   | lat |   |   |   |        86-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | d(omi)nj         | dnȷ         |   |   |   |   | lat |   |   |   |        86-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | mº               | .ͦ.          |   |   |   |   | lat |   |   |   |        86-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | CCº               | CCͦ.          |   |   |   |   | lat |   |   |   |        86-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | lxxº              | lxxͦ.         |   |   |   |   | lat |   |   |   |        86-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | viijº             | ỽıͦıȷ.        |   |   |   |   | lat |   |   |   |        86-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Jn               | Jn           |   |   |   |   | lat |   |   |   |        86-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | !vigillia¡       | !ỽıgıllıa¡   |   |   |   |   | lat |   |   |   |        86-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Epiphanie        | pıphaníe    |   |   |   |   | lat |   |   |   |        86-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | D(omi)nj         | Dnȷ         |   |   |   |   | lat |   |   |   |        86-08 | 3:eschatocol |          |  |    |    |    |    |
+| p   |       |   |   |   |   | .                | .            |   |   |   |   | lat |   |   |   |        86-08 | 3:eschatocol |          |  |    |    |    |    |
 | d  | e     | 3  |   |   |   |                  |              |   |   |   |   |     |   |   |   |              |          |          |  |    |    |    |    |
 | :e: |       |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |              |          |          |  |    |    |    |    |

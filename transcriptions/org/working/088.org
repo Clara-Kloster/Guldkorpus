@@ -43,134 +43,134 @@
 | pm  | 1r    |   |   |   |   |                  |             |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | lm  | 88-01 |   |   |   |   |                  |             |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | d  | b     | 1  |   | protocol  |   |                  |             |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Om(n)ibus        | Om̅ıbuſ      |   |   |   |   | lat |   |   |   |       88-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | hoc              | hoc         |   |   |   |   | lat |   |   |   |       88-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | scriptu(m)       | ſcrıptu̅     |   |   |   |   | lat |   |   |   |       88-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | c(er)nentibus    | ᴄ͛nentıbuſ   |   |   |   |   | lat |   |   |   |       88-01 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | /                | /           |   |   |   |   | lat |   |   |   |       88-01 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Om(n)ibus        | Om̅ıbuſ      |   |   |   |   | lat |   |   |   |       88-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | hoc              | hoc         |   |   |   |   | lat |   |   |   |       88-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | scriptu(m)       | ſcrıptu̅     |   |   |   |   | lat |   |   |   |       88-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | c(er)nentibus    | ᴄ͛nentıbuſ   |   |   |   |   | lat |   |   |   |       88-01 | 1:protocol |          |  |    |    |    |    |
+| p   |       |   |   |   |   | /                | /           |   |   |   |   | lat |   |   |   |       88-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b     | JakNie002  |   |   |   |                  |             |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Iacobus          | Iacobuſ     |   |   |   |   | lat |   |   |   |       88-01 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Iacobus          | Iacobuſ     |   |   |   |   | lat |   |   |   |       88-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | e     | JakNie002  |   |   |   |                  |             |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | filius           | fılıu      |   |   |   |   | lat |   |   |   |       88-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | comitis          | ᴄomítı     |   |   |   |   | lat |   |   |   |       88-01 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | filius           | fılıu      |   |   |   |   | lat |   |   |   |       88-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | comitis          | ᴄomítı     |   |   |   |   | lat |   |   |   |       88-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b     | NieMan001  |   |   |   |                  |             |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Nicholai         | Nıcholí    |   |   |   |   | lat |   |   |   |       88-01 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Nicholai         | Nıcholí    |   |   |   |   | lat |   |   |   |       88-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | e     | NieMan001  |   |   |   |                  |             |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                | .           |   |   |   |   | lat |   |   |   |       88-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | sal(u)t(em)      | ſl̅t        |   |   |   |   | lat |   |   |   |       88-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | in               | ín          |   |   |   |   | lat |   |   |   |       88-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | d(omi)no         | dn̅o         |   |   |   |   | lat |   |   |   |       88-01 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                | .           |   |   |   |   | lat |   |   |   |       88-01 |          |          |  |    |    |    |    |
+| p   |       |   |   |   |   | .                | .           |   |   |   |   | lat |   |   |   |       88-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | sal(u)t(em)      | ſl̅t        |   |   |   |   | lat |   |   |   |       88-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | in               | ín          |   |   |   |   | lat |   |   |   |       88-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | d(omi)no         | dn̅o         |   |   |   |   | lat |   |   |   |       88-01 | 1:protocol |          |  |    |    |    |    |
+| p   |       |   |   |   |   | .                | .           |   |   |   |   | lat |   |   |   |       88-01 | 1:protocol |          |  |    |    |    |    |
 | d  | e     | 1  |   |   |   |                  |             |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | d  | b     | 2  |   | context  |   |                  |             |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Constare         | Conﬅre     |   |   |   |   | lat |   |   |   |       88-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | volum(us)        | ỽolumꝰ      |   |   |   |   | lat |   |   |   |       88-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | vniu(er)sis      | vnıu͛ſıſ     |   |   |   |   | lat |   |   |   |       88-01 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Constare         | Conﬅre     |   |   |   |   | lat |   |   |   |       88-01 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | volum(us)        | ỽolumꝰ      |   |   |   |   | lat |   |   |   |       88-01 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | vniu(er)sis      | vnıu͛ſıſ     |   |   |   |   | lat |   |   |   |       88-01 | 2:context |          |  |    |    |    |    |
 | lm  | 88-02 |   |   |   |   |                  |             |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | nos              | noſ         |   |   |   |   | lat |   |   |   |       88-02 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | /                | /           |   |   |   |   | lat |   |   |   |       88-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | religiosis       | relıgıoſıſ  |   |   |   |   | lat |   |   |   |       88-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | sororib(us)      | ſoꝛoꝛıbꝫ    |   |   |   |   | lat |   |   |   |       88-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | s(an)c(t)e       | ſce        |   |   |   |   | lat |   |   |   |       88-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Clare            | Clre       |   |   |   |   | lat |   |   |   |       88-02 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | nos              | noſ         |   |   |   |   | lat |   |   |   |       88-02 | 2:context |          |  |    |    |    |    |
+| p   |       |   |   |   |   | /                | /           |   |   |   |   | lat |   |   |   |       88-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | religiosis       | relıgıoſıſ  |   |   |   |   | lat |   |   |   |       88-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | sororib(us)      | ſoꝛoꝛıbꝫ    |   |   |   |   | lat |   |   |   |       88-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | s(an)c(t)e       | ſce        |   |   |   |   | lat |   |   |   |       88-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Clare            | Clre       |   |   |   |   | lat |   |   |   |       88-02 | 2:context |          |  |    |    |    |    |
 | PL  | b     |   |   |   |   |                  |             |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | roskildis        | roſkıldıſ   |   |   |   |   | lat |   |   |   |       88-02 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | roskildis        | roſkıldıſ   |   |   |   |   | lat |   |   |   |       88-02 | 2:context |          |  |    |    |    |    |
 | PL  | e     |   |   |   |   |                  |             |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | inclusis         | íncluſı    |   |   |   |   | lat |   |   |   |       88-02 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | /                | /           |   |   |   |   | lat |   |   |   |       88-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | vendidisse       | vendıdíſſe  |   |   |   |   | lat |   |   |   |       88-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | om(n)ia          | om̅ı        |   |   |   |   | lat |   |   |   |       88-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | bona             | bon        |   |   |   |   | lat |   |   |   |       88-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | n(ost)ra         | nr͛a         |   |   |   |   | lat |   |   |   |       88-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | mobilia          | obılı     |   |   |   |   | lat |   |   |   |       88-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | (et)             |            |   |   |   |   | lat |   |   |   |       88-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | in¦mobilia       | í¦mobılı  |   |   |   |   | lat |   |   |   | 88-02—88-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | in               | ín          |   |   |   |   | lat |   |   |   |       88-03 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | inclusis         | íncluſı    |   |   |   |   | lat |   |   |   |       88-02 | 2:context |          |  |    |    |    |    |
+| p   |       |   |   |   |   | /                | /           |   |   |   |   | lat |   |   |   |       88-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | vendidisse       | vendıdíſſe  |   |   |   |   | lat |   |   |   |       88-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | om(n)ia          | om̅ı        |   |   |   |   | lat |   |   |   |       88-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | bona             | bon        |   |   |   |   | lat |   |   |   |       88-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | n(ost)ra         | nr͛a         |   |   |   |   | lat |   |   |   |       88-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | mobilia          | obılı     |   |   |   |   | lat |   |   |   |       88-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | (et)             |            |   |   |   |   | lat |   |   |   |       88-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | in¦mobilia       | í¦mobılı  |   |   |   |   | lat |   |   |   | 88-02—88-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | in               | ín          |   |   |   |   | lat |   |   |   |       88-03 | 2:context |          |  |    |    |    |    |
 | PL  | b     |   |   |   |   |                  |             |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | kyndæsløf        | kyndæløf   |   |   |   |   | lat |   |   |   |       88-03 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | kyndæsløf        | kyndæløf   |   |   |   |   | lat |   |   |   |       88-03 | 2:context |          |  |    |    |    |    |
 | PL  | e     |   |   |   |   |                  |             |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | /                | /           |   |   |   |   | lat |   |   |   |       88-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | pro              | pro         |   |   |   |   | lat |   |   |   |       88-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | quib(us)         | quíbꝫ       |   |   |   |   | lat |   |   |   |       88-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | nob(is)          | nob        |   |   |   |   | lat |   |   |   |       88-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | totu(m)          | totu̅        |   |   |   |   | lat |   |   |   |       88-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | pretiu(m)        | pꝛetıu̅      |   |   |   |   | lat |   |   |   |       88-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | p(ro)missum      | ꝓmíſſu     |   |   |   |   | lat |   |   |   |       88-03 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | /                | /           |   |   |   |   | lat |   |   |   |       88-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | est              | eﬅ          |   |   |   |   | lat |   |   |   |       88-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | ad               | d          |   |   |   |   | lat |   |   |   |       88-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | n(ost)re         | nr͛e         |   |   |   |   | lat |   |   |   |       88-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | b(e)n(e)placita  | bn̅placıt   |   |   |   |   | lat |   |   |   |       88-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | voluntatis       | volunttı  |   |   |   |   | lat |   |   |   |       88-03 |          |          |  |    |    |    |    |
+| p   |       |   |   |   |   | /                | /           |   |   |   |   | lat |   |   |   |       88-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | pro              | pro         |   |   |   |   | lat |   |   |   |       88-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | quib(us)         | quíbꝫ       |   |   |   |   | lat |   |   |   |       88-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | nob(is)          | nob        |   |   |   |   | lat |   |   |   |       88-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | totu(m)          | totu̅        |   |   |   |   | lat |   |   |   |       88-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | pretiu(m)        | pꝛetıu̅      |   |   |   |   | lat |   |   |   |       88-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | p(ro)missum      | ꝓmíſſu     |   |   |   |   | lat |   |   |   |       88-03 | 2:context |          |  |    |    |    |    |
+| p   |       |   |   |   |   | /                | /           |   |   |   |   | lat |   |   |   |       88-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | est              | eﬅ          |   |   |   |   | lat |   |   |   |       88-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | ad               | d          |   |   |   |   | lat |   |   |   |       88-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | n(ost)re         | nr͛e         |   |   |   |   | lat |   |   |   |       88-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | b(e)n(e)placita  | bn̅placıt   |   |   |   |   | lat |   |   |   |       88-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | voluntatis       | volunttı  |   |   |   |   | lat |   |   |   |       88-03 | 2:context |          |  |    |    |    |    |
 | lm  | 88-04 |   |   |   |   |                  |             |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | jnteg(ra)lit(er) | ȷnteglıt͛   |   |   |   |   | lat |   |   |   |       88-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | p(er)solutum     | p̲ſolutu    |   |   |   |   | lat |   |   |   |       88-04 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | /                | /           |   |   |   |   | lat |   |   |   |       88-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | vnde             | vnde        |   |   |   |   | lat |   |   |   |       88-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | nos              | noſ         |   |   |   |   | lat |   |   |   |       88-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | s(u)bstituentes  | ſb̅ﬅıtuenteſ |   |   |   |   | lat |   |   |   |       88-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | latorem          | latoꝛe     |   |   |   |   | lat |   |   |   |       88-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | p(re)sen(cium)   | p̅ſen̅        |   |   |   |   | lat |   |   |   |       88-04 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | jnteg(ra)lit(er) | ȷnteglıt͛   |   |   |   |   | lat |   |   |   |       88-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | p(er)solutum     | p̲ſolutu    |   |   |   |   | lat |   |   |   |       88-04 | 2:context |          |  |    |    |    |    |
+| p   |       |   |   |   |   | /                | /           |   |   |   |   | lat |   |   |   |       88-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | vnde             | vnde        |   |   |   |   | lat |   |   |   |       88-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | nos              | noſ         |   |   |   |   | lat |   |   |   |       88-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | s(u)bstituentes  | ſb̅ﬅıtuenteſ |   |   |   |   | lat |   |   |   |       88-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | latorem          | latoꝛe     |   |   |   |   | lat |   |   |   |       88-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | p(re)sen(cium)   | p̅ſen̅        |   |   |   |   | lat |   |   |   |       88-04 | 2:context |          |  |    |    |    |    |
 | PE  | b     | NieMan001  |   |   |   |                  |             |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | nicholaum        | ıcholu   |   |   |   |   | lat |   |   |   |       88-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | mandorp          | ndoꝛp     |   |   |   |   | lat |   |   |   |       88-04 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | nicholaum        | ıcholu   |   |   |   |   | lat |   |   |   |       88-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | mandorp          | ndoꝛp     |   |   |   |   | lat |   |   |   |       88-04 | 2:context |          |  |    |    |    |    |
 | PE  | e     | NieMan001  |   |   |   |                  |             |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | ad               | d          |   |   |   |   | lat |   |   |   |       88-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | scotandum        | ſcotndu   |   |   |   |   | lat |   |   |   |       88-04 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | ad               | d          |   |   |   |   | lat |   |   |   |       88-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | scotandum        | ſcotndu   |   |   |   |   | lat |   |   |   |       88-04 | 2:context |          |  |    |    |    |    |
 | lm  | 88-05 |   |   |   |   |                  |             |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | d(i)c(t)is       | dc̅ıſ        |   |   |   |   | lat |   |   |   |       88-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | sororib(us)      | ſoꝛoꝛıbꝫ    |   |   |   |   | lat |   |   |   |       88-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | d(i)c(t)a        | dc̅a         |   |   |   |   | lat |   |   |   |       88-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | bona             | bon        |   |   |   |   | lat |   |   |   |       88-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | ex               | ex          |   |   |   |   | lat |   |   |   |       88-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | p(ar)te          | p̲te         |   |   |   |   | lat |   |   |   |       88-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | n(ost)ra         | nr͛a         |   |   |   |   | lat |   |   |   |       88-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | ratum            | ʀtum       |   |   |   |   | lat |   |   |   |       88-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | habem(us)        | habemꝰ      |   |   |   |   | lat |   |   |   |       88-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | (et)             |            |   |   |   |   | lat |   |   |   |       88-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | firmum           | fırmum      |   |   |   |   | lat |   |   |   |       88-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | quicq(ui)d       | quícq̅d      |   |   |   |   | lat |   |   |   |       88-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | idem             | ıdem        |   |   |   |   | lat |   |   |   |       88-05 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                | .           |   |   |   |   | lat |   |   |   |       88-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | N(icholaus)      | N           |   |   |   |   | lat |   |   |   |       88-05 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                | .           |   |   |   |   | lat |   |   |   |       88-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | ex               | ex          |   |   |   |   | lat |   |   |   |       88-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | p(ar)te          | p̲te         |   |   |   |   | lat |   |   |   |       88-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | n(ost)ra         | nr͛a         |   |   |   |   | lat |   |   |   |       88-05 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | d(i)c(t)is       | dc̅ıſ        |   |   |   |   | lat |   |   |   |       88-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | sororib(us)      | ſoꝛoꝛıbꝫ    |   |   |   |   | lat |   |   |   |       88-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | d(i)c(t)a        | dc̅a         |   |   |   |   | lat |   |   |   |       88-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | bona             | bon        |   |   |   |   | lat |   |   |   |       88-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | ex               | ex          |   |   |   |   | lat |   |   |   |       88-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | p(ar)te          | p̲te         |   |   |   |   | lat |   |   |   |       88-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | n(ost)ra         | nr͛a         |   |   |   |   | lat |   |   |   |       88-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | ratum            | ʀtum       |   |   |   |   | lat |   |   |   |       88-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | habem(us)        | habemꝰ      |   |   |   |   | lat |   |   |   |       88-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | (et)             |            |   |   |   |   | lat |   |   |   |       88-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | firmum           | fırmum      |   |   |   |   | lat |   |   |   |       88-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | quicq(ui)d       | quícq̅d      |   |   |   |   | lat |   |   |   |       88-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | idem             | ıdem        |   |   |   |   | lat |   |   |   |       88-05 | 2:context |          |  |    |    |    |    |
+| p   |       |   |   |   |   | .                | .           |   |   |   |   | lat |   |   |   |       88-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | N(icholaus)      | N           |   |   |   |   | lat |   |   |   |       88-05 | 2:context |          |  |    |    |    |    |
+| p   |       |   |   |   |   | .                | .           |   |   |   |   | lat |   |   |   |       88-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | ex               | ex          |   |   |   |   | lat |   |   |   |       88-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | p(ar)te          | p̲te         |   |   |   |   | lat |   |   |   |       88-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | n(ost)ra         | nr͛a         |   |   |   |   | lat |   |   |   |       88-05 | 2:context |          |  |    |    |    |    |
 | lm  | 88-06 |   |   |   |   |                  |             |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | sup(er)          | ſup̲         |   |   |   |   | lat |   |   |   |       88-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | scotac(i)o(n)e   | ſcotac̅oe    |   |   |   |   | lat |   |   |   |       88-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | eor(un)dem       | eoꝝde      |   |   |   |   | lat |   |   |   |       88-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | dux(er)it        | dux͛ıt       |   |   |   |   | lat |   |   |   |       88-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | ordinandum       | oꝛdínndu  |   |   |   |   | lat |   |   |   |       88-06 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                | .           |   |   |   |   | lat |   |   |   |       88-06 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | sup(er)          | ſup̲         |   |   |   |   | lat |   |   |   |       88-06 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | scotac(i)o(n)e   | ſcotac̅oe    |   |   |   |   | lat |   |   |   |       88-06 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | eor(un)dem       | eoꝝde      |   |   |   |   | lat |   |   |   |       88-06 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | dux(er)it        | dux͛ıt       |   |   |   |   | lat |   |   |   |       88-06 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | ordinandum       | oꝛdínndu  |   |   |   |   | lat |   |   |   |       88-06 | 2:context |          |  |    |    |    |    |
+| p   |       |   |   |   |   | .                | .           |   |   |   |   | lat |   |   |   |       88-06 | 2:context |          |  |    |    |    |    |
 | d  | e     | 2  |   |   |   |                  |             |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | d  | b     | 3  |   | eschatocol  |   |                  |             |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | In               | In          |   |   |   |   | lat |   |   |   |       88-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | cui(us)          | ᴄuıꝰ        |   |   |   |   | lat |   |   |   |       88-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | rei              | reí         |   |   |   |   | lat |   |   |   |       88-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | testimoniu(m)    | teﬅímonıu̅   |   |   |   |   | lat |   |   |   |       88-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | sigillum         | ſıgıllum    |   |   |   |   | lat |   |   |   |       88-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | n(ost)r(u)m      | nr̅m         |   |   |   |   | lat |   |   |   |       88-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | pre¦sentib(us)   | pꝛe¦ſentıbꝫ |   |   |   |   | lat |   |   |   | 88-06—88-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | litt(er)is       | lıtt͛ıſ      |   |   |   |   | lat |   |   |   |       88-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | est              | eﬅ          |   |   |   |   | lat |   |   |   |       88-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | appensum         | enſum     |   |   |   |   | lat |   |   |   |       88-07 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                | .           |   |   |   |   | lat |   |   |   |       88-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Dat(um)          | Dt̅         |   |   |   |   | lat |   |   |   |       88-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | anno             | nno        |   |   |   |   | lat |   |   |   |       88-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | d(omi)ni         | dn̅ı         |   |   |   |   | lat |   |   |   |       88-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | mill(esim)o      | mıll̅o       |   |   |   |   | lat |   |   |   |       88-07 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                | .           |   |   |   |   | lat |   |   |   |       88-07 |          |          |  |    |    |    |    |
-| n   |       |   |   |   |   | cᴄͦ               | ᴄᴄͦ          |   |   |   |   | lat |   |   |   |       88-07 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                | .           |   |   |   |   | lat |   |   |   |       88-07 |          |          |  |    |    |    |    |
-| n   |       |   |   |   |   | lxxͦ              | lxxͦ         |   |   |   |   | lat |   |   |   |       88-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | octauo           | ouo       |   |   |   |   | lat |   |   |   |       88-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | in               | ín          |   |   |   |   | lat |   |   |   |       88-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | festo            | feﬅo        |   |   |   |   | lat |   |   |   |       88-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | s(an)c(t)or(um)  | ſc̅oꝝ        |   |   |   |   | lat |   |   |   |       88-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | nerei            | nereí       |   |   |   |   | lat |   |   |   |       88-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | (et)             |            |   |   |   |   | lat |   |   |   |       88-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | achill(is)       | chıll̅      |   |   |   |   | lat |   |   |   |       88-07 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | In               | In          |   |   |   |   | lat |   |   |   |       88-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | cui(us)          | ᴄuıꝰ        |   |   |   |   | lat |   |   |   |       88-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | rei              | reí         |   |   |   |   | lat |   |   |   |       88-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | testimoniu(m)    | teﬅímonıu̅   |   |   |   |   | lat |   |   |   |       88-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | sigillum         | ſıgıllum    |   |   |   |   | lat |   |   |   |       88-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | n(ost)r(u)m      | nr̅m         |   |   |   |   | lat |   |   |   |       88-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | pre¦sentib(us)   | pꝛe¦ſentıbꝫ |   |   |   |   | lat |   |   |   | 88-06—88-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | litt(er)is       | lıtt͛ıſ      |   |   |   |   | lat |   |   |   |       88-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | est              | eﬅ          |   |   |   |   | lat |   |   |   |       88-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | appensum         | enſum     |   |   |   |   | lat |   |   |   |       88-07 | 3:eschatocol |          |  |    |    |    |    |
+| p   |       |   |   |   |   | .                | .           |   |   |   |   | lat |   |   |   |       88-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Dat(um)          | Dt̅         |   |   |   |   | lat |   |   |   |       88-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | anno             | nno        |   |   |   |   | lat |   |   |   |       88-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | d(omi)ni         | dn̅ı         |   |   |   |   | lat |   |   |   |       88-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | mill(esim)o      | mıll̅o       |   |   |   |   | lat |   |   |   |       88-07 | 3:eschatocol |          |  |    |    |    |    |
+| p   |       |   |   |   |   | .                | .           |   |   |   |   | lat |   |   |   |       88-07 | 3:eschatocol |          |  |    |    |    |    |
+| n   |       |   |   |   |   | cᴄͦ               | ᴄᴄͦ          |   |   |   |   | lat |   |   |   |       88-07 | 3:eschatocol |          |  |    |    |    |    |
+| p   |       |   |   |   |   | .                | .           |   |   |   |   | lat |   |   |   |       88-07 | 3:eschatocol |          |  |    |    |    |    |
+| n   |       |   |   |   |   | lxxͦ              | lxxͦ         |   |   |   |   | lat |   |   |   |       88-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | octauo           | ouo       |   |   |   |   | lat |   |   |   |       88-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | in               | ín          |   |   |   |   | lat |   |   |   |       88-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | festo            | feﬅo        |   |   |   |   | lat |   |   |   |       88-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | s(an)c(t)or(um)  | ſc̅oꝝ        |   |   |   |   | lat |   |   |   |       88-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | nerei            | nereí       |   |   |   |   | lat |   |   |   |       88-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | (et)             |            |   |   |   |   | lat |   |   |   |       88-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | achill(is)       | chıll̅      |   |   |   |   | lat |   |   |   |       88-07 | 3:eschatocol |          |  |    |    |    |    |
 | d  | e     | 3  |   |   |   |                  |             |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | :e: |       |   |   |   |   |                  |             |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |

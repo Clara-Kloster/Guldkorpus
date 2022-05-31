@@ -43,151 +43,151 @@
 | pm  | 1r     |   |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 175-01 |   |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | d  | b     | 1  |   | protocol  |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Omnib(us)              | Omnıbꝫ        |   |   |   |   | lat |   |   |   |        175-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | presentes              | pꝛeſentes     |   |   |   |   | lat |   |   |   |        175-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | l(itte)ras             | lr̅as          |   |   |   |   | lat |   |   |   |        175-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | inspecturis            | ínſpeurís    |   |   |   |   | lat |   |   |   |        175-01 |          |          |  |    |    |    |    |
-| p   |        |   |   |   |   | //                     | //            |   |   |   |   | lat |   |   |   |        175-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Frater                 | Frater        |   |   |   |   | lat |   |   |   |        175-01 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Omnib(us)              | Omnıbꝫ        |   |   |   |   | lat |   |   |   |        175-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | presentes              | pꝛeſentes     |   |   |   |   | lat |   |   |   |        175-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | l(itte)ras             | lr̅as          |   |   |   |   | lat |   |   |   |        175-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | inspecturis            | ínſpeurís    |   |   |   |   | lat |   |   |   |        175-01 | 1:protocol |          |  |    |    |    |    |
+| p   |        |   |   |   |   | //                     | //            |   |   |   |   | lat |   |   |   |        175-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Frater                 | Frater        |   |   |   |   | lat |   |   |   |        175-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | PedAbb001  |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Petrus                 | Petrus        |   |   |   |   | lat |   |   |   |        175-01 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Petrus                 | Petrus        |   |   |   |   | lat |   |   |   |        175-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | e      | PedAbb001  |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Abbas                  | bbas         |   |   |   |   | lat |   |   |   |        175-01 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Abbas                  | bbas         |   |   |   |   | lat |   |   |   |        175-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Rinstadien(sis)        | Rínﬅaꝺíen͛     |   |   |   |   | lat |   |   |   |        175-01 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Rinstadien(sis)        | Rínﬅaꝺíen͛     |   |   |   |   | lat |   |   |   |        175-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| p   |        |   |   |   |   | //                     | //            |   |   |   |   | lat |   |   |   |        175-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Totus q(ue)            | Totus qꝫ      |   |   |   |   | lat |   |   |   |        175-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Conuentus              | Conuentus     |   |   |   |   | lat |   |   |   |        175-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ibidem                 | íbíꝺe        |   |   |   |   | lat |   |   |   |        175-01 |          |          |  |    |    |    |    |
+| p   |        |   |   |   |   | //                     | //            |   |   |   |   | lat |   |   |   |        175-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Totus q(ue)            | Totus qꝫ      |   |   |   |   | lat |   |   |   |        175-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Conuentus              | Conuentus     |   |   |   |   | lat |   |   |   |        175-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ibidem                 | íbíꝺe        |   |   |   |   | lat |   |   |   |        175-01 | 1:protocol |          |  |    |    |    |    |
 | lm  | 175-02 |   |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Salutem                | Salute       |   |   |   |   | lat |   |   |   |        175-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | in                     | í            |   |   |   |   | lat |   |   |   |        175-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | d(omi)no               | ꝺn̅o           |   |   |   |   | lat |   |   |   |        175-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | sempit(er)nam          | ſempıt͛na     |   |   |   |   | lat |   |   |   |        175-02 |          |          |  |    |    |    |    |
-| p   |        |   |   |   |   | /                      | /             |   |   |   |   | lat |   |   |   |        175-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Constare               | Conﬅare       |   |   |   |   | lat |   |   |   |        175-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | volumus                | ỽolumus       |   |   |   |   | lat |   |   |   |        175-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Tam                    | Ta           |   |   |   |   | lat |   |   |   |        175-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | presentib(us)          | pꝛeſentıbꝫ    |   |   |   |   | lat |   |   |   |        175-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | q(uam)                 | ꝙ            |   |   |   |   | lat |   |   |   |        175-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | fut(ur)is              | futıs        |   |   |   |   | lat |   |   |   |        175-02 |          |          |  |    |    |    |    |
-| p   |        |   |   |   |   | /                      | /             |   |   |   |   | lat |   |   |   |        175-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | q(uod)                 | ꝙ             |   |   |   |   | lat |   |   |   |        175-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nos                    | nos           |   |   |   |   | lat |   |   |   |        175-02 |          |          |  |    |    |    |    |
-| p   |        |   |   |   |   | /                      | /             |   |   |   |   | lat |   |   |   |        175-02 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Salutem                | Salute       |   |   |   |   | lat |   |   |   |        175-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | in                     | í            |   |   |   |   | lat |   |   |   |        175-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | d(omi)no               | ꝺn̅o           |   |   |   |   | lat |   |   |   |        175-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | sempit(er)nam          | ſempıt͛na     |   |   |   |   | lat |   |   |   |        175-02 | 1:protocol |          |  |    |    |    |    |
+| p   |        |   |   |   |   | /                      | /             |   |   |   |   | lat |   |   |   |        175-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Constare               | Conﬅare       |   |   |   |   | lat |   |   |   |        175-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | volumus                | ỽolumus       |   |   |   |   | lat |   |   |   |        175-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Tam                    | Ta           |   |   |   |   | lat |   |   |   |        175-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | presentib(us)          | pꝛeſentıbꝫ    |   |   |   |   | lat |   |   |   |        175-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | q(uam)                 | ꝙ            |   |   |   |   | lat |   |   |   |        175-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | fut(ur)is              | futıs        |   |   |   |   | lat |   |   |   |        175-02 | 1:protocol |          |  |    |    |    |    |
+| p   |        |   |   |   |   | /                      | /             |   |   |   |   | lat |   |   |   |        175-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | q(uod)                 | ꝙ             |   |   |   |   | lat |   |   |   |        175-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nos                    | nos           |   |   |   |   | lat |   |   |   |        175-02 | 1:protocol |          |  |    |    |    |    |
+| p   |        |   |   |   |   | /                      | /             |   |   |   |   | lat |   |   |   |        175-02 | 1:protocol |          |  |    |    |    |    |
 | d  | e     | 1  |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | d  | b     | 2  |   | context  |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | exhibit(ri)cib(us)     | exhıbıtcíbꝫ  |   |   |   |   | lat |   |   |   |        175-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | presenciu(m)           | pꝛeſencıu̅     |   |   |   |   | lat |   |   |   |        175-02 |          |          |  |    |    |    |    |
-| p   |        |   |   |   |   | /                      | /             |   |   |   |   | lat |   |   |   |        175-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Religiosis             | Relígíoſís    |   |   |   |   | lat |   |   |   |        175-02 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | exhibit(ri)cib(us)     | exhıbıtcíbꝫ  |   |   |   |   | lat |   |   |   |        175-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | presenciu(m)           | pꝛeſencıu̅     |   |   |   |   | lat |   |   |   |        175-02 | 2:context |          |  |    |    |    |    |
+| p   |        |   |   |   |   | /                      | /             |   |   |   |   | lat |   |   |   |        175-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Religiosis             | Relígíoſís    |   |   |   |   | lat |   |   |   |        175-02 | 2:context |          |  |    |    |    |    |
 | lm  | 175-03 |   |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | D(omi)nab(us)          | Ꝺn̅abꝫ         |   |   |   |   | lat |   |   |   |        175-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | (et)                   |              |   |   |   |   | lat |   |   |   |        175-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | honestis               | honeﬅıs       |   |   |   |   | lat |   |   |   |        175-03 |          |          |  |    |    |    |    |
-| p   |        |   |   |   |   | /                      | /             |   |   |   |   | lat |   |   |   |        175-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | S(an)c(t)imonialib(us) | Sc̅ımoníalıbꝫ  |   |   |   |   | lat |   |   |   |        175-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | monasterij             | onaﬅerí     |   |   |   |   | lat |   |   |   |        175-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | S(an)c(t)e             | Sc̅e           |   |   |   |   | lat |   |   |   |        175-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Clare                  | Clare         |   |   |   |   | lat |   |   |   |        175-03 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | D(omi)nab(us)          | Ꝺn̅abꝫ         |   |   |   |   | lat |   |   |   |        175-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | (et)                   |              |   |   |   |   | lat |   |   |   |        175-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | honestis               | honeﬅıs       |   |   |   |   | lat |   |   |   |        175-03 | 2:context |          |  |    |    |    |    |
+| p   |        |   |   |   |   | /                      | /             |   |   |   |   | lat |   |   |   |        175-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | S(an)c(t)imonialib(us) | Sc̅ımoníalıbꝫ  |   |   |   |   | lat |   |   |   |        175-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | monasterij             | onaﬅerí     |   |   |   |   | lat |   |   |   |        175-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | S(an)c(t)e             | Sc̅e           |   |   |   |   | lat |   |   |   |        175-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Clare                  | Clare         |   |   |   |   | lat |   |   |   |        175-03 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Roskil(dis)            | Roſkíl       |   |   |   |   | lat |   |   |   |        175-03 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Roskil(dis)            | Roſkíl       |   |   |   |   | lat |   |   |   |        175-03 | 2:context |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| p   |        |   |   |   |   | /                      | /             |   |   |   |   | lat |   |   |   |        175-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Omnia                  | Omnía         |   |   |   |   | lat |   |   |   |        175-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | bona                   | bona          |   |   |   |   | lat |   |   |   |        175-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | mobilia                | mobılıa       |   |   |   |   | lat |   |   |   |        175-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | (et)                   |              |   |   |   |   | lat |   |   |   |        175-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | inmobilia              | ínmobılía     |   |   |   |   | lat |   |   |   |        175-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Cum                    | Cu           |   |   |   |   | lat |   |   |   |        175-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | om(n)ib(us)            | om̅ıbꝫ         |   |   |   |   | lat |   |   |   |        175-03 |          |          |  |    |    |    |    |
+| p   |        |   |   |   |   | /                      | /             |   |   |   |   | lat |   |   |   |        175-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Omnia                  | Omnía         |   |   |   |   | lat |   |   |   |        175-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | bona                   | bona          |   |   |   |   | lat |   |   |   |        175-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | mobilia                | mobılıa       |   |   |   |   | lat |   |   |   |        175-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | (et)                   |              |   |   |   |   | lat |   |   |   |        175-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | inmobilia              | ínmobılía     |   |   |   |   | lat |   |   |   |        175-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Cum                    | Cu           |   |   |   |   | lat |   |   |   |        175-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | om(n)ib(us)            | om̅ıbꝫ         |   |   |   |   | lat |   |   |   |        175-03 | 2:context |          |  |    |    |    |    |
 | lm  | 175-04 |   |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | p(er)tinenciis         | p̲tínencíís    |   |   |   |   | lat |   |   |   |        175-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | suis                   | ſuís          |   |   |   |   | lat |   |   |   |        175-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | in                     | í            |   |   |   |   | lat |   |   |   |        175-04 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | p(er)tinenciis         | p̲tínencíís    |   |   |   |   | lat |   |   |   |        175-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | suis                   | ſuís          |   |   |   |   | lat |   |   |   |        175-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | in                     | í            |   |   |   |   | lat |   |   |   |        175-04 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | møøn                   | øøn          |   |   |   |   | lat |   |   |   |        175-04 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | møøn                   | øøn          |   |   |   |   | lat |   |   |   |        175-04 | 2:context |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | in                     | ı            |   |   |   |   | lat |   |   |   |        175-04 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | in                     | ı            |   |   |   |   | lat |   |   |   |        175-04 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Tubølæ                 | Tubølæ        |   |   |   |   | lat |   |   |   |        175-04 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Tubølæ                 | Tubølæ        |   |   |   |   | lat |   |   |   |        175-04 | 2:context |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | (et)                   |              |   |   |   |   | lat |   |   |   |        175-04 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | (et)                   |              |   |   |   |   | lat |   |   |   |        175-04 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | bukxæmark              | bukxæmark     |   |   |   |   | lat |   |   |   |        175-04 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | bukxæmark              | bukxæmark     |   |   |   |   | lat |   |   |   |        175-04 | 2:context |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | sita                   | ſíta          |   |   |   |   | lat |   |   |   |        175-04 |          |          |  |    |    |    |    |
-| p   |        |   |   |   |   | /                      | /             |   |   |   |   | lat |   |   |   |        175-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | que                    | que           |   |   |   |   | lat |   |   |   |        175-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | bona                   | bona          |   |   |   |   | lat |   |   |   |        175-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | a                      |              |   |   |   |   | lat |   |   |   |        175-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | viro                   | ỽıro          |   |   |   |   | lat |   |   |   |        175-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | discreto               | ꝺıſcreto      |   |   |   |   | lat |   |   |   |        175-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | (et)                   |              |   |   |   |   | lat |   |   |   |        175-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | honesto                | honeﬅo        |   |   |   |   | lat |   |   |   |        175-04 |          |          |  |    |    |    |    |
-| p   |        |   |   |   |   | .                      | .             |   |   |   |   | lat |   |   |   |        175-04 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | sita                   | ſíta          |   |   |   |   | lat |   |   |   |        175-04 | 2:context |          |  |    |    |    |    |
+| p   |        |   |   |   |   | /                      | /             |   |   |   |   | lat |   |   |   |        175-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | que                    | que           |   |   |   |   | lat |   |   |   |        175-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | bona                   | bona          |   |   |   |   | lat |   |   |   |        175-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | a                      |              |   |   |   |   | lat |   |   |   |        175-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | viro                   | ỽıro          |   |   |   |   | lat |   |   |   |        175-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | discreto               | ꝺıſcreto      |   |   |   |   | lat |   |   |   |        175-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | (et)                   |              |   |   |   |   | lat |   |   |   |        175-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | honesto                | honeﬅo        |   |   |   |   | lat |   |   |   |        175-04 | 2:context |          |  |    |    |    |    |
+| p   |        |   |   |   |   | .                      | .             |   |   |   |   | lat |   |   |   |        175-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AndDav001  |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Andrea                 | nꝺꝛea        |   |   |   |   | lat |   |   |   |        175-04 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Andrea                 | nꝺꝛea        |   |   |   |   | lat |   |   |   |        175-04 | 2:context |          |  |    |    |    |    |
 | lm  | 175-05 |   |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | dauid                  | ꝺauıꝺ         |   |   |   |   | lat |   |   |   |        175-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | s(un)                  |              |   |   |   |   | lat |   |   |   |        175-05 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | dauid                  | ꝺauıꝺ         |   |   |   |   | lat |   |   |   |        175-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | s(un)                  |              |   |   |   |   | lat |   |   |   |        175-05 | 2:context |          |  |    |    |    |    |
 | PE  | e      | AndDav001  |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| p   |        |   |   |   |   | //                     | //            |   |   |   |   | lat |   |   |   |        175-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | iusto                  | ıuﬅo          |   |   |   |   | lat |   |   |   |        175-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Titulo                 | Tıtulo        |   |   |   |   | lat |   |   |   |        175-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | (et)                   |              |   |   |   |   | lat |   |   |   |        175-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | p(er)petua             | ̲etua         |   |   |   |   | lat |   |   |   |        175-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | scotac(i)one           | ſcotac̅one     |   |   |   |   | lat |   |   |   |        175-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | habuimus               | habuímus      |   |   |   |   | lat |   |   |   |        175-05 |          |          |  |    |    |    |    |
-| p   |        |   |   |   |   | /                      | /             |   |   |   |   | lat |   |   |   |        175-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | libere                 | lıbere        |   |   |   |   | lat |   |   |   |        175-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | dimittim(us)           | ꝺímííꝰ      |   |   |   |   | lat |   |   |   |        175-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ab                     | b            |   |   |   |   | lat |   |   |   |        175-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | omnj                   | omn          |   |   |   |   | lat |   |   |   |        175-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | inpetic(i)one          | ínpetíc̅one    |   |   |   |   | lat |   |   |   |        175-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | n(ost)ra               | nr̅a           |   |   |   |   | lat |   |   |   |        175-05 |          |          |  |    |    |    |    |
-| p   |        |   |   |   |   | /                      | /             |   |   |   |   | lat |   |   |   |        175-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | n(ost)ror(um)¦q(ue)    | nr̅oꝝ¦qꝫ       |   |   |   |   | lat |   |   |   | 175-05—175-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | successor(um)          | ſucceſſoꝝ     |   |   |   |   | lat |   |   |   |        175-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | jure                   | ure          |   |   |   |   | lat |   |   |   |        175-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | p(er)petuo             | ̲etuo         |   |   |   |   | lat |   |   |   |        175-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | possidenda             | poſſíꝺenꝺa    |   |   |   |   | lat |   |   |   |        175-06 |          |          |  |    |    |    |    |
+| p   |        |   |   |   |   | //                     | //            |   |   |   |   | lat |   |   |   |        175-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | iusto                  | ıuﬅo          |   |   |   |   | lat |   |   |   |        175-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Titulo                 | Tıtulo        |   |   |   |   | lat |   |   |   |        175-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | (et)                   |              |   |   |   |   | lat |   |   |   |        175-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | p(er)petua             | ̲etua         |   |   |   |   | lat |   |   |   |        175-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | scotac(i)one           | ſcotac̅one     |   |   |   |   | lat |   |   |   |        175-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | habuimus               | habuímus      |   |   |   |   | lat |   |   |   |        175-05 | 2:context |          |  |    |    |    |    |
+| p   |        |   |   |   |   | /                      | /             |   |   |   |   | lat |   |   |   |        175-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | libere                 | lıbere        |   |   |   |   | lat |   |   |   |        175-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | dimittim(us)           | ꝺímííꝰ      |   |   |   |   | lat |   |   |   |        175-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ab                     | b            |   |   |   |   | lat |   |   |   |        175-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | omnj                   | omn          |   |   |   |   | lat |   |   |   |        175-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | inpetic(i)one          | ínpetíc̅one    |   |   |   |   | lat |   |   |   |        175-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | n(ost)ra               | nr̅a           |   |   |   |   | lat |   |   |   |        175-05 | 2:context |          |  |    |    |    |    |
+| p   |        |   |   |   |   | /                      | /             |   |   |   |   | lat |   |   |   |        175-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | n(ost)ror(um)¦q(ue)    | nr̅oꝝ¦qꝫ       |   |   |   |   | lat |   |   |   | 175-05—175-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | successor(um)          | ſucceſſoꝝ     |   |   |   |   | lat |   |   |   |        175-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | jure                   | ure          |   |   |   |   | lat |   |   |   |        175-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | p(er)petuo             | ̲etuo         |   |   |   |   | lat |   |   |   |        175-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | possidenda             | poſſíꝺenꝺa    |   |   |   |   | lat |   |   |   |        175-06 | 2:context |          |  |    |    |    |    |
 | d  | e     | 2  |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | d  | b     | 3  |   | eschatocol  |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Jn                     | Jn            |   |   |   |   | lat |   |   |   |        175-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Cui(us)                | Cuí᷒           |   |   |   |   | lat |   |   |   |        175-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Rej                    | Re           |   |   |   |   | lat |   |   |   |        175-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Testimoniu(m)          | Teﬅímoníu̅     |   |   |   |   | lat |   |   |   |        175-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | sigilla                | ſígílla       |   |   |   |   | lat |   |   |   |        175-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | n(ost)ra               | nr̅a           |   |   |   |   | lat |   |   |   |        175-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | presentib(us)          | pꝛeſentıbꝫ    |   |   |   |   | lat |   |   |   |        175-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | li(tte)ris             | lír̅ıs         |   |   |   |   | lat |   |   |   |        175-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | duximus                | ꝺuxímus       |   |   |   |   | lat |   |   |   |        175-06 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Jn                     | Jn            |   |   |   |   | lat |   |   |   |        175-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Cui(us)                | Cuí᷒           |   |   |   |   | lat |   |   |   |        175-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Rej                    | Re           |   |   |   |   | lat |   |   |   |        175-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Testimoniu(m)          | Teﬅímoníu̅     |   |   |   |   | lat |   |   |   |        175-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | sigilla                | ſígílla       |   |   |   |   | lat |   |   |   |        175-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | n(ost)ra               | nr̅a           |   |   |   |   | lat |   |   |   |        175-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | presentib(us)          | pꝛeſentıbꝫ    |   |   |   |   | lat |   |   |   |        175-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | li(tte)ris             | lír̅ıs         |   |   |   |   | lat |   |   |   |        175-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | duximus                | ꝺuxímus       |   |   |   |   | lat |   |   |   |        175-06 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 175-07 |   |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | apponenda              | onenꝺa      |   |   |   |   | lat |   |   |   |        175-07 |          |          |  |    |    |    |    |
-| p   |        |   |   |   |   | /                      | /             |   |   |   |   | lat |   |   |   |        175-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Datu(m)                | Datu̅          |   |   |   |   | lat |   |   |   |        175-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | (et)                   |              |   |   |   |   | lat |   |   |   |        175-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | actu(m)                | Au̅           |   |   |   |   | lat |   |   |   |        175-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | anno                   | nno          |   |   |   |   | lat |   |   |   |        175-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | d(omi)nice             | ꝺn̅ıce         |   |   |   |   | lat |   |   |   |        175-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | incarnac(i)onis        | íncarnac̅onıs  |   |   |   |   | lat |   |   |   |        175-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | millesimo              | ılleſímo     |   |   |   |   | lat |   |   |   |        175-07 |          |          |  |    |    |    |    |
-| p   |        |   |   |   |   | //                     | //            |   |   |   |   | lat |   |   |   |        175-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Trecentesimo           | Trecenteſímo  |   |   |   |   | lat |   |   |   |        175-07 |          |          |  |    |    |    |    |
-| p   |        |   |   |   |   | .                      | .             |   |   |   |   | lat |   |   |   |        175-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Decimo                 | Ꝺecímo        |   |   |   |   | lat |   |   |   |        175-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Octauo                 | Oauo         |   |   |   |   | lat |   |   |   |        175-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | in                     | í            |   |   |   |   | lat |   |   |   |        175-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | die                    | ꝺíe           |   |   |   |   | lat |   |   |   |        175-07 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | apponenda              | onenꝺa      |   |   |   |   | lat |   |   |   |        175-07 | 3:eschatocol |          |  |    |    |    |    |
+| p   |        |   |   |   |   | /                      | /             |   |   |   |   | lat |   |   |   |        175-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Datu(m)                | Datu̅          |   |   |   |   | lat |   |   |   |        175-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | (et)                   |              |   |   |   |   | lat |   |   |   |        175-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | actu(m)                | Au̅           |   |   |   |   | lat |   |   |   |        175-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | anno                   | nno          |   |   |   |   | lat |   |   |   |        175-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | d(omi)nice             | ꝺn̅ıce         |   |   |   |   | lat |   |   |   |        175-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | incarnac(i)onis        | íncarnac̅onıs  |   |   |   |   | lat |   |   |   |        175-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | millesimo              | ılleſímo     |   |   |   |   | lat |   |   |   |        175-07 | 3:eschatocol |          |  |    |    |    |    |
+| p   |        |   |   |   |   | //                     | //            |   |   |   |   | lat |   |   |   |        175-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Trecentesimo           | Trecenteſímo  |   |   |   |   | lat |   |   |   |        175-07 | 3:eschatocol |          |  |    |    |    |    |
+| p   |        |   |   |   |   | .                      | .             |   |   |   |   | lat |   |   |   |        175-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Decimo                 | Ꝺecímo        |   |   |   |   | lat |   |   |   |        175-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Octauo                 | Oauo         |   |   |   |   | lat |   |   |   |        175-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | in                     | í            |   |   |   |   | lat |   |   |   |        175-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | die                    | ꝺíe           |   |   |   |   | lat |   |   |   |        175-07 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 175-08 |   |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Purificac(i)onis       | Purıfıcac̅onís |   |   |   |   | lat |   |   |   |        175-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | beate                  | beate         |   |   |   |   | lat |   |   |   |        175-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | marie                  | aríe         |   |   |   |   | lat |   |   |   |        175-08 |          |          |  |    |    |    |    |
-| p   |        |   |   |   |   | /                      | /             |   |   |   |   | lat |   |   |   |        175-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | virginis               | ỽırgínıs      |   |   |   |   | lat |   |   |   |        175-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | gloriose               | gloꝛıoſe      |   |   |   |   | lat |   |   |   |        175-08 |          |          |  |    |    |    |    |
-| p   |        |   |   |   |   | /                      | /             |   |   |   |   | lat |   |   |   |        175-08 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Purificac(i)onis       | Purıfıcac̅onís |   |   |   |   | lat |   |   |   |        175-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | beate                  | beate         |   |   |   |   | lat |   |   |   |        175-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | marie                  | aríe         |   |   |   |   | lat |   |   |   |        175-08 | 3:eschatocol |          |  |    |    |    |    |
+| p   |        |   |   |   |   | /                      | /             |   |   |   |   | lat |   |   |   |        175-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | virginis               | ỽırgínıs      |   |   |   |   | lat |   |   |   |        175-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | gloriose               | gloꝛıoſe      |   |   |   |   | lat |   |   |   |        175-08 | 3:eschatocol |          |  |    |    |    |    |
+| p   |        |   |   |   |   | /                      | /             |   |   |   |   | lat |   |   |   |        175-08 | 3:eschatocol |          |  |    |    |    |    |
 | d  | e     | 3  |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | :e: |        |   |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |

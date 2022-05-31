@@ -43,186 +43,186 @@
 | pm  | 1r    |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | lm  | 93-01 |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | d  | b     | 1  |   | protocol  |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Omnib(us)            | Omníbꝰ     |   |   |   |   | lat |   |   |   |       93-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | p(re)sens            | p͛ſens      |   |   |   |   | lat |   |   |   |       93-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | sc(ri)ptu(m)         | ſcptu̅     |   |   |   |   | lat |   |   |   |       93-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | c(er)nentib(us)      | c͛nentıbꝰ   |   |   |   |   | lat |   |   |   |       93-01 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                    | .          |   |   |   |   | lat |   |   |   |       93-01 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Omnib(us)            | Omníbꝰ     |   |   |   |   | lat |   |   |   |       93-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | p(re)sens            | p͛ſens      |   |   |   |   | lat |   |   |   |       93-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | sc(ri)ptu(m)         | ſcptu̅     |   |   |   |   | lat |   |   |   |       93-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | c(er)nentib(us)      | c͛nentıbꝰ   |   |   |   |   | lat |   |   |   |       93-01 | 1:protocol |          |  |    |    |    |    |
+| p   |       |   |   |   |   | .                    | .          |   |   |   |   | lat |   |   |   |       93-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b     |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | petrus               | petruſ     |   |   |   |   | lat |   |   |   |       93-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | gyurt sun            | gyurt u  |   |   |   |   | lat |   |   |   |       93-01 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | petrus               | petruſ     |   |   |   |   | lat |   |   |   |       93-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | gyurt sun            | gyurt u  |   |   |   |   | lat |   |   |   |       93-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | e     |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                    | .          |   |   |   |   | lat |   |   |   |       93-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | jn                   | ȷ         |   |   |   |   | lat |   |   |   |       93-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | d(omi)no             | dn̅o        |   |   |   |   | lat |   |   |   |       93-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | sal(ute)m            | al̅       |   |   |   |   | lat |   |   |   |       93-01 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                    | .          |   |   |   |   | lat |   |   |   |       93-01 |          |          |  |    |    |    |    |
+| p   |       |   |   |   |   | .                    | .          |   |   |   |   | lat |   |   |   |       93-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | jn                   | ȷ         |   |   |   |   | lat |   |   |   |       93-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | d(omi)no             | dn̅o        |   |   |   |   | lat |   |   |   |       93-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | sal(ute)m            | al̅       |   |   |   |   | lat |   |   |   |       93-01 | 1:protocol |          |  |    |    |    |    |
+| p   |       |   |   |   |   | .                    | .          |   |   |   |   | lat |   |   |   |       93-01 | 1:protocol |          |  |    |    |    |    |
 | d  | e     | 1  |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | d  | b     | 2  |   | context  |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Que                  | Que        |   |   |   |   | lat |   |   |   |       93-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | gerunt(ur)           | gerunt᷑     |   |   |   |   | lat |   |   |   |       93-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | jn                   | ȷn         |   |   |   |   | lat |   |   |   |       93-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | temp(or)e            | temp̲e      |   |   |   |   | lat |   |   |   |       93-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | ne                   | ne         |   |   |   |   | lat |   |   |   |       93-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | temp(or)e            | temp̲e      |   |   |   |   | lat |   |   |   |       93-01 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | elapso               | elapſo     |   |   |   |   | lat |   |   |   |       93-01 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Que                  | Que        |   |   |   |   | lat |   |   |   |       93-01 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | gerunt(ur)           | gerunt᷑     |   |   |   |   | lat |   |   |   |       93-01 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | jn                   | ȷn         |   |   |   |   | lat |   |   |   |       93-01 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | temp(or)e            | temp̲e      |   |   |   |   | lat |   |   |   |       93-01 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | ne                   | ne         |   |   |   |   | lat |   |   |   |       93-01 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | temp(or)e            | temp̲e      |   |   |   |   | lat |   |   |   |       93-01 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | elapso               | elapſo     |   |   |   |   | lat |   |   |   |       93-01 | 2:context |          |  |    |    |    |    |
 | lm  | 93-02 |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | jrritent(ur)         | ȷrrıtent᷑   |   |   |   |   | lat |   |   |   |       93-02 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | /                    | /          |   |   |   |   | lat |   |   |   |       93-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | bonor(um)            | bonoꝝ      |   |   |   |   | lat |   |   |   |       93-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | ho(min)im            | ho̅ím       |   |   |   |   | lat |   |   |   |       93-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | ac                   | ac         |   |   |   |   | lat |   |   |   |       93-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | litt(er)ar(um)       | lıtt͛aꝝ     |   |   |   |   | lat |   |   |   |       93-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | testimonio           | teﬅímonío  |   |   |   |   | lat |   |   |   |       93-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | solent               | ſolent     |   |   |   |   | lat |   |   |   |       93-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | (con)firmarj         | ꝯfırmarȷ   |   |   |   |   | lat |   |   |   |       93-02 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                    | .          |   |   |   |   | lat |   |   |   |       93-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Notu(m)              | Notu̅       |   |   |   |   | lat |   |   |   |       93-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | sit                  | ſıt        |   |   |   |   | lat |   |   |   |       93-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | (i)g(itur)           | g         |   |   |   |   | lat |   |   |   |       93-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | tam                  | tam        |   |   |   |   | lat |   |   |   |       93-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | p(re)sentib(us)      | p͛ſentıbꝰ   |   |   |   |   | lat |   |   |   |       93-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | quam                 | qua       |   |   |   |   | lat |   |   |   |       93-02 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | post(er)is           | poﬅ͛ıſ      |   |   |   |   | lat |   |   |   |       93-02 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | jrritent(ur)         | ȷrrıtent᷑   |   |   |   |   | lat |   |   |   |       93-02 | 2:context |          |  |    |    |    |    |
+| p   |       |   |   |   |   | /                    | /          |   |   |   |   | lat |   |   |   |       93-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | bonor(um)            | bonoꝝ      |   |   |   |   | lat |   |   |   |       93-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | ho(min)im            | ho̅ím       |   |   |   |   | lat |   |   |   |       93-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | ac                   | ac         |   |   |   |   | lat |   |   |   |       93-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | litt(er)ar(um)       | lıtt͛aꝝ     |   |   |   |   | lat |   |   |   |       93-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | testimonio           | teﬅímonío  |   |   |   |   | lat |   |   |   |       93-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | solent               | ſolent     |   |   |   |   | lat |   |   |   |       93-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | (con)firmarj         | ꝯfırmarȷ   |   |   |   |   | lat |   |   |   |       93-02 | 2:context |          |  |    |    |    |    |
+| p   |       |   |   |   |   | .                    | .          |   |   |   |   | lat |   |   |   |       93-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Notu(m)              | Notu̅       |   |   |   |   | lat |   |   |   |       93-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | sit                  | ſıt        |   |   |   |   | lat |   |   |   |       93-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | (i)g(itur)           | g         |   |   |   |   | lat |   |   |   |       93-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | tam                  | tam        |   |   |   |   | lat |   |   |   |       93-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | p(re)sentib(us)      | p͛ſentıbꝰ   |   |   |   |   | lat |   |   |   |       93-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | quam                 | qua       |   |   |   |   | lat |   |   |   |       93-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | post(er)is           | poﬅ͛ıſ      |   |   |   |   | lat |   |   |   |       93-02 | 2:context |          |  |    |    |    |    |
 | lm  | 93-03 |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | me                   | me         |   |   |   |   | lat |   |   |   |       93-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | sororib(us)          | ſoꝛoꝛıbꝰ   |   |   |   |   | lat |   |   |   |       93-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | s(an)c(t)e           | sc̅e        |   |   |   |   | lat |   |   |   |       93-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | clare                | clare      |   |   |   |   | lat |   |   |   |       93-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | roskildis            | roſkıldıſ  |   |   |   |   | lat |   |   |   |       93-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | dimidia(m)           | dímídıa̅    |   |   |   |   | lat |   |   |   |       93-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | marca(m)             | marca̅      |   |   |   |   | lat |   |   |   |       93-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | jn                   | ȷn         |   |   |   |   | lat |   |   |   |       93-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | censu                | cenſu      |   |   |   |   | lat |   |   |   |       93-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | t(er)re              | t͛re        |   |   |   |   | lat |   |   |   |       93-03 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | /                    | /          |   |   |   |   | lat |   |   |   |       93-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | jn                   | ȷn         |   |   |   |   | lat |   |   |   |       93-03 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | me                   | me         |   |   |   |   | lat |   |   |   |       93-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | sororib(us)          | ſoꝛoꝛıbꝰ   |   |   |   |   | lat |   |   |   |       93-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | s(an)c(t)e           | sc̅e        |   |   |   |   | lat |   |   |   |       93-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | clare                | clare      |   |   |   |   | lat |   |   |   |       93-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | roskildis            | roſkıldıſ  |   |   |   |   | lat |   |   |   |       93-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | dimidia(m)           | dímídıa̅    |   |   |   |   | lat |   |   |   |       93-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | marca(m)             | marca̅      |   |   |   |   | lat |   |   |   |       93-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | jn                   | ȷn         |   |   |   |   | lat |   |   |   |       93-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | censu                | cenſu      |   |   |   |   | lat |   |   |   |       93-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | t(er)re              | t͛re        |   |   |   |   | lat |   |   |   |       93-03 | 2:context |          |  |    |    |    |    |
+| p   |       |   |   |   |   | /                    | /          |   |   |   |   | lat |   |   |   |       93-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | jn                   | ȷn         |   |   |   |   | lat |   |   |   |       93-03 | 2:context |          |  |    |    |    |    |
 | PL  | b     |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | høutby               | høutby     |   |   |   |   | lat |   |   |   |       93-03 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | høutby               | høutby     |   |   |   |   | lat |   |   |   |       93-03 | 2:context |          |  |    |    |    |    |
 | PL  | e     |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | /                    | /          |   |   |   |   | lat |   |   |   |       93-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | jn                   | ȷn         |   |   |   |   | lat |   |   |   |       93-03 |          |          |  |    |    |    |    |
+| p   |       |   |   |   |   | /                    | /          |   |   |   |   | lat |   |   |   |       93-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | jn                   | ȷn         |   |   |   |   | lat |   |   |   |       93-03 | 2:context |          |  |    |    |    |    |
 | PL  | b     |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | fins                 | fınſ       |   |   |   |   | lat |   |   |   |       93-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | bool                 | bool       |   |   |   |   | lat |   |   |   |       93-03 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | fins                 | fınſ       |   |   |   |   | lat |   |   |   |       93-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | bool                 | bool       |   |   |   |   | lat |   |   |   |       93-03 | 2:context |          |  |    |    |    |    |
 | PL  | e     |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | cu(m)                | cu̅         |   |   |   |   | lat |   |   |   |       93-03 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | sorore               | soꝛoꝛe     |   |   |   |   | lat |   |   |   |       93-03 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | cu(m)                | cu̅         |   |   |   |   | lat |   |   |   |       93-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | sorore               | soꝛoꝛe     |   |   |   |   | lat |   |   |   |       93-03 | 2:context |          |  |    |    |    |    |
 | lm  | 93-04 |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | m(at)ris             | mrıſ      |   |   |   |   | lat |   |   |   |       93-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | mee                  | mee        |   |   |   |   | lat |   |   |   |       93-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | jn                   | ȷn         |   |   |   |   | lat |   |   |   |       93-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | placito              | placıto    |   |   |   |   | lat |   |   |   |       93-04 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | m(at)ris             | mrıſ      |   |   |   |   | lat |   |   |   |       93-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | mee                  | mee        |   |   |   |   | lat |   |   |   |       93-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | jn                   | ȷn         |   |   |   |   | lat |   |   |   |       93-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | placito              | placıto    |   |   |   |   | lat |   |   |   |       93-04 | 2:context |          |  |    |    |    |    |
 | PL  | b     |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | ramsio               | ramſıo     |   |   |   |   | lat |   |   |   |       93-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | hæræt                | hæræt      |   |   |   |   | lat |   |   |   |       93-04 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | ramsio               | ramſıo     |   |   |   |   | lat |   |   |   |       93-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | hæræt                | hæræt      |   |   |   |   | lat |   |   |   |       93-04 | 2:context |          |  |    |    |    |    |
 | PL  | e     |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | (et)                 |           |   |   |   |   | lat |   |   |   |       93-04 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | (et)                 |           |   |   |   |   | lat |   |   |   |       93-04 | 2:context |          |  |    |    |    |    |
 | PL  | b     |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | faxæ                 | faxæ       |   |   |   |   | lat |   |   |   |       93-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | hæret                | hæret      |   |   |   |   | lat |   |   |   |       93-04 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | faxæ                 | faxæ       |   |   |   |   | lat |   |   |   |       93-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | hæret                | hæret      |   |   |   |   | lat |   |   |   |       93-04 | 2:context |          |  |    |    |    |    |
 | PL  | e     |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | rite                 | rıte       |   |   |   |   | lat |   |   |   |       93-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | ac                   | ac         |   |   |   |   | lat |   |   |   |       93-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | legittime            | legıttıme  |   |   |   |   | lat |   |   |   |       93-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | scotasse             | ſcotaſſe   |   |   |   |   | dan |   |   |   |       93-04 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | /                    | /          |   |   |   |   | lat |   |   |   |       93-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | (et)                 | ⁊          |   |   |   |   | lat |   |   |   |       93-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | me                   | me         |   |   |   |   | lat |   |   |   |       93-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | ab                   | ab         |   |   |   |   | lat |   |   |   |       93-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | ea                   | ea         |   |   |   |   | lat |   |   |   |       93-04 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | p(ro)                | ꝓ          |   |   |   |   | lat |   |   |   |       93-04 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | rite                 | rıte       |   |   |   |   | lat |   |   |   |       93-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | ac                   | ac         |   |   |   |   | lat |   |   |   |       93-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | legittime            | legıttıme  |   |   |   |   | lat |   |   |   |       93-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | scotasse             | ſcotaſſe   |   |   |   |   | dan |   |   |   |       93-04 | 2:context |          |  |    |    |    |    |
+| p   |       |   |   |   |   | /                    | /          |   |   |   |   | lat |   |   |   |       93-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | (et)                 | ⁊          |   |   |   |   | lat |   |   |   |       93-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | me                   | me         |   |   |   |   | lat |   |   |   |       93-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | ab                   | ab         |   |   |   |   | lat |   |   |   |       93-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | ea                   | ea         |   |   |   |   | lat |   |   |   |       93-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | p(ro)                | ꝓ          |   |   |   |   | lat |   |   |   |       93-04 | 2:context |          |  |    |    |    |    |
 | lm  | 93-05 |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | d(i)c(t)a            | dc̅a        |   |   |   |   | lat |   |   |   |       93-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | t(er)ra              | t͛ra        |   |   |   |   | lat |   |   |   |       93-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | jn                   | ȷn         |   |   |   |   | lat |   |   |   |       93-05 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | d(i)c(t)a            | dc̅a        |   |   |   |   | lat |   |   |   |       93-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | t(er)ra              | t͛ra        |   |   |   |   | lat |   |   |   |       93-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | jn                   | ȷn         |   |   |   |   | lat |   |   |   |       93-05 | 2:context |          |  |    |    |    |    |
 | PL  | b     |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | spialthorp           | ſpıalthoꝛp |   |   |   |   | lat |   |   |   |       93-05 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | spialthorp           | ſpıalthoꝛp |   |   |   |   | lat |   |   |   |       93-05 | 2:context |          |  |    |    |    |    |
 | PL  | e     |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | plena(m)             | plena̅      |   |   |   |   | lat |   |   |   |       93-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | recepisse            | recepıſſe  |   |   |   |   | lat |   |   |   |       93-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | (con)pensac(i)o(n)em | ꝯpenſac̅oe |   |   |   |   | lat |   |   |   |       93-05 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                    | .          |   |   |   |   | lat |   |   |   |       93-05 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | plena(m)             | plena̅      |   |   |   |   | lat |   |   |   |       93-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | recepisse            | recepıſſe  |   |   |   |   | lat |   |   |   |       93-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | (con)pensac(i)o(n)em | ꝯpenſac̅oe |   |   |   |   | lat |   |   |   |       93-05 | 2:context |          |  |    |    |    |    |
+| p   |       |   |   |   |   | .                    | .          |   |   |   |   | lat |   |   |   |       93-05 | 2:context |          |  |    |    |    |    |
 | d  | e     | 2  |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | d  | b     | 3  |   | eschatocol  |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | ne                   | e         |   |   |   |   | lat |   |   |   |       93-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | (i)g(itur)           | g         |   |   |   |   | lat |   |   |   |       93-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | dictis               | dııſ      |   |   |   |   | lat |   |   |   |       93-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | sororib(us)          | soꝛoꝛıbꝰ   |   |   |   |   | lat |   |   |   |       93-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | ab                   | ab         |   |   |   |   | lat |   |   |   |       93-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | h(er)edib(us)        | h͛edıbꝰ     |   |   |   |   | lat |   |   |   |       93-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | meis                 | meıſ       |   |   |   |   | lat |   |   |   |       93-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | v(e)l                | vl̅         |   |   |   |   | lat |   |   |   |       93-05 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | ab                   | ab         |   |   |   |   | lat |   |   |   |       93-05 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | ne                   | e         |   |   |   |   | lat |   |   |   |       93-05 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | (i)g(itur)           | g         |   |   |   |   | lat |   |   |   |       93-05 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | dictis               | dııſ      |   |   |   |   | lat |   |   |   |       93-05 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | sororib(us)          | soꝛoꝛıbꝰ   |   |   |   |   | lat |   |   |   |       93-05 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | ab                   | ab         |   |   |   |   | lat |   |   |   |       93-05 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | h(er)edib(us)        | h͛edıbꝰ     |   |   |   |   | lat |   |   |   |       93-05 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | meis                 | meıſ       |   |   |   |   | lat |   |   |   |       93-05 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | v(e)l                | vl̅         |   |   |   |   | lat |   |   |   |       93-05 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | ab                   | ab         |   |   |   |   | lat |   |   |   |       93-05 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 93-06 |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | aliis                | alííſ      |   |   |   |   | lat |   |   |   |       93-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | q(ui)buscu(m)q(ue)   | qbuſcu̅qꝫ  |   |   |   |   | lat |   |   |   |       93-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | jn                   | ȷn         |   |   |   |   | lat |   |   |   |       93-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | post(er)um           | poﬅ͛um      |   |   |   |   | lat |   |   |   |       93-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | de                   | de         |   |   |   |   | lat |   |   |   |       93-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | dicta                | dıa       |   |   |   |   | lat |   |   |   |       93-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | t(er)ra              | t͛ra        |   |   |   |   | lat |   |   |   |       93-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | possit               | poſſıt     |   |   |   |   | lat |   |   |   |       93-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | s(u)borirj           | ſb͛oꝛır    |   |   |   |   | lat |   |   |   |       93-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | calo(m)pnia          | calo̅pnía   |   |   |   |   | lat |   |   |   |       93-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | p(re)sente(m)        | p͛ſente̅     |   |   |   |   | lat |   |   |   |       93-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | pagina(m)            | pagína̅     |   |   |   |   | lat |   |   |   |       93-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | eis                  | eıſ        |   |   |   |   | lat |   |   |   |       93-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | in                   | ín         |   |   |   |   | lat |   |   |   |       93-06 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | cautela(m)           | cautela̅    |   |   |   |   | lat |   |   |   |       93-06 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | aliis                | alííſ      |   |   |   |   | lat |   |   |   |       93-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | q(ui)buscu(m)q(ue)   | qbuſcu̅qꝫ  |   |   |   |   | lat |   |   |   |       93-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | jn                   | ȷn         |   |   |   |   | lat |   |   |   |       93-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | post(er)um           | poﬅ͛um      |   |   |   |   | lat |   |   |   |       93-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | de                   | de         |   |   |   |   | lat |   |   |   |       93-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | dicta                | dıa       |   |   |   |   | lat |   |   |   |       93-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | t(er)ra              | t͛ra        |   |   |   |   | lat |   |   |   |       93-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | possit               | poſſıt     |   |   |   |   | lat |   |   |   |       93-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | s(u)borirj           | ſb͛oꝛır    |   |   |   |   | lat |   |   |   |       93-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | calo(m)pnia          | calo̅pnía   |   |   |   |   | lat |   |   |   |       93-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | p(re)sente(m)        | p͛ſente̅     |   |   |   |   | lat |   |   |   |       93-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | pagina(m)            | pagína̅     |   |   |   |   | lat |   |   |   |       93-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | eis                  | eıſ        |   |   |   |   | lat |   |   |   |       93-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | in                   | ín         |   |   |   |   | lat |   |   |   |       93-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | cautela(m)           | cautela̅    |   |   |   |   | lat |   |   |   |       93-06 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 93-07 |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | (con)tulj            | ꝯtulȷ      |   |   |   |   | lat |   |   |   |       93-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | sigillo              | sıgıllo    |   |   |   |   | lat |   |   |   |       93-07 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | (con)tulj            | ꝯtulȷ      |   |   |   |   | lat |   |   |   |       93-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | sigillo              | sıgıllo    |   |   |   |   | lat |   |   |   |       93-07 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b     |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Domicellj            | Domícellȷ  |   |   |   |   | lat |   |   |   |       93-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | jacobi               | ȷacobı     |   |   |   |   | lat |   |   |   |       93-07 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Domicellj            | Domícellȷ  |   |   |   |   | lat |   |   |   |       93-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | jacobi               | ȷacobı     |   |   |   |   | lat |   |   |   |       93-07 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | e     |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                    | .          |   |   |   |   | lat |   |   |   |       93-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | (et)                 |           |   |   |   |   | lat |   |   |   |       93-07 |          |          |  |    |    |    |    |
+| p   |       |   |   |   |   | .                    | .          |   |   |   |   | lat |   |   |   |       93-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | (et)                 |           |   |   |   |   | lat |   |   |   |       93-07 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b     |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | domicelli            | domícellı  |   |   |   |   | lat |   |   |   |       93-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Erici                | Erící      |   |   |   |   | lat |   |   |   |       93-07 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | domicelli            | domícellı  |   |   |   |   | lat |   |   |   |       93-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Erici                | Erící      |   |   |   |   | lat |   |   |   |       93-07 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | e     |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                    | .          |   |   |   |   | lat |   |   |   |       93-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | (et)                 |           |   |   |   |   | lat |   |   |   |       93-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | D(omi)nj             | Dn̅ȷ        |   |   |   |   | lat |   |   |   |       93-07 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                    | .          |   |   |   |   | lat |   |   |   |       93-07 |          |          |  |    |    |    |    |
+| p   |       |   |   |   |   | .                    | .          |   |   |   |   | lat |   |   |   |       93-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | (et)                 |           |   |   |   |   | lat |   |   |   |       93-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | D(omi)nj             | Dn̅ȷ        |   |   |   |   | lat |   |   |   |       93-07 | 3:eschatocol |          |  |    |    |    |    |
+| p   |       |   |   |   |   | .                    | .          |   |   |   |   | lat |   |   |   |       93-07 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b     |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Pet(ri)              | Pet       |   |   |   |   | lat |   |   |   |       93-07 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Pet(ri)              | Pet       |   |   |   |   | lat |   |   |   |       93-07 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | e     |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | illust(ri)s          | ılluﬅſ    |   |   |   |   | lat |   |   |   |       93-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | regis                | regıſ      |   |   |   |   | lat |   |   |   |       93-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | danor(um)            | danoꝝ      |   |   |   |   | lat |   |   |   |       93-07 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | came¦rarij           | came¦rarí |   |   |   |   | lat |   |   |   | 93-07—93-08 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                    | .          |   |   |   |   | lat |   |   |   |       93-08 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | (et)                 |           |   |   |   |   | lat |   |   |   |       93-08 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | D(omi)nj             | Dn̅ȷ        |   |   |   |   | lat |   |   |   |       93-08 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | illust(ri)s          | ılluﬅſ    |   |   |   |   | lat |   |   |   |       93-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | regis                | regıſ      |   |   |   |   | lat |   |   |   |       93-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | danor(um)            | danoꝝ      |   |   |   |   | lat |   |   |   |       93-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | came¦rarij           | came¦rarí |   |   |   |   | lat |   |   |   | 93-07—93-08 | 3:eschatocol |          |  |    |    |    |    |
+| p   |       |   |   |   |   | .                    | .          |   |   |   |   | lat |   |   |   |       93-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | (et)                 |           |   |   |   |   | lat |   |   |   |       93-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | D(omi)nj             | Dn̅ȷ        |   |   |   |   | lat |   |   |   |       93-08 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b     |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Andrej               | ndreȷ     |   |   |   |   | lat |   |   |   |       93-08 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Nicles sun           | Nıcleſ ſu |   |   |   |   | lat |   |   |   |       93-08 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Andrej               | ndreȷ     |   |   |   |   | lat |   |   |   |       93-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Nicles sun           | Nıcleſ ſu |   |   |   |   | lat |   |   |   |       93-08 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | e     |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                    | .          |   |   |   |   | lat |   |   |   |       93-08 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | (et)                 |           |   |   |   |   | lat |   |   |   |       93-08 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | meo                  | meo        |   |   |   |   | lat |   |   |   |       93-08 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | roboratam            | roboꝛata  |   |   |   |   | lat |   |   |   |       93-08 |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                    | .          |   |   |   |   | lat |   |   |   |       93-08 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Dat(um)              | Dat̅        |   |   |   |   | lat |   |   |   |       93-08 |          |          |  |    |    |    |    |
+| p   |       |   |   |   |   | .                    | .          |   |   |   |   | lat |   |   |   |       93-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | (et)                 |           |   |   |   |   | lat |   |   |   |       93-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | meo                  | meo        |   |   |   |   | lat |   |   |   |       93-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | roboratam            | roboꝛata  |   |   |   |   | lat |   |   |   |       93-08 | 3:eschatocol |          |  |    |    |    |    |
+| p   |       |   |   |   |   | .                    | .          |   |   |   |   | lat |   |   |   |       93-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Dat(um)              | Dat̅        |   |   |   |   | lat |   |   |   |       93-08 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b     |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | roskildis            | ʀoſkıldıſ  |   |   |   |   | lat |   |   |   |       93-08 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | roskildis            | ʀoſkıldıſ  |   |   |   |   | lat |   |   |   |       93-08 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | e     |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                    | .          |   |   |   |   | lat |   |   |   |       93-08 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Anno                 | nno       |   |   |   |   | lat |   |   |   |       93-08 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | d(omi)nj             | dn̅ȷ        |   |   |   |   | lat |   |   |   |       93-08 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | mº                   | .ͦ.        |   |   |   |   | lat |   |   |   |       93-08 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | ccº                  | cͦcͦ.        |   |   |   |   | lat |   |   |   |       93-08 |          |          |  |    |    |    |    |
+| p   |       |   |   |   |   | .                    | .          |   |   |   |   | lat |   |   |   |       93-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Anno                 | nno       |   |   |   |   | lat |   |   |   |       93-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | d(omi)nj             | dn̅ȷ        |   |   |   |   | lat |   |   |   |       93-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | mº                   | .ͦ.        |   |   |   |   | lat |   |   |   |       93-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | ccº                  | cͦcͦ.        |   |   |   |   | lat |   |   |   |       93-08 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 93-09 |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | lxxxº                | .lxͦxͦxͦ.     |   |   |   |   | lat |   |   |   |       93-09 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | jn                   | ȷn         |   |   |   |   | lat |   |   |   |       93-09 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | vigilia              | vıgılıa    |   |   |   |   | lat |   |   |   |       93-09 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | beatj                | beatȷ      |   |   |   |   | lat |   |   |   |       93-09 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | martinj              | artín    |   |   |   |   | lat |   |   |   |       93-09 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | ep(iscop)i           | ep̅ı        |   |   |   |   | lat |   |   |   |       93-09 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | (et)                 |           |   |   |   |   | lat |   |   |   |       93-09 |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | (con)fessoris        | ꝯfeſſorı  |   |   |   |   | lat |   |   |   |       93-09 |          |          |  |    |    |    |    |
+| w   |       |   |   |   |   | lxxxº                | .lxͦxͦxͦ.     |   |   |   |   | lat |   |   |   |       93-09 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | jn                   | ȷn         |   |   |   |   | lat |   |   |   |       93-09 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | vigilia              | vıgılıa    |   |   |   |   | lat |   |   |   |       93-09 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | beatj                | beatȷ      |   |   |   |   | lat |   |   |   |       93-09 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | martinj              | artín    |   |   |   |   | lat |   |   |   |       93-09 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | ep(iscop)i           | ep̅ı        |   |   |   |   | lat |   |   |   |       93-09 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | (et)                 |           |   |   |   |   | lat |   |   |   |       93-09 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | (con)fessoris        | ꝯfeſſorı  |   |   |   |   | lat |   |   |   |       93-09 | 3:eschatocol |          |  |    |    |    |    |
 | d  | e     | 3  |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | :e: |       |   |   |   |   |                      |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |

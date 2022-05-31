@@ -43,168 +43,168 @@
 | pm  | 1r     |   |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 303-01 |   |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | d  | b      | 1  |   | protocol  |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Omnib(us)            | Omnıbꝫ      |   |   |   |   | lat |   |   |   |        303-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | p(rese)ns            | pn̅         |   |   |   |   | lat |   |   |   |        303-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | sc(ri)ptu(m)         | ſcptu̅      |   |   |   |   | lat |   |   |   |        303-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | c(er)nentib(us)      | cnentıbꝫ   |   |   |   |   | lat |   |   |   |        303-01 |          |          |  |    |    |    |    |
-| p   |        |   |   |   |   | .                    | .           |   |   |   |   | lat |   |   |   |        303-01 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Omnib(us)            | Omnıbꝫ      |   |   |   |   | lat |   |   |   |        303-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | p(rese)ns            | pn̅         |   |   |   |   | lat |   |   |   |        303-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | sc(ri)ptu(m)         | ſcptu̅      |   |   |   |   | lat |   |   |   |        303-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | c(er)nentib(us)      | cnentıbꝫ   |   |   |   |   | lat |   |   |   |        303-01 | 1:protocol |          |  |    |    |    |    |
+| p   |        |   |   |   |   | .                    | .           |   |   |   |   | lat |   |   |   |        303-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Petrus               | Petru      |   |   |   |   | lat |   |   |   |        303-01 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Petrus               | Petru      |   |   |   |   | lat |   |   |   |        303-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | e      |   |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | dei                  | deí         |   |   |   |   | lat |   |   |   |        303-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | gr(aci)a             | gr̅a         |   |   |   |   | lat |   |   |   |        303-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ep(iscopu)s          | ep̅         |   |   |   |   | lat |   |   |   |        303-01 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | dei                  | deí         |   |   |   |   | lat |   |   |   |        303-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | gr(aci)a             | gr̅a         |   |   |   |   | lat |   |   |   |        303-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ep(iscopu)s          | ep̅         |   |   |   |   | lat |   |   |   |        303-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Roskilden(sis)       | Roſkılde̅   |   |   |   |   | lat |   |   |   |        303-01 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Roskilden(sis)       | Roſkılde̅   |   |   |   |   | lat |   |   |   |        303-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| p   |        |   |   |   |   | .                    | .           |   |   |   |   | lat |   |   |   |        303-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Eterna(m)            | terna̅      |   |   |   |   | lat |   |   |   |        303-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | in                   | ın          |   |   |   |   | lat |   |   |   |        303-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | d(omi)no             | dn̅o         |   |   |   |   | lat |   |   |   |        303-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | salute(m)            | ſalute̅      |   |   |   |   | lat |   |   |   |        303-01 |          |          |  |    |    |    |    |
-| p   |        |   |   |   |   | .                    | .           |   |   |   |   | lat |   |   |   |        303-01 |          |          |  |    |    |    |    |
+| p   |        |   |   |   |   | .                    | .           |   |   |   |   | lat |   |   |   |        303-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Eterna(m)            | terna̅      |   |   |   |   | lat |   |   |   |        303-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | in                   | ın          |   |   |   |   | lat |   |   |   |        303-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | d(omi)no             | dn̅o         |   |   |   |   | lat |   |   |   |        303-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | salute(m)            | ſalute̅      |   |   |   |   | lat |   |   |   |        303-01 | 1:protocol |          |  |    |    |    |    |
+| p   |        |   |   |   |   | .                    | .           |   |   |   |   | lat |   |   |   |        303-01 | 1:protocol |          |  |    |    |    |    |
 | d  | e      | 1  |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | d  | b      | 2  |   | context  |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Cu(m)                | Cu̅          |   |   |   |   | lat |   |   |   |        303-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | d(omi)n(u)s          | dn̅         |   |   |   |   | lat |   |   |   |        303-01 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Cu(m)                | Cu̅          |   |   |   |   | lat |   |   |   |        303-01 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | d(omi)n(u)s          | dn̅         |   |   |   |   | lat |   |   |   |        303-01 | 2:context |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | hin¦ricus            | hín¦rıcu   |   |   |   |   | lat |   |   |   | 303-01—303-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ienss(un)            | ıenſ       |   |   |   |   | lat |   |   |   |        303-02 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | hin¦ricus            | hín¦rıcu   |   |   |   |   | lat |   |   |   | 303-01—303-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ienss(un)            | ıenſ       |   |   |   |   | lat |   |   |   |        303-02 | 2:context |          |  |    |    |    |    |
 | PE  | e      |   |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | d(i)c(t)us           | dc̅u        |   |   |   |   | lat |   |   |   |        303-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | de                   | de          |   |   |   |   | lat |   |   |   |        303-02 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | d(i)c(t)us           | dc̅u        |   |   |   |   | lat |   |   |   |        303-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | de                   | de          |   |   |   |   | lat |   |   |   |        303-02 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lethøwæ              | lethøwæ     |   |   |   |   | lat |   |   |   |        303-02 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | lethøwæ              | lethøwæ     |   |   |   |   | lat |   |   |   |        303-02 | 2:context |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | miles                | míle       |   |   |   |   | lat |   |   |   |        303-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | quanda(m)            | quanda̅      |   |   |   |   | lat |   |   |   |        303-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | p(re)benda(m)        | p̅benda̅      |   |   |   |   | lat |   |   |   |        303-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Cano(n)icalem        | Cano̅ıcale  |   |   |   |   | lat |   |   |   |        303-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | in                   | ın          |   |   |   |   | lat |   |   |   |        303-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | eccl(es)ia           | eccl̅ıa      |   |   |   |   | lat |   |   |   |        303-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | n(ost)ra             | nr̅a         |   |   |   |   | lat |   |   |   |        303-02 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | miles                | míle       |   |   |   |   | lat |   |   |   |        303-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | quanda(m)            | quanda̅      |   |   |   |   | lat |   |   |   |        303-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | p(re)benda(m)        | p̅benda̅      |   |   |   |   | lat |   |   |   |        303-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Cano(n)icalem        | Cano̅ıcale  |   |   |   |   | lat |   |   |   |        303-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | in                   | ın          |   |   |   |   | lat |   |   |   |        303-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | eccl(es)ia           | eccl̅ıa      |   |   |   |   | lat |   |   |   |        303-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | n(ost)ra             | nr̅a         |   |   |   |   | lat |   |   |   |        303-02 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Roskilden(sis)       | Roſkılde̅   |   |   |   |   | lat |   |   |   |        303-02 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Roskilden(sis)       | Roſkılde̅   |   |   |   |   | lat |   |   |   |        303-02 | 2:context |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | de                   | de          |   |   |   |   | lat |   |   |   |        303-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | (con)s(en)su         | ꝯſu        |   |   |   |   | lat |   |   |   |        303-02 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | de                   | de          |   |   |   |   | lat |   |   |   |        303-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | (con)s(en)su         | ꝯſu        |   |   |   |   | lat |   |   |   |        303-02 | 2:context |          |  |    |    |    |    |
 | lm  | 303-03 |   |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | n(ost)ro             | nr̅o         |   |   |   |   | lat |   |   |   |        303-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ac                   | ac          |   |   |   |   | lat |   |   |   |        303-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Cap(itu)li           | Capl̅ı       |   |   |   |   | lat |   |   |   |        303-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | n(ost)ri             | nr̅ı         |   |   |   |   | lat |   |   |   |        303-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | dil(e)c(t)i          | dılc̅ı       |   |   |   |   | lat |   |   |   |        303-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | de                   | de          |   |   |   |   | lat |   |   |   |        303-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nouo                 | nouo        |   |   |   |   | lat |   |   |   |        303-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | fundarit             | fundarít    |   |   |   |   | lat |   |   |   |        303-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | (et)                 | ⁊           |   |   |   |   | lat |   |   |   |        303-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | cu(m)                | cu̅          |   |   |   |   | lat |   |   |   |        303-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | bonis                | boní       |   |   |   |   | lat |   |   |   |        303-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | suis                 | ſuı        |   |   |   |   | lat |   |   |   |        303-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | p(ro)p(ri)is         | ı        |   |   |   |   | lat |   |   |   |        303-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ac                   | ac          |   |   |   |   | lat |   |   |   |        303-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | he(re)ditariis       | hedıtaríí |   |   |   |   | lat |   |   |   |        303-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | v(idelicet)          | .ỽꝫ.        |   |   |   |   | lat |   |   |   |        303-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | sex                  | ſex         |   |   |   |   | lat |   |   |   |        303-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | mansis               | manſı      |   |   |   |   | lat |   |   |   |        303-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | t(er)re              | tre        |   |   |   |   | lat |   |   |   |        303-03 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | n(ost)ro             | nr̅o         |   |   |   |   | lat |   |   |   |        303-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ac                   | ac          |   |   |   |   | lat |   |   |   |        303-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Cap(itu)li           | Capl̅ı       |   |   |   |   | lat |   |   |   |        303-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | n(ost)ri             | nr̅ı         |   |   |   |   | lat |   |   |   |        303-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | dil(e)c(t)i          | dılc̅ı       |   |   |   |   | lat |   |   |   |        303-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | de                   | de          |   |   |   |   | lat |   |   |   |        303-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nouo                 | nouo        |   |   |   |   | lat |   |   |   |        303-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | fundarit             | fundarít    |   |   |   |   | lat |   |   |   |        303-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | (et)                 | ⁊           |   |   |   |   | lat |   |   |   |        303-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | cu(m)                | cu̅          |   |   |   |   | lat |   |   |   |        303-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | bonis                | boní       |   |   |   |   | lat |   |   |   |        303-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | suis                 | ſuı        |   |   |   |   | lat |   |   |   |        303-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | p(ro)p(ri)is         | ı        |   |   |   |   | lat |   |   |   |        303-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ac                   | ac          |   |   |   |   | lat |   |   |   |        303-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | he(re)ditariis       | hedıtaríí |   |   |   |   | lat |   |   |   |        303-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | v(idelicet)          | .ỽꝫ.        |   |   |   |   | lat |   |   |   |        303-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | sex                  | ſex         |   |   |   |   | lat |   |   |   |        303-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | mansis               | manſı      |   |   |   |   | lat |   |   |   |        303-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | t(er)re              | tre        |   |   |   |   | lat |   |   |   |        303-03 | 2:context |          |  |    |    |    |    |
 | lm  | 303-04 |   |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | in                   | ín          |   |   |   |   | lat |   |   |   |        303-04 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | in                   | ín          |   |   |   |   | lat |   |   |   |        303-04 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lethøwæ              | lethøwæ     |   |   |   |   | lat |   |   |   |        303-04 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | lethøwæ              | lethøwæ     |   |   |   |   | lat |   |   |   |        303-04 | 2:context |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | smøremsh(e)r(et)     | ſmøremſhꝛ̅   |   |   |   |   | lat |   |   |   |        303-04 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | smøremsh(e)r(et)     | ſmøremſhꝛ̅   |   |   |   |   | lat |   |   |   |        303-04 | 2:context |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | cu(m)                | cu̅          |   |   |   |   | lat |   |   |   |        303-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | vniu(er)sis          | ỽnıu͛ſı     |   |   |   |   | lat |   |   |   |        303-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ip(s)or(um)          | ıp̅oꝝ        |   |   |   |   | lat |   |   |   |        303-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | p(er)tinenciis       | ꝑtínencíí  |   |   |   |   | lat |   |   |   |        303-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | dotarit              | dotarít     |   |   |   |   | lat |   |   |   |        303-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | p(ro)ut              | ꝓut         |   |   |   |   | lat |   |   |   |        303-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | in                   | ın          |   |   |   |   | lat |   |   |   |        303-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | l(itte)ra            | lr̅a         |   |   |   |   | lat |   |   |   |        303-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | fundac(i)o(n)is      | fundac̅oı   |   |   |   |   | lat |   |   |   |        303-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | (et)                 | ⁊           |   |   |   |   | lat |   |   |   |        303-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | dotac(i)o(n)is       | dotac̅oı    |   |   |   |   | lat |   |   |   |        303-04 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | cu(m)                | cu̅          |   |   |   |   | lat |   |   |   |        303-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | vniu(er)sis          | ỽnıu͛ſı     |   |   |   |   | lat |   |   |   |        303-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ip(s)or(um)          | ıp̅oꝝ        |   |   |   |   | lat |   |   |   |        303-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | p(er)tinenciis       | ꝑtínencíí  |   |   |   |   | lat |   |   |   |        303-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | dotarit              | dotarít     |   |   |   |   | lat |   |   |   |        303-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | p(ro)ut              | ꝓut         |   |   |   |   | lat |   |   |   |        303-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | in                   | ın          |   |   |   |   | lat |   |   |   |        303-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | l(itte)ra            | lr̅a         |   |   |   |   | lat |   |   |   |        303-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | fundac(i)o(n)is      | fundac̅oı   |   |   |   |   | lat |   |   |   |        303-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | (et)                 | ⁊           |   |   |   |   | lat |   |   |   |        303-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | dotac(i)o(n)is       | dotac̅oı    |   |   |   |   | lat |   |   |   |        303-04 | 2:context |          |  |    |    |    |    |
 | lm  | 303-05 |   |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | hui(us)modi          | huı᷒modí     |   |   |   |   | lat |   |   |   |        303-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | clare                | clare       |   |   |   |   | lat |   |   |   |        303-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | patet                | patet       |   |   |   |   | lat |   |   |   |        303-05 |          |          |  |    |    |    |    |
-| p   |        |   |   |   |   | .                    | .           |   |   |   |   | lat |   |   |   |        303-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nos                  | o         |   |   |   |   | lat |   |   |   |        303-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | fundac(i)o(n)em      | fundac̅oe   |   |   |   |   | lat |   |   |   |        303-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | (et)                 | ⁊           |   |   |   |   | lat |   |   |   |        303-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | dotac(i)o(n)em       | dotac̅oe    |   |   |   |   | lat |   |   |   |        303-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | p(re)d(i)c(t)as      | p̅dc̅a       |   |   |   |   | lat |   |   |   |        303-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | (et)                 | ⁊           |   |   |   |   | lat |   |   |   |        303-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | bonor(um)            | bonoꝝ       |   |   |   |   | lat |   |   |   |        303-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | eor(um)de(m)         | eoꝝde̅       |   |   |   |   | lat |   |   |   |        303-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | assignac(i)o(n)em    | aıgnac̅oe  |   |   |   |   | lat |   |   |   |        303-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | (et)                 | ⁊           |   |   |   |   | lat |   |   |   |        303-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | scotac(i)o¦nem       | ſcotac̅o¦ne |   |   |   |   | dan |   |   |   | 303-05—303-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ad                   | ad          |   |   |   |   | lat |   |   |   |        303-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | d(i)c(t)am           | dc̅a        |   |   |   |   | lat |   |   |   |        303-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | p(re)benda(m)        | p̅benda̅      |   |   |   |   | lat |   |   |   |        303-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | cano(n)icalem        | cano̅ıcale  |   |   |   |   | lat |   |   |   |        303-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | p(ro)ut              | ꝓut         |   |   |   |   | lat |   |   |   |        303-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | sona(n)t             | ſona̅t       |   |   |   |   | lat |   |   |   |        303-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | l(itte)ralit(er)     | lr̅alıt     |   |   |   |   | lat |   |   |   |        303-06 |          |          |  |    |    |    |    |
-| p   |        |   |   |   |   | .                    | .           |   |   |   |   | lat |   |   |   |        303-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Auct(oritat)e        | Auctᷓe       |   |   |   |   | lat |   |   |   |        303-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ordinaria            | oꝛdınaría   |   |   |   |   | lat |   |   |   |        303-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | app(ro)bam(us)       | abam᷒       |   |   |   |   | lat |   |   |   |        303-06 |          |          |  |    |    |    |    |
-| p   |        |   |   |   |   | .                    | .           |   |   |   |   | lat |   |   |   |        303-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ratificam(us)        | ratífıcam᷒   |   |   |   |   | lat |   |   |   |        303-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | et                   | et          |   |   |   |   | lat |   |   |   |        303-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | de                   | de          |   |   |   |   | lat |   |   |   |        303-06 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | hui(us)modi          | huı᷒modí     |   |   |   |   | lat |   |   |   |        303-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | clare                | clare       |   |   |   |   | lat |   |   |   |        303-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | patet                | patet       |   |   |   |   | lat |   |   |   |        303-05 | 2:context |          |  |    |    |    |    |
+| p   |        |   |   |   |   | .                    | .           |   |   |   |   | lat |   |   |   |        303-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nos                  | o         |   |   |   |   | lat |   |   |   |        303-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | fundac(i)o(n)em      | fundac̅oe   |   |   |   |   | lat |   |   |   |        303-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | (et)                 | ⁊           |   |   |   |   | lat |   |   |   |        303-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | dotac(i)o(n)em       | dotac̅oe    |   |   |   |   | lat |   |   |   |        303-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | p(re)d(i)c(t)as      | p̅dc̅a       |   |   |   |   | lat |   |   |   |        303-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | (et)                 | ⁊           |   |   |   |   | lat |   |   |   |        303-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | bonor(um)            | bonoꝝ       |   |   |   |   | lat |   |   |   |        303-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | eor(um)de(m)         | eoꝝde̅       |   |   |   |   | lat |   |   |   |        303-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | assignac(i)o(n)em    | aıgnac̅oe  |   |   |   |   | lat |   |   |   |        303-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | (et)                 | ⁊           |   |   |   |   | lat |   |   |   |        303-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | scotac(i)o¦nem       | ſcotac̅o¦ne |   |   |   |   | dan |   |   |   | 303-05—303-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ad                   | ad          |   |   |   |   | lat |   |   |   |        303-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | d(i)c(t)am           | dc̅a        |   |   |   |   | lat |   |   |   |        303-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | p(re)benda(m)        | p̅benda̅      |   |   |   |   | lat |   |   |   |        303-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | cano(n)icalem        | cano̅ıcale  |   |   |   |   | lat |   |   |   |        303-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | p(ro)ut              | ꝓut         |   |   |   |   | lat |   |   |   |        303-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | sona(n)t             | ſona̅t       |   |   |   |   | lat |   |   |   |        303-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | l(itte)ralit(er)     | lr̅alıt     |   |   |   |   | lat |   |   |   |        303-06 | 2:context |          |  |    |    |    |    |
+| p   |        |   |   |   |   | .                    | .           |   |   |   |   | lat |   |   |   |        303-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Auct(oritat)e        | Auctᷓe       |   |   |   |   | lat |   |   |   |        303-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ordinaria            | oꝛdınaría   |   |   |   |   | lat |   |   |   |        303-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | app(ro)bam(us)       | abam᷒       |   |   |   |   | lat |   |   |   |        303-06 | 2:context |          |  |    |    |    |    |
+| p   |        |   |   |   |   | .                    | .           |   |   |   |   | lat |   |   |   |        303-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ratificam(us)        | ratífıcam᷒   |   |   |   |   | lat |   |   |   |        303-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | et                   | et          |   |   |   |   | lat |   |   |   |        303-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | de                   | de          |   |   |   |   | lat |   |   |   |        303-06 | 2:context |          |  |    |    |    |    |
 | lm  | 303-07 |   |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | (con)sensu           | ꝯſenſu      |   |   |   |   | lat |   |   |   |        303-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | d(i)c(t)i            | dc̅ı         |   |   |   |   | lat |   |   |   |        303-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Cap(itu)li           | Capl̅ı       |   |   |   |   | lat |   |   |   |        303-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | n(ost)ri             | nr̅ı         |   |   |   |   | lat |   |   |   |        303-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | tenore               | tenoꝛe      |   |   |   |   | lat |   |   |   |        303-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | p(rese)nt(ibus)      | pn̅         |   |   |   |   | lat |   |   |   |        303-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Confirmam(us)        | Confırmam᷒   |   |   |   |   | lat |   |   |   |        303-07 |          |          |  |    |    |    |    |
-| p   |        |   |   |   |   | .                    | .           |   |   |   |   | lat |   |   |   |        303-07 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | (con)sensu           | ꝯſenſu      |   |   |   |   | lat |   |   |   |        303-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | d(i)c(t)i            | dc̅ı         |   |   |   |   | lat |   |   |   |        303-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Cap(itu)li           | Capl̅ı       |   |   |   |   | lat |   |   |   |        303-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | n(ost)ri             | nr̅ı         |   |   |   |   | lat |   |   |   |        303-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | tenore               | tenoꝛe      |   |   |   |   | lat |   |   |   |        303-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | p(rese)nt(ibus)      | pn̅         |   |   |   |   | lat |   |   |   |        303-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Confirmam(us)        | Confırmam᷒   |   |   |   |   | lat |   |   |   |        303-07 | 2:context |          |  |    |    |    |    |
+| p   |        |   |   |   |   | .                    | .           |   |   |   |   | lat |   |   |   |        303-07 | 2:context |          |  |    |    |    |    |
 | d  | e      | 2  |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | d  | b      | 3  |   | eschatocol  |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Jn                   | Jn          |   |   |   |   | lat |   |   |   |        303-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Cui(us)              | Cuı᷒         |   |   |   |   | lat |   |   |   |        303-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | (con)firmac(i)o(n)is | ꝯfırmac̅oı  |   |   |   |   | lat |   |   |   |        303-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | testi(m)o(niu)m      | teﬅı̅o      |   |   |   |   | lat |   |   |   |        303-07 |          |          |  |    |    |    |    |
-| p   |        |   |   |   |   | .                    | .           |   |   |   |   | lat |   |   |   |        303-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Sigillu(m)           | Sıgıllu̅     |   |   |   |   | lat |   |   |   |        303-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | n(ost)r(u)m          | nr̅         |   |   |   |   | lat |   |   |   |        303-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | vna                  | ỽna         |   |   |   |   | lat |   |   |   |        303-07 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Jn                   | Jn          |   |   |   |   | lat |   |   |   |        303-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Cui(us)              | Cuı᷒         |   |   |   |   | lat |   |   |   |        303-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | (con)firmac(i)o(n)is | ꝯfırmac̅oı  |   |   |   |   | lat |   |   |   |        303-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | testi(m)o(niu)m      | teﬅı̅o      |   |   |   |   | lat |   |   |   |        303-07 | 3:eschatocol |          |  |    |    |    |    |
+| p   |        |   |   |   |   | .                    | .           |   |   |   |   | lat |   |   |   |        303-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Sigillu(m)           | Sıgıllu̅     |   |   |   |   | lat |   |   |   |        303-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | n(ost)r(u)m          | nr̅         |   |   |   |   | lat |   |   |   |        303-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | vna                  | ỽna         |   |   |   |   | lat |   |   |   |        303-07 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 303-08 |   |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | cu(m)                | cu̅          |   |   |   |   | lat |   |   |   |        303-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Sigillo              | ıgıllo     |   |   |   |   | lat |   |   |   |        303-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | p(re)fati            | p̅fatí       |   |   |   |   | lat |   |   |   |        303-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Cap(itu)li           | Capl̅ı       |   |   |   |   | lat |   |   |   |        303-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | n(ost)ri             | nr̅ı         |   |   |   |   | lat |   |   |   |        303-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | p(e)ntib(us)         | pn̅tıbꝫ      |   |   |   |   | lat |   |   |   |        303-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | est                  | eﬅ          |   |   |   |   | lat |   |   |   |        303-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | appensum             | aenſu     |   |   |   |   | lat |   |   |   |        303-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Datu(m)              | Datu̅        |   |   |   |   | lat |   |   |   |        303-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Anno                 | Anno        |   |   |   |   | lat |   |   |   |        303-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | do(mini)             | do.        |   |   |   |   | lat |   |   |   |        303-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | mº                   | ͦ.          |   |   |   |   | lat |   |   |   |        303-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | cccº                 | ccͦc.        |   |   |   |   | lat |   |   |   |        303-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nonagesimo           | nonageſımo  |   |   |   |   | lat |   |   |   |        303-08 |          |          |  |    |    |    |    |
-| p   |        |   |   |   |   | .                    | .           |   |   |   |   | lat |   |   |   |        303-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | qui(n)to             | quı̅to       |   |   |   |   | lat |   |   |   |        303-08 |          |          |  |    |    |    |    |
-| p   |        |   |   |   |   | .                    | .           |   |   |   |   | lat |   |   |   |        303-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | feria                | ferıa       |   |   |   |   | lat |   |   |   |        303-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | t(er)cia             | tcıa       |   |   |   |   | lat |   |   |   |        303-08 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | cu(m)                | cu̅          |   |   |   |   | lat |   |   |   |        303-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Sigillo              | ıgıllo     |   |   |   |   | lat |   |   |   |        303-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | p(re)fati            | p̅fatí       |   |   |   |   | lat |   |   |   |        303-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Cap(itu)li           | Capl̅ı       |   |   |   |   | lat |   |   |   |        303-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | n(ost)ri             | nr̅ı         |   |   |   |   | lat |   |   |   |        303-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | p(e)ntib(us)         | pn̅tıbꝫ      |   |   |   |   | lat |   |   |   |        303-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | est                  | eﬅ          |   |   |   |   | lat |   |   |   |        303-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | appensum             | aenſu     |   |   |   |   | lat |   |   |   |        303-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Datu(m)              | Datu̅        |   |   |   |   | lat |   |   |   |        303-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Anno                 | Anno        |   |   |   |   | lat |   |   |   |        303-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | do(mini)             | do.        |   |   |   |   | lat |   |   |   |        303-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | mº                   | ͦ.          |   |   |   |   | lat |   |   |   |        303-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | cccº                 | ccͦc.        |   |   |   |   | lat |   |   |   |        303-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nonagesimo           | nonageſımo  |   |   |   |   | lat |   |   |   |        303-08 | 3:eschatocol |          |  |    |    |    |    |
+| p   |        |   |   |   |   | .                    | .           |   |   |   |   | lat |   |   |   |        303-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | qui(n)to             | quı̅to       |   |   |   |   | lat |   |   |   |        303-08 | 3:eschatocol |          |  |    |    |    |    |
+| p   |        |   |   |   |   | .                    | .           |   |   |   |   | lat |   |   |   |        303-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | feria                | ferıa       |   |   |   |   | lat |   |   |   |        303-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | t(er)cia             | tcıa       |   |   |   |   | lat |   |   |   |        303-08 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 303-09 |   |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | p(ro)xima            | ꝓxíma       |   |   |   |   | lat |   |   |   |        303-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | post                 | poﬅ         |   |   |   |   | lat |   |   |   |        303-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | die(m)               | dıe̅         |   |   |   |   | lat |   |   |   |        303-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | b(ea)ti              | bt̅ı         |   |   |   |   | lat |   |   |   |        303-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | olaui                | olauí       |   |   |   |   | lat |   |   |   |        303-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Reg(is)              | Regꝭ        |   |   |   |   | lat |   |   |   |        303-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | (et)                 | ⁊           |   |   |   |   | lat |   |   |   |        303-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | m(arty)ris           | mr̅ı        |   |   |   |   | lat |   |   |   |        303-09 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | p(ro)xima            | ꝓxíma       |   |   |   |   | lat |   |   |   |        303-09 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | post                 | poﬅ         |   |   |   |   | lat |   |   |   |        303-09 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | die(m)               | dıe̅         |   |   |   |   | lat |   |   |   |        303-09 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | b(ea)ti              | bt̅ı         |   |   |   |   | lat |   |   |   |        303-09 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | olaui                | olauí       |   |   |   |   | lat |   |   |   |        303-09 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Reg(is)              | Regꝭ        |   |   |   |   | lat |   |   |   |        303-09 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | (et)                 | ⁊           |   |   |   |   | lat |   |   |   |        303-09 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | m(arty)ris           | mr̅ı        |   |   |   |   | lat |   |   |   |        303-09 | 3:eschatocol |          |  |    |    |    |    |
 | d  | e      | 3  |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | :e: |        |   |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |

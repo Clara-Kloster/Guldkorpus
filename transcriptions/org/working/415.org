@@ -44,10 +44,10 @@ Pontoppidan Annales II 680
 | pm  | 1r     |   |   |        |   |                           |                           |   |   |   |   |     |   |   |    |                |          |          |  |    |    |    |    |
 | lm  | 415-01 |   |   |        |   |                           |                           |   |   |   |   |     |   |   |    |                |          |          |  |    |    |    |    |
 | d  | b      | 1  |   | protocol       |   |                           |                           |   |   |   |   |     |   |   |    |                |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | In                        | In                        |   |   |   |   | lat |   |   |    |         415-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | nomine                    | nomíne                    |   |   |   |   | lat |   |   |    |         415-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | d(omi)ni                  | dn̅ı                       |   |   |   |   | lat |   |   |    |         415-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | amen                      | amen                      |   |   |   |   | lat |   |   |    |         415-01 |          |          |  |    |    |    |    |
+| w   |        |   |   |        |   | In                        | In                        |   |   |   |   | lat |   |   |    |         415-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |        |   | nomine                    | nomíne                    |   |   |   |   | lat |   |   |    |         415-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |        |   | d(omi)ni                  | dn̅ı                       |   |   |   |   | lat |   |   |    |         415-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |        |   | amen                      | amen                      |   |   |   |   | lat |   |   |    |         415-01 | 1:protocol |          |  |    |    |    |    |
 | d  | e      | 1  |   |        |   |                           |                           |   |   |   |   |     |   |   |    |                |          |          |  |    |    |    |    |
 | d  | b      | 2  |   | context       |   |                           |                           |   |   |   |   |     |   |   |    |                |          |          |  |    |    |    |    |
 | w   |        |   |   |        |   | Anno                      | Anno                      |   |   |   |   | lat |   |   |    |         415-01 |          |          |  |    |    |    |    |
@@ -1271,36 +1271,36 @@ Pontoppidan Annales II 680
 | w   |        |   |   |        |   | scriptum                  | ſcrıptum                  |   |   |   |   | lat |   |   |    |         415-45 |          |          |  |    |    |    |    |
 | d  | e      | 2  |   |        |   |                           |                           |   |   |   |   |     |   |   |    |                |          |          |  |    |    |    |    |
 | d  | b      | 3  |   | eschatocol       |   |                           |                           |   |   |   |   |     |   |   |    |                |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | Exinde                    | xinde                    |   |   |   |   | lat |   |   |    |         415-45 |          |          |  |    |    |    |    |
+| w   |        |   |   |        |   | Exinde                    | xinde                    |   |   |   |   | lat |   |   |    |         415-45 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 415-46 |   |   |        |   |                           |                           |   |   |   |   |     |   |   |    |                |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | confeci                   | confecı                   |   |   |   |   | lat |   |   |    |         415-46 |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | subscripsi                | ſubſcrıpſı                |   |   |   |   | lat |   |   |    |         415-46 |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | publicaui                 | publıcaui                 |   |   |   |   | lat |   |   |    |         415-46 |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | et                        | et                        |   |   |   |   | lat |   |   |    |         415-46 |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | in                        | ın                        |   |   |   |   | lat |   |   |    |         415-46 |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | hanc                      | hanc                      |   |   |   |   | lat |   |   |    |         415-46 |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | publicam                  | publıcam                  |   |   |   |   | lat |   |   |    |         415-46 |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | forma(m)                  | foꝛma̅                     |   |   |   |   | lat |   |   |    |         415-46 |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | redegi                    | redegı                    |   |   |   |   | lat |   |   |    |         415-46 |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | Signoq(ue)                | Sıgnoqꝫ                   |   |   |   |   | lat |   |   |    |         415-46 |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | et                        | et                        |   |   |   |   | lat |   |   |    |         415-46 |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | nomi(n)e                  | nomi̅e                     |   |   |   |   | lat |   |   |    |         415-46 |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | meis                      | meı                      |   |   |   |   | lat |   |   |    |         415-46 |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | solitis                   | ſolıtı                   |   |   |   |   | lat |   |   |    |         415-46 |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | et                        | et                        |   |   |   |   | lat |   |   |    |         415-46 |          |          |  |    |    |    |    |
+| w   |        |   |   |        |   | confeci                   | confecı                   |   |   |   |   | lat |   |   |    |         415-46 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |        |   | subscripsi                | ſubſcrıpſı                |   |   |   |   | lat |   |   |    |         415-46 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |        |   | publicaui                 | publıcaui                 |   |   |   |   | lat |   |   |    |         415-46 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |        |   | et                        | et                        |   |   |   |   | lat |   |   |    |         415-46 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |        |   | in                        | ın                        |   |   |   |   | lat |   |   |    |         415-46 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |        |   | hanc                      | hanc                      |   |   |   |   | lat |   |   |    |         415-46 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |        |   | publicam                  | publıcam                  |   |   |   |   | lat |   |   |    |         415-46 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |        |   | forma(m)                  | foꝛma̅                     |   |   |   |   | lat |   |   |    |         415-46 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |        |   | redegi                    | redegı                    |   |   |   |   | lat |   |   |    |         415-46 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |        |   | Signoq(ue)                | Sıgnoqꝫ                   |   |   |   |   | lat |   |   |    |         415-46 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |        |   | et                        | et                        |   |   |   |   | lat |   |   |    |         415-46 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |        |   | nomi(n)e                  | nomi̅e                     |   |   |   |   | lat |   |   |    |         415-46 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |        |   | meis                      | meı                      |   |   |   |   | lat |   |   |    |         415-46 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |        |   | solitis                   | ſolıtı                   |   |   |   |   | lat |   |   |    |         415-46 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |        |   | et                        | et                        |   |   |   |   | lat |   |   |    |         415-46 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 415-47 |   |   |        |   |                           |                           |   |   |   |   |     |   |   |    |                |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | consuetis                 | conſuetı                 |   |   |   |   | lat |   |   |    |         415-47 |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | signam                    | ſıgnam                    |   |   |   |   | lat |   |   |    |         415-47 |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | Jn                        | Jn                        |   |   |   |   | lat |   |   |    |         415-47 |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | fidem                     | fıdem                     |   |   |   |   | lat |   |   |    |         415-47 |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | et                        | et                        |   |   |   |   | lat |   |   |    |         415-47 |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | testimoniu(m)             | teﬅımoniu̅                 |   |   |   |   | lat |   |   |    |         415-47 |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | o(mn)i(u)m                | oı̅                       |   |   |   |   | lat |   |   |    |         415-47 |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | p(re)missorum             | p̅mıoꝛum                  |   |   |   |   | lat |   |   |    |         415-47 |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | singuloru(m)              | ſınguloꝛu̅                 |   |   |   |   | lat |   |   |    |         415-47 |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | Rogatus                   | Rogatu                   |   |   |   |   | lat |   |   |    |         415-47 |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | et                        | et                        |   |   |   |   | lat |   |   |    |         415-47 |          |          |  |    |    |    |    |
-| w   |        |   |   |        |   | Requisitus                | Requıſıtus                |   |   |   |   | lat |   |   |    |         415-47 |          |          |  |    |    |    |    |
+| w   |        |   |   |        |   | consuetis                 | conſuetı                 |   |   |   |   | lat |   |   |    |         415-47 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |        |   | signam                    | ſıgnam                    |   |   |   |   | lat |   |   |    |         415-47 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |        |   | Jn                        | Jn                        |   |   |   |   | lat |   |   |    |         415-47 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |        |   | fidem                     | fıdem                     |   |   |   |   | lat |   |   |    |         415-47 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |        |   | et                        | et                        |   |   |   |   | lat |   |   |    |         415-47 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |        |   | testimoniu(m)             | teﬅımoniu̅                 |   |   |   |   | lat |   |   |    |         415-47 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |        |   | o(mn)i(u)m                | oı̅                       |   |   |   |   | lat |   |   |    |         415-47 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |        |   | p(re)missorum             | p̅mıoꝛum                  |   |   |   |   | lat |   |   |    |         415-47 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |        |   | singuloru(m)              | ſınguloꝛu̅                 |   |   |   |   | lat |   |   |    |         415-47 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |        |   | Rogatus                   | Rogatu                   |   |   |   |   | lat |   |   |    |         415-47 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |        |   | et                        | et                        |   |   |   |   | lat |   |   |    |         415-47 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |        |   | Requisitus                | Requıſıtus                |   |   |   |   | lat |   |   |    |         415-47 | 3:eschatocol |          |  |    |    |    |    |
 | d   | e      | 3  |   |        |   |                           |                           |   |   |   |   |     |   |   |    |                |          |          |  |    |    |    |    |
 | d  | e      | 4  |   |        |   |                           |                           |   |   |   |   |     |   |   |    |                |          |          |  |    |    |    |    |
 | :e: |        |   |   |        |   |                           |                           |   |   |   |   |     |   |   |    |                |          |          |  |    |    |    |    |

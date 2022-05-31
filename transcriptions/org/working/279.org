@@ -43,234 +43,234 @@
 | pm  | 1r     |   |   |   |   |                       |                |   |   |   |                               |     |   |   |    |               |          |          |  |    |    |    |    |
 | lm  | 279-01 |   |   |   |   |                       |                |   |   |   |                               |     |   |   |    |               |          |          |  |    |    |    |    |
 | d  | b      | 1  |   | protocol  |   |                       |                |   |   |   |                               |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Om(ni)b(us)           | Ombꝫ          |   |   |   |                               | lat |   |   |    |        279-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | p(rese)ns             | pn̅            |   |   |   |                               | lat |   |   |    |        279-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | script(um)            | ſcrip         |   |   |   |                               | lat |   |   |    |        279-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | cernentib(us)         | cernentibꝫ     |   |   |   |                               | lat |   |   |    |        279-01 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Om(ni)b(us)           | Ombꝫ          |   |   |   |                               | lat |   |   |    |        279-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | p(rese)ns             | pn̅            |   |   |   |                               | lat |   |   |    |        279-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | script(um)            | ſcrip         |   |   |   |                               | lat |   |   |    |        279-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | cernentib(us)         | cernentibꝫ     |   |   |   |                               | lat |   |   |    |        279-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | HenPod001  |   |   |   |                       |                |   |   |   |                               |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | henni(n)gus           | hennı̅gu       |   |   |   |                               | lat |   |   |    |        279-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | podboz                | podboz         |   |   |   |                               | lat |   |   |    |        279-01 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | henni(n)gus           | hennı̅gu       |   |   |   |                               | lat |   |   |    |        279-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | podboz                | podboz         |   |   |   |                               | lat |   |   |    |        279-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | e      | HenPod001  |   |   |   |                       |                |   |   |   |                               |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | miles                 | mıle          |   |   |   |                               | lat |   |   |    |        279-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | dapifer               | dapıfer        |   |   |   |                               | lat |   |   |    |        279-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Regni                 | Regní          |   |   |   |                               | lat |   |   |    |        279-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | dacie                 | dacıe          |   |   |   |                               | lat |   |   |    |        279-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | consorsq(ue)          | conſoꝛqꝫ      |   |   |   |                               | lat |   |   |    |        279-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | s(ua)                 | ſ              |   |   |   |                               | lat |   |   |    |        279-01 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | miles                 | mıle          |   |   |   |                               | lat |   |   |    |        279-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | dapifer               | dapıfer        |   |   |   |                               | lat |   |   |    |        279-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Regni                 | Regní          |   |   |   |                               | lat |   |   |    |        279-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | dacie                 | dacıe          |   |   |   |                               | lat |   |   |    |        279-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | consorsq(ue)          | conſoꝛqꝫ      |   |   |   |                               | lat |   |   |    |        279-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | s(ua)                 | ſ              |   |   |   |                               | lat |   |   |    |        279-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | GisSun001  |   |   |   |                       |                |   |   |   |                               |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | gysle                 | gyſle          |   |   |   |                               | lat |   |   |    |        279-01 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | gysle                 | gyſle          |   |   |   |                               | lat |   |   |    |        279-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | e      | GisSun001  |   |   |   |                       |                |   |   |   |                               |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | S(a)l(ute)m           | Sl̅            |   |   |   |                               | lat |   |   |    |        279-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | in                    | í             |   |   |   |                               | lat |   |   |    |        279-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | d(omi)no              | dn̅o            |   |   |   |                               | lat |   |   |    |        279-01 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | S(a)l(ute)m           | Sl̅            |   |   |   |                               | lat |   |   |    |        279-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | in                    | í             |   |   |   |                               | lat |   |   |    |        279-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | d(omi)no              | dn̅o            |   |   |   |                               | lat |   |   |    |        279-01 | 1:protocol |          |  |    |    |    |    |
 | lm  | 279-02 |   |   |   |   |                       |                |   |   |   |                               |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Noueri(tis)           | Nouerıꝭ        |   |   |   |                               | lat |   |   |    |        279-02 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Noueri(tis)           | Nouerıꝭ        |   |   |   |                               | lat |   |   |    |        279-02 | 1:protocol |          |  |    |    |    |    |
 | d  | e      | 1  |   |   |   |                       |                |   |   |   |                               |     |   |   |    |               |          |          |  |    |    |    |    |
 | d  | b      | 2  |   | context  |   |                       |                |   |   |   |                               |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nos                   | no            |   |   |   |                               | lat |   |   |    |        279-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | bona                  | bona           |   |   |   |                               | lat |   |   |    |        279-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | virginu(m)            | vírgínu̅        |   |   |   |                               | lat |   |   |    |        279-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Religiosar(um)        | Relıgioſaꝝ     |   |   |   |                               | lat |   |   |    |        279-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | soror(um)             | ſoroꝝ          |   |   |   |                               | lat |   |   |    |        279-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ordi(ni)s             | ordı̅          |   |   |   |                               | lat |   |   |    |        279-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | s(an)c(t)e            | ſc̅e            |   |   |   |                               | lat |   |   |    |        279-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | clare                 | clare          |   |   |   |                               | lat |   |   |    |        279-02 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nos                   | no            |   |   |   |                               | lat |   |   |    |        279-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | bona                  | bona           |   |   |   |                               | lat |   |   |    |        279-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | virginu(m)            | vírgínu̅        |   |   |   |                               | lat |   |   |    |        279-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Religiosar(um)        | Relıgioſaꝝ     |   |   |   |                               | lat |   |   |    |        279-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | soror(um)             | ſoroꝝ          |   |   |   |                               | lat |   |   |    |        279-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ordi(ni)s             | ordı̅          |   |   |   |                               | lat |   |   |    |        279-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | s(an)c(t)e            | ſc̅e            |   |   |   |                               | lat |   |   |    |        279-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | clare                 | clare          |   |   |   |                               | lat |   |   |    |        279-02 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                       |                |   |   |   |                               |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Rosk(ildis)           | Roſꝃ           |   |   |   |                               | lat |   |   |    |        279-02 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Rosk(ildis)           | Roſꝃ           |   |   |   |                               | lat |   |   |    |        279-02 | 2:context |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |                       |                |   |   |   |                               |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | in                    | í             |   |   |   |                               | lat |   |   |    |        279-02 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | in                    | í             |   |   |   |                               | lat |   |   |    |        279-02 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                       |                |   |   |   |                               |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | gæshøwæ               | gæſhøwæ        |   |   |   |                               | lat |   |   |    |        279-02 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | gæshøwæ               | gæſhøwæ        |   |   |   |                               | lat |   |   |    |        279-02 | 2:context |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |                       |                |   |   |   |                               |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | in                    | in             |   |   |   |                               | lat |   |   |    |        279-02 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | in                    | in             |   |   |   |                               | lat |   |   |    |        279-02 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                       |                |   |   |   |                               |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | valburgsh(æ)r(æt)     | valburgſhꝝ     |   |   |   |                               | lat |   |   |    |        279-02 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | valburgsh(æ)r(æt)     | valburgſhꝝ     |   |   |   |                               | lat |   |   |    |        279-02 | 2:context |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |                       |                |   |   |   |                               |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | sita                  | ſíta           |   |   |   |                               | lat |   |   |    |        279-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | cu(m)                 | cu̅             |   |   |   |                               | lat |   |   |    |        279-02 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | sita                  | ſíta           |   |   |   |                               | lat |   |   |    |        279-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | cu(m)                 | cu̅             |   |   |   |                               | lat |   |   |    |        279-02 | 2:context |          |  |    |    |    |    |
 | lm  | 279-03 |   |   |   |   |                       |                |   |   |   |                               |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | o(mn)ib(us)           | oı̅bꝫ           |   |   |   |                               | lat |   |   |    |        279-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | suis                  | ſui           |   |   |   |                               | lat |   |   |    |        279-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | attinenciis           | attınencii    |   |   |   |                               | lat |   |   |    |        279-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | agris                 | agri          |   |   |   |                               | lat |   |   |    |        279-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | prat(is)              | pratꝭ          |   |   |   |                               | lat |   |   |    |        279-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | pascuis               | paſcui        |   |   |   |                               | lat |   |   |    |        279-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | circu(m)quaq(ue)      | cırcu̅quaqꝫ     |   |   |   |                               | lat |   |   |    |        279-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ad                    | ad             |   |   |   |                               | lat |   |   |    |        279-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | q(ua)tuor             | qᷓtuoꝛ          |   |   |   |                               | lat |   |   |    |        279-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | t(er)minos            | t͛mino         |   |   |   |                               | lat |   |   |    |        279-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | campor(um)            | campoꝝ         |   |   |   |                               | lat |   |   |    |        279-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | except(is)            | exceptꝭ        |   |   |   |                               | lat |   |   |    |        279-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | oblacionib(us)        | oblacıonıbꝫ    |   |   |   |                               | lat |   |   |    |        279-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ecc(les)ie            | ecc̅ıe          |   |   |   |                               | lat |   |   |    |        279-03 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | o(mn)ib(us)           | oı̅bꝫ           |   |   |   |                               | lat |   |   |    |        279-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | suis                  | ſui           |   |   |   |                               | lat |   |   |    |        279-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | attinenciis           | attınencii    |   |   |   |                               | lat |   |   |    |        279-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | agris                 | agri          |   |   |   |                               | lat |   |   |    |        279-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | prat(is)              | pratꝭ          |   |   |   |                               | lat |   |   |    |        279-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | pascuis               | paſcui        |   |   |   |                               | lat |   |   |    |        279-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | circu(m)quaq(ue)      | cırcu̅quaqꝫ     |   |   |   |                               | lat |   |   |    |        279-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ad                    | ad             |   |   |   |                               | lat |   |   |    |        279-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | q(ua)tuor             | qᷓtuoꝛ          |   |   |   |                               | lat |   |   |    |        279-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | t(er)minos            | t͛mino         |   |   |   |                               | lat |   |   |    |        279-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | campor(um)            | campoꝝ         |   |   |   |                               | lat |   |   |    |        279-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | except(is)            | exceptꝭ        |   |   |   |                               | lat |   |   |    |        279-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | oblacionib(us)        | oblacıonıbꝫ    |   |   |   |                               | lat |   |   |    |        279-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ecc(les)ie            | ecc̅ıe          |   |   |   |                               | lat |   |   |    |        279-03 | 2:context |          |  |    |    |    |    |
 | lm  | 279-04 |   |   |   |   |                       |                |   |   |   |                               |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | que                   | que            |   |   |   |                               | lat |   |   |    |        279-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ad                    | ad             |   |   |   |                               | lat |   |   |    |        279-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | vsu(m)                | vſu̅            |   |   |   |                               | lat |   |   |    |        279-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | fabrice               | fabrice        |   |   |   |                               | lat |   |   |    |        279-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ear(um)               | eaꝝ            |   |   |   |                               | lat |   |   |    |        279-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ecc(les)ie            | ecc̅ıe          |   |   |   |                               | lat |   |   |    |        279-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | s(un)t                | ſ             |   |   |   |                               | lat |   |   |    |        279-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | deputate              | deputate       |   |   |   |                               | lat |   |   |    |        279-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | (con)duxisse          | ꝯduxıe        |   |   |   |                               | lat |   |   |    |        279-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | cum                   | cu            |   |   |   |                               | lat |   |   |    |        279-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | (cond)i(ci)o(n)ib(us) | ꝯı̅oıbꝫ         |   |   |   |                               | lat |   |   |    |        279-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | infrascript(is)       | ínfraſcrıptꝭ   |   |   |   |                               | lat |   |   |    |        279-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | que                   | que            |   |   |   |                               | lat |   |   |    |        279-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | sequ(n)tur            | ſequ̅tur        |   |   |   |                               | lat |   |   |    |        279-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | v(idelicet)           | vꝫ             |   |   |   |                               | lat |   |   |    |        279-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | in                    | í             |   |   |   |                               | lat |   |   |    |        279-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | p(ri)mo               | pmo           |   |   |   |                               | lat |   |   |    |        279-04 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | que                   | que            |   |   |   |                               | lat |   |   |    |        279-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ad                    | ad             |   |   |   |                               | lat |   |   |    |        279-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | vsu(m)                | vſu̅            |   |   |   |                               | lat |   |   |    |        279-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | fabrice               | fabrice        |   |   |   |                               | lat |   |   |    |        279-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ear(um)               | eaꝝ            |   |   |   |                               | lat |   |   |    |        279-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ecc(les)ie            | ecc̅ıe          |   |   |   |                               | lat |   |   |    |        279-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | s(un)t                | ſ             |   |   |   |                               | lat |   |   |    |        279-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | deputate              | deputate       |   |   |   |                               | lat |   |   |    |        279-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | (con)duxisse          | ꝯduxıe        |   |   |   |                               | lat |   |   |    |        279-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | cum                   | cu            |   |   |   |                               | lat |   |   |    |        279-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | (cond)i(ci)o(n)ib(us) | ꝯı̅oıbꝫ         |   |   |   |                               | lat |   |   |    |        279-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | infrascript(is)       | ínfraſcrıptꝭ   |   |   |   |                               | lat |   |   |    |        279-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | que                   | que            |   |   |   |                               | lat |   |   |    |        279-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | sequ(n)tur            | ſequ̅tur        |   |   |   |                               | lat |   |   |    |        279-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | v(idelicet)           | vꝫ             |   |   |   |                               | lat |   |   |    |        279-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | in                    | í             |   |   |   |                               | lat |   |   |    |        279-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | p(ri)mo               | pmo           |   |   |   |                               | lat |   |   |    |        279-04 | 2:context |          |  |    |    |    |    |
 | lm  | 279-05 |   |   |   |   |                       |                |   |   |   |                               |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | anno                  | anno           |   |   |   |                               | lat |   |   |    |        279-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | sex                   | ſex            |   |   |   |                               | lat |   |   |    |        279-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | talenta               | talenta        |   |   |   |                               | lat |   |   |    |        279-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | annone                | annone         |   |   |   |                               | lat |   |   |    |        279-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | dimidiam              | dímıdía       |   |   |   |                               | lat |   |   |    |        279-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lagena(m)             | lagena̅         |   |   |   |                               | lat |   |   |    |        279-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | butiri                | butiri         |   |   |   |                               | lat |   |   |    |        279-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | vnam                  | vna           |   |   |   |                               | lat |   |   |    |        279-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lag(enam)             | la            |   |   |   |                               | lat |   |   |    |        279-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | alec(um)              | ale           |   |   |   |                               | lat |   |   |    |        279-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | s(e)c(un)do           | ſcd̅o           |   |   |   |                               | lat |   |   |    |        279-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Anno                  | nno           |   |   |   |                               | lat |   |   |    |        279-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | octo                  | octo           |   |   |   |                               | lat |   |   |    |        279-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | talenta               | talenta        |   |   |   |                               | lat |   |   |    |        279-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | annone                | annone         |   |   |   |                               | lat |   |   |    |        279-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | di-¦midiam            | dı-¦midia     |   |   |   |                               | lat |   |   |    | 279-05—279-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lag(enam)             | la            |   |   |   |                               | lat |   |   |    |        279-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | butiri                | butiri         |   |   |   |                               | lat |   |   |    |        279-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | vna(m)                | vna̅            |   |   |   |                               | lat |   |   |    |        279-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lag(enam)             | la            |   |   |   |                               | lat |   |   |    |        279-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | alec(um)              | ale           |   |   |   |                               | lat |   |   |    |        279-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | tercio                | tercio         |   |   |   |                               | lat |   |   |    |        279-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | vero                  | vero           |   |   |   |                               | lat |   |   |    |        279-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | anno                  | anno           |   |   |   |                               | lat |   |   |    |        279-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | vna(m)                | vna̅            |   |   |   |                               | lat |   |   |    |        279-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lestam                | leﬅam          |   |   |   |                               | lat |   |   |    |        279-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Annone                | nnone         |   |   |   |                               | lat |   |   |    |        279-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | dimidia(m)            | dimidia̅        |   |   |   |                               | lat |   |   |    |        279-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lag(enam)             | la            |   |   |   |                               | lat |   |   |    |        279-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | butirj                | butirj         |   |   |   |                               | lat |   |   |    |        279-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | vnam                  | vna           |   |   |   |                               | lat |   |   |    |        279-06 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | anno                  | anno           |   |   |   |                               | lat |   |   |    |        279-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | sex                   | ſex            |   |   |   |                               | lat |   |   |    |        279-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | talenta               | talenta        |   |   |   |                               | lat |   |   |    |        279-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | annone                | annone         |   |   |   |                               | lat |   |   |    |        279-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | dimidiam              | dímıdía       |   |   |   |                               | lat |   |   |    |        279-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | lagena(m)             | lagena̅         |   |   |   |                               | lat |   |   |    |        279-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | butiri                | butiri         |   |   |   |                               | lat |   |   |    |        279-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | vnam                  | vna           |   |   |   |                               | lat |   |   |    |        279-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | lag(enam)             | la            |   |   |   |                               | lat |   |   |    |        279-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | alec(um)              | ale           |   |   |   |                               | lat |   |   |    |        279-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | s(e)c(un)do           | ſcd̅o           |   |   |   |                               | lat |   |   |    |        279-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Anno                  | nno           |   |   |   |                               | lat |   |   |    |        279-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | octo                  | octo           |   |   |   |                               | lat |   |   |    |        279-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | talenta               | talenta        |   |   |   |                               | lat |   |   |    |        279-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | annone                | annone         |   |   |   |                               | lat |   |   |    |        279-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | di-¦midiam            | dı-¦midia     |   |   |   |                               | lat |   |   |    | 279-05—279-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | lag(enam)             | la            |   |   |   |                               | lat |   |   |    |        279-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | butiri                | butiri         |   |   |   |                               | lat |   |   |    |        279-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | vna(m)                | vna̅            |   |   |   |                               | lat |   |   |    |        279-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | lag(enam)             | la            |   |   |   |                               | lat |   |   |    |        279-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | alec(um)              | ale           |   |   |   |                               | lat |   |   |    |        279-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | tercio                | tercio         |   |   |   |                               | lat |   |   |    |        279-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | vero                  | vero           |   |   |   |                               | lat |   |   |    |        279-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | anno                  | anno           |   |   |   |                               | lat |   |   |    |        279-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | vna(m)                | vna̅            |   |   |   |                               | lat |   |   |    |        279-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | lestam                | leﬅam          |   |   |   |                               | lat |   |   |    |        279-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Annone                | nnone         |   |   |   |                               | lat |   |   |    |        279-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | dimidia(m)            | dimidia̅        |   |   |   |                               | lat |   |   |    |        279-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | lag(enam)             | la            |   |   |   |                               | lat |   |   |    |        279-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | butirj                | butirj         |   |   |   |                               | lat |   |   |    |        279-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | vnam                  | vna           |   |   |   |                               | lat |   |   |    |        279-06 | 2:context |          |  |    |    |    |    |
 | lm  | 279-07 |   |   |   |   |                       |                |   |   |   |                               |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lag(enam)             | la            |   |   |   |                               | lat |   |   |    |        279-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | alec(um)              | ale           |   |   |   |                               | lat |   |   |    |        279-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | quarto                | quarto         |   |   |   |                               | lat |   |   |    |        279-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | au(tem)               | au̅             |   |   |   |                               | lat |   |   |    |        279-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | anno                  | anno           |   |   |   |                               | lat |   |   |    |        279-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | q(ua)tuor             | qᷓtuoꝛ          |   |   |   |                               | lat |   |   |    |        279-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | decim                 | deci          |   |   |   |                               | lat |   |   |    |        279-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | talenta               | talenta        |   |   |   |                               | lat |   |   |    |        279-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | annone                | annone         |   |   |   |                               | lat |   |   |    |        279-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | dimidia(m)            | dımıdıa̅        |   |   |   |                               | lat |   |   |    |        279-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lag(enam)             | la            |   |   |   |                               | lat |   |   |    |        279-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | butiri                | butiri         |   |   |   |                               | lat |   |   |    |        279-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | vna(m)                | vna̅            |   |   |   |                               | lat |   |   |    |        279-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lag(enam)             | la            |   |   |   |                               | lat |   |   |    |        279-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | alec(um)              | ale           |   |   |   |                               | lat |   |   |    |        279-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | q(ui)nto              | qnto          |   |   |   |                               | lat |   |   |    |        279-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ve¦ro                 | ve¦ro          |   |   |   |                               | lat |   |   |    | 279-07—279-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | anno                  | anno           |   |   |   |                               | lat |   |   |    |        279-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | sedecim               | ſedeci        |   |   |   |                               | lat |   |   |    |        279-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | talenta               | talenta        |   |   |   |                               | lat |   |   |    |        279-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | annone                | annone         |   |   |   |                               | lat |   |   |    |        279-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | dimidia(m)            | dimidía̅        |   |   |   |                               | lat |   |   |    |        279-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lag(enam)             | la            |   |   |   |                               | lat |   |   |    |        279-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | butiri                | butiri         |   |   |   |                               | lat |   |   |    |        279-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | vna(m)                | vna̅            |   |   |   |                               | lat |   |   |    |        279-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lag(enam)             | la            |   |   |   |                               | lat |   |   |    |        279-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | alec(um)              | ale           |   |   |   |                               | lat |   |   |    |        279-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Sexto                 | Sexto          |   |   |   |                               | lat |   |   |    |        279-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | au(tem)               | au̅             |   |   |   |                               | lat |   |   |    |        279-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | anno                  | anno           |   |   |   |                               | lat |   |   |    |        279-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | dece(m)               | dece̅           |   |   |   |                               | lat |   |   | =  |        279-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | (et)                  | ⁊              |   |   |   |                               | lat |   |   | == |        279-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | octo                  | octo           |   |   |   |                               | lat |   |   |    |        279-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | tale(n)¦ta            | tale̅¦ta        |   |   |   |                               | lat |   |   |    | 279-08—279-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | annone                | annone         |   |   |   |                               | lat |   |   |    |        279-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | dimidia(m)            | dimidıa̅        |   |   |   |                               | lat |   |   |    |        279-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lag(enam)             | la            |   |   |   |                               | lat |   |   |    |        279-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | butiri                | butiri         |   |   |   |                               | lat |   |   |    |        279-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | vna(m)                | vna̅            |   |   |   |                               | lat |   |   |    |        279-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lag(enam)             | la            |   |   |   |                               | lat |   |   |    |        279-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | alec(um)              | ale           |   |   |   |                               | lat |   |   |    |        279-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | q(uo)lib(et)          | qͦlıbꝫ          |   |   |   |                               | lat |   |   |    |        279-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | annor(um)             | annoꝝ          |   |   |   |                               | lat |   |   |    |        279-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | istor(um)             | iﬅoꝝ           |   |   |   |                               | lat |   |   |    |        279-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | medietate(m)          | medıetate̅      |   |   |   |                               | lat |   |   |    |        279-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | huius                 | huíu          |   |   |   |                               | lat |   |   |    |        279-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | annone                | annone         |   |   |   |                               | lat |   |   |    |        279-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | me-¦morate            | me-¦morate     |   |   |   |                               | lat |   |   |    | 279-09—279-10 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | in                    | in             |   |   |   |                               | lat |   |   |    |        279-10 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | siligine              | ſılıgine       |   |   |   |                               | lat |   |   |    |        279-10 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | (et)                  | ⁊              |   |   |   |                               | lat |   |   |    |        279-10 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | meditate(m)           | medıtate̅       |   |   |   |                               | lat |   |   |    |        279-10 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | in                    | in             |   |   |   |                               | lat |   |   |    |        279-10 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ordeo                 | oꝛdeo          |   |   |   |                               | lat |   |   |    |        279-10 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nos                   | no            |   |   |   |                               | lat |   |   |    |        279-10 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | obligam(us)           | oblıgam᷒        |   |   |   |                               | lat |   |   |    |        279-10 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | p(er)                 | ꝑ              |   |   |   |                               | lat |   |   |    |        279-10 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | p(rese)ntes           | pn̅te          |   |   |   |                               | lat |   |   |    |        279-10 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | !exolu(er)e¡          | !exolu͛e¡       |   |   |   |                               | lat |   |   |    |        279-10 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | infra                 | infra          |   |   |   |                               | lat |   |   |    |        279-10 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | festu(m)              | feﬅu̅           |   |   |   |                               | lat |   |   |    |        279-10 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | b(ea)ti               | bt̅ı            |   |   |   |                               | lat |   |   |    |        279-10 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | andree                | andree         |   |   |   |                               | lat |   |   |    |        279-10 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | lag(enam)             | la            |   |   |   |                               | lat |   |   |    |        279-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | alec(um)              | ale           |   |   |   |                               | lat |   |   |    |        279-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | quarto                | quarto         |   |   |   |                               | lat |   |   |    |        279-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | au(tem)               | au̅             |   |   |   |                               | lat |   |   |    |        279-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | anno                  | anno           |   |   |   |                               | lat |   |   |    |        279-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | q(ua)tuor             | qᷓtuoꝛ          |   |   |   |                               | lat |   |   |    |        279-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | decim                 | deci          |   |   |   |                               | lat |   |   |    |        279-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | talenta               | talenta        |   |   |   |                               | lat |   |   |    |        279-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | annone                | annone         |   |   |   |                               | lat |   |   |    |        279-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | dimidia(m)            | dımıdıa̅        |   |   |   |                               | lat |   |   |    |        279-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | lag(enam)             | la            |   |   |   |                               | lat |   |   |    |        279-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | butiri                | butiri         |   |   |   |                               | lat |   |   |    |        279-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | vna(m)                | vna̅            |   |   |   |                               | lat |   |   |    |        279-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | lag(enam)             | la            |   |   |   |                               | lat |   |   |    |        279-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | alec(um)              | ale           |   |   |   |                               | lat |   |   |    |        279-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | q(ui)nto              | qnto          |   |   |   |                               | lat |   |   |    |        279-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ve¦ro                 | ve¦ro          |   |   |   |                               | lat |   |   |    | 279-07—279-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | anno                  | anno           |   |   |   |                               | lat |   |   |    |        279-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | sedecim               | ſedeci        |   |   |   |                               | lat |   |   |    |        279-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | talenta               | talenta        |   |   |   |                               | lat |   |   |    |        279-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | annone                | annone         |   |   |   |                               | lat |   |   |    |        279-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | dimidia(m)            | dimidía̅        |   |   |   |                               | lat |   |   |    |        279-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | lag(enam)             | la            |   |   |   |                               | lat |   |   |    |        279-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | butiri                | butiri         |   |   |   |                               | lat |   |   |    |        279-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | vna(m)                | vna̅            |   |   |   |                               | lat |   |   |    |        279-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | lag(enam)             | la            |   |   |   |                               | lat |   |   |    |        279-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | alec(um)              | ale           |   |   |   |                               | lat |   |   |    |        279-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Sexto                 | Sexto          |   |   |   |                               | lat |   |   |    |        279-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | au(tem)               | au̅             |   |   |   |                               | lat |   |   |    |        279-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | anno                  | anno           |   |   |   |                               | lat |   |   |    |        279-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | dece(m)               | dece̅           |   |   |   |                               | lat |   |   | =  |        279-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | (et)                  | ⁊              |   |   |   |                               | lat |   |   | == |        279-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | octo                  | octo           |   |   |   |                               | lat |   |   |    |        279-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | tale(n)¦ta            | tale̅¦ta        |   |   |   |                               | lat |   |   |    | 279-08—279-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | annone                | annone         |   |   |   |                               | lat |   |   |    |        279-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | dimidia(m)            | dimidıa̅        |   |   |   |                               | lat |   |   |    |        279-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | lag(enam)             | la            |   |   |   |                               | lat |   |   |    |        279-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | butiri                | butiri         |   |   |   |                               | lat |   |   |    |        279-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | vna(m)                | vna̅            |   |   |   |                               | lat |   |   |    |        279-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | lag(enam)             | la            |   |   |   |                               | lat |   |   |    |        279-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | alec(um)              | ale           |   |   |   |                               | lat |   |   |    |        279-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | q(uo)lib(et)          | qͦlıbꝫ          |   |   |   |                               | lat |   |   |    |        279-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | annor(um)             | annoꝝ          |   |   |   |                               | lat |   |   |    |        279-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | istor(um)             | iﬅoꝝ           |   |   |   |                               | lat |   |   |    |        279-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | medietate(m)          | medıetate̅      |   |   |   |                               | lat |   |   |    |        279-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | huius                 | huíu          |   |   |   |                               | lat |   |   |    |        279-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | annone                | annone         |   |   |   |                               | lat |   |   |    |        279-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | me-¦morate            | me-¦morate     |   |   |   |                               | lat |   |   |    | 279-09—279-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | in                    | in             |   |   |   |                               | lat |   |   |    |        279-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | siligine              | ſılıgine       |   |   |   |                               | lat |   |   |    |        279-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | (et)                  | ⁊              |   |   |   |                               | lat |   |   |    |        279-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | meditate(m)           | medıtate̅       |   |   |   |                               | lat |   |   |    |        279-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | in                    | in             |   |   |   |                               | lat |   |   |    |        279-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ordeo                 | oꝛdeo          |   |   |   |                               | lat |   |   |    |        279-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nos                   | no            |   |   |   |                               | lat |   |   |    |        279-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | obligam(us)           | oblıgam᷒        |   |   |   |                               | lat |   |   |    |        279-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | p(er)                 | ꝑ              |   |   |   |                               | lat |   |   |    |        279-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | p(rese)ntes           | pn̅te          |   |   |   |                               | lat |   |   |    |        279-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | !exolu(er)e¡          | !exolu͛e¡       |   |   |   |                               | lat |   |   |    |        279-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | infra                 | infra          |   |   |   |                               | lat |   |   |    |        279-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | festu(m)              | feﬅu̅           |   |   |   |                               | lat |   |   |    |        279-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | b(ea)ti               | bt̅ı            |   |   |   |                               | lat |   |   |    |        279-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | andree                | andree         |   |   |   |                               | lat |   |   |    |        279-10 | 2:context |          |  |    |    |    |    |
 | lm  | 279-11 |   |   |   |   |                       |                |   |   |   |                               |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ap(osto)li            | apl̅ı           |   |   |   |                               | lat |   |   |    |        279-11 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | bonis                 | boni          |   |   |   |                               | lat |   |   |    |        279-11 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | de                    | de             |   |   |   |                               | lat |   |   |    |        279-11 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | eisd(em)              | eıſ           |   |   |   |                               | lat |   |   |    |        279-11 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Hoc                   | Hoc            |   |   |   |                               | lat |   |   |    |        279-11 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | adiecto               | adiecto        |   |   |   |                               | lat |   |   |    |        279-11 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | si                    | ſı             |   |   |   |                               | lat |   |   |    |        279-11 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | aliquo                | alıquo         |   |   |   |                               | lat |   |   |    |        279-11 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | anno                  | anno           |   |   |   |                               | lat |   |   |    |        279-11 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | in                    | in             |   |   |   |                               | lat |   |   |    |        279-11 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | soluendo              | ſoluendo       |   |   |   |                               | lat |   |   |    |        279-11 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | defec(er)im(us)       | defec͛ım᷒        |   |   |   |                               | lat |   |   |    |        279-11 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | vel                   | vel            |   |   |   |                               | lat |   |   |    |        279-11 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | q(ua)n(do)            | qn̅             |   |   |   |                               | lat |   |   |    |        279-11 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nos                   | no            |   |   |   |                               | lat |   |   |    |        279-11 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | mori                  | mori           |   |   |   |                               | lat |   |   |    |        279-11 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | (con)tig(er)it        | ꝯtıg͛ít         |   |   |   |                               | lat |   |   |    |        279-11 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ap(osto)li            | apl̅ı           |   |   |   |                               | lat |   |   |    |        279-11 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | bonis                 | boni          |   |   |   |                               | lat |   |   |    |        279-11 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | de                    | de             |   |   |   |                               | lat |   |   |    |        279-11 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | eisd(em)              | eıſ           |   |   |   |                               | lat |   |   |    |        279-11 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Hoc                   | Hoc            |   |   |   |                               | lat |   |   |    |        279-11 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | adiecto               | adiecto        |   |   |   |                               | lat |   |   |    |        279-11 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | si                    | ſı             |   |   |   |                               | lat |   |   |    |        279-11 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | aliquo                | alıquo         |   |   |   |                               | lat |   |   |    |        279-11 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | anno                  | anno           |   |   |   |                               | lat |   |   |    |        279-11 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | in                    | in             |   |   |   |                               | lat |   |   |    |        279-11 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | soluendo              | ſoluendo       |   |   |   |                               | lat |   |   |    |        279-11 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | defec(er)im(us)       | defec͛ım᷒        |   |   |   |                               | lat |   |   |    |        279-11 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | vel                   | vel            |   |   |   |                               | lat |   |   |    |        279-11 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | q(ua)n(do)            | qn̅             |   |   |   |                               | lat |   |   |    |        279-11 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nos                   | no            |   |   |   |                               | lat |   |   |    |        279-11 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | mori                  | mori           |   |   |   |                               | lat |   |   |    |        279-11 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | (con)tig(er)it        | ꝯtıg͛ít         |   |   |   |                               | lat |   |   |    |        279-11 | 2:context |          |  |    |    |    |    |
 | lm  | 279-12 |   |   |   |   |                       |                |   |   |   |                               |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | extunc                | extunc         |   |   |   |                               | lat |   |   |    |        279-12 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | edificia              | edıficia       |   |   |   |                               | lat |   |   |    |        279-12 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | d(i)c(t)is            | dc̅ı           |   |   |   |                               | lat |   |   |    |        279-12 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | bonis                 | boni          |   |   |   |                               | lat |   |   |    |        279-12 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | p(er)                 | ꝑ              |   |   |   |                               | lat |   |   |    |        279-12 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nos                   | no            |   |   |   |                               | lat |   |   |    |        279-12 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | seu                   | ſeu            |   |   |   |                               | lat |   |   |    |        279-12 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | an(te)                | an̅             |   |   |   |                               | lat |   |   |    |        279-12 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nos                   | no            |   |   |   |                               | lat |   |   |    |        279-12 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | inposita              | inpoſíta       |   |   |   |                               | lat |   |   |    |        279-12 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | d(i)c(t)is            | dc̅ı           |   |   |   |                               | lat |   |   |    |        279-12 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | sororib(us)           | ſoroꝛıbꝫ       |   |   |   |                               | lat |   |   |    |        279-12 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | libere                | lıbere         |   |   |   |                               | lat |   |   |    |        279-12 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | cedant                | cedant         |   |   |   |                               | lat |   |   |    |        279-12 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | absq(ue)              | abſqꝫ          |   |   |   |                               | lat |   |   |    |        279-12 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | recom¦pensa           | recom¦penſa    |   |   |   |                               | lat |   |   |    | 279-12—279-13 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | vel                   | vel            |   |   |   |                               | lat |   |   |    |        279-13 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | reclamac(i)o(n)e      | reclamac̅oe     |   |   |   |                               | lat |   |   |    |        279-13 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | aliquali              | alıquali       |   |   |   |                               | lat |   |   |    |        279-13 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | extunc                | extunc         |   |   |   |                               | lat |   |   |    |        279-12 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | edificia              | edıficia       |   |   |   |                               | lat |   |   |    |        279-12 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | d(i)c(t)is            | dc̅ı           |   |   |   |                               | lat |   |   |    |        279-12 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | bonis                 | boni          |   |   |   |                               | lat |   |   |    |        279-12 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | p(er)                 | ꝑ              |   |   |   |                               | lat |   |   |    |        279-12 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nos                   | no            |   |   |   |                               | lat |   |   |    |        279-12 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | seu                   | ſeu            |   |   |   |                               | lat |   |   |    |        279-12 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | an(te)                | an̅             |   |   |   |                               | lat |   |   |    |        279-12 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nos                   | no            |   |   |   |                               | lat |   |   |    |        279-12 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | inposita              | inpoſíta       |   |   |   |                               | lat |   |   |    |        279-12 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | d(i)c(t)is            | dc̅ı           |   |   |   |                               | lat |   |   |    |        279-12 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | sororib(us)           | ſoroꝛıbꝫ       |   |   |   |                               | lat |   |   |    |        279-12 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | libere                | lıbere         |   |   |   |                               | lat |   |   |    |        279-12 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | cedant                | cedant         |   |   |   |                               | lat |   |   |    |        279-12 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | absq(ue)              | abſqꝫ          |   |   |   |                               | lat |   |   |    |        279-12 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | recom¦pensa           | recom¦penſa    |   |   |   |                               | lat |   |   |    | 279-12—279-13 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | vel                   | vel            |   |   |   |                               | lat |   |   |    |        279-13 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | reclamac(i)o(n)e      | reclamac̅oe     |   |   |   |                               | lat |   |   |    |        279-13 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | aliquali              | alıquali       |   |   |   |                               | lat |   |   |    |        279-13 | 2:context |          |  |    |    |    |    |
 | d  | e      | 2  |   |   |   |                       |                |   |   |   |                               |     |   |   |    |               |          |          |  |    |    |    |    |
 | d  | b      | 3  |   | eschatocol  |   |                       |                |   |   |   |                               |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Dat(um)               | Da            |   |   |   |                               | lat |   |   |    |        279-13 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nno                   | nno           |   |   |   |                               | lat |   |   |    |        279-13 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | d(omi)nj              | dn̅ȷ            |   |   |   |                               | lat |   |   |    |        279-13 |          |          |  |    |    |    |    |
-| n   |        |   |   |   |   | Mͦ                     | Mͦ              |   |   |   |                               | lat |   |   |    |        279-13 |          |          |  |    |    |    |    |
-| n   |        |   |   |   |   | CCCͦ                   | CCCͦ            |   |   |   |                               | lat |   |   |    |        279-13 |          |          |  |    |    |    |    |
-| n   |        |   |   |   |   | lxxxͦ                  | lxxxͦ           |   |   |   |                               | lat |   |   |    |        279-13 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | q(ua)rta              | qᷓrta           |   |   |   |                               | lat |   |   |    |        279-13 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | feria                 | fería          |   |   |   |                               | lat |   |   |    |        279-13 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | p(os)t                | p̅t             |   |   |   |                               | lat |   |   |    |        279-13 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | d(omi)nicam           | dníca        |   |   |   |                               | lat |   |   |    |        279-13 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | medie                 | medíe          |   |   |   |                               | lat |   |   |    |        279-13 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | qua-¦dragesime        | qua-¦drageſíme |   |   |   |                               | lat |   |   |    | 279-13—279-14 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nostro                | noﬅro          |   |   |   |                               | lat |   |   |    |        279-14 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | sub                   | ſub            |   |   |   |                               | lat |   |   |    |        279-14 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | sigillo               | ſıgıllo        |   |   |   |                               | lat |   |   |    |        279-14 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Dat(um)               | Da            |   |   |   |                               | lat |   |   |    |        279-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nno                   | nno           |   |   |   |                               | lat |   |   |    |        279-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | d(omi)nj              | dn̅ȷ            |   |   |   |                               | lat |   |   |    |        279-13 | 3:eschatocol |          |  |    |    |    |    |
+| n   |        |   |   |   |   | Mͦ                     | Mͦ              |   |   |   |                               | lat |   |   |    |        279-13 | 3:eschatocol |          |  |    |    |    |    |
+| n   |        |   |   |   |   | CCCͦ                   | CCCͦ            |   |   |   |                               | lat |   |   |    |        279-13 | 3:eschatocol |          |  |    |    |    |    |
+| n   |        |   |   |   |   | lxxxͦ                  | lxxxͦ           |   |   |   |                               | lat |   |   |    |        279-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | q(ua)rta              | qᷓrta           |   |   |   |                               | lat |   |   |    |        279-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | feria                 | fería          |   |   |   |                               | lat |   |   |    |        279-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | p(os)t                | p̅t             |   |   |   |                               | lat |   |   |    |        279-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | d(omi)nicam           | dníca        |   |   |   |                               | lat |   |   |    |        279-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | medie                 | medíe          |   |   |   |                               | lat |   |   |    |        279-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | qua-¦dragesime        | qua-¦drageſíme |   |   |   |                               | lat |   |   |    | 279-13—279-14 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nostro                | noﬅro          |   |   |   |                               | lat |   |   |    |        279-14 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | sub                   | ſub            |   |   |   |                               | lat |   |   |    |        279-14 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | sigillo               | ſıgıllo        |   |   |   |                               | lat |   |   |    |        279-14 | 3:eschatocol |          |  |    |    |    |    |
 | d  | e      | 3  |   |   |   |                       |                |   |   |   |                               |     |   |   |    |               |          |          |  |    |    |    |    |
 | :e: |        |   |   |   |   |                       |                |   |   |   |                               |     |   |   |    |               |          |          |  |    |    |    |    |

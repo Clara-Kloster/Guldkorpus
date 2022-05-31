@@ -43,331 +43,331 @@
 | pm  | 1r     |            |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | d   | b      | 1          |        | protocol     |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 323-01 |            |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        | vi         | xPE    | vi           |   | Wy              | Wẏ           |   |   |   |   | dan |   |   |   |        323-01 |          |          |  |    |    |    |    |
+| w   |        | vi         | xPE    | vi           |   | Wy              | Wẏ           |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | KnuXxx002  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Knud         |   | knwd            | knwd         |   |   |   |   | dan |   |   |   |        323-01 |          |          |  |    |    |    |    |
+| w   |        |            | xNP    | Knud         |   | knwd            | knwd         |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | e      | KnuXxx002  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-01 |          |          |  |    |    |    |    |
-| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-01 |          |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | PedOns001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Peder        |   | pæther          | pæther       |   |   |   |   | dan |   |   |   |        323-01 |          |          |  |    |    |    |    |
+| w   |        |            | xNP    | Peder        |   | pæther          | pæther       |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | e      | PedOns001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-01 |          |          |  |    |    |    |    |
-| w   |        | af         | xAP    | af           |   | aff             | aff          |   |   |   |   | dan |   |   |   |        323-01 |          |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        | af         | xAP    | af           |   | aff             | aff          |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Onsala       |   | othænsalæ       | othænſalæ    |   |   |   |   | dan |   |   |   |        323-01 |          |          |  |    |    |    |    |
+| w   |        |            | xNP    | Onsala       |   | othænsalæ       | othænſalæ    |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | /               | /            |   |   |   |   | dan |   |   |   |        323-01 |          |          |  |    |    |    |    |
-| w   |        | præst      | xNC    | præste       |   | præste          | præſte       |   |   |   |   | dan |   |   |   |        323-01 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-01 |          |          |  |    |    |    |    |
+| p   |        |            |        |              |   | /               | /            |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        | præst      | xNC    | præste       |   | præste          | præſte       |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | PedRib001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Peder        |   | Pæth(e)r        | Pæthr̅        |   |   |   |   | dan |   |   |   |        323-01 |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Ribbing      |   | rebbing         | rebbing      |   |   |   |   | dan |   |   |   |        323-01 |          |          |  |    |    |    |    |
+| w   |        |            | xNP    | Peder        |   | Pæth(e)r        | Pæthr̅        |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |            | xNP    | Ribbing      |   | rebbing         | rebbing      |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | e      | PedRib001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | /               | /            |   |   |   |   | dan |   |   |   |        323-01 |          |          |  |    |    |    |    |
+| p   |        |            |        |              |   | /               | /            |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | GunSig001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            |        | Gunde        |   | gu(n)næ         | gu̅næ         |   |   |   |   | dan |   |   |   |        323-01 |          |          |  |    |    |    |    |
-| w   |        |            |        | Siggesen     |   | siggess(øn)     | ſiggeſ      |   |   |   |   | dan |   |   |   |        323-01 |          |          |  |    |    |    |    |
+| w   |        |            |        | Gunde        |   | gu(n)næ         | gu̅næ         |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |            |        | Siggesen     |   | siggess(øn)     | ſiggeſ      |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | e      | GunSig001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-01 |          |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | SveTor001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Svend        |   | Swen            | Swe         |   |   |   |   | dan |   |   |   |        323-01 |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Torsen       |   | tho-¦ræs(øn)    | tho-¦ræ     |   |   |   |   | dan |   |   |   | 323-01—323-02 |          |          |  |    |    |    |    |
+| w   |        |            | xNP    | Svend        |   | Swen            | Swe         |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |            | xNP    | Torsen       |   | tho-¦ræs(øn)    | tho-¦ræ     |   |   |   |   | dan |   |   |   | 323-01—323-02 | 1:protocol |          |  |    |    |    |    |
 | PE  | e      | SveTor001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-02 |          |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-02 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | MogHak001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Mogens       |   | mawens          | mawen       |   |   |   |   | dan |   |   |   |        323-02 |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Hake         |   | haghæ           | haghæ        |   |   |   |   | dan |   |   |   |        323-02 |          |          |  |    |    |    |    |
+| w   |        |            | xNP    | Mogens       |   | mawens          | mawen       |   |   |   |   | dan |   |   |   |        323-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |            | xNP    | Hake         |   | haghæ           | haghæ        |   |   |   |   | dan |   |   |   |        323-02 | 1:protocol |          |  |    |    |    |    |
 | PE  | e      | MogHak001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-02 |          |          |  |    |    |    |    |
+| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-02 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | BenKnu001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Bent         |   | bæy(n)d         | bæy̅d         |   |   |   |   | dan |   |   |   |        323-02 |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Knudsen      |   | knudzs(øn)      | knudz       |   |   |   |   | dan |   |   |   |        323-02 |          |          |  |    |    |    |    |
+| w   |        |            | xNP    | Bent         |   | bæy(n)d         | bæy̅d         |   |   |   |   | dan |   |   |   |        323-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |            | xNP    | Knudsen      |   | knudzs(øn)      | knudz       |   |   |   |   | dan |   |   |   |        323-02 | 1:protocol |          |  |    |    |    |    |
 | PE  | e      | BenKnu001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-02 |          |          |  |    |    |    |    |
-| w   |        | af+vapn    | xNC    | af våben     |   | aff wapen       | aff wapen    |   |   |   |   | dan |   |   |   |        323-02 |          |          |  |    |    |    |    |
-| w   |        | kænne      | xVB    | kendes       |   | kæ(n)nes        | kæ̅ne        |   |   |   |   | dan |   |   |   |        323-02 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-02 |          |          |  |    |    |    |    |
-| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-02 |          |          |  |    |    |    |    |
-| w   |        | vitne      | xVB    | vidne        |   | witne           | witne        |   |   |   |   | dan |   |   |   |        323-02 |          |          |  |    |    |    |    |
-| w   |        | thæn       | xAT    | det          |   | th(et)          | thꝫ          |   |   |   |   | dan |   |   |   |        323-02 |          |          |  |    |    |    |    |
-| w   |        | for        | xAP    | fore         |   | foræ            | foræ         |   |   |   |   | dan |   |   |   |        323-02 |          |          |  |    |    |    |    |
-| w   |        | al         | xAJ    | alle         |   | alle            | alle         |   |   |   |   | dan |   |   |   |        323-02 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-02 |          |          |  |    |    |    |    |
-| w   |        | at         | xCS    | at           |   | at              | at           |   |   |   |   | dan |   |   |   |        323-02 |          |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        | af+vapn    | xNC    | af våben     |   | aff wapen       | aff wapen    |   |   |   |   | dan |   |   |   |        323-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        | kænne      | xVB    | kendes       |   | kæ(n)nes        | kæ̅ne        |   |   |   |   | dan |   |   |   |        323-02 | 1:protocol |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        | vitne      | xVB    | vidne        |   | witne           | witne        |   |   |   |   | dan |   |   |   |        323-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        | thæn       | xAT    | det          |   | th(et)          | thꝫ          |   |   |   |   | dan |   |   |   |        323-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        | for        | xAP    | fore         |   | foræ            | foræ         |   |   |   |   | dan |   |   |   |        323-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        | al         | xAJ    | alle         |   | alle            | alle         |   |   |   |   | dan |   |   |   |        323-02 | 1:protocol |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        | at         | xCS    | at           |   | at              | at           |   |   |   |   | dan |   |   |   |        323-02 | 1:protocol |          |  |    |    |    |    |
 | w   |        |            |        |              |   |                 |              |   |   |   |   | dan |   |   |   |        323-02 |          |          |  |    |    |    |    |
 | lm  | 323-03 |            |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        | vi         | xPE    | vi           |   | wi              | wi           |   |   |   |   | dan |   |   |   |        323-03 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-03 |          |          |  |    |    |    |    |
-| w   |        | i          | xAP    | i            |   | j               | ȷ            |   |   |   |   | dan |   |   |   |        323-03 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-03 |          |          |  |    |    |    |    |
-| w   |        | dagh       | xNC    | dag          |   | dagh            | dagh         |   |   |   |   | dan |   |   |   |        323-03 |          |          |  |    |    |    |    |
-| w   |        | være       | xVB    | vare         |   | waræ            | waræ         |   |   |   |   | dan |   |   |   |        323-03 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-03 |          |          |  |    |    |    |    |
-| w   |        | i          | xAP    | i            |   | j               | ȷ            |   |   |   |   | dan |   |   |   |        323-03 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-03 |          |          |  |    |    |    |    |
+| w   |        | vi         | xPE    | vi           |   | wi              | wi           |   |   |   |   | dan |   |   |   |        323-03 | 1:protocol |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-03 | 1:protocol |          |  |    |    |    |    |
+| w   |        | i          | xAP    | i            |   | j               | ȷ            |   |   |   |   | dan |   |   |   |        323-03 | 1:protocol |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-03 | 1:protocol |          |  |    |    |    |    |
+| w   |        | dagh       | xNC    | dag          |   | dagh            | dagh         |   |   |   |   | dan |   |   |   |        323-03 | 1:protocol |          |  |    |    |    |    |
+| w   |        | være       | xVB    | vare         |   | waræ            | waræ         |   |   |   |   | dan |   |   |   |        323-03 | 1:protocol |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-03 | 1:protocol |          |  |    |    |    |    |
+| w   |        | i          | xAP    | i            |   | j               | ȷ            |   |   |   |   | dan |   |   |   |        323-03 | 1:protocol |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-03 | 1:protocol |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Kongesbakke  |   | kongæsbacke     | kongæſbacke  |   |   |   |   | dan |   |   |   |        323-03 |          |          |  |    |    |    |    |
+| w   |        |            | xNP    | Kongesbakke  |   | kongæsbacke     | kongæſbacke  |   |   |   |   | dan |   |   |   |        323-03 | 1:protocol |          |  |    |    |    |    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-03 |          |          |  |    |    |    |    |
-| w   |        | upa        | xAP    | opå          |   | vppa            | va          |   |   |   |   | dan |   |   |   |        323-03 |          |          |  |    |    |    |    |
-| w   |        | thing      | xNC sD | tinget       |   | thingæth        | thingæth     |   |   |   |   | dan |   |   |   |        323-03 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-03 |          |          |  |    |    |    |    |
-| w   |        | flere      | xAJ    | flere        |   | fleræ           | fleræ        |   |   |   |   | dan |   |   |   |        323-03 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-03 |          |          |  |    |    |    |    |
-| w   |        | goth       | xAJ    | gode         |   | gothæ           | gothæ        |   |   |   |   | dan |   |   |   |        323-03 |          |          |  |    |    |    |    |
-| w   |        | man        | xNC    | mænd         |   | mæn             | mæ          |   |   |   |   | dan |   |   |   |        323-03 |          |          |  |    |    |    |    |
-| w   |        | nærværende | xAJ    | nærværende   |   | nærwere(n)dæ    | nærwere̅dæ    |   |   |   |   | dan |   |   |   |        323-03 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-03 |          |          |  |    |    |    |    |
-| w   |        | ok         | xAP    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-03 |          |          |  |    |    |    |    |
-| w   |        | høre       | xVB    | hørte        |   | hør–¦thæ        | hør–¦thæ     |   |   |   |   | dan |   |   |   | 323-03-323-04 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-04 |          |          |  |    |    |    |    |
-| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-04 |          |          |  |    |    |    |    |
-| w   |        | se         | xVB    | såe          |   | sawe            | ſawe         |   |   |   |   | dan |   |   |   |        323-04 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-04 |          |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-03 | 1:protocol |          |  |    |    |    |    |
+| w   |        | upa        | xAP    | opå          |   | vppa            | va          |   |   |   |   | dan |   |   |   |        323-03 | 1:protocol |          |  |    |    |    |    |
+| w   |        | thing      | xNC sD | tinget       |   | thingæth        | thingæth     |   |   |   |   | dan |   |   |   |        323-03 | 1:protocol |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-03 | 1:protocol |          |  |    |    |    |    |
+| w   |        | flere      | xAJ    | flere        |   | fleræ           | fleræ        |   |   |   |   | dan |   |   |   |        323-03 | 1:protocol |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-03 | 1:protocol |          |  |    |    |    |    |
+| w   |        | goth       | xAJ    | gode         |   | gothæ           | gothæ        |   |   |   |   | dan |   |   |   |        323-03 | 1:protocol |          |  |    |    |    |    |
+| w   |        | man        | xNC    | mænd         |   | mæn             | mæ          |   |   |   |   | dan |   |   |   |        323-03 | 1:protocol |          |  |    |    |    |    |
+| w   |        | nærværende | xAJ    | nærværende   |   | nærwere(n)dæ    | nærwere̅dæ    |   |   |   |   | dan |   |   |   |        323-03 | 1:protocol |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-03 | 1:protocol |          |  |    |    |    |    |
+| w   |        | ok         | xAP    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-03 | 1:protocol |          |  |    |    |    |    |
+| w   |        | høre       | xVB    | hørte        |   | hør–¦thæ        | hør–¦thæ     |   |   |   |   | dan |   |   |   | 323-03-323-04 | 1:protocol |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-04 | 1:protocol |          |  |    |    |    |    |
+| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-04 | 1:protocol |          |  |    |    |    |    |
+| w   |        | se         | xVB    | såe          |   | sawe            | ſawe         |   |   |   |   | dan |   |   |   |        323-04 | 1:protocol |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-04 | 1:protocol |          |  |    |    |    |    |
 | d   | e      | 1          |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | d   | b      | 2          |        | context      |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        | at         | xCS    | at           |   | at              | at           |   |   |   |   | dan |   |   |   |        323-04 |          |          |  |    |    |    |    |
+| w   |        | at         | xCS    | at           |   | at              | at           |   |   |   |   | dan |   |   |   |        323-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | KnuSim001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Knud         |   | knud            | knud         |   |   |   |   | dan |   |   |   |        323-04 |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Simonsen     |   | symæ(n)ss(øn)   | ſẏmæ̅ſ       |   |   |   |   | dan |   |   |   |        323-04 |          |          |  |    |    |    |    |
+| w   |        |            | xNP    | Knud         |   | knud            | knud         |   |   |   |   | dan |   |   |   |        323-04 | 2:context |          |  |    |    |    |    |
+| w   |        |            | xNP    | Simonsen     |   | symæ(n)ss(øn)   | ſẏmæ̅ſ       |   |   |   |   | dan |   |   |   |        323-04 | 2:context |          |  |    |    |    |    |
 | PE  | e      | KnuSim001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        | af+vapn    | xNC    | af våben     |   | aff wape(m)     | aff wape̅     |   |   |   |   | dan |   |   |   |        323-04 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-04 |          |          |  |    |    |    |    |
-| w   |        | være       | xVB    | var          |   | war             | war          |   |   |   |   | dan |   |   |   |        323-04 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-04 |          |          |  |    |    |    |    |
-| w   |        | i          | xAP    | i            |   | j               | ȷ            |   |   |   |   | dan |   |   |   |        323-04 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-04 |          |          |  |    |    |    |    |
-| w   |        | dagh       | xNC    | dag          |   | dagh            | dagh         |   |   |   |   | dan |   |   |   |        323-04 |          |          |  |    |    |    |    |
-| w   |        | upa        | xAP    | på           |   | pa              | pa           |   |   |   |   | dan |   |   |   |        323-04 |          |          |  |    |    |    |    |
-| w   |        | thæn       | xAT    | det          |   | th(et)          | thꝫ          |   |   |   |   | dan |   |   |   |        323-04 |          |          |  |    |    |    |    |
-| w   |        | same       | xAJ    | samme        |   | sa(m)me         | ſa̅me         |   |   |   |   | dan |   |   |   |        323-04 |          |          |  |    |    |    |    |
-| w   |        | thing      | xNC    | ting         |   | thing           | thing        |   |   |   |   | dan |   |   |   |        323-04 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-04 |          |          |  |    |    |    |    |
-| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-04 |          |          |  |    |    |    |    |
-| w   |        | skøte      | xVB    | skøde        |   | skøtæ           | ſkøtæ        |   |   |   |   | dan |   |   |   |        323-04 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-04 |          |          |  |    |    |    |    |
-| w   |        | afhænde    | xVB    | afhænde      |   | aff–¦hænde      | aff–¦hænde   |   |   |   |   | dan |   |   |   | 323-04-323-05 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-05 |          |          |  |    |    |    |    |
-| w   |        | sælje      | xVB    | solgte       |   | solde           | ſolde        |   |   |   |   | dan |   |   |   |        323-05 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-05 |          |          |  |    |    |    |    |
-| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-05 |          |          |  |    |    |    |    |
-| w   |        | uplate     | xVB    | oplod        |   | vplood          | vplood       |   |   |   |   | dan |   |   |   |        323-05 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-05 |          |          |  |    |    |    |    |
-| w   |        | ærlik      | xAJ    | ærlig        |   | ærligh          | ærlıgh       |   |   |   |   | dan |   |   |   |        323-05 |          |          |  |    |    |    |    |
-| w   |        | man        | xNC    | mand         |   | man             | ma          |   |   |   |   | dan |   |   |   |        323-05 |          |          |  |    |    |    |    |
-| w   |        | hærre      | xNC    | hr.           |   | hær             | hær          |   |   |   |   | dan |   |   |   |        323-05 |          |          |  |    |    |    |    |
+| w   |        | af+vapn    | xNC    | af våben     |   | aff wape(m)     | aff wape̅     |   |   |   |   | dan |   |   |   |        323-04 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-04 | 2:context |          |  |    |    |    |    |
+| w   |        | være       | xVB    | var          |   | war             | war          |   |   |   |   | dan |   |   |   |        323-04 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-04 | 2:context |          |  |    |    |    |    |
+| w   |        | i          | xAP    | i            |   | j               | ȷ            |   |   |   |   | dan |   |   |   |        323-04 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-04 | 2:context |          |  |    |    |    |    |
+| w   |        | dagh       | xNC    | dag          |   | dagh            | dagh         |   |   |   |   | dan |   |   |   |        323-04 | 2:context |          |  |    |    |    |    |
+| w   |        | upa        | xAP    | på           |   | pa              | pa           |   |   |   |   | dan |   |   |   |        323-04 | 2:context |          |  |    |    |    |    |
+| w   |        | thæn       | xAT    | det          |   | th(et)          | thꝫ          |   |   |   |   | dan |   |   |   |        323-04 | 2:context |          |  |    |    |    |    |
+| w   |        | same       | xAJ    | samme        |   | sa(m)me         | ſa̅me         |   |   |   |   | dan |   |   |   |        323-04 | 2:context |          |  |    |    |    |    |
+| w   |        | thing      | xNC    | ting         |   | thing           | thing        |   |   |   |   | dan |   |   |   |        323-04 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-04 | 2:context |          |  |    |    |    |    |
+| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-04 | 2:context |          |  |    |    |    |    |
+| w   |        | skøte      | xVB    | skøde        |   | skøtæ           | ſkøtæ        |   |   |   |   | dan |   |   |   |        323-04 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-04 | 2:context |          |  |    |    |    |    |
+| w   |        | afhænde    | xVB    | afhænde      |   | aff–¦hænde      | aff–¦hænde   |   |   |   |   | dan |   |   |   | 323-04-323-05 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-05 | 2:context |          |  |    |    |    |    |
+| w   |        | sælje      | xVB    | solgte       |   | solde           | ſolde        |   |   |   |   | dan |   |   |   |        323-05 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-05 | 2:context |          |  |    |    |    |    |
+| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-05 | 2:context |          |  |    |    |    |    |
+| w   |        | uplate     | xVB    | oplod        |   | vplood          | vplood       |   |   |   |   | dan |   |   |   |        323-05 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-05 | 2:context |          |  |    |    |    |    |
+| w   |        | ærlik      | xAJ    | ærlig        |   | ærligh          | ærlıgh       |   |   |   |   | dan |   |   |   |        323-05 | 2:context |          |  |    |    |    |    |
+| w   |        | man        | xNC    | mand         |   | man             | ma          |   |   |   |   | dan |   |   |   |        323-05 | 2:context |          |  |    |    |    |    |
+| w   |        | hærre      | xNC    | hr.           |   | hær             | hær          |   |   |   |   | dan |   |   |   |        323-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AbrBro001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            |        | Abraham      |   | Abram           | Abra        |   |   |   |   | dan |   |   |   |        323-05 |          |          |  |    |    |    |    |
-| w   |        |            |        | Brodersen    |   | broth(e)rs(øn)  | brothr̅      |   |   |   |   | dan |   |   |   |        323-05 |          |          |  |    |    |    |    |
+| w   |        |            |        | Abraham      |   | Abram           | Abra        |   |   |   |   | dan |   |   |   |        323-05 | 2:context |          |  |    |    |    |    |
+| w   |        |            |        | Brodersen    |   | broth(e)rs(øn)  | brothr̅      |   |   |   |   | dan |   |   |   |        323-05 | 2:context |          |  |    |    |    |    |
 | PE  | e      | AbrBro001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        | riddere    | xNC    | ridder       |   | ridd(er)        | ridd        |   |   |   |   | dan |   |   |   |        323-05 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-05 |          |          |  |    |    |    |    |
-| w   |        | sin        | xDP    | sin          |   | syn             | ſẏn          |   |   |   |   | dan |   |   |   |        323-05 |          |          |  |    |    |    |    |
-| w   |        | garth      | xNC    | gård         |   | garth           | garth        |   |   |   |   | dan |   |   |   |        323-05 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-05 |          |          |  |    |    |    |    |
-| w   |        | sum        | xRP    | som          |   | so(m)           | ſo̅           |   |   |   |   | dan |   |   |   |        323-05 |          |          |  |    |    |    |    |
-| w   |        | kalle      | xVB    | kaldes       |   | kalles          | kalle       |   |   |   |   | dan |   |   |   |        323-05 |          |          |  |    |    |    |    |
+| w   |        | riddere    | xNC    | ridder       |   | ridd(er)        | ridd        |   |   |   |   | dan |   |   |   |        323-05 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-05 | 2:context |          |  |    |    |    |    |
+| w   |        | sin        | xDP    | sin          |   | syn             | ſẏn          |   |   |   |   | dan |   |   |   |        323-05 | 2:context |          |  |    |    |    |    |
+| w   |        | garth      | xNC    | gård         |   | garth           | garth        |   |   |   |   | dan |   |   |   |        323-05 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-05 | 2:context |          |  |    |    |    |    |
+| w   |        | sum        | xRP    | som          |   | so(m)           | ſo̅           |   |   |   |   | dan |   |   |   |        323-05 | 2:context |          |  |    |    |    |    |
+| w   |        | kalle      | xVB    | kaldes       |   | kalles          | kalle       |   |   |   |   | dan |   |   |   |        323-05 | 2:context |          |  |    |    |    |    |
 | lm  | 323-06 |            |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | PL  | b      |            |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            |        | Helles       |   | hælles          | hælle       |   |   |   |   | dan |   |   |   |        323-06 |          |          |  |    |    |    |    |
-| w   |        | aker       | xNC    | ager         |   | agher           | agher        |   |   |   |   | dan |   |   |   |        323-06 |          |          |  |    |    |    |    |
+| w   |        |            |        | Helles       |   | hælles          | hælle       |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
+| w   |        | aker       | xNC    | ager         |   | agher           | agher        |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
 | PL  | e      |            |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-06 |          |          |  |    |    |    |    |
-| w   |        | i          | xAP    | i            |   | j               | ȷ            |   |   |   |   | dan |   |   |   |        323-06 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-06 |          |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
+| w   |        | i          | xAP    | i            |   | j               | ȷ            |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
 | PL  | b      |            |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Fjære        |   | fyæræ           | fyæræ        |   |   |   |   | dan |   |   |   |        323-06 |          |          |  |    |    |    |    |
+| w   |        |            | xNP    | Fjære        |   | fyæræ           | fyæræ        |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
 | PL  | e      |            |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-06 |          |          |  |    |    |    |    |
-| w   |        | i          | xAP    | i            |   | j               | ȷ            |   |   |   |   | dan |   |   |   |        323-06 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-06 |          |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
+| w   |        | i          | xAP    | i            |   | j               | ȷ            |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
 | PL  | b      |            |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Lindome sogn |   | lyu(n)gemæsoken | lyu̅gemæſoken |   |   |   |   | dan |   |   |   |        323-06 |          |          |  |    |    |    |    |
+| w   |        |            | xNP    | Lindome sogn |   | lyu(n)gemæsoken | lyu̅gemæſoken |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
 | PL  | e      |            |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-06 |          |          |  |    |    |    |    |
-| w   |        | mæth       | xAP    | med          |   | m(et)           | ꝫ           |   |   |   |   | dan |   |   |   |        323-06 |          |          |  |    |    |    |    |
-| w   |        | al         | xAJ    | alt          |   | alt             | alt          |   |   |   |   | dan |   |   |   |        323-06 |          |          |  |    |    |    |    |
-| w   |        | thæn       | xAT    | det          |   | th(et)          | thꝫ          |   |   |   |   | dan |   |   |   |        323-06 |          |          |  |    |    |    |    |
-| w   |        | goths      | xNC    | gods         |   | gotz            | gotz         |   |   |   |   | dan |   |   |   |        323-06 |          |          |  |    |    |    |    |
-| w   |        | sum        | xRP    | som          |   | som             | ſo          |   |   |   |   | dan |   |   |   |        323-06 |          |          |  |    |    |    |    |
-| w   |        | thær       | xAV    | der          |   | th(e)r          | thr̅          |   |   |   |   | dan |   |   |   |        323-06 |          |          |  |    |    |    |    |
-| w   |        | tilligje   | xVB    | tilligger    |   | tilligg(er)     | tillıgg     |   |   |   |   | dan |   |   |   |        323-06 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-06 |          |          |  |    |    |    |    |
-| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-06 |          |          |  |    |    |    |    |
-| w   |        | mæth       | xAP    | med          |   | m(et)           | mꝫ           |   |   |   |   | dan |   |   |   |        323-06 |          |          |  |    |    |    |    |
-| w   |        | al         | xAJ    | alle         |   | alle            | alle         |   |   |   |   | dan |   |   |   |        323-06 |          |          |  |    |    |    |    |
-| w   |        | tillagh    | xNC    | tillage       |   | tilla–¦ghæ      | tilla–¦ghæ   |   |   |   |   | dan |   |   |   | 323-06-323-07 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-07 |          |          |  |    |    |    |    |
-| w   |        | uten       | xAP    | uden         |   | vden            | vden         |   |   |   |   | dan |   |   |   |        323-07 |          |          |  |    |    |    |    |
-| w   |        | garth      | xNC    | gårds        |   | garthz          | garthz       |   |   |   |   | dan |   |   |   |        323-07 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-07 |          |          |  |    |    |    |    |
-| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-07 |          |          |  |    |    |    |    |
-| w   |        | innen      | xAV    | inden        |   | jnne(n)         | jnne̅         |   |   |   |   | dan |   |   |   |        323-07 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-07 |          |          |  |    |    |    |    |
-| w   |        | nær        | xAP    | nær          |   | nar             | nar          |   |   |   |   | dan |   |   |   |        323-07 |          |          |  |    |    |    |    |
-| w   |        | by         | xNC    | by           |   | byy             | bẏẏ          |   |   |   |   | dan |   |   |   |        323-07 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-07 |          |          |  |    |    |    |    |
-| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-07 |          |          |  |    |    |    |    |
-| w   |        | fjarn      | xAJ    | fjerne       |   | fyærne          | fyærne       |   |   |   |   | dan |   |   |   |        323-07 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-07 |          |          |  |    |    |    |    |
-| w   |        | ænge       | xPI    | inte         |   | Enkte           | nkte        |   |   |   |   | dan |   |   |   |        323-07 |          |          |  |    |    |    |    |
-| w   |        | undentaken | xAJ    | undentaget     |   | vnde(n) tagith  | vnde̅ tagith  |   |   |   |   | dan |   |   |   |        323-07 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-07 |          |          |  |    |    |    |    |
-| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-07 |          |          |  |    |    |    |    |
-| w   |        | thærtil    | xAV    | dertil       |   | th(e)r til      | thr̅ til      |   |   |   |   | dan |   |   |   |        323-07 |          |          |  |    |    |    |    |
-| w   |        | al         | xAJ    | alt          |   | alt             | alt          |   |   |   |   | dan |   |   |   |        323-07 |          |          |  |    |    |    |    |
-| w   |        | thæn       | xAT    | det          |   | th(et)          | thꝫ          |   |   |   |   | dan |   |   |   |        323-07 |          |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
+| w   |        | mæth       | xAP    | med          |   | m(et)           | ꝫ           |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
+| w   |        | al         | xAJ    | alt          |   | alt             | alt          |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
+| w   |        | thæn       | xAT    | det          |   | th(et)          | thꝫ          |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
+| w   |        | goths      | xNC    | gods         |   | gotz            | gotz         |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
+| w   |        | sum        | xRP    | som          |   | som             | ſo          |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
+| w   |        | thær       | xAV    | der          |   | th(e)r          | thr̅          |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
+| w   |        | tilligje   | xVB    | tilligger    |   | tilligg(er)     | tillıgg     |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
+| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
+| w   |        | mæth       | xAP    | med          |   | m(et)           | mꝫ           |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
+| w   |        | al         | xAJ    | alle         |   | alle            | alle         |   |   |   |   | dan |   |   |   |        323-06 | 2:context |          |  |    |    |    |    |
+| w   |        | tillagh    | xNC    | tillage       |   | tilla–¦ghæ      | tilla–¦ghæ   |   |   |   |   | dan |   |   |   | 323-06-323-07 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-07 | 2:context |          |  |    |    |    |    |
+| w   |        | uten       | xAP    | uden         |   | vden            | vden         |   |   |   |   | dan |   |   |   |        323-07 | 2:context |          |  |    |    |    |    |
+| w   |        | garth      | xNC    | gårds        |   | garthz          | garthz       |   |   |   |   | dan |   |   |   |        323-07 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-07 | 2:context |          |  |    |    |    |    |
+| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-07 | 2:context |          |  |    |    |    |    |
+| w   |        | innen      | xAV    | inden        |   | jnne(n)         | jnne̅         |   |   |   |   | dan |   |   |   |        323-07 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-07 | 2:context |          |  |    |    |    |    |
+| w   |        | nær        | xAP    | nær          |   | nar             | nar          |   |   |   |   | dan |   |   |   |        323-07 | 2:context |          |  |    |    |    |    |
+| w   |        | by         | xNC    | by           |   | byy             | bẏẏ          |   |   |   |   | dan |   |   |   |        323-07 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-07 | 2:context |          |  |    |    |    |    |
+| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-07 | 2:context |          |  |    |    |    |    |
+| w   |        | fjarn      | xAJ    | fjerne       |   | fyærne          | fyærne       |   |   |   |   | dan |   |   |   |        323-07 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-07 | 2:context |          |  |    |    |    |    |
+| w   |        | ænge       | xPI    | inte         |   | Enkte           | nkte        |   |   |   |   | dan |   |   |   |        323-07 | 2:context |          |  |    |    |    |    |
+| w   |        | undentaken | xAJ    | undentaget     |   | vnde(n) tagith  | vnde̅ tagith  |   |   |   |   | dan |   |   |   |        323-07 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-07 | 2:context |          |  |    |    |    |    |
+| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-07 | 2:context |          |  |    |    |    |    |
+| w   |        | thærtil    | xAV    | dertil       |   | th(e)r til      | thr̅ til      |   |   |   |   | dan |   |   |   |        323-07 | 2:context |          |  |    |    |    |    |
+| w   |        | al         | xAJ    | alt          |   | alt             | alt          |   |   |   |   | dan |   |   |   |        323-07 | 2:context |          |  |    |    |    |    |
+| w   |        | thæn       | xAT    | det          |   | th(et)          | thꝫ          |   |   |   |   | dan |   |   |   |        323-07 | 2:context |          |  |    |    |    |    |
 | lm  | 323-08 |            |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        | goths      | xNC    | gods         |   | gotz            | gotz         |   |   |   |   | dan |   |   |   |        323-08 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-08 |          |          |  |    |    |    |    |
-| w   |        | sum        | xRP    | som          |   | so(m)           | ſo̅           |   |   |   |   | dan |   |   |   |        323-08 |          |          |  |    |    |    |    |
-| w   |        | han        | xPE    | han          |   | han             | ha          |   |   |   |   | dan |   |   |   |        323-08 |          |          |  |    |    |    |    |
-| w   |        | have       | xVB    | havde        |   | hafthe          | hafthe       |   |   |   |   | dan |   |   |   |        323-08 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-08 |          |          |  |    |    |    |    |
-| w   |        | i          | xAP    | i            |   | j               | ȷ            |   |   |   |   | dan |   |   |   |        323-08 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-08 |          |          |  |    |    |    |    |
+| w   |        | goths      | xNC    | gods         |   | gotz            | gotz         |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |    |    |
+| w   |        | sum        | xRP    | som          |   | so(m)           | ſo̅           |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |    |    |
+| w   |        | han        | xPE    | han          |   | han             | ha          |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |    |    |
+| w   |        | have       | xVB    | havde        |   | hafthe          | hafthe       |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |    |    |
+| w   |        | i          | xAP    | i            |   | j               | ȷ            |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |    |    |
 | PL  | b      |            |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Fjære        |   | fyæræ           | fyæræ        |   |   |   |   | dan |   |   |   |        323-08 |          |          |  |    |    |    |    |
+| w   |        |            | xNP    | Fjære        |   | fyæræ           | fyæræ        |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |    |    |
 | PL  | e      |            |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-08 |          |          |  |    |    |    |    |
-| w   |        | ehvar      | xAV    | ihvor        |   | æ. hwr          | æ. hwr       |   |   |   |   | dan |   |   |   |        323-08 |          |          |  |    |    |    |    |
-| w   |        | thæn       | xPE    | det          |   | th(et)          | thꝫ          |   |   |   |   | dan |   |   |   |        323-08 |          |          |  |    |    |    |    |
-| w   |        | thær       | xAV    | der          |   | th(e)r          | thr̅          |   |   |   |   | dan |   |   |   |        323-08 |          |          |  |    |    |    |    |
-| w   |        | ligje      | xVB    | ligger       |   | ligg(er)        | ligg        |   |   |   |   | dan |   |   |   |        323-08 |          |          |  |    |    |    |    |
-| w   |        | æller      | xCC    | eller        |   | æll(e)r         | ællr        |   |   |   |   | dan |   |   |   |        323-08 |          |          |  |    |    |    |    |
-| w   |        | kunne      | xVB    | kan          |   | kan             | ka          |   |   |   |   | dan |   |   |   |        323-08 |          |          |  |    |    |    |    |
-| w   |        | spyrje     | xVB    | spørges      |   | spøryes         | ſpørye      |   |   |   |   | dan |   |   |   |        323-08 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-08 |          |          |  |    |    |    |    |
-| w   |        | i          | xAP    | i            |   | j               | ȷ            |   |   |   |   | dan |   |   |   |        323-08 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-08 |          |          |  |    |    |    |    |
-| w   |        | fornævnd   | xAJ    | fornævnte    |   | for(nefnde)     | foꝛͩ         |   |   |   |   | dan |   |   |   |        323-08 |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Fjære        |   | fyæræ           | fẏæræ        |   |   |   |   | dan |   |   |   |        323-08 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-08 |          |          |  |    |    |    |    |
-| w   |        | fran       | xAP    | fra          |   | fran            | fra         |   |   |   |   | dan |   |   |   |        323-08 |          |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |    |    |
+| w   |        | ehvar      | xAV    | ihvor        |   | æ. hwr          | æ. hwr       |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |    |    |
+| w   |        | thæn       | xPE    | det          |   | th(et)          | thꝫ          |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |    |    |
+| w   |        | thær       | xAV    | der          |   | th(e)r          | thr̅          |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |    |    |
+| w   |        | ligje      | xVB    | ligger       |   | ligg(er)        | ligg        |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |    |    |
+| w   |        | æller      | xCC    | eller        |   | æll(e)r         | ællr        |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |    |    |
+| w   |        | kunne      | xVB    | kan          |   | kan             | ka          |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |    |    |
+| w   |        | spyrje     | xVB    | spørges      |   | spøryes         | ſpørye      |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |    |    |
+| w   |        | i          | xAP    | i            |   | j               | ȷ            |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |    |    |
+| w   |        | fornævnd   | xAJ    | fornævnte    |   | for(nefnde)     | foꝛͩ         |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |    |    |
+| w   |        |            | xNP    | Fjære        |   | fyæræ           | fẏæræ        |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |    |    |
+| w   |        | fran       | xAP    | fra          |   | fran            | fra         |   |   |   |   | dan |   |   |   |        323-08 | 2:context |          |  |    |    |    |    |
 | lm  | 323-09 |            |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        | sik        | xPE    | sig          |   | sægh            | ſægh         |   |   |   |   | dan |   |   |   |        323-09 |          |          |  |    |    |    |    |
-| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-09 |          |          |  |    |    |    |    |
-| w   |        | sin        | xDP    | sine         |   | sine            | ſine         |   |   |   |   | dan |   |   |   |        323-09 |          |          |  |    |    |    |    |
-| w   |        | arving     | xNC    | arvinge      |   | arfwinge        | arfwinge     |   |   |   |   | dan |   |   |   |        323-09 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-09 |          |          |  |    |    |    |    |
-| w   |        | under      | xAP    | under        |   | vnd(er)         | vnd         |   |   |   |   | dan |   |   |   |        323-09 |          |          |  |    |    |    |    |
-| w   |        | fornævnd   | xAJ    | fornævnte    |   | for(nefnde)     | forͩͤ          |   |   |   |   | dan |   |   |   |        323-09 |          |          |  |    |    |    |    |
-| w   |        | hærre      | xNC    | hr.           |   | hær             | hær          |   |   |   |   | dan |   |   |   |        323-09 |          |          |  |    |    |    |    |
+| w   |        | sik        | xPE    | sig          |   | sægh            | ſægh         |   |   |   |   | dan |   |   |   |        323-09 | 2:context |          |  |    |    |    |    |
+| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-09 | 2:context |          |  |    |    |    |    |
+| w   |        | sin        | xDP    | sine         |   | sine            | ſine         |   |   |   |   | dan |   |   |   |        323-09 | 2:context |          |  |    |    |    |    |
+| w   |        | arving     | xNC    | arvinge      |   | arfwinge        | arfwinge     |   |   |   |   | dan |   |   |   |        323-09 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-09 | 2:context |          |  |    |    |    |    |
+| w   |        | under      | xAP    | under        |   | vnd(er)         | vnd         |   |   |   |   | dan |   |   |   |        323-09 | 2:context |          |  |    |    |    |    |
+| w   |        | fornævnd   | xAJ    | fornævnte    |   | for(nefnde)     | forͩͤ          |   |   |   |   | dan |   |   |   |        323-09 | 2:context |          |  |    |    |    |    |
+| w   |        | hærre      | xNC    | hr.           |   | hær             | hær          |   |   |   |   | dan |   |   |   |        323-09 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AbrBro001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Abraham      |   | Abram           | Abra        |   |   |   |   | dan |   |   |   |        323-09 |          |          |  |    |    |    |    |
+| w   |        |            | xNP    | Abraham      |   | Abram           | Abra        |   |   |   |   | dan |   |   |   |        323-09 | 2:context |          |  |    |    |    |    |
 | PE  | e      | AbrBro001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-09 |          |          |  |    |    |    |    |
-| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-09 |          |          |  |    |    |    |    |
-| w   |        | han        | xPE    | hans         |   | hans            | han         |   |   |   |   | dan |   |   |   |        323-09 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-09 |          |          |  |    |    |    |    |
-| w   |        | arving     | xNC    | arvinge      |   | arfwinge        | arfwinge     |   |   |   |   | dan |   |   |   |        323-09 |          |          |  |    |    |    |    |
-| w   |        | til        | xAP    | til          |   | til             | til          |   |   |   |   | dan |   |   |   |        323-09 |          |          |  |    |    |    |    |
-| w   |        | æværthelik | xAJ    | evindeligt   |   | Ew(er)delict    | wdelict    |   |   |   |   | dan |   |   |   |        323-09 |          |          |  |    |    |    |    |
-| w   |        | eghe       | xNC    | ege          |   | eghe            | eghe         |   |   |   |   | dan |   |   |   |        323-09 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-09 |          |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-09 | 2:context |          |  |    |    |    |    |
+| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-09 | 2:context |          |  |    |    |    |    |
+| w   |        | han        | xPE    | hans         |   | hans            | han         |   |   |   |   | dan |   |   |   |        323-09 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-09 | 2:context |          |  |    |    |    |    |
+| w   |        | arving     | xNC    | arvinge      |   | arfwinge        | arfwinge     |   |   |   |   | dan |   |   |   |        323-09 | 2:context |          |  |    |    |    |    |
+| w   |        | til        | xAP    | til          |   | til             | til          |   |   |   |   | dan |   |   |   |        323-09 | 2:context |          |  |    |    |    |    |
+| w   |        | æværthelik | xAJ    | evindeligt   |   | Ew(er)delict    | wdelict    |   |   |   |   | dan |   |   |   |        323-09 | 2:context |          |  |    |    |    |    |
+| w   |        | eghe       | xNC    | ege          |   | eghe            | eghe         |   |   |   |   | dan |   |   |   |        323-09 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-09 | 2:context |          |  |    |    |    |    |
 | lm  | 323-10 |            |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-10 |          |          |  |    |    |    |    |
-| w   |        | kænne      | xVB    | kendes       |   | kændes          | kænde       |   |   |   |   | dan |   |   |   |        323-10 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-10 |          |          |  |    |    |    |    |
-| w   |        | han        | xPE    | han          |   | han             | ha          |   |   |   |   | dan |   |   |   |        323-10 |          |          |  |    |    |    |    |
-| w   |        | thær       | xAV    | der          |   | th(e)r          | thr̅          |   |   |   |   | dan |   |   |   |        323-10 |          |          |  |    |    |    |    |
-| w   |        | upa        | xAP    | på           |   | pa              | pa           |   |   |   |   | dan |   |   |   |        323-10 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-10 |          |          |  |    |    |    |    |
-| w   |        | thing      | xNC    | tinget       |   | thinget         | thinget      |   |   |   |   | dan |   |   |   |        323-10 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-10 |          |          |  |    |    |    |    |
-| w   |        | at         | xCS    | at           |   | at              | at           |   |   |   |   | dan |   |   |   |        323-10 |          |          |  |    |    |    |    |
-| w   |        | fornævnd   | xAJ    | fornævnte    |   | for(nefnde)     | foꝛͩͤ          |   |   |   |   | dan |   |   |   |        323-10 |          |          |  |    |    |    |    |
-| w   |        | hærre      | xNC    | hr.           |   | h(er)           | h̅            |   |   |   |   | dan |   |   |   |        323-10 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-10 |          |          |  |    |    |    |    |
+| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |    |    |    |    |
+| w   |        | kænne      | xVB    | kendes       |   | kændes          | kænde       |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |    |    |    |    |
+| w   |        | han        | xPE    | han          |   | han             | ha          |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |    |    |    |    |
+| w   |        | thær       | xAV    | der          |   | th(e)r          | thr̅          |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |    |    |    |    |
+| w   |        | upa        | xAP    | på           |   | pa              | pa           |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |    |    |    |    |
+| w   |        | thing      | xNC    | tinget       |   | thinget         | thinget      |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |    |    |    |    |
+| w   |        | at         | xCS    | at           |   | at              | at           |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |    |    |    |    |
+| w   |        | fornævnd   | xAJ    | fornævnte    |   | for(nefnde)     | foꝛͩͤ          |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |    |    |    |    |
+| w   |        | hærre      | xNC    | hr.           |   | h(er)           | h̅            |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AbrBro001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Abraham      |   | Abram           | Abra        |   |   |   |   | dan |   |   |   |        323-10 |          |          |  |    |    |    |    |
+| w   |        |            | xNP    | Abraham      |   | Abram           | Abra        |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |    |    |    |    |
 | PE  | e      | AbrBro001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-10 |          |          |  |    |    |    |    |
-| w   |        | have       | xVB    | har          |   | haw(er)         | haw         |   |   |   |   | dan |   |   |   |        323-10 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-10 |          |          |  |    |    |    |    |
-| w   |        | i          | xAP    | i            |   | j               | ȷ            |   |   |   |   | dan |   |   |   |        323-10 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-10 |          |          |  |    |    |    |    |
-| w   |        | han        | xPE    | hans         |   | hans            | han         |   |   |   |   | dan |   |   |   |        323-10 |          |          |  |    |    |    |    |
-| w   |        | minne      | xNC    | minde        |   | mi(n)næ         | mi̅næ         |   |   |   |   | dan |   |   |   |        323-10 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-10 |          |          |  |    |    |    |    |
-| w   |        | thær       | xAV    | der          |   | th(e)r          | thr̅          |   |   |   |   | dan |   |   |   |        323-10 |          |          |  |    |    |    |    |
-| w   |        | sva        | xAV    | så           |   | swo             | ſwo          |   |   |   |   | dan |   |   |   |        323-10 |          |          |  |    |    |    |    |
-| w   |        | for        | xAV    | fore         |   | fo–¦ræ          | fo–¦ræ       |   |   |   |   | dan |   |   |   | 323-10-323-11 |          |          |  |    |    |    |    |
-| w   |        | blive      | xVB    | blevet       |   | blewit          | blewit       |   |   |   |   | dan |   |   |   |        323-11 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-11 |          |          |  |    |    |    |    |
-| w   |        | thæn       | xAT    | det          |   | th(et)          | thꝫ          |   |   |   |   | dan |   |   |   |        323-11 |          |          |  |    |    |    |    |
-| w   |        | han        | xPE    | hannem         |   | hano(m)         | hano̅         |   |   |   |   | dan |   |   |   |        323-11 |          |          |  |    |    |    |    |
-| w   |        | væl        | xAV    | vel          |   | wæl             | wæl          |   |   |   |   | dan |   |   |   |        323-11 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-11 |          |          |  |    |    |    |    |
-| w   |        | atnøghje   | xVB    | adnøjer      |   | atnøgher        | atnøgher     |   |   |   |   | dan |   |   |   |        323-11 |          |          |  |    |    |    |    |
-| w   |        | fore       | xAP    | fore         |   | foræ            | foræ         |   |   |   |   | dan |   |   |   |        323-11 |          |          |  |    |    |    |    |
-| w   |        | al         | xAJ    | alt          |   | alt             | alt          |   |   |   |   | dan |   |   |   |        323-11 |          |          |  |    |    |    |    |
-| w   |        | thæn       | xAT    | det          |   | th(et)          | thꝫ          |   |   |   |   | dan |   |   |   |        323-11 |          |          |  |    |    |    |    |
-| w   |        | fornævnd   | xAJ    | fornævnte    |   | for(nefnde)     | foꝛͩͤ          |   |   |   |   | dan |   |   |   |        323-11 |          |          |  |    |    |    |    |
-| w   |        | goths      | xNC    | gods         |   | gotz            | gotz         |   |   |   |   | dan |   |   |   |        323-11 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-11 |          |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |    |    |    |    |
+| w   |        | have       | xVB    | har          |   | haw(er)         | haw         |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |    |    |    |    |
+| w   |        | i          | xAP    | i            |   | j               | ȷ            |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |    |    |    |    |
+| w   |        | han        | xPE    | hans         |   | hans            | han         |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |    |    |    |    |
+| w   |        | minne      | xNC    | minde        |   | mi(n)næ         | mi̅næ         |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |    |    |    |    |
+| w   |        | thær       | xAV    | der          |   | th(e)r          | thr̅          |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |    |    |    |    |
+| w   |        | sva        | xAV    | så           |   | swo             | ſwo          |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |    |    |    |    |
+| w   |        | for        | xAV    | fore         |   | fo–¦ræ          | fo–¦ræ       |   |   |   |   | dan |   |   |   | 323-10-323-11 | 2:context |          |  |    |    |    |    |
+| w   |        | blive      | xVB    | blevet       |   | blewit          | blewit       |   |   |   |   | dan |   |   |   |        323-11 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-11 | 2:context |          |  |    |    |    |    |
+| w   |        | thæn       | xAT    | det          |   | th(et)          | thꝫ          |   |   |   |   | dan |   |   |   |        323-11 | 2:context |          |  |    |    |    |    |
+| w   |        | han        | xPE    | hannem         |   | hano(m)         | hano̅         |   |   |   |   | dan |   |   |   |        323-11 | 2:context |          |  |    |    |    |    |
+| w   |        | væl        | xAV    | vel          |   | wæl             | wæl          |   |   |   |   | dan |   |   |   |        323-11 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-11 | 2:context |          |  |    |    |    |    |
+| w   |        | atnøghje   | xVB    | adnøjer      |   | atnøgher        | atnøgher     |   |   |   |   | dan |   |   |   |        323-11 | 2:context |          |  |    |    |    |    |
+| w   |        | fore       | xAP    | fore         |   | foræ            | foræ         |   |   |   |   | dan |   |   |   |        323-11 | 2:context |          |  |    |    |    |    |
+| w   |        | al         | xAJ    | alt          |   | alt             | alt          |   |   |   |   | dan |   |   |   |        323-11 | 2:context |          |  |    |    |    |    |
+| w   |        | thæn       | xAT    | det          |   | th(et)          | thꝫ          |   |   |   |   | dan |   |   |   |        323-11 | 2:context |          |  |    |    |    |    |
+| w   |        | fornævnd   | xAJ    | fornævnte    |   | for(nefnde)     | foꝛͩͤ          |   |   |   |   | dan |   |   |   |        323-11 | 2:context |          |  |    |    |    |    |
+| w   |        | goths      | xNC    | gods         |   | gotz            | gotz         |   |   |   |   | dan |   |   |   |        323-11 | 2:context |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-11 | 2:context |          |  |    |    |    |    |
 | d   | e      | 2          |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | d   | b      | 3          |        | eschatocol   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        | svasum     | xRP    | såsom        |   | Swosom          | woso       |   |   |   |   | dan |   |   |   |        323-11 |          |          |  |    |    |    |    |
-| w   |        | nu         | xAV    | nu           |   | nu              | nu           |   |   |   |   | dan |   |   |   |        323-11 |          |          |  |    |    |    |    |
-| w   |        | for        | xAV    | fore         |   | foræ            | foræ         |   |   |   |   | dan |   |   |   |        323-11 |          |          |  |    |    |    |    |
-| w   |        | være       | xVB    | er           |   | ær              | ær           |   |   |   |   | dan |   |   |   |        323-11 |          |          |  |    |    |    |    |
+| w   |        | svasum     | xRP    | såsom        |   | Swosom          | woso       |   |   |   |   | dan |   |   |   |        323-11 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        | nu         | xAV    | nu           |   | nu              | nu           |   |   |   |   | dan |   |   |   |        323-11 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        | for        | xAV    | fore         |   | foræ            | foræ         |   |   |   |   | dan |   |   |   |        323-11 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        | være       | xVB    | er           |   | ær              | ær           |   |   |   |   | dan |   |   |   |        323-11 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 323-12 |            |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        | sæghje     | xVB    | sagt         |   | sakth           | ſakth        |   |   |   |   | dan |   |   |   |        323-12 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-12 |          |          |  |    |    |    |    |
-| w   |        | sva        | xAV    | så           |   | swo             | ſwo          |   |   |   |   | dan |   |   |   |        323-12 |          |          |  |    |    |    |    |
-| w   |        | høre       | xVB    | hørte        |   | hørthe          | hørthe       |   |   |   |   | dan |   |   |   |        323-12 |          |          |  |    |    |    |    |
-| w   |        | vi         | xPE    | vi           |   | wi              | wi           |   |   |   |   | dan |   |   |   |        323-12 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-12 |          |          |  |    |    |    |    |
-| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-12 |          |          |  |    |    |    |    |
-| w   |        | se         | xVB    | såe          |   | sawe            | ſawe         |   |   |   |   | dan |   |   |   |        323-12 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-12 |          |          |  |    |    |    |    |
-| w   |        | i          | xAP    | i            |   | j               | ȷ            |   |   |   |   | dan |   |   |   |        323-12 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-12 |          |          |  |    |    |    |    |
-| w   |        | al         | xAJ    | alle         |   | allæ            | allæ         |   |   |   |   | dan |   |   |   |        323-12 |          |          |  |    |    |    |    |
-| w   |        | mate       | xNC    | måde         |   | madæ            | madæ         |   |   |   |   | dan |   |   |   |        323-12 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-12 |          |          |  |    |    |    |    |
-| w   |        | at         | xCS    | at           |   | at              | at           |   |   |   |   | dan |   |   |   |        323-12 |          |          |  |    |    |    |    |
-| w   |        | sva        | xAV    | så           |   | swo             | ſwo          |   |   |   |   | dan |   |   |   |        323-12 |          |          |  |    |    |    |    |
-| w   |        | ske        | xVB    | skete        |   | schedhæ         | ſchedhæ      |   |   |   |   | dan |   |   |   |        323-12 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-12 |          |          |  |    |    |    |    |
-| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-12 |          |          |  |    |    |    |    |
-| w   |        | thæn       | xPE    | des          |   | thæs            | thæ         |   |   |   |   | dan |   |   |   |        323-12 |          |          |  |    |    |    |    |
-| w   |        | til        | xAP    | til          |   | til             | til          |   |   |   |   | dan |   |   |   |        323-12 |          |          |  |    |    |    |    |
-| w   |        | vitne      | xNC    | vidne        |   | witne           | witne        |   |   |   |   | dan |   |   |   |        323-12 |          |          |  |    |    |    |    |
-| w   |        | tha        | xAV    | da           |   | tha             | tha          |   |   |   |   | dan |   |   |   |        323-12 |          |          |  |    |    |    |    |
+| w   |        | sæghje     | xVB    | sagt         |   | sakth           | ſakth        |   |   |   |   | dan |   |   |   |        323-12 | 3:eschatocol |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        | sva        | xAV    | så           |   | swo             | ſwo          |   |   |   |   | dan |   |   |   |        323-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        | høre       | xVB    | hørte        |   | hørthe          | hørthe       |   |   |   |   | dan |   |   |   |        323-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        | vi         | xPE    | vi           |   | wi              | wi           |   |   |   |   | dan |   |   |   |        323-12 | 3:eschatocol |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        | se         | xVB    | såe          |   | sawe            | ſawe         |   |   |   |   | dan |   |   |   |        323-12 | 3:eschatocol |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        | i          | xAP    | i            |   | j               | ȷ            |   |   |   |   | dan |   |   |   |        323-12 | 3:eschatocol |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        | al         | xAJ    | alle         |   | allæ            | allæ         |   |   |   |   | dan |   |   |   |        323-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        | mate       | xNC    | måde         |   | madæ            | madæ         |   |   |   |   | dan |   |   |   |        323-12 | 3:eschatocol |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        | at         | xCS    | at           |   | at              | at           |   |   |   |   | dan |   |   |   |        323-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        | sva        | xAV    | så           |   | swo             | ſwo          |   |   |   |   | dan |   |   |   |        323-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        | ske        | xVB    | skete        |   | schedhæ         | ſchedhæ      |   |   |   |   | dan |   |   |   |        323-12 | 3:eschatocol |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        | thæn       | xPE    | des          |   | thæs            | thæ         |   |   |   |   | dan |   |   |   |        323-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        | til        | xAP    | til          |   | til             | til          |   |   |   |   | dan |   |   |   |        323-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        | vitne      | xNC    | vidne        |   | witne           | witne        |   |   |   |   | dan |   |   |   |        323-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        | tha        | xAV    | da           |   | tha             | tha          |   |   |   |   | dan |   |   |   |        323-12 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 323-13 |            |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        | hængje     | xVB    | hænge        |   | hænge           | hænge        |   |   |   |   | dan |   |   |   |        323-13 |          |          |  |    |    |    |    |
-| w   |        | vi         | xPE    | vi           |   | wi              | wi           |   |   |   |   | dan |   |   |   |        323-13 |          |          |  |    |    |    |    |
-| w   |        | al         | xAJ    | alle         |   | alle            | alle         |   |   |   |   | dan |   |   |   |        323-13 |          |          |  |    |    |    |    |
-| w   |        | fornævnd   | xAJ    | fornævnte    |   | for(nefnde)     | foꝛͩͤ          |   |   |   |   | dan |   |   |   |        323-13 |          |          |  |    |    |    |    |
-| w   |        | var        | xDP    | vore         |   | waræ            | waræ         |   |   |   |   | dan |   |   |   |        323-13 |          |          |  |    |    |    |    |
-| w   |        | insighle   | xNC    | indsegle     |   | Jnzigle         | Jnzigle      |   |   |   |   | dan |   |   |   |        323-13 |          |          |  |    |    |    |    |
-| w   |        | for        | xAP    | fore         |   | foræ            | foræ         |   |   |   |   | dan |   |   |   |        323-13 |          |          |  |    |    |    |    |
-| w   |        | thænne     | xDD    | dette        |   | th(et)tæ        | thꝫtæ        |   |   |   |   | dan |   |   |   |        323-13 |          |          |  |    |    |    |    |
-| w   |        | vitnebrev  | xNC    | vidnesbrev   |   | witnesbreff     | witneſbreff  |   |   |   |   | dan |   |   |   |        323-13 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-13 |          |          |  |    |    |    |    |
-| w   |        |            | lat    |              |   | Datu(m)         | Datu̅         |   |   |   |   | lat |   |   |   |        323-13 |          |          |  |    |    |    |    |
-| w   |        |            | lat    |              |   | Anno            | Anno         |   |   |   |   | lat |   |   |   |        323-13 |          |          |  |    |    |    |    |
-| w   |        |            | lat    |              |   | d(omi)nj        | dn̅ȷ          |   |   |   |   | lat |   |   |   |        323-13 |          |          |  |    |    |    |    |
-| n   |        |            | lat    |              |   | m°              | °           |   |   |   |   | lat |   |   |   |        323-13 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | lat |   |   |   |        323-13 |          |          |  |    |    |    |    |
-| n   |        |            | lat    |              |   | cd°             | cd°          |   |   |   |   | lat |   |   |   |        323-13 |          |          |  |    |    |    |    |
+| w   |        | hængje     | xVB    | hænge        |   | hænge           | hænge        |   |   |   |   | dan |   |   |   |        323-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        | vi         | xPE    | vi           |   | wi              | wi           |   |   |   |   | dan |   |   |   |        323-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        | al         | xAJ    | alle         |   | alle            | alle         |   |   |   |   | dan |   |   |   |        323-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        | fornævnd   | xAJ    | fornævnte    |   | for(nefnde)     | foꝛͩͤ          |   |   |   |   | dan |   |   |   |        323-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        | var        | xDP    | vore         |   | waræ            | waræ         |   |   |   |   | dan |   |   |   |        323-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        | insighle   | xNC    | indsegle     |   | Jnzigle         | Jnzigle      |   |   |   |   | dan |   |   |   |        323-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        | for        | xAP    | fore         |   | foræ            | foræ         |   |   |   |   | dan |   |   |   |        323-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        | thænne     | xDD    | dette        |   | th(et)tæ        | thꝫtæ        |   |   |   |   | dan |   |   |   |        323-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        | vitnebrev  | xNC    | vidnesbrev   |   | witnesbreff     | witneſbreff  |   |   |   |   | dan |   |   |   |        323-13 | 3:eschatocol |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |            | lat    |              |   | Datu(m)         | Datu̅         |   |   |   |   | lat |   |   |   |        323-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |            | lat    |              |   | Anno            | Anno         |   |   |   |   | lat |   |   |   |        323-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |            | lat    |              |   | d(omi)nj        | dn̅ȷ          |   |   |   |   | lat |   |   |   |        323-13 | 3:eschatocol |          |  |    |    |    |    |
+| n   |        |            | lat    |              |   | m°              | °           |   |   |   |   | lat |   |   |   |        323-13 | 3:eschatocol |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | lat |   |   |   |        323-13 | 3:eschatocol |          |  |    |    |    |    |
+| n   |        |            | lat    |              |   | cd°             | cd°          |   |   |   |   | lat |   |   |   |        323-13 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 323-14 |            |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            | lat    |              |   | t(er)cio        | tcio        |   |   |   |   | lat |   |   |   |        323-14 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | lat |   |   |   |        323-14 |          |          |  |    |    |    |    |
-| w   |        |            | lat    |              |   | feria           | feria        |   |   |   |   | lat |   |   |   |        323-14 |          |          |  |    |    |    |    |
-| w   |        |            | lat    |              |   | q(ui)nta        | q&pk;nta     |   |   |   |   | lat |   |   |   |        323-14 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | lat |   |   |   |        323-14 |          |          |  |    |    |    |    |
-| w   |        |            | lat    |              |   | proxima         | proxima      |   |   |   |   | lat |   |   |   |        323-14 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | lat |   |   |   |        323-14 |          |          |  |    |    |    |    |
-| w   |        |            | lat    |              |   | an(te)          | a̅           |   |   |   |   | lat |   |   |   |        323-14 |          |          |  |    |    |    |    |
-| w   |        |            | lat    |              |   | d(omi)nicam     | dn̅ıca       |   |   |   |   | lat |   |   |   |        323-14 |          |          |  |    |    |    |    |
-| w   |        |            | lat    |              |   | qua             | qua          |   |   |   |   | lat |   |   |   |        323-14 |          |          |  |    |    |    |    |
-| w   |        |            | lat    |              |   | Cantatur        | Canta       |   |   |   |   | lat |   |   |   |        323-14 |          |          |  |    |    |    |    |
-| w   |        |            | lat    |              |   | offi(cium)      | offıͫ         |   |   |   |   | lat |   |   |   |        323-14 |          |          |  |    |    |    |    |
-| w   |        |            | lat    |              |   | Judica          | Judica       |   |   |   |   | lat |   |   |   |        323-14 |          |          |  |    |    |    |    |
-| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-14 |          |          |  |    |    |    |    |
+| w   |        |            | lat    |              |   | t(er)cio        | tcio        |   |   |   |   | lat |   |   |   |        323-14 | 3:eschatocol |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | lat |   |   |   |        323-14 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |            | lat    |              |   | feria           | feria        |   |   |   |   | lat |   |   |   |        323-14 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |            | lat    |              |   | q(ui)nta        | q&pk;nta     |   |   |   |   | lat |   |   |   |        323-14 | 3:eschatocol |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | lat |   |   |   |        323-14 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |            | lat    |              |   | proxima         | proxima      |   |   |   |   | lat |   |   |   |        323-14 | 3:eschatocol |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | lat |   |   |   |        323-14 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |            | lat    |              |   | an(te)          | a̅           |   |   |   |   | lat |   |   |   |        323-14 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |            | lat    |              |   | d(omi)nicam     | dn̅ıca       |   |   |   |   | lat |   |   |   |        323-14 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |            | lat    |              |   | qua             | qua          |   |   |   |   | lat |   |   |   |        323-14 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |            | lat    |              |   | Cantatur        | Canta       |   |   |   |   | lat |   |   |   |        323-14 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |            | lat    |              |   | offi(cium)      | offıͫ         |   |   |   |   | lat |   |   |   |        323-14 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |            | lat    |              |   | Judica          | Judica       |   |   |   |   | lat |   |   |   |        323-14 | 3:eschatocol |          |  |    |    |    |    |
+| p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-14 | 3:eschatocol |          |  |    |    |    |    |
 | d   | e      | 3          |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | :e: |        |            |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |

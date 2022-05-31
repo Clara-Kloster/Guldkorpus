@@ -44,238 +44,238 @@ Response to 423 (LXIII, 22)
 | pm  | 1r     |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | lm  | 429-01 |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | d   | b      | 1 |   | protocol |   |        |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Wii           | Wıı         |   |   |   |   | dan |   |   |   | 429-01 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Wii           | Wıı         |   |   |   |   | dan |   |   |   | 429-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | RexHan001  |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Hans          | Han        |   |   |   |   | dan |   |   |   | 429-01 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Hans          | Han        |   |   |   |   | dan |   |   |   | 429-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | e      | RexHan001  |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | met           | met         |   |   |   |   | dan |   |   |   | 429-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | gudz          | gudz        |   |   |   |   | dan |   |   |   | 429-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nade          | nade        |   |   |   |   | dan |   |   |   | 429-01 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | met           | met         |   |   |   |   | dan |   |   |   | 429-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | gudz          | gudz        |   |   |   |   | dan |   |   |   | 429-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nade          | nade        |   |   |   |   | dan |   |   |   | 429-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Suerikes      | uerıke    |   |   |   |   | dan |   |   |   | 429-01 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Suerikes      | uerıke    |   |   |   |   | dan |   |   |   | 429-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Danmarcks     | Danmarck   |   |   |   |   | dan |   |   |   | 429-01 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Danmarcks     | Danmarck   |   |   |   |   | dan |   |   |   | 429-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Norig(is)     | Norıgꝭ      |   |   |   |   | dan |   |   |   | 429-01 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Norig(is)     | Norıgꝭ      |   |   |   |   | dan |   |   |   | 429-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Vend(is)      | Vendꝭ       |   |   |   |   | dan |   |   |   | 429-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Got(is)       | Gotꝭ        |   |   |   |   | dan |   |   |   | 429-01 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | konni(n)g     | konnı̅g      |   |   |   |   | dan |   |   |   | 429-01 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Vend(is)      | Vendꝭ       |   |   |   |   | dan |   |   |   | 429-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Got(is)       | Gotꝭ        |   |   |   |   | dan |   |   |   | 429-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | konni(n)g     | konnı̅g      |   |   |   |   | dan |   |   |   | 429-01 | 1:protocol |          |  |    |    |    |    |
 | lm  | 429-02 |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Hertug        | Hertug      |   |   |   |   | dan |   |   |   | 429-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | vti           | vti         |   |   |   |   | dan |   |   |   | 429-02 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Hertug        | Hertug      |   |   |   |   | dan |   |   |   | 429-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | vti           | vti         |   |   |   |   | dan |   |   |   | 429-02 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | slesuig       | ſleſuıg     |   |   |   |   | dan |   |   |   | 429-02 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | slesuig       | ſleſuıg     |   |   |   |   | dan |   |   |   | 429-02 | 1:protocol |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | vti           | vti         |   |   |   |   | dan |   |   |   | 429-02 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | vti           | vti         |   |   |   |   | dan |   |   |   | 429-02 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Holssten      | Holsſten    |   |   |   |   | dan |   |   |   | 429-02 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Holssten      | Holsſten    |   |   |   |   | dan |   |   |   | 429-02 | 1:protocol |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Stormarn      | tormarn    |   |   |   |   | dan |   |   |   | 429-02 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Stormarn      | tormarn    |   |   |   |   | dan |   |   |   | 429-02 | 1:protocol |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-02 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-02 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Ditmersken    | Ditmerſke  |   |   |   |   | dan |   |   |   | 429-02 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Ditmersken    | Ditmerſke  |   |   |   |   | dan |   |   |   | 429-02 | 1:protocol |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Greffue       | Greffue     |   |   |   |   | dan |   |   |   | 429-02 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | vti           | vti         |   |   |   |   | dan |   |   |   | 429-02 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Greffue       | Greffue     |   |   |   |   | dan |   |   |   | 429-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | vti           | vti         |   |   |   |   | dan |   |   |   | 429-02 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | oldenborg     | oldenboꝛg   |   |   |   |   | dan |   |   |   | 429-02 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | oldenborg     | oldenboꝛg   |   |   |   |   | dan |   |   |   | 429-02 | 1:protocol |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-02 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-02 | 1:protocol |          |  |    |    |    |    |
 | lm  | 429-03 |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Delmenhorst   | Delmenhorſt |   |   |   |   | dan |   |   |   | 429-03 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Delmenhorst   | Delmenhorſt |   |   |   |   | dan |   |   |   | 429-03 | 1:protocol |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Giørom        | Gıørom      |   |   |   |   | dan |   |   |   | 429-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | alle          | alle        |   |   |   |   | dan |   |   |   | 429-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | vitth(e)rligt | vıtthꝛligt |   |   |   |   | dan |   |   |   | 429-03 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Giørom        | Gıørom      |   |   |   |   | dan |   |   |   | 429-03 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | alle          | alle        |   |   |   |   | dan |   |   |   | 429-03 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | vitth(e)rligt | vıtthꝛligt |   |   |   |   | dan |   |   |   | 429-03 | 1:protocol |          |  |    |    |    |    |
 | d   | e      | 1 |   |   |   |        |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | d   | b      | 2 |   | context |   |        |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | at            | at          |   |   |   |   | dan |   |   |   | 429-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | fore          | fore        |   |   |   |   | dan |   |   |   | 429-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | oss           | oſſ         |   |   |   |   | dan |   |   |   | 429-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | haffuer       | haffuer     |   |   |   |   | dan |   |   |   | 429-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | warit         | warıt       |   |   |   |   | dan |   |   |   | 429-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ith           | ıth         |   |   |   |   | dan |   |   |   | 429-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | bytha         | bytha       |   |   |   |   | dan |   |   |   | 429-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | breff         | breff       |   |   |   |   | dan |   |   |   | 429-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | som           | ſo         |   |   |   |   | dan |   |   |   | 429-03 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | h(er)         | h̅           |   |   |   |   | dan |   |   |   | 429-03 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | at            | at          |   |   |   |   | dan |   |   |   | 429-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | fore          | fore        |   |   |   |   | dan |   |   |   | 429-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | oss           | oſſ         |   |   |   |   | dan |   |   |   | 429-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | haffuer       | haffuer     |   |   |   |   | dan |   |   |   | 429-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | warit         | warıt       |   |   |   |   | dan |   |   |   | 429-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ith           | ıth         |   |   |   |   | dan |   |   |   | 429-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | bytha         | bytha       |   |   |   |   | dan |   |   |   | 429-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | breff         | breff       |   |   |   |   | dan |   |   |   | 429-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | som           | ſo         |   |   |   |   | dan |   |   |   | 429-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | h(er)         | h̅           |   |   |   |   | dan |   |   |   | 429-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | SteStu001  |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Sten          | te        |   |   |   |   | dan |   |   |   | 429-03 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Sten          | te        |   |   |   |   | dan |   |   |   | 429-03 | 2:context |          |  |    |    |    |    |
 | lm  | 429-04 |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | stwre         | ſtwre       |   |   |   |   | dan |   |   |   | 429-04 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | stwre         | ſtwre       |   |   |   |   | dan |   |   |   | 429-04 | 2:context |          |  |    |    |    |    |
 | PE  | e      | SteStu001  |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Ridder        | Rıdder      |   |   |   |   | dan |   |   |   | 429-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | wor           | woꝛ         |   |   |   |   | dan |   |   |   | 429-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | hoffmester    | hoffmeſter  |   |   |   |   | dan |   |   |   | 429-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | vdgiffuet     | vdgiffuet   |   |   |   |   | dan |   |   |   | 429-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | haffde        | haffde      |   |   |   |   | dan |   |   |   | 429-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ludend(e)     | luden      |   |   |   |   | dan |   |   |   | 429-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | at            | at          |   |   |   |   | dan |   |   |   | 429-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | han           | ha         |   |   |   |   | dan |   |   |   | 429-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | till          | tıll        |   |   |   |   | dan |   |   |   | 429-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | sig           | ſıg         |   |   |   |   | dan |   |   |   | 429-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | byth          | byth        |   |   |   |   | dan |   |   |   | 429-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | haffuer       | haffuer     |   |   |   |   | dan |   |   |   | 429-04 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | aff           | aff         |   |   |   |   | dan |   |   |   | 429-04 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Ridder        | Rıdder      |   |   |   |   | dan |   |   |   | 429-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | wor           | woꝛ         |   |   |   |   | dan |   |   |   | 429-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | hoffmester    | hoffmeſter  |   |   |   |   | dan |   |   |   | 429-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | vdgiffuet     | vdgiffuet   |   |   |   |   | dan |   |   |   | 429-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | haffde        | haffde      |   |   |   |   | dan |   |   |   | 429-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ludend(e)     | luden      |   |   |   |   | dan |   |   |   | 429-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | at            | at          |   |   |   |   | dan |   |   |   | 429-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | han           | ha         |   |   |   |   | dan |   |   |   | 429-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | till          | tıll        |   |   |   |   | dan |   |   |   | 429-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | sig           | ſıg         |   |   |   |   | dan |   |   |   | 429-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | byth          | byth        |   |   |   |   | dan |   |   |   | 429-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | haffuer       | haffuer     |   |   |   |   | dan |   |   |   | 429-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | aff           | aff         |   |   |   |   | dan |   |   |   | 429-04 | 2:context |          |  |    |    |    |    |
 | lm  | 429-05 |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | PE  | b      | LarBud001  |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Lass          | Laſſ        |   |   |   |   | dan |   |   |   | 429-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | buddæ         | bűddæ       |   |   |   |   | dan |   |   |   | 429-05 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Lass          | Laſſ        |   |   |   |   | dan |   |   |   | 429-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | buddæ         | bűddæ       |   |   |   |   | dan |   |   |   | 429-05 | 2:context |          |  |    |    |    |    |
 | PE  | e      | LarBud001  |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | hans          | han        |   |   |   |   | dan |   |   |   | 429-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | hosfrwe       | hoſfrwe     |   |   |   |   | dan |   |   |   | 429-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | hosfrwe       | hoſfrwe     |   |   |   |   | dan |   |   |   | 429-05 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | hans          | han        |   |   |   |   | dan |   |   |   | 429-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | hosfrwe       | hoſfrwe     |   |   |   |   | dan |   |   |   | 429-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | hosfrwe       | hoſfrwe     |   |   |   |   | dan |   |   |   | 429-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | SigBud001  |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Sigrede       | ıgrede     |   |   |   |   | dan |   |   |   | 429-05 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Sigrede       | ıgrede     |   |   |   |   | dan |   |   |   | 429-05 | 2:context |          |  |    |    |    |    |
 | PE  | e      | SigBud001  |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Ith           | Ith         |   |   |   |   | dan |   |   |   | 429-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | gotz          | gotz        |   |   |   |   | dan |   |   |   | 429-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | kallend(e)    | kallen     |   |   |   |   | dan |   |   |   | 429-05 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Ith           | Ith         |   |   |   |   | dan |   |   |   | 429-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | gotz          | gotz        |   |   |   |   | dan |   |   |   | 429-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | kallend(e)    | kallen     |   |   |   |   | dan |   |   |   | 429-05 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | liderne       | lıderne     |   |   |   |   | dan |   |   |   | 429-05 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | liderne       | lıderne     |   |   |   |   | dan |   |   |   | 429-05 | 2:context |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ligger        | lígger      |   |   |   |   | dan |   |   |   | 429-05 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | vti           | vtı         |   |   |   |   | dan |   |   |   | 429-05 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ligger        | lígger      |   |   |   |   | dan |   |   |   | 429-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | vti           | vtı         |   |   |   |   | dan |   |   |   | 429-05 | 2:context |          |  |    |    |    |    |
 | lm  | 429-06 |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Solne         | olne       |   |   |   |   | dan |   |   |   | 429-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | sogen         | ſoge       |   |   |   |   | dan |   |   |   | 429-06 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Solne         | olne       |   |   |   |   | dan |   |   |   | 429-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | sogen         | ſoge       |   |   |   |   | dan |   |   |   | 429-06 | 2:context |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | for(e)        | foꝛ        |   |   |   |   | dan |   |   |   | 429-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | en            | en          |   |   |   |   | dan |   |   |   | 429-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ørtug         | øꝛtug       |   |   |   |   | dan |   |   |   | 429-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | my(n)ne       | my̅ne        |   |   |   |   | dan |   |   |   | 429-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | æn            | æ          |   |   |   |   | dan |   |   |   | 429-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | two           | two         |   |   |   |   | dan |   |   |   | 429-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | mark          | mark        |   |   |   |   | dan |   |   |   | 429-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | landiorde     | landıoꝛde   |   |   |   |   | dan |   |   |   | 429-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | gaff          | gaff        |   |   |   |   | dan |   |   |   | 429-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | han           | ha         |   |   |   |   | dan |   |   |   | 429-06 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | for(e)        | foꝛ        |   |   |   |   | dan |   |   |   | 429-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | en            | en          |   |   |   |   | dan |   |   |   | 429-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ørtug         | øꝛtug       |   |   |   |   | dan |   |   |   | 429-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | my(n)ne       | my̅ne        |   |   |   |   | dan |   |   |   | 429-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | æn            | æ          |   |   |   |   | dan |   |   |   | 429-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | two           | two         |   |   |   |   | dan |   |   |   | 429-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | mark          | mark        |   |   |   |   | dan |   |   |   | 429-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | landiorde     | landıoꝛde   |   |   |   |   | dan |   |   |   | 429-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | gaff          | gaff        |   |   |   |   | dan |   |   |   | 429-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | han           | ha         |   |   |   |   | dan |   |   |   | 429-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | LarBud001  |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lass          | laſſ        |   |   |   |   | dan |   |   |   | 429-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | buddæ         | buddæ       |   |   |   |   | dan |   |   |   | 429-06 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | lass          | laſſ        |   |   |   |   | dan |   |   |   | 429-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | buddæ         | buddæ       |   |   |   |   | dan |   |   |   | 429-06 | 2:context |          |  |    |    |    |    |
 | PE  | e      | LarBud001  |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-06 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | hans          | han        |   |   |   |   | dan |   |   |   | 429-06 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | hans          | han        |   |   |   |   | dan |   |   |   | 429-06 | 2:context |          |  |    |    |    |    |
 | lm  | 429-07 |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | husfrwe       | huſfrwe     |   |   |   |   | dan |   |   |   | 429-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | th(e)r        | thꝛ        |   |   |   |   | dan |   |   |   | 429-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | igen          | ıgen        |   |   |   |   | dan |   |   |   | 429-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | fore          | fore        |   |   |   |   | dan |   |   |   | 429-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ith           | ıth         |   |   |   |   | dan |   |   |   | 429-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | stenhuss      | ſtenhuſſ    |   |   |   |   | dan |   |   |   | 429-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | vti           | vti         |   |   |   |   | dan |   |   |   | 429-07 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | husfrwe       | huſfrwe     |   |   |   |   | dan |   |   |   | 429-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | th(e)r        | thꝛ        |   |   |   |   | dan |   |   |   | 429-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | igen          | ıgen        |   |   |   |   | dan |   |   |   | 429-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | fore          | fore        |   |   |   |   | dan |   |   |   | 429-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ith           | ıth         |   |   |   |   | dan |   |   |   | 429-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | stenhuss      | ſtenhuſſ    |   |   |   |   | dan |   |   |   | 429-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | vti           | vti         |   |   |   |   | dan |   |   |   | 429-07 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | stokholm      | ſtokholm    |   |   |   |   | dan |   |   |   | 429-07 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | stokholm      | ſtokholm    |   |   |   |   | dan |   |   |   | 429-07 | 2:context |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | liggend(e)    | lıggen     |   |   |   |   | dan |   |   |   | 429-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | met           | met         |   |   |   |   | dan |   |   |   | 429-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ith           | ıth         |   |   |   |   | dan |   |   |   | 429-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | torp          | toꝛp        |   |   |   |   | dan |   |   |   | 429-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | som           | ſo         |   |   |   |   | dan |   |   |   | 429-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | heder         | heder       |   |   |   |   | dan |   |   |   | 429-07 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ierlæ         | ıerlæ       |   |   |   |   | dan |   |   |   | 429-07 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | liggend(e)    | lıggen     |   |   |   |   | dan |   |   |   | 429-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | met           | met         |   |   |   |   | dan |   |   |   | 429-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ith           | ıth         |   |   |   |   | dan |   |   |   | 429-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | torp          | toꝛp        |   |   |   |   | dan |   |   |   | 429-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | som           | ſo         |   |   |   |   | dan |   |   |   | 429-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | heder         | heder       |   |   |   |   | dan |   |   |   | 429-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ierlæ         | ıerlæ       |   |   |   |   | dan |   |   |   | 429-07 | 2:context |          |  |    |    |    |    |
 | lm  | 429-08 |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | vti           | vti         |   |   |   |   | dan |   |   |   | 429-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | for(nefnde)   | foꝛᷠͤ         |   |   |   |   | dan |   |   |   | 429-08 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | vti           | vti         |   |   |   |   | dan |   |   |   | 429-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | for(nefnde)   | foꝛᷠͤ         |   |   |   |   | dan |   |   |   | 429-08 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | solne         | ſolne       |   |   |   |   | dan |   |   |   | 429-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | sokn          | ſok        |   |   |   |   | dan |   |   |   | 429-08 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | solne         | ſolne       |   |   |   |   | dan |   |   |   | 429-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | sokn          | ſok        |   |   |   |   | dan |   |   |   | 429-08 | 2:context |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | liggend(e)    | lıggen     |   |   |   |   | dan |   |   |   | 429-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | (et cetera)   | ⁊cᷓ          |   |   |   |   | lat |   |   |   | 429-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Hwilcket      | Hwılcket    |   |   |   |   | dan |   |   |   | 429-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | breff         | breff       |   |   |   |   | dan |   |   |   | 429-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | wii           | wıi         |   |   |   |   | dan |   |   |   | 429-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | aff           | aff         |   |   |   |   | dan |   |   |   | 429-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | woro          | woro        |   |   |   |   | dan |   |   |   | 429-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | sønderlikæ    | ſønderlıkæ  |   |   |   |   | dan |   |   |   | 429-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | gønst         | gønſt       |   |   |   |   | dan |   |   |   | 429-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-08 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nade          | nade        |   |   |   |   | dan |   |   |   | 429-08 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | liggend(e)    | lıggen     |   |   |   |   | dan |   |   |   | 429-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | (et cetera)   | ⁊cᷓ          |   |   |   |   | lat |   |   |   | 429-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Hwilcket      | Hwılcket    |   |   |   |   | dan |   |   |   | 429-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | breff         | breff       |   |   |   |   | dan |   |   |   | 429-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | wii           | wıi         |   |   |   |   | dan |   |   |   | 429-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | aff           | aff         |   |   |   |   | dan |   |   |   | 429-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | woro          | woro        |   |   |   |   | dan |   |   |   | 429-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | sønderlikæ    | ſønderlıkæ  |   |   |   |   | dan |   |   |   | 429-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | gønst         | gønſt       |   |   |   |   | dan |   |   |   | 429-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nade          | nade        |   |   |   |   | dan |   |   |   | 429-08 | 2:context |          |  |    |    |    |    |
 | lm  | 429-09 |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | haffuo(m)     | haffuo̅      |   |   |   |   | dan |   |   |   | 429-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | stadfestit    | ſtadfeſtıt  |   |   |   |   | dan |   |   |   | 429-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | fuldburdit    | fuldburdıt  |   |   |   |   | dan |   |   |   | 429-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | met           | met         |   |   |   |   | dan |   |   |   | 429-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | thetta        | thetta      |   |   |   |   | dan |   |   |   | 429-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | wort          | woꝛt        |   |   |   |   | dan |   |   |   | 429-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | opne          | opne        |   |   |   |   | dan |   |   |   | 429-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | breff         | breff       |   |   |   |   | dan |   |   |   | 429-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | stadfestæ     | ſtadfeſtæ   |   |   |   |   | dan |   |   |   | 429-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | fuldburde     | fuldburde   |   |   |   |   | dan |   |   |   | 429-09 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | vti           | vtı         |   |   |   |   | dan |   |   |   | 429-09 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | haffuo(m)     | haffuo̅      |   |   |   |   | dan |   |   |   | 429-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | stadfestit    | ſtadfeſtıt  |   |   |   |   | dan |   |   |   | 429-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | fuldburdit    | fuldburdıt  |   |   |   |   | dan |   |   |   | 429-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | met           | met         |   |   |   |   | dan |   |   |   | 429-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | thetta        | thetta      |   |   |   |   | dan |   |   |   | 429-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | wort          | woꝛt        |   |   |   |   | dan |   |   |   | 429-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | opne          | opne        |   |   |   |   | dan |   |   |   | 429-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | breff         | breff       |   |   |   |   | dan |   |   |   | 429-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | stadfestæ     | ſtadfeſtæ   |   |   |   |   | dan |   |   |   | 429-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | fuldburde     | fuldburde   |   |   |   |   | dan |   |   |   | 429-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | vti           | vtı         |   |   |   |   | dan |   |   |   | 429-09 | 2:context |          |  |    |    |    |    |
 | lm  | 429-10 |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | alle          | alle        |   |   |   |   | dan |   |   |   | 429-10 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | motho         | motho       |   |   |   |   | dan |   |   |   | 429-10 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | wid           | wıd         |   |   |   |   | dan |   |   |   | 429-10 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | sin           | ſi         |   |   |   |   | dan |   |   |   | 429-10 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | fulde         | fulde       |   |   |   |   | dan |   |   |   | 429-10 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | macht         | macht       |   |   |   |   | dan |   |   |   | 429-10 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | at            | at          |   |   |   |   | dan |   |   |   | 429-10 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ware          | ware        |   |   |   |   | dan |   |   |   | 429-10 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | som           | ſo         |   |   |   |   | dan |   |   |   | 429-10 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | thet          | thet        |   |   |   |   | dan |   |   |   | 429-10 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ythermere     | ythermere   |   |   |   |   | dan |   |   |   | 429-10 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Inneholler    | Inneholler  |   |   |   |   | dan |   |   |   | 429-10 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-10 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | vdwiiser      | vdwııſer    |   |   |   |   | dan |   |   |   | 429-10 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | alle          | alle        |   |   |   |   | dan |   |   |   | 429-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | motho         | motho       |   |   |   |   | dan |   |   |   | 429-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | wid           | wıd         |   |   |   |   | dan |   |   |   | 429-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | sin           | ſi         |   |   |   |   | dan |   |   |   | 429-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | fulde         | fulde       |   |   |   |   | dan |   |   |   | 429-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | macht         | macht       |   |   |   |   | dan |   |   |   | 429-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | at            | at          |   |   |   |   | dan |   |   |   | 429-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ware          | ware        |   |   |   |   | dan |   |   |   | 429-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | som           | ſo         |   |   |   |   | dan |   |   |   | 429-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | thet          | thet        |   |   |   |   | dan |   |   |   | 429-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ythermere     | ythermere   |   |   |   |   | dan |   |   |   | 429-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Inneholler    | Inneholler  |   |   |   |   | dan |   |   |   | 429-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | vdwiiser      | vdwııſer    |   |   |   |   | dan |   |   |   | 429-10 | 2:context |          |  |    |    |    |    |
 | d   | e      | 2 |   |   |   |        |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | lm  | 429-11 |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | d   | b      | 3 |   | eschatocol |   |        |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Giffuit       | Gıffuıt     |   |   |   |   | dan |   |   |   | 429-11 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | pa            | pa          |   |   |   |   | dan |   |   |   | 429-11 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | wort          | woꝛt        |   |   |   |   | dan |   |   |   | 429-11 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | slot          | ſlot        |   |   |   |   | dan |   |   |   | 429-11 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Giffuit       | Gıffuıt     |   |   |   |   | dan |   |   |   | 429-11 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | pa            | pa          |   |   |   |   | dan |   |   |   | 429-11 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | wort          | woꝛt        |   |   |   |   | dan |   |   |   | 429-11 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | slot          | ſlot        |   |   |   |   | dan |   |   |   | 429-11 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Stokholm      | tokhol    |   |   |   |   | dan |   |   |   | 429-11 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Stokholm      | tokhol    |   |   |   |   | dan |   |   |   | 429-11 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | then          | then        |   |   |   |   | dan |   |   |   | 429-11 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | søndag        | ſøndag      |   |   |   |   | dan |   |   |   | 429-11 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nest          | neſt        |   |   |   |   | dan |   |   |   | 429-11 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | efter         | efter       |   |   |   |   | dan |   |   |   | 429-11 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | octauas       | octaua     |   |   |   |   | lat |   |   |   | 429-11 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | corpor(is)    | coꝛporꝭ     |   |   |   |   | lat |   |   |   | 429-11 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | (Christ)i     | xp̅ı         |   |   |   |   | lat |   |   |   | 429-11 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Aarom         | Aaro       |   |   |   |   | dan |   |   |   | 429-11 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | then          | then        |   |   |   |   | dan |   |   |   | 429-11 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | søndag        | ſøndag      |   |   |   |   | dan |   |   |   | 429-11 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nest          | neſt        |   |   |   |   | dan |   |   |   | 429-11 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | efter         | efter       |   |   |   |   | dan |   |   |   | 429-11 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | octauas       | octaua     |   |   |   |   | lat |   |   |   | 429-11 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | corpor(is)    | coꝛporꝭ     |   |   |   |   | lat |   |   |   | 429-11 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | (Christ)i     | xp̅ı         |   |   |   |   | lat |   |   |   | 429-11 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Aarom         | Aaro       |   |   |   |   | dan |   |   |   | 429-11 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 429-12 |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | eptir         | eptır       |   |   |   |   | dan |   |   |   | 429-12 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | gudz          | gudz        |   |   |   |   | dan |   |   |   | 429-12 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | byrd          | byrd        |   |   |   |   | dan |   |   |   | 429-12 |          |          |  |    |    |    |    |
-| n   |        |   |   |   |   | mcdxc         | mcdxc       |   |   |   |   | dan |   |   |   | 429-12 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | pa            | pa          |   |   |   |   | dan |   |   |   | 429-12 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | thet          | thet        |   |   |   |   | dan |   |   |   | 429-12 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nyendæ        | nyendæ      |   |   |   |   | dan |   |   |   | 429-12 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Under         | Under       |   |   |   |   | dan |   |   |   | 429-12 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | wort          | woꝛt        |   |   |   |   | dan |   |   |   | 429-12 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Signet(is)    | ıgnetꝭ     |   |   |   |   | dan |   |   |   | 429-12 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | eptir         | eptır       |   |   |   |   | dan |   |   |   | 429-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | gudz          | gudz        |   |   |   |   | dan |   |   |   | 429-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | byrd          | byrd        |   |   |   |   | dan |   |   |   | 429-12 | 3:eschatocol |          |  |    |    |    |    |
+| n   |        |   |   |   |   | mcdxc         | mcdxc       |   |   |   |   | dan |   |   |   | 429-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | pa            | pa          |   |   |   |   | dan |   |   |   | 429-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | thet          | thet        |   |   |   |   | dan |   |   |   | 429-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nyendæ        | nyendæ      |   |   |   |   | dan |   |   |   | 429-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Under         | Under       |   |   |   |   | dan |   |   |   | 429-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | wort          | woꝛt        |   |   |   |   | dan |   |   |   | 429-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Signet(is)    | ıgnetꝭ     |   |   |   |   | dan |   |   |   | 429-12 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 429-13 |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | ad  | b      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Her           | Heꝛ         |   |   |   |   | dan |   |   |   | 429-13 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Her           | Heꝛ         |   |   |   |   | dan |   |   |   | 429-13 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | JenFal001  |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Iens          | Ien        |   |   |   |   | dan |   |   |   | 429-13 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | falster       | falſter     |   |   |   |   | dan |   |   |   | 429-13 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Iens          | Ien        |   |   |   |   | dan |   |   |   | 429-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | falster       | falſter     |   |   |   |   | dan |   |   |   | 429-13 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | e      | JenFal001  |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | lm  | 429-14 |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | capitane(us)  | capıtaneꝰ   |   |   |   |   | lat |   |   |   | 429-14 |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | cast(ri)      | caſt       |   |   |   |   | lat |   |   |   | 429-14 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | capitane(us)  | capıtaneꝰ   |   |   |   |   | lat |   |   |   | 429-14 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | cast(ri)      | caſt       |   |   |   |   | lat |   |   |   | 429-14 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ørebro        | ørebro      |   |   |   |   | dan |   |   |   | 429-14 |          |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ørebro        | ørebro      |   |   |   |   | dan |   |   |   | 429-14 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | ad  | e      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | d   | e      | 3 |   |   |   |        |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
