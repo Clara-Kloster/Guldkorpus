@@ -49,17 +49,17 @@
 | w   |        |   |   |   |   | c(er)nentib(us)      | c͛nentıbꝫ    |   |   |   |   | lat |   |   |   |        239-01 | 1:protocol |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /                    | /           |   |   |   |   | lat |   |   |   |        239-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | AriOla001  |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Arina                | rína       |   |   |   |   | lat |   |   |   |        239-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | olæfs                | olæf       |   |   |   |   | lat |   |   |   |        239-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | dot(er)              | dot͛         |   |   |   |   | lat |   |   |   |        239-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Arina                | rína       |   |   |   |   | lat |   |   |   |        239-01 | 1:protocol |          |  |968|    |    |    |
+| w   |        |   |   |   |   | olæfs                | olæf       |   |   |   |   | lat |   |   |   |        239-01 | 1:protocol |          |  |968|    |    |    |
+| w   |        |   |   |   |   | dot(er)              | dot͛         |   |   |   |   | lat |   |   |   |        239-01 | 1:protocol |          |  |968|    |    |    |
 | PE  | e      | AriOla001  |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /                    | /           |   |   |   |   | lat |   |   |   |        239-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Relicta              | Relía      |   |   |   |   | lat |   |   |   |        239-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)ni             | dn̅ı         |   |   |   |   | lat |   |   |   |        239-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | PedGru002  |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Petri                | Petri       |   |   |   |   | lat |   |   |   |        239-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Petri                | Petri       |   |   |   |   | lat |   |   |   |        239-01 | 1:protocol |          |  |969|    |    |    |
 | lm  | 239-02 |   |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | grubbæ               | grubbæ      |   |   |   |   | lat |   |   |   |        239-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | grubbæ               | grubbæ      |   |   |   |   | lat |   |   |   |        239-02 | 1:protocol |          |  |969|    |    |    |
 | PE  | e      | PedGru002  |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | militis              | mılítı     |   |   |   |   | lat |   |   |   |        239-02 | 1:protocol |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /                    | /           |   |   |   |   | lat |   |   |   |        239-02 | 1:protocol |          |  |    |    |    |    |
@@ -206,7 +206,7 @@
 | w   |        |   |   |   |   | videl(icet)          | vıdelꝫ      |   |   |   |   | lat |   |   |   |        239-11 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)ni             | dn̅ı         |   |   |   |   | lat |   |   |   |        239-11 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | HerGer001  |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | herma(n)ni           | herma̅ní     |   |   |   |   | lat |   |   |   |        239-11 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | herma(n)ni           | herma̅ní     |   |   |   |   | lat |   |   |   |        239-11 | 3:eschatocol |          |  |970|    |    |    |
 | PE  | e      | HerGer001  |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Canonici             | Canonıcí    |   |   |   |   | lat |   |   |   |        239-11 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -215,8 +215,8 @@
 | lm  | 239-12 |   |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (et)                 |            |   |   |   |   | lat |   |   |   |        239-12 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | NieTyg001  |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicolai              | nícolaı     |   |   |   |   | lat |   |   |   |        239-12 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | tykis(un)            | tykı       |   |   |   |   | lat |   |   |   |        239-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nicolai              | nícolaı     |   |   |   |   | lat |   |   |   |        239-12 | 3:eschatocol |          |  |971|    |    |    |
+| w   |        |   |   |   |   | tykis(un)            | tykı       |   |   |   |   | lat |   |   |   |        239-12 | 3:eschatocol |          |  |971|    |    |    |
 | PE  | e      | NieTyg001  |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | de                   | de          |   |   |   |   | lat |   |   |   |        239-12 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                      |             |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |

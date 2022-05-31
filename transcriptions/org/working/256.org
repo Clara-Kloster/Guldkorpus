@@ -44,7 +44,7 @@
 | lm  | 256-01 |   |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | d  | b      | 1  |   | protocol  |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | RexVal004  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Waldemar(us)          | Wldemꝛꝰ    |   |   |   |   | lat |   |   |   |        256-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Waldemar(us)          | Wldemꝛꝰ    |   |   |   |   | lat |   |   |   |        256-01 | 1:protocol |          |  |1040|    |    |    |
 | PE  | e      | RexVal004  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | dei                   | deı          |   |   |   |   | lat |   |   |   |        256-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | gr(aci)a              | gr̅a          |   |   |   |   | lat |   |   |   |        256-01 | 1:protocol |          |  |    |    |    |    |
@@ -91,19 +91,19 @@
 | p   |        |   |   |   |   | .                     | .            |   |   |   |   | lat |   |   |   |        256-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)na              | dn̅a          |   |   |   |   | lat |   |   |   |        256-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | EtzXxx001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ætzlæ                 | ætzlæ        |   |   |   |   | lat |   |   |   |        256-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ætzlæ                 | ætzlæ        |   |   |   |   | lat |   |   |   |        256-03 | 2:context |          |  |1041|    |    |    |
 | PE  | e      | EtzXxx001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                     | .            |   |   |   |   | lat |   |   |   |        256-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | relicta               | ɼelıa       |   |   |   |   | lat |   |   |   |        256-03 | 2:context |          |  |    |    |    |    |
 | lm  | 256-04 |   |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | PedMor002  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | pet(ri)               | pet         |   |   |   |   | lat |   |   |   |        256-04 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | martens(un)           | maꝛten      |   |   |   |   | lat |   |   |   |        256-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | pet(ri)               | pet         |   |   |   |   | lat |   |   |   |        256-04 | 2:context |          |  |1042|    |    |    |
+| w   |        |   |   |   |   | martens(un)           | maꝛten      |   |   |   |   | lat |   |   |   |        256-04 | 2:context |          |  |1042|    |    |    |
 | PE  | e      | PedMor002  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                     | .            |   |   |   |   | lat |   |   |   |        256-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | GynSen001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | gyncekin(us)          | gyncekínꝰ    |   |   |   |   | lat |   |   |   |        256-04 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | senior                | ſeníoꝛ       |   |   |   |   | lat |   |   |   |        256-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | gyncekin(us)          | gyncekínꝰ    |   |   |   |   | lat |   |   |   |        256-04 | 2:context |          |  |1043|    |    |    |
+| w   |        |   |   |   |   | senior                | ſeníoꝛ       |   |   |   |   | lat |   |   |   |        256-04 | 2:context |          |  |1043|    |    |    |
 | PE  | e      | GynSen001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                     | .            |   |   |   |   | lat |   |   |   |        256-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ex                    | ex           |   |   |   |   | lat |   |   |   |        256-04 | 2:context |          |  |    |    |    |    |
@@ -111,19 +111,19 @@
 | w   |        |   |   |   |   | cui(us)d(am)          | cuıꝰ        |   |   |   |   | lat |   |   |   |        256-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)ne              | dn̅e          |   |   |   |   | lat |   |   |   |        256-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | DnaKat001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | kat(er)ine            | katíne      |   |   |   |   | lat |   |   |   |        256-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | kat(er)ine            | katíne      |   |   |   |   | lat |   |   |   |        256-04 | 2:context |          |  |1044|    |    |    |
 | PE  | e      | DnaKat001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                     | .            |   |   |   |   | lat |   |   |   |        256-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JakGud001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Iacob(us)             | Iacobꝫ       |   |   |   |   | lat |   |   |   |        256-04 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | guth¦mund             | guth¦mund    |   |   |   |   | lat |   |   |   | 256-04—256-05 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | s(un)                 |             |   |   |   |   | lat |   |   |   |        256-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Iacob(us)             | Iacobꝫ       |   |   |   |   | lat |   |   |   |        256-04 | 2:context |          |  |1045|    |    |    |
+| w   |        |   |   |   |   | guth¦mund             | guth¦mund    |   |   |   |   | lat |   |   |   | 256-04—256-05 | 2:context |          |  |1045|    |    |    |
+| w   |        |   |   |   |   | s(un)                 |             |   |   |   |   | lat |   |   |   |        256-05 | 2:context |          |  |1045|    |    |    |
 | PE  | e      | JakGud001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                     | .            |   |   |   |   | lat |   |   |   |        256-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (et)                  | ⁊            |   |   |   |   | lat |   |   |   |        256-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | HenMol001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | henc(er)us            | hencu      |   |   |   |   | lat |   |   |   |        256-05 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | mølnæ                 | mølnæ        |   |   |   |   | lat |   |   |   |        256-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | henc(er)us            | hencu      |   |   |   |   | lat |   |   |   |        256-05 | 2:context |          |  |1046|    |    |    |
+| w   |        |   |   |   |   | mølnæ                 | mølnæ        |   |   |   |   | lat |   |   |   |        256-05 | 2:context |          |  |1046|    |    |    |
 | PE  | e      | HenMol001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                     | .            |   |   |   |   | lat |   |   |   |        256-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | resignaueru(n)t       | ɼeſıgnaueru̅t |   |   |   |   | lat |   |   |   |        256-05 | 2:context |          |  |    |    |    |    |
@@ -132,8 +132,8 @@
 | w   |        |   |   |   |   | p(rese)nc(ium)        | pn̅          |   |   |   |   | lat |   |   |   |        256-05 | 2:context |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                     | .            |   |   |   |   | lat |   |   |   |        256-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | NieMan002  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicholao              | nícholao     |   |   |   |   | lat |   |   |   |        256-05 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | mandorp               | mandoꝛp      |   |   |   |   | lat |   |   |   |        256-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nicholao              | nícholao     |   |   |   |   | lat |   |   |   |        256-05 | 2:context |          |  |1047|    |    |    |
+| w   |        |   |   |   |   | mandorp               | mandoꝛp      |   |   |   |   | lat |   |   |   |        256-05 | 2:context |          |  |1047|    |    |    |
 | PE  | e      | NieMan002  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 256-06 |   |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(ro)c(ur)atori       | ꝓcatoꝛí     |   |   |   |   | lat |   |   |   |        256-06 | 2:context |          |  |    |    |    |    |
@@ -163,7 +163,7 @@
 | p   |        |   |   |   |   | .                     | .            |   |   |   |   | lat |   |   |   |        256-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(re)d(i)c(t)o        | p̅dc̅o         |   |   |   |   | lat |   |   |   |        256-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | NieMan002  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicholao              | nícholao     |   |   |   |   | lat |   |   |   |        256-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nicholao              | nícholao     |   |   |   |   | lat |   |   |   |        256-07 | 2:context |          |  |1048|    |    |    |
 | PE  | e      | NieMan002  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                     | .            |   |   |   |   | lat |   |   |   |        256-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(ri)us               | pu         |   |   |   |   | lat |   |   |   |        256-07 | 2:context |          |  |    |    |    |    |
@@ -176,8 +176,8 @@
 | w   |        |   |   |   |   | p(er)                 | p̲            |   |   |   |   | lat |   |   |   |        256-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | que(n)da(m)           | que̅da̅        |   |   |   |   | lat |   |   |   |        256-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | NiePed003  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicholau(m)           | nícholau̅     |   |   |   |   | lat |   |   |   |        256-07 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | pæt(er)s(un)          | pæt        |   |   |   |   | lat |   |   |   |        256-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nicholau(m)           | nícholau̅     |   |   |   |   | lat |   |   |   |        256-07 | 2:context |          |  |1049|    |    |    |
+| w   |        |   |   |   |   | pæt(er)s(un)          | pæt        |   |   |   |   | lat |   |   |   |        256-07 | 2:context |          |  |1049|    |    |    |
 | PE  | e      | NiePed003  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 256-08 |   |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | plac(ito)             | pla         |   |   |   |   | lat |   |   |   |        256-08 | 2:context |          |  |    |    |    |    |
@@ -189,16 +189,16 @@
 | p   |        |   |   |   |   | .                     | .            |   |   |   |   | lat |   |   |   |        256-08 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(re)d(i)c(t)us       | p̅dc̅u        |   |   |   |   | lat |   |   |   |        256-08 | 2:context |          |  |    |    |    |    |
 | PE  | b      | NiePed003  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nichola(us)           | nícholaꝰ     |   |   |   |   | lat |   |   |   |        256-08 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | pæt(er)s(un)          | pæt        |   |   |   |   | lat |   |   |   |        256-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nichola(us)           | nícholaꝰ     |   |   |   |   | lat |   |   |   |        256-08 | 2:context |          |  |1050|    |    |    |
+| w   |        |   |   |   |   | pæt(er)s(un)          | pæt        |   |   |   |   | lat |   |   |   |        256-08 | 2:context |          |  |1050|    |    |    |
 | PE  | e      | NiePed003  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                     | .            |   |   |   |   | lat |   |   |   |        256-08 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | de                    | de           |   |   |   |   | lat |   |   |   |        256-08 | 2:context |          |  |    |    |    |    |
 | PE  | b      | PedMor002  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Pet(ro)               | Petͦ          |   |   |   |   | lat |   |   |   |        256-08 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | marten                | maꝛte       |   |   |   |   | lat |   |   |   |        256-08 | 2:context |          |  |    |    |    |    |
-| p   |        |   |   |   |   | .                     | .            |   |   |   |   | lat |   |   |   |        256-08 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | søn                   | ſøn          |   |   |   |   |     |   |   |   |         256-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Pet(ro)               | Petͦ          |   |   |   |   | lat |   |   |   |        256-08 | 2:context |          |  |1051|    |    |    |
+| w   |        |   |   |   |   | marten                | maꝛte       |   |   |   |   | lat |   |   |   |        256-08 | 2:context |          |  |1051|    |    |    |
+| p   |        |   |   |   |   | .                     | .            |   |   |   |   | lat |   |   |   |        256-08 | 2:context |          |  |1051|    |    |    |
+| w   |        |   |   |   |   | søn                   | ſøn          |   |   |   |   |     |   |   |   |         256-08 | 2:context |          |  |1051|    |    |    |
 | PE  | e      | PedMor002  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 256-09 |   |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | iusto                 | íuﬅo         |   |   |   |   | lat |   |   |   |        256-09 | 2:context |          |  |    |    |    |    |
@@ -214,17 +214,17 @@
 | w   |        |   |   |   |   | scotac(i)o(n)em       | ſcotac̅oem    |   |   |   |   | lat |   |   |   |        256-09 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ip(s)i                | ıp̅ı          |   |   |   |   | lat |   |   |   |        256-09 | 2:context |          |  |    |    |    |    |
 | PE  | b      | NieMan002  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicholao              | nícholao     |   |   |   |   | lat |   |   |   |        256-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nicholao              | nícholao     |   |   |   |   | lat |   |   |   |        256-09 | 2:context |          |  |1052|    |    |    |
 | lm  | 256-10 |   |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | mandorp               | mandoꝛp      |   |   |   |   | lat |   |   |   |        256-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | mandorp               | mandoꝛp      |   |   |   |   | lat |   |   |   |        256-10 | 2:context |          |  |1052|    |    |    |
 | PE  | e      | NieMan002  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                     | .            |   |   |   |   | lat |   |   |   |        256-10 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(er)                 | p̲            |   |   |   |   | lat |   |   |   |        256-10 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(i)c(tu)m            | dc̅m          |   |   |   |   | lat |   |   |   |        256-10 | 2:context |          |  |    |    |    |    |
 | PE  | b      | NiePed003  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicholau(m)           | nícholau̅     |   |   |   |   | lat |   |   |   |        256-10 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | pæt(er)               | pæt         |   |   |   |   | lat |   |   |   |        256-10 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | s(un)                 |             |   |   |   |   | lat |   |   |   |        256-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nicholau(m)           | nícholau̅     |   |   |   |   | lat |   |   |   |        256-10 | 2:context |          |  |1053|    |    |    |
+| w   |        |   |   |   |   | pæt(er)               | pæt         |   |   |   |   | lat |   |   |   |        256-10 | 2:context |          |  |1053|    |    |    |
+| w   |        |   |   |   |   | s(un)                 |             |   |   |   |   | lat |   |   |   |        256-10 | 2:context |          |  |1053|    |    |    |
 | PE  | e      | NiePed003  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                     | .            |   |   |   |   | lat |   |   |   |        256-10 | 2:context |          |  |    |    |    |    |
 | d  | e      | 2  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -254,9 +254,9 @@
 | p   |        |   |   |   |   | .                     | .            |   |   |   |   | lat |   |   |   |        256-11 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Teste                 | Teﬅe         |   |   |   |   | lat |   |   |   |        256-11 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | NieJen008  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicholao              | nícholao     |   |   |   |   | lat |   |   |   |        256-11 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | jens                  | ȷen         |   |   |   |   | lat |   |   |   |        256-11 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | s(un)                 |             |   |   |   |   | lat |   |   |   |        256-11 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nicholao              | nícholao     |   |   |   |   | lat |   |   |   |        256-11 | 3:eschatocol |          |  |1054|    |    |    |
+| w   |        |   |   |   |   | jens                  | ȷen         |   |   |   |   | lat |   |   |   |        256-11 | 3:eschatocol |          |  |1054|    |    |    |
+| w   |        |   |   |   |   | s(un)                 |             |   |   |   |   | lat |   |   |   |        256-11 | 3:eschatocol |          |  |1054|    |    |    |
 | PE  | e      | NieJen008  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                     | .            |   |   |   |   | lat |   |   |   |        256-11 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | de                    | de           |   |   |   |   | lat |   |   |   |        256-11 | 3:eschatocol |          |  |    |    |    |    |

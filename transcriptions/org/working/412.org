@@ -45,8 +45,8 @@
 | d   | b      | 1           |     | protocol     |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | vi          | xPE | vi           |   | Wij                  | Wij             |   |   |   |                 | dan |   |   |    | 412-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | OluMor001   |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Oluf         |   | Olaff                | Olaff           |   |   |   |                 | dan |   |   |    | 412-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Mortensen    |   | mortenss(øn)         | moꝛtenſ        |   |   |   |                 | dan |   |   |    | 412-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Oluf         |   | Olaff                | Olaff           |   |   |   |                 | dan |   |   |    | 412-01 | 1:protocol |          |  |1901|    |    |    |
+| w   |        |             | xNP | Mortensen    |   | mortenss(øn)         | moꝛtenſ        |   |   |   |                 | dan |   |   |    | 412-01 | 1:protocol |          |  |1901|    |    |    |
 | PE  | e      | OluMor001   |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | mæth        | xAP | med          |   | m(et)                | mꝫ              |   |   |   |                 | dan |   |   |    | 412-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | guth        | xNC | Guds         |   | guds                 | gud            |   |   |   |                 | dan |   |   |    | 412-01 | 1:protocol |          |  |    |    |    |    |
@@ -84,8 +84,8 @@
 | w   |        | thænne      | xDD | denne        |   | th(e)n(ne)           | thn̅ͤ             |   |   |   |                 | dan |   |   |    | 412-02 | 2:context |          |  |    |    |    |    |
 | w   |        | brevvisere  | xNC | brevviser    |   | b(re)ffuise(re)      | bffuiſe       |   |   |   |                 | dan |   |   |    | 412-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      | NieJen012   |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Niels        |   | Niels                | Nıel           |   |   |   |                 | dan |   |   |    | 412-02 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Jensen       |   | Jenss(øn)            | Jenſ           |   |   |   |                 | dan |   |   |    | 412-02 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Niels        |   | Niels                | Nıel           |   |   |   |                 | dan |   |   |    | 412-02 | 2:context |          |  |1902|    |    |    |
+| w   |        |             | xNP | Jensen       |   | Jenss(øn)            | Jenſ           |   |   |   |                 | dan |   |   |    | 412-02 | 2:context |          |  |1902|    |    |    |
 | PE  | e      | NieJen012   |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | var         | xDP | vor          |   | wor                  | woꝛ             |   |   |   |                 | dan |   |   |    | 412-02 | 2:context |          |  |    |    |    |    |
 | w   |        | varthneth   | xNC | vorned       |   | wordnet              | woꝛdnet         |   |   |   | lemma varthneth | dan |   |   |    | 412-02 | 2:context |          |  |    |    |    |    |
@@ -95,7 +95,7 @@
 | w   |        | han         | xDP | hans         |   | ha(n)s               | ha̅             |   |   |   |                 | dan |   |   |    | 412-02 | 2:context |          |  |    |    |    |    |
 | w   |        | husfrue     | xNC | husfrue      |   | husf(rv)e            | huſfͮe           |   |   |   |                 | dan |   |   |    | 412-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MetXxx001   |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Mette        |   | mette                | mette           |   |   |   |                 | dan |   |   |    | 412-02 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Mette        |   | mette                | mette           |   |   |   |                 | dan |   |   |    | 412-02 | 2:context |          |  |1903|    |    |    |
 | PE  | e      | MetXxx001   |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
 | lm  | 412-03 |             |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | sum         | xRP | som          |   | som                  | ſom             |   |   |   |                 | dan |   |   |    | 412-03 | 2:context |          |  |    |    |    |    |
@@ -279,8 +279,8 @@
 | w   |        | nar         | xCS | når          |   | Nar                  | Naꝛ             |   |   |   |                 | dan |   |   |    | 412-10 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd    | xAJ | fornævnte    |   | for(nefnde)          | foꝛᷠͤ             |   |   |   |                 | dan |   |   |    | 412-10 | 2:context |          |  |    |    |    |    |
 | PE  | b      | NieJen012   |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Niels        |   | Niels                | Nıel           |   |   |   |                 | dan |   |   |    | 412-10 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Jensen       |   | jenss(øn)            | ȷenſ           |   |   |   |                 | dan |   |   |    | 412-10 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Niels        |   | Niels                | Nıel           |   |   |   |                 | dan |   |   |    | 412-10 | 2:context |          |  |1904|    |    |    |
+| w   |        |             | xNP | Jensen       |   | jenss(øn)            | ȷenſ           |   |   |   |                 | dan |   |   |    | 412-10 | 2:context |          |  |1904|    |    |    |
 | PE  | e      | NieJen012   |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og           |   | oc                   | oc              |   |   |   |                 | dan |   |   |    | 412-10 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd    | xAJ | fornævnte    |   | for(nefnde)          | foꝛᷠͤ             |   |   |   |                 | dan |   |   |    | 412-10 | 2:context |          |  |    |    |    |    |
@@ -288,7 +288,7 @@
 | w   |        | han         | xPE | hans         |   | ha(n)s               | ha̅             |   |   |   |                 | dan |   |   |    | 412-11 | 2:context |          |  |    |    |    |    |
 | w   |        | husfrue     | xNC | husfrue      |   | husf(rv)e            | huſfͮe           |   |   |   |                 | dan |   |   |    | 412-11 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MetXxx001   |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Mette        |   | mette                | mette           |   |   |   |                 | dan |   |   |    | 412-11 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Mette        |   | mette                | mette           |   |   |   |                 | dan |   |   |    | 412-11 | 2:context |          |  |1905|    |    |    |
 | PE  | e      | MetXxx001   |     |              |   |                      |                 |   |   |   |                 |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | døth        | xAJ | døde         |   | døde                 | døde            |   |   |   |                 | dan |   |   |    | 412-11 | 2:context |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og           |   | oc                   | oc              |   |   |   |                 | dan |   |   |    | 412-11 | 2:context |          |  |    |    |    |    |

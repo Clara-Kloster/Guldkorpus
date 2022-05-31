@@ -49,8 +49,8 @@ tilhører ikke Clara kl.?
 | w   |        |   |   |   |   | cernentib(us)            | cernentıbꝫ   |   |   |   |   | lat |   |   |    |        253-01 | 1:protocol |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /                        | /            |   |   |   |   | lat |   |   |    |        253-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | ThoMur001  |   |   |   |                          |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | thomas                   | thom       |   |   |   |   | lat |   |   |    |        253-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | murmester                | murmeﬅer     |   |   |   |   | lat |   |   |    |        253-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | thomas                   | thom       |   |   |   |   | lat |   |   |    |        253-01 | 1:protocol |          |  |1010|    |    |    |
+| w   |        |   |   |   |   | murmester                | murmeﬅer     |   |   |   |   | lat |   |   |    |        253-01 | 1:protocol |          |  |1010|    |    |    |
 | PE  | e      | ThoMur001  |   |   |   |                          |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ciuis                    | cíuí        |   |   |   |   | lat |   |   |    |        253-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                          |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -69,8 +69,8 @@ tilhører ikke Clara kl.?
 | w   |        |   |   |   |   | latori                   | ltoꝛí       |   |   |   |   | lat |   |   | =  |        253-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(rese)nc(ium)           | pn̅          |   |   |   |   | lat |   |   | == |        253-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      | BoxLøg001  |   |   |   |                          |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | boecio                   | boecıo       |   |   |   |   | lat |   |   |    |        253-02 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | løgman                   | løgman       |   |   |   |   | lat |   |   |    |        253-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | boecio                   | boecıo       |   |   |   |   | lat |   |   |    |        253-02 | 2:context |          |  |1011|    |    |    |
+| w   |        |   |   |   |   | løgman                   | løgman       |   |   |   |   | lat |   |   |    |        253-02 | 2:context |          |  |1011|    |    |    |
 | PE  | e      | BoxLøg001  |   |   |   |                          |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (con)ciui                | ꝯcíuí        |   |   |   |   | lat |   |   |    |        253-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | meo                      | meo          |   |   |   |   | lat |   |   |    |        253-02 | 2:context |          |  |    |    |    |    |
@@ -89,8 +89,8 @@ tilhører ikke Clara kl.?
 | w   |        |   |   |   |   | a                        |             |   |   |   |   | lat |   |   |    |        253-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | curia                    | curí        |   |   |   |   | lat |   |   |    |        253-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JakKob001  |   |   |   |                          |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | iacobi                   | ıcobı       |   |   |   |   | lat |   |   |    |        253-03 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | kopærhest                | kopærheﬅ     |   |   |   |   | lat |   |   |    |        253-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | iacobi                   | ıcobı       |   |   |   |   | lat |   |   |    |        253-03 | 2:context |          |  |1012|    |    |    |
+| w   |        |   |   |   |   | kopærhest                | kopærheﬅ     |   |   |   |   | lat |   |   |    |        253-03 | 2:context |          |  |1012|    |    |    |
 | PE  | e      | JakKob001  |   |   |   |                          |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | sitam                    | ſıt        |   |   |   |   | lat |   |   |    |        253-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ad                       | d           |   |   |   |   | lat |   |   |    |        253-03 | 2:context |          |  |    |    |    |    |
@@ -108,7 +108,7 @@ tilhører ikke Clara kl.?
 | w   |        |   |   |   |   | q(uod)                   | ꝙ            |   |   |   |   | lat |   |   |    |        253-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ide(m)                   | ıde̅          |   |   |   |   | lat |   |   |    |        253-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | BoxLøg001  |   |   |   |                          |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | boeci(us)                | boecıꝰ       |   |   |   |   | lat |   |   |    |        253-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | boeci(us)                | boecıꝰ       |   |   |   |   | lat |   |   |    |        253-04 | 2:context |          |  |1013|    |    |    |
 | PE  | e      | BoxLøg001  |   |   |   |                          |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | michi                    | mıchí        |   |   |   |   | lat |   |   |    |        253-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (quo)libet               | qͦlıbet       |   |   |   |   | lat |   |   |    |        253-04 | 2:context |          |  |    |    |    |    |
@@ -143,7 +143,7 @@ tilhører ikke Clara kl.?
 | w   |        |   |   |   |   | quicq(ui)d               | quıcqd      |   |   |   |   | lat |   |   |    |        253-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(re)d(i)c(tu)s          | p̅dc̅         |   |   |   |   | lat |   |   |    |        253-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | BoxLøg001  |   |   |   |                          |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | boeci(us)                | boecıꝰ       |   |   |   |   | lat |   |   |    |        253-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | boeci(us)                | boecıꝰ       |   |   |   |   | lat |   |   |    |        253-06 | 2:context |          |  |1014|    |    |    |
 | PE  | e      | BoxLøg001  |   |   |   |                          |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | in                       | ín           |   |   |   |   | lat |   |   |    |        253-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | t(er)ra                  | t͛r          |   |   |   |   | lat |   |   |    |        253-06 | 2:context |          |  |    |    |    |    |
@@ -161,7 +161,7 @@ tilhører ikke Clara kl.?
 | w   |        |   |   |   |   | ex                       | ex           |   |   |   |   | lat |   |   |    |        253-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(ar)te                  | p̲te          |   |   |   |   | lat |   |   |    |        253-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | ThoMur001  |   |   |   |                          |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | thome                    | thome        |   |   |   |   | lat |   |   |    |        253-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | thome                    | thome        |   |   |   |   | lat |   |   |    |        253-07 | 2:context |          |  |1015|    |    |    |
 | PE  | e      | ThoMur001  |   |   |   |                          |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /                        | /            |   |   |   |   | lat |   |   |    |        253-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (et)                     |             |   |   |   |   | lat |   |   |    |        253-07 | 2:context |          |  |    |    |    |    |
@@ -170,7 +170,7 @@ tilhører ikke Clara kl.?
 | w   |        |   |   |   |   | ex                       | ex           |   |   |   |   | lat |   |   |    |        253-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(ar)te                  | p̲te          |   |   |   |   | lat |   |   |    |        253-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | BoxLøg001  |   |   |   |                          |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | bo¦ecii                  | bo¦ecíí      |   |   |   |   | lat |   |   |    | 253-07—253-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | bo¦ecii                  | bo¦ecíí      |   |   |   |   | lat |   |   |    | 253-07—253-08 | 2:context |          |  |1016|    |    |    |
 | PE  | e      | BoxLøg001  |   |   |   |                          |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | stabit                   | ﬅabít        |   |   |   |   | lat |   |   |    |        253-08 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | racionabilit(er)         | rcıonbılıt͛ |   |   |   |   | lat |   |   |    |        253-08 | 2:context |          |  |    |    |    |    |
@@ -199,8 +199,8 @@ tilhører ikke Clara kl.?
 | w   |        |   |   |   |   | cu(m)                    | cu̅           |   |   |   |   | lat |   |   |    |        253-09 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | sigillo                  | ſıgıllo      |   |   |   |   | lat |   |   |    |        253-09 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | HeiVes001  |   |   |   |                          |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | heynonis                 | heynoní     |   |   |   |   | lat |   |   |    |        253-09 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | wesby                    | weſby        |   |   |   |   | lat |   |   |    |        253-09 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | heynonis                 | heynoní     |   |   |   |   | lat |   |   |    |        253-09 | 3:eschatocol |          |  |1017|    |    |    |
+| w   |        |   |   |   |   | wesby                    | weſby        |   |   |   |   | lat |   |   |    |        253-09 | 3:eschatocol |          |  |1017|    |    |    |
 | PE  | e      | HeiVes001  |   |   |   |                          |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(rese)ntib(us)          | pn̅tıbꝫ       |   |   |   |   | lat |   |   |    |        253-09 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 253-10 |   |   |   |   |                          |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |

@@ -49,7 +49,7 @@ ASK: Remember to convert the <del rend=...> tag to the correct notation.
 | w   |        |   |   |   |   | c(er)ne(n)tib(us)       | c͛ne̅tıbꝫ      |   |   |   |   | lat |   |   |    |        103-01 | 1:protocol |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                       | .            |   |   |   |   | lat |   |   |    |        103-01 | 1:protocol |          |  |    |    |    |    |
 | PE  |      b |IngEps001   |   |   |   |                         |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Jnguuar(us)             | Jnguuarꝰ     |   |   |   |   | lat |   |   |    |        103-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Jnguuar(us)             | Jnguuarꝰ     |   |   |   |   | lat |   |   |    |        103-01 | 1:protocol |          |  |407|    |    |    |
 | PE  |      e |IngEps001   |   |   |   |                         |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(e)i                   | ꝺı̅           |   |   |   |   | lat |   |   |    |        103-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | gr(aci)a                | gr̅a          |   |   |   |   | lat |   |   |    |        103-01 | 1:protocol |          |  |    |    |    |    |
@@ -60,7 +60,7 @@ ASK: Remember to convert the <del rend=...> tag to the correct notation.
 | p   |        |   |   |   |   | .                       | .            |   |   |   |   | lat |   |   |    |        103-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | magist(er)              | agıﬅ͛        |   |   |   |   | lat |   |   |    |        103-01 | 1:protocol |          |  |    |    |    |    |
 | PE  |      b | RanDec001  |   |   |   |                         |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | R(ano)                  | R̅            |   |   |   |   | lat |   |   |    |        103-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | R(ano)                  | R̅            |   |   |   |   | lat |   |   |    |        103-01 | 1:protocol |          |  |408|    |    |    |
 | PE  |      e | RanDec001  |   |   |   |                         |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | decan(us)               | ꝺecanꝰ       |   |   |   |   | lat |   |   |    |        103-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (et)                    |             |   |   |   |   | lat |   |   |    |        103-01 | 1:protocol |          |  |    |    |    |    |
@@ -85,9 +85,9 @@ ASK: Remember to convert the <del rend=...> tag to the correct notation.
 | p   |        |   |   |   |   | .                       | .            |   |   |   |   | lat |   |   |    |        103-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)ni                | ꝺn̅ı          |   |   |   |   | lat |   |   |    |        103-02 | 2:context |          |  |    |    |    |    |
 | PE  |      b | PavCle004  |   |   |   |                         |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Cleme(n)tis             | Cleme̅tıs     |   |   |   |   | lat |   |   |    |        103-02 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | pape                    | ppe         |   |   |   |   | lat |   |   |    |        103-02 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | q(ua)rti                | qrtı        |   |   |   |   | lat |   |   |    |        103-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Cleme(n)tis             | Cleme̅tıs     |   |   |   |   | lat |   |   |    |        103-02 | 2:context |          |  |409|    |    |    |
+| w   |        |   |   |   |   | pape                    | ppe         |   |   |   |   | lat |   |   |    |        103-02 | 2:context |          |  |409|    |    |    |
+| w   |        |   |   |   |   | q(ua)rti                | qrtı        |   |   |   |   | lat |   |   |    |        103-02 | 2:context |          |  |409|    |    |    |
 | PE  |      e | PavCle004  |   |   |   |                         |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                       | .            |   |   |   |   | lat |   |   |    |        103-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | no(n)                   | no̅           |   |   |   |   | lat |   |   |    |        103-02 | 2:context |          |  |    |    |    |    |
@@ -116,7 +116,7 @@ ASK: Remember to convert the <del rend=...> tag to the correct notation.
 | w   |        |   |   |   |   | (con)tine(n)tes         | ꝯtıne̅tes     |   |   |   |   | lat |   |   |    |        103-03 | 2:context |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                       | .            |   |   |   |   | lat |   |   |    |        103-03 | 2:context |          |  |    |    |    |    |
 | PE  |      b | PavCle004  |   |   |   |                         |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Cleme(n)s               | Cleme̅ſ       |   |   |   |   | lat |   |   |    |        103-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Cleme(n)s               | Cleme̅ſ       |   |   |   |   | lat |   |   |    |        103-03 | 2:context |          |  |410|    |    |    |
 | PE  |      e | PavCle004  |   |   |   |                         |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ep(iscopu)s             | ep̅s          |   |   |   |   | lat |   |   |    |        103-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | seru⸠r(um)⸡us           | ſeru⸠ꝝ⸡uſ    |   |   |   |   | lat |   |   |    |        103-03 | 2:context |          |  |    |    |    |    |

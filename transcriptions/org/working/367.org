@@ -50,8 +50,8 @@
 | d  | b      | 2  |   | context  |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Ego                       | Ego          |   |   |   |   | lat |   |   |    | 367-01 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MorJen001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | martin(us)                | martín      |   |   |   |   | lat |   |   |    | 367-01 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ioh(ann)is                | ıoh̅ı        |   |   |   |   | lat |   |   |    | 367-01 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | martin(us)                | martín      |   |   |   |   | lat |   |   |    | 367-01 | 2:context |          |  |1508|    |    |    |
+| w   |        |   |   |   |   | ioh(ann)is                | ıoh̅ı        |   |   |   |   | lat |   |   |    | 367-01 | 2:context |          |  |1508|    |    |    |
 | PE  | e      | MorJen001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | canonic(us)               | canoníc     |   |   |   |   | lat |   |   |    | 367-01 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
@@ -70,7 +70,7 @@
 | w   |        |   |   |   |   | (et)                      |             |   |   |   |   | lat |   |   |    | 367-01 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)no                  | dn̅o          |   |   |   |   | lat |   |   |    | 367-01 | 2:context |          |  |    |    |    |    |
 | PE  | b      | NieEps004  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Nicholao                  | Nıcholao     |   |   |   |   | lat |   |   |    | 367-01 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Nicholao                  | Nıcholao     |   |   |   |   | lat |   |   |    | 367-01 | 2:context |          |  |1509|    |    |    |
 | PE  | e      | NieEps004  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | lm  | 367-02 |   |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | dei                       | deı          |   |   |   |   | lat |   |   |    | 367-02 | 2:context |          |  |    |    |    |    |
@@ -113,210 +113,210 @@
 | w   |        |   |   |   |   | Sorores                   | Soꝛoꝛe      |   |   |   |   | lat |   |   |    | 367-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | videl(icet)               | vıdelꝫ       |   |   |   |   | lat |   |   |    | 367-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | CecBos001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | cecilia                   | cecılıa      |   |   |   |   | lat |   |   |    | 367-03 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | boecij                    | boecí       |   |   |   |   | lat |   |   |    | 367-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | cecilia                   | cecılıa      |   |   |   |   | lat |   |   |    | 367-03 | 2:context |          |  |1510|    |    |    |
+| w   |        |   |   |   |   | boecij                    | boecí       |   |   |   |   | lat |   |   |    | 367-03 | 2:context |          |  |1510|    |    |    |
 | PE  | e      | CecBos001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | abb(atiss)a               | abb̅a         |   |   |   |   | lat |   |   |    | 367-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MarMik001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | margareta                 | margareta    |   |   |   |   | lat |   |   |    | 367-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | margareta                 | margareta    |   |   |   |   | lat |   |   |    | 367-03 | 2:context |          |  |1511|    |    |    |
 | lm  | 367-04 |   |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | rudzdot(er)               | rudzdot͛      |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | rudzdot(er)               | rudzdot͛      |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |1511|    |    |    |
 | PE  | e      | MarMik001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | GerMor001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | g(er)trud                 | g͛trud        |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | martini                   | martíní      |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | g(er)trud                 | g͛trud        |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |1512|    |    |    |
+| w   |        |   |   |   |   | martini                   | martíní      |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |1512|    |    |    |
 | PE  | e      | GerMor001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MarPed002  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | mærdæ                     | mærdæ        |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | pet(ri)                   | pet         |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | mærdæ                     | mærdæ        |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |1513|    |    |    |
+| w   |        |   |   |   |   | pet(ri)                   | pet         |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |1513|    |    |    |
 | PE  | e      | MarPed002  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | EdlGru001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ethle                     | ethle        |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | grubbes                   | grubbe      |   |   |   |   | lat |   |   | =  | 367-04 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | dot(er)                   | dot͛          |   |   |   |   | lat |   |   | == | 367-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ethle                     | ethle        |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |1514|    |    |    |
+| w   |        |   |   |   |   | grubbes                   | grubbe      |   |   |   |   | lat |   |   | =  | 367-04 | 2:context |          |  |1514|    |    |    |
+| w   |        |   |   |   |   | dot(er)                   | dot͛          |   |   |   |   | lat |   |   | == | 367-04 | 2:context |          |  |1514|    |    |    |
 | PE  | e      | EdlGru001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | KriSky001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | cristina                  | crıﬅína      |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | skythebers                | ẏtheber    |   |   |   |   | lat |   |   | =  | 367-04 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | dot(er)                   | dot͛          |   |   |   |   | lat |   |   | == | 367-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | cristina                  | crıﬅína      |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |1515|    |    |    |
+| w   |        |   |   |   |   | skythebers                | ẏtheber    |   |   |   |   | lat |   |   | =  | 367-04 | 2:context |          |  |1515|    |    |    |
+| w   |        |   |   |   |   | dot(er)                   | dot͛          |   |   |   |   | lat |   |   | == | 367-04 | 2:context |          |  |1515|    |    |    |
 | PE  | e      | KriSky001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MarTho001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | m(ar)gareta               | mgareta     |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | thome                     | thome        |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | m(ar)gareta               | mgareta     |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |1516|    |    |    |
+| w   |        |   |   |   |   | thome                     | thome        |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |1516|    |    |    |
 | PE  | e      | MarTho001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | CecEbb001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | cecilia                   | cecılıa      |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ebbonis                   | ebboní      |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | cecilia                   | cecılıa      |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |1517|    |    |    |
+| w   |        |   |   |   |   | ebbonis                   | ebboní      |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |1517|    |    |    |
 | PE  | e      | CecEbb001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AnnGru001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | a(n)na                    | a̅na          |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | g(ru)bes                  | gᷣbes         |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | a(n)na                    | a̅na          |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |1518|    |    |    |
+| w   |        |   |   |   |   | g(ru)bes                  | gᷣbes         |   |   |   |   | lat |   |   |    | 367-04 | 2:context |          |  |1518|    |    |    |
 | PE  | e      | AnnGru001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | lm  | 367-05 |   |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MetPed001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | mættæ                     | mættæ        |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | pet(ri)                   | pet         |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | mættæ                     | mættæ        |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |1519|    |    |    |
+| w   |        |   |   |   |   | pet(ri)                   | pet         |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |1519|    |    |    |
 | PE  | e      | MetPed001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | GesPed001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | gesæ                      | geſæ         |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | pet(ri)                   | pet         |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | gesæ                      | geſæ         |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |1520|    |    |    |
+| w   |        |   |   |   |   | pet(ri)                   | pet         |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |1520|    |    |    |
 | PE  | e      | GesPed001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AnnMan001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | a(n)na                    | a̅na          |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | mandorps                  | mandoꝛp     |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | a(n)na                    | a̅na          |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |1521|    |    |    |
+| w   |        |   |   |   |   | mandorps                  | mandoꝛp     |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |1521|    |    |    |
 | PE  | e      | AnnMan001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | BodJen001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | botild                    | botıld       |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ioh(ann)is                | ıoh̅ı        |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | botild                    | botıld       |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |1522|    |    |    |
+| w   |        |   |   |   |   | ioh(ann)is                | ıoh̅ı        |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |1522|    |    |    |
 | PE  | e      | BodJen001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AnnJak001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | a(n)na                    | a̅na          |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | iacobi                    | ıacobı       |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | a(n)na                    | a̅na          |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |1523|    |    |    |
+| w   |        |   |   |   |   | iacobi                    | ıacobı       |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |1523|    |    |    |
 | PE  | e      | AnnJak001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MarJen001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | m(ar)gar(e)ta             | mgar͛ta      |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ioh(ann)is                | ıoh̅ı        |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | m(ar)gar(e)ta             | mgar͛ta      |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |1524|    |    |    |
+| w   |        |   |   |   |   | ioh(ann)is                | ıoh̅ı        |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |1524|    |    |    |
 | PE  | e      | MarJen001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | KatEbb001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | katerina                  | katerına     |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ebb(on)is                 | ebb̅ı        |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | katerina                  | katerına     |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |1525|    |    |    |
+| w   |        |   |   |   |   | ebb(on)is                 | ebb̅ı        |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |1525|    |    |    |
 | PE  | e      | KatEbb001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | IngNie002  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ingard(is)                | íngar       |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicholai                  | nıcholaí     |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ingard(is)                | íngar       |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |1526|    |    |    |
+| w   |        |   |   |   |   | nicholai                  | nıcholaí     |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |1526|    |    |    |
 | PE  | e      | IngNie002  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | EliNie003  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | elena                     | elena        |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicholai                  | nıcholaí     |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | elena                     | elena        |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |1527|    |    |    |
+| w   |        |   |   |   |   | nicholai                  | nıcholaí     |   |   |   |   | lat |   |   |    | 367-05 | 2:context |          |  |1527|    |    |    |
 | PE  | e      | EliNie003  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | lm  | 367-06 |   |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | PE  | b      | LydKøn001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lythgerth                 | lẏthgerth    |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | kønnikes                  | kønníke     |   |   |   |   | lat |   |   | =  | 367-06 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | dot(er)                   | dot͛          |   |   |   |   | lat |   |   | == | 367-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | lythgerth                 | lẏthgerth    |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |1528|    |    |    |
+| w   |        |   |   |   |   | kønnikes                  | kønníke     |   |   |   |   | lat |   |   | =  | 367-06 | 2:context |          |  |1528|    |    |    |
+| w   |        |   |   |   |   | dot(er)                   | dot͛          |   |   |   |   | lat |   |   | == | 367-06 | 2:context |          |  |1528|    |    |    |
 | PE  | e      | LydKøn001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | KatPed001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | katerina                  | katerína     |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | pet(ri)                   | pet         |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | katerina                  | katerína     |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |1529|    |    |    |
+| w   |        |   |   |   |   | pet(ri)                   | pet         |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |1529|    |    |    |
 | PE  | e      | KatPed001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | EliEri001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | elizabeth                 | elızabeth    |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | erici                     | erıcí        |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | elizabeth                 | elızabeth    |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |1530|    |    |    |
+| w   |        |   |   |   |   | erici                     | erıcí        |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |1530|    |    |    |
 | PE  | e      | EliEri001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | KriTyd001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | cristina                  | crıﬅína      |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | tydekini                  | tẏdekíní     |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | cristina                  | crıﬅína      |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |1531|    |    |    |
+| w   |        |   |   |   |   | tydekini                  | tẏdekíní     |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |1531|    |    |    |
 | PE  | e      | KriTyd001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MarJen003  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | marina                    | marına       |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ioh(ann)is                | ıoh̅ı        |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | marina                    | marına       |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |1532|    |    |    |
+| w   |        |   |   |   |   | ioh(ann)is                | ıoh̅ı        |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |1532|    |    |    |
 | PE  | e      | MarJen003  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | CecFol001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | cecilia                   | cecılıa      |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | folmari                   | folmarí      |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | cecilia                   | cecılıa      |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |1533|    |    |    |
+| w   |        |   |   |   |   | folmari                   | folmarí      |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |1533|    |    |    |
 | PE  | e      | CecFol001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JohPed001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ioha(n)na                 | ıoha̅na       |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | pet(ri)                   | pet         |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ioha(n)na                 | ıoha̅na       |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |1534|    |    |    |
+| w   |        |   |   |   |   | pet(ri)                   | pet         |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |1534|    |    |    |
 | PE  | e      | JohPed001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | CecPed001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | cecilia                   | cecílía      |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | pet(ri)                   | pet         |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | cecilia                   | cecílía      |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |1535|    |    |    |
+| w   |        |   |   |   |   | pet(ri)                   | pet         |   |   |   |   | lat |   |   |    | 367-06 | 2:context |          |  |1535|    |    |    |
 | PE  | e      | CecPed001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | lm  | 367-07 |   |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | PE  | b      | BirAlb001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | byrgita                   | bẏrgıta      |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | alberti                   | albertı      |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | byrgita                   | bẏrgıta      |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |1536|    |    |    |
+| w   |        |   |   |   |   | alberti                   | albertı      |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |1536|    |    |    |
 | PE  | e      | BirAlb001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | BirAxe001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | byrgita                   | bẏrgıta      |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | axolo(n)is                | axolo̅ı      |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | byrgita                   | bẏrgıta      |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |1537|    |    |    |
+| w   |        |   |   |   |   | axolo(n)is                | axolo̅ı      |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |1537|    |    |    |
 | PE  | e      | BirAxe001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | GerPed003  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | gervor                    | gervoꝛ       |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | pet(ri)                   | pet         |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | gervor                    | gervoꝛ       |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |1538|    |    |    |
+| w   |        |   |   |   |   | pet(ri)                   | pet         |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |1538|    |    |    |
 | PE  | e      | GerPed003  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | CecNie001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | cecilia                   | cecılıa      |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicholai                  | nıcholaí     |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | cecilia                   | cecılıa      |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |1539|    |    |    |
+| w   |        |   |   |   |   | nicholai                  | nıcholaí     |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |1539|    |    |    |
 | PE  | e      | CecNie001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | CecAri001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | cecilia                   | cecılıa      |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | arelz                     | arelz        |   |   |   |   | lat |   |   | =  | 367-07 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | dot(er)                   | dot͛          |   |   |   |   | lat |   |   | == | 367-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | cecilia                   | cecılıa      |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |1540|    |    |    |
+| w   |        |   |   |   |   | arelz                     | arelz        |   |   |   |   | lat |   |   | =  | 367-07 | 2:context |          |  |1540|    |    |    |
+| w   |        |   |   |   |   | dot(er)                   | dot͛          |   |   |   |   | lat |   |   | == | 367-07 | 2:context |          |  |1540|    |    |    |
 | PE  | e      | CecAri001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | KatPed002  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | katerina                  | katerína     |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | pet(ri)                   | pet         |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | katerina                  | katerína     |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |1541|    |    |    |
+| w   |        |   |   |   |   | pet(ri)                   | pet         |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |1541|    |    |    |
 | PE  | e      | KatPed002  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MetJen001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | mættæ                     | mættæ        |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ioh(ann)is                | ıoh̅ı        |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | mættæ                     | mættæ        |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |1542|    |    |    |
+| w   |        |   |   |   |   | ioh(ann)is                | ıoh̅ı        |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |1542|    |    |    |
 | PE  | e      | MetJen001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | KriOlu001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | cristina                  | crıﬅína      |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | olaui                     | olauı        |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | cristina                  | crıﬅína      |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |1543|    |    |    |
+| w   |        |   |   |   |   | olaui                     | olauı        |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |1543|    |    |    |
 | PE  | e      | KriOlu001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-07 | 2:context |          |  |    |    |    |    |
 | lm  | 367-08 |   |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | PE  | b      | KriAnd001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | cristina                  | crıﬅína      |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | andree                    | andree       |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | cristina                  | crıﬅína      |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |1544|    |    |    |
+| w   |        |   |   |   |   | andree                    | andree       |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |1544|    |    |    |
 | PE  | e      | KriAnd001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | ..                        | ..           |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |    |    |    |    |
 | PE  | b      | TovMog001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | torvæ                     | toꝛvæ        |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | magni                     | magní        |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | torvæ                     | toꝛvæ        |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |1545|    |    |    |
+| w   |        |   |   |   |   | magni                     | magní        |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |1545|    |    |    |
 | PE  | e      | TovMog001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |    |    |    |    |
 | PE  | b      | KriBru001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | cristina                  | crıﬅına      |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | bruns                     | bꝛun        |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | cristina                  | crıﬅına      |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |1546|    |    |    |
+| w   |        |   |   |   |   | bruns                     | bꝛun        |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |1546|    |    |    |
 | PE  | e      | KriBru001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |    |    |    |    |
 | PE  | b      | LucHen001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lucia                     | lucıa        |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | he(n)nikini               | he̅nıkíní     |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | lucia                     | lucıa        |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |1547|    |    |    |
+| w   |        |   |   |   |   | he(n)nikini               | he̅nıkíní     |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |1547|    |    |    |
 | PE  | e      | LucHen001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |    |    |    |    |
 | PE  | b      | KriOlu002  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | cristina                  | crıﬅína      |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | olaui                     | olauí        |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | cristina                  | crıﬅína      |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |1548|    |    |    |
+| w   |        |   |   |   |   | olaui                     | olauí        |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |1548|    |    |    |
 | PE  | e      | KriOlu002  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .            |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MarJør001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | m(ar)gar(e)ta             | mgar͛ta      |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | yriens                    | ẏríen       |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | m(ar)gar(e)ta             | mgar͛ta      |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |1549|    |    |    |
+| w   |        |   |   |   |   | yriens                    | ẏríen       |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |1549|    |    |    |
 | PE  | e      | MarJør001  |   |   |   |                           |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   |                          |             |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ad                        | ad           |   |   |   |   | lat |   |   |    | 367-08 | 2:context |          |  |    |    |    |    |

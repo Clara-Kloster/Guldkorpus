@@ -48,8 +48,8 @@ skadet
 | w   |        |   |   |   |   | sc(ri)ptum      | ſcptum      |   |   |   |   | lat |   |   |   |        261-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | [cern]entib(us) | [cern]entıbꝫ |   |   |   |   | lat |   |   |   |        261-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | [Nicholaus]     | [Nicholaus   |   |   |   |   | lat |   |   |   |        261-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | iøns           | ıønſ        |   |   |   |   | lat |   |   |   |        261-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | [Nicholaus]     | [Nicholaus   |   |   |   |   | lat |   |   |   |        261-01 | 1:protocol |          |  |2700|    |    |    |
+| w   |        |   |   |   |   | iøns           | ıønſ        |   |   |   |   | lat |   |   |   |        261-01 | 1:protocol |          |  |2700|    |    |    |
 | PE  | e      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | de              | de           |   |   |   |   | lat |   |   |   |        261-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -69,8 +69,8 @@ skadet
 | w   |        |   |   |   |   | ex[hi]bitori    | ex[hi]bitorı |   |   |   |   | lat |   |   |   |        261-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(rese)nciu(m)  | pn̅cıu̅        |   |   |   |   | lat |   |   |   |        261-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | [Esgero]        | [Esgero]     |   |   |   |   | lat |   |   |   |        261-02 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | [Br]ok          | [Br]ok       |   |   |   |   | lat |   |   |   |        261-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | [Esgero]        | [Esgero]     |   |   |   |   | lat |   |   |   |        261-02 | 2:context |          |  |2701|    |    |    |
+| w   |        |   |   |   |   | [Br]ok          | [Br]ok       |   |   |   |   | lat |   |   |   |        261-02 | 2:context |          |  |2701|    |    |    |
 | PE  | e      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | om(n)ia         | om̅ıa         |   |   |   |   | lat |   |   |   |        261-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (et)            |             |   |   |   |   | lat |   |   |   |        261-02 | 2:context |          |  |    |    |    |    |
@@ -93,8 +93,8 @@ skadet
 | w   |        |   |   |   |   | Ioha(nn)am      | Ioha̅am       |   |   |   |   | lat |   |   |   |        261-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | relic[tam]      | relıc[tam]   |   |   |   |   | lat |   |   |   |        261-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | [Andree]        | [Andree]     |   |   |   |   | lat |   |   |   |        261-03 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | [Iøn]ss(un)     | [Iøn]ſ      |   |   |   |   | lat |   |   |   |        261-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | [Andree]        | [Andree]     |   |   |   |   | lat |   |   |   |        261-03 | 2:context |          |  |2702|    |    |    |
+| w   |        |   |   |   |   | [Iøn]ss(un)     | [Iøn]ſ      |   |   |   |   | lat |   |   |   |        261-03 | 2:context |          |  |2702|    |    |    |
 | PE  | e      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | de              | de           |   |   |   |   | lat |   |   |   |        261-03 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -108,7 +108,7 @@ skadet
 | w   |        |   |   |   |   | mei             | meí          |   |   |   |   | lat |   |   |   |        261-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | regis           | regı        |   |   |   |   | lat |   |   |   |        261-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | waldemari       | waldemarí    |   |   |   |   | lat |   |   |   |        261-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | waldemari       | waldemarí    |   |   |   |   | lat |   |   |   |        261-04 | 2:context |          |  |2703|    |    |    |
 | PE  | e      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(ro)           | ꝓ            |   |   |   |   | lat |   |   |   |        261-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | septuaginta     | ſeptuagınta  |   |   |   |   | lat |   |   |   |        261-04 | 2:context |          |  |    |    |    |    |
@@ -150,8 +150,8 @@ skadet
 | w   |        |   |   |   |   | p(er)           | p̲            |   |   |   |   | lat |   |   |   |        261-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(re)fatum      | p̅fatum       |   |   |   |   | lat |   |   |   |        261-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | andream         | andream      |   |   |   |   | lat |   |   |   |        261-06 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | iønss(un)       | ıønſ        |   |   |   |   | lat |   |   |   |        261-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | andream         | andream      |   |   |   |   | lat |   |   |   |        261-06 | 2:context |          |  |2704|    |    |    |
+| w   |        |   |   |   |   | iønss(un)       | ıønſ        |   |   |   |   | lat |   |   |   |        261-06 | 2:context |          |  |2704|    |    |    |
 | PE  | e      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | eciam           | ecıam        |   |   |   |   | lat |   |   |   |        261-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | tytulo          | tytulo       |   |   |   |   | lat |   |   |   |        261-06 | 2:context |          |  |    |    |    |    |
@@ -173,7 +173,7 @@ skadet
 | lm  | 261-08 |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | eundem          | eundem       |   |   |   |   | lat |   |   |   |        261-08 | 2:context |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | esgeru(m)       | eſgeru̅       |   |   |   |   | lat |   |   |   |        261-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | esgeru(m)       | eſgeru̅       |   |   |   |   | lat |   |   |   |        261-08 | 2:context |          |  |2705|    |    |    |
 | PE  | e      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | michi           | mıchı        |   |   |   |   | lat |   |   |   |        261-08 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ad              | ad           |   |   |   |   | lat |   |   |   |        261-08 | 2:context |          |  |    |    |    |    |
@@ -212,19 +212,19 @@ skadet
 | w   |        |   |   |   |   | vid(i)l(icet)   | vıd̅lꝫ        |   |   |   |   | lat |   |   |   |        261-10 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)ni        | dn̅ı          |   |   |   |   | lat |   |   |   |        261-10 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | magni           | magní        |   |   |   |   | lat |   |   |   |        261-10 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicliss(un)     | nıclıſ      |   |   |   |   | lat |   |   |   |        261-10 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | magni           | magní        |   |   |   |   | lat |   |   |   |        261-10 | 3:eschatocol |          |  |2706|    |    |    |
+| w   |        |   |   |   |   | nicliss(un)     | nıclıſ      |   |   |   |   | lat |   |   |   |        261-10 | 3:eschatocol |          |  |2706|    |    |    |
 | PE  | e      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | milit(is)       | mılıtꝭ       |   |   |   |   | lat |   |   |   |        261-10 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicholai        | nıcholaí     |   |   |   |   | lat |   |   |   |        261-10 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | tuuæss(un)      | tuuæſ       |   |   |   |   | lat |   |   |   |        261-10 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nicholai        | nıcholaí     |   |   |   |   | lat |   |   |   |        261-10 | 3:eschatocol |          |  |2707|    |    |    |
+| w   |        |   |   |   |   | tuuæss(un)      | tuuæſ       |   |   |   |   | lat |   |   |   |        261-10 | 3:eschatocol |          |  |2707|    |    |    |
 | PE  | e      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .               | .            |   |   |   |   | lat |   |   |   |        261-10 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (et)            |             |   |   |   |   | lat |   |   |   |        261-10 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | tuchonis        | tuchoní     |   |   |   |   | lat |   |   |   |        261-10 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ska(m)mels(un)  | ſka̅mel      |   |   |   |   | lat |   |   |   |        261-10 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | tuchonis        | tuchoní     |   |   |   |   | lat |   |   |   |        261-10 | 3:eschatocol |          |  |2708|    |    |    |
+| w   |        |   |   |   |   | ska(m)mels(un)  | ſka̅mel      |   |   |   |   | lat |   |   |   |        261-10 | 3:eschatocol |          |  |2708|    |    |    |
 | PE  | e      |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 261-11 |   |   |   |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(rese)ntib(us) | pn̅tıbꝫ       |   |   |   |   | lat |   |   |   |        261-11 | 3:eschatocol |          |  |    |    |    |    |

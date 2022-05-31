@@ -50,7 +50,7 @@
 | w   |        |   |   |   |   | vel                       | ỽel          |   |   |   |                         | lat |   |   |   | 329-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | audit(uri)s               | audıt᷑       |   |   |   |                         | lat |   |   |   | 329-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | PedLod001  |   |   |   |                           |              |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Petrus                    | Petru       |   |   |   |                         | lat |   |   |   | 329-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Petrus                    | Petru       |   |   |   |                         | lat |   |   |   | 329-01 | 1:protocol |          |  |1335|    |    |    |
 | PE  | e      | PedLod001  |   |   |   |                           |              |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | dei                       | dei          |   |   |   |                         | lat |   |   |   | 329-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | gr(rati)a                 | grᷓa          |   |   |   |                         | lat |   |   |   | 329-01 | 1:protocol |          |  |    |    |    |    |
@@ -81,8 +81,8 @@
 | w   |        |   |   |   |   | q(ui)d(em)                | q          |   |   |   |                         | lat |   |   |   | 329-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)n(u)s               | dn̅          |   |   |   |                         | lat |   |   |   | 329-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      | LarNie001  |   |   |   |                           |              |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | laure(n)cius              | laure̅ciu    |   |   |   |                         | lat |   |   |   | 329-02 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicolai                   | nicolai      |   |   |   |                         | lat |   |   |   | 329-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | laure(n)cius              | laure̅ciu    |   |   |   |                         | lat |   |   |   | 329-02 | 2:context |          |  |1336|    |    |    |
+| w   |        |   |   |   |   | nicolai                   | nicolai      |   |   |   |                         | lat |   |   |   | 329-02 | 2:context |          |  |1336|    |    |    |
 | PE  | e      | LarNie001  |   |   |   |                           |              |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | cano(n)i(us)              | cano̅ı᷒        |   |   |   |                         | lat |   |   |   | 329-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(i)c(t)e                 | dc̅e          |   |   |   |                         | lat |   |   |   | 329-02 | 2:context |          |  |    |    |    |    |
@@ -199,7 +199,7 @@
 | w   |        |   |   |   |   | nos                       | o          |   |   |   |                         | lat |   |   |   | 329-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | igit(ur)                  | ıgıt᷑         |   |   |   |                         | lat |   |   |   | 329-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | PedLod001  |   |   |   |                           |              |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Petr(us)                  | Petr᷒         |   |   |   |                         | lat |   |   |   | 329-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Petr(us)                  | Petr᷒         |   |   |   |                         | lat |   |   |   | 329-06 | 2:context |          |  |1337|    |    |    |
 | PE  | e      | PedLod001  |   |   |   |                           |              |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Ep(iscop)us               | p̅u         |   |   |   |                         | lat |   |   |   | 329-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(re)d(i)c(t)us           | p̅dc̅u        |   |   |   |                         | lat |   |   |   | 329-06 | 2:context |          |  |    |    |    |    |
@@ -216,7 +216,7 @@
 | w   |        |   |   |   |   | ip(s)i(us)                | ıp̅ı᷒          |   |   |   |                         | lat |   |   |   | 329-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)ni                  | dn̅ı          |   |   |   |                         | lat |   |   |   | 329-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | LarNie001  |   |   |   |                           |              |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | laure(n)cii               | laure̅cii     |   |   |   |                         | lat |   |   |   | 329-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | laure(n)cii               | laure̅cii     |   |   |   |                         | lat |   |   |   | 329-07 | 2:context |          |  |1338|    |    |    |
 | PE  | e      | LarNie001  |   |   |   |                           |              |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (et)                      | ⁊            |   |   |   |                         | lat |   |   |   | 329-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | suor(um)                  | ſuoꝝ         |   |   |   |                         | lat |   |   |   | 329-07 | 2:context |          |  |    |    |    |    |
@@ -231,8 +231,8 @@
 | w   |        |   |   |   |   | viru(m)                   | ỽıru̅         |   |   |   |                         | lat |   |   |   | 329-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)n(u)m               | dn̅          |   |   |   |                         | lat |   |   |   | 329-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JenAnd001  |   |   |   |                           |              |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Joh(ann)em                | Joh̅e        |   |   |   |                         | lat |   |   |   | 329-07 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | andree                    | andree       |   |   |   |                         | lat |   |   |   | 329-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Joh(ann)em                | Joh̅e        |   |   |   |                         | lat |   |   |   | 329-07 | 2:context |          |  |1339|    |    |    |
+| w   |        |   |   |   |   | andree                    | andree       |   |   |   |                         | lat |   |   |   | 329-07 | 2:context |          |  |1339|    |    |    |
 | PE  | e      | JenAnd001  |   |   |   |                           |              |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | de                        | de           |   |   |   |                         | lat |   |   |   | 329-07 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                           |              |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
@@ -286,8 +286,8 @@
 | w   |        |   |   |   |   | d(i)c(t)o                 | dc̅o          |   |   |   |                         | lat |   |   |   | 329-09 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)no                  | dn̅o          |   |   |   |                         | lat |   |   |   | 329-09 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JenAnd001  |   |   |   |                           |              |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Joh(ann)i                 | Joh̅ı         |   |   |   |                         | lat |   |   |   | 329-09 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | andree                    | andree       |   |   |   |                         | lat |   |   |   | 329-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Joh(ann)i                 | Joh̅ı         |   |   |   |                         | lat |   |   |   | 329-09 | 2:context |          |  |1340|    |    |    |
+| w   |        |   |   |   |   | andree                    | andree       |   |   |   |                         | lat |   |   |   | 329-09 | 2:context |          |  |1340|    |    |    |
 | PE  | e      | JenAnd001  |   |   |   |                           |              |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | mer(um)                   | meꝝ          |   |   |   |                         | lat |   |   |   | 329-09 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Jus                       | Ju          |   |   |   |                         | lat |   |   |   | 329-09 | 2:context |          |  |    |    |    |    |
@@ -311,8 +311,8 @@
 | w   |        |   |   |   |   | d(i)c(t)i                 | dc̅ı          |   |   |   |                         | lat |   |   |   | 329-10 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)ni                  | dn̅i          |   |   |   |                         | lat |   |   |   | 329-10 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JenAnd001  |   |   |   |                           |              |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Joh(ann)is                | Joh̅ı        |   |   |   |                         | lat |   |   |   | 329-10 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | andree                    | andree       |   |   |   |                         | lat |   |   |   | 329-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Joh(ann)is                | Joh̅ı        |   |   |   |                         | lat |   |   |   | 329-10 | 2:context |          |  |1341|    |    |    |
+| w   |        |   |   |   |   | andree                    | andree       |   |   |   |                         | lat |   |   |   | 329-10 | 2:context |          |  |1341|    |    |    |
 | PE  | e      | JenAnd001  |   |   |   |                           |              |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | milit(is)                 | milıtꝭ       |   |   |   |                         | lat |   |   |   | 329-10 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ac                        | ac           |   |   |   |                         | lat |   |   |   | 329-10 | 2:context |          |  |    |    |    |    |
@@ -339,7 +339,7 @@
 | w   |        |   |   |   |   | d(omi)no                  | dn̅o          |   |   |   |                         | lat |   |   |   | 329-11 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                           |              |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
 | PE | b | LarNie001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | laure(n)cio               | laure̅cio     |   |   |   |                         | lat |   |   |   | 329-11 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | laure(n)cio               | laure̅cio     |   |   |   |                         | lat |   |   |   | 329-11 | 2:context |          |  |1342|    |    |    |
 | PE | e | LarNie001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |                           |              |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (et)                      | ⁊            |   |   |   |                         | lat |   |   |   | 329-11 | 2:context |          |  |    |    |    |    |
@@ -374,7 +374,7 @@
 | w   |        |   |   |   |   | d(i)c(t)o                 | dc̅o          |   |   |   |                         | lat |   |   |   | 329-12 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)no                  | dn̅o          |   |   |   |                         | lat |   |   |   | 329-12 | 2:context |          |  |    |    |    |    |
 | PE  | b      | LarNie001  |   |   |   |                           |              |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | laure(n)cio               | laure̅cıo     |   |   |   |                         | lat |   |   |   | 329-12 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | laure(n)cio               | laure̅cıo     |   |   |   |                         | lat |   |   |   | 329-12 | 2:context |          |  |1343|    |    |    |
 | PE  | e      | LarNie001  |   |   |   |                           |              |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
 | lm  | 329-13 |   |   |   |   |                           |              |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Ca(n)o(n)ico              | Ca̅oico       |   |   |   |                         | lat |   |   |   | 329-13 | 2:context |          |  |    |    |    |    |
@@ -391,8 +391,8 @@
 | w   |        |   |   |   |   | p(re)d(i)c(t)i            | p̅dc̅ı         |   |   |   |                         | lat |   |   |   | 329-13 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)ni                  | dn̅i          |   |   |   |                         | lat |   |   |   | 329-13 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JenAnd001  |   |   |   |                           |              |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Joh(ann)is                | Joh̅ı        |   |   |   |                         | lat |   |   |   | 329-13 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | andree                    | andree       |   |   |   |                         | lat |   |   |   | 329-13 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Joh(ann)is                | Joh̅ı        |   |   |   |                         | lat |   |   |   | 329-13 | 2:context |          |  |1344|    |    |    |
+| w   |        |   |   |   |   | andree                    | andree       |   |   |   |                         | lat |   |   |   | 329-13 | 2:context |          |  |1344|    |    |    |
 | PE  | e      | JenAnd001  |   |   |   |                           |              |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | milit(is)                 | militꝭ       |   |   |   |                         | lat |   |   |   | 329-13 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | de                        | de           |   |   |   |                         | lat |   |   |   | 329-13 | 2:context |          |  |    |    |    |    |
@@ -419,7 +419,7 @@
 | w   |        |   |   |   |   | ip(su)m                   | ıp̅          |   |   |   |                         | lat |   |   |   | 329-14 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)n(u)m               | dn̅          |   |   |   |                         | lat |   |   |   | 329-14 | 2:context |          |  |    |    |    |    |
 | PE  | b      | LarNie001  |   |   |   |                           |              |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | laure(n)ciu(m)            | laure̅cıu̅     |   |   |   |                         | lat |   |   |   | 329-14 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | laure(n)ciu(m)            | laure̅cıu̅     |   |   |   |                         | lat |   |   |   | 329-14 | 2:context |          |  |1345|    |    |    |
 | PE  | e      | LarNie001  |   |   |   |                           |              |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | aut                       | aut          |   |   |   |                         | lat |   |   |   | 329-14 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | suos                      | ſuo         |   |   |   |                         | lat |   |   |   | 329-14 | 2:context |          |  |    |    |    |    |

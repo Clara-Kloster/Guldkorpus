@@ -51,9 +51,9 @@
 | w   |        |   |   |   |   | audituris        | uꝺıturís    |   |   |   |   | lat |   |   |   |        102-01 | 1:protocol |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                | .            |   |   |   |   | lat |   |   |   |        102-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Nicholaus        | Nıcholus    |   |   |   |   | dan |   |   |   |        102-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | h(er)man         | h͛mn         |   |   |   |   | dan |   |   |   |        102-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | sun              | sun          |   |   |   |   | dan |   |   |   |        102-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Nicholaus        | Nıcholus    |   |   |   |   | dan |   |   |   |        102-01 | 1:protocol |          |  |404|    |    |    |
+| w   |        |   |   |   |   | h(er)man         | h͛mn         |   |   |   |   | dan |   |   |   |        102-01 | 1:protocol |          |  |404|    |    |    |
+| w   |        |   |   |   |   | sun              | sun          |   |   |   |   | dan |   |   |   |        102-01 | 1:protocol |          |  |404|    |    |    |
 | PE  | e      |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                | .            |   |   |   |   | lat |   |   |   |        102-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Ciuis            | Cíuís        |   |   |   |   | lat |   |   |   |        102-01 | 1:protocol |          |  |    |    |    |    |
@@ -148,12 +148,12 @@
 | w   |        |   |   |   |   | fr(atr)is        | fr̅ıs         |   |   |   |   | lat |   |   |   |        102-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | mei              | meı          |   |   |   |   | lat |   |   |   |        102-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lydikæ           | lyꝺıkæ       |   |   |   |   | dan |   |   |   |        102-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | lydikæ           | lyꝺıkæ       |   |   |   |   | dan |   |   |   |        102-05 | 2:context |          |  |405|    |    |    |
 | PE  | e      |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                | .            |   |   |   |   | lat |   |   |   |        102-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (et)             |             |   |   |   |   | lat |   |   |   |        102-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | beronis          | beronıs      |   |   |   |   | lat |   |   |   |        102-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | beronis          | beronıs      |   |   |   |   | lat |   |   |   |        102-05 | 2:context |          |  |406|    |    |    |
 | PE  | e      |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | generi           | generı       |   |   |   |   | lat |   |   |   |        102-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | mei              | meí          |   |   |   |   | lat |   |   |   |        102-05 | 2:context |          |  |    |    |    |    |

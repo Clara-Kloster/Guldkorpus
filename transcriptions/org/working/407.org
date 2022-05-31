@@ -44,9 +44,9 @@
 | lm  | 407-01 |   |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | d  | b      | 1  |   | protocol  |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | MarFre001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Marinus                   | Maꝛınu          |             |   |   |   | lat |   |   |   |        407-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | de                        | de               |             |   |   |   | lat |   |   |   |        407-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | fregeno                   | fregeno          |             |   |   |   | lat |   |   |   |        407-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Marinus                   | Maꝛınu          |             |   |   |   | lat |   |   |   |        407-01 | 1:protocol |          |  |1808|    |    |    |
+| w   |        |   |   |   |   | de                        | de               |             |   |   |   | lat |   |   |   |        407-01 | 1:protocol |          |  |1808|    |    |    |
+| w   |        |   |   |   |   | fregeno                   | fregeno          |             |   |   |   | lat |   |   |   |        407-01 | 1:protocol |          |  |1808|    |    |    |
 | PE  | e      | MarFre001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | sacre                     | ſacre            |             |   |   |   | lat |   |   |   |        407-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | theologie                 | theologíe        |             |   |   |   | lat |   |   |   |        407-01 | 1:protocol |          |  |    |    |    |    |
@@ -59,8 +59,8 @@
 | w   |        |   |   |   |   | n(ost)ri                  | nr̅ı              |             |   |   |   | lat |   |   |   |        407-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(a)p(e)                  | ͤ                |             |   |   |   | lat |   |   |   |        407-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | PavSix004  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Sixti                     | Síxtí            |             |   |   |   | lat |   |   |   |        407-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | quarti                    | quaꝛtí           |             |   |   |   | lat |   |   |   |        407-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Sixti                     | Síxtí            |             |   |   |   | lat |   |   |   |        407-01 | 1:protocol |          |  |1809|    |    |    |
+| w   |        |   |   |   |   | quarti                    | quaꝛtí           |             |   |   |   | lat |   |   |   |        407-01 | 1:protocol |          |  |1809|    |    |    |
 | PE  | e      | PavSix004  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ac                        | ac               |             |   |   |   | lat |   |   |   |        407-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | sedis                     | ſedí            |             |   |   |   | lat |   |   |   |        407-01 | 1:protocol |          |  |    |    |    |    |
@@ -156,9 +156,9 @@
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Sorori                    | Soꝛoꝛí           |             |   |   |   | lat |   |   |   |        407-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | EliMad001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | helene                    | helene           |             |   |   |   | lat |   |   |   |        407-05 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | mathi                     | mathí            |             |   |   |   | lat |   |   |   |        407-05 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | filie                     | fílíe            |             |   |   |   | lat |   |   |   |        407-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | helene                    | helene           |             |   |   |   | lat |   |   |   |        407-05 | 2:context |          |  |1810|    |    |    |
+| w   |        |   |   |   |   | mathi                     | mathí            |             |   |   |   | lat |   |   |   |        407-05 | 2:context |          |  |1810|    |    |    |
+| w   |        |   |   |   |   | filie                     | fílíe            |             |   |   |   | lat |   |   |   |        407-05 | 2:context |          |  |1810|    |    |    |
 | PE  | e      | EliMad001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (con)uentus               | ꝯuentu          |             |   |   |   | lat |   |   |   |        407-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ap(ud)                    | apͩ               |             |   |   |   | lat |   |   |   |        407-05 | 2:context |          |  |    |    |    |    |
@@ -172,268 +172,268 @@
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | sorori                    | ſoꝛoꝛí           |             |   |   |   | lat |   |   |   |        407-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | CecPed001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | cecilie                   | cecılıe          |             |   |   |   | lat |   |   |   |        407-05 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | pet(ri)                   | pet             |             |   |   |   | lat |   |   |   |        407-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | cecilie                   | cecılıe          |             |   |   |   | lat |   |   |   |        407-05 | 2:context |          |  |1811|    |    |    |
+| w   |        |   |   |   |   | pet(ri)                   | pet             |             |   |   |   | lat |   |   |   |        407-05 | 2:context |          |  |1811|    |    |    |
 | PE  | e      | CecPed001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | q(uo)nd(am)               | qͦn              |             |   |   |   | lat |   |   |   |        407-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | abb(atiss)e               | abb̅e             |             |   |   |   | lat |   |   |   |        407-05 | 2:context |          |  |    |    |    |    |
 | lm  | 407-06 |   |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | sorori                    | ſoꝛoꝛí           |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AnnNie001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Anne                      | Anne             |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicholai                  | nícholaí         |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Anne                      | Anne             |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |1812|    |    |    |
+| w   |        |   |   |   |   | nicholai                  | nícholaí         |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |1812|    |    |    |
 | PE  | e      | AnnNie001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(ri)orisse               | poꝛíe          |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | IngNie002  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ingardi                   | íngaꝛdí          |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicholaj                  | níchola         |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ingardi                   | íngaꝛdí          |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |1813|    |    |    |
+| w   |        |   |   |   |   | nicholaj                  | níchola         |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |1813|    |    |    |
 | PE  | e      | IngNie002  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | GerPed003  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | gerwer                    | gerwer           |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | pet(ri)                   | pet             |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | gerwer                    | gerwer           |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |1814|    |    |    |
+| w   |        |   |   |   |   | pet(ri)                   | pet             |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |1814|    |    |    |
 | PE  | e      | GerPed003  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | KatPed003  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | katherine                 | katherıne        |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | pet(ri)                   | pet             |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | katherine                 | katherıne        |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |1815|    |    |    |
+| w   |        |   |   |   |   | pet(ri)                   | pet             |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |1815|    |    |    |
 | PE  | e      | KatPed003  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | CecHar001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | cecilie                   | cecılíe          |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | haraldi                   | haꝛaldí          |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | cecilie                   | cecılíe          |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |1816|    |    |    |
+| w   |        |   |   |   |   | haraldi                   | haꝛaldí          |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |1816|    |    |    |
 | PE  | e      | CecHar001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | ad  | b      |   |   |   |   | scribe                    |                  | supralinear |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  |                 |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | EliAnd001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | elene                     | elene            |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | and(re)e                  | and͛e             |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | elene                     | elene            |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |1817|    |    |    |
+| w   |        |   |   |   |   | and(re)e                  | and͛e             |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |1817|    |    |    |
 | PE  | e      | EliAnd001|   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | ad  | e      |   |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | CecNie001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | cecilie                   | cecılíe          |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicholaj                  | nıchola         |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | cecilie                   | cecılíe          |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |1818|    |    |    |
+| w   |        |   |   |   |   | nicholaj                  | nıchola         |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |1818|    |    |    |
 | PE  | e      | CecNie001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MetPed001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | mettildi                  | mettíldí         |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | pet(ri)                   | pet             |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | mettildi                  | mettíldí         |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |1819|    |    |    |
+| w   |        |   |   |   |   | pet(ri)                   | pet             |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |1819|    |    |    |
 | PE  | e      | MetPed001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | KriJep001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | c(ri)stine                | cﬅíne           |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | iaco¦bi                   | íaco¦bí          |             |   |   |   | lat |   |   |   | 407-06—407-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | c(ri)stine                | cﬅíne           |             |   |   |   | lat |   |   |   |        407-06 | 2:context |          |  |1820|    |    |    |
+| w   |        |   |   |   |   | iaco¦bi                   | íaco¦bí          |             |   |   |   | lat |   |   |   | 407-06—407-07 | 2:context |          |  |1820|    |    |    |
 | PE  | e      | KriJep001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | KatEsk001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | katherine                 | katheríne        |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | eskilli                   | eſkíllí          |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | katherine                 | katheríne        |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |1821|    |    |    |
+| w   |        |   |   |   |   | eskilli                   | eſkíllí          |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |1821|    |    |    |
 | PE  | e      | KatEsk001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | GerPed001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | gerthrudi                 | gerthrudí        |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | pet(ri)                   | pet             |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | gerthrudi                 | gerthrudí        |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |1822|    |    |    |
+| w   |        |   |   |   |   | pet(ri)                   | pet             |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |1822|    |    |    |
 | PE  | e      | GerPed001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MetHen001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | metildi                   | metıldí          |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | henrici                   | henrící          |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | metildi                   | metıldí          |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |1823|    |    |    |
+| w   |        |   |   |   |   | henrici                   | henrící          |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |1823|    |    |    |
 | PE  | e      | MetHen001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | CecMad001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | cecilie                   | cecılíe          |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | mathei                    | matheí           |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | cecilie                   | cecılíe          |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |1824|    |    |    |
+| w   |        |   |   |   |   | mathei                    | matheí           |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |1824|    |    |    |
 | PE  | e      | CecMad001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | GesGeb001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | gesæ                      | geſæ             |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | gebaldi                   | gebaldí          |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | gesæ                      | geſæ             |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |1825|    |    |    |
+| w   |        |   |   |   |   | gebaldi                   | gebaldí          |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |1825|    |    |    |
 | PE  | e      | GesGeb001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | IngNie001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ingeburgi                 | íngeburgí        |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicholaj                  | níchola         |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ingeburgi                 | íngeburgí        |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |1826|    |    |    |
+| w   |        |   |   |   |   | nicholaj                  | níchola         |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |1826|    |    |    |
 | PE  | e      | IngNie001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | KatHen001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | katherine                 | katheríne        |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | henrici                   | henrící          |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | katherine                 | katheríne        |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |1827|    |    |    |
+| w   |        |   |   |   |   | henrici                   | henrící          |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |1827|    |    |    |
 | PE  | e      | KatHen001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | LisJen001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | elizabeth                 | elızabeth        |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | elizabeth                 | elızabeth        |             |   |   |   | lat |   |   |   |        407-07 | 2:context |          |  |1828|    |    |    |
 | lm  | 407-08 |   |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ioh(ann)is                | íoh̅í            |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ioh(ann)is                | íoh̅í            |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |1828|    |    |    |
 | PE  | e      | LisJen001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AnnAnd001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | anne                      | anne             |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | andree                    | andꝛee           |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | anne                      | anne             |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |1829|    |    |    |
+| w   |        |   |   |   |   | andree                    | andꝛee           |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |1829|    |    |    |
 | PE  | e      | AnnAnd001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
 | PE  | b      | KatMog001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | katherine                 | katheríne        |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | magni                     | magní            |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | katherine                 | katheríne        |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |1830|    |    |    |
+| w   |        |   |   |   |   | magni                     | magní            |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |1830|    |    |    |
 | PE  | e      | KatMog001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
 | PE  | b      | BirMor001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | byrgyde                   | bẏrgẏde          |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | mærtini                   | mæꝛtíní          |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | byrgyde                   | bẏrgẏde          |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |1831|    |    |    |
+| w   |        |   |   |   |   | mærtini                   | mæꝛtíní          |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |1831|    |    |    |
 | PE  | e      | BirMor001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MarNie002  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | marthe                    | maꝛthe           |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicholai                  | nıcholaí         |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | marthe                    | maꝛthe           |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |1832|    |    |    |
+| w   |        |   |   |   |   | nicholai                  | nıcholaí         |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |1832|    |    |    |
 | PE  | e      | MarNie002  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AnnKon001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | anne                      | anne             |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | (con)radi                 | ꝯradí            |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | anne                      | anne             |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |1833|    |    |    |
+| w   |        |   |   |   |   | (con)radi                 | ꝯradí            |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |1833|    |    |    |
 | PE  | e      | AnnKon001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MarJen002  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | margarete                 | maꝛgaꝛete        |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ioh(ann)is                | ıoh̅ı            |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | margarete                 | maꝛgaꝛete        |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |1834|    |    |    |
+| w   |        |   |   |   |   | ioh(ann)is                | ıoh̅ı            |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |1834|    |    |    |
 | PE  | e      | MarJen002  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
 | PE  | b      | KriNie001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | c(ri)stine                | cﬅíne           |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicholaj                  | níchola         |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | c(ri)stine                | cﬅíne           |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |1835|    |    |    |
+| w   |        |   |   |   |   | nicholaj                  | níchola         |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |1835|    |    |    |
 | PE  | e      | KriNie001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-08 | 2:context |          |  |    |    |    |    |
 | lm  | 407-09 |   |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | AnnBer001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | anne                      | anne             |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | berthrandi                | berthrandí       |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | anne                      | anne             |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |1836|    |    |    |
+| w   |        |   |   |   |   | berthrandi                | berthrandí       |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |1836|    |    |    |
 | PE  | e      | AnnBer001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |    |    |    |    |
 | PE  | b      | KatBer001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | katherine                 | katheríne        |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | bernardi                  | bernaꝛdí         |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | katherine                 | katheríne        |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |1837|    |    |    |
+| w   |        |   |   |   |   | bernardi                  | bernaꝛdí         |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |1837|    |    |    |
 | PE  | e      | KatBer001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |    |    |    |    |
 | PE  | b      | GunHen001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | gondelli                  | gondellí         |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | henrici                   | henrící          |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | gondelli                  | gondellí         |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |1838|    |    |    |
+| w   |        |   |   |   |   | henrici                   | henrící          |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |1838|    |    |    |
 | PE  | e      | GunHen001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |    |    |    |    |
 | PE  | b      | DorErh001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | dorothee                  | doꝛothee         |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | erhardi                   | erhaꝛdí          |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | dorothee                  | doꝛothee         |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |1839|    |    |    |
+| w   |        |   |   |   |   | erhardi                   | erhaꝛdí          |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |1839|    |    |    |
 | PE  | e      | DorErh001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |    |    |    |    |
 | PE  | b      | DorHem001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | dorothee                  | doꝛothee         |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | he(m)mingi                | he̅míngí          |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | dorothee                  | doꝛothee         |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |1840|    |    |    |
+| w   |        |   |   |   |   | he(m)mingi                | he̅míngí          |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |1840|    |    |    |
 | PE  | e      | DorHem001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AnnEri001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | anne                      | anne             |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | erici                     | erícı            |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | anne                      | anne             |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |1841|    |    |    |
+| w   |        |   |   |   |   | erici                     | erícı            |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |1841|    |    |    |
 | PE  | e      | AnnEri001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AnnJak002  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | anne                      | anne             |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | iacobi                    | ıacobı           |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | anne                      | anne             |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |1842|    |    |    |
+| w   |        |   |   |   |   | iacobi                    | ıacobı           |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |1842|    |    |    |
 | PE  | e      | AnnJak002  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |    |    |    |    |
 | PE  | b      | EliAnd002  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | helene                    | helene           |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | helene                    | helene           |             |   |   |   | lat |   |   |   |        407-09 | 2:context |          |  |1843|    |    |    |
 | lm  | 407-10 |   |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | andree                    | andꝛee           |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | andree                    | andꝛee           |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |1843|    |    |    |
 | PE  | e      | EliAnd002  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | ad  | b      |   |   |   |   | scribe                    |                  | supralinear |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
 | PE  | b      | BodHen001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | botilde                   | botılde          |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | he(n)rici                 | he̅rıcı           |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | botilde                   | botılde          |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |1844|    |    |    |
+| w   |        |   |   |   |   | he(n)rici                 | he̅rıcı           |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |1844|    |    |    |
 | PE  | e      | BodHen001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | ad  | e      |   |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AnnSve001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | anne                      | anne             |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | suenonis                  | ſuenoní         |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | anne                      | anne             |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |1845|    |    |    |
+| w   |        |   |   |   |   | suenonis                  | ſuenoní         |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |1845|    |    |    |
 | PE  | e      | AnnSve001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
 | PE  | b      | IdaJen001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | idde                      | ídde             |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ioh(ann)is                | íoh̅ı            |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | idde                      | ídde             |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |1846|    |    |    |
+| w   |        |   |   |   |   | ioh(ann)is                | íoh̅ı            |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |1846|    |    |    |
 | PE  | e      | IdaJen001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
 | PE  | b      | DorAnd001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | dorothee                  | doꝛothee         |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | andree                    | andꝛee           |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | dorothee                  | doꝛothee         |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |1847|    |    |    |
+| w   |        |   |   |   |   | andree                    | andꝛee           |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |1847|    |    |    |
 | PE  | e      | DorAnd001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
 | PE  | b      | KriOlu002  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | c(ri)stine                | cﬅíne           |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | olaui                     | olauí            |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | c(ri)stine                | cﬅíne           |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |1848|    |    |    |
+| w   |        |   |   |   |   | olaui                     | olauí            |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |1848|    |    |    |
 | PE  | e      | KriOlu002  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MarJør002  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | margarete                 | maꝛgaꝛete        |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | georgij                   | geoꝛgíȷ          |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | margarete                 | maꝛgaꝛete        |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |1849|    |    |    |
+| w   |        |   |   |   |   | georgij                   | geoꝛgíȷ          |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |1849|    |    |    |
 | PE  | e      | MarJør002  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
 | PE  | b      | KatKle001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | katherine                 | katheríne        |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | clementis                 | clementı        |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | katherine                 | katheríne        |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |1850|    |    |    |
+| w   |        |   |   |   |   | clementis                 | clementı        |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |1850|    |    |    |
 | PE  | e      | KatKle001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
 | PE  | b      | BodMar001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | botilde                   | botílde          |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | marchi                    | maꝛchí           |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | botilde                   | botílde          |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |1851|    |    |    |
+| w   |        |   |   |   |   | marchi                    | maꝛchí           |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |1851|    |    |    |
 | PE  | e      | BodMar001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
 | PE  | b      | BodEsb001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | botilde                   | botılde          |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | botilde                   | botılde          |             |   |   |   | lat |   |   |   |        407-10 | 2:context |          |  |1852|    |    |    |
 | lm  | 407-11 |   |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | esberni                   | eſbernı          |             |   |   |   | lat |   |   |   |        407-11 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | esberni                   | eſbernı          |             |   |   |   | lat |   |   |   |        407-11 | 2:context |          |  |1852|    |    |    |
 | PE  | e      | BodEsb001  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                         | .                |             |   |   |   | lat |   |   |   |        407-11 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(orori)                  | ſ.               |             |   |   |   | lat |   |   |   |        407-11 | 2:context |          |  |    |    |    |    |
 | PE  | b      | GerPed002  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | gertrudi                  | gertrudí         |             |   |   |   | lat |   |   |   |        407-11 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | pet(ri)                   | pet             |             |   |   |   | lat |   |   |   |        407-11 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | gertrudi                  | gertrudí         |             |   |   |   | lat |   |   |   |        407-11 | 2:context |          |  |1853|    |    |    |
+| w   |        |   |   |   |   | pet(ri)                   | pet             |             |   |   |   | lat |   |   |   |        407-11 | 2:context |          |  |1853|    |    |    |
 | PE  | e      | GerPed002  |   |   |   |                           |                  |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | merito                    | meríto           |             |   |   |   | lat |   |   |   |        407-11 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (con)t(ri)buc(i)onis      | ꝯtbuco̅nı       |             |   |   |   | lat |   |   |   |        407-11 | 2:context |          |  |    |    |    |    |

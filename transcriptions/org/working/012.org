@@ -48,8 +48,8 @@
 | w   |       |   |   |   |   | scriptum          | scrıpꞇum       |   |   |   |   | lat |   |   |   |       12-01 | 1:protocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | c(er)nentibus     | c͛nenꞇıbus      |   |   |   |   | lat |   |   |   |       12-01 | 1:protocol |          |  |    |    |    |    |
 | PE | b | PedPre001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | P(etrus)          | .P.            |   |   |   |   | lat |   |   |   |       12-01 | 1:protocol |          |  |    |    |    |    |
-| w   |       |   |   |   |   | p(re)positus      | ͛oſıꞇus        |   |   |   |   | lat |   |   |   |       12-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | P(etrus)          | .P.            |   |   |   |   | lat |   |   |   |       12-01 | 1:protocol |          |  |1|    |    |    |
+| w   |       |   |   |   |   | p(re)positus      | ͛oſıꞇus        |   |   |   |   | lat |   |   |   |       12-01 | 1:protocol |          |  |1|    |    |    |
 | PE | e | PedPre001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | PL  | b     |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | Roskilden(sis)    | Roskılꝺen̅      |   |   |   |   | lat |   |   |   |       12-01 | 1:protocol |          |  |    |    |    |    |
@@ -60,10 +60,10 @@
 | w   |       |   |   |   |   | p(er)petuum       | ̲eꞇuúm         |   |   |   |   | lat |   |   |   |       12-01 | 1:protocol |          |  |    |    |    |    |
 | p   |       |   |   |   |   | .                 | .              |   |   |   |   | lat |   |   |   |       12-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b     |SimHøm001   |   |   |   |                   |                |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Symon             | Sẏmon          |   |   |   |   | lat |   |   |   |       12-01 | 1:protocol |          |  |    |    |    |    |
-| w   |       |   |   |   |   | de                | ꝺe             |   |   |   |   | lat |   |   |   |       12-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Symon             | Sẏmon          |   |   |   |   | lat |   |   |   |       12-01 | 1:protocol |          |  |2|    |    |    |
+| w   |       |   |   |   |   | de                | ꝺe             |   |   |   |   | lat |   |   |   |       12-01 | 1:protocol |          |  |2|    |    |    |
 | lm  | 12-02 |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | høm               | høm            |   |   |   |   | lat |   |   |   |       12-02 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | høm               | høm            |   |   |   |   | lat |   |   |   |       12-02 | 1:protocol |          |  |2|    |    |    |
 | PE  | e     | SimHøm001  |   |   |   |                   |                |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | in                | ín             |   |   |   |   | lat |   |   |   |       12-02 | 1:protocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | nostra            | noﬅra          |   |   |   |   | lat |   |   |   |       12-02 | 1:protocol |          |  |    |    |    |    |
@@ -92,7 +92,7 @@
 | w   |       |   |   |   |   | b(eat)e           | be̅             |   |   |   |   | lat |   |   |   |       12-02 | 1:protocol |          |  |    |    |    |    |
 | lm  | 12-03 |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | PE | b |  |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | clare             | clare          |   |   |   |   | lat |   |   |   |       12-03 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | clare             | clare          |   |   |   |   | lat |   |   |   |       12-03 | 1:protocol |          |  |3|    |    |    |
 | PE | e |  |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | u(ir)ginis        | u͛gınıſ         |   |   |   |   | lat |   |   |   |       12-03 | 1:protocol |          |  |    |    |    |    |
 | PL  | b     |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
@@ -163,23 +163,23 @@
 | p   |       |   |   |   |   | .                 | .              |   |   |   |   | lat |   |   |   |       12-06 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | Fr(atr)e          | Fr̅e            |   |   |   |   | lat |   |   |   |       12-06 | 2:context |          |  |    |    |    |    |
 | PE  | b     | ÅstFra001  |   |   |   |                   |                |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | astrado           | aﬅraꝺo         |   |   |   |   | lat |   |   |   |       12-06 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | astrado           | aﬅraꝺo         |   |   |   |   | lat |   |   |   |       12-06 | 2:context |          |  |4|    |    |    |
 | PE  | e     | ÅstFra001  |   |   |   |                   |                |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | p   |       |   |   |   |   | .                 | .              |   |   |   |   | lat |   |   |   |       12-06 | 2:context |          |  |    |    |    |    |
 | PE  | b     | StiThu001  |   |   |   |                   |                |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | stigoto           | ﬅıgoꞇo         |   |   |   |   | lat |   |   |   |       12-06 | 2:context |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                 | .              |   |   |   |   | lat |   |   |   |       12-06 | 2:context |          |  |    |    |    |    |
-| w   |       |   |   |   |   | thury             | ꞇhurẏ          |   |   |   |   | lat |   |   |   |       12-06 | 2:context |          |  |    |    |    |    |
-| w   |       |   |   |   |   | sun               | sun            |   |   |   |   | lat |   |   |   |       12-06 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | stigoto           | ﬅıgoꞇo         |   |   |   |   | lat |   |   |   |       12-06 | 2:context |          |  |5|    |    |    |
+| p   |       |   |   |   |   | .                 | .              |   |   |   |   | lat |   |   |   |       12-06 | 2:context |          |  |5|    |    |    |
+| w   |       |   |   |   |   | thury             | ꞇhurẏ          |   |   |   |   | lat |   |   |   |       12-06 | 2:context |          |  |5|    |    |    |
+| w   |       |   |   |   |   | sun               | sun            |   |   |   |   | lat |   |   |   |       12-06 | 2:context |          |  |5|    |    |    |
 | PE  | e     | StiThu001  |   |   |   |                   |                |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | p   |       |   |   |   |   | .                 | .              |   |   |   |   | lat |   |   |   |       12-06 | 2:context |          |  |    |    |    |    |
 | PE  | b     | JenPed001  |   |   |   |                   |                |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | PE | b | JenPed001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | joh(an)e          | joh̅e           |   |   |   |   | lat |   |   |   |       12-06 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | joh(an)e          | joh̅e           |   |   |   |   | lat |   |   |   |       12-06 | 2:context |          |  |6|2440|    |    |
 | PE  | e     | JenPed001  |   |   |   |                   |                |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | PE  | b     | PedPre001  |   |   |   |                   |                |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | petri             | peꞇrı          |   |   |   |   | lat |   |   |   |       12-06 | 2:context |          |  |    |    |    |    |
-| w   |       |   |   |   |   | filio             | fılıo          |   |   |   |   | lat |   |   |   |       12-06 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | petri             | peꞇrı          |   |   |   |   | lat |   |   |   |       12-06 | 2:context |          |  |6|2441|    |    |
+| w   |       |   |   |   |   | filio             | fılıo          |   |   |   |   | lat |   |   |   |       12-06 | 2:context |          |  |6|2441|    |    |
 | PE  | e     | PedPre001  |   |   |   |                   |                |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | PE | e | JenPed001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |       |   |   |   |   | .                 | .              |   |   |   |   | lat |   |   |   |       12-06 | 2:context |          |  |    |    |    |    |

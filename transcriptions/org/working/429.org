@@ -46,7 +46,7 @@ Response to 423 (LXIII, 22)
 | d   | b      | 1 |   | protocol |   |        |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Wii           | Wıı         |   |   |   |   | dan |   |   |   | 429-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | RexHan001  |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Hans          | Han        |   |   |   |   | dan |   |   |   | 429-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Hans          | Han        |   |   |   |   | dan |   |   |   | 429-01 | 1:protocol |          |  |2048|    |    |    |
 | PE  | e      | RexHan001  |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | met           | met         |   |   |   |   | dan |   |   |   | 429-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | gudz          | gudz        |   |   |   |   | dan |   |   |   | 429-01 | 1:protocol |          |  |    |    |    |    |
@@ -108,9 +108,9 @@ Response to 423 (LXIII, 22)
 | w   |        |   |   |   |   | som           | ſo         |   |   |   |   | dan |   |   |   | 429-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | h(er)         | h̅           |   |   |   |   | dan |   |   |   | 429-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | SteStu001  |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Sten          | te        |   |   |   |   | dan |   |   |   | 429-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Sten          | te        |   |   |   |   | dan |   |   |   | 429-03 | 2:context |          |  |2049|    |    |    |
 | lm  | 429-04 |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | stwre         | ſtwre       |   |   |   |   | dan |   |   |   | 429-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | stwre         | ſtwre       |   |   |   |   | dan |   |   |   | 429-04 | 2:context |          |  |2049|    |    |    |
 | PE  | e      | SteStu001  |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Ridder        | Rıdder      |   |   |   |   | dan |   |   |   | 429-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | wor           | woꝛ         |   |   |   |   | dan |   |   |   | 429-04 | 2:context |          |  |    |    |    |    |
@@ -127,15 +127,15 @@ Response to 423 (LXIII, 22)
 | w   |        |   |   |   |   | aff           | aff         |   |   |   |   | dan |   |   |   | 429-04 | 2:context |          |  |    |    |    |    |
 | lm  | 429-05 |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | PE  | b      | LarBud001  |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Lass          | Laſſ        |   |   |   |   | dan |   |   |   | 429-05 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | buddæ         | bűddæ       |   |   |   |   | dan |   |   |   | 429-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Lass          | Laſſ        |   |   |   |   | dan |   |   |   | 429-05 | 2:context |          |  |2050|    |    |    |
+| w   |        |   |   |   |   | buddæ         | bűddæ       |   |   |   |   | dan |   |   |   | 429-05 | 2:context |          |  |2050|    |    |    |
 | PE  | e      | LarBud001  |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | hans          | han        |   |   |   |   | dan |   |   |   | 429-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | hosfrwe       | hoſfrwe     |   |   |   |   | dan |   |   |   | 429-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | hosfrwe       | hoſfrwe     |   |   |   |   | dan |   |   |   | 429-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | SigBud001  |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Sigrede       | ıgrede     |   |   |   |   | dan |   |   |   | 429-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Sigrede       | ıgrede     |   |   |   |   | dan |   |   |   | 429-05 | 2:context |          |  |2051|    |    |    |
 | PE  | e      | SigBud001  |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Ith           | Ith         |   |   |   |   | dan |   |   |   | 429-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | gotz          | gotz        |   |   |   |   | dan |   |   |   | 429-05 | 2:context |          |  |    |    |    |    |
@@ -163,8 +163,8 @@ Response to 423 (LXIII, 22)
 | w   |        |   |   |   |   | gaff          | gaff        |   |   |   |   | dan |   |   |   | 429-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | han           | ha         |   |   |   |   | dan |   |   |   | 429-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | LarBud001  |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lass          | laſſ        |   |   |   |   | dan |   |   |   | 429-06 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | buddæ         | buddæ       |   |   |   |   | dan |   |   |   | 429-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | lass          | laſſ        |   |   |   |   | dan |   |   |   | 429-06 | 2:context |          |  |2052|    |    |    |
+| w   |        |   |   |   |   | buddæ         | buddæ       |   |   |   |   | dan |   |   |   | 429-06 | 2:context |          |  |2052|    |    |    |
 | PE  | e      | LarBud001  |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | oc            | oc          |   |   |   |   | dan |   |   |   | 429-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | hans          | han        |   |   |   |   | dan |   |   |   | 429-06 | 2:context |          |  |    |    |    |    |
@@ -268,8 +268,8 @@ Response to 423 (LXIII, 22)
 | ad  | b      |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Her           | Heꝛ         |   |   |   |   | dan |   |   |   | 429-13 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | JenFal001  |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Iens          | Ien        |   |   |   |   | dan |   |   |   | 429-13 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | falster       | falſter     |   |   |   |   | dan |   |   |   | 429-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Iens          | Ien        |   |   |   |   | dan |   |   |   | 429-13 | 3:eschatocol |          |  |2053|    |    |    |
+| w   |        |   |   |   |   | falster       | falſter     |   |   |   |   | dan |   |   |   | 429-13 | 3:eschatocol |          |  |2053|    |    |    |
 | PE  | e      | JenFal001  |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | lm  | 429-14 |   |   |   |   |               |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | capitane(us)  | capıtaneꝰ   |   |   |   |   | lat |   |   |   | 429-14 | 3:eschatocol |          |  |    |    |    |    |

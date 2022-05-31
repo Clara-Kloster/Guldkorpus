@@ -48,8 +48,8 @@
 | w   |        |   |   |   |   | c(er)nentib(us)      | c͛nentıbꝫ      |   |   |   |   | lat |   |   |   |        220-01 | 1:protocol |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                    | .             |   |   |   |   | lat |   |   |   |        220-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | JakPou001  |   |   |   |                      |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Iacobus              | Iacobu       |   |   |   |   | lat |   |   |   |        220-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | pauli                | paulı         |   |   |   |   | lat |   |   |   |        220-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Iacobus              | Iacobu       |   |   |   |   | lat |   |   |   |        220-01 | 1:protocol |          |  |869|    |    |    |
+| w   |        |   |   |   |   | pauli                | paulı         |   |   |   |   | lat |   |   |   |        220-01 | 1:protocol |          |  |869|    |    |    |
 | PE  | e      | JakPou001  |   |   |   |                      |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | decanus              | ꝺecnu       |   |   |   |   | lat |   |   |   |        220-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Eccl(esi)e           | ccl̅e         |   |   |   |   | lat |   |   |   |        220-01 | 1:protocol |          |  |    |    |    |    |
@@ -85,14 +85,14 @@
 | w   |        |   |   |   |   | Ewang(eliste)        | wn         |   |   |   |   | lat |   |   |   |        220-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | domina               | ꝺomín        |   |   |   |   | lat |   |   |   |        220-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MagNie001  |   |   |   |                      |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | margareta            | mrgret     |   |   |   |   | lat |   |   |   |        220-02 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | byorns               | byoꝛnſ        |   |   |   |   | lat |   |   |   |        220-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | margareta            | mrgret     |   |   |   |   | lat |   |   |   |        220-02 | 2:context |          |  |870|    |    |    |
+| w   |        |   |   |   |   | byorns               | byoꝛnſ        |   |   |   |   | lat |   |   |   |        220-02 | 2:context |          |  |870|    |    |    |
 | PE  | e      | MagNie001  |   |   |   |                      |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                    | .             |   |   |   |   | lat |   |   |   |        220-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | filia                | fılı         |   |   |   |   | lat |   |   |   |        220-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      | NieHer001  |   |   |   |                      |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicholaj             | nıchola      |   |   |   |   | lat |   |   |   |        220-02 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | hermanss(un)         | hermnſ      |   |   |   |   | lat |   |   |   |        220-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nicholaj             | nıchola      |   |   |   |   | lat |   |   |   |        220-02 | 2:context |          |  |871|    |    |    |
+| w   |        |   |   |   |   | hermanss(un)         | hermnſ      |   |   |   |   | lat |   |   |   |        220-02 | 2:context |          |  |871|    |    |    |
 | PE  | e      | NieHer001  |   |   |   |                      |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | in                   | ín            |   |   |   |   | lat |   |   |   |        220-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | lecto                | leo          |   |   |   |   | lat |   |   |   |        220-02 | 2:context |          |  |    |    |    |    |
@@ -114,7 +114,7 @@
 | w   |        |   |   |   |   | n(ost)ro             | nr̅o           |   |   |   |   | lat |   |   |   |        220-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)no             | ꝺn̅o           |   |   |   |   | lat |   |   |   |        220-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | LamOlu001  |   |   |   |                      |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lamberto             | lamberto      |   |   |   |   | lat |   |   |   |        220-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | lamberto             | lamberto      |   |   |   |   | lat |   |   |   |        220-03 | 2:context |          |  |872|    |    |    |
 | PE  | e      | LamOlu001  |   |   |   |                      |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | cano(n)ico           | cno̅ıco       |   |   |   |   | lat |   |   |   |        220-03 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                      |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -127,20 +127,20 @@
 | p   |        |   |   |   |   | /                    | /             |   |   |   |   | lat |   |   |   |        220-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)nis            | ꝺn̅ı          |   |   |   |   | lat |   |   |   |        220-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JenKra002  |   |   |   |                      |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Iohanne              | Iohnne       |   |   |   |   | lat |   |   |   |        220-03 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | kraak                | kraak         |   |   |   |   | lat |   |   |   |        220-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Iohanne              | Iohnne       |   |   |   |   | lat |   |   |   |        220-03 | 2:context |          |  |873|    |    |    |
+| w   |        |   |   |   |   | kraak                | kraak         |   |   |   |   | lat |   |   |   |        220-03 | 2:context |          |  |873|    |    |    |
 | PE  | e      | JenKra002  |   |   |   |                      |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                    | .             |   |   |   |   | lat |   |   |   |        220-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | NieJen004  |   |   |   |                      |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicholao             | nıcholao      |   |   |   |   | lat |   |   |   |        220-03 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Iøness(un)           | Iøneſ        |   |   |   |   | lat |   |   |   |        220-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nicholao             | nıcholao      |   |   |   |   | lat |   |   |   |        220-03 | 2:context |          |  |874|    |    |    |
+| w   |        |   |   |   |   | Iøness(un)           | Iøneſ        |   |   |   |   | lat |   |   |   |        220-03 | 2:context |          |  |874|    |    |    |
 | PE  | e      | NieJen004  |   |   |   |                      |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                    | .             |   |   |   |   | lat |   |   |   |        220-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | cano(n)ic(is)        | cno̅ıcꝭ       |   |   |   |   | lat |   |   |   |        220-03 | 2:context |          |  |    |    |    |    |
 | lm  | 220-04 |   |   |   |   |                      |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (et)                 |              |   |   |   |   | lat |   |   |   |        220-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AndNie002  |   |   |   |                      |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | andrea               | nꝺꝛe        |   |   |   |   | lat |   |   |   |        220-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | andrea               | nꝺꝛe        |   |   |   |   | lat |   |   |   |        220-04 | 2:context |          |  |875|    |    |    |
 | PE  | e      | AndNie002  |   |   |   |                      |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | sac(ri)sta           | ſacﬅ        |   |   |   |   | lat |   |   |   |        220-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Eiusdem              | ıuſꝺem       |   |   |   |   | lat |   |   |   |        220-04 | 2:context |          |  |    |    |    |    |
@@ -149,7 +149,7 @@
 | w   |        |   |   |   |   | ac                   | ac            |   |   |   |   | lat |   |   |   |        220-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)no             | ꝺn̅o           |   |   |   |   | lat |   |   |   |        220-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AssEsk001  |   |   |   |                      |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ascero               | aſcero        |   |   |   |   | lat |   |   |   |        220-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ascero               | aſcero        |   |   |   |   | lat |   |   |   |        220-04 | 2:context |          |  |876|    |    |    |
 | PE  | e      | AssEsk001  |   |   |   |                      |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | de                   | ꝺe            |   |   |   |   | lat |   |   |   |        220-04 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                      |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -163,18 +163,18 @@
 | w   |        |   |   |   |   | !silic(et)¡          | !ſılıcꝫ¡      |   |   |   |   | lat |   |   |   |        220-04 | 2:context |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                    | .             |   |   |   |   | lat |   |   |   |        220-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | UngRol001  |   |   |   |                      |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | vngærolf             | vngærolf      |   |   |   |   | lat |   |   |   |        220-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | vngærolf             | vngærolf      |   |   |   |   | lat |   |   |   |        220-04 | 2:context |          |  |877|    |    |    |
 | PE  | e      | UngRol001  |   |   |   |                      |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                    | .             |   |   |   |   | lat |   |   |   |        220-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | HeiVes001  |   |   |   |                      |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | heynone              | heynone       |   |   |   |   | lat |   |   |   |        220-04 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | vesby                | veſby         |   |   |   |   | lat |   |   |   |        220-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | heynone              | heynone       |   |   |   |   | lat |   |   |   |        220-04 | 2:context |          |  |878|    |    |    |
+| w   |        |   |   |   |   | vesby                | veſby         |   |   |   |   | lat |   |   |   |        220-04 | 2:context |          |  |878|    |    |    |
 | PE  | e      | HeiVes001  |   |   |   |                      |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                    | .             |   |   |   |   | lat |   |   |   |        220-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (et)                 |              |   |   |   |   | lat |   |   |   |        220-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | GødSkr001  |   |   |   |                      |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | gødi¦kino            | gøꝺí¦kıno     |   |   |   |   | lat |   |   |   | 220-04—220-05 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | skrøderæ             | ſkrøꝺeræ      |   |   |   |   | lat |   |   |   |        220-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | gødi¦kino            | gøꝺí¦kıno     |   |   |   |   | lat |   |   |   | 220-04—220-05 | 2:context |          |  |879|    |    |    |
+| w   |        |   |   |   |   | skrøderæ             | ſkrøꝺeræ      |   |   |   |   | lat |   |   |   |        220-05 | 2:context |          |  |879|    |    |    |
 | PE  | e      | GødSkr001  |   |   |   |                      |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                    | .             |   |   |   |   | lat |   |   |   |        220-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ciuib(us)            | cıuıbꝫ        |   |   |   |   | lat |   |   |   |        220-05 | 2:context |          |  |    |    |    |    |
@@ -184,7 +184,7 @@
 | w   |        |   |   |   |   | ip(s)am              | ıp̅m          |   |   |   |   | lat |   |   |   |        220-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)nam            | ꝺn̅m          |   |   |   |   | lat |   |   |   |        220-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MagNie001  |   |   |   |                      |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | m(ar)garetam         | mgret     |   |   |   |   | lat |   |   |   |        220-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | m(ar)garetam         | mgret     |   |   |   |   | lat |   |   |   |        220-05 | 2:context |          |  |880|    |    |    |
 | PE  | e      | MagNie001  |   |   |   |                      |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                    | .             |   |   |   |   | lat |   |   |   |        220-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | specialit(er)        | ſpecılıt͛     |   |   |   |   | lat |   |   |   |        220-05 | 2:context |          |  |    |    |    |    |

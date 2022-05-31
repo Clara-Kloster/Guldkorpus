@@ -44,8 +44,8 @@
 | lm  | 466-01 |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | d   | b      | 1             |     | protocol      |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | JenOlu002     |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Jens          |   | Jenns            | Jenns            |   |   |   |   | dan |   |   |   |        466-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |               | xNP | Olufsen       |   | Ollufßen         | Ollŭfßen         |   |   |   |   | dan |   |   |   |        466-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Jens          |   | Jenns            | Jenns            |   |   |   |   | dan |   |   |   |        466-01 | 1:protocol |          |  |2351|    |    |    |
+| w   |        |               | xNP | Olufsen       |   | Ollufßen         | Ollŭfßen         |   |   |   |   | dan |   |   |   |        466-01 | 1:protocol |          |  |2351|    |    |    |
 | PE  | e      | JenOlu002     |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | af            | xAP | af            |   | aff              | aff              |   |   |   |   | dan |   |   |   |        466-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -114,8 +114,8 @@
 | w   |        | vælbyrthigh   | xAJ | velbyrdig     |   | Welbyrdiig       | Welbÿrdiig       |   |   |   |   | dan |   |   |   |        466-06 | 2:context |          |  |    |    |    |    |
 | w   |        | man           | xNC | mand          |   | Manndt           | Manndt           |   |   |   |   | dan |   |   |   |        466-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | VinJue001     |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Vincents      |   | Fidtzenns        | Fidtzenn        |   |   |   |   | dan |   |   |   |        466-06 | 2:context |          |  |    |    |    |    |
-| w   |        |               | xNP | Juel          |   | Juell            | Jŭell            |   |   |   |   | dan |   |   |   |        466-06 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Vincents      |   | Fidtzenns        | Fidtzenn        |   |   |   |   | dan |   |   |   |        466-06 | 2:context |          |  |2352|    |    |    |
+| w   |        |               | xNP | Juel          |   | Juell            | Jŭell            |   |   |   |   | dan |   |   |   |        466-06 | 2:context |          |  |2352|    |    |    |
 | PE  | e      | VinJue001     |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | til           | xAP | til           |   | till             | till             |   |   |   |   | dan |   |   |   |        466-06 | 2:context |          |  |    |    |    |    |
 | lm  | 466-07 |               |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -140,8 +140,8 @@
 | w   |        | thing         | xNC | ting          |   | thing            | thing            |   |   |   |   | dan |   |   |   |        466-08 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd      | xAJ | fornævnte     |   | for(nefnde)      | forᷠͤ              |   |   |   |   | dan |   |   |   |        466-08 | 2:context |          |  |    |    |    |    |
 | PE  | b      | VinJue001     |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Vincents      |   | Fidtzenns        | Fidtzenn        |   |   |   |   | dan |   |   |   |        466-08 | 2:context |          |  |    |    |    |    |
-| w   |        |               | xNP | Juel          |   | Juell            | Jŭell            |   |   |   |   | dan |   |   |   |        466-08 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Vincents      |   | Fidtzenns        | Fidtzenn        |   |   |   |   | dan |   |   |   |        466-08 | 2:context |          |  |2353|    |    |    |
+| w   |        |               | xNP | Juel          |   | Juell            | Jŭell            |   |   |   |   | dan |   |   |   |        466-08 | 2:context |          |  |2353|    |    |    |
 | PE  | e      | VinJue001     |     |               |   |                  |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |               | XX  |               |   | død              | død              |   |   |   |   | dan |   |   |   |        466-08 | 2:context |          |  |    |    |    |    |
 | w   |        | sik           | xPE | sig           |   | siigh            | ſiigh            |   |   |   |   | dan |   |   |   |        466-08 | 2:context |          |  |    |    |    |    |

@@ -54,8 +54,8 @@
 | w   |        | helse         | xVB | hilser      |   | helsser         | helſſer      |   |   |   |           | dan |   |   |    | 437-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | jak           | xPE | jeg         |   | jegh            | jegh         |   |   |   |           | dan |   |   |    | 437-01 | 1:protocol |          |  |    |    |    |    |
 | PE  |      b | HanMik001     |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Hans        |   | hans            | han         |   |   |   |           | dan |   |   |    | 437-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |               | xNP | Mikkelsen   |   | mickelss(øn)    | mickelſ     |   |   |   |           | dan |   |   |    | 437-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Hans        |   | hans            | han         |   |   |   |           | dan |   |   |    | 437-01 | 1:protocol |          |  |2080|    |    |    |
+| w   |        |               | xNP | Mikkelsen   |   | mickelss(øn)    | mickelſ     |   |   |   |           | dan |   |   |    | 437-01 | 1:protocol |          |  |2080|    |    |    |
 | PE  |      e | HanMik001     |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | burghemæstere | xNC | borgmester  |   | borgemest(er)   | boꝛgemeſt   |   |   |   |           | dan |   |   |    | 437-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | uti           | xAP | udi         |   | vdij            | vdij         |   |   |   |           | dan |   |   |    | 437-01 | 1:protocol |          |  |    |    |    |    |
@@ -115,9 +115,9 @@
 | w   |        | man           | xNC | mand        |   | ma(n)           | ma̅           |   |   |   |           | dan |   |   |    | 437-04 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre         | xNC | hr.          |   | h(er)           | h̅            |   |   |   |           | dan |   |   |    | 437-04 | 2:context |          |  |    |    |    |    |
 | PE  |      b | PerDid001     |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Per         |   | per             | per          |   |   |   |           | dan |   |   |    | 437-04 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Per         |   | per             | per          |   |   |   |           | dan |   |   |    | 437-04 | 2:context |          |  |2081|    |    |    |
 | lm  | 437-05 |               |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Didriksen   |   | didericss(øn)   | didericſ    |   |   |   |           | dan |   |   |    | 437-05 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Didriksen   |   | didericss(øn)   | didericſ    |   |   |   |           | dan |   |   |    | 437-05 | 2:context |          |  |2081|    |    |    |
 | PE  |      e | PerDid001     |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | kanik         | xNC | kanik       |   | Canick          | Canick       |   |   |   |           | dan |   |   |    | 437-05 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i           |   | i               | i            |   |   |   |           | dan |   |   |    | 437-05 | 2:context |          |  |    |    |    |    |

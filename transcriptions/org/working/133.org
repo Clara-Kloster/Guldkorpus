@@ -49,9 +49,9 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        |   |   |   |   | c(er)nentib(us)        | c͛nentıbꝫ     |             |   |   |   | lat |   |   |   |        133-01 | 1:protocol |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                      | .            |             |   |   |   | lat |   |   |   |        133-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | OluOlu001  |   |   |   |                        |              |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Olau(us)               | Olauꝰ        |             |   |   |   | lat |   |   |   |        133-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | d(i)c(t)us             | ꝺc̅uſ         |             |   |   |   | lat |   |   |   |        133-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lungæ                  | lungæ        |             |   |   |   | lat |   |   |   |        133-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Olau(us)               | Olauꝰ        |             |   |   |   | lat |   |   |   |        133-01 | 1:protocol |          |  |544|    |    |    |
+| w   |        |   |   |   |   | d(i)c(t)us             | ꝺc̅uſ         |             |   |   |   | lat |   |   |   |        133-01 | 1:protocol |          |  |544|    |    |    |
+| w   |        |   |   |   |   | lungæ                  | lungæ        |             |   |   |   | lat |   |   |   |        133-01 | 1:protocol |          |  |544|    |    |    |
 | PE  | e      | OluOlu001  |   |   |   |                        |              |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /                      | /            |             |   |   |   | lat |   |   |   |        133-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Sal(ute)m              | Sl̅         |             |   |   |   | lat |   |   |   |        133-01 | 1:protocol |          |  |    |    |    |    |
@@ -74,13 +74,13 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        |   |   |   |   | (et)                   |             |             |   |   |   | lat |   |   |   |        133-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ego                    | ego          |             |   |   |   | lat |   |   |   |        133-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      | OluOlu001  |   |   |   |                        |              |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | olau(us)               | olauꝰ        |             |   |   |   | lat |   |   |   |        133-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | olau(us)               | olauꝰ        |             |   |   |   | lat |   |   |   |        133-02 | 2:context |          |  |545|    |    |    |
 | PE  | e      | OluOlu001  |   |   |   |                        |              |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ac                     | ac           |             |   |   |   | lat |   |   |   |        133-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | fr(ater)               | fr͛           |             |   |   |   | lat |   |   |   |        133-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | me(us)                 | meꝰ          |             |   |   |   | lat |   |   |   |        133-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JenOlu001  |   |   |   |                        |              |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Joh(anne)s             | Joh̅s         |             |   |   |   | lat |   |   |   |        133-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Joh(anne)s             | Joh̅s         |             |   |   |   | lat |   |   |   |        133-02 | 2:context |          |  |546|    |    |    |
 | PE  | e      | JenOlu001  |   |   |   |                        |              |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | tenore                 | tenore       |             |   |   |   | lat |   |   |   |        133-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(re)se(e)n(tium)      | p͛ſen̅         |             |   |   |   | lat |   |   |   |        133-02 | 2:context |          |  |    |    |    |    |
@@ -289,7 +289,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        |   |   |   |   | fr(atr)is              | fr͛ıs         |             |   |   |   | lat |   |   |   |        133-12 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | mei                    | meı          |             |   |   |   | lat |   |   |   |        133-12 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | JenOlu001  |   |   |   |                        |              |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ioh(ann)is             | ıoh̅ıſ        |             |   |   |   | lat |   |   |   |        133-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ioh(ann)is             | ıoh̅ıſ        |             |   |   |   | lat |   |   |   |        133-12 | 3:eschatocol |          |  |547|    |    |    |
 | PE  | e      | JenOlu001  |   |   |   |                        |              |             |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | dignu(m)               | ꝺıgnu̅        |             |   |   |   | lat |   |   |   |        133-12 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | duxi                   | ꝺuxí         |             |   |   |   | lat |   |   |   |        133-12 | 3:eschatocol |          |  |    |    |    |    |

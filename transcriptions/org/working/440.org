@@ -45,11 +45,11 @@
 | d   | b      | 1             |     | protocol      |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | jak           | xPE | jeg           |   | Jegh                     | Jegh                  |   |   |   |   | dan |   |   |   |        440-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | ElsGri001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Elsebe        |   | ælsebæ                   | ælſebæ                |   |   |   |   | dan |   |   |   |        440-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Elsebe        |   | ælsebæ                   | ælſebæ                |   |   |   |   | dan |   |   |   |        440-01 | 1:protocol |          |  |2098|    |    |    |
 | PE  | e      | ElsGri001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | OluJør001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Oluf          |   | oluff                    | oluff                 |   |   |   |   | dan |   |   |   |        440-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |               | xNP | Jørgensens    |   | iørgh(e)nss(øns)         | ıøꝛghn̅ſ              |   |   |   |   | dan |   |   |   |        440-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Oluf          |   | oluff                    | oluff                 |   |   |   |   | dan |   |   |   |        440-01 | 1:protocol |          |  |2099|    |    |    |
+| w   |        |               | xNP | Jørgensens    |   | iørgh(e)nss(øns)         | ıøꝛghn̅ſ              |   |   |   |   | dan |   |   |   |        440-01 | 1:protocol |          |  |2099|    |    |    |
 | PE  | e      | OluJør001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | æfterliverske | xNC | efterleverske |   | effth(e)rleffw(er)skæ    | effthꝛleffwſkæ      |   |   |   |   | dan |   |   |   |        440-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | forstanderske | xNC | forstanderske |   | forstandh(e)rskæ         | foꝛſtandhꝛſkæ        |   |   |   |   | dan |   |   |   |        440-01 | 1:protocol |          |  |    |    |    |    |
@@ -89,8 +89,8 @@
 | lm  | 440-04 |               |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | hærre         | xNC | hr.            |   | h(er)                    | h̅                     |   |   |   |   | dan |   |   |   |        440-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JenLau001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Jens          |   | jenss                    | ȷenſſ                 |   |   |   |   | dan |   |   |   |        440-04 | 2:context |          |  |    |    |    |    |
-| w   |        |               | xNP | Lauridsen     |   | law(ri)tss(øn)           | lawtſ               |   |   |   |   | dan |   |   |   |        440-04 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Jens          |   | jenss                    | ȷenſſ                 |   |   |   |   | dan |   |   |   |        440-04 | 2:context |          |  |2100|    |    |    |
+| w   |        |               | xNP | Lauridsen     |   | law(ri)tss(øn)           | lawtſ               |   |   |   |   | dan |   |   |   |        440-04 | 2:context |          |  |2100|    |    |    |
 | PE  | e      | JenLau001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | ærkedjakn     | xNC | ærkedegn      |   | erchedegn                | eꝛchedegn             |   |   |   |   | dan |   |   |   |        440-04 | 2:context |          |  |    |    |    |    |
 | w   |        | have          | xVB | have          |   | haffwe                   | haffwe                |   |   |   |   | dan |   |   |   |        440-04 | 2:context |          |  |    |    |    |    |
@@ -98,8 +98,8 @@
 | w   |        | thænne        | xDD | denne         |   | th(en)ne                 | thn̅e                  |   |   |   |   | dan |   |   |   |        440-04 | 2:context |          |  |    |    |    |    |
 | w   |        | brevvisere    | xNC | brevviser     |   | breffwis(e)r             | bꝛeffwıſꝛ            |   |   |   |   | dan |   |   |   |        440-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | LauJep001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Laurids       |   | law(ri)tz                | lawtz                |   |   |   |   | dan |   |   |   |        440-04 | 2:context |          |  |    |    |    |    |
-| w   |        |               | xNP | Jepsen        |   | ieipss(øn)               | ieipſ                |   |   |   |   | dan |   |   |   |        440-04 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Laurids       |   | law(ri)tz                | lawtz                |   |   |   |   | dan |   |   |   |        440-04 | 2:context |          |  |2101|    |    |    |
+| w   |        |               | xNP | Jepsen        |   | ieipss(øn)               | ieipſ                |   |   |   |   | dan |   |   |   |        440-04 | 2:context |          |  |2101|    |    |    |
 | PE  | e      | LauJep001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 440-05 |               |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | sum           | xRP | som           |   | som                      | ſom                   |   |   |   |   | dan |   |   |   |        440-05 | 2:context |          |  |    |    |    |    |
@@ -137,7 +137,7 @@
 | w   |        | fornævnd      | xAJ | fornævnte           |   | for(nefnde)              | foꝛͩͤ                   |   |   |   |   | dan |   |   |   |        440-07 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre         | xNC | hr.            |   | h(er)                    | h̅                     |   |   |   |   | dan |   |   |   |        440-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JenLau001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Jensen        |   | ienss(øn)                | ıenſ                 |   |   |   |   | dan |   |   |   |        440-07 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Jensen        |   | ienss(øn)                | ıenſ                 |   |   |   |   | dan |   |   |   |        440-07 | 2:context |          |  |2102|    |    |    |
 | PE  | e      | JenLau001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | goths         | xNC | gods          |   | gotz                     | gotz                  |   |   |   |   | dan |   |   |   |        440-07 | 2:context |          |  |    |    |    |    |
 | w   |        | ok            | xCC | og            |   | Oc                       | Oc                    |   |   |   |   | dan |   |   |   |        440-07 | 2:context |          |  |    |    |    |    |

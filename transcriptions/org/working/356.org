@@ -58,11 +58,11 @@
 | w   |        | jak         | xPE  | jeg            |   | Jech                | Jech         |   |   |   |                  | dan |   |   |    |        356-01 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AndJak001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
 | PE | b | AndJak001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP  | Anders         |   | anders              | ander       |   |   |   |                  | dan |   |   |    |        356-01 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP  | Jepsen         |   | Jeyæpss(øn)         | Jeyæpſ      |   |   |   |                  | dan |   |   |    |        356-01 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP  | Anders         |   | anders              | ander       |   |   |   |                  | dan |   |   |    |        356-01 | 2:context |          |  |1449|2490|    |    |
+| w   |        |             | xNP  | Jepsen         |   | Jeyæpss(øn)         | Jeyæpſ      |   |   |   |                  | dan |   |   |    |        356-01 | 2:context |          |  |1449|2490|    |    |
 | PE | e | AndJak001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 356-02 |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP  | Lunge          |   | lu(n)ge             | lu̅ge         |   |   |   |                  | dan |   |   |    |        356-02 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP  | Lunge          |   | lu(n)ge             | lu̅ge         |   |   |   |                  | dan |   |   |    |        356-02 | 2:context |          |  |    |2490|    |    |
 | PE  | e      | AndJak001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | riddere     | xNC  | ridder         |   | ridder(e)           | rıdder      |   |   |   |                  | dan |   |   |    |        356-02 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP  | i              |   | i                   | i            |   |   |   |                  | dan |   |   |    |        356-02 | 2:context |          |  |    |    |    |    |
@@ -73,19 +73,19 @@
 | w   |        | barn        | xNC  | børns          |   | børnæs              | bøꝛnæ       |   |   |   |                  | dan |   |   |    |        356-02 | 2:context |          |  |    |    |    |    |
 | w   |        | vægh        | xNC  | vegne          |   | wegnæ               | wegnæ        |   |   |   |                  | dan |   |   |    |        356-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      | SofFol001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | prop | Sofia          |   | Sophia              | ophıa       |   |   |   |                  | dan |   |   |    |        356-02 | 2:context |          |  |    |    |    |    |
-| w   |        |             | prop | Folmersdatter  |   | folmerssdot(er)     | folmerſſdot |   |   |   |                  | dan |   |   |    |        356-02 | 2:context |          |  |    |    |    |    |
+| w   |        |             | prop | Sofia          |   | Sophia              | ophıa       |   |   |   |                  | dan |   |   |    |        356-02 | 2:context |          |  |1450|    |    |    |
+| w   |        |             | prop | Folmersdatter  |   | folmerssdot(er)     | folmerſſdot |   |   |   |                  | dan |   |   |    |        356-02 | 2:context |          |  |1450|    |    |    |
 | PE  | e      | SofFol001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC  | og             |   | oc                  | oc           |   |   |   |                  | dan |   |   |    |        356-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AriFol001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | prop | Arine          |   | arinæ               | arínæ        |   |   |   |                  | dan |   |   |    |        356-02 | 2:context |          |  |    |    |    |    |
-| w   |        |             | prop | Folmersdatter  |   | fol¦mersdot(er)     | fol¦merſdot |   |   |   |                  | dan |   |   |    | 356-02-362-03 | 2:context |          |  |    |    |    |    |
+| w   |        |             | prop | Arine          |   | arinæ               | arínæ        |   |   |   |                  | dan |   |   |    |        356-02 | 2:context |          |  |1451|    |    |    |
+| w   |        |             | prop | Folmersdatter  |   | fol¦mersdot(er)     | fol¦merſdot |   |   |   |                  | dan |   |   |    | 356-02-362-03 | 2:context |          |  |1451|    |    |    |
 | PE  | e      | AriFol001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC  | og             |   | och                 | och          |   |   |   |                  | dan |   |   |    |        356-03 | 2:context |          |  |    |    |    |    |
 | w   |        | jak         | xPE  | jeg            |   | Jech                | Jech         |   |   |   |                  | dan |   |   |    |        356-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | HenGru001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Henrik         |   | henike              | henike       |   |   |   |                  | dan |   |   |    |        356-03 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Grubendal      |   | grubendale          | grubendale   |   |   |   |                  | dan |   |   |    |        356-03 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Henrik         |   | henike              | henike       |   |   |   |                  | dan |   |   |    |        356-03 | 2:context |          |  |1452|    |    |    |
+| w   |        |             | xNP | Grubendal      |   | grubendale          | grubendale   |   |   |   |                  | dan |   |   |    |        356-03 | 2:context |          |  |1452|    |    |    |
 | PE  | e      | HenGru001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | upovena     | xAP  | på             |   | ponæ                | ponæ         |   |   |   |                  | dan |   |   |    |        356-03 | 2:context |          |  |    |    |    |    |
 | w   |        | min         | xDP  | min            |   | mi(n)               | mi̅           |   |   |   |                  | dan |   |   |    |        356-03 | 2:context |          |  |    |    |    |    |
@@ -93,8 +93,8 @@
 | w   |        | husfrue     | xNC  | husfrues       |   | hosfrwæs            | hoſfrwæ     |   |   |   |                  | dan |   |   |    |        356-03 | 2:context |          |  |    |    |    |    |
 | w   |        | vægh        | xNC  | vegne          |   | wegnæ               | wegnæ        |   |   |   |                  | dan |   |   |    |        356-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | EliFol001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             |      | Elna           |   | Elnæ                | Elnæ         |   |   |   |                  | dan |   |   |    |        356-03 | 2:context |          |  |    |    |    |    |
-| w   |        |             |      | Folmersdatter  |   | folmersdot(er)      | folmerſdot  |   |   |   |                  | dan |   |   |    |        356-03 | 2:context |          |  |    |    |    |    |
+| w   |        |             |      | Elna           |   | Elnæ                | Elnæ         |   |   |   |                  | dan |   |   |    |        356-03 | 2:context |          |  |1453|    |    |    |
+| w   |        |             |      | Folmersdatter  |   | folmersdot(er)      | folmerſdot  |   |   |   |                  | dan |   |   |    |        356-03 | 2:context |          |  |1453|    |    |    |
 | PE  | e      | EliFol001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
 | lm  | 356-04 |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | æfter       | xAP  | efter          |   | æfft(er)            | æfft        |   |   |   |                  | dan |   |   |    |        356-04 | 2:context |          |  |    |    |    |    |
@@ -104,8 +104,8 @@
 | w   |        | utlægje     | xVB  | udlagt         |   | vdlacht             | vdlacht      |   |   |   |                  | dan |   |   |    |        356-04 | 2:context |          |  |    |    |    |    |
 | w   |        | jungfrue    | xNC  | jomfru         |   | Jomfrw              | Jomfrw       |   |   |   |                  | dan |   |   |    |        356-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | CecFol001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP  | Cecilie        |   | Ceciliæ             | Ceciliæ      |   |   |   |                  | dan |   |   |    |        356-04 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP  | Folmersdatter  |   | folmersdot(er)      | folmerſdot  |   |   |   |                  | dan |   |   |    |        356-04 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP  | Cecilie        |   | Ceciliæ             | Ceciliæ      |   |   |   |                  | dan |   |   |    |        356-04 | 2:context |          |  |1454|    |    |    |
+| w   |        |             | xNP  | Folmersdatter  |   | folmersdot(er)      | folmerſdot  |   |   |   |                  | dan |   |   |    |        356-04 | 2:context |          |  |1454|    |    |    |
 | PE  | e      | CecFol001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP  | i              |   | i                   | ı            |   |   |   |                  | dan |   |   |    |        356-04 | 2:context |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -135,8 +135,8 @@
 | w   |        | garth       | xNC  | gård           |   | gord                | goꝛd         |   |   |   |                  | dan |   |   |    |        356-05 | 2:context |          |  |    |    |    |    |
 | w   |        | sum         | xRP  | som            |   | som                 | ſom          |   |   |   |                  | dan |   |   |    |        356-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | OluNie002   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP  | Oluf           |   | olof                | olof         |   |   |   |                  | dan |   |   |    |        356-05 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP  | Nielsen        |   | nielss(øn)          | nıelſ       |   |   |   |                  | dan |   |   |    |        356-05 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP  | Oluf           |   | olof                | olof         |   |   |   |                  | dan |   |   |    |        356-05 | 2:context |          |  |1455|    |    |    |
+| w   |        |             | xNP  | Nielsen        |   | nielss(øn)          | nıelſ       |   |   |   |                  | dan |   |   |    |        356-05 | 2:context |          |  |1455|    |    |    |
 | PE  | e      | OluNie002   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAV  | i              |   | i                   | i            |   |   |   |                  | dan |   |   |    |        356-05 | 2:context |          |  |    |    |    |    |
 | w   |        | bo          | xVB  | bor            |   | bor                 | boꝛ          |   |   |   |                  | dan |   |   |    |        356-05 | 2:context |          |  |    |    |    |    |
@@ -151,8 +151,8 @@
 | n   |        | 1           |      | 1              |   | j                   | ȷ            |   |   |   |                  | dan |   |   |    |        356-06 | 2:context |          |  |    |    |    |    |
 | w   |        | garth       | xNC  | gård           |   | gord                | goꝛd         |   |   |   |                  | dan |   |   |    |        356-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JepNie003   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP  | Jeppe          |   | Jeyæp               | Jeyæp        |   |   |   |                  | dan |   |   |    |        356-06 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP  | Nielsen        |   | nielss(øn)          | nıelſ       |   |   |   |                  | dan |   |   |    |        356-06 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP  | Jeppe          |   | Jeyæp               | Jeyæp        |   |   |   |                  | dan |   |   |    |        356-06 | 2:context |          |  |1456|    |    |    |
+| w   |        |             | xNP  | Nielsen        |   | nielss(øn)          | nıelſ       |   |   |   |                  | dan |   |   |    |        356-06 | 2:context |          |  |1456|    |    |    |
 | PE  | e      | JepNie003   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAV  | i              |   | i                   | ı            |   |   |   |                  | dan |   |   |    |        356-06 | 2:context |          |  |    |    |    |    |
 | w   |        | bo          | xVB  | bor            |   | bor                 | boꝛ          |   |   |   |                  | dan |   |   |    |        356-06 | 2:context |          |  |    |    |    |    |
@@ -167,8 +167,8 @@
 | w   |        | garth       | xNC  | gård           |   | gord                | goꝛd         |   |   |   |                  | dan |   |   |    |        356-06 | 2:context |          |  |    |    |    |    |
 | w   |        | ibidem      | xAV  |                |   | ibid(em)            | ıbı         |   |   |   |                  | lat |   |   |    |        356-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | NieKnu006   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP  | Nis            |   | nis                 | ni          |   |   |   |                  | dan |   |   |    |        356-06 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP  | Knudsen        |   | knuds(øn)           | knud        |   |   |   | kn changed from? | dan |   |   |    |        356-06 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP  | Nis            |   | nis                 | ni          |   |   |   |                  | dan |   |   |    |        356-06 | 2:context |          |  |1457|    |    |    |
+| w   |        |             | xNP  | Knudsen        |   | knuds(øn)           | knud        |   |   |   | kn changed from? | dan |   |   |    |        356-06 | 2:context |          |  |1457|    |    |    |
 | PE  | e      | NieKnu006   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAV  | i              |   | i                   | ı            |   |   |   |                  | dan |   |   |    |        356-06 | 2:context |          |  |    |    |    |    |
 | lm  | 356-07 |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -184,9 +184,9 @@
 | w   |        | ibidem      | xAV  |                |   | ibid(em)            | ıbı         |   |   |   |                  | lat |   |   |    |        356-07 | 2:context |          |  |    |    |    |    |
 | PE | b | NieSty001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | NieKnu006   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP  | Nis            |   | nis                 | ni          |   |   |   |                  | dan |   |   |    |        356-07 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP  | Nis            |   | nis                 | ni          |   |   |   |                  | dan |   |   |    |        356-07 | 2:context |          |  |1458|2491|    |    |
 | PE  | e      | NieKnu006   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP  | Stynk          |   | stynk               | ſtẏnk        |   |   |   |                  | dan |   |   |    |        356-07 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP  | Stynk          |   | stynk               | ſtẏnk        |   |   |   |                  | dan |   |   |    |        356-07 | 2:context |          |  |1458|    |    |    |
 | PE | e | NieSty001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAV  | i              |   | i                   | ı            |   |   |   |                  | dan |   |   |    |        356-07 | 2:context |          |  |    |    |    |    |
 | w   |        | bo          | xVB  | bor            |   | bor                 | boꝛ          |   |   |   |                  | dan |   |   |    |        356-07 | 2:context |          |  |    |    |    |    |
@@ -197,8 +197,8 @@
 | w   |        | grot        | xNC  | grot           |   | g(rot)              | gꝭ           |   |   |   |                  | dan |   |   |    |        356-07 | 2:context |          |  |    |    |    |    |
 | w   |        | item        | xAV  |                |   | Jt(em)              | Jtꝭ          |   |   |   |                  | lat |   |   |    |        356-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | OluHæl001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP  | Oluf           |   | oloff               | oloff        |   |   |   |                  | dan |   |   |    |        356-07 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP  | Helligdage     |   | hællidagæ           | hællıdagæ    |   |   |   |                  | dan |   |   |    |        356-07 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP  | Oluf           |   | oloff               | oloff        |   |   |   |                  | dan |   |   |    |        356-07 | 2:context |          |  |1459|    |    |    |
+| w   |        |             | xNP  | Helligdage     |   | hællidagæ           | hællıdagæ    |   |   |   |                  | dan |   |   |    |        356-07 | 2:context |          |  |1459|    |    |    |
 | PE  | e      | OluHæl001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ibidem      | xAV  |                |   | ibid(em)            | ıbı         |   |   |   |                  | lat |   |   |    |        356-07 | 2:context |          |  |    |    |    |    |
 | lm  | 356-08 |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -220,8 +220,8 @@
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | sum         | xRP  | som            |   | som                 | ſo          |   |   |   |                  | dan |   |   |    |        356-08 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JesOlu001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP  | Jesse          |   | Jesse               | Jeſſe        |   |   |   |                  | dan |   |   |    |        356-08 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP  | Olufsen        |   | olofs(øn)           | olof        |   |   |   |                  | dan |   |   |    |        356-08 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP  | Jesse          |   | Jesse               | Jeſſe        |   |   |   |                  | dan |   |   |    |        356-08 | 2:context |          |  |1460|    |    |    |
+| w   |        |             | xNP  | Olufsen        |   | olofs(øn)           | olof        |   |   |   |                  | dan |   |   |    |        356-08 | 2:context |          |  |1460|    |    |    |
 | PE  | e      | JesOlu001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAV  | i              |   | i                   | ı            |   |   |   |                  | dan |   |   |    |        356-08 | 2:context |          |  |    |    |    |    |
 | w   |        | bo          | xVB  | bor            |   | bor                 | boꝛ          |   |   |   |                  | dan |   |   |    |        356-08 | 2:context |          |  |    |    |    |    |
@@ -246,8 +246,8 @@
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | sum         | xRP  | som            |   | som                 | ſo          |   |   |   |                  | dan |   |   |    |        356-09 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JesOlu001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP  | Jesse          |   | Jesse               | Jeſſe        |   |   |   |                  | dan |   |   |    |        356-09 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP  | Olufsen        |   | olofs(øn)           | olof        |   |   |   |                  | dan |   |   |    |        356-09 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP  | Jesse          |   | Jesse               | Jeſſe        |   |   |   |                  | dan |   |   |    |        356-09 | 2:context |          |  |1461|    |    |    |
+| w   |        |             | xNP  | Olufsen        |   | olofs(øn)           | olof        |   |   |   |                  | dan |   |   |    |        356-09 | 2:context |          |  |1461|    |    |    |
 | PE  | e      | JesOlu001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAV  | i              |   | i                   | ı            |   |   |   |                  | dan |   |   |    |        356-09 | 2:context |          |  |    |    |    |    |
 | w   |        | bo          | xVB  | bor            |   | bør                 | bøꝛ          |   |   |   |                  | dan |   |   |    |        356-09 | 2:context |          |  |    |    |    |    |
@@ -272,7 +272,7 @@
 | w   |        | forskreven  | xAJ  | forskrevne     |   | forscr(efne)        | foꝛſcr      |   |   |   |                  | dan |   |   |    |        356-10 | 2:context |          |  |    |    |    |    |
 | w   |        | jungfrue    | xNC  | jomfru         |   | Jomfrw              | Jomfrw       |   |   |   |                  | dan |   |   |    |        356-10 | 2:context |          |  |    |    |    |    |
 | PE  | b      | CecFol001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP  | Cecilie        |   | Ceciliæ             | Cecıliæ      |   |   |   |                  | dan |   |   |    |        356-10 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP  | Cecilie        |   | Ceciliæ             | Cecıliæ      |   |   |   |                  | dan |   |   |    |        356-10 | 2:context |          |  |1462|    |    |    |
 | PE  | e      | CecFol001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | have        | xVB  | have           |   | haue                | haue         |   |   |   |                  | dan |   |   |    |        356-10 | 2:context |          |  |    |    |    |    |
 | w   |        | ok          | xCC  | og             |   | oc                  | oc           |   |   |   |                  | dan |   |   |    |        356-10 | 2:context |          |  |    |    |    |    |
@@ -306,8 +306,8 @@
 | w   |        | til         | xAP  | til            |   | til                 | til          |   |   |   |                  | dan |   |   |    |        356-12 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre       | xNC  | herre          |   | her                 | her          |   |   |   |                  | dan |   |   |    |        356-12 | 2:context |          |  |    |    |    |    |
 | PE  | b      | FolJak001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP  | Folmer         |   | folmer              | folmer       |   |   |   |                  | dan |   |   |    |        356-12 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP  | Jepsens        |   | jeyæpsøns           | ȷeyæpſøn    |   |   |   |                  | dan |   |   |    |        356-12 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP  | Folmer         |   | folmer              | folmer       |   |   |   |                  | dan |   |   |    |        356-12 | 2:context |          |  |1463|    |    |    |
+| w   |        |             | xNP  | Jepsens        |   | jeyæpsøns           | ȷeyæpſøn    |   |   |   |                  | dan |   |   |    |        356-12 | 2:context |          |  |1463|    |    |    |
 | PE  | e      | FolJak001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | arving      | xNC  | arvinge        |   | arwingæ             | arwingæ      |   |   |   |                  | dan |   |   |    |        356-12 | 2:context |          |  |    |    |    |    |
 | w   |        | at          | xIM  | at             |   | ath                 | ath          |   |   |   |                  | dan |   |   |    |        356-12 | 2:context |          |  |    |    |    |    |
@@ -325,8 +325,8 @@
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | sum         | xRP  | som            |   | som                 | ſom          |   |   |   |                  | dan |   |   |    |        356-13 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JesOlu001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP  | Jesse          |   | jesse               | ȷeſſe        |   |   |   |                  | dan |   |   |    |        356-13 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP  | Olufsen        |   | olofs(øn)           | olof        |   |   |   |                  | dan |   |   |    |        356-13 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP  | Jesse          |   | jesse               | ȷeſſe        |   |   |   |                  | dan |   |   |    |        356-13 | 2:context |          |  |1464|    |    |    |
+| w   |        |             | xNP  | Olufsen        |   | olofs(øn)           | olof        |   |   |   |                  | dan |   |   |    |        356-13 | 2:context |          |  |1464|    |    |    |
 | PE  | e      | JesOlu001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAV  | i              |   | i                   | ı            |   |   |   |                  | dan |   |   |    |        356-13 | 2:context |          |  |    |    |    |    |
 | w   |        | bo          | xVB  | bor            |   | bor                 | boꝛ          |   |   |   |                  | dan |   |   |    |        356-13 | 2:context |          |  |    |    |    |    |
@@ -380,7 +380,7 @@
 | w   |        | upovena     | xAP  | på             |   | ponæ                | ponæ         |   |   |   |                  | dan |   |   |    |        356-16 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre       | xNC  | herre          |   | h(er)               | h̅            |   |   |   |                  | dan |   |   |    |        356-16 | 2:context |          |  |    |    |    |    |
 | PE  | b      | FolJak001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP  | Folmers        |   | folmers             | folmer      |   |   |   |                  | dan |   |   |    |        356-16 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP  | Folmers        |   | folmers             | folmer      |   |   |   |                  | dan |   |   |    |        356-16 | 2:context |          |  |2492|    |    |    |
 | PE  | e      | FolJak001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | barn        | xNC  | børns          |   | børnæs              | bøꝛnæ       |   |   |   |                  | dan |   |   |    |        356-16 | 2:context |          |  |    |    |    |    |
 | w   |        | vægh        | xNC  | vegne          |   | wegnæ               | wegnæ        |   |   |   |                  | dan |   |   |    |        356-16 | 2:context |          |  |    |    |    |    |
@@ -410,22 +410,22 @@
 | lm  | 356-18 |             |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |             | lat  |                |   | D(omi)ni            | Dn̅ı          |   |   |   |                  | lat |   |   |    |        356-18 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | JakOlu002   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | lat  |                |   | Jacobi              | Jacobi       |   |   |   |                  | lat |   |   |    |        356-18 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | lat  |                |   | lu(n)gæ             | lu̅gæ         |   |   |   |                  | dan |   |   |    |        356-18 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | lat  |                |   | Jacobi              | Jacobi       |   |   |   |                  | lat |   |   |    |        356-18 | 3:eschatocol |          |  |1465|    |    |    |
+| w   |        |             | lat  |                |   | lu(n)gæ             | lu̅gæ         |   |   |   |                  | dan |   |   |    |        356-18 | 3:eschatocol |          |  |1465|    |    |    |
 | PE  | e      | JakOlu002   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |             | lat  |                |   | milit(is)           | militꝭ       |   |   |   |                  | lat |   |   |    |        356-18 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | OveLun002   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | lat  |                |   | awonis              | awoni       |   |   |   |                  | lat |   |   |    |        356-18 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | lat  |                |   | lu(n)ge             | lu̅ge         |   |   |   |                  | dan |   |   |    |        356-18 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | lat  |                |   | awonis              | awoni       |   |   |   |                  | lat |   |   |    |        356-18 | 3:eschatocol |          |  |1466|    |    |    |
+| w   |        |             | lat  |                |   | lu(n)ge             | lu̅ge         |   |   |   |                  | dan |   |   |    |        356-18 | 3:eschatocol |          |  |1466|    |    |    |
 | PE  | e      | OveLun002   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
 | PE  | b      | AndJen002   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | lat  |                |   | and(r)ee            | andͤe         |   |   |   |                  | lat |   |   |    |        356-18 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | lat  |                |   | Jenss(øn)           | Jenſ        |   |   |   |                  | dan |   |   |    |        356-18 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | lat  |                |   | and(r)ee            | andͤe         |   |   |   |                  | lat |   |   |    |        356-18 | 3:eschatocol |          |  |1467|    |    |    |
+| w   |        |             | lat  |                |   | Jenss(øn)           | Jenſ        |   |   |   |                  | dan |   |   |    |        356-18 | 3:eschatocol |          |  |1467|    |    |    |
 | PE  | e      | AndJen002   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |             | lat  |                |   | (et)                | ⁊            |   |   |   |                  | lat |   |   |    |        356-18 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | OluFol001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | lat  |                |   | olauj               | olauj        |   |   |   |                  | lat |   |   |    |        356-18 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | lat  |                |   | folmerss(øn)        | folmerſ     |   |   |   |                  | dan |   |   |    |        356-18 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | lat  |                |   | olauj               | olauj        |   |   |   |                  | lat |   |   |    |        356-18 | 3:eschatocol |          |  |1468|    |    |    |
+| w   |        |             | lat  |                |   | folmerss(øn)        | folmerſ     |   |   |   |                  | dan |   |   |    |        356-18 | 3:eschatocol |          |  |1468|    |    |    |
 | PE  | e      | OluFol001   |      |                |   |                     |              |   |   |   |                  |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |             | lat  |                |   | p(rese)ntib(us)     | pn̅tıbꝫ       |   |   |   |                  | lat |   |   |    |        356-18 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |             | lat  |                |   | su(n)t              | su̅t          |   |   |   |                  | lat |   |   |    |        356-18 | 3:eschatocol |          |  |    |    |    |    |

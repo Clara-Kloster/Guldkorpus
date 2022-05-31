@@ -45,7 +45,7 @@
 | d  | b      | 1  |   | protocol  |   |                 |               |   |   |   |           |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Wy              | Wÿ            |   |   |   |           | swe |   |   |   |        445-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | RexGus001  |   |   |   |                 |               |   |   |   |           |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Götzstaff       | Goͤtʒſtaff     |   |   |   |           | swe |   |   |   |        445-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Götzstaff       | Goͤtʒſtaff     |   |   |   |           | swe |   |   |   |        445-01 | 1:protocol |          |  |2126|    |    |    |
 | PE  | e      | RexGus001  |   |   |   |                 |               |   |   |   |           |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | medh            | medh          |   |   |   |           | swe |   |   |   |        445-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | gudtz           | gu̇dtʒ         |   |   |   |           | swe |   |   |   |        445-01 | 1:protocol |          |  |    |    |    |    |
@@ -69,8 +69,8 @@
 | w   |        |   |   |   |   | oss             | oſſ           |   |   |   |           | swe |   |   |   |        445-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | elscheligh      | elſcheligh    |   |   |   |           | swe |   |   |   |        445-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      | SteNie001  |   |   |   |                 |               |   |   |   |           |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Stthens         | Stthen       |   |   |   |           | swe |   |   |   |        445-02 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Nils            | Nil          |   |   |   |           | swe |   |   |   |        445-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Stthens         | Stthen       |   |   |   |           | swe |   |   |   |        445-02 | 2:context |          |  |2127|    |    |    |
+| w   |        |   |   |   |   | Nils            | Nil          |   |   |   |           | swe |   |   |   |        445-02 | 2:context |          |  |2127|    |    |    |
 | PE  | e      | SteNie001  |   |   |   |                 |               |   |   |   |           |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | rådhman         | rådhman       |   |   |   |           | swe |   |   |   |        445-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | vdij            | vdij          |   |   |   |           | swe |   |   |   |        445-02 | 2:context |          |  |    |    |    |    |
@@ -101,13 +101,13 @@
 | w   |        |   |   |   |   | modh(e)rbrodher | modh̅rbrodher  |   |   |   |           | swe |   |   |   |        445-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | &               | &             |   |   |   |           | swe |   |   |   |        445-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | SteStu001  |   |   |   |                 |               |   |   |   |           |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Stheenstur(e)   | Stheenſtŭ    |   |   |   |           | swe |   |   |   |        445-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Stheenstur(e)   | Stheenſtŭ    |   |   |   |           | swe |   |   |   |        445-03 | 2:context |          |  |2128|    |    |    |
 | PE  | e      | SteStu001  |   |   |   |                 |               |   |   |   |           |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 445-04 |   |   |   |   |                 |               |   |   |   |           |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | och             | och           |   |   |   |           | swe |   |   |   |        445-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | LarBud001  |   |   |   |                 |               |   |   |   |           |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Lassze          | Laſſʒe        |   |   |   |           | swe |   |   |   |        445-04 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | bwddhe          | bwddhe        |   |   |   |           | swe |   |   |   |        445-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Lassze          | Laſſʒe        |   |   |   |           | swe |   |   |   |        445-04 | 2:context |          |  |2129|    |    |    |
+| w   |        |   |   |   |   | bwddhe          | bwddhe        |   |   |   |           | swe |   |   |   |        445-04 | 2:context |          |  |2129|    |    |    |
 | PE  | e      | LarBud001  |   |   |   |                 |               |   |   |   |           |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | medt            | medt          |   |   |   |           | swe |   |   |   |        445-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | hans            | han          |   |   |   |           | swe |   |   |   |        445-04 | 2:context |          |  |    |    |    |    |
@@ -115,11 +115,11 @@
 | w   |        |   |   |   |   | hustrwes        | huſtr&pk;we  |   |   |   |           | swe |   |   |   |        445-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | hustrw          | hŭſtrw        |   |   |   |           | swe |   |   |   |        445-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | SigBud001  |   |   |   |                 |               |   |   |   |           |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ⸠0⸡Sygrydtz     | ⸠0⸡Sÿgrÿdtʒ   |   |   |   |           | swe |   |   |   |        445-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ⸠0⸡Sygrydtz     | ⸠0⸡Sÿgrÿdtʒ   |   |   |   |           | swe |   |   |   |        445-04 | 2:context |          |  |2130|    |    |    |
 | PE  | e      | SigBud001  |   |   |   |                 |               |   |   |   |           |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | MogBud001  |   |   |   |                 |               |   |   |   |           |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Mons            | Mon          |   |   |   |           | swe |   |   |   |        445-04 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | bwddhans        | bwddhan      |   |   |   |           | swe |   |   |   |        445-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Mons            | Mon          |   |   |   |           | swe |   |   |   |        445-04 | 2:context |          |  |2131|    |    |    |
+| w   |        |   |   |   |   | bwddhans        | bwddhan      |   |   |   |           | swe |   |   |   |        445-04 | 2:context |          |  |2131|    |    |    |
 | PE  | e      | MogBud001  |   |   |   |                 |               |   |   |   |           |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | modh(e)rs       | modh̅r        |   |   |   |           | swe |   |   |   |        445-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | samtyckie       | ſamtÿckie     |   |   |   |           | swe |   |   |   |        445-04 | 2:context |          |  |    |    |    |    |
@@ -133,7 +133,7 @@
 | w   |        |   |   |   |   | Hur(e)          | Hŭ           |   |   |   |           | swe |   |   |   |        445-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | &               | &             |   |   |   |           | swe |   |   |   |        445-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | SteStu001  |   |   |   |                 |               |   |   |   |           |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Stheen          | Stheen        |   |   |   |           | swe |   |   |   |        445-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Stheen          | Stheen        |   |   |   |           | swe |   |   |   |        445-05 | 2:context |          |  |2132|    |    |    |
 | PE  | e      | SteStu001  |   |   |   |                 |               |   |   |   |           |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | bytthe          | bẏtthe        |   |   |   |           | swe |   |   |   |        445-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | thil            | thil          |   |   |   |           | swe |   |   |   |        445-05 | 2:context |          |  |    |    |    |    |
@@ -169,7 +169,7 @@
 | w   |        |   |   |   |   | västh           | vaͤſth         |   |   |   |           | swe |   |   |   |        445-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | vydh            | vÿdh          |   |   |   |           | swe |   |   |   |        445-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | ClaSkr001  |   |   |   |                 |               |   |   |   |           |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Claffwes        | Claffwe      |   |   |   |           | swe |   |   |   |        445-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Claffwes        | Claffwe      |   |   |   |           | swe |   |   |   |        445-06 | 2:context |          |  |2133|    |    |    |
 | PE  | e      | ClaSkr001  |   |   |   |                 |               |   |   |   |           |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | schredder(e)    | ſchredde     |   |   |   |           | swe |   |   |   |        445-06 | 2:context |          |  |    |    |    |    |
 | lm  | 445-07 |   |   |   |   |                 |               |   |   |   |           |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -211,7 +211,7 @@
 | w   |        |   |   |   |   | &               | &             |   |   |   |           | swe |   |   |   |        445-08 | 2:context |          |  |    |    |    |    |
 | lm  | 445-09 |   |   |   |   |                 |               |   |   |   |           |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | SteStu001  |   |   |   |                 |               |   |   |   |           |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Sthens          | Sthen        |   |   |   |           | swe |   |   |   |        445-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Sthens          | Sthen        |   |   |   |           | swe |   |   |   |        445-09 | 2:context |          |  |2134|    |    |    |
 | PE  | e      | SteStu001  |   |   |   |                 |               |   |   |   |           |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | retthe          | retthe        |   |   |   |           | swe |   |   |   |        445-09 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | arffwinghe      | arffwinghe    |   |   |   |           | swe |   |   |   |        445-09 | 2:context |          |  |    |    |    |    |
@@ -267,8 +267,8 @@
 | lm  | 445-12 |   |   |   |   |                 |               |   |   |   |           |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | for(efnde)      | forᷠͤ           |   |   |   |           | swe |   |   |   |        445-12 | 2:context |          |  |    |    |    |    |
 | PE  | b      | SteNie001  |   |   |   |                 |               |   |   |   |           |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Stthens         | Stthen       |   |   |   |           | swe |   |   |   |        445-12 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Nils            | Nil          |   |   |   |           | swe |   |   |   |        445-12 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Stthens         | Stthen       |   |   |   |           | swe |   |   |   |        445-12 | 2:context |          |  |2135|    |    |    |
+| w   |        |   |   |   |   | Nils            | Nil          |   |   |   |           | swe |   |   |   |        445-12 | 2:context |          |  |2135|    |    |    |
 | PE  | e      | SteNie001  |   |   |   |                 |               |   |   |   |           |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | atth            | atth          |   |   |   |           | swe |   |   |   |        445-12 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | forbe(nefnde)   | forbeᷠͩͤ         |   |   |   |           | swe |   |   |   |        445-12 | 2:context |          |  |    |    |    |    |
@@ -292,8 +292,8 @@
 | w   |        |   |   |   |   | swnnan          | ſwnnan        |   |   |   |           | swe |   |   |   |        445-13 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | nästh           | naͤſth         |   |   |   |           | swe |   |   |   |        445-13 | 2:context |          |  |    |    |    |    |
 | PE | b | AndSch001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Andh(e)rs       | Andh̅r        |   |   |   |           | swe |   |   |   |        445-13 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | schult          | ſchŭlt        |   |   |   |           | swe |   |   |   |        445-13 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Andh(e)rs       | Andh̅r        |   |   |   |           | swe |   |   |   |        445-13 | 2:context |          |  |2136|    |    |    |
+| w   |        |   |   |   |   | schult          | ſchŭlt        |   |   |   |           | swe |   |   |   |        445-13 | 2:context |          |  |2136|    |    |    |
 | PE | e | AndSch001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | öffuerst        | oͤffŭerſt      |   |   |   |           | swe |   |   |   |        445-13 | 2:context |          |  |    |    |    |    |
 | lm  | 445-14 |   |   |   |   |                 |               |   |   |   |           |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -393,7 +393,7 @@
 | w   |        |   |   |   |   | for(nefnde)     | forᷠͤ           |   |   |   |           | swe |   |   |   |        445-19 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | otthens         | otthen       |   |   |   |           | swe |   |   |   |        445-19 | 2:context |          |  |    |    |    |    |
 | PE  | b      | SteNie001  |   |   |   |                 |               |   |   |   |           |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Nils            | Nil          |   |   |   |           | swe |   |   |   |        445-19 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Nils            | Nil          |   |   |   |           | swe |   |   |   |        445-19 | 2:context |          |  |2137|    |    |    |
 | PE  | e      | SteNie001  |   |   |   |                 |               |   |   |   |           |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | oc              | oc            |   |   |   |           | swe |   |   |   |        445-19 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | hans            | han          |   |   |   |           | swe |   |   |   |        445-19 | 2:context |          |  |    |    |    |    |

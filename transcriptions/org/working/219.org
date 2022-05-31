@@ -49,8 +49,8 @@
 | w   |        |   |   |   |   | c(er)nentib(us)       | c͛nentıbꝫ     |   |   |   |   | lat |   |   |   |        219-01 | 1:protocol |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                     | .            |   |   |   |   | lat |   |   |   |        219-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | JakPou001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Iacob(us)             | Iacob       |   |   |   |   | lat |   |   |   |        219-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | pauli                 | paulí        |   |   |   |   | lat |   |   |   |        219-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Iacob(us)             | Iacob       |   |   |   |   | lat |   |   |   |        219-01 | 1:protocol |          |  |856|    |    |    |
+| w   |        |   |   |   |   | pauli                 | paulí        |   |   |   |   | lat |   |   |   |        219-01 | 1:protocol |          |  |856|    |    |    |
 | PE  | e      | JakPou001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | decanus               | ꝺecnus      |   |   |   |   | lat |   |   |   |        219-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Ecc(lesi)e            | cc̅e         |   |   |   |   | lat |   |   |   |        219-01 | 1:protocol |          |  |    |    |    |    |
@@ -83,14 +83,14 @@
 | p   |        |   |   |   |   | .                     | .            |   |   |   |   | lat |   |   |   |        219-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | D(omi)na              | Dn̅a          |   |   |   |   | lat |   |   |   |        219-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MagNie001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | margareta             | rgret    |   |   |   |   | lat |   |   |   |        219-02 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | byorns                | byoꝛnſ       |   |   |   |   | lat |   |   |   |        219-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | margareta             | rgret    |   |   |   |   | lat |   |   |   |        219-02 | 2:context |          |  |857|    |    |    |
+| w   |        |   |   |   |   | byorns                | byoꝛnſ       |   |   |   |   | lat |   |   |   |        219-02 | 2:context |          |  |857|    |    |    |
 | PE  | e      | MagNie001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                     | .            |   |   |   |   | lat |   |   |   |        219-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | filia                 | fılıa        |   |   |   |   | lat |   |   |   |        219-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      | NieHer001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicho(lai)            | nıcho       |   |   |   |   | lat |   |   |   |        219-02 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | hermanss(un)          | hermanſ     |   |   |   |   | lat |   |   |   |        219-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nicho(lai)            | nıcho       |   |   |   |   | lat |   |   |   |        219-02 | 2:context |          |  |858|    |    |    |
+| w   |        |   |   |   |   | hermanss(un)          | hermanſ     |   |   |   |   | lat |   |   |   |        219-02 | 2:context |          |  |858|    |    |    |
 | PE  | e      | NieHer001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                     | .            |   |   |   |   | lat |   |   |   |        219-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | in                    | ın           |   |   |   |   | lat |   |   |   |        219-02 | 2:context |          |  |    |    |    |    |
@@ -113,7 +113,7 @@
 | w   |        |   |   |   |   | n(ost)ro              | nr̅o          |   |   |   |   | lat |   |   |   |        219-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | D(omi)no              | Dn̅o          |   |   |   |   | lat |   |   |   |        219-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | LamOlu001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lamberto              | lamberto     |   |   |   |   | lat |   |   |   |        219-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | lamberto              | lamberto     |   |   |   |   | lat |   |   |   |        219-03 | 2:context |          |  |859|    |    |    |
 | PE  | e      | LamOlu001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (con)cano(n)ico       | ꝯcno̅ıco     |   |   |   |   | lat |   |   |   |        219-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | n(ost)ro              | nr̅o          |   |   |   |   | lat |   |   |   |        219-03 | 2:context |          |  |    |    |    |    |
@@ -124,18 +124,18 @@
 | p   |        |   |   |   |   | /                     | /            |   |   |   |   | lat |   |   |   |        219-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)nis             | ꝺn̅ıs         |   |   |   |   | lat |   |   |   |        219-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JenKra002  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Ioh(ann)e             | Ioh̅e         |   |   |   |   | lat |   |   |   |        219-03 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Kraak                 | Kraak        |   |   |   |   | lat |   |   |   |        219-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Ioh(ann)e             | Ioh̅e         |   |   |   |   | lat |   |   |   |        219-03 | 2:context |          |  |860|    |    |    |
+| w   |        |   |   |   |   | Kraak                 | Kraak        |   |   |   |   | lat |   |   |   |        219-03 | 2:context |          |  |860|    |    |    |
 | PE  | e      | JenKra002  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 219-04 |   |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | NieJen004  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicholao              | nícholao     |   |   |   |   | lat |   |   |   |        219-04 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Iøness(un)            | Iøneſ       |   |   |   |   | lat |   |   |   |        219-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nicholao              | nícholao     |   |   |   |   | lat |   |   |   |        219-04 | 2:context |          |  |861|    |    |    |
+| w   |        |   |   |   |   | Iøness(un)            | Iøneſ       |   |   |   |   | lat |   |   |   |        219-04 | 2:context |          |  |861|    |    |    |
 | PE  | e      | NieJen004  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | cano(n)ic(is)         | cno̅ı       |   |   |   |   | lat |   |   |   |        219-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (et)                  | ⁊            |   |   |   |   | lat |   |   |   |        219-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AndNie002  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | andrea                | nꝺꝛe       |   |   |   |   | lat |   |   |   |        219-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | andrea                | nꝺꝛe       |   |   |   |   | lat |   |   |   |        219-04 | 2:context |          |  |862|    |    |    |
 | PE  | e      | AndNie002  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | sac(ri)ste            | ſcﬅe       |   |   |   |   | lat |   |   |   |        219-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Eiusde(m)             | ıuſꝺe̅       |   |   |   |   | lat |   |   |   |        219-04 | 2:context |          |  |    |    |    |    |
@@ -143,7 +143,7 @@
 | w   |        |   |   |   |   | ac                    | c           |   |   |   |   | lat |   |   |   |        219-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)no              | ꝺn̅o          |   |   |   |   | lat |   |   |   |        219-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AssEsk001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ascero                | ſcero       |   |   |   |   | lat |   |   |   |        219-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ascero                | ſcero       |   |   |   |   | lat |   |   |   |        219-04 | 2:context |          |  |863|    |    |    |
 | PE  | e      | AssEsk001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | de                    | ꝺe           |   |   |   |   | lat |   |   |   |        219-04 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -156,16 +156,16 @@
 | w   |        |   |   |   |   | silic(et)             | ſılıcꝫ       |   |   |   |   | lat |   |   |   |        219-04 | 2:context |          |  |    |    |    |    |
 | lm  | 219-05 |   |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | UngRol001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | vngerolf              | vngerolf     |   |   |   |   | lat |   |   |   |        219-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | vngerolf              | vngerolf     |   |   |   |   | lat |   |   |   |        219-05 | 2:context |          |  |864|    |    |    |
 | PE  | e      | UngRol001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | HeiVes001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | heyno(n)e             | heyno̅e       |   |   |   |   | lat |   |   |   |        219-05 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | vesby                 | ỽeſby        |   |   |   |   | lat |   |   |   |        219-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | heyno(n)e             | heyno̅e       |   |   |   |   | lat |   |   |   |        219-05 | 2:context |          |  |865|    |    |    |
+| w   |        |   |   |   |   | vesby                 | ỽeſby        |   |   |   |   | lat |   |   |   |        219-05 | 2:context |          |  |865|    |    |    |
 | PE  | e      | HeiVes001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (et)                  |             |   |   |   |   | lat |   |   |   |        219-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | GødSkr001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | gødiki(n)o            | gøꝺıkı̅o      |   |   |   |   | lat |   |   |   |        219-05 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | skrød(er)e            | ſkrøꝺ͛e       |   |   |   |   | lat |   |   |   |        219-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | gødiki(n)o            | gøꝺıkı̅o      |   |   |   |   | lat |   |   |   |        219-05 | 2:context |          |  |866|    |    |    |
+| w   |        |   |   |   |   | skrød(er)e            | ſkrøꝺ͛e       |   |   |   |   | lat |   |   |   |        219-05 | 2:context |          |  |866|    |    |    |
 | PE  | e      | GødSkr001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                     | .            |   |   |   |   | lat |   |   |   |        219-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Ciuib(us)             | Cíuíbꝫ       |   |   |   |   | lat |   |   |   |        219-05 | 2:context |          |  |    |    |    |    |
@@ -175,7 +175,7 @@
 | w   |        |   |   |   |   | ip(s)am               | ıp̅         |   |   |   |   | lat |   |   |   |        219-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)nam             | ꝺn̅         |   |   |   |   | lat |   |   |   |        219-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MagNie001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | margareta(m)          | ꝛgret̅    |   |   |   |   | lat |   |   |   |        219-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | margareta(m)          | ꝛgret̅    |   |   |   |   | lat |   |   |   |        219-05 | 2:context |          |  |867|    |    |    |
 | PE  | e      | MagNie001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | special(ite)r         | ſpecılr    |   |   |   |   | lat |   |   |   |        219-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (con)uocat(is)        | ꝯuocatꝭ      |   |   |   |   | lat |   |   |   |        219-05 | 2:context |          |  |    |    |    |    |
@@ -211,7 +211,7 @@
 | w   |        |   |   |   |   | ip(s)a                | ıp̅a          |   |   |   |   | lat |   |   |   |        219-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)no              | ꝺn̅o          |   |   |   |   | lat |   |   |   |        219-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | VilCan001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | villæ                 | vıllæ        |   |   |   |   | lat |   |   |   |        219-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | villæ                 | vıllæ        |   |   |   |   | lat |   |   |   |        219-07 | 2:context |          |  |868|    |    |    |
 | PE  | e      | VilCan001  |   |   |   |                       |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (con)sobrino          | ꝯſobꝛıno     |   |   |   |   | lat |   |   |   |        219-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | suo                   | ſuo          |   |   |   |   | lat |   |   |   |        219-07 | 2:context |          |  |    |    |    |    |

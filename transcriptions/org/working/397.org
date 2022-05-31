@@ -55,11 +55,11 @@
 | w   |        | jak          | xPE | jeg            |   | Jech              | Jech           |   |   |   |        | dan     |   |   |    |         397-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | AndPed004    |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |          |          |  |    |    |    |    |
 | PE | b | AndPed004 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Anders         |   | Anders            | Ander         |   |   |   |        | dan     |   |   |    |         397-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |              | xAJ | Pedersen       |   | pæth(e)rss(øn)    | pæthꝛ̅ſ        |   |   |   |        | dan     |   |   |    |         397-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |              | xNP | Anders         |   | Anders            | Ander         |   |   |   |        | dan     |   |   |    |         397-01 | 1:protocol |          |  |1730|2536|    |    |
+| w   |        |              | xAJ | Pedersen       |   | pæth(e)rss(øn)    | pæthꝛ̅ſ        |   |   |   |        | dan     |   |   |    |         397-01 | 1:protocol |          |  |1730|2536|    |    |
 | PE | e | AndPed004 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        | kalle        | xVB | kaldet         |   | kall(et)          | kal̅l           |   |   |   |        | dan     |   |   |    |         397-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |              | xNP | Skytte         |   | schøttæ           | ſchøttæ        |   |   |   |        | dan     |   |   |    |         397-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        | kalle        | xVB | kaldet         |   | kall(et)          | kal̅l           |   |   |   |        | dan     |   |   |    |         397-01 | 1:protocol |          |  |    |2536|    |    |
+| w   |        |              | xNP | Skytte         |   | schøttæ           | ſchøttæ        |   |   |   |        | dan     |   |   |    |         397-01 | 1:protocol |          |  |    |2536|    |    |
 | PE  | e      | AndPed004    |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |          |          |  |    |    |    |    |
 | w   |        | byman        | xNC | bymand         |   | byma(n)           | byma̅           |   |   |   |        | dan     |   |   |    |         397-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i            | xAP | i              |   | j                 | ȷ              |   |   |   |        | dan     |   |   |    |         397-01 | 1:protocol |          |  |    |    |    |    |
@@ -99,9 +99,9 @@
 | w   |        | kær          | xAJ | kære           |   | kiær(e)           | kiær          |   |   |   |        | dan     |   |   |    |         397-03 | 2:context |          |  |    |    |    |    |
 | w   |        | husfrue      | xNC | husfrues       |   | husfrues          | huſfrue       |   |   |   |        | dan     |   |   |    |         397-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | CecPed003    |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Cecilie        |   | sice              | ſıce           |   |   |   |        | dan     |   |   |    |         397-03 | 2:context |          |  |    |    |    |    |
-| w   |        |              | xNP | Peders         |   | pæth(e)rs         | pæthꝛ        |   |   |   |        | dan     |   |   |    |         397-03 | 2:context |          |  |    |    |    |    |
-| w   |        | dotter       | xNC | datter         |   | dott(er)          | dott          |   |   |   |        | dan     |   |   |    |         397-03 | 2:context |          |  |    |    |    |    |
+| w   |        |              | xNP | Cecilie        |   | sice              | ſıce           |   |   |   |        | dan     |   |   |    |         397-03 | 2:context |          |  |1731|    |    |    |
+| w   |        |              | xNP | Peders         |   | pæth(e)rs         | pæthꝛ        |   |   |   |        | dan     |   |   |    |         397-03 | 2:context |          |  |1731|    |    |    |
+| w   |        | dotter       | xNC | datter         |   | dott(er)          | dott          |   |   |   |        | dan     |   |   |    |         397-03 | 2:context |          |  |1731|    |    |    |
 | PE  | e      | CecPed003    |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |          |          |  |    |    |    |    |
 | w   |        | vilje        | xNC | vilje          |   | williæ            | wıllıæ         |   |   |   |        | dan     |   |   |    |         397-03 | 2:context |          |  |    |    |    |    |
 | w   |        | ok           | xCC | og             |   | oc                | oc             |   |   |   |        | dan     |   |   |    |         397-03 | 2:context |          |  |    |    |    |    |
@@ -120,8 +120,8 @@
 | w   |        | man          | xNC | mand           |   | man               | man            |   |   |   |        | dan     |   |   |    |         397-04 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre        | xNC | hr.             |   | H(er)             | H̅              |   |   |   |        | dan     |   |   |    |         397-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AndOlu004    |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Anders         |   | anders            | andeꝛ         |   |   |   |        | dan     |   |   |    |         397-04 | 2:context |          |  |    |    |    |    |
-| w   |        |              | xNP | Olufsen        |   | oleffs(øn)        | oleff         |   |   |   |        | dan     |   |   |    |         397-04 | 2:context |          |  |    |    |    |    |
+| w   |        |              | xNP | Anders         |   | anders            | andeꝛ         |   |   |   |        | dan     |   |   |    |         397-04 | 2:context |          |  |1732|    |    |    |
+| w   |        |              | xNP | Olufsen        |   | oleffs(øn)        | oleff         |   |   |   |        | dan     |   |   |    |         397-04 | 2:context |          |  |1732|    |    |    |
 | PE  | e      | AndOlu004    |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |          |          |  |    |    |    |    |
 | w   |        | perpetuus    | xNC |                |   | p(er)pet(uus)     | ̲etꝭ           |   |   |   |        | lat/dan |   |   |    |         397-04 | 2:context |          |  |    |    |    |    |
 | w   |        | vicarius     | xNC |                |   | vicar(ius)        | vıcarꝭ         |   |   |   |        | lat/dan |   |   |    |         397-04 | 2:context |          |  |    |    |    |    |
@@ -150,8 +150,8 @@
 | w   |        | jorth        | xNC | jord           |   | jordh             | ȷoꝛdh          |   |   |   |        | dan     |   |   |    |         397-05 | 2:context |          |  |    |    |    |    |
 | w   |        | sum          | xRP | som            |   | som               | ſom            |   |   |   |        | dan     |   |   |    |         397-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | BjøSud001    |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |          |          |  |    |    |    |    |
-| w   |        |              | xNP | bjørn          |   | biørn             | bıøꝛn          |   |   |   |        | dan     |   |   |    |         397-05 | 2:context |          |  |    |    |    |    |
-| w   |        |              | xNP | Sudere         |   | sudher(e)         | ſudher        |   |   |   |        | dan     |   |   |    |         397-05 | 2:context |          |  |    |    |    |    |
+| w   |        |              | xNP | bjørn          |   | biørn             | bıøꝛn          |   |   |   |        | dan     |   |   |    |         397-05 | 2:context |          |  |1733|    |    |    |
+| w   |        |              | xNP | Sudere         |   | sudher(e)         | ſudher        |   |   |   |        | dan     |   |   |    |         397-05 | 2:context |          |  |1733|    |    |    |
 | PE  | e      | BjøSud001    |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |          |          |  |    |    |    |    |
 | w   |        | nu           | xAV | nu             |   | nw                | nw             |   |   |   |        | dan     |   |   |    |         397-05 | 2:context |          |  |    |    |    |    |
 | w   |        | upa          | xAV | på             |   | pa                | pa             |   |   |   |        | dan     |   |   |    |         397-05 | 2:context |          |  |    |    |    |    |
@@ -198,8 +198,8 @@
 | w   |        | fornævnd     | xAJ | fornævnte      |   | for(nefnde)       | foꝛͩͤ            |   |   |   |        | dan     |   |   |    |         397-07 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre        | xNC | hr.             |   | H(er)             | H̅              |   |   |   |        | dan     |   |   |    |         397-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AndOlu004    |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Anders         |   | anders            | andeꝛ         |   |   |   |        | dan     |   |   |    |         397-07 | 2:context |          |  |    |    |    |    |
-| w   |        |              | xNP | Olufsen        |   | oleffs(øn)        | oleff         |   |   |   |        | dan     |   |   |    |         397-07 | 2:context |          |  |    |    |    |    |
+| w   |        |              | xNP | Anders         |   | anders            | andeꝛ         |   |   |   |        | dan     |   |   |    |         397-07 | 2:context |          |  |2537|    |    |    |
+| w   |        |              | xNP | Olufsen        |   | oleffs(øn)        | oleff         |   |   |   |        | dan     |   |   |    |         397-07 | 2:context |          |  |2537|    |    |    |
 | PE  | e      | AndOlu004    |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |          |          |  |    |    |    |    |
 | w   |        | fore         | xAP | fore           |   | for(e)            | for           |   |   |   |        | dan     |   |   |    |         397-07 | 2:context |          |  |    |    |    |    |
 | lm  | 397-08 |              |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |          |          |  |    |    |    |    |
@@ -263,9 +263,9 @@
 | w   |        | fornævnd     | xAJ | fornævnte      |   | for(nefnde)       | foꝛ           |   |   |   | de-sup | dan     |   |   |    |         397-10 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre        | xNC | hr.             |   | h(er)             | h̅              |   |   |   |        | dan     |   |   |    |         397-10 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AndOlu004    |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Anders         |   | andr(is)          | andrꝭ          |   |   |   |        | dan     |   |   |    |         397-10 | 2:context |          |  |    |    |    |    |
+| w   |        |              | xNP | Anders         |   | andr(is)          | andrꝭ          |   |   |   |        | dan     |   |   |    |         397-10 | 2:context |          |  |2538|    |    |    |
 | lm  | 397-11 |              |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Olufsen        |   | oleffs(øn)        | oleff         |   |   |   |        | dan     |   |   |    |         397-11 | 2:context |          |  |    |    |    |    |
+| w   |        |              | xNP | Olufsen        |   | oleffs(øn)        | oleff         |   |   |   |        | dan     |   |   |    |         397-11 | 2:context |          |  |2538|    |    |    |
 | PE  | e      | AndOlu004    |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |          |          |  |    |    |    |    |
 | w   |        | ok           | xCC | og             |   | oc                | oc             |   |   |   |        | dan     |   |   |    |         397-11 | 2:context |          |  |    |    |    |    |
 | w   |        | han          | xPE | hans           |   | hans              | han           |   |   |   |        | dan     |   |   |    |         397-11 | 2:context |          |  |    |    |    |    |
@@ -298,7 +298,7 @@
 | w   |        | fornævnd     | xAJ | fornævnte      |   | for(nefnde)       | foꝛͩꝭ           |   |   |   |        | dan     |   |   |    |         397-12 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre        | xNC | hr.             |   | h(er)             | h̅              |   |   |   |        | dan     |   |   |    |         397-12 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AndOlu004    |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Anders         |   | andr(is)          | andrꝭ          |   |   |   |        | dan     |   |   |    |         397-12 | 2:context |          |  |    |    |    |    |
+| w   |        |              | xNP | Anders         |   | andr(is)          | andrꝭ          |   |   |   |        | dan     |   |   |    |         397-12 | 2:context |          |  |2539|    |    |    |
 | PE  | e      | AndOlu004    |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |          |          |  |    |    |    |    |
 | w   |        | noker        | xDD | nogen          |   | noke(n)           | noke̅           |   |   |   |        | dan     |   |   |    |         397-12 | 2:context |          |  |    |    |    |    |
 | w   |        | skathe       | xNC | skade          |   | skadhe            | ſkadhe         |   |   |   |        | dan     |   |   |    |         397-12 | 2:context |          |  |    |    |    |    |
@@ -358,9 +358,9 @@
 | w   |        | jak          | xPE | jeg            |   | jech              | ȷech           |   |   |   |        | dan     |   |   |    |         397-15 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | fornævnd     | xAJ | fornævnte      |   | for(nefnde)       | foꝛ           |   |   |   | de-sup | dan     |   |   |    |         397-15 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | AndPed004    |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Anders         |   | anders            | ander         |   |   |   |        | dan     |   |   |    |         397-15 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |              | xNP | Pedersen       |   | pædh(e)rss(øn)    | pædhꝛ̅ſ        |   |   |   |        | dan     |   |   |    |         397-15 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |              | xNP | Skytte         |   | schøttæ           | ſchøttæ        |   |   |   |        | dan     |   |   |    |         397-15 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |              | xNP | Anders         |   | anders            | ander         |   |   |   |        | dan     |   |   |    |         397-15 | 3:eschatocol |          |  |2540|    |    |    |
+| w   |        |              | xNP | Pedersen       |   | pædh(e)rss(øn)    | pædhꝛ̅ſ        |   |   |   |        | dan     |   |   |    |         397-15 | 3:eschatocol |          |  |2540|    |    |    |
+| w   |        |              | xNP | Skytte         |   | schøttæ           | ſchøttæ        |   |   |   |        | dan     |   |   |    |         397-15 | 3:eschatocol |          |  |2540|    |    |    |
 | PE  | e      | AndPed004    |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |          |          |  |    |    |    |    |
 | w   |        | min          | xDP | mit            |   | mit               | mıt            |   |   |   |        | dan     |   |   |    |         397-15 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | insighle     | xNC | indsegl        |   | Jncigle           | Jncıgle        |   |   |   |        | dan     |   |   |    |         397-15 | 3:eschatocol |          |  |    |    |    |    |
@@ -382,8 +382,8 @@
 | w   |        | være         | xVB | er             |   | ær                | ær             |   |   |   |        | dan     |   |   |    |         397-16 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | hærre        | xNC | hr.             |   | h(er)             | h̅              |   |   |   |        | dan     |   |   |    |         397-16 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | BørJen001    |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Børge          |   | børye             | børye          |   |   |   |        | dan     |   |   |    |         397-16 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |              | xNP | Jensen         |   | jenss(øn)         | ȷenſ          |   |   |   |        | dan     |   |   |    |         397-16 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |              | xNP | Børge          |   | børye             | børye          |   |   |   |        | dan     |   |   |    |         397-16 | 3:eschatocol |          |  |2541|    |    |    |
+| w   |        |              | xNP | Jensen         |   | jenss(øn)         | ȷenſ          |   |   |   |        | dan     |   |   |    |         397-16 | 3:eschatocol |          |  |2541|    |    |    |
 | PE  | e      | BørJen001    |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |          |          |  |    |    |    |    |
 | w   |        | kanik        | xNC | kannik         |   | canik             | canik          |   |   |   |        | dan     |   |   |    |         397-16 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | i            | xAP | i              |   | i                 | ı              |   |   |   |        | dan     |   |   |    |         397-16 | 3:eschatocol |          |  |    |    |    |    |
@@ -391,8 +391,8 @@
 | w   |        | hærre        | xNC | hr.             |   | h(er)             | h̅              |   |   |   |        | dan     |   |   |    |         397-16 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 397-17 |              |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |          |          |  |    |    |    |    |
 | PE  | b      | JepJen004    |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Jep            |   | jeip              | ȷeip           |   |   |   |        | dan     |   |   |    |         397-17 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |              | xNP | Jensen         |   | jenss(øn)         | ȷenſ          |   |   |   |        | dan     |   |   |    |         397-17 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |              | xNP | Jep            |   | jeip              | ȷeip           |   |   |   |        | dan     |   |   |    |         397-17 | 3:eschatocol |          |  |2542|    |    |    |
+| w   |        |              | xNP | Jensen         |   | jenss(øn)         | ȷenſ          |   |   |   |        | dan     |   |   |    |         397-17 | 3:eschatocol |          |  |2542|    |    |    |
 | PE  | e      | JepJen004    |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |          |          |  |    |    |    |    |
 | w   |        | perpetuus    | xNC |                |   | p(er)pet(uus)     | ̲etꝭ           |   |   |   |        | lat/dan |   |   |    |         397-17 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | vicarius     | xNC |                |   | uicar(ius)        | uicarꝭ         |   |   |   |        | lat/dan |   |   |    |         397-17 | 3:eschatocol |          |  |    |    |    |    |
@@ -404,13 +404,13 @@
 | w   |        |              | xNP | Roskilde       |   | Rosk(ilde)        | Roſkꝭ          |   |   |   |        | dan     |   |   |    |         397-17 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | domkirkje    | xNC | domkirke       |   | do(m)kirkæ        | do̅kirkæ        |   |   |   |        | dan     |   |   |    |         397-17 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | OluPed001    |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Oluf           |   | oleff             | oleff          |   |   |   |        | dan     |   |   |    |         397-17 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |              | xNP | Schynneræ      |   | schynneræ         | ſchynneræ      |   |   |   |        | dan     |   |   |    |         397-17 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |              | xNP | Oluf           |   | oleff             | oleff          |   |   |   |        | dan     |   |   |    |         397-17 | 3:eschatocol |          |  |1735|    |    |    |
+| w   |        |              | xNP | Schynneræ      |   | schynneræ         | ſchynneræ      |   |   |   |        | dan     |   |   |    |         397-17 | 3:eschatocol |          |  |1735|    |    |    |
 | PE  | e      | OluPed001    |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |          |          |  |    |    |    |    |
 | w   |        | ok           | xCC | og             |   | oc                | oc             |   |   |   |        | dan     |   |   |    |         397-17 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | BjøSud001    |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Bjørn          |   | biørn             | bıøꝛn          |   |   |   |        | dan     |   |   |    |         397-17 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |              | xNP | Sudere         |   | suther(e)         | ſuther        |   |   |   |        | dan     |   |   |    |         397-17 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |              | xNP | Bjørn          |   | biørn             | bıøꝛn          |   |   |   |        | dan     |   |   |    |         397-17 | 3:eschatocol |          |  |1734|    |    |    |
+| w   |        |              | xNP | Sudere         |   | suther(e)         | ſuther        |   |   |   |        | dan     |   |   |    |         397-17 | 3:eschatocol |          |  |1734|    |    |    |
 | PE  | e      | BjøSud001    |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |          |          |  |    |    |    |    |
 | w   |        | byman        | xNC | bymænd         |   | bymæ(n)           | bymæ̅           |   |   |   |        | dan     |   |   |    |         397-17 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 397-18 |              |     |                |   |                   |                |   |   |   |        |         |   |   |    |                |          |          |  |    |    |    |    |

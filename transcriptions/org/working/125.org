@@ -44,7 +44,7 @@
 | lm  | 125-01 |   |   |   |   |                       |                 |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | d   | b      | 1 |   | protocol  |   |                       |                 |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | JenGra001  |   |   |   |                       |                 |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Joh(ann)es            | Joh̅e           |   |   |   |   | lat |   |   |   |        125-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Joh(ann)es            | Joh̅e           |   |   |   |   | lat |   |   |   |        125-01 | 1:protocol |          |  |496|    |    |    |
 | PE  | e      | JenGra001  |   |   |   |                       |                 |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | mis(er)ac(i)one       | mıc̅one        |   |   |   |   | lat |   |   |   |        125-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | diuina                | dıuín          |   |   |   |   | lat |   |   |   |        125-01 | 1:protocol |          |  |    |    |    |    |
@@ -58,7 +58,7 @@
 | w   |        |   |   |   |   | p(ri)mas              | pm           |   |   |   |   | lat |   |   |   |        125-01 | 1:protocol |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                     | .               |   |   |   |   | lat |   |   |   |        125-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | IngVic001  |   |   |   |                       |                 |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Jngemaro              | Jngemro        |   |   |   |   | lat |   |   |   |        125-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Jngemaro              | Jngemro        |   |   |   |   | lat |   |   |   |        125-01 | 1:protocol |          |  |497|    |    |    |
 | PE  | e      | IngVic001  |   |   |   |                       |                 |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | sac(er)doti           | ſac͛dotí         |   |   |   |   | lat |   |   |   |        125-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | vicario               | ỽıcrıo         |   |   |   |   | lat |   |   |   |        125-01 | 1:protocol |          |  |    |    |    |    |
@@ -91,12 +91,12 @@
 | w   |        |   |   |   |   | pontificis            | pontıfıcı      |   |   |   |   | lat |   |   |   |        125-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)ni              | dn̅ı             |   |   |   |   | lat |   |   |   |        125-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      | PavBon008  |   |   |   |                       |                 |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | bonifacii             | bonífcíí       |   |   |   |   | lat |   |   |   |        125-02 | 2:context |          |  |    |    |    |    |
-| p   |        |   |   |   |   | .                     | .               |   |   |   |   | lat |   |   |   |        125-02 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | p(a)p(e)              | ͤ               |   |   |   |   | lat |   |   |   |        125-02 | 2:context |          |  |    |    |    |    |
-| p   |        |   |   |   |   | .                     | .               |   |   |   |   | lat |   |   |   |        125-02 | 2:context |          |  |    |    |    |    |
-| n   |        |   |   |   |   | viij                  | ỽııȷ            |   |   |   |   | lat |   |   |   |        125-02 | 2:context |          |  |    |    |    |    |
-| p   |        |   |   |   |   | .                     | .               |   |   |   |   | lat |   |   |   |        125-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | bonifacii             | bonífcíí       |   |   |   |   | lat |   |   |   |        125-02 | 2:context |          |  |498|    |    |    |
+| p   |        |   |   |   |   | .                     | .               |   |   |   |   | lat |   |   |   |        125-02 | 2:context |          |  |498|    |    |    |
+| w   |        |   |   |   |   | p(a)p(e)              | ͤ               |   |   |   |   | lat |   |   |   |        125-02 | 2:context |          |  |498|    |    |    |
+| p   |        |   |   |   |   | .                     | .               |   |   |   |   | lat |   |   |   |        125-02 | 2:context |          |  |498|    |    |    |
+| n   |        |   |   |   |   | viij                  | ỽııȷ            |   |   |   |   | lat |   |   |   |        125-02 | 2:context |          |  |498|    |    |    |
+| p   |        |   |   |   |   | .                     | .               |   |   |   |   | lat |   |   |   |        125-02 | 2:context |          |  |498|    |    |    |
 | PE  | e      | PavBon008  |   |   |   |                       |                 |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | litteras              | lıtter        |   |   |   |   | lat |   |   |   |        125-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | cu(m)                 | cu̅              |   |   |   |   | lat |   |   |   |        125-02 | 2:context |          |  |    |    |    |    |
@@ -121,7 +121,7 @@
 | w   |        |   |   |   |   | verba                 | ỽerb           |   |   |   |   | lat |   |   |   |        125-03 | 2:context |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                     | .               |   |   |   |   | lat |   |   |   |        125-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | PavBon008  |   |   |   |                       |                 |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Bonifaci(us)          | Bonífcıꝰ       |   |   |   |   | lat |   |   |   |        125-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Bonifaci(us)          | Bonífcıꝰ       |   |   |   |   | lat |   |   |   |        125-03 | 2:context |          |  |499|    |    |    |
 | PE  | e      | PavBon008  |   |   |   |                       |                 |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ep(iscopu)s           | ep̅             |   |   |   |   | lat |   |   |   |        125-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | s(er)uus              | uu            |   |   |   |   | lat |   |   |   |        125-03 | 2:context |          |  |    |    |    |    |
@@ -131,7 +131,7 @@
 | w   |        |   |   |   |   | fr(atr)i              | fr̅ı             |   |   |   |   | lat |   |   |   |        125-03 | 2:context |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                     | .               |   |   |   |   | lat |   |   |   |        125-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JenGra001  |   |   |   |                       |                 |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | I(ohanni)             | I               |   |   |   |   | lat |   |   |   |        125-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | I(ohanni)             | I               |   |   |   |   | lat |   |   |   |        125-03 | 2:context |          |  |500|    |    |    |
 | PE  | e      | JenGra001  |   |   |   |                       |                 |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                     | .               |   |   |   |   | lat |   |   |   |        125-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | archiep(iscop)o       | rchıep̅o        |   |   |   |   | lat |   |   |   |        125-03 | 2:context |          |  |    |    |    |    |
@@ -187,8 +187,8 @@
 | w   |        |   |   |   |   | felicis               | felıcı         |   |   |   |   | lat |   |   |   |        125-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | recordac(i)onis       | recoꝛdc̅oní    |   |   |   |   | lat |   |   |   |        125-05 | 2:context |          |  |    |    |    |    |
 | PE | b | PavAle004 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Alex(andrum)          | lexͫ            |   |   |   |   | lat |   |   |   |        125-05 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | p(a)p(a)m             | ᷓm              |   |   |   |   | lat |   |   |   |        125-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Alex(andrum)          | lexͫ            |   |   |   |   | lat |   |   |   |        125-05 | 2:context |          |  |501|    |    |    |
+| w   |        |   |   |   |   | p(a)p(a)m             | ᷓm              |   |   |   |   | lat |   |   |   |        125-05 | 2:context |          |  |501|    |    |    |
 | PE | e | PavAle004 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | quartu(m)             | qurtu̅          |   |   |   |   | lat |   |   |   |        125-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(re)decessore(m)     | p͛deceſſoꝛe̅      |   |   |   |   | lat |   |   |   |        125-05 | 2:context |          |  |    |    |    |    |
@@ -223,7 +223,7 @@
 | w   |        |   |   |   |   | p(ro)ponu(n)t         | onu̅t           |   |   |   |   | lat |   |   |   |        125-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | vt                    | ỽt              |   |   |   |   | lat |   |   |   |        125-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                       |                 |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Ass(er)is             | ſí           |   |   |   |   | lat |   |   |   |        125-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Ass(er)is             | ſí           |   |   |   |   | lat |   |   |   |        125-07 | 2:context |          |  |502|    |    |    |
 | PE  | e      |   |   |   |   |                       |                 |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ad                    | d              |   |   |   |   | lat |   |   |   |        125-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | obedienciam           | obedıencım     |   |   |   |   | lat |   |   |   |        125-07 | 2:context |          |  |    |    |    |    |

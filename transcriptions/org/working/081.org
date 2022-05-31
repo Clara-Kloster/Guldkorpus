@@ -49,9 +49,9 @@
 | w   |       |   |   |   |   | c(er)nentib(us)    | c͛nentıbꝰ        |   |   |   |   | lat |   |   |   |       81-01 | 1:protocol |          |  |    |    |    |    |
 | p   |       |   |   |   |   | .                  | .               |   |   |   |   | lat |   |   |   |       81-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b     | HerTho001  |   |   |   |                    |                 |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | herluht            | herluht         |   |   |   |   | lat |   |   |   |       81-01 | 1:protocol |          |  |    |    |    |    |
-| w   |       |   |   |   |   | thomæs             | thomæſ          |   |   |   |   | lat |   |   |   |       81-01 | 1:protocol |          |  |    |    |    |    |
-| w   |       |   |   |   |   | sun                | ſu             |   |   |   |   | lat |   |   |   |       81-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | herluht            | herluht         |   |   |   |   | lat |   |   |   |       81-01 | 1:protocol |          |  |358|    |    |    |
+| w   |       |   |   |   |   | thomæs             | thomæſ          |   |   |   |   | lat |   |   |   |       81-01 | 1:protocol |          |  |358|    |    |    |
+| w   |       |   |   |   |   | sun                | ſu             |   |   |   |   | lat |   |   |   |       81-01 | 1:protocol |          |  |358|    |    |    |
 | PE  | e     | HerTho001  |   |   |   |                    |                 |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | p   |       |   |   |   |   | .                  | .               |   |   |   |   | lat |   |   |   |       81-01 | 1:protocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | sal(ute)m          | al̅m            |   |   |   |   | lat |   |   |   |       81-01 | 1:protocol |          |  |    |    |    |    |
@@ -126,12 +126,12 @@
 | w   |       |   |   |   |   | p(ri)uigna         | p͛uígna          |   |   |   |   | lat |   |   |   |       81-05 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | mea                | me             |   |   |   |   | lat |   |   |   |       81-05 | 2:context |          |  |    |    |    |    |
 | PE  | b     | BodBos001  |   |   |   |                    |                 |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | botild             | botíld          |   |   |   |   | lat |   |   |   |       81-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | botild             | botíld          |   |   |   |   | lat |   |   |   |       81-05 | 2:context |          |  |359|    |    |    |
 | PE  | e     | BodBos001  |   |   |   |                    |                 |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | filia              | fılıa           |   |   |   |   | lat |   |   |   |       81-05 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | d(omi)nj           | dnȷ            |   |   |   |   | lat |   |   |   |       81-05 | 2:context |          |  |    |    |    |    |
 | PE  | b     | DnsBøs001  |   |   |   |                    |                 |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | bøsi               | bøſı            |   |   |   |   | lat |   |   |   |       81-05 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | bøsi               | bøſı            |   |   |   |   | lat |   |   |   |       81-05 | 2:context |          |  |360|    |    |    |
 | PE  | e     | DnsBøs001  |   |   |   |                    |                 |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | bone               | bone            |   |   |   |   | lat |   |   |   |       81-05 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | memorie            | memorıe         |   |   |   |   | lat |   |   |   |       81-05 | 2:context |          |  |    |    |    |    |
@@ -159,7 +159,7 @@
 | w   |       |   |   |   |   | pat(ri)moniu(m)    | patmoníu̅       |   |   |   |   | lat |   |   |   |       81-07 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | dicte              | dıe            |   |   |   |   | lat |   |   |   |       81-07 | 2:context |          |  |    |    |    |    |
 | PE  | b     | BodBos001  |   |   |   |                    |                 |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | botildis           | botıldı        |   |   |   |   | lat |   |   |   |       81-07 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | botildis           | botıldı        |   |   |   |   | lat |   |   |   |       81-07 | 2:context |          |  |361|    |    |    |
 | PE  | e     | BodBos001  |   |   |   |                    |                 |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | (et)               |                |   |   |   |   | lat |   |   |   |       81-07 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | mat(ri)moniu(m)    | matmoníu      |   |   |   |   | lat |   |   |   |       81-07 | 2:context |          |  |    |    |    |    |
@@ -183,17 +183,17 @@
 | p   |       |   |   |   |   | .                  | .               |   |   |   |   | lat |   |   |   |       81-08 | 3:eschatocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | domicelli          | domícellı       |   |   |   |   | lat |   |   |   |       81-08 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b     | EriKnu001  |   |   |   |                    |                 |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Ericj              | rıcȷ           |   |   |   |   | lat |   |   |   |       81-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Ericj              | rıcȷ           |   |   |   |   | lat |   |   |   |       81-08 | 3:eschatocol |          |  |362|    |    |    |
 | PE  | e     | EriKnu001  |   |   |   |                    |                 |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | p   |       |   |   |   |   | .                  | .               |   |   |   |   | lat |   |   |   |       81-08 | 3:eschatocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | domicelli          | domícellı       |   |   |   |   | lat |   |   |   |       81-08 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b     | JakNie002  |   |   |   |                    |                 |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Jacobj             | Jacobȷ          |   |   |   |   | lat |   |   |   |       81-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Jacobj             | Jacobȷ          |   |   |   |   | lat |   |   |   |       81-08 | 3:eschatocol |          |  |363|    |    |    |
 | PE  | e     | JakNie002  |   |   |   |                    |                 |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | lm  | 81-09 |   |   |   |   |                    |                 |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | d(omi)nj           | dn̅ȷ             |   |   |   |   | lat |   |   |   |       81-09 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b     | MorTho001  |   |   |   |                    |                 |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Martinj            | artínȷ         |   |   |   |   | lat |   |   |   |       81-09 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Martinj            | artínȷ         |   |   |   |   | lat |   |   |   |       81-09 | 3:eschatocol |          |  |364|    |    |    |
 | PE  | e     | MorTho001  |   |   |   |                    |                 |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | fr(atr)is          | fr͛ı            |   |   |   |   | lat |   |   |   |       81-09 | 3:eschatocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | mej                | meȷ             |   |   |   |   | lat |   |   |   |       81-09 | 3:eschatocol |          |  |    |    |    |    |

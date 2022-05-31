@@ -53,14 +53,14 @@ udateret
 | w   |       |   |   |   |   | Audituris       | uꝺıtuɼís   |   |   |   |   | lat |   |   |   | 32-01 | 1:protocol |          |  |    |    |    |    |
 | p   |       |   |   |   |   | /               | /           |   |   |   |   | lat |   |   |   | 32-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b     | IngReg001  |   |   |   |                 |             |   |   |   |   |     |   |   |   |       |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Jngerth         | Jngeɼth     |   |   |   |   | lat |   |   |   | 32-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Jngerth         | Jngeɼth     |   |   |   |   | lat |   |   |   | 32-01 | 1:protocol |          |  |122|    |    |    |
 | PE  | e     | IngReg001  |   |   |   |                 |             |   |   |   |   |     |   |   |   |       |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   |                 |             |   |   |   |   | lat |   |   |   | 32-01 |          |          |  |    |    |    |    |
 | lm  | 32-02 |   |   |   |   |                 |             |   |   |   |   |     |   |   |   |       |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | Relicta         | Relıa      |   |   |   |   | lat |   |   |   | 32-02 | 1:protocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | Comitis         | Comıtıs     |   |   |   |   | lat |   |   |   | 32-02 | 1:protocol |          |  |    |    |    |    |
 | PE  | b     | KonReg001  |   |   |   |                 |             |   |   |   |   |     |   |   |   |       |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Conradj         | Conɼaꝺȷ     |   |   |   |   | lat |   |   |   | 32-02 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Conradj         | Conɼaꝺȷ     |   |   |   |   | lat |   |   |   | 32-02 | 1:protocol |          |  |123|    |    |    |
 | PE  | e     | KonReg001  |   |   |   |                 |             |   |   |   |   |     |   |   |   |       |          |          |  |    |    |    |    |
 | p   |       |   |   |   |   | /               | /           |   |   |   |   | lat |   |   |   | 32-02 | 1:protocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | de              | ꝺe          |   |   |   |   | lat |   |   |   | 32-02 | 1:protocol |          |  |    |    |    |    |
@@ -81,7 +81,7 @@ udateret
 | p   |       |   |   |   |   | /               | /           |   |   |   |   | lat |   |   |   | 32-03 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | D(omi)n(u)m     | Dn̅         |   |   |   |   | lat |   |   |   | 32-03 | 2:context |          |  |    |    |    |    |
 | PE  | b     | PedSkj001  |   |   |   |                 |             |   |   |   |   |     |   |   |   |       |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | P(etrum)        | .P.         |   |   |   |   | lat |   |   |   | 32-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | P(etrum)        | .P.         |   |   |   |   | lat |   |   |   | 32-03 | 2:context |          |  |124|    |    |    |
 | PE  | e     | PedSkj001  |   |   |   |                 |             |   |   |   |   |     |   |   |   |       |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | ep(iscopu)m     | ep̅         |   |   |   |   | lat |   |   |   | 32-03 | 2:context |          |  |    |    |    |    |
 | PL  | b     |   |   |   |   |                 |             |   |   |   |   |     |   |   |   |       |          |          |  |    |    |    |    |
@@ -92,7 +92,7 @@ udateret
 | w   |       |   |   |   |   | p(re)sentia     | p͛ſentı     |   |   |   |   | lat |   |   |   | 32-03 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | d(omi)ni        | ꝺn͛ı         |   |   |   |   | lat |   |   |   | 32-03 | 2:context |          |  |    |    |    |    |
 | PE  | b     | RexKri001  |   |   |   |                 |             |   |   |   |   |     |   |   |   |       |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | C(ristofori)    | .C.         |   |   |   |   | lat |   |   |   | 32-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | C(ristofori)    | .C.         |   |   |   |   | lat |   |   |   | 32-03 | 2:context |          |  |125|    |    |    |
 | PE  | e     | RexKri001  |   |   |   |                 |             |   |   |   |   |     |   |   |   |       |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | Regis           | Regıs       |   |   |   |   | lat |   |   |   | 32-03 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | danor(um)       | ꝺnoꝝ       |   |   |   |   | lat |   |   |   | 32-03 | 2:context |          |  |    |    |    |    |

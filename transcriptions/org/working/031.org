@@ -44,7 +44,7 @@
 | lm  | 31-01 |   |   |   |   |                  |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | d  | b     | 1  |   | protocol  |   |                  |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | PE  | b     |   |   |   |   |                  |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | P(etrus)         | P             |   |   |   |   | lat |   |   |   |       31-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | P(etrus)         | P             |   |   |   |   | lat |   |   |   |       31-01 | 1:protocol |          |  |119|    |    |    |
 | PE  | e     |   |   |   |   |                  |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | p   |       |   |   |   |   | .                | .             |   |   |   |   | lat |   |   |   |       31-01 | 1:protocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | dei              | ꝺeı           |   |   |   |   | lat |   |   |   |       31-01 | 1:protocol |          |  |    |    |    |    |
@@ -95,9 +95,9 @@
 | w   |       |   |   |   |   | vir              | ỽír           |   |   |   |   | lat |   |   |   |       31-03 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | nobilis          | nobílís       |   |   |   |   | lat |   |   |   |       31-03 | 2:context |          |  |    |    |    |    |
 | PE  | b     | JakSun001  |   |   |   |                  |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Jacobus          | Jacobuſ       |   |   |   |   | lat |   |   |   |       31-03 | 2:context |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Sunonis          | Sunonıſ       |   |   |   |   | lat |   |   |   |       31-03 | 2:context |          |  |    |    |    |    |
-| w   |       |   |   |   |   | filius           | fílíuſ        |   |   |   |   | lat |   |   |   |       31-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Jacobus          | Jacobuſ       |   |   |   |   | lat |   |   |   |       31-03 | 2:context |          |  |120|    |    |    |
+| w   |       |   |   |   |   | Sunonis          | Sunonıſ       |   |   |   |   | lat |   |   |   |       31-03 | 2:context |          |  |120|    |    |    |
+| w   |       |   |   |   |   | filius           | fílíuſ        |   |   |   |   | lat |   |   |   |       31-03 | 2:context |          |  |120|    |    |    |
 | PE  | e     | JakSun001  |   |   |   |                  |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | pie              | píe           |   |   |   |   | lat |   |   |   |       31-03 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | memo¦rie         | memo-¦ríe     |   |   |   |   | lat |   |   |   | 31-03—31-04 | 2:context |          |  |    |    |    |    |
@@ -173,8 +173,8 @@
 | w   |       |   |   |   |   | d(omi)no         | ꝺno          |   |   |   |   | lat |   |   |   |       31-08 | 2:context |          |  |    |    |    |    |
 | lm  | 31-09 |   |   |   |   |                  |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | PE  | b     | PedØde001  |   |   |   |                  |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Petro            | Petro         |   |   |   |   | lat |   |   |   |       31-09 | 2:context |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Øthn(e)sun       | Øthnſun      |   |   |   |   | dan |   |   |   |       31-09 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Petro            | Petro         |   |   |   |   | lat |   |   |   |       31-09 | 2:context |          |  |121|    |    |    |
+| w   |       |   |   |   |   | Øthn(e)sun       | Øthnſun      |   |   |   |   | dan |   |   |   |       31-09 | 2:context |          |  |121|    |    |    |
 | PE  | e     | PedØde001  |   |   |   |                  |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | ipsi(us)         | ípſıꝰ         |   |   |   |   | lat |   |   |   |       31-09 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | q(uo)nda(m)      | qͦnꝺa         |   |   |   |   | lat |   |   |   |       31-09 | 2:context |          |  |    |    |    |    |

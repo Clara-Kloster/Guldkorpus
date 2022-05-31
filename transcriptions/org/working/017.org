@@ -49,16 +49,16 @@ udateret
 | w   |       |   |   |   |   | inspecturis     | ınſpeurıſ |   |   |   |   | lat |   |   |   |       17-01 | 1:protocol |          |  |    |    |    |    |
 | p   |       |   |   |   |   | .               | .          |   |   |   |   | lat |   |   |   |       17-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b     | IngReg001  |   |   |   |                 |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | J.              | J.         |   |   |   |   | lat |   |   |   |       17-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | J.              | J.         |   |   |   |   | lat |   |   |   |       17-01 | 1:protocol |          |  |19|    |    |    |
 | PE  | e     | IngReg001  |   |   |   |                 |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | Relicta         | Relia     |   |   |   |   | lat |   |   |   |       17-01 | 1:protocol |          |  |    |    |    |    |
 | p   |       |   |   |   |   | .               | .          |   |   |   |   | lat |   |   |   |       17-01 | 1:protocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | comitis         | comıtıſ    |   |   |   |   | lat |   |   |   |       17-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b     | KonReg001  |   |   |   |                 |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | conradi         | conradı    |   |   |   |   | lat |   |   |   |       17-01 | 1:protocol |          |  |    |    |    |    |
-| w   |       |   |   |   |   | de              | de         |   |   |   |   | lat |   |   |   |       17-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | conradi         | conradı    |   |   |   |   | lat |   |   |   |       17-01 | 1:protocol |          |  |20|    |    |    |
+| w   |       |   |   |   |   | de              | de         |   |   |   |   | lat |   |   |   |       17-01 | 1:protocol |          |  |20|    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Regensten       | Regenﬅe   |   |   |   |   | lat |   |   |   |       17-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Regensten       | Regenﬅe   |   |   |   |   | lat |   |   |   |       17-01 | 1:protocol |          |  |20|    |    |    |
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | e     | KonReg001  |   |   |   |                 |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | p   |       |   |   |   |   | .               | .          |   |   |   |   | lat |   |   |   |       17-01 | 1:protocol |          |  |    |    |    |    |
@@ -89,7 +89,7 @@ udateret
 | w   |       |   |   |   |   | p(ro)tect(i)one | ꝓteo̅ne    |   |   |   |   | lat |   |   |   |       17-03 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | d(omi)nj        | dn̅ȷ        |   |   |   |   | lat |   |   |   |       17-03 | 2:context |          |  |    |    |    |    |
 | PE  | b     | PedSkj001  |   |   |   |                 |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | pet(ri)         | pet       |   |   |   |   | lat |   |   |   |       17-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | pet(ri)         | pet       |   |   |   |   | lat |   |   |   |       17-03 | 2:context |          |  |21|    |    |    |
 | PE  | e     | PedSkj001  |   |   |   |                 |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | Ep(iscop)i      | Ep̅ı        |   |   |   |   | lat |   |   |   |       17-03 | 2:context |          |  |    |    |    |    |
 | PL  | b     |   |   |   |   |                 |            |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |

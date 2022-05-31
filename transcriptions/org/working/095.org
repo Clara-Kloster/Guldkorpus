@@ -49,9 +49,9 @@
 | p   |       |   |   |   |   | .                | .            |   |   |   |   | lat |   |   |   |       95-01 | 1:protocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | c(er)nentib(us)  | ᴄ͛nentıbꝫ     |   |   |   |   | lat |   |   |   |       95-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b     | NieMat001  |   |   |   |                  |              |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Nicholaus        | Nıcholus    |   |   |   |   | lat |   |   |   |       95-01 | 1:protocol |          |  |    |    |    |    |
-| w   |       |   |   |   |   | mathes           | mthes       |   |   |   |   | lat |   |   |   |       95-01 | 1:protocol |          |  |    |    |    |    |
-| w   |       |   |   |   |   | sun              | su          |   |   |   |   | lat |   |   |   |       95-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Nicholaus        | Nıcholus    |   |   |   |   | lat |   |   |   |       95-01 | 1:protocol |          |  |381|    |    |    |
+| w   |       |   |   |   |   | mathes           | mthes       |   |   |   |   | lat |   |   |   |       95-01 | 1:protocol |          |  |381|    |    |    |
+| w   |       |   |   |   |   | sun              | su          |   |   |   |   | lat |   |   |   |       95-01 | 1:protocol |          |  |381|    |    |    |
 | PE  | e     | NieMat001  |   |   |   |                  |              |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | p   |       |   |   |   |   | .                | .            |   |   |   |   | lat |   |   |   |       95-01 | 1:protocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | de               | ꝺe           |   |   |   |   | lat |   |   |   |       95-01 | 1:protocol |          |  |    |    |    |    |
@@ -89,9 +89,9 @@
 | w   |       |   |   |   |   | quas             | qus         |   |   |   |   | lat |   |   |   |       95-03 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | de               | ꝺe           |   |   |   |   | lat |   |   |   |       95-03 | 2:context |          |  |    |    |    |    |
 | PE  | b     | EsbJen001  |   |   |   |                  |              |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Esberno          | ſberno      |   |   |   |   | lat |   |   |   |       95-03 | 2:context |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Jonæs            | Jonæs        |   |   |   |   | lat |   |   |   |       95-03 | 2:context |          |  |    |    |    |    |
-| w   |       |   |   |   |   | s(un)            | .           |   |   |   |   | lat |   |   |   |       95-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Esberno          | ſberno      |   |   |   |   | lat |   |   |   |       95-03 | 2:context |          |  |382|    |    |    |
+| w   |       |   |   |   |   | Jonæs            | Jonæs        |   |   |   |   | lat |   |   |   |       95-03 | 2:context |          |  |382|    |    |    |
+| w   |       |   |   |   |   | s(un)            | .           |   |   |   |   | lat |   |   |   |       95-03 | 2:context |          |  |382|    |    |    |
 | PE  | e     | EsbJen001  |   |   |   |                  |              |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | de               | ꝺe           |   |   |   |   | lat |   |   |   |       95-03 | 2:context |          |  |    |    |    |    |
 | PL  | b     |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
@@ -151,15 +151,15 @@
 | w   |       |   |   |   |   | viror(um)        | ỽíroꝝ        |   |   |   |   | lat |   |   |   |       95-06 | 3:eschatocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | videlicet        | ỽıꝺelícet    |   |   |   |   | lat |   |   |   |       95-06 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b     | NieHer001  |   |   |   |                  |              |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Nicholai         | Nícholí     |   |   |   |   | lat |   |   |   |       95-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Nicholai         | Nícholí     |   |   |   |   | lat |   |   |   |       95-06 | 3:eschatocol |          |  |383|    |    |    |
 | lm  | 95-07 |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | h(er)man         | h͛mn         |   |   |   |   | lat |   |   |   |       95-07 | 3:eschatocol |          |  |    |    |    |    |
-| w   |       |   |   |   |   | s(un)            |             |   |   |   |   | lat |   |   |   |       95-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | h(er)man         | h͛mn         |   |   |   |   | lat |   |   |   |       95-07 | 3:eschatocol |          |  |383|    |    |    |
+| w   |       |   |   |   |   | s(un)            |             |   |   |   |   | lat |   |   |   |       95-07 | 3:eschatocol |          |  |383|    |    |    |
 | PE  | e     | NieHer001  |   |   |   |                  |              |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | PE  | b     | MadOdb001  |   |   |   |                  |              |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | mathei           | theí       |   |   |   |   | lat |   |   |   |       95-07 | 3:eschatocol |          |  |    |    |    |    |
-| w   |       |   |   |   |   | odbrict          | oꝺbrı       |   |   |   |   | lat |   |   |   |       95-07 | 3:eschatocol |          |  |    |    |    |    |
-| w   |       |   |   |   |   | sun              | sun          |   |   |   |   | lat |   |   |   |       95-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | mathei           | theí       |   |   |   |   | lat |   |   |   |       95-07 | 3:eschatocol |          |  |384|    |    |    |
+| w   |       |   |   |   |   | odbrict          | oꝺbrı       |   |   |   |   | lat |   |   |   |       95-07 | 3:eschatocol |          |  |384|    |    |    |
+| w   |       |   |   |   |   | sun              | sun          |   |   |   |   | lat |   |   |   |       95-07 | 3:eschatocol |          |  |384|    |    |    |
 | PE  | e     | MadOdb001  |   |   |   |                  |              |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | p   |       |   |   |   |   | .                | .            |   |   |   |   | lat |   |   |   |       95-07 | 3:eschatocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | Ciuiu(m)         | Cíuíu̅        |   |   |   |   | lat |   |   |   |       95-07 | 3:eschatocol |          |  |    |    |    |    |

@@ -49,8 +49,8 @@ senere til Clara kl.?
 | w   |        |   |   |   |   | c(er)nentib(us)        | cnentíbꝫ     |   |   |   |   | lat |   |   |   |        266-01 | 1:protocol |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                      | .             |   |   |   |   | lat |   |   |   |        266-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | NiePed004  |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Nicholaus              | Nıcholau     |   |   |   |   | lat |   |   |   |        266-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | pæt(er)ss(un)          | pæt        |   |   |   |   | lat |   |   |   |        266-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Nicholaus              | Nıcholau     |   |   |   |   | lat |   |   |   |        266-01 | 1:protocol |          |  |1102|    |    |    |
+| w   |        |   |   |   |   | pæt(er)ss(un)          | pæt        |   |   |   |   | lat |   |   |   |        266-01 | 1:protocol |          |  |1102|    |    |    |
 | PE  | e      | NiePed004  |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | De                     | De            |   |   |   |   | lat |   |   |   |        266-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -68,8 +68,8 @@ senere til Clara kl.?
 | w   |        |   |   |   |   | viro                   | víro          |   |   |   |   | lat |   |   |   |        266-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | honesto                | honeﬅo        |   |   |   |   | lat |   |   |   |        266-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JenHen001  |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | iohanni                | ıohanní       |   |   |   |   | lat |   |   |   |        266-02 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | hæ(n)ni¦kes(un)        | hæ̅ní¦ke      |   |   |   |   | lat |   |   |   | 266-02—266-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | iohanni                | ıohanní       |   |   |   |   | lat |   |   |   |        266-02 | 2:context |          |  |1103|    |    |    |
+| w   |        |   |   |   |   | hæ(n)ni¦kes(un)        | hæ̅ní¦ke      |   |   |   |   | lat |   |   |   | 266-02—266-03 | 2:context |          |  |1103|    |    |    |
 | PE  | e      | JenHen001  |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(rese)nc(ium)         | pn̅           |   |   |   |   | lat |   |   |   |        266-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | exhibit(ori)           | exhıbít      |   |   |   |   | lat |   |   |   |        266-03 | 2:context |          |  |    |    |    |    |
@@ -169,7 +169,7 @@ senere til Clara kl.?
 | w   |        |   |   |   |   | ab                     | ab            |   |   |   |   | lat |   |   |   |        266-09 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ip(s)o                 | ıp̅o           |   |   |   |   | lat |   |   |   |        266-09 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JenHen001  |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Io¦hanne               | Io¦hanne      |   |   |   |   | lat |   |   |   | 266-09—266-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Io¦hanne               | Io¦hanne      |   |   |   |   | lat |   |   |   | 266-09—266-10 | 2:context |          |  |1104|    |    |    |
 | PE  | e      | JenHen001  |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(ro)pt(er)            | t           |   |   |   |   | lat |   |   |   |        266-10 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | def(e)c(tu)m           | defc̅         |   |   |   |   | lat |   |   |   |        266-10 | 2:context |          |  |    |    |    |    |
@@ -224,30 +224,30 @@ senere til Clara kl.?
 | w   |        |   |   |   |   | amicor(um)             | mícoꝝ        |   |   |   |   | lat |   |   |   |        266-14 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | meor(um)               | meoꝝ          |   |   |   |   | lat |   |   |   |        266-14 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | BodJos001  |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | botulphi               | botulphı      |   |   |   |   | lat |   |   |   |        266-14 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | skytte                 | ſkẏtte        |   |   |   |   | lat |   |   |   |        266-14 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | botulphi               | botulphı      |   |   |   |   | lat |   |   |   |        266-14 | 3:eschatocol |          |  |1105|    |    |    |
+| w   |        |   |   |   |   | skytte                 | ſkẏtte        |   |   |   |   | lat |   |   |   |        266-14 | 3:eschatocol |          |  |1105|    |    |    |
 | PE  | e      | BodJos001  |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                      | .             |   |   |   |   | lat |   |   |   |        266-14 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | HenIsu001  |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | henrici                | henrící       |   |   |   |   | lat |   |   |   |        266-14 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ysylfs(un)             | yſẏlf        |   |   |   |   | lat |   |   |   |        266-14 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | henrici                | henrící       |   |   |   |   | lat |   |   |   |        266-14 | 3:eschatocol |          |  |1106|    |    |    |
+| w   |        |   |   |   |   | ysylfs(un)             | yſẏlf        |   |   |   |   | lat |   |   |   |        266-14 | 3:eschatocol |          |  |1106|    |    |    |
 | PE  | e      | HenIsu001  |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                      | .             |   |   |   |   | lat |   |   |   |        266-14 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | EriNie002  |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Erici                  | rící         |   |   |   |   | lat |   |   |   |        266-14 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicliss(un)            | nıclıſ       |   |   |   |   | lat |   |   |   |        266-14 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Erici                  | rící         |   |   |   |   | lat |   |   |   |        266-14 | 3:eschatocol |          |  |1107|    |    |    |
+| w   |        |   |   |   |   | nicliss(un)            | nıclıſ       |   |   |   |   | lat |   |   |   |        266-14 | 3:eschatocol |          |  |1107|    |    |    |
 | PE  | e      | EriNie002  |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                      | .             |   |   |   |   | lat |   |   |   |        266-14 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | JonIsx001  |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Io¦ne                  | Io¦ne         |   |   |   |   | lat |   |   |   | 266-14—266-15 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ijs                    | ij           |   |   |   |   | lat |   |   |   |        266-15 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Io¦ne                  | Io¦ne         |   |   |   |   | lat |   |   |   | 266-14—266-15 | 3:eschatocol |          |  |1108|    |    |    |
+| w   |        |   |   |   |   | ijs                    | ij           |   |   |   |   | lat |   |   |   |        266-15 | 3:eschatocol |          |  |1108|    |    |    |
 | PE  | e      | JonIsx001  |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                      | .             |   |   |   |   | lat |   |   |   |        266-15 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (et)                   |              |   |   |   |   | lat |   |   |   |        266-15 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | BodÅge001  |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | botulphi               | botulphí      |   |   |   |   | lat |   |   |   |        266-15 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | botulphi               | botulphí      |   |   |   |   | lat |   |   |   |        266-15 | 3:eschatocol |          |  |1109|    |    |    |
 | de  | x      |   |   |   |   |                        | erasure       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | a⸠s⸡ve                | a⸠ſ⸡ves(un)   |   |   |   |   | lat |   |   |   |        266-15 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | a⸠s⸡ve                | a⸠ſ⸡ves(un)   |   |   |   |   | lat |   |   |   |        266-15 | 3:eschatocol |          |  |1109|    |    |    |
 | PE  | e      | BodÅge001  |   |   |   |                        |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | in                     | ín            |   |   |   |   | lat |   |   |   |        266-15 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | maiore(m)              | maioꝛe̅        |   |   |   |   | lat |   |   |   |        266-15 | 3:eschatocol |          |  |    |    |    |    |

@@ -54,8 +54,8 @@
 | w   |   | læse          | xVB | læse          |   | læsse                 | læſſe           |   |   |   |   | dan |   |   |   | 422-01 | 1:protocol |          |  |    |    |    |    |
 | w   |   | jak           | xPE | jeg           |   | iach                  | ıach            |   |   |   |   | dan |   |   |   | 422-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b | NiePed008     |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |   |               | xNP | Niels         |   | niels                 | niel           |   |   |   |   | dan |   |   |   | 422-01 | 1:protocol |          |  |    |    |    |    |
-| w   |   |               | xNP | Høg           |   | høg                   | høg             |   |   |   |   | dan |   |   |   | 422-01 | 1:protocol |          |  |    |    |    |    |
+| w   |   |               | xNP | Niels         |   | niels                 | niel           |   |   |   |   | dan |   |   |   | 422-01 | 1:protocol |          |  |1975|    |    |    |
+| w   |   |               | xNP | Høg           |   | høg                   | høg             |   |   |   |   | dan |   |   |   | 422-01 | 1:protocol |          |  |1975|    |    |    |
 | PE  | e | NiePed008     |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |   | riddere       | xNC | riddere       |   | Ridde(re)             | Rıdde          |   |   |   |   | dan |   |   |   | 422-01 | 1:protocol |          |  |    |    |    |    |
 | w   |   | gøre          | xVB | gør           |   | gør                   | gøꝛ             |   |   |   |   | dan |   |   |   | 422-01 | 1:protocol |          |  |    |    |    |    |
@@ -81,14 +81,14 @@
 | w   |   | kone          | xNC | kvinde        |   | qui(n)ne              | quı̅ne           |   |   |   |   | dan |   |   |   | 422-02 | 2:context |          |  |    |    |    |    |
 | w   |   | fru           | xNC | fru           |   | ff(rv)                | ffͮ              |   |   |   |   | dan |   |   |   | 422-02 | 2:context |          |  |    |    |    |    |
 | PE  | b | AnnAnd002     |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |   |               | xNP | Anne          |   | anne                  | anne            |   |   |   |   | dan |   |   |   | 422-02 | 2:context |          |  |    |    |    |    |
-| w   |   |               | xNP | Anders        |   | and(er)s              | and           |   |   |   |   | dan |   |   |   | 422-02 | 2:context |          |  |    |    |    |    |
-| w   |   | dotter        | xNC | datter        |   | datth(er)             | datth          |   |   |   |   | dan |   |   |   | 422-02 | 2:context |          |  |    |    |    |    |
+| w   |   |               | xNP | Anne          |   | anne                  | anne            |   |   |   |   | dan |   |   |   | 422-02 | 2:context |          |  |1976|    |    |    |
+| w   |   |               | xNP | Anders        |   | and(er)s              | and           |   |   |   |   | dan |   |   |   | 422-02 | 2:context |          |  |1976|    |    |    |
+| w   |   | dotter        | xNC | datter        |   | datth(er)             | datth          |   |   |   |   | dan |   |   |   | 422-02 | 2:context |          |  |1976|    |    |    |
 | PE  | e | AnnAnd002     |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |   | hærre         | xNC | hr.            |   | h(er)                 | h̅               |   |   |   |   | dan |   |   |   | 422-02 | 2:context |          |  |    |    |    |    |
 | PE  | b | JenDue001     |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |   |               | xNP | Jens          |   | jens                  | ȷen            |   |   |   |   | dan |   |   |   | 422-02 | 2:context |          |  |    |    |    |    |
-| w   |   |               | xNP | Dues          |   | dwess                 | dweſſ           |   |   |   |   | dan |   |   |   | 422-02 | 2:context |          |  |    |    |    |    |
+| w   |   |               | xNP | Jens          |   | jens                  | ȷen            |   |   |   |   | dan |   |   |   | 422-02 | 2:context |          |  |1977|    |    |    |
+| w   |   |               | xNP | Dues          |   | dwess                 | dweſſ           |   |   |   |   | dan |   |   |   | 422-02 | 2:context |          |  |1977|    |    |    |
 | PE  | e | JenDue001     |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |   | æfterliverske | xNC | efterleverske |   | effth(er)løffu(er)ske | effthløffuſke |   |   |   |   | dan |   |   |   | 422-02 | 2:context |          |  |    |    |    |    |
 | w   |   | min           | xDP | min           |   | my(n)                 | my̅              |   |   |   |   | dan |   |   |   | 422-02 | 2:context |          |  |    |    |    |    |
@@ -96,9 +96,9 @@
 | w   |   | husfrue       | xNC | hustru        |   | hust(rv)              | huſtͮ            |   |   |   |   | dan |   |   |   | 422-02 | 2:context |          |  |    |    |    |    |
 | lm  |   |               |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | PE  | b | KatSte001     |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |   |               | xNP | Katrine       |   | ka(ri)ne              | kane           |   |   |   |   | dan |   |   |   | 422-03 | 2:context |          |  |    |    |    |    |
-| w   |   |               | xNP | Stens         |   | Stens                 | ten           |   |   |   |   | dan |   |   |   | 422-03 | 2:context |          |  |    |    |    |    |
-| w   |   | dotter        | xNC | datter        |   | dotthr(er)            | dotthꝛ         |   |   |   |   | dan |   |   |   | 422-03 | 2:context |          |  |    |    |    |    |
+| w   |   |               | xNP | Katrine       |   | ka(ri)ne              | kane           |   |   |   |   | dan |   |   |   | 422-03 | 2:context |          |  |1978|    |    |    |
+| w   |   |               | xNP | Stens         |   | Stens                 | ten           |   |   |   |   | dan |   |   |   | 422-03 | 2:context |          |  |1978|    |    |    |
+| w   |   | dotter        | xNC | datter        |   | dotthr(er)            | dotthꝛ         |   |   |   |   | dan |   |   |   | 422-03 | 2:context |          |  |1978|    |    |    |
 | PE  | e | KatSte001     |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |   | ok            | xCC | og            |   | och                   | och             |   |   |   |   | dan |   |   |   | 422-03 | 2:context |          |  |    |    |    |    |
 | w   |   | hun           | xPE | hendes        |   | he(n)nis              | he̅ni           |   |   |   |   | dan |   |   |   | 422-03 | 2:context |          |  |    |    |    |    |
@@ -107,7 +107,7 @@
 | w   |   | fornævnd      | xAJ | fornævnte     |   | for(nefnde)           | foꝛͩͤ             |   |   |   |   | dan |   |   |   | 422-03 | 2:context |          |  |    |    |    |    |
 | w   |   | fru           | xNC | fru           |   | ff(rv)                | ffͮ              |   |   |   |   | dan |   |   |   | 422-03 | 2:context |          |  |    |    |    |    |
 | PE  | b | AnnAnd002     |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |   |               | xNP | Annes         |   | a(n)nes               | a̅ne            |   |   |   |   | dan |   |   |   | 422-03 | 2:context |          |  |    |    |    |    |
+| w   |   |               | xNP | Annes         |   | a(n)nes               | a̅ne            |   |   |   |   | dan |   |   |   | 422-03 | 2:context |          |  |1979|    |    |    |
 | PE  | e | AnnAnd002     |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |   | brotherbarn   | xNC | brodersøn     |   | brodh(er)børn         | brodhbøꝛ      |   |   |   |   | dan |   |   |   | 422-03 | 2:context |          |  |    |    |    |    |
 | w   |   | være          | xVB | ere           |   | er(e)                 | er             |   |   |   |   | dan |   |   |   | 422-03 | 2:context |          |  |    |    |    |    |
@@ -136,7 +136,7 @@
 | w   |   | fornævnd      | xAJ | fornævnte     |   | for(nefnde)           | foꝛᷠͤ             |   |   |   |   | dan |   |   |   | 422-04 | 2:context |          |  |    |    |    |    |
 | w   |   | fru           | xNC | fru           |   | ff(rv)                | ffͮ              |   |   |   |   | dan |   |   |   | 422-04 | 2:context |          |  |    |    |    |    |
 | PE  | b | AnnAnd002     |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |   |               | xNP | Annes         |   | a(n)nes               | a̅ne            |   |   |   |   | dan |   |   |   | 422-04 | 2:context |          |  |    |    |    |    |
+| w   |   |               | xNP | Annes         |   | a(n)nes               | a̅ne            |   |   |   |   | dan |   |   |   | 422-04 | 2:context |          |  |1980|    |    |    |
 | PE  | e | AnnAnd002     |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |   | brotherbarn   | xNC | broderbørn    |   | brodh(er)børn         | brodhbøꝛ      |   |   |   |   | dan |   |   |   | 422-04 | 2:context |          |  |    |    |    |    |
 | w   |   | at            | xIM | at            |   | at                    | at              |   |   |   |   | dan |   |   |   | 422-04 | 2:context |          |  |    |    |    |    |
@@ -145,7 +145,7 @@
 | lm  |   |               |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |   | fru           | xNC | fru           |   | ff(rv)                | ffͮ              |   |   |   |   | dan |   |   |   | 422-05 | 2:context |          |  |    |    |    |    |
 | PE  | b | AnnAnd002     |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |   |               | xNP | Anne          |   | anne                  | anne            |   |   |   |   | dan |   |   |   | 422-05 | 2:context |          |  |    |    |    |    |
+| w   |   |               | xNP | Anne          |   | anne                  | anne            |   |   |   |   | dan |   |   |   | 422-05 | 2:context |          |  |1981|    |    |    |
 | PE  | e | AnnAnd002     |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |   | til           | xAP | til           |   | till                  | tıll            |   |   |   |   | dan |   |   |   | 422-05 | 2:context |          |  |    |    |    |    |
 | w   |   | vilje         | xNC | vilje         |   | vilye                 | vilye           |   |   |   |   | dan |   |   |   | 422-05 | 2:context |          |  |    |    |    |    |
@@ -173,7 +173,7 @@
 | w   |   | fornævnd      | xAJ | fornævnte     |   | for(nefnde)           | foꝛͩͤ             |   |   |   |   | dan |   |   |   | 422-06 | 2:context |          |  |    |    |    |    |
 | w   |   | fru           | xNC | fru           |   | ff(rv)                | ffͮ              |   |   |   |   | dan |   |   |   | 422-06 | 2:context |          |  |    |    |    |    |
 | PE  | b | AnnAnd002     |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |   |               | xNP | Anne          |   | anne                  | anne            |   |   |   |   | dan |   |   |   | 422-06 | 2:context |          |  |    |    |    |    |
+| w   |   |               | xNP | Anne          |   | anne                  | anne            |   |   |   |   | dan |   |   |   | 422-06 | 2:context |          |  |1982|    |    |    |
 | PE  | e | AnnAnd002     |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |   | live          | xVB | lever         |   | leffuer               | leffuer         |   |   |   |   | dan |   |   |   | 422-06 | 2:context |          |  |    |    |    |    |
 | w   |   | noker         | xDD | nogre         |   | naghr(e)              | naghꝛ          |   |   |   |   | dan |   |   |   | 422-06 | 2:context |          |  |    |    |    |    |
@@ -285,8 +285,8 @@
 | w   |   | guth          | xNC | Gud           |   | gud                   | gud             |   |   |   |   | dan |   |   |   | 422-10 | 3:eschatocol |          |  |    |    |    |    |
 | w   |   | hærre         | xNC | hr.            |   | h(er)                 | h̅               |   |   |   |   | dan |   |   |   | 422-10 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b | JenBro001     |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |   |               | xNP | Jens          |   | iens                  | ıen            |   |   |   |   | dan |   |   |   | 422-10 | 3:eschatocol |          |  |    |    |    |    |
-| w   |   |               | xNP | Bostrup       |   | bostorp               | boſtoꝛp         |   |   |   |   | dan |   |   |   | 422-10 | 3:eschatocol |          |  |    |    |    |    |
+| w   |   |               | xNP | Jens          |   | iens                  | ıen            |   |   |   |   | dan |   |   |   | 422-10 | 3:eschatocol |          |  |1983|    |    |    |
+| w   |   |               | xNP | Bostrup       |   | bostorp               | boſtoꝛp         |   |   |   |   | dan |   |   |   | 422-10 | 3:eschatocol |          |  |1983|    |    |    |
 | PE  | e | JenBro001     |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | lm  |   |               |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |   | ærkebiskop    | xNC | ækebiskop     |   | erchebiscop           | eꝛchebıſcop     |   |   |   |   | dan |   |   |   | 422-11 | 3:eschatocol |          |  |    |    |    |    |
@@ -297,29 +297,29 @@
 | w   |   | etcetera      | xAV |               |   | (et cetera)           | ⁊cᷓ              |   |   |   |   | lat |   |   |   | 422-11 | 3:eschatocol |          |  |    |    |    |    |
 | w   |   | mæstere       | xNC | mester        |   | mester                | meſteꝛ          |   |   |   |   | dan |   |   |   | 422-11 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b | JenÅge001     |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |   |               | xNP | Jens          |   | iens                  | ıen            |   |   |   |   | dan |   |   |   | 422-11 | 3:eschatocol |          |  |    |    |    |    |
-| w   |   |               | xNP | Ågesen        |   | agess(øn)             | ageſ           |   |   |   |   | dan |   |   |   | 422-11 | 3:eschatocol |          |  |    |    |    |    |
+| w   |   |               | xNP | Jens          |   | iens                  | ıen            |   |   |   |   | dan |   |   |   | 422-11 | 3:eschatocol |          |  |1984|    |    |    |
+| w   |   |               | xNP | Ågesen        |   | agess(øn)             | ageſ           |   |   |   |   | dan |   |   |   | 422-11 | 3:eschatocol |          |  |1984|    |    |    |
 | PE  | e | JenÅge001     |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |   | domprovest    | xNC | domprovst     |   | domp(ro)west          | domꝓweſt        |   |   |   |   | dan |   |   |   | 422-11 | 3:eschatocol |          |  |    |    |    |    |
 | w   |   | ibidem        | xAV |               |   | ibid(em)              | ibi            |   |   |   |   | lat |   |   |   | 422-11 | 3:eschatocol |          |  |    |    |    |    |
 | w   |   | hærre         | xNC | hr.            |   | h(er)                 | h̅               |   |   |   |   | dan |   |   |   | 422-11 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b | PedPou001     |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |   |               | xNP | Peder         |   | p(er)                 | p̲               |   |   |   |   | dan |   |   |   | 422-11 | 3:eschatocol |          |  |    |    |    |    |
-| w   |   |               | xNP | Poulsen       |   | pawelss(øn)           | pawelſ         |   |   |   |   | dan |   |   |   | 422-11 | 3:eschatocol |          |  |    |    |    |    |
+| w   |   |               | xNP | Peder         |   | p(er)                 | p̲               |   |   |   |   | dan |   |   |   | 422-11 | 3:eschatocol |          |  |1985|    |    |    |
+| w   |   |               | xNP | Poulsen       |   | pawelss(øn)           | pawelſ         |   |   |   |   | dan |   |   |   | 422-11 | 3:eschatocol |          |  |1985|    |    |    |
 | PE  | e | PedPou001     |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |   | djakn         | xNC | degn          |   | dægh(e)n              | dæghn̅           |   |   |   |   | dan |   |   |   | 422-11 | 3:eschatocol |          |  |    |    |    |    |
 | w   |   | ibidem        | xAV |               |   | ibid(em)              | ibi            |   |   |   |   | lat |   |   |   | 422-11 | 3:eschatocol |          |  |    |    |    |    |
 | w   |   | mæstere       | xNC | mester        |   | mesth(er)             | meſth          |   |   |   |   | dan |   |   |   | 422-11 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b | JonKle001     |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |   |               | xNP | Jon           |   | ion                   | ıo             |   |   |   |   | dan |   |   |   | 422-11 | 3:eschatocol |          |  |    |    |    |    |
+| w   |   |               | xNP | Jon           |   | ion                   | ıo             |   |   |   |   | dan |   |   |   | 422-11 | 3:eschatocol |          |  |1986|    |    |    |
 | PE  | e | JonKle001     |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |   | ærkedjakn     | xNC | ærkedegn      |   | erchedigh(e)n         | eꝛchedıghn̅      |   |   |   |   | dan |   |   |   | 422-11 | 3:eschatocol |          |  |    |    |    |    |
 | w   |   | ibidem        | xAV |               |   | i(bidem)              | ı             |   |   |   |   | lat |   |   |   | 422-11 | 3:eschatocol |          |  |    |    |    |    |
 | lm  |   |               |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |   | hærre         | xNC | hr.            |   | h(er)                 | h̅               |   |   |   |   | dan |   |   |   | 422-12 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b | OluSti001     |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |   |               | xNP | Oluf          |   | oluff                 | oluff           |   |   |   |   | dan |   |   |   | 422-12 | 3:eschatocol |          |  |    |    |    |    |
-| w   |   |               | xNP | Stigsen       |   | stigss(øn)            | ſtıgſ          |   |   |   |   | dan |   |   |   | 422-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |   |               | xNP | Oluf          |   | oluff                 | oluff           |   |   |   |   | dan |   |   |   | 422-12 | 3:eschatocol |          |  |1987|    |    |    |
+| w   |   |               | xNP | Stigsen       |   | stigss(øn)            | ſtıgſ          |   |   |   |   | dan |   |   |   | 422-12 | 3:eschatocol |          |  |1987|    |    |    |
 | PE  | e | OluSti001     |     |               |   |                       |                 |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |   | riddere       | xNC | riddere       |   | Ridder(e)             | Rıdder         |   |   |   |   | dan |   |   |   | 422-12 | 3:eschatocol |          |  |    |    |    |    |
 | w   |   | af            | xAP | af            |   | aff                   | aff             |   |   |   |   | dan |   |   |   | 422-12 | 3:eschatocol |          |  |    |    |    |    |

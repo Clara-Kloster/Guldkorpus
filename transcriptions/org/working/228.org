@@ -44,7 +44,7 @@
 | lm  | 228-01 |   |   |   |   |                    |                     |   |   |   |   |       |   |   |   |                |          |          |  |    |    |    |    |
 | d  | b      | 1  |   | protocol  |   |                    |                     |   |   |   |   |       |   |   |   |                |          |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                    |                     |   |   |   |   |       |   |   |   |                |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Waldemarus         | Waldemaru          |   |   |   |   | Latin |   |   |   |         228-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Waldemarus         | Waldemaru          |   |   |   |   | Latin |   |   |   |         228-01 | 1:protocol |          |  |2689|    |    |    |
 | PE  | e      |   |   |   |   |                    |                     |   |   |   |   |       |   |   |   |                |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | dej                | dej                 |   |   |   |   | Latin |   |   |   |         228-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | gr(aci)a           | gr͛a             |   |   |   |   | Latin |   |   |   |         228-01 | 1:protocol |          |  |    |    |    |    |
@@ -73,15 +73,15 @@
 | w   |        |   |   |   |   | co(n)stitutus      | co̅ſtítutu     |   |   |   |   | Latin |   |   |   |         228-02 | 2:context |          |  |    |    |    |    |
 | lm  | 228-03 |   |   |   |   |                    |                     |   |   |   |   |       |   |   |   |                |          |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                    |                     |   |   |   |   |       |   |   |   |                |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Nicholaus          | ıcholau           |   |   |   |   | Latin |   |   |   |         228-03 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | d(i)c(t)us         | dc̅u           |   |   |   |   | Latin |   |   |   |         228-03 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | kistæ              | kıſtæ               |   |   |   |   | Latin |   |   |   |         228-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Nicholaus          | ıcholau           |   |   |   |   | Latin |   |   |   |         228-03 | 2:context |          |  |2691|    |    |    |
+| w   |        |   |   |   |   | d(i)c(t)us         | dc̅u           |   |   |   |   | Latin |   |   |   |         228-03 | 2:context |          |  |2691|    |    |    |
+| w   |        |   |   |   |   | kistæ              | kıſtæ               |   |   |   |   | Latin |   |   |   |         228-03 | 2:context |          |  |2691|    |    |    |
 | PE  | e      |   |   |   |   |                    |                     |   |   |   |   |       |   |   |   |                |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | filius             | fılıu              |   |   |   |   | Latin |   |   |   |         228-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)nj           | dn̅ȷ́            |   |   |   |   | Latin |   |   |   |         228-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                    |                     |   |   |   |   |       |   |   |   |                |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Joh(ann)is         | Joh̅ı          |   |   |   |   | Latin |   |   |   |         228-03 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | kistæ              | kıſtæ               |   |   |   |   | Latin |   |   |   |         228-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Joh(ann)is         | Joh̅ı          |   |   |   |   | Latin |   |   |   |         228-03 | 2:context |          |  |2690|    |    |    |
+| w   |        |   |   |   |   | kistæ              | kıſtæ               |   |   |   |   | Latin |   |   |   |         228-03 | 2:context |          |  |2690|    |    |    |
 | PE  | e      |   |   |   |   |                    |                     |   |   |   |   |       |   |   |   |                |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | militis            | ílítí       |   |   |   |   | Latin |   |   |   |         228-03 | 2:context |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /                  | /                   |   |   |   |   | Latin |   |   |   |         228-03 | 2:context |          |  |    |    |    |    |
@@ -207,8 +207,8 @@
 | p   |        |   |   |   |   | .                  | .                   |   |   |   |   | Latin |   |   |   |         228-10 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Teste              | Ꞇeſte               |   |   |   |   | Latin |   |   |   |         228-10 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                    |                     |   |   |   |   |       |   |   |   |                |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Nicholao           | Nícholao            |   |   |   |   | Latin |   |   |   |         228-10 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | iænæss(un)         | íænæſ              |   |   |   |   | Latin |   |   |   |         228-10 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Nicholao           | Nícholao            |   |   |   |   | Latin |   |   |   |         228-10 | 3:eschatocol |          |  |2692|    |    |    |
+| w   |        |   |   |   |   | iænæss(un)         | íænæſ              |   |   |   |   | Latin |   |   |   |         228-10 | 3:eschatocol |          |  |2692|    |    |    |
 | PE  | e      |   |   |   |   |                    |                     |   |   |   |   |       |   |   |   |                |          |          |  |    |    |    |    |
 | d  | e      | 3  |   |   |   |                    |                     |   |   |   |   |       |   |   |   |                |          |          |  |    |    |    |    |
 | :e: |        |   |   |   |   |                    |                     |   |   |   |   |       |   |   |   |                |          |          |  |    |    |    |    |

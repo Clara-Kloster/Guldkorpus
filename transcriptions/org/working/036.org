@@ -44,7 +44,7 @@
 | lm  | 36-01 |   |   |   |   |                 |                 |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | d  | b     | 1  |   | protocol  |   |                 |                 |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | PE  | b     | PavAle004  |   |   |   |                 |                 |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | ALEXANDER       | ALEXANDER       |   |   |   |   | lat |   |   |   |       36-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | ALEXANDER       | ALEXANDER       |   |   |   |   | lat |   |   |   |       36-01 | 1:protocol |          |  |131|    |    |    |
 | PE  | e     | PavAle004  |   |   |   |                 |                 |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | ep(iscopu)s     | ep&pk;s         |   |   |   |   | lat |   |   |   |       36-01 | 1:protocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | seruus          | ſeruus          |   |   |   |   | lat |   |   |   |       36-01 | 1:protocol |          |  |    |    |    |    |
@@ -63,7 +63,7 @@
 | lm  | 36-02 |   |   |   |   |                 |                 |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | sancti          | ſanı           |   |   |   |   | lat |   |   |   |       36-02 | 1:protocol |          |  |    |    |    |    |
 | PE | b |  |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | francisci       | francıſcı       |   |   |   |   | lat |   |   |   |       36-02 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | francisci       | francıſcı       |   |   |   |   | lat |   |   |   |       36-02 | 1:protocol |          |  |132|    |    |    |
 | PE | e |  |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | PL  | b     |   |   |   |   |                 |                 |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | Roskylden(sis)  | Roſkylꝺe&pk;   |   |   |   |   | lat |   |   |   |       36-02 | 1:protocol |          |  |    |    |    |    |
@@ -72,7 +72,7 @@
 | w   |       |   |   |   |   | Ordinis         | Orꝺınıs         |   |   |   |   | lat |   |   |   |       36-02 | 1:protocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | s(an)c(t)i      | ſc&pk;ı         |   |   |   |   | lat |   |   |   |       36-02 | 1:protocol |          |  |    |    |    |    |
 | PE | b |  |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Damiani         | Damıaní         |   |   |   |   | lat |   |   |   |       36-02 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Damiani         | Damıaní         |   |   |   |   | lat |   |   |   |       36-02 | 1:protocol |          |  |133|    |    |    |
 | PE | e |  |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |       |   |   |   |   | /               | /               |   |   |   |   | lat |   |   |   |       36-02 | 1:protocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | sal(u)t(em)     | al̅t            |   |   |   |   | lat |   |   |   |       36-02 | 1:protocol |          |  |    |    |    |    |
@@ -195,11 +195,11 @@
 | w   |       |   |   |   |   | (et)            | ⁊               |   |   |   |   | lat |   |   |   |       36-09 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | beator(um)      | beatoꝝ          |   |   |   |   | lat |   |   |   |       36-09 | 2:context |          |  |    |    |    |    |
 | PE | b |  |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Petri           | Petrı           |   |   |   |   | lat |   |   |   |       36-09 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Petri           | Petrı           |   |   |   |   | lat |   |   |   |       36-09 | 2:context |          |  |134|    |    |    |
 | PE | e |  |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | (et)            | ⁊               |   |   |   |   | lat |   |   |   |       36-09 | 2:context |          |  |    |    |    |    |
 | PE | b |  |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Pauli           | Paulı           |   |   |   |   | lat |   |   |   |       36-09 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Pauli           | Paulı           |   |   |   |   | lat |   |   |   |       36-09 | 2:context |          |  |135|    |    |    |
 | PE | e |  |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |       |   |   |   |   | /               | /               |   |   |   |   | lat |   |   |   |       36-09 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | ap(osto)lor(um) | apl̅oꝝ           |   |   |   |   | lat |   |   |   |       36-09 | 2:context |          |  |    |    |    |    |

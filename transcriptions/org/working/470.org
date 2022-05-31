@@ -46,8 +46,8 @@
 | w   |        | kænne          | xVB | kendes         |   | Kendis         | Kendi         |   |   |   |   | dan |   |   |   |        470-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | jak            | xPE | jeg            |   | Jeg            | Jeg            |   |   |   |   | dan |   |   |   |        470-01 | 1:protocol |          |  |    |    |    |    |
 | PE  |      b | NieHem001      |     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |                | xNP | Niels          |   | Nicolaus       | Nicolaŭ       |   |   |   |   | lat |   |   |   |        470-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |                | xNP | Hemmingsen     |   | Hemmingius     | Hemmingiŭ     |   |   |   |   | lat |   |   |   |        470-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |                | xNP | Niels          |   | Nicolaus       | Nicolaŭ       |   |   |   |   | lat |   |   |   |        470-01 | 1:protocol |          |  |2435|    |    |    |
+| w   |        |                | xNP | Hemmingsen     |   | Hemmingius     | Hemmingiŭ     |   |   |   |   | lat |   |   |   |        470-01 | 1:protocol |          |  |2435|    |    |    |
 | PE  |      e | NieHem001      |     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | ok             | xCC | og             |   | oc             | oc             |   |   |   |   | dan |   |   |   |        470-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | gøre           | xVB | gør            |   | giør           | giør           |   |   |   |   | dan |   |   |   |        470-01 | 1:protocol |          |  |    |    |    |    |
@@ -76,9 +76,9 @@
 | w   |        | husfrue        | xNC | hustru         |   | Hustrue        | Hŭſtrŭe        |   |   |   |   | dan |   |   |   |        470-03 | 2:context |          |  |    |    |    |    |
 | lm  | 470-04 |                |     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  |      b | BirLau001      |     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |                | xNP | Birgitte       |   | Birgitte       | Birgitte       |   |   |   |   | dan |   |   |   |        470-04 | 2:context |          |  |    |    |    |    |
-| w   |        |                | xNP | Laurids        |   | Lauritz        | Laŭritz        |   |   |   |   | dan |   |   |   |        470-04 | 2:context |          |  |    |    |    |    |
-| w   |        | dotter         | xNC | datter         |   | Daater         | Daater         |   |   |   |   | dan |   |   |   |        470-04 | 2:context |          |  |    |    |    |    |
+| w   |        |                | xNP | Birgitte       |   | Birgitte       | Birgitte       |   |   |   |   | dan |   |   |   |        470-04 | 2:context |          |  |2436|    |    |    |
+| w   |        |                | xNP | Laurids        |   | Lauritz        | Laŭritz        |   |   |   |   | dan |   |   |   |        470-04 | 2:context |          |  |2436|    |    |    |
+| w   |        | dotter         | xNC | datter         |   | Daater         | Daater         |   |   |   |   | dan |   |   |   |        470-04 | 2:context |          |  |2436|    |    |    |
 | PE  |      e | BirLau001      |     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |                |     |                |   | ,              | ,              |   |   |   |   | dan |   |   |   |        470-04 | 2:context |          |  |    |    |    |    |
 | w   |        | af             | xAP | af             |   | aff            | aff            |   |   |   |   | dan |   |   |   |        470-04 | 2:context |          |  |    |    |    |    |
@@ -122,8 +122,8 @@
 | w   |        | sum            | xRP | som            |   | Som            | om            |   |   |   |   | dan |   |   |   |        470-08 | 2:context |          |  |    |    |    |    |
 | w   |        | doktor         | xNC | doktor         |   | D(octor)       | D.             |   |   |   |   | dan |   |   |   |        470-08 | 2:context |          |  |    |    |    |    |
 | PE | b | AndLau002 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |                | xNP | Anders         |   | Anders         | Ander         |   |   |   |   | dan |   |   |   |        470-08 | 2:context |          |  |    |    |    |    |
-| w   |        |                | xNP | Lauridsen      |   | Lau¦rissen     | Laŭ¦riſſen     |   |   |   |   | dan |   |   |   | 470-08—470-09 | 2:context |          |  |    |    |    |    |
+| w   |        |                | xNP | Anders         |   | Anders         | Ander         |   |   |   |   | dan |   |   |   |        470-08 | 2:context |          |  |2437|    |    |    |
+| w   |        |                | xNP | Lauridsen      |   | Lau¦rissen     | Laŭ¦riſſen     |   |   |   |   | dan |   |   |   | 470-08—470-09 | 2:context |          |  |2437|    |    |    |
 | PE | e | AndLau002 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | nu             | xAV | nu             |   | nu             | nŭ             |   |   |   |   | dan |   |   |   |        470-09 | 2:context |          |  |    |    |    |    |
 | w   |        | sitherst       | xAV | sidst          |   | sidst          | ſidſt          |   |   |   |   | dan |   |   |   |        470-09 | 2:context |          |  |    |    |    |    |
@@ -271,8 +271,8 @@
 | w   |        | ok             | xAV | og             |   | oc             | oc             |   |   |   |   | dan |   |   |   |        470-23 | 2:context |          |  |    |    |    |    |
 | w   |        | doktor         | xNC | doktor         |   | D(octor)       | D.             |   |   |   |   | dan |   |   |   |        470-23 | 2:context |          |  |    |    |    |    |
 | PE  |      b | AndLau002      |     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |                | xNP | Anders         |   | Anders         | Ander         |   |   |   |   | dan |   |   |   |        470-23 | 2:context |          |  |    |    |    |    |
-| w   |        |                | xNP | Lauridsen      |   | Laurissen      | Laŭriſſen      |   |   |   |   | dan |   |   |   |        470-23 | 2:context |          |  |    |    |    |    |
+| w   |        |                | xNP | Anders         |   | Anders         | Ander         |   |   |   |   | dan |   |   |   |        470-23 | 2:context |          |  |2438|    |    |    |
+| w   |        |                | xNP | Lauridsen      |   | Laurissen      | Laŭriſſen      |   |   |   |   | dan |   |   |   |        470-23 | 2:context |          |  |2438|    |    |    |
 | PE  |      e | AndLau002      |     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 470-24 |                |     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | have           | xVB | havde          |   | haffde         | haffde         |   |   |   |   | dan |   |   |   |        470-24 | 2:context |          |  |    |    |    |    |

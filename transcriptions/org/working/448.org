@@ -46,8 +46,8 @@ eller ÆA. 595
 | d   | b      | 1           |     | protocol          |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | jak         | xPE | jeg               |   | Jegh                  | Jegh               |   |   |   |        | dan |   |   |    |        448-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | OluNie003   |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Oluf              |   | Oluff                 | Oluff              |   |   |   |        | dan |   |   |    |        448-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Rosenkrantz       |   | rosenkrantz           | ꝛoſenkꝛantz        |   |   |   |        | dan |   |   |    |        448-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Oluf              |   | Oluff                 | Oluff              |   |   |   |        | dan |   |   |    |        448-01 | 1:protocol |          |  |2145|    |    |    |
+| w   |        |             | xNP | Rosenkrantz       |   | rosenkrantz           | ꝛoſenkꝛantz        |   |   |   |        | dan |   |   |    |        448-01 | 1:protocol |          |  |2145|    |    |    |
 | PE  | e      | OluNie003   |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | riddere     | xNC | ridder            |   | Rider                 | Rider              |   |   |   |        | dan |   |   |    |        448-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | til         | xAP | til               |   | till                  | tıll               |   |   |   |        | dan |   |   |    |        448-01 | 1:protocol |          |  |    |    |    |    |
@@ -84,8 +84,8 @@ eller ÆA. 595
 | w   |        | jungfrue    | xNC | jomfru            |   | iomff(rv)             | ıomffͮ              |   |   |   |        | dan |   |   |    |        448-02 | 2:context |          |  |    |    |    |    |
 | w   |        | syster      | xNC | søster            |   | søster                | ſøſteꝛ             |   |   |   |        | dan |   |   |    |        448-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      | SofPed001   |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Sofie             |   | sophie                | ſophıe             |   |   |   |        | dan |   |   |    |        448-02 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Billesdatter      |   | byldesd(atter)        | byldeſᷣ            |   |   |   | de-sup | dan |   |   |    |        448-02 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Sofie             |   | sophie                | ſophıe             |   |   |   |        | dan |   |   |    |        448-02 | 2:context |          |  |2146|    |    |    |
+| w   |        |             | xNP | Billesdatter      |   | byldesd(atter)        | byldeſᷣ            |   |   |   | de-sup | dan |   |   |    |        448-02 | 2:context |          |  |2146|    |    |    |
 | PE  | e      | SofPed001   |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | abbetisse   | xNC | abbedisse         |   | abbatissa             | abbatıſſa          |   |   |   |        | lat |   |   |    |        448-02 | 2:context |          |  |    |    |    |    |
 | lm  | 448-03 |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -112,7 +112,7 @@ eller ÆA. 595
 | w   |        | fornævnd    | xAJ | fornævnte         |   | for(nefnde)           | foꝛᷠͤ                |   |   |   |        | dan |   |   |    |        448-03 | 2:context |          |  |    |    |    |    |
 | w   |        | syster      | xNC | søster            |   | søster                | ſøſteꝛ             |   |   |   |        | dan |   |   |    |        448-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | SofPed001   |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Sofie             |   | sophie                | ſophie             |   |   |   |        | dan |   |   |    |        448-03 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Sofie             |   | sophie                | ſophie             |   |   |   |        | dan |   |   |    |        448-03 | 2:context |          |  |2147|    |    |    |
 | PE  | e      | SofPed001   |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og                |   | oc                    | oc                 |   |   |   |        | dan |   |   |    |        448-03 | 2:context |          |  |    |    |    |    |
 | lm  | 448-04 |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -157,8 +157,8 @@ eller ÆA. 595
 | PL  | e      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | sum         | xRP | som               |   | som                   | ſo                |   |   |   |        | dan |   |   |    |        448-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | HanNie001   |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Hans              |   | hans                  | han               |   |   |   |        | dan |   |   |    |        448-05 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Nielsen           |   | nielss(øn)            | nielſ             |   |   |   |        | dan |   |   |    |        448-05 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Hans              |   | hans                  | han               |   |   |   |        | dan |   |   |    |        448-05 | 2:context |          |  |2148|    |    |    |
+| w   |        |             | xNP | Nielsen           |   | nielss(øn)            | nielſ             |   |   |   |        | dan |   |   |    |        448-05 | 2:context |          |  |2148|    |    |    |
 | PE  | e      | HanNie001   |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | nu          | xAV | nu                |   | nw                    | nw                 |   |   |   |        | dan |   |   |    |        448-05 | 2:context |          |  |    |    |    |    |
 | w   |        | uti         | xAV | udi               |   | vtj                   | vtj                |   |   |   |        | dan |   |   |    |        448-05 | 2:context |          |  |    |    |    |    |
@@ -230,8 +230,8 @@ eller ÆA. 595
 | PL  | e      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | sum         | xRP | som               |   | som                   | ſo                |   |   |   |        | dan |   |   |    |        448-08 | 2:context |          |  |    |    |    |    |
 | PE  | b      | LarIng001   |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Lasse             |   | lasse                 | laſſe              |   |   |   |        | dan |   |   |    |        448-08 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Ingelsen          |   | ingelss(øn)           | ingelſ            |   |   |   |        | dan |   |   |    |        448-08 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Lasse             |   | lasse                 | laſſe              |   |   |   |        | dan |   |   |    |        448-08 | 2:context |          |  |2149|    |    |    |
+| w   |        |             | xNP | Ingelsen          |   | ingelss(øn)           | ingelſ            |   |   |   |        | dan |   |   |    |        448-08 | 2:context |          |  |2149|    |    |    |
 | PE  | e      | LarIng001   |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | nu          | xAV | nu                |   | nw                    | nw                 |   |   |   |        | dan |   |   |    |        448-08 | 2:context |          |  |    |    |    |    |
 | w   |        | uti         | xAV | udi               |   | vtj                   | vtj                |   |   |   |        | dan |   |   |    |        448-08 | 2:context |          |  |    |    |    |    |
@@ -260,7 +260,7 @@ eller ÆA. 595
 | w   |        | fornævnd    | xAJ | fornævnte         |   | for(nefnde)           | foꝛᷠͤ                |   |   |   |        | dan |   |   |    |        448-10 | 2:context |          |  |    |    |    |    |
 | w   |        | syster      | xNC | søster            |   | søster                | ſøſter             |   |   |   |        | dan |   |   |    |        448-10 | 2:context |          |  |    |    |    |    |
 | PE  | b      | SofPed001   |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Sofie             |   | sophie                | ſophıe             |   |   |   |        | dan |   |   |    |        448-10 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Sofie             |   | sophie                | ſophıe             |   |   |   |        | dan |   |   |    |        448-10 | 2:context |          |  |2150|    |    |    |
 | PE  | e      | SofPed001   |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | ad  | b      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | p   |        |             |     |                   |   | [                     | [                  |   |   |   |        | dan |   |   |    |        448-10 | 2:context |          |  |    |    |    |    |
@@ -344,7 +344,7 @@ eller ÆA. 595
 | w   |        | fornævnd    | xAJ | fornævnte         |   | for(nefnde)           | foꝛᷠͤ                |   |   |   |        | dan |   |   |    |        448-14 | 2:context |          |  |    |    |    |    |
 | w   |        | syster      | xNC | søster            |   | søster                | ſøſteꝛ             |   |   |   |        | dan |   |   |    |        448-14 | 2:context |          |  |    |    |    |    |
 | PE  | b      | SofPed001   |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Sofie             |   | sophie                | ſophıe             |   |   |   |        | dan |   |   |    |        448-14 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Sofie             |   | sophie                | ſophıe             |   |   |   |        | dan |   |   |    |        448-14 | 2:context |          |  |2151|    |    |    |
 | PE  | e      | SofPed001   |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | mænigh      | xAJ | menige            |   | meninge               | menınge            |   |   |   |        | dan |   |   |    |        448-14 | 2:context |          |  |    |    |    |    |
 | w   |        | konvent     | xNC | konvent           |   | conwenth              | conwenth           |   |   |   |        | dan |   |   |    |        448-14 | 2:context |          |  |    |    |    |    |
@@ -435,7 +435,7 @@ eller ÆA. 595
 | w   |        | fornævnd    | xAJ | fornævnte         |   | for(nefnde)           | forᷠͤ                |   |   |   |        | dan |   |   |    |        448-19 | 2:context |          |  |    |    |    |    |
 | w   |        | syster      | xNC | søster            |   | søster                | ſøſter             |   |   |   |        | dan |   |   |    |        448-19 | 2:context |          |  |    |    |    |    |
 | PE  | b      | SofPed001   |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Sofie             |   | sophie                | ſophıe             |   |   |   |        | dan |   |   |    |        448-19 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Sofie             |   | sophie                | ſophıe             |   |   |   |        | dan |   |   |    |        448-19 | 2:context |          |  |2152|    |    |    |
 | PE  | e      | SofPed001   |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og                |   | oc                    | oc                 |   |   |   |        | dan |   |   |    |        448-19 | 2:context |          |  |    |    |    |    |
 | w   |        | mænigh      | xAJ | menig             |   | meni(n)g              | meni̅g              |   |   |   |        | dan |   |   |    |        448-19 | 2:context |          |  |    |    |    |    |
@@ -511,8 +511,8 @@ eller ÆA. 595
 | w   |        | være        | xVB | er                |   | er                    | er                 |   |   |   |        | dan |   |   |    |        448-23 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | hærre       | xNC | hr.                |   | h(er)                 | h̅                  |   |   |   |        | dan |   |   |    |        448-23 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Tige              |   | tiige                 | tiige              |   |   |   |        | dan |   |   |    |        448-23 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Krabbe            |   | krabbe                | kꝛabbe             |   |   |   |        | dan |   |   |    |        448-23 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Tige              |   | tiige                 | tiige              |   |   |   |        | dan |   |   |    |        448-23 | 3:eschatocol |          |  |2153|    |    |    |
+| w   |        |             | xNP | Krabbe            |   | krabbe                | kꝛabbe             |   |   |   |        | dan |   |   |    |        448-23 | 3:eschatocol |          |  |2153|    |    |    |
 | PE  | e      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | til         | xAP | til               |   | til                   | tıl                |   |   |   |        | dan |   |   |    |        448-23 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -525,8 +525,8 @@ eller ÆA. 595
 | w   |        |             | XX  |                   |   | maarss                | maarſſ             |   |   |   |        | dan |   |   |    |        448-23 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | hærre       | xNC | hr.                |   | h(er)                 | h̅                  |   |   |   |        | dan |   |   |    |        448-23 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | HenKru001   |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Henrik            |   | hin(ri)ch             | hinch             |   |   |   |        | dan |   |   |    |        448-23 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Krummedige        |   | k(rv)mdige            | kͮmdıge             |   |   |   |        | dan |   |   |    |        448-23 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Henrik            |   | hin(ri)ch             | hinch             |   |   |   |        | dan |   |   |    |        448-23 | 3:eschatocol |          |  |2154|    |    |    |
+| w   |        |             | xNP | Krummedige        |   | k(rv)mdige            | kͮmdıge             |   |   |   |        | dan |   |   |    |        448-23 | 3:eschatocol |          |  |2154|    |    |    |
 | PE  | e      | HenKru001   |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | til         | xAP | til               |   | til                   | tıl                |   |   |   |        | dan |   |   |    |        448-23 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |             | xNP | Volden            |   | volden                | volde             |   |   |   |        | dan |   |   |    |        448-23 | 3:eschatocol |          |  |    |    |    |    |
@@ -534,8 +534,8 @@ eller ÆA. 595
 | lm  | 448-24 |             |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | hærre       | xNC | hr.                |   | h(er)                 | h̅                  |   |   |   |        | dan |   |   |    |        448-24 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | JenLau001   |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Jens              |   | iens                  | ıen               |   |   |   |        | dan |   |   |    |        448-24 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Lauridsen         |   | llauriss              | llaurıſſ           |   |   |   |        | dan |   |   |    |        448-24 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Jens              |   | iens                  | ıen               |   |   |   |        | dan |   |   |    |        448-24 | 3:eschatocol |          |  |2155|    |    |    |
+| w   |        |             | xNP | Lauridsen         |   | llauriss              | llaurıſſ           |   |   |   |        | dan |   |   |    |        448-24 | 3:eschatocol |          |  |2155|    |    |    |
 | PE  | e      | JenLau001   |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ærkedjakn   | xNC | ærkedegn          |   | erchedegen            | eꝛchedegen         |   |   |   |        | dan |   |   |    |        448-24 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | i           | xAP | i                 |   | i                     | i                  |   |   |   |        | dan |   |   |    |        448-24 | 3:eschatocol |          |  |    |    |    |    |
@@ -545,7 +545,7 @@ eller ÆA. 595
 | w   |        | ok          | xCC | og                |   | oc                    | oc                 |   |   |   |        | dan |   |   |    |        448-24 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | mæstere     | xNC | mester            |   | mester                | meſter             |   |   |   |        | dan |   |   |    |        448-24 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | MorCan002   |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Martin            |   | martin                | maꝛtin             |   |   |   |        | dan |   |   |    |        448-24 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Martin            |   | martin                | maꝛtin             |   |   |   |        | dan |   |   |    |        448-24 | 3:eschatocol |          |  |2156|    |    |    |
 | PE  | e      | MorCan002   |     |                   |   |                       |                    |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | kanik       | xNC | kannik            |   | caniche               | caniche            |   |   |   |        | dan |   |   |    |        448-24 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | ibidem      | xAV |                   |   | ibid(em)              | ibi               |   |   |   |        | lat |   |   |    |        448-24 | 3:eschatocol |          |  |    |    |    |    |

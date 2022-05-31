@@ -104,17 +104,17 @@
 | p   |        |              |     |                |   | .                  | .               |              |   |   |   | dan |   |   |   |          469-06 | 2:context |          |  |    |    |    |    |
 | w   |        | doktor       | xNC | doktor         |   | D(octor)           | D               |              |   |   |   | dan |   |   |   |          469-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | NieHem001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Niels          |   | Niels              | Niel           |              |   |   |   | dan |   |   |   |          469-06 | 2:context |          |  |    |    |    |    |
-| w   |        |              | xNP | Hemmingsen     |   | Hemmingßenn        | Hemmingßenn     |              |   |   |   | dan |   |   |   |          469-06 | 2:context |          |  |    |    |    |    |
+| w   |        |              | xNP | Niels          |   | Niels              | Niel           |              |   |   |   | dan |   |   |   |          469-06 | 2:context |          |  |2428|    |    |    |
+| w   |        |              | xNP | Hemmingsen     |   | Hemmingßenn        | Hemmingßenn     |              |   |   |   | dan |   |   |   |          469-06 | 2:context |          |  |2428|    |    |    |
 | PE  | e      | NieHem001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
 | w   |        | ok           | xCC | og             |   | oc                 | oc              |              |   |   |   | dan |   |   |   |          469-06 | 2:context |          |  |    |    |    |    |
 | w   |        | han          | xPE | hans           |   | hans               | han            |              |   |   |   | dan |   |   |   |          469-06 | 2:context |          |  |    |    |    |    |
 | lm  | 469-07 |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
 | w   |        | husfrue      | xNC | hustru         |   | Hustrue            | Hŭſtrŭe         |              |   |   |   | dan |   |   |   |          469-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | BirLau001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Birgitte       |   | Birgitte           | Birgitte        |              |   |   |   | dan |   |   |   |          469-07 | 2:context |          |  |    |    |    |    |
+| w   |        |              | xNP | Birgitte       |   | Birgitte           | Birgitte        |              |   |   |   | dan |   |   |   |          469-07 | 2:context |          |  |2429|    |    |    |
 | ga  |        | 8_chars      |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
-| w   |        | dotter       | xNC | datter         |   | daatter            | daatter         |              |   |   |   | dan |   |   |   |          469-07 | 2:context |          |  |    |    |    |    |
+| w   |        | dotter       | xNC | datter         |   | daatter            | daatter         |              |   |   |   | dan |   |   |   |          469-07 | 2:context |          |  |2429|    |    |    |
 | PE  | e      | BirLau001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
 | p   |        |              |     |                |   | ,                  | ,               |              |   |   |   | dan |   |   |   |          469-07 | 2:context |          |  |    |    |    |    |
 | w   |        | en           | xNA | en             |   | Een                | Een             |              |   |   |   | dan |   |   |   |          469-07 | 2:context |          |  |    |    |    |    |
@@ -145,8 +145,8 @@
 | w   |        | kollegiatus  | xNC | kollega        |   | Colle¦ga           | Colle¦ga        |              |   |   |   | dan |   |   |   | 469-10---469-11 | 2:context |          |  |    |    |    |    |
 | w   |        | doktor       | xNC | doktor         |   | D(octor)           | D.              |              |   |   |   | dan |   |   |   |          469-11 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AndLau002    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Anders         |   | Anders             | Ander          |              |   |   |   | dan |   |   |   |          469-11 | 2:context |          |  |    |    |    |    |
-| w   |        |              | xNP | Lauritsen      |   | Laurissen          | Laŭriſſen       |              |   |   |   | dan |   |   |   |          469-11 | 2:context |          |  |    |    |    |    |
+| w   |        |              | xNP | Anders         |   | Anders             | Ander          |              |   |   |   | dan |   |   |   |          469-11 | 2:context |          |  |2430|    |    |    |
+| w   |        |              | xNP | Lauritsen      |   | Laurissen          | Laŭriſſen       |              |   |   |   | dan |   |   |   |          469-11 | 2:context |          |  |2430|    |    |    |
 | PE  | e      | AndLau002    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
 | w   |        | nu           | xAV | nu             |   | nu                 | nŭ              |              |   |   |   | dan |   |   |   |          469-11 | 2:context |          |  |    |    |    |    |
 | w   |        | sitherst     | xAV | sidst          |   | sidst              | ſidſt           |              |   |   |   | dan |   |   |   |          469-11 | 2:context |          |  |    |    |    |    |
@@ -165,7 +165,7 @@
 | w   |        | al           | xAJ | al             |   | all                | all             |              |   |   |   | dan |   |   |   |          469-12 | 2:context |          |  |    |    |    |    |
 | w   |        | doktor       | xNC | doktor         |   | D(octor)           | D.              |              |   |   |   | dan |   |   |   |          469-12 | 2:context |          |  |    |    |    |    |
 | PE  | b      | NieHem001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Niels         |   | Nielsis            | Nielſi         |              |   |   |   | dan |   |   |   |          469-12 | 2:context |          |  |    |    |    |    |
+| w   |        |              | xNP | Niels         |   | Nielsis            | Nielſi         |              |   |   |   | dan |   |   |   |          469-12 | 2:context |          |  |2431|    |    |    |
 | PE  | e      | NieHem001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
 | lm  | 469-13 |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
 | w   |        | liv          | xNC | livs           |   | liffs              | liff           |              |   |   |   | dan |   |   |   |          469-13 | 2:context |          |  |    |    |    |    |
@@ -189,7 +189,7 @@
 | w   |        | fornævnd     | xAJ | fornævnte      |   | for(nefnde)        | forᷠͤ             |              |   |   |   | dan |   |   |   |          469-14 | 2:context |          |  |    |    |    |    |
 | w   |        | doktor       | xNC | doktor         |   | D(octor)           | D.              |              |   |   |   | dan |   |   |   |          469-14 | 2:context |          |  |    |    |    |    |
 | PE  | b      | NieHem001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Niels          |   | Niels              | Niel           |              |   |   |   | dan |   |   |   |          469-14 | 2:context |          |  |    |    |    |    |
+| w   |        |              | xNP | Niels          |   | Niels              | Niel           |              |   |   |   | dan |   |   |   |          469-14 | 2:context |          |  |2432|    |    |    |
 | PE  | e      | NieHem001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
 | lm  | 469-15 |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
 | w   |        | fyrst        | xAV | først          |   | først              | førſt           |              |   |   |   | dan |   |   |   |          469-15 | 2:context |          |  |    |    |    |    |
@@ -285,7 +285,7 @@
 | w   |        | fornævnd     | xAJ | fornævnte      |   | for(nefnde)        | forᷠͤ             |              |   |   |   | dan |   |   |   |          469-26 | 2:context |          |  |    |    |    |    |
 | w   |        | doktor       | xNC | doktor         |   | D(octor)           | D.              |              |   |   |   | dan |   |   |   |          469-26 | 2:context |          |  |    |    |    |    |
 | PE  | b      | NieHem001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Niels          |   | Niels              | Niel           |              |   |   |   | dan |   |   |   |          469-26 | 2:context |          |  |    |    |    |    |
+| w   |        |              | xNP | Niels          |   | Niels              | Niel           |              |   |   |   | dan |   |   |   |          469-26 | 2:context |          |  |2433|    |    |    |
 | PE  | e      | NieHem001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
 | w   |        | ok           | xCC | og             |   | oc                 | oc              |              |   |   |   | dan |   |   |   |          469-26 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd     | xAJ | fornævnte      |   | for(nefnde)        | forᷠͤ             |              |   |   |   | dan |   |   |   |          469-26 | 2:context |          |  |    |    |    |    |
@@ -321,8 +321,8 @@
 | w   |        | sum          | xRP | som            |   | som                | om             |              |   |   |   | dan |   |   |   |          469-28 | 2:context |          |  |    |    |    |    |
 | w   |        | doktor       | xNC | doktor         |   | D(octor)           | D.              |              |   |   |   | dan |   |   |   |          469-28 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AndLau002    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Anders         |   | Anders             | Ander          |              |   |   |   | dan |   |   |   |          469-28 | 2:context |          |  |    |    |    |    |
-| w   |        |              | xNP | Lauritsen      |   | Laurissen          | Laŭriſſen       |              |   |   |   | dan |   |   |   |          469-28 | 2:context |          |  |    |    |    |    |
+| w   |        |              | xNP | Anders         |   | Anders             | Ander          |              |   |   |   | dan |   |   |   |          469-28 | 2:context |          |  |2434|    |    |    |
+| w   |        |              | xNP | Lauritsen      |   | Laurissen          | Laŭriſſen       |              |   |   |   | dan |   |   |   |          469-28 | 2:context |          |  |2434|    |    |    |
 | PE  | e      | AndLau002    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
 | lm  | 469-29 |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
 | w   |        | ok           | xAV | og             |   | oc                 | oc              |              |   |   |   | dan |   |   |   |          469-29 | 2:context |          |  |    |    |    |    |

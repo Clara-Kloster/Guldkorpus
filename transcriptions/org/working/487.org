@@ -44,7 +44,7 @@ udateret udkast?
 | lm  | 487-01 |   |   |   |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | d  | b      | 1  |   | protocol  |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | w(aldemarus)      | w.            |   |   |   |   | lat |   |   |   |        487-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | w(aldemarus)      | w.            |   |   |   |   | lat |   |   |   |        487-01 | 1:protocol |          |  |3144|    |    |    |
 | PE  | e      |   |   |   |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | dei               | deı           |   |   |   |   | lat |   |   |   |        487-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | gr(aci)a          | gr̅           |   |   |   |   | lat |   |   |   |        487-01 | 1:protocol |          |  |    |    |    |    |
@@ -77,15 +77,15 @@ udateret udkast?
 | p   |        |   |   |   |   | /                 | /             |   |   |   |   | lat |   |   |   |        487-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)no          | dn̅o           |   |   |   |   | lat |   |   |   |        487-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Ioh(ann)i         | Ioh̅ı          |   |   |   |   | lat |   |   |   |        487-02 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | martæns(un)       | mrtæn       |   |   |   |   | lat |   |   |   |        487-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Ioh(ann)i         | Ioh̅ı          |   |   |   |   | lat |   |   |   |        487-02 | 2:context |          |  |3145|    |    |    |
+| w   |        |   |   |   |   | martæns(un)       | mrtæn       |   |   |   |   | lat |   |   |   |        487-02 | 2:context |          |  |3145|    |    |    |
 | PE  | e      |   |   |   |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | militi            | mílítı        |   |   |   |   | lat |   |   |   |        487-02 | 2:context |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /                 | /             |   |   |   |   | lat |   |   |   |        487-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(er)             | p̲             |   |   |   |   | lat |   |   |   |        487-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | he(n)ricu(m)      | he̅rıcu̅        |   |   |   |   | lat |   |   |   |        487-02 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | he(n)nikæ s(un)   | he̅níkæ       |   |   |   |   | lat |   |   |   |        487-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | he(n)ricu(m)      | he̅rıcu̅        |   |   |   |   | lat |   |   |   |        487-02 | 2:context |          |  |3146|    |    |    |
+| w   |        |   |   |   |   | he(n)nikæ s(un)   | he̅níkæ       |   |   |   |   | lat |   |   |   |        487-02 | 2:context |          |  |3146|    |    |    |
 | PE  | e      |   |   |   |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 487-03 |   |   |   |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Armigeru(m)       | rmígeru̅      |   |   |   |   | lat |   |   |   |        487-03 | 2:context |          |  |    |    |    |    |
@@ -101,8 +101,8 @@ udateret udkast?
 | w   |        |   |   |   |   | l(itte)ris        | lr̅ı          |   |   |   |   | lat |   |   |   |        487-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ip(s)i(us)        | ıp̅ıꝰ          |   |   |   |   | lat |   |   |   |        487-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | henrici           | henrıcí       |   |   |   |   | lat |   |   |   |        487-03 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | he(n)nikæ s(un)   | he̅nıkæ       |   |   |   |   | lat |   |   |   |        487-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | henrici           | henrıcí       |   |   |   |   | lat |   |   |   |        487-03 | 2:context |          |  |3147|    |    |    |
+| w   |        |   |   |   |   | he(n)nikæ s(un)   | he̅nıkæ       |   |   |   |   | lat |   |   |   |        487-03 | 2:context |          |  |3147|    |    |    |
 | PE  | e      |   |   |   |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /                 | /             |   |   |   |   | lat |   |   |   |        487-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | sup(er)           | ſup̲           |   |   |   |   | lat |   |   |   |        487-03 | 2:context |          |  |    |    |    |    |
@@ -114,14 +114,14 @@ udateret udkast?
 | w   |        |   |   |   |   | (et)              |              |   |   |   |   | lat |   |   |   |        487-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)n(u)s       | dn̅           |   |   |   |   | lat |   |   |   |        487-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Joh(ann)es        | Joh̅e         |   |   |   |   | lat |   |   |   |        487-04 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | martæns(un)       | mrtæn       |   |   |   |   | lat |   |   |   |        487-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Joh(ann)es        | Joh̅e         |   |   |   |   | lat |   |   |   |        487-04 | 2:context |          |  |3148|    |    |    |
+| w   |        |   |   |   |   | martæns(un)       | mrtæn       |   |   |   |   | lat |   |   |   |        487-04 | 2:context |          |  |3148|    |    |    |
 | PE  | e      |   |   |   |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /                 | /             |   |   |   |   | lat |   |   |   |        487-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)no          | dn̅o           |   |   |   |   | lat |   |   |   |        487-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | jacobo            | ȷcobo        |   |   |   |   | lat |   |   |   |        487-04 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | martæns(un)       | mrtæn       |   |   |   |   | lat |   |   |   |        487-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | jacobo            | ȷcobo        |   |   |   |   | lat |   |   |   |        487-04 | 2:context |          |  |3149|    |    |    |
+| w   |        |   |   |   |   | martæns(un)       | mrtæn       |   |   |   |   | lat |   |   |   |        487-04 | 2:context |          |  |3149|    |    |    |
 | PE  | e      |   |   |   |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | cano(n)ico        | cno̅ıco       |   |   |   |   | lat |   |   |   |        487-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ecc(lesi)e        | ecc̅e          |   |   |   |   | lat |   |   |   |        487-04 | 2:context |          |  |    |    |    |    |
@@ -170,8 +170,8 @@ udateret udkast?
 | w   |        |   |   |   |   | d(omi)n(u)s       | dn̅           |   |   |   |   | lat |   |   |   |        487-06 | 2:context |          |  |    |    |    |    |
 | lm  | 487-07 |   |   |   |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | jacob(us)         | ȷcobꝫ        |   |   |   |   | lat |   |   |   |        487-07 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | martæns(un)       | mrtæn       |   |   |   |   | lat |   |   |   |        487-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | jacob(us)         | ȷcobꝫ        |   |   |   |   | lat |   |   |   |        487-07 | 2:context |          |  |3150|    |    |    |
+| w   |        |   |   |   |   | martæns(un)       | mrtæn       |   |   |   |   | lat |   |   |   |        487-07 | 2:context |          |  |3150|    |    |    |
 | PE  | e      |   |   |   |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /                 | /             |   |   |   |   | lat |   |   |   |        487-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | fabrice           | fbrıce       |   |   |   |   | lat |   |   |   |        487-07 | 2:context |          |  |    |    |    |    |

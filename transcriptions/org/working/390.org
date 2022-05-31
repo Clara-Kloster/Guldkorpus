@@ -54,9 +54,9 @@ Særligt æ-tegn
 | w   |        | vi          | xPE | vi          |              | wi            | wı            |            |   |   |   | dan |   |   |    |          390-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | syster      | xNC | søster      |              | syst(er)      | ſẏſt͛          |            |   |   |   | dan |   |   |    |          390-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | CecPed001   |     |             |              |               |               |            |   |   |   |     |   |   |    |                 |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Cecilie     |              | ceciliæ       | cecılıæ       |            |   |   |   | dan |   |   |    |          390-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Peders      |              | pæd(e)rs      | pæd̅ꝛs         |            |   |   |   | dan |   |   |    |          390-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        | dotter      | xNC | datter      |              | dott(er)      | dott͛          |            |   |   |   | dan |   |   |    |          390-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Cecilie     |              | ceciliæ       | cecılıæ       |            |   |   |   | dan |   |   |    |          390-01 | 1:protocol |          |  |1665|    |    |    |
+| w   |        |             | xNP | Peders      |              | pæd(e)rs      | pæd̅ꝛs         |            |   |   |   | dan |   |   |    |          390-01 | 1:protocol |          |  |1665|    |    |    |
+| w   |        | dotter      | xNC | datter      |              | dott(er)      | dott͛          |            |   |   |   | dan |   |   |    |          390-01 | 1:protocol |          |  |1665|    |    |    |
 | PE  | e      | CecPed001   |     |             |              |               |               |            |   |   |   |     |   |   |    |                 |          |          |  |    |    |    |    |
 | w   |        | abbetisse   | xNC | abbedisse   |              | abb(atiss)a   | abb̅a          |            |   |   |   | dan |   |   |    |          390-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og          |              | oc            | oc            |            |   |   |   | dan |   |   |    |          390-01 | 1:protocol |          |  |    |    |    |    |
@@ -89,8 +89,8 @@ Særligt æ-tegn
 | w   |        | have        | xVB | have        |              | hawæ          | hawæ          |            |   |   |   | dan |   |   |    |          390-02 | 2:context |          |  |    |    |    |    |
 | w   |        | late        | xVB | ladet       |              | lad(et)       | ladꝫ          |            |   |   |   | dan |   |   |    |          390-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JenPed009   |     |             |              |               |               |            |   |   |   |     |   |   |    |                 |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Jon         |              | jon           | ȷon           |            |   |   |   | dan |   |   |    |          390-02 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Pedersen    |              | pæd(e)rss(øn) | pæd̅ꝛs        |            |   |   |   | dan |   |   |    |          390-02 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Jon         |              | jon           | ȷon           |            |   |   |   | dan |   |   |    |          390-02 | 2:context |          |  |1666|    |    |    |
+| w   |        |             | xNP | Pedersen    |              | pæd(e)rss(øn) | pæd̅ꝛs        |            |   |   |   | dan |   |   |    |          390-02 | 2:context |          |  |1666|    |    |    |
 | PE  | e      | JenPed009   |     |             |              |               |               |            |   |   |   |     |   |   |    |                 |          |          |  |    |    |    |    |
 | lm  | 390-03 |             |     |             |              |               |               |            |   |   |   |     |   |   |    |                 |          |          |  |    |    |    |    |
 | w   |        | af          | xAP | af          |              | aff           | aff           |            |   |   |   | dan |   |   |    |          390-03 | 2:context |          |  |    |    |    |    |
@@ -270,8 +270,8 @@ Særligt æ-tegn
 | w   |        | forstandere | xNC | forstanders | forstandæres | forstan¦dæres | foꝛſtan¦dæꝛes |            |   |   |   | dan |   |   |    | 390-10---390-11 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | insighle    | xNC | indsegl     |              | inseylæ       | ınſeẏlæ       |            |   |   |   | dan |   |   |    |          390-11 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | JepJen002   |     |             |              |               |               |            |   |   |   |     |   |   |    |                 |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Jeppe       |              | iep           | ıep           |            |   |   |   | dan |   |   |    |          390-11 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Jensen      |              | jenss(øn)     | ȷenſ         |            |   |   |   | dan |   |   |    |          390-11 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Jeppe       |              | iep           | ıep           |            |   |   |   | dan |   |   |    |          390-11 | 3:eschatocol |          |  |1667|    |    |    |
+| w   |        |             | xNP | Jensen      |              | jenss(øn)     | ȷenſ         |            |   |   |   | dan |   |   |    |          390-11 | 3:eschatocol |          |  |1667|    |    |    |
 | PE  | e      | JepJen002   |     |             |              |               |               |            |   |   |   |     |   |   |    |                 |          |          |  |    |    |    |    |
 | w   |        | thænne      | xDD | dette       |              | th(et)tæ      | thꝫtæ         |            |   |   |   | dan |   |   |    |          390-11 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | brev        | xNC | brev        |              | breef         | bꝛeef         |            |   |   |   | dan |   |   |    |          390-11 | 3:eschatocol |          |  |    |    |    |    |

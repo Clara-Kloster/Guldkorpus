@@ -45,8 +45,8 @@
 | d   | b      | 1           |     | protocol     |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | jak         | xPE | jeg          |   | Jek             | Jek          |   |   |   |   | dan |   |   |   |        439-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | PedDeg001   |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Peder        |   | pedh(e)r        | pedhꝛ       |   |   |   |   | dan |   |   |   |        439-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Degn         |   | diengh          | diengh       |   |   |   |   | dan |   |   |   |        439-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Peder        |   | pedh(e)r        | pedhꝛ       |   |   |   |   | dan |   |   |   |        439-01 | 1:protocol |          |  |2093|    |    |    |
+| w   |        |             | xNP | Degn         |   | diengh          | diengh       |   |   |   |   | dan |   |   |   |        439-01 | 1:protocol |          |  |2093|    |    |    |
 | PE  | e      | PedDeg001   |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | af          | xAP | af           |   | aff             | aff          |   |   |   |   | dan |   |   |   |        439-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -108,8 +108,8 @@
 | w   |        | beskethen   | xAJ | beskeden     |   | beskeden        | beſkede     |   |   |   |   | dan |   |   |   |        439-04 | 2:context |          |  |    |    |    |    |
 | w   |        | man         | xNC | mand         |   | ma(n)           | ma̅           |   |   |   |   | dan |   |   |   |        439-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Hans         |   | hans            | han         |   |   |   |   | dan |   |   |   |        439-04 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Jensen       |   | jenss(øn)       | jenſ        |   |   |   |   | dan |   |   |   |        439-04 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Hans         |   | hans            | han         |   |   |   |   | dan |   |   |   |        439-04 | 2:context |          |  |2094|    |    |    |
+| w   |        |             | xNP | Jensen       |   | jenss(øn)       | jenſ        |   |   |   |   | dan |   |   |   |        439-04 | 2:context |          |  |2094|    |    |    |
 | PE  | e      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | hæreth      | xNC | herreds      |   | hær(is)         | hærꝭ         |   |   |   |   | dan |   |   |   |        439-04 | 2:context |          |  |    |    |    |    |
 | w   |        | foghet      | xNC | foged        |   | fowedh          | fowedh       |   |   |   |   | dan |   |   |   |        439-04 | 2:context |          |  |    |    |    |    |
@@ -137,8 +137,8 @@
 | lm  | 439-06 |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | være        | xVB | var          |   | ⸍vor⸌           | ⸍voꝛ⸌        |   |   |   |   | dan |   |   |   |        439-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JepLau001   |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Jep          |   | jep             | jep          |   |   |   |   | dan |   |   |   |        439-06 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Laurensen    |   | lawr(e)ss(øn)   | lawꝛſ      |   |   |   |   | dan |   |   |   |        439-06 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Jep          |   | jep             | jep          |   |   |   |   | dan |   |   |   |        439-06 | 2:context |          |  |2095|    |    |    |
+| w   |        |             | xNP | Laurensen    |   | lawr(e)ss(øn)   | lawꝛſ      |   |   |   |   | dan |   |   |   |        439-06 | 2:context |          |  |2095|    |    |    |
 | PE  | e      | JepLau001   |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | af          | xAP | af           |   | aff             | aff          |   |   |   |   | dan |   |   |   |        439-06 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -165,8 +165,8 @@
 | w   |        | beskethen   | xAJ | beskeden     |   | beskedh(e)n     | beſkedhn̅     |   |   |   |   | dan |   |   |   |        439-07 | 2:context |          |  |    |    |    |    |
 | w   |        | man         | xNC | mand         |   | ma(n)           | ma̅           |   |   |   |   | dan |   |   |   |        439-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | LarMor001   |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Lars         |   | lasse           | laſſe        |   |   |   |   | dan |   |   |   |        439-07 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Mortensen    |   | morth(e)nss(øn) | moꝛthn̅ſ     |   |   |   |   | dan |   |   |   |        439-07 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Lars         |   | lasse           | laſſe        |   |   |   |   | dan |   |   |   |        439-07 | 2:context |          |  |2096|    |    |    |
+| w   |        |             | xNP | Mortensen    |   | morth(e)nss(øn) | moꝛthn̅ſ     |   |   |   |   | dan |   |   |   |        439-07 | 2:context |          |  |2096|    |    |    |
 | PE  | e      | LarMor001   |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | af          | xAP | af           |   | aff             | aff          |   |   |   |   | dan |   |   |   |        439-07 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -226,8 +226,8 @@
 | w   |        | finne       | xVB | fandtes      |   | fans            | fan         |   |   |   |   | dan |   |   |   |        439-10 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd    | xAJ | fornævnte    |   | for(nefnde)     | foꝛᷠͤ          |   |   |   |   | dan |   |   |   |        439-10 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JepLau001   |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Jep          |   | jep             | jep          |   |   |   |   | dan |   |   |   |        439-10 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Laurensen    |   | lawr(e)ss(øn)   | lawꝛſ      |   |   |   |   | dan |   |   |   |        439-10 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Jep          |   | jep             | jep          |   |   |   |   | dan |   |   |   |        439-10 | 2:context |          |  |2097|    |    |    |
+| w   |        |             | xNP | Laurensen    |   | lawr(e)ss(øn)   | lawꝛſ      |   |   |   |   | dan |   |   |   |        439-10 | 2:context |          |  |2097|    |    |    |
 | PE  | e      | JepLau001   |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 439-11 |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | kvit        | xAJ | kvit         |   | quith           | quith        |   |   |   |   | dan |   |   |   |        439-11 | 2:context |          |  |    |    |    |    |

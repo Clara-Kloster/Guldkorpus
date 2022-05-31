@@ -57,8 +57,8 @@ Same scribe as XXIX, 12
 | w   |        | helse       | xVB | hilser         |   | hilser           | hılſer        |   |   |   |        | dan |   |   |    |        363-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | jak         | xPE | jeg            |   | jac              | ȷac           |   |   |   |        | dan |   |   |    |        363-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | PedBen001   |     |                |   |                  |               |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Peder          |   | peth(e)r         | pethꝛ        |   |   |   |        | dan |   |   |    |        363-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Bentsen        |   | beyntss(øn)      | beyntſ       |   |   |   |        | dan |   |   |    |        363-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Peder          |   | peth(e)r         | pethꝛ        |   |   |   |        | dan |   |   |    |        363-01 | 1:protocol |          |  |1487|    |    |    |
+| w   |        |             | xNP | Bentsen        |   | beyntss(øn)      | beyntſ       |   |   |   |        | dan |   |   |    |        363-01 | 1:protocol |          |  |1487|    |    |    |
 | PE  | e      | PedBen001   |     |                |   |                  |               |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | byman       | xNC | bymand         |   | byman            | byma         |   |   |   |        | dan |   |   |    |        363-01 | 1:protocol |          |  |    |    |    |    |
 | lm  | 363-02 |             |     |                |   |                  |               |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -159,10 +159,10 @@ Same scribe as XXIX, 12
 | w   |        | min         | xDP | min            |   | my(n)            | my̅            |   |   |   |        | dan |   |   |    |        363-08 | 2:context |          |  |    |    |    |    |
 | w   |        | dotter      | xNC | datter         |   | doter            | doter         |   |   |   |        | dan |   |   |    |        363-08 | 2:context |          |  |    |    |    |    |
 | PE  | b      | KatPed001   |     |                |   |                  |               |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Katrine        |   | karyne           | kaꝛyne        |   |   |   |        | dan |   |   |    |        363-08 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Peders         |   | peth(er)s        | peth        |   |   |   |        | dan |   |   |    |        363-08 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Katrine        |   | karyne           | kaꝛyne        |   |   |   |        | dan |   |   |    |        363-08 | 2:context |          |  |1488|    |    |    |
+| w   |        |             | xNP | Peders         |   | peth(er)s        | peth        |   |   |   |        | dan |   |   |    |        363-08 | 2:context |          |  |1488|    |    |    |
 | lm  | 363-09 |             |     |                |   |                  |               |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        | dotter      | xNC | datter         |   | dotter           | dotter        |   |   |   |        | dan |   |   |    |        363-09 | 2:context |          |  |    |    |    |    |
+| w   |        | dotter      | xNC | datter         |   | dotter           | dotter        |   |   |   |        | dan |   |   |    |        363-09 | 2:context |          |  |1488|    |    |    |
 | PE  | e      | KatPed001   |     |                |   |                  |               |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | til         | xAP | til            |   | till             | tıll          |   |   |   |        | dan |   |   |    |        363-09 | 2:context |          |  |    |    |    |    |
 | w   |        | æværthelik  | xAJ | everdelige     |   | ewerdelike       | eweꝛdelıke    |   |   |   |        | dan |   |   |    |        363-09 | 2:context |          |  |    |    |    |    |
@@ -226,8 +226,8 @@ Same scribe as XXIX, 12
 | w   |        | jak         | xPE | jeg            |   | jac              | ȷac           |   |   |   |        | dan |   |   |    |        363-13 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | fornævnd    | xAJ | fornævnte      |   | forneffndde      | foꝛneffndde   |   |   |   |        | dan |   |   |    |        363-13 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | PedBen001   |     |                |   |                  |               |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Peder          |   | per              | per           |   |   |   |        | dan |   |   | =  |        363-13 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Bentsen        |   | beyntss(øn)      | beyntſ       |   |   |   |        | dan |   |   | == |        363-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Peder          |   | per              | per           |   |   |   |        | dan |   |   | =  |        363-13 | 3:eschatocol |          |  |1489|    |    |    |
+| w   |        |             | xNP | Bentsen        |   | beyntss(øn)      | beyntſ       |   |   |   |        | dan |   |   | == |        363-13 | 3:eschatocol |          |  |1489|    |    |    |
 | PE  | e      | PedBen001   |     |                |   |                  |               |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | min         | xDP | mit            |   | mit              | mit           |   |   |   |        | dan |   |   |    |        363-13 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 363-14 |             |     |                |   |                  |               |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -241,8 +241,8 @@ Same scribe as XXIX, 12
 | w   |        | sum         | xRP | som            |   | som              | ſo           |   |   |   |        | dan |   |   |    |        363-14 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | være        | xVB | er             |   | er               | er            |   |   |   |        | dan |   |   |    |        363-14 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | JepMog001   |     |                |   |                  |               |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Jep            |   | jepp             | ȷe           |   |   |   |        | dan |   |   |    |        363-14 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Mogensen       |   | mowenss(øn)      | mowenſ       |   |   |   |        | dan |   |   |    |        363-14 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Jep            |   | jepp             | ȷe           |   |   |   |        | dan |   |   |    |        363-14 | 3:eschatocol |          |  |1490|    |    |    |
+| w   |        |             | xNP | Mogensen       |   | mowenss(øn)      | mowenſ       |   |   |   |        | dan |   |   |    |        363-14 | 3:eschatocol |          |  |1490|    |    |    |
 | PE  | e      | JepMog001   |     |                |   |                  |               |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | rathman     | xNC | rådmand        |   | rathma(m)        | rathma̅        |   |   |   |        | dan |   |   |    |        363-14 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 363-15 |             |     |                |   |                  |               |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -252,13 +252,13 @@ Same scribe as XXIX, 12
 | PL  | e      |             |     |                |   |                  |               |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og             |   | oc               | oc            |   |   |   |        | dan |   |   |    |        363-15 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | JenTru001   |     |                |   |                  |               |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Jens           |   | jes              | ȷe           |   |   |   |        | dan |   |   |    |        363-15 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Truesen        |   | thrwuess(øn)     | thꝛwűeſ      |   |   |   |        | dan |   |   |    |        363-15 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Jens           |   | jes              | ȷe           |   |   |   |        | dan |   |   |    |        363-15 | 3:eschatocol |          |  |1491|    |    |    |
+| w   |        |             | xNP | Truesen        |   | thrwuess(øn)     | thꝛwűeſ      |   |   |   |        | dan |   |   |    |        363-15 | 3:eschatocol |          |  |1491|    |    |    |
 | PE  | e      | JenTru001   |     |                |   |                  |               |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og             |   | oc               | oc            |   |   |   |        | dan |   |   |    |        363-15 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | MadPed001   |     |                |   |                  |               |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Mads           |   | mattes           | matte        |   |   |   |        | dan |   |   |    |        363-15 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Pedersen       |   | pett(e)rss(øn)   | pettꝛſ      |   |   |   |        | dan |   |   |    |        363-15 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Mads           |   | mattes           | matte        |   |   |   |        | dan |   |   |    |        363-15 | 3:eschatocol |          |  |1492|    |    |    |
+| w   |        |             | xNP | Pedersen       |   | pett(e)rss(øn)   | pettꝛſ      |   |   |   |        | dan |   |   |    |        363-15 | 3:eschatocol |          |  |1492|    |    |    |
 | PE  | e      | MadPed001   |     |                |   |                  |               |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | byman       | xNC | bymænd         |   | byme(n)          | byme̅          |   |   |   |        | dan |   |   |    |        363-15 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | innen       | xAP | inden          |   | jnne(n)          | ȷnne̅          |   |   |   |        | dan |   |   |    |        363-15 | 3:eschatocol |          |  |    |    |    |    |

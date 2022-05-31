@@ -49,9 +49,9 @@ Jfr. LIII 22
 | w   |        |   |   |   |   | c(er)nentib(us)  | c͛nentıbꝫ     |   |   |   |   | lat |   |   |   |        118-01 | 1:protocol |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /                | /            |   |   |   |   | lat |   |   |   |        118-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | PedTru001  |   |   |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | petrus           | petru       |   |   |   |   | lat |   |   |   |        118-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | thrʉʉnt          | thrʉʉnt      |   |   |   |   | dan |   |   |   |        118-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | s(un)            |             |   |   |   |   | dan |   |   |   |        118-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | petrus           | petru       |   |   |   |   | lat |   |   |   |        118-01 | 1:protocol |          |  |462|    |    |    |
+| w   |        |   |   |   |   | thrʉʉnt          | thrʉʉnt      |   |   |   |   | dan |   |   |   |        118-01 | 1:protocol |          |  |462|    |    |    |
+| w   |        |   |   |   |   | s(un)            |             |   |   |   |   | dan |   |   |   |        118-01 | 1:protocol |          |  |462|    |    |    |
 | PE  | e      | PedTru001  |   |   |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Sal(ute)m        | Sl̅         |   |   |   |   | lat |   |   |   |        118-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | in               | ın           |   |   |   |   | lat |   |   |   |        118-01 | 1:protocol |          |  |    |    |    |    |
@@ -66,7 +66,7 @@ Jfr. LIII 22
 | w   |        |   |   |   |   | inspirante       | ınſpırnte   |   |   |   |   | lat |   |   |   |        118-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ego              | ego          |   |   |   |   | lat |   |   |   |        118-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      | PedTru001  |   |   |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | petr(us)         | petrꝰ        |   |   |   |   | lat |   |   |   |        118-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | petr(us)         | petrꝰ        |   |   |   |   | lat |   |   |   |        118-02 | 2:context |          |  |463|    |    |    |
 | PE  | e      | PedTru001  |   |   |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | sollicit(us)     | ſollıcıtꝰ    |   |   |   |   | lat |   |   |   |        118-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | de               | de           |   |   |   |   | lat |   |   |   |        118-02 | 2:context |          |  |    |    |    |    |
@@ -198,7 +198,7 @@ Jfr. LIII 22
 | w   |        |   |   |   |   | d(omi)nor(um)    | dnoꝝ        |   |   |   |   | lat |   |   |   |        118-08 | 3:eschatocol |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /                | /            |   |   |   |   | lat |   |   |   |        118-08 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | MogDec001  |   |   |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | magni            | gní        |   |   |   |   | lat |   |   |   |        118-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | magni            | gní        |   |   |   |   | lat |   |   |   |        118-08 | 3:eschatocol |          |  |464|    |    |    |
 | PE  | e      | MogDec001  |   |   |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                | .            |   |   |   |   | lat |   |   |   |        118-08 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 118-09 |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -208,7 +208,7 @@ Jfr. LIII 22
 | PL  | e      |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (et)             | ⁊            |   |   |   |   | lat |   |   |   |        118-09 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | PedSak001  |   |   |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | petri            | petrí        |   |   |   |   | lat |   |   |   |        118-09 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | petri            | petrí        |   |   |   |   | lat |   |   |   |        118-09 | 3:eschatocol |          |  |465|    |    |    |
 | PE  | e      | PedSak001  |   |   |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | eiusde(m)        | eíuſde̅       |   |   |   |   | lat |   |   |   |        118-09 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | loci             | locı         |   |   |   |   | lat |   |   |   |        118-09 | 3:eschatocol |          |  |    |    |    |    |
@@ -221,14 +221,14 @@ Jfr. LIII 22
 | w   |        |   |   |   |   | d(omi)nor(um)    | dnoꝝ        |   |   |   |   | lat |   |   |   |        118-09 | 3:eschatocol |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /                | /            |   |   |   |   | lat |   |   |   |        118-09 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | PedGru001  |   |   |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | petri            | petrı        |   |   |   |   | lat |   |   |   |        118-09 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | grubby           | grubby       |   |   |   |   | dan? |   |   |   |        118-09 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | petri            | petrı        |   |   |   |   | lat |   |   |   |        118-09 | 3:eschatocol |          |  |466|    |    |    |
+| w   |        |   |   |   |   | grubby           | grubby       |   |   |   |   | dan? |   |   |   |        118-09 | 3:eschatocol |          |  |466|    |    |    |
 | PE  | e      | PedGru001  |   |   |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 118-10 |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (et)             | ⁊            |   |   |   |   | lat |   |   |   |        118-10 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | NieMan001  |   |   |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicholai         | nıcholaı     |   |   |   |   | lat |   |   |   |        118-10 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | manthorp         | manthoꝛp     |   |   |   |   | dan |   |   |   |        118-10 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nicholai         | nıcholaı     |   |   |   |   | lat |   |   |   |        118-10 | 3:eschatocol |          |  |467|    |    |    |
+| w   |        |   |   |   |   | manthorp         | manthoꝛp     |   |   |   |   | dan |   |   |   |        118-10 | 3:eschatocol |          |  |467|    |    |    |
 | PE  | e      | NieMan001  |   |   |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | utor             | utoꝛ         |   |   |   |   | lat |   |   |   |        118-10 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | i(n)             | ı̅            |   |   |   |   | lat |   |   |   |        118-10 | 3:eschatocol |          |  |    |    |    |    |

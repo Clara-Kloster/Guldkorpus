@@ -46,9 +46,9 @@
 | d   | b      | 1             |     | protocol      |   |                       |               |   |   |   |                 |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | jak           | xPE | jeg           |   | Jeg                   | Jeg           |   |   |   |                 | dan |   |   |    |        447-01 | 1:protocol |          |  |    |    |    |    |
 | PE  |      b | SofPed001     |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Sofie         |   | Soaphie               | oaphie       |   |   |   |                 | dan |   |   |    |        447-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |               | xNP | Billes        |   | biilliis              | biillii      |   |   |   |                 | dan |   |   |    |        447-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        | dotter        | xNC | datter        |   | datter                | datter        |   |   |   |                 | dan |   |   |    |        447-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Sofie         |   | Soaphie               | oaphie       |   |   |   |                 | dan |   |   |    |        447-01 | 1:protocol |          |  |2140|    |    |    |
+| w   |        |               | xNP | Billes        |   | biilliis              | biillii      |   |   |   |                 | dan |   |   |    |        447-01 | 1:protocol |          |  |2140|    |    |    |
+| w   |        | dotter        | xNC | datter        |   | datter                | datter        |   |   |   |                 | dan |   |   |    |        447-01 | 1:protocol |          |  |2140|    |    |    |
 | PE  |      e | SofPed001     |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | abbetisse     | xNC | abbedisse     |   | Abbadisee             | Abbadiſee     |   |   |   |                 | dan |   |   |    |        447-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | uti           | xAP | udi           |   | vtj                   | vtj           |   |   |   |                 | dan |   |   |    |        447-01 | 1:protocol |          |  |    |    |    |    |
@@ -108,8 +108,8 @@
 | w   |        | fornumstigh   | xAJ | fornumstig    |   | ffornwmstig           | ffoꝛnwmſtig   |   |   |   |                 | dan |   |   |    |        447-05 | 2:context |          |  |    |    |    |    |
 | w   |        | man           | xNC | mand          |   | ma(n)dt               | ma̅dt          |   |   |   |                 | dan |   |   |    |        447-05 | 2:context |          |  |    |    |    |    |
 | PE  |      b | JepNie002     |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Jep           |   | Jep                   | Jep           |   |   |   |                 | dan |   |   |    |        447-05 | 2:context |          |  |    |    |    |    |
-| w   |        |               | xNP | Nielsen       |   | nielsse(n)n           | nielße̅n       |   |   |   |                 | dan |   |   |    |        447-05 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Jep           |   | Jep                   | Jep           |   |   |   |                 | dan |   |   |    |        447-05 | 2:context |          |  |2141|    |    |    |
+| w   |        |               | xNP | Nielsen       |   | nielsse(n)n           | nielße̅n       |   |   |   |                 | dan |   |   |    |        447-05 | 2:context |          |  |2141|    |    |    |
 | PE  |      e | JepNie002     |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |          |          |  |    |    |    |    |
 | lm  | 447-06 |               |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | burghemæstere | xNC | borgmester    |   | borgem(e)st(e)r       | boꝛgem̅ſtꝛ     |   |   |   |                 | dan |   |   |    |        447-06 | 2:context |          |  |    |    |    |    |
@@ -120,7 +120,7 @@
 | w   |        | han           | xPE | hans          |   | hans                  | han          |   |   |   |                 | dan |   |   |    |        447-06 | 2:context |          |  |    |    |    |    |
 | w   |        | husfrue       | xNC | husfrue       |   | hwsfrwe               | hwſfꝛwe       |   |   |   |                 | dan |   |   |    |        447-06 | 2:context |          |  |    |    |    |    |
 | PE  |      b | EliXxx001     |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Elisabet      |   | elissabet             | elißabet      |   |   |   |                 | dan |   |   |    |        447-06 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Elisabet      |   | elissabet             | elißabet      |   |   |   |                 | dan |   |   |    |        447-06 | 2:context |          |  |2142|    |    |    |
 | PE  |      e | EliXxx001     |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | thæn          | xPE | deres         |   | ther(is)              | theꝛꝭ         |   |   |   |                 | dan |   |   |    |        447-06 | 2:context |          |  |    |    |    |    |
 | w   |        | barn          | xNC | børn          |   | børnn(n)              | bøꝛnn̅         |   |   |   |                 | dan |   |   |    |        447-06 | 2:context |          |  |    |    |    |    |
@@ -203,8 +203,8 @@
 | w   |        | fornævnd      | xAJ | fornævnte     |   | for(nefnde)           | foꝛᷠᷠͤ           |   |   |   | bar over nn-sup | dan |   |   |    |        447-12 | 2:context |          |  |    |    |    |    |
 | lm  | 447-13 |               |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |          |          |  |    |    |    |    |
 | PE  |      b | JepNie002     |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Jep           |   | Jep                   | Jep           |   |   |   |                 | dan |   |   |    |        447-13 | 2:context |          |  |    |    |    |    |
-| w   |        |               | xNP | Nielsen       |   | nielsss(e)nn          | nielſß̅nn      |   |   |   |                 | dan |   |   |    |        447-13 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Jep           |   | Jep                   | Jep           |   |   |   |                 | dan |   |   |    |        447-13 | 2:context |          |  |2143|    |    |    |
+| w   |        |               | xNP | Nielsen       |   | nielsss(e)nn          | nielſß̅nn      |   |   |   |                 | dan |   |   |    |        447-13 | 2:context |          |  |2143|    |    |    |
 | PE  |      e | JepNie002     |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | han           | xPE | hans          |   | hans                  | han          |   |   |   |                 | dan |   |   |    |        447-13 | 2:context |          |  |    |    |    |    |
 | w   |        | husfrue       | xNC | husfrue       |   | hwsfrue               | hwſfꝛŭe       |   |   |   |                 | dan |   |   |    |        447-13 | 2:context |          |  |    |    |    |    |
@@ -307,8 +307,8 @@
 | w   |        | sum           | xAV | som           |   | som                   | ſo           |   |   |   |                 | dan |   |   |    |        447-21 | 2:context |          |  |    |    |    |    |
 | w   |        | forskreven    | xAJ | forskrevne    |   | forscr(reffne)        | foꝛſcꝛꝭͩͤ       |   |   |   |                 | dan |   |   |    |        447-21 | 2:context |          |  |    |    |    |    |
 | PE  |      b | JepNie002     |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Jep           |   | Jep                   | Jep           |   |   |   |                 | dan |   |   |    |        447-21 | 2:context |          |  |    |    |    |    |
-| w   |        |               | xNP | Nielsen       |   | nielsss(e)nn          | nielſßnn̅      |   |   |   |                 | dan |   |   |    |        447-21 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Jep           |   | Jep                   | Jep           |   |   |   |                 | dan |   |   |    |        447-21 | 2:context |          |  |2144|    |    |    |
+| w   |        |               | xNP | Nielsen       |   | nielsss(e)nn          | nielſßnn̅      |   |   |   |                 | dan |   |   |    |        447-21 | 2:context |          |  |2144|    |    |    |
 | PE  |      e | JepNie002     |     |               |   |                       |               |   |   |   |                 |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | han           | xPE | hans          |   | hans                  | han          |   |   |   |                 | dan |   |   |    |        447-21 | 2:context |          |  |    |    |    |    |
 | w   |        | husfrue       | xNC | husfrue       |   | husfrwe               | hűſfꝛe       |   |   |   |                 | dan |   |   |    |        447-21 | 2:context |          |  |    |    |    |    |

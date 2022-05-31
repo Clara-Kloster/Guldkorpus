@@ -49,16 +49,16 @@
 | w   |       |   |   |   |   | inspecturis       | ínſpeurıs   |             |   |   |        | lat |   |   |    | 70-01 | 1:protocol |          |  |    |    |    |    |
 | p   |       |   |   |   |   | .                 | .            |             |   |   |        | lat |   |   |    | 70-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b     | GroGun001  |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Gro               | Gro          |             |   |   |        | lat |   |   |    | 70-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Gro               | Gro          |             |   |   |        | lat |   |   |    | 70-01 | 1:protocol |          |  |314|    |    |    |
 | PE  | e     | GroGun001  |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | filia             | fılıa        |             |   |   |        | lat |   |   |    | 70-01 | 1:protocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | domini            | ꝺomíní       |             |   |   |        | lat |   |   |    | 70-01 | 1:protocol |          |  |    |    |    |    |
 | p   |       |   |   |   |   | .                 | .            |             |   |   |        | lat |   |   |    | 70-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b     | GunVin001  |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Gunni             | Gunnı        |             |   |   |        | lat |   |   |    | 70-01 | 1:protocol |          |  |    |    |    |    |
-| p   |       |   |   |   |   | .                 | .            |             |   |   |        | lat |   |   |    | 70-01 | 1:protocol |          |  |    |    |    |    |
-| w   |       |   |   |   |   | d(i)c(t)i         | ꝺc̅ı          |             |   |   |        | lat |   |   |    | 70-01 | 1:protocol |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Wint              | Wınt         |             |   |   |        | lat |   |   |    | 70-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Gunni             | Gunnı        |             |   |   |        | lat |   |   |    | 70-01 | 1:protocol |          |  |315|    |    |    |
+| p   |       |   |   |   |   | .                 | .            |             |   |   |        | lat |   |   |    | 70-01 | 1:protocol |          |  |315|    |    |    |
+| w   |       |   |   |   |   | d(i)c(t)i         | ꝺc̅ı          |             |   |   |        | lat |   |   |    | 70-01 | 1:protocol |          |  |315|    |    |    |
+| w   |       |   |   |   |   | Wint              | Wınt         |             |   |   |        | lat |   |   |    | 70-01 | 1:protocol |          |  |315|    |    |    |
 | PE  | e     | GunVin001  |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | Salutem           | Salutem      |             |   |   |        | lat |   |   |    | 70-01 | 1:protocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | in                | ın           |             |   |   |        | lat |   |   |    | 70-01 | 1:protocol |          |  |    |    |    |    |
@@ -114,15 +114,15 @@
 | w   |       |   |   |   |   | ego               | ego          |             |   |   |        | lat |   |   |    | 70-03 | 2:context |          |  |    |    |    |    |
 | p   |       |   |   |   |   | .                 | .            |             |   |   |        | lat |   |   |    | 70-03 | 2:context |          |  |    |    |    |    |
 | PE  | b     | GroGun001  |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Gro               | Gɼo          |             |   |   |        | lat |   |   |    | 70-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Gro               | Gɼo          |             |   |   |        | lat |   |   |    | 70-03 | 2:context |          |  |316|    |    |    |
 | PE  | e     | GroGun001  |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | que               | que          |             |   |   |        | lat |   |   |    | 70-03 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | fui               | fuı          |             |   |   |        | lat |   |   |    | 70-03 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | vxor              | ỽxoꝛ         |             |   |   |        | lat |   |   |    | 70-03 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | d(omi)ni          | ꝺn̅ı          |             |   |   |        | lat |   |   |    | 70-03 | 2:context |          |  |    |    |    |    |
 | PE  | b     | EsbVag001  |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | esberni           | eſbernı      |             |   |   |        | lat |   |   |    | 70-03 | 2:context |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Wowensun          | Wowenſun     |             |   |   |        | lat |   |   |    | 70-03 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | esberni           | eſbernı      |             |   |   |        | lat |   |   |    | 70-03 | 2:context |          |  |317|    |    |    |
+| w   |       |   |   |   |   | Wowensun          | Wowenſun     |             |   |   |        | lat |   |   |    | 70-03 | 2:context |          |  |317|    |    |    |
 | PE  | e     | EsbVag001  |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
 | p   |       |   |   |   |   | .                 | .            |             |   |   |        | lat |   |   |    | 70-03 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | n(on)             | n̅            |             |   |   |        | lat |   |   |    | 70-03 | 2:context |          |  |    |    |    |    |
@@ -252,14 +252,14 @@
 | w   |       |   |   |   |   | d(omi)na          | ꝺn̅          |             |   |   |        | lat |   |   |    | 70-07 | 2:context |          |  |    |    |    |    |
 | lm  | 70-08 |   |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
 | PE  | b     | MarGun001  |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | magareta          | mget      |             |   |   |        | lat |   |   |    | 70-08 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | magareta          | mget      |             |   |   |        | lat |   |   |    | 70-08 | 2:context |          |  |318|    |    |    |
 | PE  | e     | MarGun001  |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | Relicta           | Relı       |             |   |   |        | lat |   |   |    | 70-08 | 2:context |          |  |    |    |    |    |
 | p   |       |   |   |   |   | .                 | .            |             |   |   |        | lat |   |   |    | 70-08 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | d(omi)ni          | ꝺn̅ı          |             |   |   |        | lat |   |   |    | 70-08 | 2:context |          |  |    |    |    |    |
 | PE  | b     | IveTag001  |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Jwari             | Jwı         |             |   |   |        | lat |   |   |    | 70-08 | 2:context |          |  |    |    |    |    |
-| w   |       |   |   |   |   | tachisun          | tchıſun     |             |   |   |        | lat |   |   |    | 70-08 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Jwari             | Jwı         |             |   |   |        | lat |   |   |    | 70-08 | 2:context |          |  |319|    |    |    |
+| w   |       |   |   |   |   | tachisun          | tchıſun     |             |   |   |        | lat |   |   |    | 70-08 | 2:context |          |  |319|    |    |    |
 | PE  | e     | IveTag001  |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
 | p   |       |   |   |   |   | .                 | .            |             |   |   |        | lat |   |   |    | 70-08 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | tenet(ur)         | tenet᷑        |             |   |   |        | lat |   |   |    | 70-08 | 2:context |          |  |    |    |    |    |
@@ -282,12 +282,12 @@
 | w   |       |   |   |   |   | d(omi)ne          | ꝺn̅e          |             |   |   |        | lat |   |   |    | 70-09 | 2:context |          |  |    |    |    |    |
 | PE  | b     | BodGun001  |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
 | de  | X     |   |   |   |   |                   | erasure      |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | bo⸠l⸡theld        | bo⸠l⸡thelꝺ   |             |   |   |        | lat |   |   |    | 70-09 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | bo⸠l⸡theld        | bo⸠l⸡thelꝺ   |             |   |   |        | lat |   |   |    | 70-09 | 2:context |          |  |320|    |    |    |
 | PE  | e     | BodGun001  |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | vxori             | ỽxoꝛı        |             |   |   |        | lat |   |   |    | 70-09 | 2:context |          |  |    |    |    |    |
 | PE  | b     | NieKro001  |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Nicolai           | Nıcolaı      |             |   |   |        | lat |   |   |    | 70-09 | 2:context |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Croc              | Cʀoc         |             |   |   |        | lat |   |   |    | 70-09 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Nicolai           | Nıcolaı      |             |   |   |        | lat |   |   |    | 70-09 | 2:context |          |  |321|    |    |    |
+| w   |       |   |   |   |   | Croc              | Cʀoc         |             |   |   |        | lat |   |   |    | 70-09 | 2:context |          |  |321|    |    |    |
 | PE  | e     | NieKro001  |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | dedi              | ꝺeꝺı         |             |   |   |        | lat |   |   |    | 70-09 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | curiam            | curım       |             |   |   |        | lat |   |   |    | 70-09 | 2:context |          |  |    |    |    |    |
@@ -336,10 +336,10 @@
 | PL  | e     |   |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
 | p   |       |   |   |   |   | .                 | .            |             |   |   |        | lat |   |   |    | 70-10 | 2:context |          |  |    |    |    |    |
 | PE  | b     | NieKro001  |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Nicolau(s)        | Nıcoluꝰ     |             |   |   |        | lat |   |   |    | 70-10 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Nicolau(s)        | Nıcoluꝰ     |             |   |   |        | lat |   |   |    | 70-10 | 2:context |          |  |322|    |    |    |
 | lm  | 70-11 |   |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | vero              | ỽero         |             |   |   |        | lat |   |   |    | 70-11 | 2:context |          |  |    |    |    |    |
-| w   |       |   |   |   |   | croc              | croc         |             |   |   |        | lat |   |   |    | 70-11 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | vero              | ỽero         |             |   |   |        | lat |   |   |    | 70-11 | 2:context |          |  |322|    |    |    |
+| w   |       |   |   |   |   | croc              | croc         |             |   |   |        | lat |   |   |    | 70-11 | 2:context |          |  |322|    |    |    |
 | PE  | e     | NieKro001  |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | dil(e)c(tu)s      | ꝺılc̅s        |             |   |   |        | lat |   |   |    | 70-11 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | soc(er)           | ſoc͛          |             |   |   |        | lat |   |   |    | 70-11 | 2:context |          |  |    |    |    |    |
@@ -378,7 +378,7 @@
 | w   |       |   |   |   |   | ancille           | ncılle      |             |   |   |        | lat |   |   |    | 70-12 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | mee               | mee          |             |   |   |        | lat |   |   |    | 70-12 | 2:context |          |  |    |    |    |    |
 | PE  | b     | KatAnc001  |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Katerine          | Kteríne     |             |   |   |        | lat |   |   |    | 70-12 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Katerine          | Kteríne     |             |   |   |        | lat |   |   |    | 70-12 | 2:context |          |  |323|    |    |    |
 | PE  | e     | KatAnc001  |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | valentem          | ỽalentem     |             |   |   |        | lat |   |   |    | 70-12 | 2:context |          |  |    |    |    |    |
 | de  | b     |   |   |   |   |                   | overstrike   |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
@@ -669,8 +669,8 @@
 | w   |       |   |   |   |   | d(omi)n(u)s       | ꝺn̅s          |             |   |   |        | lat |   |   |    | 70-20 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | meus              | meus         |             |   |   |        | lat |   |   |    | 70-20 | 2:context |          |  |    |    |    |    |
 | PE  | b     | EsbVag001  |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | esb(er)nus        | eſb͛nus       |             |   |   |        | lat |   |   |    | 70-20 | 2:context |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Wowensun          | Wowenſun     |             |   |   |        | lat |   |   |    | 70-20 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | esb(er)nus        | eſb͛nus       |             |   |   |        | lat |   |   |    | 70-20 | 2:context |          |  |324|    |    |    |
+| w   |       |   |   |   |   | Wowensun          | Wowenſun     |             |   |   |        | lat |   |   |    | 70-20 | 2:context |          |  |324|    |    |    |
 | PE  | e     | EsbVag001  |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | (con)fero         | ꝯfero        |             |   |   |        | lat |   |   |    | 70-20 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | duas              | ꝺuas         |             |   |   |        | lat |   |   |    | 70-20 | 2:context |          |  |    |    |    |    |
@@ -746,8 +746,8 @@
 | w   |       |   |   |   |   | t(antu)m          | tm̅           |             |   |   |        | lat |   |   |    | 70-22 | 2:context |          |  |    |    |    |    |
 | p   |       |   |   |   |   | .                 | .            |             |   |   |        | lat |   |   |    | 70-22 | 2:context |          |  |    |    |    |    |
 | PE  | b     | PedPal001  |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Pet(ro)           | Petͦ          |             |   |   |        | lat |   |   |    | 70-22 | 2:context |          |  |    |    |    |    |
-| w   |       |   |   |   |   | palnisun          | palnıſun     |             |   |   |        | lat |   |   |    | 70-22 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Pet(ro)           | Petͦ          |             |   |   |        | lat |   |   |    | 70-22 | 2:context |          |  |325|    |    |    |
+| w   |       |   |   |   |   | palnisun          | palnıſun     |             |   |   |        | lat |   |   |    | 70-22 | 2:context |          |  |325|    |    |    |
 | PE  | e     | PedPal001  |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | dil(e)c(t)o       | ꝺılc̅o        |             |   |   |        | lat |   |   |    | 70-22 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | g(er)mano         | g͛mno        |             |   |   |        | lat |   |   |    | 70-22 | 2:context |          |  |    |    |    |    |
@@ -768,8 +768,8 @@
 | w   |       |   |   |   |   | fr(atr)i          | fɼ̅ı          |             |   |   |        | lat |   |   |    | 70-23 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | meo               | meo          |             |   |   |        | lat |   |   |    | 70-23 | 2:context |          |  |    |    |    |    |
 | PE  | b     | TorGun001  |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | thorchillo        | thoꝛchıllo   |             |   |   |        | lat |   |   |    | 70-23 | 2:context |          |  |    |    |    |    |
-| w   |       |   |   |   |   | gu(n)nørsun       | gu̅nørſun     |             |   |   |        | lat |   |   |    | 70-23 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | thorchillo        | thoꝛchıllo   |             |   |   |        | lat |   |   |    | 70-23 | 2:context |          |  |326|    |    |    |
+| w   |       |   |   |   |   | gu(n)nørsun       | gu̅nørſun     |             |   |   |        | lat |   |   |    | 70-23 | 2:context |          |  |326|    |    |    |
 | PE  | e     | TorGun001  |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | t(er)ram          | t͛rm         |             |   |   |        | lat |   |   |    | 70-23 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | in                | ın           |             |   |   |        | lat |   |   |    | 70-23 | 2:context |          |  |    |    |    |    |
@@ -787,8 +787,8 @@
 | w   |       |   |   |   |   | meo               | meo          |             |   |   |        | lat |   |   |    | 70-24 | 2:context |          |  |    |    |    |    |
 | p   |       |   |   |   |   | .                 | .            |             |   |   |        | lat |   |   |    | 70-24 | 2:context |          |  |    |    |    |    |
 | PE  | b     | GunKje001  |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Gunni             | Gunní        |             |   |   |        | lat |   |   |    | 70-24 | 2:context |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Køthølsun         | Køthølſun    |             |   |   |        | lat |   |   |    | 70-24 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Gunni             | Gunní        |             |   |   |        | lat |   |   |    | 70-24 | 2:context |          |  |327|    |    |    |
+| w   |       |   |   |   |   | Køthølsun         | Køthølſun    |             |   |   |        | lat |   |   |    | 70-24 | 2:context |          |  |327|    |    |    |
 | PE  | e     | GunKje001  |   |   |   |                   |              |             |   |   |        |     |   |   |    |       |          |          |  |    |    |    |    |
 | p   |       |   |   |   |   | .                 | .            |             |   |   |        | lat |   |   |    | 70-24 | 2:context |          |  |    |    |    |    |
 | n   |       |   |   |   |   | xii               | xıı          |             |   |   |        | lat |   |   |    | 70-24 | 2:context |          |  |    |    |    |    |

@@ -45,9 +45,9 @@
 | d   | b      | 1             |     | protocol       |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | jak           | xPE | jeg            |   | Jak                   | Jak             |   |   |   |        | dan |   |   |    | 410-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | EliEsk001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Elitze         |   | Elitzæ                | Elıtzæ          |   |   |   |        | dan |   |   |    | 410-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        | ælske         | xVB | Eskilds        |   | eskeldz               | eſkeldz         |   |   |   |        | dan |   |   |    | 410-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        | dotter        | xNC | datter         |   | dotthr(er)            | dotthꝛ         |   |   |   |        | dan |   |   |    | 410-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Elitze         |   | Elitzæ                | Elıtzæ          |   |   |   |        | dan |   |   |    | 410-01 | 1:protocol |          |  |1871|    |    |    |
+| w   |        | ælske         | xVB | Eskilds        |   | eskeldz               | eſkeldz         |   |   |   |        | dan |   |   |    | 410-01 | 1:protocol |          |  |1871|    |    |    |
+| w   |        | dotter        | xNC | datter         |   | dotthr(er)            | dotthꝛ         |   |   |   |        | dan |   |   |    | 410-01 | 1:protocol |          |  |1871|    |    |    |
 | PE  | e      | EliEsk001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | gøre          | xVB | gør            |   | Gør                   | Gøꝛ             |   |   |   |        | dan |   |   |    | 410-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | vitherlik     | xAJ | vitterligt     |   | with(e)rligth         | wıthꝛligth     |   |   |   |        | dan |   |   |    | 410-01 | 1:protocol |          |  |    |    |    |    |
@@ -79,7 +79,7 @@
 | w   |        | kær           | xAJ | kære           |   | kæ(re)                | kæ             |   |   |   |        | dan |   |   |    | 410-02 | 2:context |          |  |    |    |    |    |
 | w   |        | dotter        | xNC | datter         |   | dotth(e)r             | dotthꝛ         |   |   |   |        | dan |   |   |    | 410-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MagHeg001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Magdalene      |   | Magdalene             | Magdalene       |   |   |   |        | dan |   |   |    | 410-02 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Magdalene      |   | Magdalene             | Magdalene       |   |   |   |        | dan |   |   |    | 410-02 | 2:context |          |  |1872|    |    |    |
 | PE  | e      | MagHeg001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | upa           | xAP | på             |   | paa                   | paa             |   |   |   |        | dan |   |   |    | 410-02 | 2:context |          |  |    |    |    |    |
 | w   |        | min           | xDP | mine           |   | myne                  | myne            |   |   |   |        | dan |   |   |    | 410-02 | 2:context |          |  |    |    |    |    |
@@ -97,14 +97,14 @@
 | w   |        | kone          | xNC | kvinde         |   | q(ui)nne              | qͥnne            |   |   |   |        | dan |   |   |    | 410-03 | 2:context |          |  |    |    |    |    |
 | w   |        | frue          | xNC | fru            |   | ff(rv)æ               | ffͮæ             |   |   |   |        | dan |   |   |    | 410-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | CecBer001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Cecilie        |   | Ceciliæ               | Cecilıæ         |   |   |   |        | dan |   |   |    | 410-03 | 2:context |          |  |    |    |    |    |
-| w   |        |               | xNP | Bernekesdatter |   | b(er)nichesdotthr(er) | bnıcheſdotthꝛ |   |   |   |        | dan |   |   |    | 410-03 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Cecilie        |   | Ceciliæ               | Cecilıæ         |   |   |   |        | dan |   |   |    | 410-03 | 2:context |          |  |1873|    |    |    |
+| w   |        |               | xNP | Bernekesdatter |   | b(er)nichesdotthr(er) | bnıcheſdotthꝛ |   |   |   |        | dan |   |   |    | 410-03 | 2:context |          |  |1873|    |    |    |
 | PE  | e      | CecBer001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | hærre         | xNC | hr.             |   | hær                   | hæꝛ             |   |   |   |        | dan |   |   |    | 410-03 | 2:context |          |  |    |    |    |    |
 | lm  | 410-04 |               |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | PE  | b      | PedHog001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Peder          |   | pæth(e)r              | pæthꝛ          |   |   |   |        | dan |   |   |    | 410-04 | 2:context |          |  |    |    |    |    |
-| w   |        |               | xNP | Hogenskilds    |   | howenskildz           | howenſkıldz     |   |   |   |        | dan |   |   |    | 410-04 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Peder          |   | pæth(e)r              | pæthꝛ          |   |   |   |        | dan |   |   |    | 410-04 | 2:context |          |  |1874|    |    |    |
+| w   |        |               | xNP | Hogenskilds    |   | howenskildz           | howenſkıldz     |   |   |   |        | dan |   |   |    | 410-04 | 2:context |          |  |1874|    |    |    |
 | PE  | e      | PedHog001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | æfterliverske | xNC | efterleverske  |   | æffth(e)rleu(er)skæ   | æffthꝛleuſkæ  |   |   |   |        | dan |   |   |    | 410-04 | 2:context |          |  |    |    |    |    |
 | w   |        | um            | xAP | om             |   | om                    | o              |   |   |   |        | dan |   |   |    | 410-04 | 2:context |          |  |    |    |    |    |
@@ -121,13 +121,13 @@
 | w   |        | æfter         | xAP | efter          |   | effth(e)r             | effthꝛ         |   |   |   |        | dan |   |   |    | 410-04 | 2:context |          |  |    |    |    |    |
 | w   |        | frue          | xNC | fru            |   | ff(rv)æ               | ffͮæ             |   |   |   |        | dan |   |   |    | 410-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | KatJen001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Katrine        |   | ka(ri)næ              | kanæ           |   |   |   |        | dan |   |   |    | 410-04 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Katrine        |   | ka(ri)næ              | kanæ           |   |   |   |        | dan |   |   |    | 410-04 | 2:context |          |  |1875|    |    |    |
 | PE  | e      | KatJen001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | hærre         | xNC | hr.             |   | h(e)r                 | hꝛ             |   |   |   |        | dan |   |   |    | 410-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | TagHen001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Tage           |   | thaghe                | thaghe          |   |   |   |        | dan |   |   |    | 410-04 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Tage           |   | thaghe                | thaghe          |   |   |   |        | dan |   |   |    | 410-04 | 2:context |          |  |1876|    |    |    |
 | lm  | 410-05 |               |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Henriksens     |   | henricss(øn)          | henricſ        |   |   |   |        | dan |   |   |    | 410-05 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Henriksens     |   | henricss(øn)          | henricſ        |   |   |   |        | dan |   |   |    | 410-05 | 2:context |          |  |1876|    |    |    |
 | PE  | e      | TagHen001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | æfterliverske | xNC | efterleverske  |   | effthr(er)leu(er)ske  | effthꝛleuſke  |   |   |   |        | dan |   |   |    | 410-05 | 2:context |          |  |    |    |    |    |
 | w   |        | hvilik        | xDD | hvilket        |   | Hwilk(et)             | Hwılkꝫ          |   |   |   |        | dan |   |   |    | 410-05 | 2:context |          |  |    |    |    |    |
@@ -149,14 +149,14 @@
 | w   |        | min           | xDP | min            |   | my(n)                 | my̅              |   |   |   |        | dan |   |   |    | 410-06 | 2:context |          |  |    |    |    |    |
 | w   |        | dotter        | xNC | datter         |   | dotth(e)r             | dotthꝛ         |   |   |   |        | dan |   |   |    | 410-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MagHeg001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Magdalene      |   | magdalenæ             | magdalenæ       |   |   |   |        | dan |   |   |    | 410-06 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Magdalene      |   | magdalenæ             | magdalenæ       |   |   |   |        | dan |   |   |    | 410-06 | 2:context |          |  |1877|    |    |    |
 | PE  | e      | MagHeg001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | ok            | xCC | og             |   | oc                    | oc              |   |   |   |        | dan |   |   |    | 410-06 | 2:context |          |  |    |    |    |    |
 | w   |        | upa           | xAP | på             |   | paa                   | paa             |   |   |   |        | dan |   |   |    | 410-06 | 2:context |          |  |    |    |    |    |
 | w   |        | min           | xDP | min            |   | my(n)                 | my̅              |   |   |   |        | dan |   |   |    | 410-06 | 2:context |          |  |    |    |    |    |
 | w   |        | syster        | xNC | søsters        |   | systh(e)rs            | ſyſthꝛ        |   |   |   |        | dan |   |   |    | 410-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AnnEsk001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Annes          |   | A(n)nes               | A̅ne            |   |   |   |        | dan |   |   |    | 410-06 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Annes          |   | A(n)nes               | A̅ne            |   |   |   |        | dan |   |   |    | 410-06 | 2:context |          |  |1878|    |    |    |
 | PE  | e      | AnnEsk001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | vægh          | xNC | vegne          |   | wegnæ                 | wegnæ           |   |   |   |        | dan |   |   |    | 410-06 | 2:context |          |  |    |    |    |    |
 | w   |        | være          | xVB | er             |   | ær                    | ær              |   |   |   |        | dan |   |   |    | 410-06 | 2:context |          |  |    |    |    |    |
@@ -244,13 +244,13 @@
 | w   |        | min           | xDP | min            |   | my(n)                 | my̅              |   |   |   |        | dan |   |   |    | 410-10 | 2:context |          |  |    |    |    |    |
 | w   |        | dotter        | xNC | datter         |   | dotth(e)r             | dotthꝛ         |   |   |   |        | dan |   |   |    | 410-10 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MagHeg001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Magdalene      |   | magdale(ne)           | magdaleͤ         |   |   |   |        | dan |   |   |    | 410-10 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Magdalene      |   | magdale(ne)           | magdaleͤ         |   |   |   |        | dan |   |   |    | 410-10 | 2:context |          |  |1879|    |    |    |
 | PE  | e      | MagHeg001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | take          | xVB | tager          |   | Tagh(e)r              | Taghꝛ          |   |   |   |        | dan |   |   |    | 410-10 | 2:context |          |  |    |    |    |    |
 | w   |        | min           | xDP | min            |   | my(n)                 | my̅              |   |   |   |        | dan |   |   |    | 410-10 | 2:context |          |  |    |    |    |    |
 | w   |        | syster        | xNC | søster         |   | søsth(e)r             | ſøſthꝛ         |   |   |   |        | dan |   |   |    | 410-10 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AnnEsk001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Annes          |   | annes                 | anne           |   |   |   |        | dan |   |   |    | 410-10 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Annes          |   | annes                 | anne           |   |   |   |        | dan |   |   |    | 410-10 | 2:context |          |  |1880|    |    |    |
 | PE  | e      | AnnEsk001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | arv           | xNC | arv            |   | arff                  | aꝛff            |   |   |   |        | dan |   |   |    | 410-10 | 2:context |          |  |    |    |    |    |
 | p   |        |               |     |                |   | /                     | /               |   |   |   |        | dan |   |   |    | 410-10 | 2:context |          |  |    |    |    |    |
@@ -264,7 +264,7 @@
 | w   |        | min           | xDP | min            |   | my(n)                 | my̅              |   |   |   |        | dan |   |   |    | 410-10 | 2:context |          |  |    |    |    |    |
 | w   |        | syster        | xNC | søster         |   | søsth(e)r             | ſøſthꝛ         |   |   |   |        | dan |   |   |    | 410-10 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AnnEsk001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Anne           |   | Annæ                  | Annæ            |   |   |   |        | dan |   |   |    | 410-10 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Anne           |   | Annæ                  | Annæ            |   |   |   |        | dan |   |   |    | 410-10 | 2:context |          |  |1881|    |    |    |
 | PE  | e      | AnnEsk001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | lm  | 410-11 |               |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | have          | xVB | har            |   | haffu(er)             | haffu          |   |   |   |        | dan |   |   |    | 410-11 | 2:context |          |  |    |    |    |    |
@@ -299,7 +299,7 @@
 | w   |        | fornævnd      | xAJ | fornævnte      |   | for(nefnde)           | foꝛͩͤ             |   |   |   |        | dan |   |   |    | 410-12 | 2:context |          |  |    |    |    |    |
 | w   |        | frue          | xNC | fru            |   | ff(rv)æ               | ffͮæ             |   |   |   |        | dan |   |   |    | 410-12 | 2:context |          |  |    |    |    |    |
 | PE  | b      | CecBer001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Cecilie        |   | Cecile                | Cecıle          |   |   |   |        | dan |   |   |    | 410-12 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Cecilie        |   | Cecile                | Cecıle          |   |   |   |        | dan |   |   |    | 410-12 | 2:context |          |  |1882|    |    |    |
 | PE  | e      | CecBer001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | tilfalle      | xVB | tilfalden      |   | tilfaldh(e)n          | tılfaldhn̅       |   |   |   |        | dan |   |   |    | 410-12 | 2:context |          |  |    |    |    |    |
 | w   |        | thæn          | xAT | det            |   | th(et)                | thꝫ             |   |   |   |        | dan |   |   |    | 410-12 | 2:context |          |  |    |    |    |    |
@@ -346,7 +346,7 @@
 | w   |        | sum           | xRP | som            |   | so(m)                 | ſo̅              |   |   |   |        | dan |   |   |    | 410-14 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd      | xAJ | fornævnte      |   | for(nefnde)           | foꝛᷠͤ             |   |   |   |        | dan |   |   |    | 410-14 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MagHeg001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Magdalene      |   | Magda(lene)           | Magdaᷠᷔ           |   |   |   |        | dan |   |   |    | 410-14 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Magdalene      |   | Magda(lene)           | Magdaᷠᷔ           |   |   |   |        | dan |   |   |    | 410-14 | 2:context |          |  |1883|    |    |    |
 | PE  | e      | MagHeg001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | min           | xDP | min            |   | my(n)                 | my̅              |   |   |   |        | dan |   |   |    | 410-14 | 2:context |          |  |    |    |    |    |
 | w   |        | dotter        | xNC | datter         |   | dotth(e)r             | dotthꝛ         |   |   |   |        | dan |   |   |    | 410-14 | 2:context |          |  |    |    |    |    |
@@ -354,7 +354,7 @@
 | w   |        | fornævnd      | xAJ | fornævnte      |   | for(nefnde)           | foꝛᷠͤ             |   |   |   |        | dan |   |   |    | 410-14 | 2:context |          |  |    |    |    |    |
 | w   |        | frue          | xNC | fru            |   | ff(rv)æ               | ffͮæ             |   |   |   |        | dan |   |   |    | 410-14 | 2:context |          |  |    |    |    |    |
 | PE  | b      | CecBer001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Cecilie        |   | Cecilia               | Cecılıa         |   |   |   |        | dan |   |   |    | 410-14 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Cecilie        |   | Cecilia               | Cecılıa         |   |   |   |        | dan |   |   |    | 410-14 | 2:context |          |  |1884|    |    |    |
 | PE  | e      | CecBer001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | upa           | xAP | på             |   | paa                   | paa             |   |   |   |        | dan |   |   |    | 410-14 | 2:context |          |  |    |    |    |    |
 | w   |        | min           | xDP | mine           |   | my(ne)                | myͤ              |   |   |   |        | dan |   |   |    | 410-14 | 2:context |          |  |    |    |    |    |
@@ -368,7 +368,7 @@
 | w   |        | fornævnd      | xAJ | fornævnte      |   | for(nefnde)           | foꝛᷠͤ             |   |   |   |        | dan |   |   |    | 410-15 | 2:context |          |  |    |    |    |    |
 | w   |        | frue          | xNC | fru            |   | ff(rv)æ               | ffͮæ             |   |   |   |        | dan |   |   |    | 410-15 | 2:context |          |  |    |    |    |    |
 | PE  | b      | KatJen001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Katrine        |   | karinæ                | karinæ          |   |   |   |        | dan |   |   |    | 410-15 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Katrine        |   | karinæ                | karinæ          |   |   |   |        | dan |   |   |    | 410-15 | 2:context |          |  |1885|    |    |    |
 | PE  | e      | KatJen001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        |               | xNP | Tages          |   | thaghes               | thaghe         |   |   |   |        | dan |   |   |    | 410-15 | 2:context |          |  |    |    |    |    |
 | w   |        | um            | xAP | om             |   | om                    | om              |   |   |   |        | dan |   |   |    | 410-15 | 2:context |          |  |    |    |    |    |
@@ -383,7 +383,7 @@
 | w   |        | jak           | xPE | jeg            |   | jek                   | ȷek             |   |   |   |        | dan |   |   |    | 410-15 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd      | xAJ | fornævnte      |   | for(nefnde)           | foꝛᷠͤ             |   |   |   |        | dan |   |   |    | 410-15 | 2:context |          |  |    |    |    |    |
 | PE  | b      | EliEsk001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Elitze         |   | Elitzæ                | Elıtzæ          |   |   |   |        | dan |   |   |    | 410-15 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Elitze         |   | Elitzæ                | Elıtzæ          |   |   |   |        | dan |   |   |    | 410-15 | 2:context |          |  |1886|    |    |    |
 | PE  | e      | EliEsk001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | jak           | xPE | mig            |   | meg                   | meg             |   |   |   |        | dan |   |   |    | 410-15 | 2:context |          |  |    |    |    |    |
 | w   |        | fulkomelik    | xAJ | fuldkommelig   |   | fulko(m)melig         | fulko̅melıg      |   |   |   |        | dan |   |   |    | 410-15 | 2:context |          |  |    |    |    |    |
@@ -408,14 +408,14 @@
 | w   |        | jak           | xPE | jeg            |   | jek                   | ȷek             |   |   |   |        | dan |   |   |    | 410-16 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd      | xAJ | fornævnte      |   | for(nefnde)           | foꝛᷠͤ             |   |   |   |        | dan |   |   |    | 410-16 | 2:context |          |  |    |    |    |    |
 | PE  | b      | EliEsk001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Elitze         |   | Elitze                | Elıtze          |   |   |   |        | dan |   |   |    | 410-16 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Elitze         |   | Elitze                | Elıtze          |   |   |   |        | dan |   |   |    | 410-16 | 2:context |          |  |1887|    |    |    |
 | PE  | e      | EliEsk001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | late          | xVB | lader          |   | ladh(e)r              | ladhꝛ          |   |   |   |        | dan |   |   |    | 410-16 | 2:context |          |  |    |    |    |    |
 | lm  | 410-17 |               |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | fornævnd      | xAJ | fornævnte      |   | for(nefnde)           | foꝛᷠͤ             |   |   |   |        | dan |   |   |    | 410-17 | 2:context |          |  |    |    |    |    |
 | w   |        | frue          | xNC | fru            |   | ff(rv)æ               | ffͮæ             |   |   |   |        | dan |   |   |    | 410-17 | 2:context |          |  |    |    |    |    |
 | PE  | b      | CecBer001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Cecilie        |   | Ceciliæ               | Cecilıæ         |   |   |   |        | dan |   |   |    | 410-17 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Cecilie        |   | Ceciliæ               | Cecilıæ         |   |   |   |        | dan |   |   |    | 410-17 | 2:context |          |  |1888|    |    |    |
 | PE  | e      | CecBer001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | ok            | xCC | og             |   | och                   | och             |   |   |   |        | dan |   |   |    | 410-17 | 2:context |          |  |    |    |    |    |
 | w   |        | hun           | xPE | hendes         |   | he(n)næs              | he̅næ           |   |   |   |        | dan |   |   |    | 410-17 | 2:context |          |  |    |    |    |    |
@@ -448,7 +448,7 @@
 | w   |        | fornævnd      | xAJ | fornævnte      |   | for(nefnde)           | foꝛᷠͤ             |   |   |   |        | dan |   |   |    | 410-18 | 2:context |          |  |    |    |    |    |
 | w   |        | frue          | xNC | fru            |   | ff(rv)æ               | ffͮæ             |   |   |   |        | dan |   |   |    | 410-18 | 2:context |          |  |    |    |    |    |
 | PE  | b      | KatJen001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Katrine        |   | karinæ                | karınæ          |   |   |   |        | dan |   |   |    | 410-18 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Katrine        |   | karinæ                | karınæ          |   |   |   |        | dan |   |   |    | 410-18 | 2:context |          |  |1889|    |    |    |
 | PE  | e      | KatJen001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        |               | xNP | Tages          |   | thagess               | thageſſ         |   |   |   |        | dan |   |   |    | 410-18 | 2:context |          |  |    |    |    |    |
 | w   |        | uti           | xAP | udi            |   | wdi                   | wdi             |   |   |   |        | dan |   |   |    | 410-18 | 2:context |          |  |    |    |    |    |
@@ -525,8 +525,8 @@
 | w   |        | være          | xVB | er             |   | ær                    | ær              |   |   |   |        | dan |   |   |    | 410-22 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | hærre         | xNC | hr.             |   | h(er)                 | h̅               |   |   |   |        | dan |   |   |    | 410-22 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | JenBin001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Jens           |   | ienss                 | ıenſſ           |   |   |   |        | dan |   |   |    | 410-22 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |               | xNP | Bing           |   | bingh                 | bingh           |   |   |   |        | dan |   |   |    | 410-22 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Jens           |   | ienss                 | ıenſſ           |   |   |   |        | dan |   |   |    | 410-22 | 3:eschatocol |          |  |1890|    |    |    |
+| w   |        |               | xNP | Bing           |   | bingh                 | bingh           |   |   |   |        | dan |   |   |    | 410-22 | 3:eschatocol |          |  |1890|    |    |    |
 | PE  | e      | JenBin001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | dompræst      | xNC | dompræst       |   | domppraasth           | domꝛaaſth      |   |   |   |        | dan |   |   |    | 410-22 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | i                     | i               |   |   |   |        | dan |   |   |    | 410-22 | 3:eschatocol |          |  |    |    |    |    |
@@ -534,26 +534,26 @@
 | w   |        |               | xNP | Lund           |   | lundh                 | lűndh           |   |   |   |        | dan |   |   |    | 410-22 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | e      |               |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | PE  | b      | PedLan001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Peder          |   | Pæth(e)r              | Pæthꝛ          |   |   |   |        | dan |   |   |    | 410-22 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |               | xNP | Lang           |   | longh                 | longh           |   |   |   |        | dan |   |   |    | 410-22 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Peder          |   | Pæth(e)r              | Pæthꝛ          |   |   |   |        | dan |   |   |    | 410-22 | 3:eschatocol |          |  |1891|    |    |    |
+| w   |        |               | xNP | Lang           |   | longh                 | longh           |   |   |   |        | dan |   |   |    | 410-22 | 3:eschatocol |          |  |1891|    |    |    |
 | PE  | e      | PedLan001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | PE  | b      | MadTag001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Mads           |   | matthess              | mattheſſ        |   |   |   |        | dan |   |   |    | 410-22 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Mads           |   | matthess              | mattheſſ        |   |   |   |        | dan |   |   |    | 410-22 | 3:eschatocol |          |  |1892|    |    |    |
 | lm  | 410-23 |               |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Tagesen        |   | thaghess(øn)          | thagheſ        |   |   |   |        | dan |   |   |    | 410-23 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Tagesen        |   | thaghess(øn)          | thagheſ        |   |   |   |        | dan |   |   |    | 410-23 | 3:eschatocol |          |  |1892|    |    |    |
 | PE  | e      | MadTag001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | i                     | i               |   |   |   |        | dan |   |   |    | 410-23 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |               |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        |               | xNP | Sandby         |   | sanby                 | ſanby           |   |   |   |        | dan |   |   |    | 410-23 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | e      |               |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | PE  | b      | HanPed001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Hans           |   | Hans                  | Han            |   |   |   |        | dan |   |   |    | 410-23 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |               | V   | Pedersen       |   | peth(e)rs(øn)         | pethꝛ         |   |   |   |        | dan |   |   |    | 410-23 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Hans           |   | Hans                  | Han            |   |   |   |        | dan |   |   |    | 410-23 | 3:eschatocol |          |  |1893|    |    |    |
+| w   |        |               | V   | Pedersen       |   | peth(e)rs(øn)         | pethꝛ         |   |   |   |        | dan |   |   |    | 410-23 | 3:eschatocol |          |  |1893|    |    |    |
 | PE  | e      | HanPed001     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | ok            | xCC | og             |   | och                   | och             |   |   |   |        | dan |   |   |    | 410-23 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | NieNie003     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Niels          |   | Nielss                | Nielſſ          |   |   |   |        | dan |   |   |    | 410-23 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |               | xNP | Nielsen        |   | nie(is)               | nieꝭ            |   |   |   |        | dan |   |   |    | 410-23 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Niels          |   | Nielss                | Nielſſ          |   |   |   |        | dan |   |   |    | 410-23 | 3:eschatocol |          |  |1894|    |    |    |
+| w   |        |               | xNP | Nielsen        |   | nie(is)               | nieꝭ            |   |   |   |        | dan |   |   |    | 410-23 | 3:eschatocol |          |  |1894|    |    |    |
 | PE  | e      | NieNie003     |     |                |   |                       |                 |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | burghemæstere | xNC | borgmester     |   | burghemestæ(re)       | burghemeſtæ    |   |   |   |        | dan |   |   |    | 410-23 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | i                     | i               |   |   |   |        | dan |   |   |    | 410-23 | 3:eschatocol |          |  |    |    |    |    |

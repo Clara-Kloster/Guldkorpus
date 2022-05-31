@@ -55,9 +55,9 @@
 | w   |        | vi          | xPE | vi           |   | wi               | wi            |   |   |   |   | dan |   |   |    |        417-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | syster      | xNC | søster       |   | søsth(e)r        | ſøſthꝛ       |   |   |   |   | dan |   |   |    |        417-01 | 1:protocol |          |  |    |    |    |    |
 | PE  |      b | AnnNie001   |     |              |   |                  |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Anne         |   | annæ             | annæ          |   |   |   |   | dan |   |   |    |        417-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Nielse       |   | nielsæ           | nıelſæ        |   |   |   |   | dan |   |   |    |        417-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        | dotter      | xNC | datter       |   | dotthr(er)       | dotthꝛ       |   |   |   |   | dan |   |   |    |        417-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Anne         |   | annæ             | annæ          |   |   |   |   | dan |   |   |    |        417-01 | 1:protocol |          |  |1940|    |    |    |
+| w   |        |             | xNP | Nielse       |   | nielsæ           | nıelſæ        |   |   |   |   | dan |   |   |    |        417-01 | 1:protocol |          |  |1940|    |    |    |
+| w   |        | dotter      | xNC | datter       |   | dotthr(er)       | dotthꝛ       |   |   |   |   | dan |   |   |    |        417-01 | 1:protocol |          |  |1940|    |    |    |
 | PE  |      e | AnnNie001   |     |              |   |                  |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | lm  | 417-02 |             |     |              |   |                  |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | abbetisse   | xNC | abbedisse    |   | abbatissa        | abbatıſſa     |   |   |   |   | lat |   |   |    |        417-02 | 1:protocol |          |  |    |    |    |    |
@@ -94,8 +94,8 @@
 | w   |        | var         | xDP | vor          |   | wor              | wor           |   |   |   |   | dan |   |   |    |        417-04 | 2:context |          |  |    |    |    |    |
 | w   |        | forstandere | xNC | forstanders  |   | fforstondhe(r)s  | ffoꝛſtondhe |   |   |   |   | dan |   |   |    |        417-04 | 2:context |          |  |    |    |    |    |
 | PE  |      b | HanKje001   |     |              |   |                  |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Hans         |   | hansz            | hanſz         |   |   |   |   | dan |   |   |    |        417-04 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Kjeldsen     |   | kelss(øn)        | kelſ         |   |   |   |   | dan |   |   |    |        417-04 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Hans         |   | hansz            | hanſz         |   |   |   |   | dan |   |   |    |        417-04 | 2:context |          |  |1941|    |    |    |
+| w   |        |             | xNP | Kjeldsen     |   | kelss(øn)        | kelſ         |   |   |   |   | dan |   |   |    |        417-04 | 2:context |          |  |1941|    |    |    |
 | PE  |      e | HanKje001   |     |              |   |                  |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | PL  |      b |             |     |              |   |                  |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |             | xNP | Danmarks     |   | Danmarksz        | Danmaꝛkſz     |   |   |   |   | dan |   |   |    |        417-04 | 2:context |          |  |    |    |    |    |
@@ -116,8 +116,8 @@
 | w   |        | man         | xNC | mand         |   | man              | ma           |   |   |   |   | dan |   |   |    |        417-05 | 2:context |          |  |    |    |    |    |
 | lm  | 417-06 |             |     |              |   |                  |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | PE  |      b | LauHan001   |     |              |   |                  |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Lars         |   | law(ri)s         | law         |   |   |   |   | dan |   |   |    |        417-06 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Hansen       |   | hanss(øn)        | hanſ         |   |   |   |   | dan |   |   |    |        417-06 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Lars         |   | law(ri)s         | law         |   |   |   |   | dan |   |   |    |        417-06 | 2:context |          |  |1942|    |    |    |
+| w   |        |             | xNP | Hansen       |   | hanss(øn)        | hanſ         |   |   |   |   | dan |   |   |    |        417-06 | 2:context |          |  |1942|    |    |    |
 | PE  |      e | LauHan001   |     |              |   |                  |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | al          | xAJ | alt          |   | alth             | alth          |   |   |   |   | dan |   |   |    |        417-06 | 2:context |          |  |    |    |    |    |
 | w   |        | var         | xDP | vort         |   | worth            | woꝛth         |   |   |   |   | dan |   |   |    |        417-06 | 2:context |          |  |    |    |    |    |
@@ -168,8 +168,8 @@
 | PL  |      e |             |     |              |   |                  |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | sum         | xRP | som          |   | som              | ſo           |   |   |   |   | dan |   |   |    |        417-09 | 2:context |          |  |    |    |    |    |
 | PE  |      b | PerHem001   |     |              |   |                  |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Per          |   | p(er)            | ꝑ             |   |   |   |   | dan |   |   |    |        417-09 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Hemmingsen   |   | he(m)mi(n)gs(øn) | he̅mi̅g        |   |   |   |   | dan |   |   |    |        417-09 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Per          |   | p(er)            | ꝑ             |   |   |   |   | dan |   |   |    |        417-09 | 2:context |          |  |1943|    |    |    |
+| w   |        |             | xNP | Hemmingsen   |   | he(m)mi(n)gs(øn) | he̅mi̅g        |   |   |   |   | dan |   |   |    |        417-09 | 2:context |          |  |1943|    |    |    |
 | PE  |      e | PerHem001   |     |              |   |                  |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAV | i            |   | i                | i             |   |   |   |   | dan |   |   |    |        417-09 | 2:context |          |  |    |    |    |    |
 | w   |        | bo          | xVB | bor          |   | boor             | boor          |   |   |   |   | dan |   |   |    |        417-09 | 2:context |          |  |    |    |    |    |
@@ -189,8 +189,8 @@
 | w   |        | næst        | xAJ | næst         |   | nesth            | neſth         |   |   |   |   | dan |   |   |    |        417-10 | 2:context |          |  |    |    |    |    |
 | w   |        | sum         | xRP | som          |   | so(m)            | ſo̅            |   |   |   |   | dan |   |   |    |        417-10 | 2:context |          |  |    |    |    |    |
 | PE  |      b | PerEri001   |     |              |   |                  |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Per          |   | p(er)            | ꝑ             |   |   |   |   | dan |   |   |    |        417-10 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Eriksen      |   | ericss(øn)       | eꝛicſ        |   |   |   |   | dan |   |   |    |        417-10 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Per          |   | p(er)            | ꝑ             |   |   |   |   | dan |   |   |    |        417-10 | 2:context |          |  |1944|    |    |    |
+| w   |        |             | xNP | Eriksen      |   | ericss(øn)       | eꝛicſ        |   |   |   |   | dan |   |   |    |        417-10 | 2:context |          |  |1944|    |    |    |
 | PE  |      e | PerEri001   |     |              |   |                  |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | sun         | xNC | søn          |   | søn              | ſø           |   |   |   |   | dan |   |   |    |        417-10 | 2:context |          |  |    |    |    |    |
 | w   |        | sitherst    | xAV | sidst        |   | systh            | ſyſth         |   |   |   |   | dan |   |   |    |        417-10 | 2:context |          |  |    |    |    |    |
@@ -207,8 +207,8 @@
 | w   |        | thæn        | xAT | den          |   | th(e)n           | th̅           |   |   |   |   | dan |   |   |    |        417-11 | 2:context |          |  |    |    |    |    |
 | w   |        | garth       | xNC | gård         |   | goordh           | gooꝛdh        |   |   |   |   | dan |   |   |    |        417-11 | 2:context |          |  |    |    |    |    |
 | PE  |      b | PedBru001   |     |              |   |                  |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Per          |   | p(er)            | ꝑ             |   |   |   |   | dan |   |   |    |        417-11 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Brun         |   | brwn             | bꝛw          |   |   |   |   | dan |   |   |    |        417-11 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Per          |   | p(er)            | ꝑ             |   |   |   |   | dan |   |   |    |        417-11 | 2:context |          |  |1945|    |    |    |
+| w   |        |             | xNP | Brun         |   | brwn             | bꝛw          |   |   |   |   | dan |   |   |    |        417-11 | 2:context |          |  |1945|    |    |    |
 | PE  |      e | PedBru001   |     |              |   |                  |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | nu          | xAV | nu           |   | nw               | nw            |   |   |   |   | dan |   |   |    |        417-11 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAV | i            |   | i                | ı             |   |   |   |   | dan |   |   |    |        417-11 | 2:context |          |  |    |    |    |    |

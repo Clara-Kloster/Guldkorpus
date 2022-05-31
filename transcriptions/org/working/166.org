@@ -49,9 +49,9 @@
 | w   |        |   |   |   |   | cernentib(us)  | cernentıbꝫ    |   |   |   |   | lat |   |   |   |        166-01 | 1:protocol |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /              | /             |   |   |   |   | lat |   |   |   |        166-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | OluFle001  |   |   |   |                |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Olauus         | Olauus        |   |   |   |   | lat |   |   |   |        166-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | d(i)c(t)us     | ꝺc̅us          |   |   |   |   | lat |   |   |   |        166-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | flæmming       | flæmmíng      |   |   |   |   | lat |   |   |   |        166-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Olauus         | Olauus        |   |   |   |   | lat |   |   |   |        166-01 | 1:protocol |          |  |689|    |    |    |
+| w   |        |   |   |   |   | d(i)c(t)us     | ꝺc̅us          |   |   |   |   | lat |   |   |   |        166-01 | 1:protocol |          |  |689|    |    |    |
+| w   |        |   |   |   |   | flæmming       | flæmmíng      |   |   |   |   | lat |   |   |   |        166-01 | 1:protocol |          |  |689|    |    |    |
 | PE  | e      | OluFle001  |   |   |   |                |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /              | /             |   |   |   |   | lat |   |   |   |        166-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Salutem        | Salute       |   |   |   |   | lat |   |   |   |        166-01 | 1:protocol |          |  |    |    |    |    |
@@ -82,7 +82,7 @@
 | w   |        |   |   |   |   | filie          | fılıe         |   |   |   |   | lat |   |   |   |        166-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | mee            | mee           |   |   |   |   | lat |   |   |   |        166-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      | CecOlu001  |   |   |   |                |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Cecilie        | Cecılıe       |   |   |   |   | lat |   |   |   |        166-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Cecilie        | Cecılıe       |   |   |   |   | lat |   |   |   |        166-02 | 2:context |          |  |690|    |    |    |
 | PE  | e      | CecOlu001  |   |   |   |                |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | m(ihi)         | m            |   |   |   |   | lat |   |   |   |        166-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | predil(e)c(t)e | preꝺıl̅ce      |   |   |   |   | lat |   |   |   |        166-02 | 2:context |          |  |    |    |    |    |
@@ -189,15 +189,15 @@
 | w   |        |   |   |   |   | d(omi)ni       | ꝺn̅í           |   |   |   |   | lat |   |   |   |        166-06 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 166-07 |   |   |   |   |                |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | HerJak001  |   |   |   |                |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | hærlogh        | hærlogh       |   |   |   |   | lat |   |   |   |        166-07 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | jacob          | ȷacob         |   |   |   |   | lat |   |   |   |        166-07 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | s(un)          |              |   |   |   |   | lat |   |   |   |        166-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | hærlogh        | hærlogh       |   |   |   |   | lat |   |   |   |        166-07 | 3:eschatocol |          |  |691|    |    |    |
+| w   |        |   |   |   |   | jacob          | ȷacob         |   |   |   |   | lat |   |   |   |        166-07 | 3:eschatocol |          |  |691|    |    |    |
+| w   |        |   |   |   |   | s(un)          |              |   |   |   |   | lat |   |   |   |        166-07 | 3:eschatocol |          |  |691|    |    |    |
 | PE  | e      | HerJak001  |   |   |   |                |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /              | /             |   |   |   |   | lat |   |   |   |        166-07 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (et)           |              |   |   |   |   | lat |   |   |   |        166-07 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | OluOlu001  |   |   |   |                |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Olaui          | Olauí         |   |   |   |   | lat |   |   |   |        166-07 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Lungæ          | Lungæ         |   |   |   |   | lat |   |   |   |        166-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Olaui          | Olauí         |   |   |   |   | lat |   |   |   |        166-07 | 3:eschatocol |          |  |692|    |    |    |
+| w   |        |   |   |   |   | Lungæ          | Lungæ         |   |   |   |   | lat |   |   |   |        166-07 | 3:eschatocol |          |  |692|    |    |    |
 | PE  | e      | OluOlu001  |   |   |   |                |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /              | /             |   |   |   |   | lat |   |   |   |        166-07 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | vna            | ỽn           |   |   |   |   | lat |   |   |   |        166-07 | 3:eschatocol |          |  |    |    |    |    |

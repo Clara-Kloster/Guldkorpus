@@ -52,7 +52,7 @@
 | w   |        |   |   |   |   | visuris              | ỽıſurıs      |   |   |   |   | lat |   |   |   | 104-01 | 1:protocol |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                    | .            |   |   |   |   | lat |   |   |   | 104-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | IngEps001  |   |   |   |                      |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | J(ngvar)             | J            |   |   |   |   | lat     |   |   |   | 104-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | J(ngvar)             | J            |   |   |   |   | lat     |   |   |   | 104-01 | 1:protocol |          |  |411|    |    |    |
 | PE  | e      | IngEps001  |   |   |   |                      |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                    | .            |   |   |   |   | lat |   |   |   | 104-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(e)i                | ꝺı̅           |   |   |   |   | lat |   |   |   | 104-01 | 1:protocol |          |  |    |    |    |    |
@@ -75,9 +75,9 @@
 | w   |        |   |   |   |   | facim(us)            | facımꝰ       |   |   |   |   | lat |   |   |   | 104-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | q(uod)               | ꝙ            |   |   |   |   | lat |   |   |   | 104-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      | OluLun001  |   |   |   |                      |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | olauus               | olauuſ       |   |   |   |   | lat |   |   |   | 104-02 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | dict(us)             | ꝺıctꝰ        |   |   |   |   | lat |   |   |   | 104-02 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lungæ                | lungæ        |   |   |   |   | dan |   |   |   | 104-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | olauus               | olauuſ       |   |   |   |   | lat |   |   |   | 104-02 | 2:context |          |  |412|    |    |    |
+| w   |        |   |   |   |   | dict(us)             | ꝺıctꝰ        |   |   |   |   | lat |   |   |   | 104-02 | 2:context |          |  |412|    |    |    |
+| w   |        |   |   |   |   | lungæ                | lungæ        |   |   |   |   | dan |   |   |   | 104-02 | 2:context |          |  |412|    |    |    |
 | PE  | e      | OluLun001  |   |   |   |                      |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Aduocat(us)          | ꝺuocatꝰ     |   |   |   |   | lat |   |   |   | 104-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | n(oste)r             | nr̅           |   |   |   |   | lat |   |   |   | 104-02 | 2:context |          |  |    |    |    |    |
@@ -214,9 +214,9 @@
 | w   |        |   |   |   |   | viror(um)            | ỽıroꝝ        |   |   |   |   | lat |   |   |   | 104-08 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)nor(um)        | ꝺn̅oꝝ         |   |   |   |   | lat |   |   |   | 104-08 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | OluBjø001  |   |   |   |                      |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | olaui                | olauí        |   |   |   |   | lat |   |   |   | 104-08 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | byorn                | byoꝛn        |   |   |   |   | dan |   |   |   | 104-08 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | s(un)                |             |   |   |   |   | dan |   |   |   | 104-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | olaui                | olauí        |   |   |   |   | lat |   |   |   | 104-08 | 3:eschatocol |          |  |413|    |    |    |
+| w   |        |   |   |   |   | byorn                | byoꝛn        |   |   |   |   | dan |   |   |   | 104-08 | 3:eschatocol |          |  |413|    |    |    |
+| w   |        |   |   |   |   | s(un)                |             |   |   |   |   | dan |   |   |   | 104-08 | 3:eschatocol |          |  |413|    |    |    |
 | PE  | e      | OluBjø001  |   |   |   |                      |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                    | .            |   |   |   |   | lat |   |   |   | 104-08 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | cano(nici)           | cno̅         |   |   |   |   | lat |   |   |   | 104-08 | 3:eschatocol |          |  |    |    |    |    |
@@ -225,9 +225,9 @@
 | PL  | e      |   |   |   |   |                      |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                    | .            |   |   |   |   | lat |   |   |   | 104-08 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | PedNie001  |   |   |   |                      |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | pet(ri)              | pet         |   |   |   |   | lat |   |   |   | 104-08 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Niclæs               | Nıclæſ       |   |   |   |   | dan |   |   |   | 104-08 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | s(un)                |             |   |   |   |   | dan |   |   |   | 104-08 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | pet(ri)              | pet         |   |   |   |   | lat |   |   |   | 104-08 | 3:eschatocol |          |  |414|    |    |    |
+| w   |        |   |   |   |   | Niclæs               | Nıclæſ       |   |   |   |   | dan |   |   |   | 104-08 | 3:eschatocol |          |  |414|    |    |    |
+| w   |        |   |   |   |   | s(un)                |             |   |   |   |   | dan |   |   |   | 104-08 | 3:eschatocol |          |  |414|    |    |    |
 | PE  | e      | PedNie001  |   |   |   |                      |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /                    | /            |   |   |   |   | lat |   |   |   | 104-08 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 104-09 |   |   |   |   |                      |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
@@ -237,7 +237,7 @@
 | w   |        |   |   |   |   | (et)                 |             |   |   |   |   | lat |   |   |   | 104-09 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(i)c(t)i            | ꝺc̅ı          |   |   |   |   | lat |   |   |   | 104-09 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | OluBjø001  |   |   |   |                      |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Olaui                | Olauí        |   |   |   |   | lat |   |   |   | 104-09 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Olaui                | Olauí        |   |   |   |   | lat |   |   |   | 104-09 | 3:eschatocol |          |  |415|    |    |    |
 | PE  | e      | OluBjø001  |   |   |   |                      |              |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                    | .            |   |   |   |   | lat |   |   |   | 104-09 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(re)sentib(us)      | p͛ſentıbꝫ     |   |   |   |   | lat |   |   |   | 104-09 | 3:eschatocol |          |  |    |    |    |    |

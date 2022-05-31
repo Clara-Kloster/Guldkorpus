@@ -45,12 +45,12 @@
 | lm  | 323-01 |            |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | vi         | xPE    | vi           |   | Wy              | Wẏ           |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | KnuXxx002  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Knud         |   | knwd            | knwd         |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |            | xNP    | Knud         |   | knwd            | knwd         |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |1288|    |    |    |
 | PE  | e      | KnuXxx002  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | PedOns001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Peder        |   | pæther          | pæther       |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |            | xNP    | Peder        |   | pæther          | pæther       |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |1289|    |    |    |
 | PE  | e      | PedOns001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | af         | xAP    | af           |   | aff             | aff          |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
@@ -61,28 +61,28 @@
 | w   |        | præst      | xNC    | præste       |   | præste          | præſte       |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
 | p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | PedRib001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Peder        |   | Pæth(e)r        | Pæthr̅        |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |            | xNP    | Ribbing      |   | rebbing         | rebbing      |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |            | xNP    | Peder        |   | Pæth(e)r        | Pæthr̅        |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |1290|    |    |    |
+| w   |        |            | xNP    | Ribbing      |   | rebbing         | rebbing      |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |1290|    |    |    |
 | PE  | e      | PedRib001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |            |        |              |   | /               | /            |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | GunSig001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            |        | Gunde        |   | gu(n)næ         | gu̅næ         |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |            |        | Siggesen     |   | siggess(øn)     | ſiggeſ      |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |            |        | Gunde        |   | gu(n)næ         | gu̅næ         |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |1291|    |    |    |
+| w   |        |            |        | Siggesen     |   | siggess(øn)     | ſiggeſ      |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |1291|    |    |    |
 | PE  | e      | GunSig001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | SveTor001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Svend        |   | Swen            | Swe         |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |            | xNP    | Torsen       |   | tho-¦ræs(øn)    | tho-¦ræ     |   |   |   |   | dan |   |   |   | 323-01—323-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |            | xNP    | Svend        |   | Swen            | Swe         |   |   |   |   | dan |   |   |   |        323-01 | 1:protocol |          |  |1292|    |    |    |
+| w   |        |            | xNP    | Torsen       |   | tho-¦ræs(øn)    | tho-¦ræ     |   |   |   |   | dan |   |   |   | 323-01—323-02 | 1:protocol |          |  |1292|    |    |    |
 | PE  | e      | SveTor001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-02 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | MogHak001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Mogens       |   | mawens          | mawen       |   |   |   |   | dan |   |   |   |        323-02 | 1:protocol |          |  |    |    |    |    |
-| w   |        |            | xNP    | Hake         |   | haghæ           | haghæ        |   |   |   |   | dan |   |   |   |        323-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |            | xNP    | Mogens       |   | mawens          | mawen       |   |   |   |   | dan |   |   |   |        323-02 | 1:protocol |          |  |1293|    |    |    |
+| w   |        |            | xNP    | Hake         |   | haghæ           | haghæ        |   |   |   |   | dan |   |   |   |        323-02 | 1:protocol |          |  |1293|    |    |    |
 | PE  | e      | MogHak001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-02 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | BenKnu001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Bent         |   | bæy(n)d         | bæy̅d         |   |   |   |   | dan |   |   |   |        323-02 | 1:protocol |          |  |    |    |    |    |
-| w   |        |            | xNP    | Knudsen      |   | knudzs(øn)      | knudz       |   |   |   |   | dan |   |   |   |        323-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |            | xNP    | Bent         |   | bæy(n)d         | bæy̅d         |   |   |   |   | dan |   |   |   |        323-02 | 1:protocol |          |  |1294|    |    |    |
+| w   |        |            | xNP    | Knudsen      |   | knudzs(øn)      | knudz       |   |   |   |   | dan |   |   |   |        323-02 | 1:protocol |          |  |1294|    |    |    |
 | PE  | e      | BenKnu001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-02 | 1:protocol |          |  |    |    |    |    |
 | w   |        | af+vapn    | xNC    | af våben     |   | aff wapen       | aff wapen    |   |   |   |   | dan |   |   |   |        323-02 | 1:protocol |          |  |    |    |    |    |
@@ -129,8 +129,8 @@
 | d   | b      | 2          |        | context      |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | at         | xCS    | at           |   | at              | at           |   |   |   |   | dan |   |   |   |        323-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | KnuSim001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Knud         |   | knud            | knud         |   |   |   |   | dan |   |   |   |        323-04 | 2:context |          |  |    |    |    |    |
-| w   |        |            | xNP    | Simonsen     |   | symæ(n)ss(øn)   | ſẏmæ̅ſ       |   |   |   |   | dan |   |   |   |        323-04 | 2:context |          |  |    |    |    |    |
+| w   |        |            | xNP    | Knud         |   | knud            | knud         |   |   |   |   | dan |   |   |   |        323-04 | 2:context |          |  |1295|    |    |    |
+| w   |        |            | xNP    | Simonsen     |   | symæ(n)ss(øn)   | ſẏmæ̅ſ       |   |   |   |   | dan |   |   |   |        323-04 | 2:context |          |  |1295|    |    |    |
 | PE  | e      | KnuSim001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | af+vapn    | xNC    | af våben     |   | aff wape(m)     | aff wape̅     |   |   |   |   | dan |   |   |   |        323-04 | 2:context |          |  |    |    |    |    |
 | p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-04 | 2:context |          |  |    |    |    |    |
@@ -158,8 +158,8 @@
 | w   |        | man        | xNC    | mand         |   | man             | ma          |   |   |   |   | dan |   |   |   |        323-05 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre      | xNC    | hr.           |   | hær             | hær          |   |   |   |   | dan |   |   |   |        323-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AbrBro001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            |        | Abraham      |   | Abram           | Abra        |   |   |   |   | dan |   |   |   |        323-05 | 2:context |          |  |    |    |    |    |
-| w   |        |            |        | Brodersen    |   | broth(e)rs(øn)  | brothr̅      |   |   |   |   | dan |   |   |   |        323-05 | 2:context |          |  |    |    |    |    |
+| w   |        |            |        | Abraham      |   | Abram           | Abra        |   |   |   |   | dan |   |   |   |        323-05 | 2:context |          |  |1296|    |    |    |
+| w   |        |            |        | Brodersen    |   | broth(e)rs(øn)  | brothr̅      |   |   |   |   | dan |   |   |   |        323-05 | 2:context |          |  |1296|    |    |    |
 | PE  | e      | AbrBro001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | riddere    | xNC    | ridder       |   | ridd(er)        | ridd        |   |   |   |   | dan |   |   |   |        323-05 | 2:context |          |  |    |    |    |    |
 | p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-05 | 2:context |          |  |    |    |    |    |
@@ -255,7 +255,7 @@
 | w   |        | fornævnd   | xAJ    | fornævnte    |   | for(nefnde)     | forͩͤ          |   |   |   |   | dan |   |   |   |        323-09 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre      | xNC    | hr.           |   | hær             | hær          |   |   |   |   | dan |   |   |   |        323-09 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AbrBro001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Abraham      |   | Abram           | Abra        |   |   |   |   | dan |   |   |   |        323-09 | 2:context |          |  |    |    |    |    |
+| w   |        |            | xNP    | Abraham      |   | Abram           | Abra        |   |   |   |   | dan |   |   |   |        323-09 | 2:context |          |  |2475|    |    |    |
 | PE  | e      | AbrBro001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-09 | 2:context |          |  |    |    |    |    |
 | w   |        | ok         | xCC    | og           |   | oc              | oc           |   |   |   |   | dan |   |   |   |        323-09 | 2:context |          |  |    |    |    |    |
@@ -281,7 +281,7 @@
 | w   |        | hærre      | xNC    | hr.           |   | h(er)           | h̅            |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |    |    |    |    |
 | p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AbrBro001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |            | xNP    | Abraham      |   | Abram           | Abra        |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |    |    |    |    |
+| w   |        |            | xNP    | Abraham      |   | Abram           | Abra        |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |2476|    |    |    |
 | PE  | e      | AbrBro001  |        |              |   |                 |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |            |        |              |   | .               | .            |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |    |    |    |    |
 | w   |        | have       | xVB    | har          |   | haw(er)         | haw         |   |   |   |   | dan |   |   |   |        323-10 | 2:context |          |  |    |    |    |    |

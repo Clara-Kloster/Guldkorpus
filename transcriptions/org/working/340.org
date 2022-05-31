@@ -45,13 +45,13 @@ AM 187 8vo
 | d   | b      | 1            |     | protocol       |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | jak          | xPE | Jeg            |   | Jæk               | Jæk           |   |   |   |   | dan |   |   |   |        340-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | AnnPed001    |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |              |     | Anne           |   | annæ              | annæ          |   |   |   |   | dan |   |   |   |        340-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |              |     | Pedersdatter   |   | peth(er)s doter   | peths doter  |   |   |   |   | dan |   |   |   |        340-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |              |     | Anne           |   | annæ              | annæ          |   |   |   |   | dan |   |   |   |        340-01 | 1:protocol |          |  |1395|    |    |    |
+| w   |        |              |     | Pedersdatter   |   | peth(er)s doter   | peths doter  |   |   |   |   | dan |   |   |   |        340-01 | 1:protocol |          |  |1395|    |    |    |
 | PE  | e      | AnnPed001    |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | hærre        | xNC | hr.             |   | her               | her           |   |   |   |   | dan |   |   |   |        340-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | MikRud001    |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |              |     | Mikkel         |   | michæl            | michæl        |   |   |   |   | dan |   |   |   |        340-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |              |     | Ruds           |   | ruz               | ruz           |   |   |   |   | dan |   |   |   |        340-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |              |     | Mikkel         |   | michæl            | michæl        |   |   |   |   | dan |   |   |   |        340-01 | 1:protocol |          |  |1396|    |    |    |
+| w   |        |              |     | Ruds           |   | ruz               | ruz           |   |   |   |   | dan |   |   |   |        340-01 | 1:protocol |          |  |1396|    |    |    |
 | PE  | e      | MikRud001    |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | æfterlivende | xNC | efterlevende   |   | æfter leuende     | æfter leuende |   |   |   |   | dan |   |   |   |        340-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | sænde        | xVB | sender         |   | sender            | ſender        |   |   |   |   | dan |   |   |   |        340-01 | 1:protocol |          |  |    |    |    |    |
@@ -141,14 +141,14 @@ AM 187 8vo
 | w   |        | frue         | xNC | frue           |   | frughe            | frughe        |   |   |   |   | dan |   |   |   |        340-05 | 2:context |          |  |    |    |    |    |
 | w   |        | frue         | xNC | fru            |   | frugh             | frugh         |   |   |   |   | dan |   |   |   |        340-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MarPed001    |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |              |     | Grete          |   | gretæ             | gretæ         |   |   |   |   | dan |   |   |   |        340-05 | 2:context |          |  |    |    |    |    |
-| w   |        |              |     | Pedersdatter   |   | pæth(er)s doter   | pæths doter  |   |   |   |   | dan |   |   |   |        340-05 | 2:context |          |  |    |    |    |    |
+| w   |        |              |     | Grete          |   | gretæ             | gretæ         |   |   |   |   | dan |   |   |   |        340-05 | 2:context |          |  |1397|    |    |    |
+| w   |        |              |     | Pedersdatter   |   | pæth(er)s doter   | pæths doter  |   |   |   |   | dan |   |   |   |        340-05 | 2:context |          |  |1397|    |    |    |
 | PE  | e      | MarPed001    |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | hærre        | xNC | hr.             |   | hæ{r}             | hæ{r}         |   |   |   |   | dan |   |   |   |        340-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | HenMol002    |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |              |     | Johan          |   | iohan             | iohan         |   |   |   |   | dan |   |   |   |        340-05 | 2:context |          |  |    |    |    |    |
+| w   |        |              |     | Johan          |   | iohan             | iohan         |   |   |   |   | dan |   |   |   |        340-05 | 2:context |          |  |1398|    |    |    |
 | lm  | 340-06 |              |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |              |     | Moltkes        |   | møltikes          | møltikes      |   |   |   |   | dan |   |   |   |        340-06 | 2:context |          |  |    |    |    |    |
+| w   |        |              |     | Moltkes        |   | møltikes          | møltikes      |   |   |   |   | dan |   |   |   |        340-06 | 2:context |          |  |1398|    |    |    |
 | PE  | e      | HenMol002    |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | æfterlivende | xNC | efterlevende   |   | efter leuende     | efter leuende |   |   |   |   | dan |   |   |   |        340-06 | 2:context |          |  |    |    |    |    |
 | w   |        | hun          | xPE | hun            |   | hu(n)             | hu̅            |   |   |   |   | dan |   |   |   |        340-06 | 2:context |          |  |    |    |    |    |

@@ -55,8 +55,8 @@
 | w   |        | helse       | xVB | hilser         |   | hilser              | hilſer        |   |   |   |   | dan |   |   |    |        362-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | jak         | xPE | jeg            |   | jac                 | jac           |   |   |   |   | dan |   |   |    |        362-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | PedBen001   |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Peder          |   | peth(e)r            | peth̅ꝛ         |   |   |   |   | dan |   |   |    |        362-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Bentsen        |   | beyntss(øn)         | beẏntſ       |   |   |   |   | dan |   |   |    |        362-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Peder          |   | peth(e)r            | peth̅ꝛ         |   |   |   |   | dan |   |   |    |        362-01 | 1:protocol |          |  |1482|    |    |    |
+| w   |        |             | xNP | Bentsen        |   | beyntss(øn)         | beẏntſ       |   |   |   |   | dan |   |   |    |        362-01 | 1:protocol |          |  |1482|    |    |    |
 | PE  | e      | PedBen001   |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | lm  | 362-02 |             |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | byman       | xNC | bymand         |   | byman               | bẏma         |   |   |   |   | dan |   |   |    |        362-02 | 1:protocol |          |  |    |    |    |    |
@@ -160,9 +160,9 @@
 | lm  | 362-09 |             |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | dotter      | xNC | datter         |   | doter               | doter         |   |   |   |   | dan |   |   |    |        362-09 | 2:context |          |  |    |    |    |    |
 | PE  | b      | KatPed001   |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Katrine        |   | karyne              | karẏne        |   |   |   |   | dan |   |   |    |        362-09 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Peders         |   | peth(e)rs           | peth̅ꝛ        |   |   |   |   | dan |   |   |    |        362-09 | 2:context |          |  |    |    |    |    |
-| w   |        | dotter      | xNC | datter         |   | dotter              | dotter        |   |   |   |   | dan |   |   |    |        362-09 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Katrine        |   | karyne              | karẏne        |   |   |   |   | dan |   |   |    |        362-09 | 2:context |          |  |1483|    |    |    |
+| w   |        |             | xNP | Peders         |   | peth(e)rs           | peth̅ꝛ        |   |   |   |   | dan |   |   |    |        362-09 | 2:context |          |  |1483|    |    |    |
+| w   |        | dotter      | xNC | datter         |   | dotter              | dotter        |   |   |   |   | dan |   |   |    |        362-09 | 2:context |          |  |1483|    |    |    |
 | PE  | e      | KatPed001   |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | til         | xAP | til            |   | til                 | til           |   |   |   |   | dan |   |   |    |        362-09 | 2:context |          |  |    |    |    |    |
 | w   |        | æværthelik  | xAJ | everdelige     |   | ewerdelike          | ewerdelike    |   |   |   |   | dan |   |   |    |        362-09 | 2:context |          |  |    |    |    |    |
@@ -228,8 +228,8 @@
 | w   |        | fornævnd    | xAJ | fornævnte      |   | forneffndde         | forneffndde   |   |   |   |   | dan |   |   |    |        362-13 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 362-14 |             |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | PE  | b      | PedBen001   |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Peder          |   | per                 | per           |   |   |   |   | dan |   |   | =  |        362-14 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Bentsen        |   | beyntss(øn)         | beẏntſ       |   |   |   |   | dan |   |   | == |        362-14 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Peder          |   | per                 | per           |   |   |   |   | dan |   |   | =  |        362-14 | 3:eschatocol |          |  |2498|    |    |    |
+| w   |        |             | xNP | Bentsen        |   | beyntss(øn)         | beẏntſ       |   |   |   |   | dan |   |   | == |        362-14 | 3:eschatocol |          |  |2498|    |    |    |
 | PE  | e      | PedBen001   |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | min         | xDP | mit            |   | mit                 | mit           |   |   |   |   | dan |   |   |    |        362-14 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | insighle    | xNC | indsegl        |   | jnseyle             | jnſeẏle       |   |   |   |   | dan |   |   |    |        362-14 | 3:eschatocol |          |  |    |    |    |    |
@@ -242,8 +242,8 @@
 | w   |        | sum         | xRP | som            |   | swm                 | ſw           |   |   |   |   | dan |   |   |    |        362-14 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | være        | xVB | er             |   | er                  | er            |   |   |   |   | dan |   |   |    |        362-14 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | JepMog001   |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Jep            |   | jepp                | je           |   |   |   |   | dan |   |   |    |        362-14 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Mogensen       |   | moe¦nss(øn)         | moe¦nſ       |   |   |   |   | dan |   |   |    | 362-14—362-15 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Jep            |   | jepp                | je           |   |   |   |   | dan |   |   |    |        362-14 | 3:eschatocol |          |  |1484|    |    |    |
+| w   |        |             | xNP | Mogensen       |   | moe¦nss(øn)         | moe¦nſ       |   |   |   |   | dan |   |   |    | 362-14—362-15 | 3:eschatocol |          |  |1484|    |    |    |
 | PE  | e      | JepMog001   |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | rathman     | xNC | rådmand        |   | rathman             | rathma       |   |   |   |   | dan |   |   |    |        362-15 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | innen       | xAP | inden          |   | jnne(n)             | jnnē          |   |   |   |   | dan |   |   |    |        362-15 | 3:eschatocol |          |  |    |    |    |    |
@@ -252,13 +252,13 @@
 | PL  | e      |             |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og             |   | oc                  | oc            |   |   |   |   | dan |   |   |    |        362-15 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | JenTru001   |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Jens           |   | jes                 | ȷe           |   |   |   |   | dan |   |   |    |        362-15 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Truesen        |   | thrwuess(øn)        | thrwůeſ      |   |   |   |   | dan |   |   |    |        362-15 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Jens           |   | jes                 | ȷe           |   |   |   |   | dan |   |   |    |        362-15 | 3:eschatocol |          |  |1485|    |    |    |
+| w   |        |             | xNP | Truesen        |   | thrwuess(øn)        | thrwůeſ      |   |   |   |   | dan |   |   |    |        362-15 | 3:eschatocol |          |  |1485|    |    |    |
 | PE  | e      | JenTru001   |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og             |   | oc                  | oc            |   |   |   |   | dan |   |   |    |        362-15 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | MadPed001   |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Mads           |   | mates               | mate         |   |   |   |   | dan |   |   |    |        362-15 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Pedersen       |   | peth(e)rss(øn)      | peth̅ꝛſ       |   |   |   |   | dan |   |   |    |        362-15 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Mads           |   | mates               | mate         |   |   |   |   | dan |   |   |    |        362-15 | 3:eschatocol |          |  |1486|    |    |    |
+| w   |        |             | xNP | Pedersen       |   | peth(e)rss(øn)      | peth̅ꝛſ       |   |   |   |   | dan |   |   |    |        362-15 | 3:eschatocol |          |  |1486|    |    |    |
 | PE  | e      | MadPed001   |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | byman       | xNC | bymænd         |   | byme(n)             | bẏmē          |   |   |   |   | dan |   |   |    |        362-15 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 362-16 |             |     |                |   |                     |               |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |

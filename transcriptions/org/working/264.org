@@ -49,7 +49,7 @@
 | w   |        |   |   |   |   | c(er)nentib(us)   | cnentíbꝫ    |   |   |   |   | lat |   |   |    |        264-01 | 1:protocol |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |    |        264-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | HenEps001  |   |   |   |                   |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | henricus          | henrícu     |   |   |   |   | lat |   |   |    |        264-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | henricus          | henrícu     |   |   |   |   | lat |   |   |    |        264-01 | 1:protocol |          |  |1089|    |    |    |
 | PE  | e      | HenEps001  |   |   |   |                   |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | dei               | deí          |   |   |   |   | lat |   |   |    |        264-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | gr(aci)a          | gr̅a          |   |   |   |   | lat |   |   |    |        264-01 | 1:protocol |          |  |    |    |    |    |
@@ -90,13 +90,13 @@
 | p   |        |   |   |   |   | /                 | /            |   |   |   |   | lat |   |   |    |        264-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)no          | dn̅o          |   |   |   |   | lat |   |   |    |        264-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | PedCle001  |   |   |   |                   |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | petro             | petro        |   |   |   |   | lat |   |   |    |        264-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | petro             | petro        |   |   |   |   | lat |   |   |    |        264-03 | 2:context |          |  |1090|    |    |    |
 | PE  | e      | PedCle001  |   |   |   |                   |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | clerico           | clerıco      |   |   |   |   | lat |   |   |    |        264-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | n(ost)ro          | nr̅o          |   |   |   |   | lat |   |   |    |        264-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | et                | et           |   |   |   |   | lat |   |   |    |        264-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | GerVic001  |   |   |   |                   |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | gerardo           | gerardo      |   |   |   |   | lat |   |   |    |        264-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | gerardo           | gerardo      |   |   |   |   | lat |   |   |    |        264-03 | 2:context |          |  |1091|    |    |    |
 | PE  | e      | GerVic001  |   |   |   |                   |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(er)petuo        | ̲etuo        |   |   |   |   | lat |   |   |    |        264-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | vicario           | vıcarío      |   |   |   |   | lat |   |   |    |        264-03 | 2:context |          |  |    |    |    |    |
@@ -107,14 +107,14 @@
 | PL  | e      |   |   |   |   |                   |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |    |        264-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JenPan001  |   |   |   |                   |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Iohanne           | Iohanne      |   |   |   |   | lat |   |   |    |        264-03 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | paant             | paant        |   |   |   |   | lat |   |   |    |        264-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Iohanne           | Iohanne      |   |   |   |   | lat |   |   |    |        264-03 | 2:context |          |  |1092|    |    |    |
+| w   |        |   |   |   |   | paant             | paant        |   |   |   |   | lat |   |   |    |        264-03 | 2:context |          |  |1092|    |    |    |
 | PE  | e      | JenPan001  |   |   |   |                   |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | et                | et           |   |   |   |   | lat |   |   |    |        264-03 | 2:context |          |  |    |    |    |    |
 | lm  | 264-04 |   |   |   |   |                   |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | PE  | b      | PouBil001  |   |   |   |                   |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | paulo             | paulo        |   |   |   |   | lat |   |   |    |        264-04 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | bylle             | bẏlle        |   |   |   |   | lat |   |   |    |        264-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | paulo             | paulo        |   |   |   |   | lat |   |   |    |        264-04 | 2:context |          |  |1093|    |    |    |
+| w   |        |   |   |   |   | bylle             | bẏlle        |   |   |   |   | lat |   |   |    |        264-04 | 2:context |          |  |1093|    |    |    |
 | PE  | e      | PouBil001  |   |   |   |                   |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | laicis            | laıcí       |   |   |   |   | lat |   |   |    |        264-04 | 2:context |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /                 | /            |   |   |   |   | lat |   |   |    |        264-04 | 2:context |          |  |    |    |    |    |
@@ -145,8 +145,8 @@
 | w   |        |   |   |   |   | ven(er)ab(i)lis   | venabl̅ı    |   |   |   |   | lat |   |   |    |        264-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)n(u)s       | dn̅          |   |   |   |   | lat |   |   |    |        264-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JenKra003  |   |   |   |                   |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Iohannes          | Iohanne     |   |   |   |   | lat |   |   |    |        264-05 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | kraac             | kraac        |   |   |   |   | lat |   |   |    |        264-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Iohannes          | Iohanne     |   |   |   |   | lat |   |   |    |        264-05 | 2:context |          |  |1094|    |    |    |
+| w   |        |   |   |   |   | kraac             | kraac        |   |   |   |   | lat |   |   |    |        264-05 | 2:context |          |  |1094|    |    |    |
 | PE  | e      | JenKra003  |   |   |   |                   |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | decan(us)         | decanꝰ       |   |   |   |   | lat |   |   |    |        264-05 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                   |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -156,8 +156,8 @@
 | lm  | 264-06 |   |   |   |   |                   |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)no          | dn̅o          |   |   |   |   | lat |   |   |    |        264-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | NieTyg002  |   |   |   |                   |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicholao          | nıcholao     |   |   |   |   | lat |   |   |    |        264-06 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | tuchonis          | tuchoní     |   |   |   |   | lat |   |   |    |        264-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nicholao          | nıcholao     |   |   |   |   | lat |   |   |    |        264-06 | 2:context |          |  |1095|    |    |    |
+| w   |        |   |   |   |   | tuchonis          | tuchoní     |   |   |   |   | lat |   |   |    |        264-06 | 2:context |          |  |1095|    |    |    |
 | PE  | e      | NieTyg002  |   |   |   |                   |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | can(onico)        | ca̅          |   |   |   |   | lat |   |   |    |        264-06 | 2:context |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |    |        264-06 | 2:context |          |  |    |    |    |    |
@@ -197,9 +197,9 @@
 | w   |        |   |   |   |   | nu(n)c            | nu̅c          |   |   |   |   | lat |   |   |    |        264-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | habitat           | habítat      |   |   |   |   | lat |   |   |    |        264-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | WerPun001  |   |   |   |                   |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | wer¦ner(us)       | wer¦nerꝰ     |   |   |   |   | lat |   |   |    | 264-07—264-08 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | d(i)c(t)us        | dc̅u         |   |   |   |   | lat |   |   |    |        264-08 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | pundere           | pundere      |   |   |   |   | lat |   |   |    |        264-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | wer¦ner(us)       | wer¦nerꝰ     |   |   |   |   | lat |   |   |    | 264-07—264-08 | 2:context |          |  |1096|    |    |    |
+| w   |        |   |   |   |   | d(i)c(t)us        | dc̅u         |   |   |   |   | lat |   |   |    |        264-08 | 2:context |          |  |1096|    |    |    |
+| w   |        |   |   |   |   | pundere           | pundere      |   |   |   |   | lat |   |   |    |        264-08 | 2:context |          |  |1096|    |    |    |
 | PE  | e      | WerPun001  |   |   |   |                   |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | sita              | ſíta         |   |   |   |   | lat |   |   |    |        264-08 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | legauit           | legauít      |   |   |   |   | lat |   |   |    |        264-08 | 2:context |          |  |    |    |    |    |
@@ -225,8 +225,8 @@
 | w   |        |   |   |   |   | Idem              | Idem         |   |   |   |   | lat |   |   |    |        264-09 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | do(minus)         | doꝰ          |   |   |   |   | lat |   |   |    |        264-09 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JenKra003  |   |   |   |                   |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Ioh(ann)es        | Ioh̅e        |   |   |   |   | lat |   |   |    |        264-09 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | kraac             | kraac        |   |   |   |   | lat |   |   |    |        264-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Ioh(ann)es        | Ioh̅e        |   |   |   |   | lat |   |   |    |        264-09 | 2:context |          |  |1097|    |    |    |
+| w   |        |   |   |   |   | kraac             | kraac        |   |   |   |   | lat |   |   |    |        264-09 | 2:context |          |  |1097|    |    |    |
 | PE  | e      | JenKra003  |   |   |   |                   |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | reddit(us)        | reddítꝰ      |   |   |   |   | lat |   |   |    |        264-09 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ip(s)or(um)       | ıp̅oꝝ         |   |   |   |   | lat |   |   |    |        264-09 | 2:context |          |  |    |    |    |    |
@@ -283,8 +283,8 @@
 | w   |        |   |   |   |   | sigillo           | ſígíllo      |   |   |   |   | lat |   |   |    |        264-12 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)ni          | dn̅í          |   |   |   |   | lat |   |   |    |        264-12 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | JenKra003  |   |   |   |                   |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Ioh(ann)is        | Ioh̅ı        |   |   |   |   | lat |   |   |    |        264-12 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | kraac             | kraac        |   |   |   |   | lat |   |   |    |        264-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Ioh(ann)is        | Ioh̅ı        |   |   |   |   | lat |   |   |    |        264-12 | 3:eschatocol |          |  |1098|    |    |    |
+| w   |        |   |   |   |   | kraac             | kraac        |   |   |   |   | lat |   |   |    |        264-12 | 3:eschatocol |          |  |1098|    |    |    |
 | PE  | e      | JenKra003  |   |   |   |                   |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | sup(ra)¦d(i)c(t)i | ſupᷓ¦dc̅ı      |   |   |   |   | lat |   |   |    | 264-12—264-13 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | anno              | anno         |   |   |   |   | lat |   |   |    |        264-13 | 3:eschatocol |          |  |    |    |    |    |

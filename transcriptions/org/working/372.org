@@ -54,8 +54,8 @@
 | w   |        | vi          | xPE | vi          |   | wy               | wy          |   |   |   |   | dan |   |   |    | 372-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | syster      | xNC | søster      |   | søst(er)         | ſøſt       |   |   |   |   | dan |   |   |    | 372-01 | 1:protocol |          |  |    |    |    |    |
 | PE  |      b | CecBos001   |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Cecilie     |   | citze            | cıtze       |   |   |   |   | dan |   |   |    | 372-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Bodatter    |   | bodott(er)       | bodott     |   |   |   |   | dan |   |   |    | 372-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Cecilie     |   | citze            | cıtze       |   |   |   |   | dan |   |   |    | 372-01 | 1:protocol |          |  |1564|    |    |    |
+| w   |        |             | xNP | Bodatter    |   | bodott(er)       | bodott     |   |   |   |   | dan |   |   |    | 372-01 | 1:protocol |          |  |1564|    |    |    |
 | PE  |      e | CecBos001   |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | abbetisse   | xNC | abetisse    |   | abb(a)tissa      | ab̅btiſſa    |   |   |   |   | lat |   |   |    | 372-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og          |   | oc               | oc          |   |   |   |   | dan |   |   |    | 372-01 | 1:protocol |          |  |    |    |    |    |
@@ -93,8 +93,8 @@
 | w   |        | thænne      | xDD | denne       |   | the(n)ne         | the̅ne       |   |   |   |   | dan |   |   |    | 372-03 | 2:context |          |  |    |    |    |    |
 | w   |        | brevvisere  | xNC | brevviser   |   | b(re)ffuise(r)   | b̅ffuiſe    |   |   |   |   | dan |   |   |    | 372-03 | 2:context |          |  |    |    |    |    |
 | PE  |      b | MikLau001   |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Mikkel      |   | mickell          | mickell     |   |   |   |   | dan |   |   |    | 372-03 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Laurensen   |   | laur(e)ntzss(øn) | laurntzſ  |   |   |   |   | dan |   |   |    | 372-03 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Mikkel      |   | mickell          | mickell     |   |   |   |   | dan |   |   |    | 372-03 | 2:context |          |  |1565|    |    |    |
+| w   |        |             | xNP | Laurensen   |   | laur(e)ntzss(øn) | laurntzſ  |   |   |   |   | dan |   |   |    | 372-03 | 2:context |          |  |1565|    |    |    |
 | PE  |      e | MikLau001   |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | en          | xNA | en          |   | een              | ee         |   |   |   |   | dan |   |   |    | 372-03 | 2:context |          |  |    |    |    |    |
 | w   |        | var         | xDP | vor         |   | wor              | wor         |   |   |   |   | dan |   |   |    | 372-03 | 2:context |          |  |    |    |    |    |
@@ -292,8 +292,8 @@
 | w   |        |             | lat |             |   | n(ost)ri         | nr̅ı         |   |   |   |   | lat |   |   |    | 372-13 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |             | lat |             |   | d(omi)nj         | dn̅ȷ         |   |   |   |   | lat |   |   |    | 372-13 | 3:eschatocol |          |  |    |    |    |    |
 | PE  |      b | OluBos001   |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | lat |             |   | olauj            | olauj       |   |   |   |   | lat |   |   |    | 372-13 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | lat |             |   | boecij           | boecij      |   |   |   |   | lat |   |   |    | 372-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | lat |             |   | olauj            | olauj       |   |   |   |   | lat |   |   |    | 372-13 | 3:eschatocol |          |  |1566|    |    |    |
+| w   |        |             | lat |             |   | boecij           | boecij      |   |   |   |   | lat |   |   |    | 372-13 | 3:eschatocol |          |  |1566|    |    |    |
 | PE  |      e | OluBos001   |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        |             | lat |             |   | ca(no)n(ici)     | ca̅ꝰ        |   |   |   |   | lat |   |   |    | 372-13 | 3:eschatocol |          |  |    |    |    |    |
 | PL  |      b |             |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |

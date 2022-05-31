@@ -44,7 +44,7 @@
 | lm  | 186-01 |   |   |   |   |                      |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | d  | b      | 1  |   | protocol  |   |                      |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | RexKri002  |   |   |   |                      |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | CRistophorus         | CRıﬅophoꝛus    |   |   |   |   | lat |   |   |   |        186-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | CRistophorus         | CRıﬅophoꝛus    |   |   |   |   | lat |   |   |   |        186-01 | 1:protocol |          |  |760|    |    |    |
 | PE  | e      | RexKri002  |   |   |   |                      |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | dej                  | ꝺeȷ            |   |   |   |   | lat |   |   |   |        186-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | gr(ati)a             | gr̅a            |   |   |   |   | lat |   |   |   |        186-01 | 1:protocol |          |  |    |    |    |    |
@@ -71,9 +71,9 @@
 | d  | b      | 2  |   | context  |   |                      |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | q(uod)               | ꝙ              |   |   |   |   | lat |   |   |   |        186-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      | OluNie001  |   |   |   |                      |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Olauus               | Olauus         |   |   |   |   | lat |   |   |   |        186-02 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | niclæs               | nıclæs         |   |   |   |   | lat |   |   |   |        186-02 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | s(un)                |               |   |   |   |   | lat |   |   |   |        186-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Olauus               | Olauus         |   |   |   |   | lat |   |   |   |        186-02 | 2:context |          |  |761|    |    |    |
+| w   |        |   |   |   |   | niclæs               | nıclæs         |   |   |   |   | lat |   |   |   |        186-02 | 2:context |          |  |761|    |    |    |
+| w   |        |   |   |   |   | s(un)                |               |   |   |   |   | lat |   |   |   |        186-02 | 2:context |          |  |761|    |    |    |
 | PE  | e      | OluNie001  |   |   |   |                      |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /                    | /              |   |   |   |   | lat |   |   |   |        186-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | in                   | ın             |   |   |   |   | lat |   |   |   |        186-02 | 2:context |          |  |    |    |    |    |
@@ -94,7 +94,7 @@
 | p   |        |   |   |   |   | /                    | /              |   |   |   |   | lat |   |   |   |        186-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | D(omi)no             | Ꝺn̅o            |   |   |   |   | lat |   |   |   |        186-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | HenCan001  |   |   |   |                      |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | henrico              | henrıco        |   |   |   |   | lat |   |   |   |        186-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | henrico              | henrıco        |   |   |   |   | lat |   |   |   |        186-03 | 2:context |          |  |762|    |    |    |
 | PE  | e      | HenCan001  |   |   |   |                      |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /                    | /              |   |   |   |   | lat |   |   |   |        186-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Canonico             | Cnonıco       |   |   |   |   | lat |   |   |   |        186-03 | 2:context |          |  |    |    |    |    |
@@ -253,7 +253,7 @@
 | w   |        |   |   |   |   | Teste                | ᴛeﬅe           |   |   |   |   | lat |   |   |   |        186-11 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)no             | ꝺn̅o            |   |   |   |   | lat |   |   |   |        186-11 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | PouSac001  |   |   |   |                      |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Paulo                | Paulo          |   |   |   |   | lat |   |   |   |        186-11 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Paulo                | Paulo          |   |   |   |   | lat |   |   |   |        186-11 | 3:eschatocol |          |  |763|    |    |    |
 | PE  | e      | PouSac001  |   |   |   |                      |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | sac(er)dote          | ſac͛ꝺote        |   |   |   |   | lat |   |   |   |        186-11 | 3:eschatocol |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /                    | /              |   |   |   |   | lat |   |   |   |        186-11 | 3:eschatocol |          |  |    |    |    |    |

@@ -45,7 +45,7 @@
 | d   | b      | 1             |     | protocol    |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | vi            | xPE | vi          |   | Wii              | Wii              |   |   |   |   | dan |   |   |    | 416-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | RexHan001     |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Hans        |   | Hans             | Han             |   |   |   |   | dan |   |   |    | 416-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Hans        |   | Hans             | Han             |   |   |   |   | dan |   |   |    | 416-01 | 1:protocol |          |  |1937|    |    |    |
 | PE  | e      | RexHan001     |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | mæth          | xAP | med         |   | m(et)            | mꝫ               |   |   |   |   | dan |   |   |    | 416-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | guth          | xNC | Guds        |   | gudz             | gudz             |   |   |   |   | dan |   |   |    | 416-01 | 1:protocol |          |  |    |    |    |    |
@@ -123,9 +123,9 @@
 | w   |        | man           | xNC | mand        |   | ma(n)            | ma̅               |   |   |   |   | dan |   |   |    | 416-04 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre         | xNC | hr.          |   | h(er)            | h               |   |   |   |   | dan |   |   |    | 416-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | OddHan001     |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Odde        |   | odde             | odde             |   |   |   |   | dan |   |   |    | 416-04 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Odde        |   | odde             | odde             |   |   |   |   | dan |   |   |    | 416-04 | 2:context |          |  |1938|    |    |    |
 | lm  | 416-05 |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Hansen      |   | hanss(øn)        | hanſ            |   |   |   |   | dan |   |   |    | 416-05 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Hansen      |   | hanss(øn)        | hanſ            |   |   |   |   | dan |   |   |    | 416-05 | 2:context |          |  |1938|    |    |    |
 | PE  | e      | OddHan001     |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | kantor        | xNC | kantor      |   | cantor           | cantor           |   |   |   |   | dan |   |   |    | 416-05 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i           |   | i                | i                |   |   |   |   | dan |   |   |    | 416-05 | 2:context |          |  |    |    |    |    |
@@ -214,8 +214,8 @@
 | w   |        | forskreven    | xAJ | forskrevne  |   | forsc(re)ffne    | foꝛſcͤffne        |   |   |   |   | dan |   |   |    | 416-10 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre         | xNC | hr.          |   | h(er)            | h               |   |   |   |   | dan |   |   |    | 416-10 | 2:context |          |  |    |    |    |    |
 | PE  | b      | OddHan001     |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Odde        |   | odde             | odde             |   |   |   |   | dan |   |   |    | 416-10 | 2:context |          |  |    |    |    |    |
-| w   |        |               | xNP | Hansen      |   | hanss(øn)        | hanſ            |   |   |   |   | dan |   |   |    | 416-10 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Odde        |   | odde             | odde             |   |   |   |   | dan |   |   |    | 416-10 | 2:context |          |  |1939|    |    |    |
+| w   |        |               | xNP | Hansen      |   | hanss(øn)        | hanſ            |   |   |   |   | dan |   |   |    | 416-10 | 2:context |          |  |1939|    |    |    |
 | PE  | e      | OddHan001     |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | upa           | xAP | opå         |   | vpa              | vpa              |   |   |   |   | dan |   |   |    | 416-10 | 2:context |          |  |    |    |    |    |
 | w   |        | persone       | xNC | person      |   | p(er)s{one}      | ꝑſ{one}          |   |   |   |   | dan |   |   |    | 416-10 | 2:context |          |  |    |    |    |    |

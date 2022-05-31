@@ -53,8 +53,8 @@
 | w   |        | helse       | xVB | hilse          |   | helsse            | helſſe       |   |   |   |        | dan |   |   |    | 425-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | vi          | xPE | vi             |   | wy                | wy           |   |   |   |        | dan |   |   |    | 425-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | OluHan001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Oluf           |   | Oleff             | Oleff        |   |   |   |        | dan |   |   |    | 425-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Hansen         |   | hanss(øn)         | hanſ        |   |   |   |        | dan |   |   |    | 425-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Oluf           |   | Oleff             | Oleff        |   |   |   |        | dan |   |   |    | 425-01 | 1:protocol |          |  |2015|    |    |    |
+| w   |        |             | xNP | Hansen         |   | hanss(øn)         | hanſ        |   |   |   |        | dan |   |   |    | 425-01 | 1:protocol |          |  |2015|    |    |    |
 | PE  | e      | OluHan001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i              |   | i                 | i            |   |   |   |        | dan |   |   |    | 425-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
@@ -68,8 +68,8 @@
 | w   |        | hæreth      | xNC | Herred         |   | h(e)r(et)         | h̅rꝫ          |   |   |   |        | dan |   |   |    | 425-02 | 1:protocol |          |  |    |    |    |    |
 | PL  | e      |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | PE  | b      | PerPig001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Per            |   | pær               | pæꝛ          |   |   |   |        | dan |   |   |    | 425-02 | 1:protocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Pig            |   | pygh              | pygh         |   |   |   |        | dan |   |   |    | 425-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Per            |   | pær               | pæꝛ          |   |   |   |        | dan |   |   |    | 425-02 | 1:protocol |          |  |2016|    |    |    |
+| w   |        |             | xNP | Pig            |   | pygh              | pygh         |   |   |   |        | dan |   |   |    | 425-02 | 1:protocol |          |  |2016|    |    |    |
 | PE  | e      | PerPig001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i              |   | i                 | i            |   |   |   |        | dan |   |   |    | 425-02 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
@@ -77,8 +77,8 @@
 | PL  | e      |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og             |   | och               | och          |   |   |   |        | dan |   |   |    | 425-02 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | JenMaw001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Jens           |   | jes               | ȷe          |   |   |   |        | dan |   |   |    | 425-02 | 1:protocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Maw            |   | maw               | maw          |   |   |   |        | dan |   |   |    | 425-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Jens           |   | jes               | ȷe          |   |   |   |        | dan |   |   |    | 425-02 | 1:protocol |          |  |2017|    |    |    |
+| w   |        |             | xNP | Maw            |   | maw               | maw          |   |   |   |        | dan |   |   |    | 425-02 | 1:protocol |          |  |2017|    |    |    |
 | PE  | e      | JenMaw001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i              |   | i                 | i            |   |   |   |        | dan |   |   |    | 425-02 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
@@ -139,9 +139,9 @@
 | w   |        | beskethen   | xAJ | beskeden       |   | besketyn          | beſketyn     |   |   |   |        | dan |   |   |    | 425-06 | 2:context |          |  |    |    |    |    |
 | w   |        | man         | xNC | mand           |   | ma(n)             | ma̅           |   |   |   |        | dan |   |   |    | 425-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MikOls001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Mikkel         |   | mekyll            | mekyll       |   |   |   |        | dan |   |   |    | 425-06 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Mikkel         |   | mekyll            | mekyll       |   |   |   |        | dan |   |   |    | 425-06 | 2:context |          |  |2018|    |    |    |
 | lm  | 425-07 |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Olsen          |   | oolss(øn)         | oolſ        |   |   |   |        | dan |   |   |    | 425-07 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Olsen          |   | oolss(øn)         | oolſ        |   |   |   |        | dan |   |   |    | 425-07 | 2:context |          |  |2018|    |    |    |
 | PE  | e      | MikOls001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i              |   | i                 | i            |   |   |   |        | dan |   |   |    | 425-07 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
@@ -153,8 +153,8 @@
 | w   |        | thing       | xNC | tinge          |   | ty(n)gghe         | ty̅gghe       |   |   |   |        | dan |   |   |    | 425-07 | 2:context |          |  |    |    |    |    |
 | w   |        | at          | xCS | at             |   | ath               | ath          |   |   |   |        | dan |   |   |    | 425-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | SørLin001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Søren          |   | seve(ri)n         | ſeve       |   |   |   |        | dan |   |   |    | 425-07 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Andersen       |   | andh(e)rss(øn)    | andh̅ꝛſ      |   |   |   |        | dan |   |   |    | 425-07 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Søren          |   | seve(ri)n         | ſeve       |   |   |   |        | dan |   |   |    | 425-07 | 2:context |          |  |2019|    |    |    |
+| w   |        |             | xNP | Andersen       |   | andh(e)rss(øn)    | andh̅ꝛſ      |   |   |   |        | dan |   |   |    | 425-07 | 2:context |          |  |2019|    |    |    |
 | PE  | e      | SørLin001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i              |   | i                 | i            |   |   |   |        | dan |   |   |    | 425-07 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd    | xAJ | fornævnte      |   | for(nefnde)       | foꝛᷠͤ          |   |   |   |        | dan |   |   |    | 425-07 | 2:context |          |  |    |    |    |    |
@@ -167,8 +167,8 @@
 | w   |        | af          | xAP | af             |   | aff               | aff          |   |   |   |        | dan |   |   |    | 425-08 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd    | xAJ | fornævnte      |   | for(nefnde)       | foꝛᷠͤ          |   |   |   |        | dan |   |   |    | 425-08 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MikOls001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Mikkel         |   | mekyll            | mekyll       |   |   |   |        | dan |   |   |    | 425-08 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Olsen          |   | olss(øn)          | olſ         |   |   |   |        | dan |   |   |    | 425-08 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Mikkel         |   | mekyll            | mekyll       |   |   |   |        | dan |   |   |    | 425-08 | 2:context |          |  |2020|    |    |    |
+| w   |        |             | xNP | Olsen          |   | olss(øn)          | olſ         |   |   |   |        | dan |   |   |    | 425-08 | 2:context |          |  |2020|    |    |    |
 | PE  | e      | MikOls001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | jorth       | xNC | jord           |   | jord              | ȷoꝛd         |   |   |   |        | dan |   |   |    | 425-08 | 2:context |          |  |    |    |    |    |
 | p   |        |             |     |                |   | /                 | /            |   |   |   |        | dan |   |   |    | 425-08 | 2:context |          |  |    |    |    |    |
@@ -195,20 +195,20 @@
 | w   |        | sum         | xRP | som            |   | som               | ſo          |   |   |   |        | dan |   |   |    | 425-10 | 2:context |          |  |    |    |    |    |
 | w   |        | være        | xVB | var            |   | wor               | woꝛ          |   |   |   |        | dan |   |   |    | 425-10 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JenPed012   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Jens           |   | jes               | ȷe          |   |   |   |        | dan |   |   |    | 425-10 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Persen         |   | p(er)ss(øn)       | p̲ſ          |   |   |   |        | dan |   |   |    | 425-10 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Jens           |   | jes               | ȷe          |   |   |   |        | dan |   |   |    | 425-10 | 2:context |          |  |2021|    |    |    |
+| w   |        |             | xNP | Persen         |   | p(er)ss(øn)       | p̲ſ          |   |   |   |        | dan |   |   |    | 425-10 | 2:context |          |  |2021|    |    |    |
 | PE  | e      | JenPed012   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i              |   | i                 | i            |   |   |   |        | dan |   |   |    | 425-10 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        |             | xNP | Ørslev         |   | ørssløff          | øꝛſſløff     |   |   |   |        | dan |   |   |    | 425-10 | 2:context |          |  |    |    |    |    |
 | PL  | e      |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | PE  | b      | JenGod001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Jens           |   | jes               | ȷe          |   |   |   |        | dan |   |   |    | 425-10 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Godke          |   | godke             | godke        |   |   |   |        | dan |   |   |    | 425-10 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Jens           |   | jes               | ȷe          |   |   |   |        | dan |   |   |    | 425-10 | 2:context |          |  |2022|    |    |    |
+| w   |        |             | xNP | Godke          |   | godke             | godke        |   |   |   |        | dan |   |   |    | 425-10 | 2:context |          |  |2022|    |    |    |
 | PE  | e      | JenGod001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | PE  | b      | BoxBon001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Bo             |   | boo               | boo          |   |   |   |        | dan |   |   |    | 425-10 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Bonde          |   | bondhe            | bondhe       |   |   |   |        | dan |   |   |    | 425-10 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Bo             |   | boo               | boo          |   |   |   |        | dan |   |   |    | 425-10 | 2:context |          |  |2023|    |    |    |
+| w   |        |             | xNP | Bonde          |   | bondhe            | bondhe       |   |   |   |        | dan |   |   |    | 425-10 | 2:context |          |  |2023|    |    |    |
 | PE  | e      | BoxBon001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i              |   | i                 | i            |   |   |   |        | dan |   |   |    | 425-10 | 2:context |          |  |    |    |    |    |
 | lm  | 425-11 |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
@@ -216,21 +216,21 @@
 | w   |        |             | xNP | Værløse        |   | hw(er)løse        | hwløſe      |   |   |   |        | dan |   |   |    | 425-11 | 2:context |          |  |    |    |    |    |
 | PL  | e      |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | PE  | b      | PerNie001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Per            |   | pær               | pæꝛ          |   |   |   |        | dan |   |   |    | 425-11 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Nielsen        |   | nielss(øn)        | nielſ       |   |   |   |        | dan |   |   |    | 425-11 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Per            |   | pær               | pæꝛ          |   |   |   |        | dan |   |   |    | 425-11 | 2:context |          |  |2024|    |    |    |
+| w   |        |             | xNP | Nielsen        |   | nielss(øn)        | nielſ       |   |   |   |        | dan |   |   |    | 425-11 | 2:context |          |  |2024|    |    |    |
 | PE  | e      | PerNie001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i              |   | i                 | i            |   |   |   |        | dan |   |   |    | 425-11 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        |             | xNP | Tystrup        |   | tyst(rv)pp        | tyſtͮ        |   |   |   |        | dan |   |   |    | 425-11 | 2:context |          |  |    |    |    |    |
 | PL  | e      |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | PE  | b      | HemPin001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Hemming        |   | hæ(m)mi(n)gh      | hæ̅mi̅gh       |   |   |   |        | dan |   |   |    | 425-11 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Pin            |   | pyn               | py          |   |   |   |        | dan |   |   |    | 425-11 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Hemming        |   | hæ(m)mi(n)gh      | hæ̅mi̅gh       |   |   |   |        | dan |   |   |    | 425-11 | 2:context |          |  |2025|    |    |    |
+| w   |        |             | xNP | Pin            |   | pyn               | py          |   |   |   |        | dan |   |   |    | 425-11 | 2:context |          |  |2025|    |    |    |
 | PE  | e      | HemPin001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og             |   | och               | och          |   |   |   |        | dan |   |   |    | 425-11 | 2:context |          |  |    |    |    |    |
 | PE  | b      | IngPin001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Ingvar         |   | y(n)gw(er)        | y̅gw         |   |   |   |        | dan |   |   |    | 425-11 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Pin            |   | pyn               | pyn          |   |   |   |        | dan |   |   |    | 425-11 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Ingvar         |   | y(n)gw(er)        | y̅gw         |   |   |   |        | dan |   |   |    | 425-11 | 2:context |          |  |2026|    |    |    |
+| w   |        |             | xNP | Pin            |   | pyn               | pyn          |   |   |   |        | dan |   |   |    | 425-11 | 2:context |          |  |2026|    |    |    |
 | PE  | e      | IngPin001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i              |   | i                 | i            |   |   |   |        | dan |   |   |    | 425-11 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
@@ -258,8 +258,8 @@
 | w   |        | at          | xCS | at             |   | ath               | ath          |   |   |   |        | dan |   |   |    | 425-13 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd    | xAJ | fornævnte      |   | for(nefnde)       | foꝛᷠͤ          |   |   |   |        | dan |   |   |    | 425-13 | 2:context |          |  |    |    |    |    |
 | PE  | b      | SørLin001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Søren          |   | seve(ri)n         | ſeve       |   |   |   |        | dan |   |   |    | 425-13 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Andersen       |   | andh(e)rss(øn)    | andh̅ꝛſ      |   |   |   |        | dan |   |   |    | 425-13 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Søren          |   | seve(ri)n         | ſeve       |   |   |   |        | dan |   |   |    | 425-13 | 2:context |          |  |2027|    |    |    |
+| w   |        |             | xNP | Andersen       |   | andh(e)rss(øn)    | andh̅ꝛſ      |   |   |   |        | dan |   |   |    | 425-13 | 2:context |          |  |2027|    |    |    |
 | PE  | e      | SørLin001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | have        | xVB | har            |   | haffu(e)r         | haffuꝛ      |   |   |   |        | dan |   |   |    | 425-13 | 2:context |          |  |    |    |    |    |
 | lm  | 425-14 |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
@@ -267,8 +267,8 @@
 | w   |        | af          | xAP | af             |   | aff               | aff          |   |   |   |        | dan |   |   |    | 425-14 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd    | xAJ | fornævnte      |   | for(nefnde)       | foꝛᷠͤ          |   |   |   |        | dan |   |   |    | 425-14 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MikOls001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Mikkel         |   | mekyll            | mekyll       |   |   |   |        | dan |   |   |    | 425-14 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Olsen          |   | olss(øn)          | olſ         |   |   |   |        | dan |   |   |    | 425-14 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Mikkel         |   | mekyll            | mekyll       |   |   |   |        | dan |   |   |    | 425-14 | 2:context |          |  |2028|    |    |    |
+| w   |        |             | xNP | Olsen          |   | olss(øn)          | olſ         |   |   |   |        | dan |   |   |    | 425-14 | 2:context |          |  |2028|    |    |    |
 | PE  | e      | MikOls001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | jorth       | xNC | jord           |   | jord              | ȷord         |   |   |   |        | dan |   |   |    | 425-14 | 2:context |          |  |    |    |    |    |
 | n   |        | 1           |     | 1              |   | i                 | i            |   |   |   |        | dan |   |   |    | 425-14 | 2:context |          |  |    |    |    |    |
@@ -291,7 +291,7 @@
 | w   |        | upa         | xAP | på             |   | paa               | paa          |   |   |   |        | dan |   |   |    | 425-15 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd    | xAJ | fornævnte      |   | for(nefnde)       | foꝛᷠͤ          |   |   |   |        | dan |   |   |    | 425-15 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MikOls001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Mikkels        |   | mekels            | mekel       |   |   |   |        | dan |   |   |    | 425-15 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Mikkels        |   | mekels            | mekel       |   |   |   |        | dan |   |   |    | 425-15 | 2:context |          |  |2029|    |    |    |
 | PE  | e      | MikOls001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | jorth       | xNC | jord           |   | jord              | ȷoꝛd         |   |   |   |        | dan |   |   |    | 425-15 | 2:context |          |  |    |    |    |    |
 | w   |        | sva         | xAV | så             |   | soo               | ſoo          |   |   |   |        | dan |   |   |    | 425-15 | 2:context |          |  |    |    |    |    |
@@ -314,8 +314,8 @@
 | w   |        | bithje      | xVB | bede           |   | bedd(e)           | bed         |   |   |   |        | dan |   |   |    | 425-17 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd    | xAJ | fornævnte      |   | for(nefnde)       | foꝛᷠͤ          |   |   |   |        | dan |   |   |    | 425-17 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MikOls001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Mikkel         |   | mekyll            | mekyll       |   |   |   |        | dan |   |   |    | 425-17 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Olsen          |   | olss(øn)          | olſ         |   |   |   |        | dan |   |   |    | 425-17 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Mikkel         |   | mekyll            | mekyll       |   |   |   |        | dan |   |   |    | 425-17 | 2:context |          |  |2030|    |    |    |
+| w   |        |             | xNP | Olsen          |   | olss(øn)          | olſ         |   |   |   |        | dan |   |   |    | 425-17 | 2:context |          |  |2030|    |    |    |
 | PE  | e      | MikOls001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | en          | xAT | et             |   | eth               | eth          |   |   |   |        | dan |   |   |    | 425-17 | 2:context |          |  |    |    |    |    |
 | w   |        | stok        | xNC | stokke         |   | stocke            | ſtocke       |   |   |   |        | dan |   |   |    | 425-17 | 2:context |          |  |    |    |    |    |
@@ -324,8 +324,8 @@
 | w   |        | til         | xAP | til            |   | tel               | tel          |   |   |   |        | dan |   |   |    | 425-17 | 2:context |          |  |    |    |    |    |
 | w   |        | mæle        | xVB | mæltes         |   | melt(is)          | meltꝭ        |   |   |   |        | dan |   |   |    | 425-17 | 2:context |          |  |    |    |    |    |
 | PE  | b      | PerHan001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Per            |   | pær               | pæꝛ          |   |   |   |        | dan |   |   |    | 425-17 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Hansen         |   | ha(n)ss(øn)       | ha̅ſ         |   |   |   |        | dan |   |   |    | 425-17 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Per            |   | pær               | pæꝛ          |   |   |   |        | dan |   |   |    | 425-17 | 2:context |          |  |2031|    |    |    |
+| w   |        |             | xNP | Hansen         |   | ha(n)ss(øn)       | ha̅ſ         |   |   |   |        | dan |   |   |    | 425-17 | 2:context |          |  |2031|    |    |    |
 | PE  | e      | PerHan001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | at          | xIM | at             |   | ath               | ath          |   |   |   |        | dan |   |   |    | 425-17 | 2:context |          |  |    |    |    |    |
 | lm  | 425-18 |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
@@ -341,9 +341,9 @@
 | w   |        | sum         | xRP | som            |   | som               | ſo          |   |   |   |        | dan |   |   |    | 425-18 | 2:context |          |  |    |    |    |    |
 | w   |        | være        | xVB | er             |   | er                | eꝛ           |   |   |   |        | dan |   |   |    | 425-18 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JenRob001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Jens           |   | jes               | ȷe          |   |   |   |        | dan |   |   |    | 425-18 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Jens           |   | jes               | ȷe          |   |   |   |        | dan |   |   |    | 425-18 | 2:context |          |  |2032|    |    |    |
 | lm  | 425-19 |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Robwek         |   | robwek            | robwek       |   |   |   |        | dan |   |   |    | 425-19 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Robwek         |   | robwek            | robwek       |   |   |   |        | dan |   |   |    | 425-19 | 2:context |          |  |2032|    |    |    |
 | PE  | e      | JenRob001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |             |     |                |   | /                 | /            |   |   |   |        | dan |   |   |    | 425-19 | 2:context |          |  |    |    |    |    |
 | w   |        |             | xNP | Ingvar         |   | ygw(er)           | ygw         |   |   |   |        | dan |   |   |    | 425-19 | 2:context |          |  |    |    |    |    |
@@ -352,50 +352,50 @@
 | w   |        |             | xNP | Hyllede        |   | hyllethe          | hyllethe     |   |   |   |        | dan |   |   |    | 425-19 | 2:context |          |  |    |    |    |    |
 | PL  | e      |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | PE  | b      | JenPed013   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Jens           |   | jes               | ȷe          |   |   |   |        | dan |   |   |    | 425-19 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Persen         |   | p(er)ss(øn)       | p̲ſ          |   |   |   |        | dan |   |   |    | 425-19 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Jens           |   | jes               | ȷe          |   |   |   |        | dan |   |   |    | 425-19 | 2:context |          |  |2033|    |    |    |
+| w   |        |             | xNP | Persen         |   | p(er)ss(øn)       | p̲ſ          |   |   |   |        | dan |   |   |    | 425-19 | 2:context |          |  |2033|    |    |    |
 | PE  | e      | JenPed013   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i              |   | i                 | i            |   |   |   |        | dan |   |   |    | 425-19 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        |             | xNP | Skovgård       |   | skowgaard         | ſkowgaard    |   |   |   |        | dan |   |   |    | 425-19 | 2:context |          |  |    |    |    |    |
 | PL  | e      |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | PE  | b      | HenSto001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Henrik         |   | hen(re)gh         | hengh       |   |   |   |        | dan |   |   |    | 425-19 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | stork          |   | storck            | ſtoꝛck       |   |   |   |        | dan |   |   |    | 425-19 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Henrik         |   | hen(re)gh         | hengh       |   |   |   |        | dan |   |   |    | 425-19 | 2:context |          |  |2034|    |    |    |
+| w   |        |             | xNP | stork          |   | storck            | ſtoꝛck       |   |   |   |        | dan |   |   |    | 425-19 | 2:context |          |  |2034|    |    |    |
 | PE  | e      | HenSto001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | PE  | b      | HemOls001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Hemming        |   | hæ(m)mi(n)gh      | hæ̅mi̅gh       |   |   |   |        | dan |   |   |    | 425-19 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Hemming        |   | hæ(m)mi(n)gh      | hæ̅mi̅gh       |   |   |   |        | dan |   |   |    | 425-19 | 2:context |          |  |2035|    |    |    |
 | lm  | 425-20 |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Olsen          |   | olss(øn)          | olſ         |   |   |   |        | dan |   |   |    | 425-20 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Olsen          |   | olss(øn)          | olſ         |   |   |   |        | dan |   |   |    | 425-20 | 2:context |          |  |2035|    |    |    |
 | PE  | e      | HemOls001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i              |   | i                 | i            |   |   |   |        | dan |   |   |    | 425-20 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        |             | xNP |                |   | ralthe            | ralthe       |   |   |   |        | dan |   |   |    | 425-20 | 2:context |          |  |    |    |    |    |
 | PL  | e      |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | PE  | b      | PerBla001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Per            |   | pær               | pæꝛ          |   |   |   |        | dan |   |   |    | 425-20 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Blak           |   | black             | black        |   |   |   |        | dan |   |   |    | 425-20 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Per            |   | pær               | pæꝛ          |   |   |   |        | dan |   |   |    | 425-20 | 2:context |          |  |2036|    |    |    |
+| w   |        |             | xNP | Blak           |   | black             | black        |   |   |   |        | dan |   |   |    | 425-20 | 2:context |          |  |2036|    |    |    |
 | PE  | e      | PerBla001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | PE  | b      | AndKne001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Anders         |   | andh(e)rs         | andhꝛ̅       |   |   |   |        | dan |   |   |    | 425-20 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Knepel         |   | knepel            | knepel       |   |   |   |        | dan |   |   |    | 425-20 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Anders         |   | andh(e)rs         | andhꝛ̅       |   |   |   |        | dan |   |   |    | 425-20 | 2:context |          |  |2037|    |    |    |
+| w   |        |             | xNP | Knepel         |   | knepel            | knepel       |   |   |   |        | dan |   |   |    | 425-20 | 2:context |          |  |2037|    |    |    |
 | PE  | e      | AndKne001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | PE  | b      | OluFre001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Oluf           |   | oleff             | oleff        |   |   |   |        | dan |   |   |    | 425-20 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Frændesen      |   | frændess(øn)      | frændeſ     |   |   |   |        | dan |   |   |    | 425-20 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Oluf           |   | oleff             | oleff        |   |   |   |        | dan |   |   |    | 425-20 | 2:context |          |  |2038|    |    |    |
+| w   |        |             | xNP | Frændesen      |   | frændess(øn)      | frændeſ     |   |   |   |        | dan |   |   |    | 425-20 | 2:context |          |  |2038|    |    |    |
 | PE  | e      | OluFre001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | PE  | b      | HanKle001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Hans           |   | ha(n)s            | ha̅          |   |   |   |        | dan |   |   |    | 425-20 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Klemmensen     |   | clæmy(n)ss(øn)    | clæmy̅ſ      |   |   |   |        | dan |   |   |    | 425-20 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Hans           |   | ha(n)s            | ha̅          |   |   |   |        | dan |   |   |    | 425-20 | 2:context |          |  |2039|    |    |    |
+| w   |        |             | xNP | Klemmensen     |   | clæmy(n)ss(øn)    | clæmy̅ſ      |   |   |   |        | dan |   |   |    | 425-20 | 2:context |          |  |2039|    |    |    |
 | PE  | e      | HanKle001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | lm  | 425-21 |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | PE  | b      | OluAda001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Oluf           |   | oleff             | oleff        |   |   |   |        | dan |   |   |    | 425-21 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Adamsen        |   | ada(m)ss(øn)      | ada̅ſ        |   |   |   |        | dan |   |   |    | 425-21 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Oluf           |   | oleff             | oleff        |   |   |   |        | dan |   |   |    | 425-21 | 2:context |          |  |2040|    |    |    |
+| w   |        |             | xNP | Adamsen        |   | ada(m)ss(øn)      | ada̅ſ        |   |   |   |        | dan |   |   |    | 425-21 | 2:context |          |  |2040|    |    |    |
 | PE  | e      | OluAda001   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og             |   | och               | och          |   |   |   |        | dan |   |   |    | 425-21 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AssXxx002   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Asser          |   | azss(øn)          | azſ         |   |   |   |        | dan |   |   |    | 425-21 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Asser          |   | azss(øn)          | azſ         |   |   |   |        | dan |   |   |    | 425-21 | 2:context |          |  |2041|    |    |    |
 | PE  | e      | AssXxx002   |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i              |   | i                 | i            |   |   |   |        | dan |   |   |    | 425-21 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |                |   |                   |              |   |   |   |        |     |   |   |    |        |          |          |  |    |    |    |    |

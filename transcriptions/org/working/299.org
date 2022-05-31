@@ -45,7 +45,7 @@
 | d  | b      | 1  |   | protocol  |   |                   |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Nos               | No            |   |   |   |   | lat |   |   |   |        299-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | margare(ta)       | rgare       |   |   |   |   | lat |   |   |   |        299-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | margare(ta)       | rgare       |   |   |   |   | lat |   |   |   |        299-01 | 1:protocol |          |  |2863|    |    |    |
 | PE  | e      |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                 | .              |   |   |   |   | lat |   |   |   |        299-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | dei               | dei            |   |   |   |   | lat |   |   |   |        299-01 | 1:protocol |          |  |    |    |    |    |
@@ -80,14 +80,14 @@
 | p   |        |   |   |   |   | .                 | .              |   |   |   |   | lat |   |   |   |        299-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | D(omi)na          | Dn̅a            |   |   |   |   | lat |   |   |   |        299-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Elena             | lena          |   |   |   |   | lat |   |   |   |        299-02 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nielsdot(er)      | nıelſdot      |   |   |   |   | lat |   |   |   |        299-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Elena             | lena          |   |   |   |   | lat |   |   |   |        299-02 | 2:context |          |  |2864|    |    |    |
+| w   |        |   |   |   |   | nielsdot(er)      | nıelſdot      |   |   |   |   | lat |   |   |   |        299-02 | 2:context |          |  |2864|    |    |    |
 | PE  | e      |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Relicta           | Relia         |   |   |   |   | lat |   |   |   |        299-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)nj          | dn̅ȷ            |   |   |   |   | lat |   |   |   |        299-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | b(e)n(e)d(i)c(t)i | bn̅dc̅ı          |   |   |   |   | lat |   |   |   |        299-02 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | biug              | biug           |   |   |   |   | lat |   |   |   |        299-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | b(e)n(e)d(i)c(t)i | bn̅dc̅ı          |   |   |   |   | lat |   |   |   |        299-02 | 2:context |          |  |2865|    |    |    |
+| w   |        |   |   |   |   | biug              | biug           |   |   |   |   | lat |   |   |   |        299-02 | 2:context |          |  |2865|    |    |    |
 | PE  | e      |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | milit(is)         | militꝭ         |   |   |   |   | lat |   |   |   |        299-02 | 2:context |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                 | .              |   |   |   |   | lat |   |   |   |        299-02 | 2:context |          |  |    |    |    |    |
@@ -98,13 +98,13 @@
 | w   |        |   |   |   |   | de                | de             |   |   |   |   | lat |   |   |   |        299-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (con)silio        | ꝯſilio         |   |   |   |   | lat |   |   |   |        299-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | andree            | andree         |   |   |   |   | lat |   |   |   |        299-03 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Pet(ri)           | Pet           |   |   |   |   | lat |   |   |   |        299-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | andree            | andree         |   |   |   |   | lat |   |   |   |        299-03 | 2:context |          |  |2867|    |    |    |
+| w   |        |   |   |   |   | Pet(ri)           | Pet           |   |   |   |   | lat |   |   |   |        299-03 | 2:context |          |  |2867|    |    |    |
 | PE  | e      |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                 | .              |   |   |   |   | lat |   |   |   |        299-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ac                | ac             |   |   |   |   | lat |   |   |   |        299-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Elizabet          | lizabet       |   |   |   |   | lat |   |   |   |        299-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Elizabet          | lizabet       |   |   |   |   | lat |   |   |   |        299-03 | 2:context |          |  |2866|    |    |    |
 | PE  | e      |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (con)iugu(m)      | ꝯiugu̅          |   |   |   |   | lat |   |   |   |        299-03 | 2:context |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                 | .              |   |   |   |   | lat |   |   |   |        299-03 | 2:context |          |  |    |    |    |    |
@@ -209,7 +209,7 @@
 | w   |        |   |   |   |   | d(i)c(t)a         | dc̅a            |   |   |   |   | lat |   |   |   |        299-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)na          | dn̅a            |   |   |   |   | lat |   |   |   |        299-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Elena             | lena          |   |   |   |   | lat |   |   |   |        299-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Elena             | lena          |   |   |   |   | lat |   |   |   |        299-07 | 2:context |          |  |2868|    |    |    |
 | PE  | e      |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | quoaduix(er)it    | quoaduixıt    |   |   |   |   | lat |   |   |   |        299-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(re)d(i)c(t)a    | p̅dc̅a           |   |   |   |   | lat |   |   |   |        299-07 | 2:context |          |  |    |    |    |    |
@@ -261,7 +261,7 @@
 | w   |        |   |   |   |   | ip(s)i(us)        | ıp̅ı᷒            |   |   |   |   | lat |   |   |   |        299-09 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)ne          | dn̅e            |   |   |   |   | lat |   |   |   |        299-09 | 2:context |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | elene             | elene          |   |   |   |   | lat |   |   |   |        299-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | elene             | elene          |   |   |   |   | lat |   |   |   |        299-09 | 2:context |          |  |2869|    |    |    |
 | PE  | e      |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | he(re)des         | hede         |   |   |   |   | lat |   |   |   |        299-09 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(ro)             | ꝓ              |   |   |   |   | lat |   |   |   |        299-09 | 2:context |          |  |    |    |    |    |
@@ -295,31 +295,31 @@
 | w   |        |   |   |   |   | d(omi)nor(um)     | dn̅oꝝ           |   |   |   |   | lat |   |   |   |        299-10 | 3:eschatocol |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                 | .              |   |   |   |   | lat |   |   |   |        299-10 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | yuari             | yuari          |   |   |   |   | lat |   |   |   |        299-10 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lykkæ             | lykkæ          |   |   |   |   | lat |   |   |   |        299-10 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | yuari             | yuari          |   |   |   |   | lat |   |   |   |        299-10 | 3:eschatocol |          |  |2871|    |    |    |
+| w   |        |   |   |   |   | lykkæ             | lykkæ          |   |   |   |   | lat |   |   |   |        299-10 | 3:eschatocol |          |  |2871|    |    |    |
 | PE  | e      |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                 | .              |   |   |   |   | lat |   |   |   |        299-10 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | andree            | andree         |   |   |   |   | lat |   |   |   |        299-10 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Iacobj            | Iacobj         |   |   |   |   | lat |   |   |   |        299-10 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | andree            | andree         |   |   |   |   | lat |   |   |   |        299-10 | 3:eschatocol |          |  |2870|    |    |    |
+| w   |        |   |   |   |   | Iacobj            | Iacobj         |   |   |   |   | lat |   |   |   |        299-10 | 3:eschatocol |          |  |2870|    |    |    |
 | PE  | e      |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                 | .              |   |   |   |   | lat |   |   |   |        299-10 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | militu(m)         | militu̅         |   |   |   |   | lat |   |   |   |        299-10 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Andree            | Andree         |   |   |   |   | lat |   |   |   |        299-10 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Andree            | Andree         |   |   |   |   | lat |   |   |   |        299-10 | 3:eschatocol |          |  |2872|    |    |    |
 | lm  | 299-11 |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | pet(er)ss(un)     | petſ         |   |   |   |   | lat |   |   |   |        299-11 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | pet(er)ss(un)     | petſ         |   |   |   |   | lat |   |   |   |        299-11 | 3:eschatocol |          |  |2872|    |    |    |
 | PE  | e      |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                 | .              |   |   |   |   | lat |   |   |   |        299-11 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | he(n)nichinj      | he̅nichinj      |   |   |   |   | lat |   |   |   |        299-11 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | molteke           | molteke        |   |   |   |   | lat |   |   |   |        299-11 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | he(n)nichinj      | he̅nichinj      |   |   |   |   | lat |   |   |   |        299-11 | 3:eschatocol |          |  |2873|    |    |    |
+| w   |        |   |   |   |   | molteke           | molteke        |   |   |   |   | lat |   |   |   |        299-11 | 3:eschatocol |          |  |2873|    |    |    |
 | PE  | e      |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                 | .              |   |   |   |   | lat |   |   |   |        299-11 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (et)              |               |   |   |   |   | lat |   |   |   |        299-11 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | petrj             | petrj          |   |   |   |   | lat |   |   |   |        299-11 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nielss(un)        | nielſ         |   |   |   |   | lat |   |   |   |        299-11 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | petrj             | petrj          |   |   |   |   | lat |   |   |   |        299-11 | 3:eschatocol |          |  |2874|    |    |    |
+| w   |        |   |   |   |   | nielss(un)        | nielſ         |   |   |   |   | lat |   |   |   |        299-11 | 3:eschatocol |          |  |2874|    |    |    |
 | PE  | e      |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | de                | de             |   |   |   |   | lat |   |   |   |        299-11 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                   |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |

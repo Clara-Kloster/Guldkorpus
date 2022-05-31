@@ -54,9 +54,9 @@
 | w   |        | helse         | xVB | hilser         |   | Helsser        | Helſſer       |   |   |   |        | dan |   |   |    |        375-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | jak           | xPE | jeg            |   | Jæch           | Jæch          |   |   |   |        | dan |   |   |    |        375-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | PedSve001     |     |                |   |                |               |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Peder          |   | Per            | Per           |   |   |   |        | dan |   |   |    |        375-01 | 1:protocol |          |  |    |    |    |    |
-| p   |        |               |     |                |   | .              | .             |   |   |   |        | dan |   |   |    |        375-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |               | xNP | Sveye          |   | sweye          | ſweẏe         |   |   |   |        | dan |   |   |    |        375-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Peder          |   | Per            | Per           |   |   |   |        | dan |   |   |    |        375-01 | 1:protocol |          |  |1580|    |    |    |
+| p   |        |               |     |                |   | .              | .             |   |   |   |        | dan |   |   |    |        375-01 | 1:protocol |          |  |1580|    |    |    |
+| w   |        |               | xNP | Sveye          |   | sweye          | ſweẏe         |   |   |   |        | dan |   |   |    |        375-01 | 1:protocol |          |  |1580|    |    |    |
 | PE  | e      | PedSve001     |     |                |   |                |               |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | rathman       | xNC | rådmand        |   | Radma(n)       | Radma̅         |   |   |   |        | dan |   |   |    |        375-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | j              | ȷ             |   |   |   |        | dan |   |   |    |        375-01 | 1:protocol |          |  |    |    |    |    |
@@ -126,13 +126,13 @@
 | w   |        | min           | xDP | min            |   | myn            | mẏn           |   |   |   |        | dan |   |   |    |        375-04 | 2:context |          |  |    |    |    |    |
 | w   |        | husfrue       | xNC | husfrue        |   | hwsfrwe        | hwſfrwe       |   |   |   |        | dan |   |   |    |        375-04 | 2:context |          |  |    |    |    |    |
 | PE | b | TalXxx001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Tale           |   | Tale           | Tale          |   |   |   |        | dan |   |   |    |        375-04 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Tale           |   | Tale           | Tale          |   |   |   |        | dan |   |   |    |        375-04 | 2:context |          |  |1581|    |    |    |
 | PE | e | TalXxx001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | æfter         | xAP | efter          |   | effter         | effter        |   |   |   |        | dan |   |   |    |        375-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | HenBer001     |     |                |   |                |               |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Henrik         |   | hinrich        | hinrıch       |   |   |   |        | dan |   |   |    |        375-04 | 2:context |          |  |    |    |    |    |
-| w   |        |               | xNP | van            |   | van            | va           |   |   |   |        | dan |   |   |    |        375-04 | 2:context |          |  |    |    |    |    |
-| w   |        |               | xNP | Bergen         |   | b(er)gen       | b̅gen          |   |   |   |        | dan |   |   |    |        375-04 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Henrik         |   | hinrich        | hinrıch       |   |   |   |        | dan |   |   |    |        375-04 | 2:context |          |  |1582|    |    |    |
+| w   |        |               | xNP | van            |   | van            | va           |   |   |   |        | dan |   |   |    |        375-04 | 2:context |          |  |1582|    |    |    |
+| w   |        |               | xNP | Bergen         |   | b(er)gen       | b̅gen          |   |   |   |        | dan |   |   |    |        375-04 | 2:context |          |  |1582|    |    |    |
 | PE  | e      | HenBer001     |     |                |   |                |               |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | hvær          | xPI | hvis           |   | hwetz          | hwetz         |   |   |   |        | dan |   |   |    |        375-04 | 2:context |          |  |    |    |    |    |
 | w   |        | sjal          | xNC | sjæl           |   | siæll          | ſıæll         |   |   |   |        | dan |   |   |    |        375-04 | 2:context |          |  |    |    |    |    |
@@ -164,12 +164,12 @@
 | w   |        | svasum        | xRP | såsom          |   | Swo som        | wo ſom       |   |   |   |        | dan |   |   |    |        375-06 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | være          | xVB | ere            |   | æræ            | æræ           |   |   |   |        | dan |   |   |    |        375-06 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | AndLau001     |     |                |   |                |               |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Anders         |   | Andr(is)       | Andrꝭ         |   |   |   |        | dan |   |   |    |        375-06 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |               | xNP | Laurensen      |   | laur(e)sson    | laurſſon     |   |   |   |        | dan |   |   |    |        375-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Anders         |   | Andr(is)       | Andrꝭ         |   |   |   |        | dan |   |   |    |        375-06 | 3:eschatocol |          |  |1583|    |    |    |
+| w   |        |               | xNP | Laurensen      |   | laur(e)sson    | laurſſon     |   |   |   |        | dan |   |   |    |        375-06 | 3:eschatocol |          |  |1583|    |    |    |
 | PE  | e      | AndLau001     |     |                |   |                |               |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | PE  | b      | AriKru001     |     |                |   |                |               |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Arild          |   | Areld          | Areld         |   |   |   |        | dan |   |   |    |        375-06 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |               | xNP | Kruse          |   | krwse          | krwſe         |   |   |   |        | dan |   |   |    |        375-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Arild          |   | Areld          | Areld         |   |   |   |        | dan |   |   |    |        375-06 | 3:eschatocol |          |  |1584|    |    |    |
+| w   |        |               | xNP | Kruse          |   | krwse          | krwſe         |   |   |   |        | dan |   |   |    |        375-06 | 3:eschatocol |          |  |1584|    |    |    |
 | PE  | e      | AriKru001     |     |                |   |                |               |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | burghemæstere | xNC | borgmester     |   | burgemester(e) | burgemeſter  |   |   |   |        | dan |   |   |    |        375-06 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | j              | ȷ             |   |   |   |        | dan |   |   |    |        375-06 | 3:eschatocol |          |  |    |    |    |    |
@@ -178,8 +178,8 @@
 | PL  | e      |               |     |                |   |                |               |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ok            | xCC | og             |   | oc             | oc            |   |   |   |        | dan |   |   |    |        375-06 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | KlaVil001     |     |                |   |                |               |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Klaus          |   | Cla(us)        | Cla          |   |   |   |        | dan |   |   |    |        375-06 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |               | xNP | Villemsen      |   | willæmsson     | willæmſſon    |   |   |   |        | dan |   |   |    |        375-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Klaus          |   | Cla(us)        | Cla          |   |   |   |        | dan |   |   |    |        375-06 | 3:eschatocol |          |  |1585|    |    |    |
+| w   |        |               | xNP | Villemsen      |   | willæmsson     | willæmſſon    |   |   |   |        | dan |   |   |    |        375-06 | 3:eschatocol |          |  |1585|    |    |    |
 | PE  | e      | KlaVil001     |     |                |   |                |               |   |   |   |        |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | burghere      | xNC | borger         |   | burger         | burger        |   |   |   |        | dan |   |   |    |        375-06 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | j              | ȷ             |   |   |   |        | dan |   |   |    |        375-06 | 3:eschatocol |          |  |    |    |    |    |

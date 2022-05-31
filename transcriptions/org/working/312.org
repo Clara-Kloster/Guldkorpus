@@ -48,7 +48,7 @@
 | w   |        |           |   |   |   | sc(er)ptum          | scptu          |   |   |   |                                 | lat |   |   |   |        312-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |           |   |   |   | c(er)nentibus       | cnentıbu       |   |   |   |                                 | lat |   |   |   |        312-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | PedLod001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |           |   |   |   | Petrus              | Petru           |   |   |   |                                 | lat |   |   |   |        312-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |           |   |   |   | Petrus              | Petru           |   |   |   |                                 | lat |   |   |   |        312-01 | 1:protocol |          |  |1252|    |    |    |
 | PE  | e      | PedLod001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |           |   |   |   | dei                 | deı              |   |   |   |                                 | lat |   |   |   |        312-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |           |   |   |   | gr(ati)a            | gr̅a              |   |   |   |                                 | lat |   |   |   |        312-01 | 1:protocol |          |  |    |    |    |    |
@@ -76,8 +76,8 @@
 | w   |        |           |   |   |   | viro                | ỽıro             |   |   |   |                                 | lat |   |   |   |        312-02 | 2:context |          |  |    |    |    |    |
 | w   |        |           |   |   |   | mgr(m)o             | mgr̅o             |   |   |   |                                 | lat |   |   |   |        312-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      | PedLyk001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |           |   |   |   | Petro               | Petro            |   |   |   |                                 | lat |   |   |   |        312-02 | 2:context |          |  |    |    |    |    |
-| w   |        |           |   |   |   | lykkæ               | lykkæ            |   |   |   |                                 | lat |   |   |   |        312-02 | 2:context |          |  |    |    |    |    |
+| w   |        |           |   |   |   | Petro               | Petro            |   |   |   |                                 | lat |   |   |   |        312-02 | 2:context |          |  |1253|    |    |    |
+| w   |        |           |   |   |   | lykkæ               | lykkæ            |   |   |   |                                 | lat |   |   |   |        312-02 | 2:context |          |  |1253|    |    |    |
 | PE  | e      | PedLyk001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |           |   |   |   | ar(i)dyacono        | aꝛdyacono       |   |   |   |                                 | lat |   |   |   |        312-02 | 2:context |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -217,13 +217,13 @@
 | w   |        |           |   |   |   | quas                | qua             |   |   |   |                                 | lat |   |   |   |        312-09 | 2:context |          |  |    |    |    |    |
 | w   |        |           |   |   |   | inh(m)itant         | inh̅ıtant         |   |   |   |                                 | lat |   |   |   |        312-09 | 2:context |          |  |    |    |    |    |
 | PE  | b      | NieJen011 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |           |   |   |   | nicola(us)          | nıcola᷒           |   |   |   |                                 | lat |   |   |   |        312-09 | 2:context |          |  |    |    |    |    |
-| w   |        |           |   |   |   | ioh(m)              | ıoh̅              |   |   |   |                                 | lat |   |   |   |        312-09 | 2:context |          |  |    |    |    |    |
+| w   |        |           |   |   |   | nicola(us)          | nıcola᷒           |   |   |   |                                 | lat |   |   |   |        312-09 | 2:context |          |  |1254|    |    |    |
+| w   |        |           |   |   |   | ioh(m)              | ıoh̅              |   |   |   |                                 | lat |   |   |   |        312-09 | 2:context |          |  |1254|    |    |    |
 | PE  | e      | NieJen011 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |           |   |   |   | (et)                | ⁊                |   |   |   |                                 | lat |   |   |   |        312-09 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JakMad002 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |           |   |   |   | iacobus             | ıacobu          |   |   |   |                                 | lat |   |   |   |        312-09 | 2:context |          |  |    |    |    |    |
-| w   |        |           |   |   |   | mattes             | matteſ          |   |   |   |                                 | lat |   |   |   |        312-09 | 2:context |          |  |    |    |    |    |
+| w   |        |           |   |   |   | iacobus             | ıacobu          |   |   |   |                                 | lat |   |   |   |        312-09 | 2:context |          |  |1255|    |    |    |
+| w   |        |           |   |   |   | mattes             | matteſ          |   |   |   |                                 | lat |   |   |   |        312-09 | 2:context |          |  |1255|    |    |    |
 | PE  | e      | JakMad002 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |           |   |   |   | dantes              | dante           |   |   |   |                                 | lat |   |   |   |        312-09 | 2:context |          |  |    |    |    |    |
 | w   |        |           |   |   |   | p(ro)               | ꝓ                |   |   |   |                                 | lat |   |   |   |        312-09 | 2:context |          |  |    |    |    |    |
@@ -251,7 +251,7 @@
 | w   |        |           |   |   |   | inh(m)itat          | ınh̅ıtat          |   |   |   |                                 | lat |   |   |   |        312-10 | 2:context |          |  |    |    |    |    |
 | w   |        |           |   |   |   | quidam              | quida           |   |   |   |                                 | lat |   |   |   |        312-10 | 2:context |          |  |    |    |    |    |
 | PE  | b      | EskXxx001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |           |   |   |   | eskill(us)          | eſkıll᷒           |   |   |   |                                 | lat |   |   |   |        312-10 | 2:context |          |  |    |    |    |    |
+| w   |        |           |   |   |   | eskill(us)          | eſkıll᷒           |   |   |   |                                 | lat |   |   |   |        312-10 | 2:context |          |  |1256|    |    |    |
 | PE  | e      | EskXxx001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 312-11 |           |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |           |   |   |   | dans                | dan             |   |   |   |                                 | lat |   |   |   |        312-11 | 2:context |          |  |    |    |    |    |
@@ -270,8 +270,8 @@
 | w   |        |           |   |   |   | jdem                | ȷde             |   |   |   |                                 | lat |   |   |   |        312-11 | 2:context |          |  |    |    |    |    |
 | w   |        |           |   |   |   | mg(m)r              | mg̅r              |   |   |   |                                 | lat |   |   |   |        312-11 | 2:context |          |  |    |    |    |    |
 | PE  | b      | PedLyk001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |           |   |   |   | Petr(us)            | Petr᷒             |   |   |   |                                 | lat |   |   |   |        312-11 | 2:context |          |  |    |    |    |    |
-| w   |        |           |   |   |   | lykkæ               | lykkæ            |   |   |   |                                 | lat |   |   |   |        312-11 | 2:context |          |  |    |    |    |    |
+| w   |        |           |   |   |   | Petr(us)            | Petr᷒             |   |   |   |                                 | lat |   |   |   |        312-11 | 2:context |          |  |2454|    |    |    |
+| w   |        |           |   |   |   | lykkæ               | lykkæ            |   |   |   |                                 | lat |   |   |   |        312-11 | 2:context |          |  |2454|    |    |    |
 | PE  | e      | PedLyk001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |           |   |   |   | ar(i)dyaco(us)      | aꝛdyaco᷒         |   |   |   |                                 | lat |   |   |   |        312-11 | 2:context |          |  |    |    |    |    |
 | w   |        |           |   |   |   | Roskilde(e)n        | Roſkılde̅        |   |   |   |                                 | lat |   |   |   |        312-11 | 2:context |          |  |    |    |    |    |

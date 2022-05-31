@@ -45,7 +45,7 @@
 | d   | b      | 1           |     | protocol       |   |                     |             |   |   |   |        |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | vi          | xPE | vi             |   | Wy                  | Wý          |   |   |   |        | dan |   |   |   | 368-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | JenPed007   |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Jens           |   | Jens                | Jen        |   |   |   |        | dan |   |   |   | 368-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Jens           |   | Jens                | Jen        |   |   |   |        | dan |   |   |   | 368-01 | 1:protocol |          |  |1550|    |    |    |
 | PE  | e      | JenPed007   |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | mæth        | xAP | med            |   | m(et)               | mꝫ          |   |   |   |        | dan |   |   |   | 368-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | guth        | xNC | Gus            |   | guths               | guth       |   |   |   |        | dan |   |   |   | 368-01 | 1:protocol |          |  |    |    |    |    |
@@ -107,21 +107,21 @@
 | w   |        | forfather   | xNC | forfader       |   | forfath(e)r         | foꝛfathr   |   |   |   |        | dan |   |   |   | 368-03 | 2:context |          |  |    |    |    |    |
 | w   |        | biskop      | xNC | biskop         |   | biscop              | biſcop      |   |   |   |        | dan |   |   |   | 368-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | PedLod001   |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Peder          |   | pæth(e)r            | pæthꝛ      |   |   |   |        | dan |   |   |   | 368-03 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Peder          |   | pæth(e)r            | pæthꝛ      |   |   |   |        | dan |   |   |   | 368-03 | 2:context |          |  |1551|    |    |    |
 | PE  | e      | PedLod001   |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | en          | xAT | en             |   | een                 | ee         |   |   |   |        | dan |   |   |   | 368-03 | 2:context |          |  |    |    |    |    |
 | w   |        | goth        | xAJ | god            |   | goth                | goth        |   |   |   |        | dan |   |   |   | 368-03 | 2:context |          |  |    |    |    |    |
 | w   |        | kone        | xNC | kvinde         |   | q(ui)nne            | qnne       |   |   |   |        | dan |   |   |   | 368-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | KriPed003   |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |          |          |  |    |    |    |    |
 | PE | b | KriPed003 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Kirstine       |   | kirstine            | kırſtine    |   |   |   |        | dan |   |   |   | 368-03 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Kirstine       |   | kirstine            | kırſtine    |   |   |   |        | dan |   |   |   | 368-03 | 2:context |          |  |1552|2505|    |    |
 | PE | e | KriPed003 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 368-04 |             |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Oves           |   | awes                | awes        |   |   |   |        | dan |   |   |   | 368-04 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Oves           |   | awes                | awes        |   |   |   |        | dan |   |   |   | 368-04 | 2:context |          |  |    |2505|    |    |
 | PE  | e      | KriPed003   |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |          |          |  |    |    |    |    |
 | PE  | b      | OveSte001   |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Ove            |   | Awe                 | Awe         |   |   |   |        | dan |   |   |   | 368-04 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Stegs          |   | steghes             | ſteghe     |   |   |   |        | dan |   |   |   | 368-04 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Ove            |   | Awe                 | Awe         |   |   |   |        | dan |   |   |   | 368-04 | 2:context |          |  |1553|    |    |    |
+| w   |        |             | xNP | Stegs          |   | steghes             | ſteghe     |   |   |   |        | dan |   |   |   | 368-04 | 2:context |          |  |1553|    |    |    |
 | PE  | e      | OveSte001   |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | æfterlive   | xNC | efterleve      |   | efft(er)leue        | efftleue   |   |   |   |        | dan |   |   |   | 368-04 | 2:context |          |  |    |    |    |    |
 | w   |        | til         | xAP | til            |   | till                | till        |   |   |   |        | dan |   |   |   | 368-04 | 2:context |          |  |    |    |    |    |
@@ -182,7 +182,7 @@
 | w   |        | fornævnd    | xAJ | fornævnte      |   | for(nefnde)         | foꝛͩͤ         |   |   |   |        | dan |   |   |   | 368-07 | 2:context |          |  |    |    |    |    |
 | w   |        | biskop      | xNC | biskop         |   | biscop              | bıſcop      |   |   |   |        | dan |   |   |   | 368-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | PedLod001   |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Peder          |   | pæth(e)r            | pæthꝛ      |   |   |   |        | dan |   |   |   | 368-07 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Peder          |   | pæth(e)r            | pæthꝛ      |   |   |   |        | dan |   |   |   | 368-07 | 2:context |          |  |2506|    |    |    |
 | PE  | e      | PedLod001   |     |                |   |                     |             |   |   |   |        |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | thæn        | xPE | det            |   | th(et)              | thꝫ         |   |   |   |        | dan |   |   |   | 368-07 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i              |   | j                   | j           |   |   |   |        | dan |   |   |   | 368-07 | 2:context |          |  |    |    |    |    |

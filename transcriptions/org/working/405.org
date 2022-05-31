@@ -45,8 +45,8 @@ Roskilde Kapitels Arkiv
 | d   | b      | 1           |     | protocol     |   |                    |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | vi          | xPE | vi           |   | Wij                | Wij         |   |   |   |   | dan |   |   |    |        405-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | OluMor001   |     |              |   |                    |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Oluf         |   | Olaff              | Olaﬀ        |   |   |   |   | dan |   |   |    |        405-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Mortensen    |   | mortenss(øn)       | moꝛtenſ    |   |   |   |   | dan |   |   |    |        405-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Oluf         |   | Olaff              | Olaﬀ        |   |   |   |   | dan |   |   |    |        405-01 | 1:protocol |          |  |1800|    |    |    |
+| w   |        |             | xNP | Mortensen    |   | mortenss(øn)       | moꝛtenſ    |   |   |   |   | dan |   |   |    |        405-01 | 1:protocol |          |  |1800|    |    |    |
 | PE  | e      | OluMor001   |     |              |   |                    |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | mæth        | xAP | med          |   | m(et)              | mꝫ          |   |   |   |   | dan |   |   |    |        405-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | guth        | xNC | Guds         |   | gudz               | gudz        |   |   |   |   | dan |   |   |    |        405-01 | 1:protocol |          |  |    |    |    |    |
@@ -92,7 +92,7 @@ Roskilde Kapitels Arkiv
 | w   |        | man         | xNC | mand         |   | man                | ma         |   |   |   |   | dan |   |   |    |        405-03 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre       | xNC | hr.           |   | h(er)              | h̅           |   |   |   |   | dan |   |   |    |        405-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | TetRos001   |     |              |   |                    |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Tetz         |   | tetz               | tetz        |   |   |   |   | dan |   |   |    |        405-03 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Tetz         |   | tetz               | tetz        |   |   |   |   | dan |   |   |    |        405-03 | 2:context |          |  |1801|    |    |    |
 | PE  | e      | TetRos001   |     |              |   |                    |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og           |   | oc                 | oc          |   |   |   |   | dan |   |   |    |        405-03 | 2:context |          |  |    |    |    |    |
 | w   |        | han         | xPE | hans         |   | hans               | han        |   |   |   |   | dan |   |   |    |        405-03 | 2:context |          |  |    |    |    |    |
@@ -140,12 +140,12 @@ Roskilde Kapitels Arkiv
 | w   |        | kunung      | xNC | kong         |   | koni(n)g           | konı̅g       |   |   |   |   | dan |   |   |    |        405-06 | 2:context |          |  |    |    |    |    |
 | lm  | 405-07 |             |     |              |   |                    |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | PE  | b      | RexKri003   |     |              |   |                    |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Kristoffer   |   | Cristoffer         | Cꝛiﬅoﬀer    |   |   |   |   | dan |   |   |    |        405-07 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Kristoffer   |   | Cristoffer         | Cꝛiﬅoﬀer    |   |   |   |   | dan |   |   |    |        405-07 | 2:context |          |  |1802|    |    |    |
 | PE  | e      | RexKri003   |     |              |   |                    |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og           |   | oc                 | oc          |   |   |   |   | dan |   |   |    |        405-07 | 2:context |          |  |    |    |    |    |
 | w   |        | kunung      | xNC | kong         |   | koni(n)g           | koni̅g       |   |   |   |   | dan |   |   |    |        405-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | RexChr001   |     |              |   |                    |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Christian    |   | Cristiern          | Cꝛiﬅıeꝛ    |   |   |   |   | dan |   |   |    |        405-07 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Christian    |   | Cristiern          | Cꝛiﬅıeꝛ    |   |   |   |   | dan |   |   |    |        405-07 | 2:context |          |  |1803|    |    |    |
 | PE  | e      | RexChr001   |     |              |   |                    |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | vi          | xPE | os           |   | oss                | o          |   |   |   |   | dan |   |   |    |        405-07 | 2:context |          |  |    |    |    |    |
 | w   |        | unne        | xVB | undt         |   | vnt                | vnt         |   |   |   |   | dan |   |   |    |        405-07 | 2:context |          |  |    |    |    |    |

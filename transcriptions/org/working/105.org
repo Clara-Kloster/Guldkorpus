@@ -44,8 +44,8 @@
 | lm  | 105-01 |   |   |   |   |                     |               |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | d   | b      | 1 |   | protocol |   |                     |               |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | PE  | b      | AgnEri001  |   |   |   |                     |               |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Agnes               | Agnes         |   |   |   |   | lat |   |   |   | 105-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Erici               | rıcı         |   |   |   |   | lat |   |   |   | 105-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Agnes               | Agnes         |   |   |   |   | lat |   |   |   | 105-01 | 1:protocol |          |  |416|    |    |    |
+| w   |        |   |   |   |   | Erici               | rıcı         |   |   |   |   | lat |   |   |   | 105-01 | 1:protocol |          |  |416|    |    |    |
 | PE  | e      | AgnEri001  |   |   |   |                     |               |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | pie                 | pıe           |   |   |   |   | lat |   |   |   | 105-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | memorie             | memoꝛíe       |   |   |   |   | lat |   |   |   | 105-01 | 1:protocol |          |  |    |    |    |    |
@@ -140,7 +140,7 @@
 | w   |        |   |   |   |   | d(omi)no            | ꝺn̅o           |   |   |   |   | lat |   |   |   | 105-06 | 2:context |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                   | .             |   |   |   |   | lat |   |   |   | 105-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | IngEps001  |   |   |   |                     |               |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | J(nguaro)           | J             |   |   |   |   | lat |   |   |   | 105-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | J(nguaro)           | J             |   |   |   |   | lat |   |   |   | 105-06 | 2:context |          |  |417|    |    |    |
 | PE  | e      | IngEps001  |   |   |   |                     |               |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                   | .             |   |   |   |   | lat |   |   |   | 105-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ep(iscop)o          | ep̅o           |   |   |   |   | lat |   |   |   | 105-06 | 2:context |          |  |    |    |    |    |
@@ -195,9 +195,9 @@
 | w   |        |   |   |   |   | n(ost)r(u)m         | nr̅           |   |   |   |   | lat |   |   |   | 105-08 | 2:context |          |  |    |    |    |    |
 | lm  | 105-09 |   |   |   |   |                     |               |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | PE  | b      | OluLun001  |   |   |   |                     |               |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Olauu(m)            | Olauu̅         |   |   |   |   | lat |   |   |   | 105-09 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | d(i)c(tu)m          | ꝺc̅           |   |   |   |   | lat |   |   |   | 105-09 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lungæ               | lungæ         |   |   |   |   | dan |   |   |   | 105-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Olauu(m)            | Olauu̅         |   |   |   |   | lat |   |   |   | 105-09 | 2:context |          |  |418|    |    |    |
+| w   |        |   |   |   |   | d(i)c(tu)m          | ꝺc̅           |   |   |   |   | lat |   |   |   | 105-09 | 2:context |          |  |418|    |    |    |
+| w   |        |   |   |   |   | lungæ               | lungæ         |   |   |   |   | dan |   |   |   | 105-09 | 2:context |          |  |418|    |    |    |
 | PE  | e      | OluLun001  |   |   |   |                     |               |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | q(ua)t(inus)        | qt          |   |   |   |   | lat |   |   |   | 105-09 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ip(s)e              | ıp̅e           |   |   |   |   | lat |   |   |   | 105-09 | 2:context |          |  |    |    |    |    |

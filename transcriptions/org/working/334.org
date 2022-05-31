@@ -45,13 +45,13 @@ AM 187 8vo
 | lm  | 334-01 |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | jak          | xPE | jeg            |   | Jæk              | Jæk           |   |   |   |   | dan |   |   |    | 334-01 | 1:protocol |          |  |    |    |    |    |
 | PE  |      b |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Anna           |   | annæ             | annæ          |   |   |   |   | dan |   |   |    | 334-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |              | xNP | Petersdatter   |   | pæthærs doter    | pæthær doter |   |   |   |   | dan |   |   |    | 334-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |              | xNP | Anna           |   | annæ             | annæ          |   |   |   |   | dan |   |   |    | 334-01 | 1:protocol |          |  |1363|    |    |    |
+| w   |        |              | xNP | Petersdatter   |   | pæthærs doter    | pæthær doter |   |   |   |   | dan |   |   |    | 334-01 | 1:protocol |          |  |1363|    |    |    |
 | PE  |      e |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | hærre        | xNC | herre          |   | hærræ            | hærræ         |   |   |   |   | dan |   |   |    | 334-01 | 1:protocol |          |  |    |    |    |    |
 | PE  |      b |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Mikkel         |   | Michæl           | Mıchæl        |   |   |   |   | dan |   |   |    | 334-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |              | xNP | Ruds           |   | Rwds             | Rwd          |   |   |   |   | dan |   |   |    | 334-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |              | xNP | Mikkel         |   | Michæl           | Mıchæl        |   |   |   |   | dan |   |   |    | 334-01 | 1:protocol |          |  |1364|    |    |    |
+| w   |        |              | xNP | Ruds           |   | Rwds             | Rwd          |   |   |   |   | dan |   |   |    | 334-01 | 1:protocol |          |  |1364|    |    |    |
 | PE  |      e |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | æfterlivende | xNC | efterlevende   |   | æfter lewend(e)  | æfter lewen  |   |   |   |   | dan |   |   |    | 334-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | helse        | xVB | hilser         |   | helser           | helſer        |   |   |   |   | dan |   |   |    | 334-01 | 1:protocol |          |  |    |    |    |    |
@@ -113,7 +113,7 @@ AM 187 8vo
 | w   |        | dotter       | xNC | datter         |   | doter            | doter         |   |   |   |   | dan |   |   |    | 334-05 | 2:context |          |  |    |    |    |    |
 | w   |        | jungfrue     | xNC | jomfru         |   | jumfruæ          | ȷumfruæ       |   |   |   |   | dan |   |   |    | 334-05 | 2:context |          |  |    |    |    |    |
 | PE  |      b |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Margrethe      |   | margretæ         | margretæ      |   |   |   |   | dan |   |   |    | 334-05 | 2:context |          |  |    |    |    |    |
+| w   |        |              | xNP | Margrethe      |   | margretæ         | margretæ      |   |   |   |   | dan |   |   |    | 334-05 | 2:context |          |  |1365|    |    |    |
 | PE  |      e |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | syster       | xNC | søster         |   | søster           | ſøſter        |   |   |   |   | dan |   |   |    | 334-05 | 2:context |          |  |    |    |    |    |
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-05 | 2:context |          |  |    |    |    |    |
@@ -146,8 +146,8 @@ AM 187 8vo
 | w   |        | upa          | xAV | på             |   | pa               | pa            |   |   |   |   | dan |   |   |    | 334-06 | 2:context |          |  |    |    |    |    |
 | w   |        | bo           | xVB | bor            |   | boor             | booꝛ          |   |   |   |   | dan |   |   |    | 334-06 | 2:context |          |  |    |    |    |    |
 | PE  |      b |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Peder          |   | Pæthær           | Pæthær        |   |   |   |   | dan |   |   | =  | 334-06 | 2:context |          |  |    |    |    |    |
-| w   |        |              | xNP | Madsen         |   | mattess(øn)      | matteſ       |   |   |   |   | dan |   |   | == | 334-06 | 2:context |          |  |    |    |    |    |
+| w   |        |              | xNP | Peder          |   | Pæthær           | Pæthær        |   |   |   |   | dan |   |   | =  | 334-06 | 2:context |          |  |1366|    |    |    |
+| w   |        |              | xNP | Madsen         |   | mattess(øn)      | matteſ       |   |   |   |   | dan |   |   | == | 334-06 | 2:context |          |  |1366|    |    |    |
 | PE  |      e |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | ok           | xCC | ok             |   | ok               | ok            |   |   |   |   | dan |   |   |    | 334-06 | 2:context |          |  |    |    |    |    |
 | w   |        | give         | xVB | giver          |   | giuer            | giuer         |   |   |   |   | dan |   |   |    | 334-06 | 2:context |          |  |    |    |    |    |
@@ -169,8 +169,8 @@ AM 187 8vo
 | w   |        | upa          | xAV | på             |   | pa               | pa            |   |   |   |   | dan |   |   |    | 334-07 | 2:context |          |  |    |    |    |    |
 | w   |        | bo           | xVB | bor            |   | boor             | booꝛ          |   |   |   |   | dan |   |   |    | 334-07 | 2:context |          |  |    |    |    |    |
 | PE  |      b |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Lasse          |   | lassæ            | laſſæ         |   |   |   |   | dan |   |   |    | 334-07 | 2:context |          |  |    |    |    |    |
-| w   |        |              | xNP | Brun           |   | brun             | bꝛu          |   |   |   |   | dan |   |   |    | 334-07 | 2:context |          |  |    |    |    |    |
+| w   |        |              | xNP | Lasse          |   | lassæ            | laſſæ         |   |   |   |   | dan |   |   |    | 334-07 | 2:context |          |  |1367|    |    |    |
+| w   |        |              | xNP | Brun           |   | brun             | bꝛu          |   |   |   |   | dan |   |   |    | 334-07 | 2:context |          |  |1367|    |    |    |
 | PE  |      e |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-07 | 2:context |          |  |    |    |    |    |
 | w   |        | ok           | xCC | og             |   | ok               | ok            |   |   |   |   | dan |   |   |    | 334-07 | 2:context |          |  |    |    |    |    |
@@ -288,8 +288,8 @@ AM 187 8vo
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | lat |   |   |    | 334-14 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |              | lat |                |   | d(omi)ni         | dn̅ı           |   |   |   |   | lat |   |   |    | 334-14 | 3:eschatocol |          |  |    |    |    |    |
 | PE  |      b |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |              | lat |                |   | jacobi           | ȷacobı        |   |   |   |   | lat |   |   |    | 334-14 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |              | lat |                |   | lungæ            | lungæ         |   |   |   |   | dan |   |   |    | 334-14 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |              | lat |                |   | jacobi           | ȷacobı        |   |   |   |   | lat |   |   |    | 334-14 | 3:eschatocol |          |  |1368|    |    |    |
+| w   |        |              | lat |                |   | lungæ            | lungæ         |   |   |   |   | dan |   |   |    | 334-14 | 3:eschatocol |          |  |1368|    |    |    |
 | PE  |      e |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        |              | lat |                |   | milit(is)        | mılıtꝭ        |   |   |   |   | lat |   |   |    | 334-14 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |              | lat |                |   | (et)             |              |   |   |   |   | lat |   |   |    | 334-14 | 3:eschatocol |          |  |    |    |    |    |
@@ -297,8 +297,8 @@ AM 187 8vo
 | lm  | 334-15 |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        |              | lat |                |   | d(omi)ni         | dn̅ı           |   |   |   |   | lat |   |   |    | 334-15 | 3:eschatocol |          |  |    |    |    |    |
 | PE  |      b |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |              | lat |                |   | yryæn            | ẏrẏæ         |   |   |   |   | dan |   |   |    | 334-15 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |              | lat |                |   | Rwth             | Rwth          |   |   |   |   | dan |   |   |    | 334-15 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |              | lat |                |   | yryæn            | ẏrẏæ         |   |   |   |   | dan |   |   |    | 334-15 | 3:eschatocol |          |  |1369|    |    |    |
+| w   |        |              | lat |                |   | Rwth             | Rwth          |   |   |   |   | dan |   |   |    | 334-15 | 3:eschatocol |          |  |1369|    |    |    |
 | PE  |      e |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        |              | lat |                |   | milit(is)        | mılıtꝭ        |   |   |   |   | lat |   |   |    | 334-15 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |              | lat |                |   | p(rese)ntib(us)  | pn̅tıbꝫ        |   |   |   |   | lat |   |   |    | 334-15 | 3:eschatocol |          |  |    |    |    |    |

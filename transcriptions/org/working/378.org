@@ -54,8 +54,8 @@
 | w   |        | helse       | xVB | hilser             |   | Helser               | Helſer        |   |   |   |       | dan |   |   |   |        378-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | jak         | xPE | jeg                |   | iech                 | ıech          |   |   |   |       | dan |   |   |   |        378-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | HenÅst001   |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Henrik             |   | he(n)ric             | he̅rıc         |   |   |   |       | dan |   |   |   |        378-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Åstredsen          |   | Ostreths(øn)         | Oſtreth      |   |   |   |       | dan |   |   |   |        378-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Henrik             |   | he(n)ric             | he̅rıc         |   |   |   |       | dan |   |   |   |        378-01 | 1:protocol |          |  |1597|    |    |    |
+| w   |        |             | xNP | Åstredsen          |   | Ostreths(øn)         | Oſtreth      |   |   |   |       | dan |   |   |   |        378-01 | 1:protocol |          |  |1597|    |    |    |
 | PE  | e      | HenÅst001   |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |             |     |                    |   | /                    | /             |   |   |   |       | dan |   |   |   |        378-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | ævinnelik   | xAJ | evindelige         |   | Ewindelige           | Ewındelíge    |   |   |   |       | dan |   |   |   |        378-01 | 1:protocol |          |  |    |    |    |    |
@@ -86,8 +86,8 @@
 | w   |        | man         | xNC | mand               |   | ma(n)                | ma̅            |   |   |   |       | dan |   |   |   |        378-03 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre       | xNC | hr.                 |   | h(e)r                | hꝝ            |   |   |   |       | dan |   |   |   |        378-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JepLun002   |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Jep                |   | jeop                 | ȷeop          |   |   |   |       | dan |   |   |   |        378-03 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Lunge              |   | lu(n)ge              | lu̅ge          |   |   |   |       | dan |   |   |   |        378-03 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Jep                |   | jeop                 | ȷeop          |   |   |   |       | dan |   |   |   |        378-03 | 2:context |          |  |1598|    |    |    |
+| w   |        |             | xNP | Lunge              |   | lu(n)ge              | lu̅ge          |   |   |   |       | dan |   |   |   |        378-03 | 2:context |          |  |1598|    |    |    |
 | PE  | e      | JepLun002   |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | af          | xAP | af                 |   | aff                  | aff           |   |   |   |       | dan |   |   |   |        378-03 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -139,8 +139,8 @@
 | w   |        | af          | xAP | af                 |   | aff                  | aff           |   |   |   |       | dan |   |   |   |        378-05 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre       | xNC | hr.                 |   | h(e)r                | hꝝ            |   |   |   |       | dan |   |   |   |        378-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AndJak001   |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Anders             |   | anders               | ander        |   |   |   |       | dan |   |   |   |        378-05 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Jepsen             |   | jeops(øn)            | ȷeop         |   |   |   |       | dan |   |   |   |        378-05 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Anders             |   | anders               | ander        |   |   |   |       | dan |   |   |   |        378-05 | 2:context |          |  |1599|    |    |    |
+| w   |        |             | xNP | Jepsen             |   | jeops(øn)            | ȷeop         |   |   |   |       | dan |   |   |   |        378-05 | 2:context |          |  |1599|    |    |    |
 | PE  | e      | AndJak001   |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |             |     |                    |   | /                    | /             |   |   |   |       | dan |   |   |   |        378-05 | 2:context |          |  |    |    |    |    |
 | w   |        | sum         | xRP | som                |   | som                  | ſom           |   |   |   |       | dan |   |   |   |        378-05 | 2:context |          |  |    |    |    |    |
@@ -198,8 +198,8 @@
 | w   |        | fornævnd    | xAJ | fornævnte          |   | for(nefnde)          | foꝛͩͤ           |   |   |   |       | dan |   |   |   |        378-08 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre       | xNC | hr.                 |   | h(e)r                | hꝝ            |   |   |   |       | dan |   |   |   |        378-08 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JepLun002   |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Jep                |   | jeop                 | ȷeop          |   |   |   |       | dan |   |   |   |        378-08 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Lunge              |   | lu(n)ge              | lu̅ge          |   |   |   |       | dan |   |   |   |        378-08 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Jep                |   | jeop                 | ȷeop          |   |   |   |       | dan |   |   |   |        378-08 | 2:context |          |  |2515|    |    |    |
+| w   |        |             | xNP | Lunge              |   | lu(n)ge              | lu̅ge          |   |   |   |       | dan |   |   |   |        378-08 | 2:context |          |  |2515|    |    |    |
 | PE  | e      | JepLun002   |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | for         | xAP | for                |   | for                  | foꝛ           |   |   |   |       | dan |   |   |   |        378-08 | 2:context |          |  |    |    |    |    |
 | w   |        | thæn        | xAT | det                |   | th(et)               | thꝫ           |   |   |   |       | dan |   |   |   |        378-08 | 2:context |          |  |    |    |    |    |
@@ -220,8 +220,8 @@
 | w   |        | fornævnd    | xAJ | fornævnte          |   | for(nefnde)          | foꝛͩͤ           |   |   |   |       | dan |   |   |   |        378-09 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre       | xNC | hr.                 |   | h(e)r                | hꝝ            |   |   |   |       | dan |   |   |   |        378-09 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JepLun002   |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Jep                |   | jeop                 | ȷeop          |   |   |   |       | dan |   |   |   |        378-09 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Lunge              |   | lu(n)ge              | lu̅ge          |   |   |   |       | dan |   |   |   |        378-09 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Jep                |   | jeop                 | ȷeop          |   |   |   |       | dan |   |   |   |        378-09 | 2:context |          |  |2516|    |    |    |
+| w   |        |             | xNP | Lunge              |   | lu(n)ge              | lu̅ge          |   |   |   |       | dan |   |   |   |        378-09 | 2:context |          |  |2516|    |    |    |
 | PE  | e      | JepLun002   |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og                 |   | oc                   | oc            |   |   |   |       | dan |   |   |   |        378-09 | 2:context |          |  |    |    |    |    |
 | w   |        | han         | xPE | hans               |   | hans                 | han          |   |   |   |       | dan |   |   |   |        378-09 | 2:context |          |  |    |    |    |    |
@@ -260,8 +260,8 @@
 | w   |        | sum         | xRP | som                |   | som                  | ſom           |   |   |   |       | dan |   |   |   |        378-11 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | være        | xVB | er                 |   | ær                   | ær            |   |   |   |       | dan |   |   |   |        378-11 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | AndJen004   |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Anders             |   | and(er)ss            | andſſ        |   |   |   |       | dan |   |   |   |        378-11 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Jensen             |   | jens(øn)             | ȷen          |   |   |   |       | dan |   |   |   |        378-11 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Anders             |   | and(er)ss            | andſſ        |   |   |   |       | dan |   |   |   |        378-11 | 3:eschatocol |          |  |1600|    |    |    |
+| w   |        |             | xNP | Jensen             |   | jens(øn)             | ȷen          |   |   |   |       | dan |   |   |   |        378-11 | 3:eschatocol |          |  |1600|    |    |    |
 | PE  | e      | AndJen004   |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | af          | xAP | af                 |   | aff                  | aff           |   |   |   |       | dan |   |   |   |        378-11 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |             |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -269,8 +269,8 @@
 | PL  | e      |             |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 378-12 |             |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | JepLun002   |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Jep                |   | jep                  | ȷep           |   |   |   |       | dan |   |   |   |        378-12 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Lunge              |   | lu(n)ge              | lu̅ge          |   |   |   |       | dan |   |   |   |        378-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Jep                |   | jep                  | ȷep           |   |   |   |       | dan |   |   |   |        378-12 | 3:eschatocol |          |  |1601|    |    |    |
+| w   |        |             | xNP | Lunge              |   | lu(n)ge              | lu̅ge          |   |   |   |       | dan |   |   |   |        378-12 | 3:eschatocol |          |  |1601|    |    |    |
 | PE  | e      | JepLun002   |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | af          | xAP | af                 |   | aff                  | aff           |   |   |   |       | dan |   |   |   |        378-12 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |             |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -278,18 +278,18 @@
 | PL  | e      |             |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |             |     |                    |   | /                    | /             |   |   |   |       | dan |   |   |   |        378-12 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | AndLun001   |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Anders             |   | and(er)ss            | andſſ        |   |   |   |       | dan |   |   |   |        378-12 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Lunge              |   | lu(n)ge              | lu̅ge          |   |   |   |       | dan |   |   |   |        378-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Anders             |   | and(er)ss            | andſſ        |   |   |   |       | dan |   |   |   |        378-12 | 3:eschatocol |          |  |1602|    |    |    |
+| w   |        |             | xNP | Lunge              |   | lu(n)ge              | lu̅ge          |   |   |   |       | dan |   |   |   |        378-12 | 3:eschatocol |          |  |1602|    |    |    |
 | PE  | e      | AndLun001   |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |             |     |                    |   | /                    | /             |   |   |   |       | dan |   |   |   |        378-12 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | EriJen001   |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Erik               |   | Eric                 | Erıc          |   |   |   |       | dan |   |   |   |        378-12 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Jensen             |   | jens(øn)             | ȷen          |   |   |   |       | dan |   |   |   |        378-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Erik               |   | Eric                 | Erıc          |   |   |   |       | dan |   |   |   |        378-12 | 3:eschatocol |          |  |1603|    |    |    |
+| w   |        |             | xNP | Jensen             |   | jens(øn)             | ȷen          |   |   |   |       | dan |   |   |   |        378-12 | 3:eschatocol |          |  |1603|    |    |    |
 | PE  | e      | EriJen001   |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og                 |   | oc                   | oc            |   |   |   |       | dan |   |   |   |        378-12 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | PedGal001   |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Peder              |   | pæth(e)r             | pæthꝝ         |   |   |   |       | dan |   |   |   |        378-12 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Galen              |   | gale(n)              | gale̅          |   |   |   |       | dan |   |   |   |        378-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Peder              |   | pæth(e)r             | pæthꝝ         |   |   |   |       | dan |   |   |   |        378-12 | 3:eschatocol |          |  |1604|    |    |    |
+| w   |        |             | xNP | Galen              |   | gale(n)              | gale̅          |   |   |   |       | dan |   |   |   |        378-12 | 3:eschatocol |          |  |1604|    |    |    |
 | PE  | e      | PedGal001   |     |                    |   |                      |               |   |   |   |       |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | hængje      | xVB | hænge              |   | henge                | henge         |   |   |   |       | dan |   |   |   |        378-12 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | thæn        | xPE | deres              |   | ther(is)             | therꝭ         |   |   |   |       | dan |   |   |   |        378-12 | 3:eschatocol |          |  |    |    |    |    |

@@ -49,8 +49,8 @@
 | w   |        |   |   |   |   | cernentib(us)       | cernentibꝫ    |   |   |   |                                | lat |   |   |   |        282-01 | 1:protocol |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                   | .             |   |   |   |                                | lat |   |   |   |        282-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | BenByg001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | benedictus          | benedıctu    |   |   |   |                                | lat |   |   |   |        282-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | byug                | býug          |   |   |   |                                | lat |   |   |   |        282-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | benedictus          | benedıctu    |   |   |   |                                | lat |   |   |   |        282-01 | 1:protocol |          |  |1146|    |    |    |
+| w   |        |   |   |   |   | byug                | býug          |   |   |   |                                | lat |   |   |   |        282-01 | 1:protocol |          |  |1146|    |    |    |
 | PE  | e      | BenByg001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | de                  | de            |   |   |   |                                | lat |   |   |   |        282-01 | 1:protocol |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -72,8 +72,8 @@
 | w   |        |   |   |   |   | viro                | ỽiro          |   |   |   |                                | lat |   |   |   |        282-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)no            | dn̅o           |   |   |   |                                | lat |   |   |   |        282-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      | NieRus001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicolao             | nicolao       |   |   |   |                                | lat |   |   |   |        282-02 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Rusere              | Ruſere        |   |   |   |                                | lat |   |   |   |        282-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nicolao             | nicolao       |   |   |   |                                | lat |   |   |   |        282-02 | 2:context |          |  |1147|    |    |    |
+| w   |        |   |   |   |   | Rusere              | Ruſere        |   |   |   |                                | lat |   |   |   |        282-02 | 2:context |          |  |1147|    |    |    |
 | PE  | e      | NieRus001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | canon(ico)          | canoͨͦ         |   |   |   |                                | lat |   |   |   |        282-02 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -100,8 +100,8 @@
 | w   |        |   |   |   |   | michi               | michi         |   |   |   |                                | lat |   |   |   |        282-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | et                  | et            |   |   |   |                                | lat |   |   |   |        282-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | HenOlu001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | he(n)nichino        | he̅nichino     |   |   |   |                                | lat |   |   |   |        282-04 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | olafs(on)           | olaf         |   |   |   |                                | lat |   |   |   |        282-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | he(n)nichino        | he̅nichino     |   |   |   |                                | lat |   |   |   |        282-04 | 2:context |          |  |1148|    |    |    |
+| w   |        |   |   |   |   | olafs(on)           | olaf         |   |   |   |                                | lat |   |   |   |        282-04 | 2:context |          |  |1148|    |    |    |
 | PE  | e      | HenOlu001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ex                  | ex            |   |   |   |                                | lat |   |   |   |        282-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(ar)te             | p̲te           |   |   |   |                                | lat |   |   |   |        282-04 | 2:context |          |  |    |    |    |    |
@@ -109,14 +109,14 @@
 | w   |        |   |   |   |   | sue                 | ſue           |   |   |   |                                | lat |   |   |   |        282-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)ne            | dn̅e           |   |   |   |                                | lat |   |   |   |        282-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | IngPed001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Ingeburgis          | Ingeburgı    |   |   |   |                                | lat |   |   |   |        282-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Ingeburgis          | Ingeburgı    |   |   |   |                                | lat |   |   |   |        282-04 | 2:context |          |  |1149|    |    |    |
 | PE  | e      | IngPed001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | per                 | per           |   |   |   |                                | lat |   |   |   |        282-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | morte(m)            | moꝛte̅         |   |   |   |                                | lat |   |   |   |        282-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | EriNie003  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | erici               | erici         |   |   |   |                                | lat |   |   |   |        282-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | erici               | erici         |   |   |   |                                | lat |   |   |   |        282-04 | 2:context |          |  |1150|    |    |    |
 | lm  | 282-05 |   |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicless(on)         | nicleſ       |   |   |   |                                | lat |   |   |   |        282-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nicless(on)         | nicleſ       |   |   |   |                                | lat |   |   |   |        282-05 | 2:context |          |  |1150|    |    |    |
 | PE  | e      | EriNie003  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | de                  | de            |   |   |   |                                | lat |   |   |   |        282-05 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -136,8 +136,8 @@
 | w   |        |   |   |   |   | ab                  | ab            |   |   |   |                                | lat |   |   |   |        282-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ipso                | ıpſo          |   |   |   |                                | lat |   |   |   |        282-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | HenOlu001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | he(n)nichino        | he̅nichino     |   |   |   |                                | lat |   |   |   |        282-06 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | olafs(on)           | olaf         |   |   |   |                                | lat |   |   |   |        282-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | he(n)nichino        | he̅nichino     |   |   |   |                                | lat |   |   |   |        282-06 | 2:context |          |  |1151|    |    |    |
+| w   |        |   |   |   |   | olafs(on)           | olaf         |   |   |   |                                | lat |   |   |   |        282-06 | 2:context |          |  |1151|    |    |    |
 | PE  | e      | HenOlu001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | memorato            | memoꝛato      |   |   |   |                                | lat |   |   |   |        282-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | emptiue             | emptiue       |   |   |   |                                | lat |   |   |   |        282-06 | 2:context |          |  |    |    |    |    |
@@ -150,8 +150,8 @@
 | w   |        |   |   |   |   | curiam              | curia        |   |   |   |                                | lat |   |   |   |        282-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | quida(m)            | quida̅         |   |   |   |                                | lat |   |   |   |        282-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AndNie003  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Andreas             | Andrea       |   |   |   |                                | lat |   |   |   |        282-07 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicless(on)         | nicleſ       |   |   |   |                                | lat |   |   |   |        282-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Andreas             | Andrea       |   |   |   |                                | lat |   |   |   |        282-07 | 2:context |          |  |1152|    |    |    |
+| w   |        |   |   |   |   | nicless(on)         | nicleſ       |   |   |   |                                | lat |   |   |   |        282-07 | 2:context |          |  |1152|    |    |    |
 | PE  | e      | AndNie003  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(ro) nu(n)c        | ꝓ nu̅c         |   |   |   |                                | lat |   |   |   |        282-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Inhabitat           | Inhabıtat     |   |   |   |                                | lat |   |   |   |        282-07 | 2:context |          |  |    |    |    |    |
@@ -184,14 +184,14 @@
 | w   |        |   |   |   |   | p(re)no(m)i(n)ato   | p̅no̅ıato       |   |   |   |                                | lat |   |   |   |        282-09 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)no            | dn̅o           |   |   |   |                                | lat |   |   |   |        282-09 | 2:context |          |  |    |    |    |    |
 | PE  | b      | NieRus001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicolao             | nicolao       |   |   |   |                                | lat |   |   |   |        282-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nicolao             | nicolao       |   |   |   |                                | lat |   |   |   |        282-09 | 2:context |          |  |1153|    |    |    |
 | PE  | e      | NieRus001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | subleuasse          | ſubleuae     |   |   |   |                                | lat |   |   |   |        282-09 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Insup(er)           | Inſup̲         |   |   |   |                                | lat |   |   |   |        282-09 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ip(s)i              | ıp̅ı           |   |   |   |                                | lat |   |   |   |        282-09 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)no            | dn̅o           |   |   |   |                                | lat |   |   |   |        282-09 | 2:context |          |  |    |    |    |    |
 | PE  | b      | NieRus001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ni¦colao            | ni¦colao      |   |   |   |                                | lat |   |   |   | 282-09—282-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ni¦colao            | ni¦colao      |   |   |   |                                | lat |   |   |   | 282-09—282-10 | 2:context |          |  |1154|    |    |    |
 | PE  | e      | NieRus001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | om(n)es             | om̅e          |   |   |   |                                | lat |   |   |   |        282-10 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | l(itte)ras          | lr̅a          |   |   |   |                                | lat |   |   |   |        282-10 | 2:context |          |  |    |    |    |    |
@@ -205,8 +205,8 @@
 | w   |        |   |   |   |   | curia               | curia         |   |   |   |                                | lat |   |   |   |        282-10 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | habuit              | habuit        |   |   |   |                                | lat |   |   |   |        282-10 | 2:context |          |  |    |    |    |    |
 | PE  | b      | EriNie003  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ericus              | ericu        |   |   |   |                                | lat |   |   |   |        282-10 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nichless(on)        | nichleſ      |   |   |   |                                | lat |   |   |   |        282-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ericus              | ericu        |   |   |   |                                | lat |   |   |   |        282-10 | 2:context |          |  |1155|    |    |    |
+| w   |        |   |   |   |   | nichless(on)        | nichleſ      |   |   |   |                                | lat |   |   |   |        282-10 | 2:context |          |  |1155|    |    |    |
 | PE  | e      | EriNie003  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 282-11 |   |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | vna                 | ỽna           |   |   |   |                                | lat |   |   |   |        282-11 | 2:context |          |  |    |    |    |    |
@@ -219,8 +219,8 @@
 | w   |        |   |   |   |   | medietate           | medietate     |   |   |   |                                | lat |   |   |   |        282-11 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | de                  | de            |   |   |   |                                | lat |   |   |   |        282-11 | 2:context |          |  |    |    |    |    |
 | PE  | b      | HenOlu001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | he(n)nichino        | he̅nichıno     |   |   |   |                                | lat |   |   |   |        282-11 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | olafs(on)           | olaf         |   |   |   |                                | lat |   |   |   |        282-11 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | he(n)nichino        | he̅nichıno     |   |   |   |                                | lat |   |   |   |        282-11 | 2:context |          |  |1156|    |    |    |
+| w   |        |   |   |   |   | olafs(on)           | olaf         |   |   |   |                                | lat |   |   |   |        282-11 | 2:context |          |  |1156|    |    |    |
 | PE  | e      | HenOlu001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | habeo               | habeo         |   |   |   |                                | lat |   |   |   |        282-11 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | resigno             | reſigno       |   |   |   |                                | lat |   |   |   |        282-11 | 2:context |          |  |    |    |    |    |
@@ -237,7 +237,7 @@
 | w   |        |   |   |   |   | sepedicto           | ſepedıcto     |   |   |   |                                | lat |   |   |   |        282-12 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)no            | dn̅o           |   |   |   |                                | lat |   |   |   |        282-12 | 2:context |          |  |    |    |    |    |
 | PE  | b      | NieRus001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicolao             | nicolao       |   |   |   |                                | lat |   |   |   |        282-12 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nicolao             | nicolao       |   |   |   |                                | lat |   |   |   |        282-12 | 2:context |          |  |1157|    |    |    |
 | PE  | e      | NieRus001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | et                  | et            |   |   |   |                                | lat |   |   |   |        282-12 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | heredibus           | heredıbu     |   |   |   |                                | lat |   |   |   |        282-12 | 2:context |          |  |    |    |    |    |
@@ -262,7 +262,7 @@
 | w   |        |   |   |   |   | ip(s)o              | ıp̅o           |   |   |   |                                | lat |   |   |   |        282-14 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)no            | dn̅o           |   |   |   |                                | lat |   |   |   |        282-14 | 2:context |          |  |    |    |    |    |
 | PE  | b      | NieRus001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicholao            | nicholao      |   |   |   |                                | lat |   |   |   |        282-14 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nicholao            | nicholao      |   |   |   |                                | lat |   |   |   |        282-14 | 2:context |          |  |1158|    |    |    |
 | PE  | e      | NieRus001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | vel                 | ỽel           |   |   |   |                                | lat |   |   |   |        282-14 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | heredib(us)         | heredıbꝫ      |   |   |   |                                | lat |   |   |   |        282-14 | 2:context |          |  |    |    |    |    |
@@ -324,37 +324,37 @@
 | w   |        |   |   |   |   | videlic(et)         | ỽıdelıcꝫ      |   |   |   |                                | lat |   |   |   |        282-18 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)noru(m)       | dn̅oꝛu̅         |   |   |   |                                | lat |   |   |   |        282-18 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | PedJen001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | petri               | petri         |   |   |   |                                | lat |   |   |   |        282-18 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Iens(on)            | Ien          |   |   |   |                                | lat |   |   |   |        282-18 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | petri               | petri         |   |   |   |                                | lat |   |   |   |        282-18 | 3:eschatocol |          |  |1159|    |    |    |
+| w   |        |   |   |   |   | Iens(on)            | Ien          |   |   |   |                                | lat |   |   |   |        282-18 | 3:eschatocol |          |  |1159|    |    |    |
 | PE  | e      | PedJen001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | et                  | et            |   |   |   |                                | lat |   |   |   |        282-18 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | m(a)g(ist)ri        | mg̅rı          |   |   |   |                                | lat |   |   |   |        282-18 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | PedLyk001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | petri               | petri         |   |   |   |                                | lat |   |   |   |        282-18 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lykke               | lykke         |   |   |   |                                | lat |   |   |   |        282-18 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | petri               | petri         |   |   |   |                                | lat |   |   |   |        282-18 | 3:eschatocol |          |  |1160|    |    |    |
+| w   |        |   |   |   |   | lykke               | lykke         |   |   |   |                                | lat |   |   |   |        282-18 | 3:eschatocol |          |  |1160|    |    |    |
 | PE  | e      | PedLyk001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | canoni¦corum        | canoni¦coꝛu  |   |   |   |                                | lat |   |   |   | 282-18—282-19 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Rosk(ildensium)     | Roſꝃ          |   |   |   |                                | lat |   |   |   |        282-19 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | e      |   |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | PedOff001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | petri               | petri         |   |   |   |                                | lat |   |   |   |        282-19 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | vffes(on)           | ỽﬀe          |   |   |   |                                | lat |   |   |   |        282-19 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | petri               | petri         |   |   |   |                                | lat |   |   |   |        282-19 | 3:eschatocol |          |  |1161|    |    |    |
+| w   |        |   |   |   |   | vffes(on)           | ỽﬀe          |   |   |   |                                | lat |   |   |   |        282-19 | 3:eschatocol |          |  |1161|    |    |    |
 | PE  | e      | PedOff001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | et                  | et            |   |   |   |                                | lat |   |   |   |        282-19 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | JenOff001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Ioh(ann)is          | Ioh̅ı         |   |   |   |                                | lat |   |   |   |        282-19 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | vffes(on)           | ỽﬀe          |   |   |   |                                | lat |   |   |   |        282-19 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Ioh(ann)is          | Ioh̅ı         |   |   |   |                                | lat |   |   |   |        282-19 | 3:eschatocol |          |  |1162|    |    |    |
+| w   |        |   |   |   |   | vffes(on)           | ỽﬀe          |   |   |   |                                | lat |   |   |   |        282-19 | 3:eschatocol |          |  |1162|    |    |    |
 | PE  | e      | JenOff001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | germanoru(m)        | germanoꝛu̅     |   |   |   |                                | lat |   |   |   |        282-19 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | GriGun001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | griib               | griib         |   |   |   |                                | lat |   |   |   |        282-19 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | gunners(on)         | gunner       |   |   |   |                                | lat |   |   |   |        282-19 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | griib               | griib         |   |   |   |                                | lat |   |   |   |        282-19 | 3:eschatocol |          |  |1163|    |    |    |
+| w   |        |   |   |   |   | gunners(on)         | gunner       |   |   |   |                                | lat |   |   |   |        282-19 | 3:eschatocol |          |  |1163|    |    |    |
 | PE  | e      | GriGun001  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | et                  | et            |   |   |   |                                | lat |   |   |   |        282-19 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | AndPed002  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Andree              | Andree        |   |   |   |                                | lat |   |   |   |        282-19 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | griis               | grii         |   |   |   |                                | lat |   |   |   |        282-19 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Andree              | Andree        |   |   |   |                                | lat |   |   |   |        282-19 | 3:eschatocol |          |  |1164|    |    |    |
+| w   |        |   |   |   |   | griis               | grii         |   |   |   |                                | lat |   |   |   |        282-19 | 3:eschatocol |          |  |1164|    |    |    |
 | PE  | e      | AndPed002  |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 282-20 |   |   |   |   |                     |               |   |   |   |                                |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | armigeroru(m)       | Armigeroꝛu̅    |   |   |   |                                | lat |   |   |   |        282-20 | 3:eschatocol |          |  |    |    |    |    |

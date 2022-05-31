@@ -46,12 +46,12 @@
 | w   |        | vi            | xPE | vi           |   | Vii             | Vii          |   |   |   |                   | dan |   |   |    | 452-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | æfterskrive   | xVB | efterskrevne |   | Efft(screffe)   | Efftꝭᷠͤ        |   |   |   |                   | dan |   |   |    | 452-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | JenHan001     |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Jens         |   | Jens            | Jen         |   |   |   |                   | dan |   |   |    | 452-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |               | xNP | Hansen       |   | ha(n)ss(øn)     | ha̅ſ         |   |   |   |                   | dan |   |   |    | 452-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Jens         |   | Jens            | Jen         |   |   |   |                   | dan |   |   |    | 452-01 | 1:protocol |          |  |2168|    |    |    |
+| w   |        |               | xNP | Hansen       |   | ha(n)ss(øn)     | ha̅ſ         |   |   |   |                   | dan |   |   |    | 452-01 | 1:protocol |          |  |2168|    |    |    |
 | PE  | e      | JenHan001     |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
 | PE  | b      | DidFri001     |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Didrik       |   | Ditrick         | Ditꝛick      |   |   |   |                   | dan |   |   |    | 452-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |               | xNP | Friis        |   | friiss          | fꝛiiſſ       |   |   |   |                   | dan |   |   |    | 452-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Didrik       |   | Ditrick         | Ditꝛick      |   |   |   |                   | dan |   |   |    | 452-01 | 1:protocol |          |  |2169|    |    |    |
+| w   |        |               | xNP | Friis        |   | friiss          | fꝛiiſſ       |   |   |   |                   | dan |   |   |    | 452-01 | 1:protocol |          |  |2169|    |    |    |
 | PE  | e      | DidFri001     |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | burghemæstere | xNC | borgmester   |   | burgemesth(e)r  | buꝛgemeſthꝛ̅  |   |   |   |                   | dan |   |   |    | 452-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i             | xAP | i            |   | ij              | ij           |   |   |   |                   | dan |   |   |    | 452-01 | 1:protocol |          |  |    |    |    |    |
@@ -59,28 +59,28 @@
 | w   |        |               | xNP | Roskilde     |   | Rosk(ilde)      | Roſkꝭ       |   |   |   |                   | dan |   |   |    | 452-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | e      |               |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
 | PE  | b      | PerMik001     |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Per          |   | p(e)r           | p̲ꝛ           |   |   |   |                   | dan |   |   |    | 452-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Per          |   | p(e)r           | p̲ꝛ           |   |   |   |                   | dan |   |   |    | 452-01 | 1:protocol |          |  |2170|    |    |    |
 | lm  | 452-02 |               |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Mikkelsen    |   | michelss(øn)    | michelſ     |   |   |   |                   | dan |   |   |    | 452-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Mikkelsen    |   | michelss(øn)    | michelſ     |   |   |   |                   | dan |   |   |    | 452-02 | 1:protocol |          |  |2170|    |    |    |
 | PE  | e      | PerMik001     |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | byfoghet      | xNC | byfoged      |   | byfoget         | bÿfoget      |   |   |   |                   | dan |   |   |    | 452-02 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | OluGun001     |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Oluf         |   | oluff           | oluff        |   |   |   |                   | dan |   |   |    | 452-02 | 1:protocol |          |  |    |    |    |    |
-| w   |        |               | xNP | Gundesen     |   | gunness(øn)     | gŭnneſ      |   |   |   | Only five minims? | dan |   |   |    | 452-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Oluf         |   | oluff           | oluff        |   |   |   |                   | dan |   |   |    | 452-02 | 1:protocol |          |  |2171|    |    |    |
+| w   |        |               | xNP | Gundesen     |   | gunness(øn)     | gŭnneſ      |   |   |   | Only five minims? | dan |   |   |    | 452-02 | 1:protocol |          |  |2171|    |    |    |
 | PE  | e      | OluGun001     |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
 | PE  | b      | HanKje002     |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Hans         |   | hans            | han         |   |   |   |                   | dan |   |   |    | 452-02 | 1:protocol |          |  |    |    |    |    |
-| w   |        |               | xNP | Kjeldsen     |   | keelss(øn)      | keelſ       |   |   |   |                   | dan |   |   |    | 452-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Hans         |   | hans            | han         |   |   |   |                   | dan |   |   |    | 452-02 | 1:protocol |          |  |2172|    |    |    |
+| w   |        |               | xNP | Kjeldsen     |   | keelss(øn)      | keelſ       |   |   |   |                   | dan |   |   |    | 452-02 | 1:protocol |          |  |2172|    |    |    |
 | PE  | e      | HanKje002     |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | rathman       | xNC | rådmænd      |   | Rodmen(n)dt     | Rodmen̅dt     |   |   |   |                   | dan |   |   |    | 452-02 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | FraJen002     |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Franz        |   | frans           | fꝛan        |   |   |   |                   | dan |   |   |    | 452-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Franz        |   | frans           | fꝛan        |   |   |   |                   | dan |   |   |    | 452-02 | 1:protocol |          |  |2173|    |    |    |
 | lm  | 452-03 |               |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Jensen       |   | ienss(øn)       | ienſ        |   |   |   |                   | dan |   |   |    | 452-03 | 1:protocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Jensen       |   | ienss(øn)       | ienſ        |   |   |   |                   | dan |   |   |    | 452-03 | 1:protocol |          |  |2173|    |    |    |
 | PE  | e      | FraJen002     |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
 | PE  | b      | AlbRad001     |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Albert       |   | albrit          | albꝛit       |   |   |   |                   | dan |   |   |    | 452-03 | 1:protocol |          |  |    |    |    |    |
-| w   |        |               | xNP | Rad          |   | rad             | ꝛad          |   |   |   |                   | dan |   |   |    | 452-03 | 1:protocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Albert       |   | albrit          | albꝛit       |   |   |   |                   | dan |   |   |    | 452-03 | 1:protocol |          |  |2174|    |    |    |
+| w   |        |               | xNP | Rad          |   | rad             | ꝛad          |   |   |   |                   | dan |   |   |    | 452-03 | 1:protocol |          |  |2174|    |    |    |
 | PE  | e      | AlbRad001     |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | burghere      | xNC | borger       |   | burger(e)       | bŭꝛgeꝛ      |   |   |   |                   | dan |   |   |    | 452-03 | 1:protocol |          |  |    |    |    |    |
 | w   |        | hær           | xAV | her          |   | h(er)           | h̅            |   |   |   |                   | dan |   |   |    | 452-03 | 1:protocol |          |  |    |    |    |    |
@@ -108,7 +108,7 @@
 | w   |        | fyrste        | xNC | fyrstes      |   | først(is)       | føꝛſtꝭ       |   |   |   |                   | dan |   |   |    | 452-05 | 2:context |          |  |    |    |    |    |
 | w   |        | greve         | xNC | greve        |   | greffue         | gꝛeffŭe      |   |   |   |                   | dan |   |   |    | 452-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | KriOld001     |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Kristoffers  |   | Christoffers    | Chꝛiſtoffeꝛ |   |   |   |                   | dan |   |   |    | 452-05 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Kristoffers  |   | Christoffers    | Chꝛiſtoffeꝛ |   |   |   |                   | dan |   |   |    | 452-05 | 2:context |          |  |2175|    |    |    |
 | PE  | e      | KriOld001     |     |              |   |                 |              |   |   |   |                   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | brev          | xNC | brev         |   | b(re)ff         | bff         |   |   |   |                   | dan |   |   |    | 452-05 | 2:context |          |  |    |    |    |    |
 | n   |        | 10            |     | 10           |   | x               | x            |   |   |   |                   | dan |   |   |    | 452-05 | 2:context |          |  |    |    |    |    |

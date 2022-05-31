@@ -44,7 +44,7 @@
 | lm  | 472-01 |   |   |   |   |                        |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | d  | b      | 1  |   | protocol  |   |                        |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                        |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | E(ricus)               | E.           |   |   |   |   | lat |   |   |   |        472-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | E(ricus)               | E.           |   |   |   |   | lat |   |   |   |        472-01 | 1:protocol |          |  |3079|    |    |    |
 | PE  | e      |   |   |   |   |                        |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | dei                    | deí          |   |   |   |   | lat |   |   |   |        472-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | gr(aci)a               | gr̅a          |   |   |   |   | lat |   |   |   |        472-01 | 1:protocol |          |  |    |    |    |    |
@@ -67,19 +67,19 @@
 | w   |        |   |   |   |   | testi¦monium           | teﬅí¦moníu  |   |   |   |   | lat |   |   |   | 472-01—472-02 | 2:context |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /                      | /            |   |   |   |   | lat |   |   |   |        472-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                        |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | bertholdi              | bertholdí    |   |   |   |   | lat |   |   |   |        472-02 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | stfn s(un)            | ﬅfn        |   |   |   |   | lat |   |   |   |        472-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | bertholdi              | bertholdí    |   |   |   |   | lat |   |   |   |        472-02 | 2:context |          |  |3081|    |    |    |
+| w   |        |   |   |   |   | stfn s(un)            | ﬅfn        |   |   |   |   | lat |   |   |   |        472-02 | 2:context |          |  |3081|    |    |    |
 | PE  | e      |   |   |   |   |                        |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /.                     | /.           |   |   |   |   | lat |   |   |   |        472-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                        |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | jcobi                 | ȷcobí       |   |   |   |   | lat |   |   |   |        472-02 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Røryk s(un)            | Røꝛẏk       |   |   |   |   | lat |   |   |   |        472-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | jcobi                 | ȷcobí       |   |   |   |   | lat |   |   |   |        472-02 | 2:context |          |  |3082|    |    |    |
+| w   |        |   |   |   |   | Røryk s(un)            | Røꝛẏk       |   |   |   |   | lat |   |   |   |        472-02 | 2:context |          |  |3082|    |    |    |
 | PE  | e      |   |   |   |   |                        |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                      | .            |   |   |   |   | lat |   |   |   |        472-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | et                     | et           |   |   |   |   | lat |   |   |   |        472-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                        |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | beronis                | beroní      |   |   |   |   | lat |   |   |   |        472-02 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | bræk                   | bꝛæk         |   |   |   |   | lat |   |   |   |        472-02 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | beronis                | beroní      |   |   |   |   | lat |   |   |   |        472-02 | 2:context |          |  |3080|    |    |    |
+| w   |        |   |   |   |   | bræk                   | bꝛæk         |   |   |   |   | lat |   |   |   |        472-02 | 2:context |          |  |3080|    |    |    |
 | PE  | e      |   |   |   |   |                        |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (con)ciuium            | ꝯcíuíum      |   |   |   |   | lat |   |   |   |        472-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | v(est)ror(um)          | ỽr͛oꝝ         |   |   |   |   | lat |   |   |   |        472-02 | 2:context |          |  |    |    |    |    |
@@ -110,7 +110,7 @@
 | w   |        |   |   |   |   | quidam                 | quídam       |   |   |   |   | lat |   |   |   |        472-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | filius                 | fılíu       |   |   |   |   | lat |   |   |   |        472-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                        |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | c(ri)stine             | cﬅíne       |   |   |   |   | lat |   |   |   |        472-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | c(ri)stine             | cﬅíne       |   |   |   |   | lat |   |   |   |        472-04 | 2:context |          |  |3083|    |    |    |
 | PE  | e      |   |   |   |   |                        |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ip(s)as                | ıp̅         |   |   |   |   | lat |   |   |   |        472-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | illega¦lit(er)         | ılleg¦lıt͛   |   |   |   |   | lat |   |   |   | 472-04—472-05 | 2:context |          |  |    |    |    |    |
@@ -132,8 +132,8 @@
 | w   |        |   |   |   |   | teste                  | teﬅe         |   |   |   |   | lat |   |   |   |        472-06 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | domino                 | domíno       |   |   |   |   | lat |   |   |   |        472-06 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                        |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | johanne                | ȷohanne      |   |   |   |   | lat |   |   |   |        472-06 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | laghy sun              | laghẏ u    |   |   |   |   | lat |   |   |   |        472-06 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | johanne                | ȷohanne      |   |   |   |   | lat |   |   |   |        472-06 | 3:eschatocol |          |  |3084|    |    |    |
+| w   |        |   |   |   |   | laghy sun              | laghẏ u    |   |   |   |   | lat |   |   |   |        472-06 | 3:eschatocol |          |  |3084|    |    |    |
 | PE  | e      |   |   |   |   |                        |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                      | .            |   |   |   |   | lat |   |   |   |        472-06 | 3:eschatocol |          |  |    |    |    |    |
 | d  | e      | 3  |   |   |   |                        |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |

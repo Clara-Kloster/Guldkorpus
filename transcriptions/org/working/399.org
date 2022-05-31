@@ -54,8 +54,8 @@
 | w   |        | helse           | xVB | hilser         |   | Hels(er)         | Hel         |   |   |   |   | dan     |   |   |    | 399-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | jak             | xPE | jeg            |   | ieg              | ıeg          |   |   |   |   | dan     |   |   |    | 399-01 | 1:protocol |          |  |    |    |    |    |
 | PE  |      b | GriJen001       |     |                |   |                  |              |   |   |   |   |         |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |                 | xNP | Grib           |   | gryb             | grẏb         |   |   |   |   | dan     |   |   |    | 399-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |                 | xNP | Jensen         |   | jenss(øn)        | jen        |   |   |   |   | dan     |   |   |    | 399-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |                 | xNP | Grib           |   | gryb             | grẏb         |   |   |   |   | dan     |   |   |    | 399-01 | 1:protocol |          |  |1737|    |    |    |
+| w   |        |                 | xNP | Jensen         |   | jenss(øn)        | jen        |   |   |   |   | dan     |   |   |    | 399-01 | 1:protocol |          |  |1737|    |    |    |
 | PE  |      e | GriJen001       |     |                |   |                  |              |   |   |   |   |         |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | af              | xAP | af             |   | aff              | aff          |   |   |   |   | dan     |   |   |    | 399-01 | 1:protocol |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -126,9 +126,9 @@
 | w   |        | dotter          | xNC | datter         |   | dott(er)         | dott        |   |   |   |   | dan     |   |   |    | 399-04 | 2:context |          |  |    |    |    |    |
 | w   |        | syster          | xNC | søster         |   | syst(er)         | ſyſt        |   |   |   |   | dan     |   |   |    | 399-04 | 2:context |          |  |    |    |    |    |
 | PE  |      b | EliNie003       |     |                |   |                  |              |   |   |   |   |         |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |                 | xNP | Eline          |   | elnæ             | elnæ         |   |   |   |   | dan     |   |   |    | 399-04 | 2:context |          |  |    |    |    |    |
-| w   |        |                 | xNP | Niels          |   | nielsæ           | nielſæ       |   |   |   |   | dan     |   |   | =  | 399-04 | 2:context |          |  |    |    |    |    |
-| w   |        | dotter          | xNC | datter         |   | dott(er)         | dott        |   |   |   |   | dan     |   |   | == | 399-04 | 2:context |          |  |    |    |    |    |
+| w   |        |                 | xNP | Eline          |   | elnæ             | elnæ         |   |   |   |   | dan     |   |   |    | 399-04 | 2:context |          |  |1738|    |    |    |
+| w   |        |                 | xNP | Niels          |   | nielsæ           | nielſæ       |   |   |   |   | dan     |   |   | =  | 399-04 | 2:context |          |  |1738|    |    |    |
+| w   |        | dotter          | xNC | datter         |   | dott(er)         | dott        |   |   |   |   | dan     |   |   | == | 399-04 | 2:context |          |  |1738|    |    |    |
 | PE  |      e | EliNie003       |     |                |   |                  |              |   |   |   |   |         |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | hun             | xPE | hendes         |   | hennes           | henne       |   |   |   |   | dan     |   |   |    | 399-04 | 2:context |          |  |    |    |    |    |
 | w   |        | ræt             | xAJ | rette          |   | rættæ            | rættæ        |   |   |   |   | dan     |   |   |    | 399-04 | 2:context |          |  |    |    |    |    |

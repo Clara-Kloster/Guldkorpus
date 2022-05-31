@@ -54,11 +54,11 @@
 | w   |        | helse       | xVB | hilser      |   | Helsær             | Helſær          |   |   |   |   | dan |   |   |    |        326-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | jak         | xPE | jeg         |   | jæk                | ȷæk             |   |   |   |   | dan |   |   |    |        326-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | AndJak001   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Anders      |   | andirs             | andır          |   |   |   |   | dan |   |   |    |        326-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Jepsen      |   | jæipss(øn)         | ȷæıpſ          |   |   |   |   | dan |   |   |    |        326-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        | thær        | xRP | der         |   | th(er)             | th             |   |   |   |   | dan |   |   |    |        326-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        | kalle       | xVB | kaldes      |   | kallæs             | kallæ          |   |   |   |   | dan |   |   |    |        326-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Lunge       |   | lwngæ              | lwngæ           |   |   |   |   | dan |   |   |    |        326-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Anders      |   | andirs             | andır          |   |   |   |   | dan |   |   |    |        326-01 | 1:protocol |          |  |1309|    |    |    |
+| w   |        |             | xNP | Jepsen      |   | jæipss(øn)         | ȷæıpſ          |   |   |   |   | dan |   |   |    |        326-01 | 1:protocol |          |  |1309|    |    |    |
+| w   |        | thær        | xRP | der         |   | th(er)             | th             |   |   |   |   | dan |   |   |    |        326-01 | 1:protocol |          |  |1309|    |    |    |
+| w   |        | kalle       | xVB | kaldes      |   | kallæs             | kallæ          |   |   |   |   | dan |   |   |    |        326-01 | 1:protocol |          |  |1309|    |    |    |
+| w   |        |             | xNP | Lunge       |   | lwngæ              | lwngæ           |   |   |   |   | dan |   |   |    |        326-01 | 1:protocol |          |  |1309|    |    |    |
 | PE  | e      | AndJak001   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | riddere     | xNC | ridder      |   | riddær             | rıddær          |   |   |   |   | dan |   |   |    |        326-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i           | xAP | i           |   | j                  | ȷ               |   |   |   |   | dan |   |   |    |        326-01 | 1:protocol |          |  |    |    |    |    |
@@ -98,8 +98,8 @@
 | w   |        | thænne      | xDD | denne       |   | thæ(n)næ           | thæ̅næ           |   |   |   |   | dan |   |   |    |        326-03 | 2:context |          |  |    |    |    |    |
 | w   |        | brevvisere  | xNC | brevviser   |   | b(re)fuisær(e)     | bͤfuiſær        |   |   |   |   | dan |   |   |    |        326-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | ÅstSve001   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Åstred      |   | astradh            | astradh         |   |   |   |   | dan |   |   |    |        326-03 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Svendsen    |   | swenss(øn)         | ſwenſ          |   |   |   |   | dan |   |   |    |        326-03 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Åstred      |   | astradh            | astradh         |   |   |   |   | dan |   |   |    |        326-03 | 2:context |          |  |1310|    |    |    |
+| w   |        |             | xNP | Svendsen    |   | swenss(øn)         | ſwenſ          |   |   |   |   | dan |   |   |    |        326-03 | 2:context |          |  |1310|    |    |    |
 | PE  | e      | ÅstSve001   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | thær        | xRP | der         |   | thær               | thær            |   |   |   |   | dan |   |   |    |        326-03 | 2:context |          |  |    |    |    |    |
 | w   |        | bo          | xVB | bor         |   | boor               | booꝛ            |   |   |   |   | dan |   |   |    |        326-03 | 2:context |          |  |    |    |    |    |
@@ -208,8 +208,8 @@
 | w   |        | thæn        | xAT | den         |   | th(er)             | th             |   |   |   |   | dan |   |   |    |        326-07 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd    | xAJ | fornævnte   |   | for(nefnde)        | foꝛͩͤ             |   |   |   |   | dan |   |   |    |        326-07 | 2:context |          |  |    |    |    |    |
 | PE | b | ÅstSve001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Åstred      |   | astradh            | aſtradh         |   |   |   |   | dan |   |   |    |        326-07 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Svendsen    |   | swenss(øn)         | ſwens          |   |   |   |   | dan |   |   |    |        326-07 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Åstred      |   | astradh            | aſtradh         |   |   |   |   | dan |   |   |    |        326-07 | 2:context |          |  |1311|    |    |    |
+| w   |        |             | xNP | Svendsen    |   | swenss(øn)         | ſwens          |   |   |   |   | dan |   |   |    |        326-07 | 2:context |          |  |1311|    |    |    |
 | PE | e | ÅstSve001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | have        | xVB | havde       |   | hafdhæ             | hafdhæ          |   |   |   |   | dan |   |   |    |        326-07 | 2:context |          |  |    |    |    |    |
 | w   |        | fran        | xAP | fra         |   | fran               | fra            |   |   |   |   | dan |   |   |    |        326-07 | 2:context |          |  |    |    |    |    |
@@ -288,8 +288,8 @@
 | w   |        | thæn        | xAT | den         |   | thæn               | thæn            |   |   |   |   | dan |   |   |    |        326-10 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd    | xAJ | fornævnte   |   | for(nefnde)        | foꝛͩͤ             |   |   |   |   | dan |   |   |    |        326-10 | 2:context |          |  |    |    |    |    |
 | PE  | b      | ÅstSve001   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Åstred      |   | astradh            | aſtradh         |   |   |   |   | dan |   |   |    |        326-10 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Svendsen    |   | swenss(øn)         | ſwens          |   |   |   |   | dan |   |   |    |        326-10 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Åstred      |   | astradh            | aſtradh         |   |   |   |   | dan |   |   |    |        326-10 | 2:context |          |  |1312|    |    |    |
+| w   |        |             | xNP | Svendsen    |   | swenss(øn)         | ſwens          |   |   |   |   | dan |   |   |    |        326-10 | 2:context |          |  |1312|    |    |    |
 | PE  | e      | ÅstSve001   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og          |   | ok                 | ok              |   |   |   |   | dan |   |   |    |        326-10 | 2:context |          |  |    |    |    |    |
 | w   |        | han         | xPE | hans        |   | hans               | han            |   |   |   |   | dan |   |   |    |        326-10 | 2:context |          |  |    |    |    |    |
@@ -323,8 +323,8 @@
 | w   |        |             | lat |             |   | v(idelicet)        | vꝫ              |   |   |   |   | lat |   |   |    |        326-12 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |             | lat |             |   | d(omi)ni           | dn̅ı             |   |   |   |   | lat |   |   |    |        326-12 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | HenMol003   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | lat |             |   | joha(nn)is         | ȷoha̅ı          |   |   |   |   | lat |   |   |    |        326-12 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | lat |             |   | møltekæ            | møltekæ         |   |   |   |   | dan |   |   |    |        326-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | lat |             |   | joha(nn)is         | ȷoha̅ı          |   |   |   |   | lat |   |   |    |        326-12 | 3:eschatocol |          |  |1313|    |    |    |
+| w   |        |             | lat |             |   | møltekæ            | møltekæ         |   |   |   |   | dan |   |   |    |        326-12 | 3:eschatocol |          |  |1313|    |    |    |
 | PE  | e      | HenMol003   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |             | lat |             |   | de                 | de              |   |   |   |   | lat |   |   |    |        326-12 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -332,14 +332,14 @@
 | PL  | e      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |             | lat |             |   | d(omi)ni           | dn̅ı             |   |   |   |   | lat |   |   |    |        326-12 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | JenPed005   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | lat |             |   | joha(nn)is         | ȷoha̅ı          |   |   |   |   | lat |   |   |    |        326-12 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | lat |             |   | fynkkenow          | fynkkenow       |   |   |   |   | dan |   |   |    |        326-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | lat |             |   | joha(nn)is         | ȷoha̅ı          |   |   |   |   | lat |   |   |    |        326-12 | 3:eschatocol |          |  |1314|    |    |    |
+| w   |        |             | lat |             |   | fynkkenow          | fynkkenow       |   |   |   |   | dan |   |   |    |        326-12 | 3:eschatocol |          |  |1314|    |    |    |
 | PE  | e      | JenPed005   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |             | lat |             |   | militu(m)          | mılıtu̅          |   |   |   |   | lat |   |   |    |        326-12 | 3:eschatocol |          |  |    |    |    |    |
 | p   |        |             |     |             |   | .                  | .               |   |   |   |   | lat |   |   |    |        326-12 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | JenKnu002   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | lat |             |   | joha(nn)is         | ȷoha̅ı          |   |   |   |   | lat |   |   |    |        326-12 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | lat |             |   | kanuti             | kanutı          |   |   |   |   | lat |   |   |    |        326-12 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | lat |             |   | joha(nn)is         | ȷoha̅ı          |   |   |   |   | lat |   |   |    |        326-12 | 3:eschatocol |          |  |1315|    |    |    |
+| w   |        |             | lat |             |   | kanuti             | kanutı          |   |   |   |   | lat |   |   |    |        326-12 | 3:eschatocol |          |  |1315|    |    |    |
 | PE  | e      | JenKnu002   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | lm  | 326-13 |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |             | lat |             |   | de                 | de              |   |   |   |   | lat |   |   |    |        326-13 | 3:eschatocol |          |  |    |    |    |    |
@@ -347,8 +347,8 @@
 | w   |        |             | lat |             |   | vidhfwglæbiærgh    | vıdhfwglæbıærgh |   |   |   |   | dan |   |   |    |        326-13 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | e      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | PE  | b      | EriTho001   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | lat |             |   | erici              | erıcı           |   |   |   |   | lat |   |   |    |        326-13 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | lat |             |   | tomæss(øn)         | tomæſ          |   |   |   |   | dan |   |   |    |        326-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | lat |             |   | erici              | erıcı           |   |   |   |   | lat |   |   |    |        326-13 | 3:eschatocol |          |  |1316|    |    |    |
+| w   |        |             | lat |             |   | tomæss(øn)         | tomæſ          |   |   |   |   | dan |   |   |    |        326-13 | 3:eschatocol |          |  |1316|    |    |    |
 | PE  | e      | EriTho001   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |             | lat |             |   | de                 | de              |   |   |   |   | lat |   |   |    |        326-13 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -356,8 +356,8 @@
 | PL  | e      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | p   |        |             |     |             |   | .                  | .               |   |   |   |   | lat |   |   |    |        326-13 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | PedTro001   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | lat |             |   | pet(ri)            | pet            |   |   |   |   | lat |   |   |    |        326-13 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | lat |             |   | t(ur)gilli         | t᷑gıllı          |   |   |   |   | lat |   |   |    |        326-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | lat |             |   | pet(ri)            | pet            |   |   |   |   | lat |   |   |    |        326-13 | 3:eschatocol |          |  |1317|    |    |    |
+| w   |        |             | lat |             |   | t(ur)gilli         | t᷑gıllı          |   |   |   |   | lat |   |   |    |        326-13 | 3:eschatocol |          |  |1317|    |    |    |
 | PE  | e      | PedTro001   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |             | lat |             |   | aduocati           | aduocatı        |   |   |   |   | lat |   |   |    |        326-13 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |             | lat |             |   | cast(ri)           | caſt           |   |   |   |   | lat |   |   |    |        326-13 | 3:eschatocol |          |  |    |    |    |    |
@@ -365,27 +365,27 @@
 | w   |        |             | lat |             |   | helsingborgh       | helſíngboꝛgh    |   |   |   |   | lat |   |   |    |        326-13 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | e      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | PE  | b      | NieLun001   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | lat |             |   | nicolaj            | nıcolaȷ         |   |   |   |   | lat |   |   |    |        326-13 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | lat |             |   | lwngæ              | lwngæ           |   |   |   |   | dan |   |   |    |        326-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | lat |             |   | nicolaj            | nıcolaȷ         |   |   |   |   | lat |   |   |    |        326-13 | 3:eschatocol |          |  |1318|    |    |    |
+| w   |        |             | lat |             |   | lwngæ              | lwngæ           |   |   |   |   | dan |   |   |    |        326-13 | 3:eschatocol |          |  |1318|    |    |    |
 | PE  | e      | NieLun001   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | p   |        |             |     |             |   | .                  | .               |   |   |   |   | lat |   |   |    |        326-13 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | EriHåg001   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | lat |             |   | erici              | erıcı           |   |   |   |   | lat |   |   |    |        326-13 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | lat |             |   | Haq(ui)ni          | Haqnı          |   |   |   |   | lat |   |   |    |        326-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | lat |             |   | erici              | erıcı           |   |   |   |   | lat |   |   |    |        326-13 | 3:eschatocol |          |  |1319|    |    |    |
+| w   |        |             | lat |             |   | Haq(ui)ni          | Haqnı          |   |   |   |   | lat |   |   |    |        326-13 | 3:eschatocol |          |  |1319|    |    |    |
 | PE  | e      | EriHåg001   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | PE  | b      | PouSti001   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | lat |             |   | pau¦li             | pau¦lı          |   |   |   |   | lat |   |   |    | 326-13—326-14 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | lat |             |   | stixs(øn)          | ſtıx           |   |   |   |   | dan |   |   |    |        326-14 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | lat |             |   | pau¦li             | pau¦lı          |   |   |   |   | lat |   |   |    | 326-13—326-14 | 3:eschatocol |          |  |1320|    |    |    |
+| w   |        |             | lat |             |   | stixs(øn)          | ſtıx           |   |   |   |   | dan |   |   |    |        326-14 | 3:eschatocol |          |  |1320|    |    |    |
 | PE  | e      | PouSti001   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |             | lat |             |   | armig(er)or(um)    | armıgoꝝ        |   |   |   |   | lat |   |   |    |        326-14 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | JakNie004   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | lat |             |   | jacobi             | ȷacobı          |   |   |   |   | lat |   |   |    |        326-14 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | lat |             |   | reentaf            | reentaf         |   |   |   |   | dan |   |   |    |        326-14 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | lat |             |   | jacobi             | ȷacobı          |   |   |   |   | lat |   |   |    |        326-14 | 3:eschatocol |          |  |1321|    |    |    |
+| w   |        |             | lat |             |   | reentaf            | reentaf         |   |   |   |   | dan |   |   |    |        326-14 | 3:eschatocol |          |  |1321|    |    |    |
 | PE  | e      | JakNie004   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |             | lat |             |   | (et)               |                |   |   |   |   | lat |   |   |    |        326-14 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | AndSve001   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | lat |             |   | and(r)e            | ande           |   |   |   |   | lat |   |   |    |        326-14 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |             | lat |             |   | swenonis           | ſwenonı        |   |   |   |   | lat |   |   |    |        326-14 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             | lat |             |   | and(r)e            | ande           |   |   |   |   | lat |   |   |    |        326-14 | 3:eschatocol |          |  |1322|    |    |    |
+| w   |        |             | lat |             |   | swenonis           | ſwenonı        |   |   |   |   | lat |   |   |    |        326-14 | 3:eschatocol |          |  |1322|    |    |    |
 | PE  | e      | AndSve001   |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |             | lat |             |   | de                 | de              |   |   |   |   | lat |   |   |    |        326-14 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |             |     |             |   |                    |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |

@@ -59,7 +59,7 @@
 | w   |        |   |   |   |   | ke(n)nis         | ke̅nı            |    |   |   |   | swe |   |   |    |        403-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Jach             | Jach             |    |   |   |   | swe |   |   |    |        403-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | EriKyt001  |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Eric(us)         | Eric            |    |   |   |   | lat |   |   |    |        403-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Eric(us)         | Eric            |    |   |   |   | lat |   |   |    |        403-01 | 1:protocol |          |  |1773|    |    |    |
 | PE  | e      | EriKyt001  |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | j                | j                |    |   |   |   | swe |   |   |    |        403-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -118,8 +118,8 @@
 | w   |        |   |   |   |   | kallis           | kalli           |    |   |   |   | swe |   |   |    |        403-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | vnga             | vnga             |    |   |   |   | swe |   |   |    |        403-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | HanBag001  |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | hans             | han             |    |   |   |   | swe |   |   |    |        403-04 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | bage(r)          | bage            |    |   |   |   | swe |   |   |    |        403-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | hans             | han             |    |   |   |   | swe |   |   |    |        403-04 | 2:context |          |  |1774|    |    |    |
+| w   |        |   |   |   |   | bage(r)          | bage            |    |   |   |   | swe |   |   |    |        403-04 | 2:context |          |  |1774|    |    |    |
 | PE  | e      | HanBag001  |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /                | /                |    |   |   |   | swe |   |   |    |        403-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | et               | et               |    |   |   |   | swe |   |   |    |        403-04 | 2:context |          |  |    |    |    |    |
@@ -190,7 +190,7 @@
 | w   |        |   |   |   |   | jach             | ȷach             |    |   |   |   | swe |   |   |    |        403-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | for(nefnde)      | foꝛͩͤ              |    |   |   |   | swe |   |   |    |        403-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | EriKyt001  |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Eric(us)         | Eric            |    |   |   |   | lat |   |   |    |        403-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Eric(us)         | Eric            |    |   |   |   | lat |   |   |    |        403-07 | 2:context |          |  |1775|    |    |    |
 | PE  | e      | EriKyt001  |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ke(n)nis         | ke̅ni            |    |   |   |   | swe |   |   |    |        403-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | mik              | mik              |    |   |   |   | swe |   |   |    |        403-07 | 2:context |          |  |    |    |    |    |
@@ -221,8 +221,8 @@
 | w   |        |   |   |   |   | for(nefnde)      | foꝛͩͤ              |    |   |   |   | swe |   |   |    |        403-09 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | vnge             | vnge             |    |   |   |   | swe |   |   |    |        403-09 | 2:context |          |  |    |    |    |    |
 | PE  | b      | HanBag001  |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | hans             | han             |    |   |   |   | swe |   |   |    |        403-09 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | bake(r)e         | bakee           |    |   |   |   | swe |   |   |    |        403-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | hans             | han             |    |   |   |   | swe |   |   |    |        403-09 | 2:context |          |  |1776|    |    |    |
+| w   |        |   |   |   |   | bake(r)e         | bakee           |    |   |   |   | swe |   |   |    |        403-09 | 2:context |          |  |1776|    |    |    |
 | PE  | e      | HanBag001  |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | for              | foꝛ              |    |   |   |   | swe |   |   |    |        403-09 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | goda             | goda             |    |   |   |   | swe |   |   |    |        403-09 | 2:context |          |  |    |    |    |    |
@@ -264,8 +264,8 @@
 | w   |        |   |   |   |   | for(nefnde)      | foꝛͩͤ              |    |   |   |   | swe |   |   |    |        403-10 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Vn¦ga            | Vn¦ga            |    |   |   |   | swe |   |   |    | 403-10—403-11 | 2:context |          |  |    |    |    |    |
 | PE  | b      | HanBag001  |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | hans             | han             |    |   |   |   | swe |   |   |    |        403-11 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | bager(e)         | bageꝛ           |    |   |   |   | swe |   |   |    |        403-11 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | hans             | han             |    |   |   |   | swe |   |   |    |        403-11 | 2:context |          |  |1777|    |    |    |
+| w   |        |   |   |   |   | bager(e)         | bageꝛ           |    |   |   |   | swe |   |   |    |        403-11 | 2:context |          |  |1777|    |    |    |
 | PE  | e      | HanBag001  |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | oc               | oc               |    |   |   |   | swe |   |   |    |        403-11 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | hans             | han             |    |   |   |   | swe |   |   |    |        403-11 | 2:context |          |  |    |    |    |    |
@@ -323,7 +323,7 @@
 | w   |        |   |   |   |   | jach             | ȷach             |    |   |   |   | swe |   |   |    |        403-13 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | for(nefnde)      | foꝛͩͤ              |    |   |   |   | swe |   |   |    |        403-13 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | EriKyt001  |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Eric(us)         | Eric            |    |   |   |   | lat |   |   |    |        403-13 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Eric(us)         | Eric            |    |   |   |   | lat |   |   |    |        403-13 | 3:eschatocol |          |  |1778|    |    |    |
 | PE  | e      | EriKyt001  |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | i                | i                |    |   |   |   | swe |   |   |    |        403-13 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -365,8 +365,8 @@
 | w   |        |   |   |   |   | som              | ſo              |    |   |   |   | swe |   |   |    |        403-15 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ær(e)            | æꝛ              |    |   |   |   | swe |   |   |    |        403-15 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | HanDeg001  |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | hans             | han             |    |   |   |   | swe |   |   |    |        403-15 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | degen(er)        | degen           |    |   |   |   | swe |   |   |    |        403-15 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | hans             | han             |    |   |   |   | swe |   |   |    |        403-15 | 3:eschatocol |          |  |1779|    |    |    |
+| w   |        |   |   |   |   | degen(er)        | degen           |    |   |   |   | swe |   |   |    |        403-15 | 3:eschatocol |          |  |1779|    |    |    |
 | PE  | e      | HanDeg001  |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | radhma(n)        | radhma̅           |    |   |   |   | swe |   |   |    |        403-15 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | j                | ȷ                |    |   |   |   | swe |   |   |    |        403-15 | 3:eschatocol |          |  |    |    |    |    |
@@ -375,23 +375,23 @@
 | PL  | e      |   |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                | .                |    |   |   |   | swe |   |   |    |        403-15 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | NiePed009  |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | niels            | niel            |    |   |   |   | swe |   |   |    |        403-15 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | pederss(øn)      | pedeꝛſ          |    |   |   |   | swe |   |   |    |        403-15 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | niels            | niel            |    |   |   |   | swe |   |   |    |        403-15 | 3:eschatocol |          |  |1780|    |    |    |
+| w   |        |   |   |   |   | pederss(øn)      | pedeꝛſ          |    |   |   |   | swe |   |   |    |        403-15 | 3:eschatocol |          |  |1780|    |    |    |
 | PE  | e      | NiePed009  |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                | .                |    |   |   |   | swe |   |   |    |        403-15 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | AndDiæ001  |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Anders           | Andeꝛ           |    |   |   |   | swe |   |   |    |        403-15 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Diækn            | Diæk            |    |   |   |   | swe |   |   |    |        403-15 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Anders           | Andeꝛ           |    |   |   |   | swe |   |   |    |        403-15 | 3:eschatocol |          |  |1781|    |    |    |
+| w   |        |   |   |   |   | Diækn            | Diæk            |    |   |   |   | swe |   |   |    |        403-15 | 3:eschatocol |          |  |1781|    |    |    |
 | PE  | e      | AndDiæ001  |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | PE  | b      | TjeØst001  |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | thielffua        | thielffua        |    |   |   |   | swe |   |   |    |        403-15 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | thielffua        | thielffua        |    |   |   |   | swe |   |   |    |        403-15 | 3:eschatocol |          |  |1782|    |    |    |
 | lm  | 403-16 |   |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | østanss(øn)      | østanſ          |    |   |   |   | swe |   |   |    |        403-16 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | østanss(øn)      | østanſ          |    |   |   |   | swe |   |   |    |        403-16 | 3:eschatocol |          |  |1782|    |    |    |
 | PE  | e      | TjeØst001  |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | och              | och              |    |   |   |   | swe |   |   |    |        403-16 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | ThoLau001  |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | thomas           | thoma           |    |   |   |   | swe |   |   |    |        403-16 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | laurenss(øn)     | laurenſ         |    |   |   |   | swe |   |   |    |        403-16 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | thomas           | thoma           |    |   |   |   | swe |   |   |    |        403-16 | 3:eschatocol |          |  |1783|    |    |    |
+| w   |        |   |   |   |   | laurenss(øn)     | laurenſ         |    |   |   |   | swe |   |   |    |        403-16 | 3:eschatocol |          |  |1783|    |    |    |
 | PE  | e      | ThoLau001  |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | borger(er)       | boꝛger          |    |   |   |   | swe |   |   |    |        403-16 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | th(e)r           | thꝛ             |    |   |   |   | swe |   |   |    |        403-16 | 3:eschatocol |          |  |    |    |    |    |
@@ -424,9 +424,9 @@
 | w   |        |   |   |   |   | norda(n)         | noꝛda̅            |    |   |   |   | swe |   |   |    |        403-17 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | vidh(e)r         | vıdhꝛ           |    |   |   |   | swe |   |   |    |        403-17 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | hans             | hans             |    |   |   |   | swe |   |   |    |        403-17 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | hans             | hans             |    |   |   |   | swe |   |   |    |        403-17 | 3:eschatocol |          |  |1784|    |    |    |
 | lm  | 403-18 |   |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | wardborg(is)     | waꝛdboꝛgꝭ        |    |   |   |   | swe |   |   |    |        403-18 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | wardborg(is)     | waꝛdboꝛgꝭ        |    |   |   |   | swe |   |   |    |        403-18 | 3:eschatocol |          |  |1784|    |    |    |
 | PE  | e      |   |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | stenhus          | ſtenhus          |    |   |   |   | swe |   |   |    |        403-18 | 3:eschatocol |          |  |    |    |    |    |
 | d  | e      | 3  |   |   |   |                  |                  |    |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |

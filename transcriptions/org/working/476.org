@@ -44,7 +44,7 @@
 | lm  | 476-01 |   |   |   |   |                   |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | d  | b      | 1  |   | protocol  |   |                   |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                   |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | E(ricus)          | .          |   |   |   |   | lat |   |   |   | 476-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | E(ricus)          | .          |   |   |   |   | lat |   |   |   | 476-01 | 1:protocol |          |  |3099|    |    |    |
 | PE  | e      |   |   |   |   |                   |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(e)i             | dı̅          |   |   |   |   | lat |   |   |   | 476-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | g(racia)          | g          |   |   |   |   | lat |   |   |   | 476-01 | 1:protocol |          |  |    |    |    |    |
@@ -81,8 +81,8 @@
 | p   |        |   |   |   |   | .                 | .           |   |   |   |   | lat |   |   |   | 476-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | A                 |            |   |   |   |   | lat |   |   |   | 476-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                   |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | c(ri)stina        | cﬅína      |   |   |   |   | lat |   |   |   | 476-03 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | krooz             | krooz       |   |   |   |   | lat |   |   |   | 476-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | c(ri)stina        | cﬅína      |   |   |   |   | lat |   |   |   | 476-03 | 2:context |          |  |3100|    |    |    |
+| w   |        |   |   |   |   | krooz             | krooz       |   |   |   |   | lat |   |   |   | 476-03 | 2:context |          |  |3100|    |    |    |
 | PE  | e      |   |   |   |   |                   |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | iusto             | íuﬅo        |   |   |   |   | lat |   |   |   | 476-03 | 2:context |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                 | .           |   |   |   |   | lat |   |   |   | 476-03 | 2:context |          |  |    |    |    |    |
@@ -116,7 +116,7 @@
 | w   |        |   |   |   |   | lat(ori)          | lat͛         |   |   |   |   | lat |   |   |   | 476-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | presen(cium)      | pꝛeſen̅      |   |   |   |   | lat |   |   |   | 476-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                   |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Iohanni           | Iohanní     |   |   |   |   | lat |   |   |   | 476-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Iohanni           | Iohanní     |   |   |   |   | lat |   |   |   | 476-05 | 2:context |          |  |3101|    |    |    |
 | PE  | e      |   |   |   |   |                   |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | filio             | fılío       |   |   |   |   | lat |   |   |   | 476-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | suo               | ſuo         |   |   |   |   | lat |   |   |   | 476-05 | 2:context |          |  |    |    |    |    |
@@ -126,8 +126,8 @@
 | w   |        |   |   |   |   | Ab                | b          |   |   |   |   | lat |   |   |   | 476-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | impetic(i)o(n)e   | ímpetıc̅oe   |   |   |   |   | lat |   |   |   | 476-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      |   |   |   |   |                   |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | laure(n)cii       | laure̅cíí    |   |   |   |   | lat |   |   |   | 476-06 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | holebek           | holebek     |   |   |   |   | lat |   |   |   | 476-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | laure(n)cii       | laure̅cíí    |   |   |   |   | lat |   |   |   | 476-06 | 2:context |          |  |3102|    |    |    |
+| w   |        |   |   |   |   | holebek           | holebek     |   |   |   |   | lat |   |   |   | 476-06 | 2:context |          |  |3102|    |    |    |
 | PE  | e      |   |   |   |   |                   |             |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (et)              |            |   |   |   |   | lat |   |   |   | 476-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | alt(er)i(us)      | alt͛ıꝰ       |   |   |   |   | lat |   |   |   | 476-06 | 2:context |          |  |    |    |    |    |

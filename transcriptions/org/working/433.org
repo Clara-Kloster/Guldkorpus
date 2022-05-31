@@ -55,9 +55,9 @@
 | w   |        | jak         | xPE | jeg         |   | ieg           | ıeg           |            |   |   |          | dan |   |   |    |        433-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | syster      | xNC | søster      |   | søst(er)      | ſøſtꝭ         |            |   |   |          | dan |   |   |    |        433-01 | 1:protocol |          |  |    |    |    |    |
 | PE  |      b | EliAnd002   |     |             |   |               |               |            |   |   |          |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Eline       |   | illinæ        | ıllınæ        |            |   |   |          | dan |   |   |    |        433-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Anders      |   | anders        | andeꝛ        |            |   |   |          | dan |   |   |    |        433-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        | dotter      | xNC | datter      |   | dott(er)      | dott         |            |   |   |          | dan |   |   |    |        433-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Eline       |   | illinæ        | ıllınæ        |            |   |   |          | dan |   |   |    |        433-01 | 1:protocol |          |  |2063|    |    |    |
+| w   |        |             | xNP | Anders      |   | anders        | andeꝛ        |            |   |   |          | dan |   |   |    |        433-01 | 1:protocol |          |  |2063|    |    |    |
+| w   |        | dotter      | xNC | datter      |   | dott(er)      | dott         |            |   |   |          | dan |   |   |    |        433-01 | 1:protocol |          |  |2063|    |    |    |
 | PE  |      e | EliAnd002   |     |             |   |               |               |            |   |   |          |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | abbetisse   | xNC | abbedisse   |   | abb(atiss)æ   | abb̅æ          |            |   |   |          | dan |   |   |    |        433-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i           | xAP | i           |   | i             | i             |            |   |   |          | dan |   |   |    |        433-01 | 1:protocol |          |  |    |    |    |    |
@@ -113,8 +113,8 @@
 | w   |        | ærlik       | xAJ | ærlig       |   | ærlegh        | æꝛlegh        |            |   |   |          | dan |   |   |    |        433-03 | 2:context |          |  |    |    |    |    |
 | w   |        | man         | xNC | mand        |   | man           | ma           |            |   |   |          | dan |   |   |    |        433-03 | 2:context |          |  |    |    |    |    |
 | PE  |      b | JepNie002   |     |             |   |               |               |            |   |   |          |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Jep         |   | Jæp           | Jæp           |            |   |   |          | dan |   |   |    |        433-03 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Nielsen     |   | nielss(øn)    | nielſ        |            |   |   |          | dan |   |   |    |        433-03 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Jep         |   | Jæp           | Jæp           |            |   |   |          | dan |   |   |    |        433-03 | 2:context |          |  |2064|    |    |    |
+| w   |        |             | xNP | Nielsen     |   | nielss(øn)    | nielſ        |            |   |   |          | dan |   |   |    |        433-03 | 2:context |          |  |2064|    |    |    |
 | PE  |      e | JepNie002   |     |             |   |               |               |            |   |   |          |     |   |   |    |               |          |          |  |    |    |    |    |
 | lm  | 433-04 |             |     |             |   |               |               |            |   |   |          |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | burghere    | xNC | borger      |   | burwæræ       | buꝛwæræ       |            |   |   |          | dan |   |   |    |        433-04 | 2:context |          |  |    |    |    |    |

@@ -45,8 +45,8 @@ Roskilde Kapitels Arkiv
 | d   | b      | 1              |     | protocol        |   |                     |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | vi             | xPE | vi              |   | Wii                 | Wii             |   |   |   |   | dan |   |   |    |        406-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | OluMor001      |     |                 |   |                     |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |                | xNP | Oluf            |   | Olaff               | Olaff           |   |   |   |   | dan |   |   |    |        406-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |                | xNP | Mortensen       |   | Morth(e)nss(øn)     | Moꝛthnſ       |   |   |   |   | dan |   |   |    |        406-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |                | xNP | Oluf            |   | Olaff               | Olaff           |   |   |   |   | dan |   |   |    |        406-01 | 1:protocol |          |  |1804|    |    |    |
+| w   |        |                | xNP | Mortensen       |   | Morth(e)nss(øn)     | Moꝛthnſ       |   |   |   |   | dan |   |   |    |        406-01 | 1:protocol |          |  |1804|    |    |    |
 | PE  | e      | OluMor001      |     |                 |   |                     |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | mæth           | xAP | med             |   | m(et)               | mꝫ              |   |   |   |   | dan |   |   |    |        406-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | guth           | xNC | Guds            |   | gudz                | gudz            |   |   |   |   | dan |   |   |    |        406-01 | 1:protocol |          |  |    |    |    |    |
@@ -72,8 +72,8 @@ Roskilde Kapitels Arkiv
 | w   |        | guth           | xNC | Gud             |   | gud                 | gud             |   |   |   |   | dan |   |   |    |        406-02 | 2:context |          |  |    |    |    |    |
 | w   |        | biskop         | xNC | biskop          |   | Bescop              | Beſcop          |   |   |   |   | dan |   |   |    |        406-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      | OluDaa001      |     |                 |   |                     |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |                | xNP | Oluf            |   | Olaff               | Olaff           |   |   |   |   | dan |   |   |    |        406-02 | 2:context |          |  |    |    |    |    |
-| w   |        |                | xNP | Daa             |   | daa                 | daa             |   |   |   |   | dan |   |   |    |        406-02 | 2:context |          |  |    |    |    |    |
+| w   |        |                | xNP | Oluf            |   | Olaff               | Olaff           |   |   |   |   | dan |   |   |    |        406-02 | 2:context |          |  |1805|    |    |    |
+| w   |        |                | xNP | Daa             |   | daa                 | daa             |   |   |   |   | dan |   |   |    |        406-02 | 2:context |          |  |1805|    |    |    |
 | PE  | e      | OluDaa001      |     |                 |   |                     |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | var            | xDP | vor             |   | wor                 | woꝛ             |   |   |   |   | dan |   |   |    |        406-02 | 2:context |          |  |    |    |    |    |
 | w   |        | forfather      | xNC | forfader        |   | forfadh(e)r         | foꝛfadhꝛ       |   |   |   |   | dan |   |   |    |        406-02 | 2:context |          |  |    |    |    |    |
@@ -471,7 +471,7 @@ Roskilde Kapitels Arkiv
 | w   |        | af             | xAP | af              |   | aff                 | aff             |   |   |   |   | dan |   |   |    |        406-21 | 2:context |          |  |    |    |    |    |
 | w   |        | husfrue        | xNC | husfrue         |   | husfrwe             | huſfrwe         |   |   |   |   | dan |   |   |    |        406-21 | 2:context |          |  |    |    |    |    |
 | PE  | b      | TalXxx001      |     |                 |   |                     |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |                | xNP | tale            |   | talæ                | talæ            |   |   |   |   | dan |   |   |    |        406-21 | 2:context |          |  |    |    |    |    |
+| w   |        |                | xNP | tale            |   | talæ                | talæ            |   |   |   |   | dan |   |   |    |        406-21 | 2:context |          |  |1806|    |    |    |
 | PE  | e      | TalXxx001      |     |                 |   |                     |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | i              | xAP | i               |   | j                   | ȷ               |   |   |   |   | dan |   |   |    |        406-21 | 2:context |          |  |    |    |    |    |
 | PL  | b      |                |     |                 |   |                     |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -501,8 +501,8 @@ Roskilde Kapitels Arkiv
 | w   |        | forfather      | xNC | forfader        |   | forfadh(e)r         | foꝛfadhꝛ̅        |   |   |   |   | dan |   |   |    |        406-23 | 2:context |          |  |    |    |    |    |
 | w   |        | biskop         | xNC | biskop          |   | Bescop              | Beſcop          |   |   |   |   | dan |   |   |    |        406-23 | 2:context |          |  |    |    |    |    |
 | PE  | b      | OluDaa001      |     |                 |   |                     |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |                | xNP | Oluf            |   | olaff               | olaff           |   |   |   |   | dan |   |   |    |        406-23 | 2:context |          |  |    |    |    |    |
-| w   |        |                | xNP | Daa             |   | daa                 | daa             |   |   |   |   | dan |   |   |    |        406-23 | 2:context |          |  |    |    |    |    |
+| w   |        |                | xNP | Oluf            |   | olaff               | olaff           |   |   |   |   | dan |   |   |    |        406-23 | 2:context |          |  |1807|    |    |    |
+| w   |        |                | xNP | Daa             |   | daa                 | daa             |   |   |   |   | dan |   |   |    |        406-23 | 2:context |          |  |1807|    |    |    |
 | PE  | e      | OluDaa001      |     |                 |   |                     |                 |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | give           | xVB | gav             |   | gaff                | gaff            |   |   |   |   | dan |   |   |    |        406-23 | 2:context |          |  |    |    |    |    |
 | w   |        | skøte          | xVB | skødte          |   | skøtte              | ſkøtte          |   |   |   |   | dan |   |   |    |        406-23 | 2:context |          |  |    |    |    |    |

@@ -49,8 +49,8 @@
 | w   |        |           |   |   |   | c(er)nentib(us)       | cnentıbꝫ        |   |   |   |                         | lat |   |   |   | 318-01 | 1:protocol |          |  |    |    |    |    |
 | p   |        |           |   |   |   | /                     | /                |   |   |   |                         | lat |   |   |   | 318-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | SveJak002 |   |   |   |                       |                  |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |           |   |   |   | Sweno                 | Sweno            |   |   |   |                         | lat |   |   |   | 318-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |           |   |   |   | iocabj                | ıocabj           |   |   |   |                         | lat |   |   |   | 318-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |           |   |   |   | Sweno                 | Sweno            |   |   |   |                         | lat |   |   |   | 318-01 | 1:protocol |          |  |1262|    |    |    |
+| w   |        |           |   |   |   | iocabj                | ıocabj           |   |   |   |                         | lat |   |   |   | 318-01 | 1:protocol |          |  |1262|    |    |    |
 | PE  | e      | SveJak002 |   |   |   |                       |                  |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |           |   |   |   | in                    | ín               |   |   |   |                         | lat |   |   |   | 318-01 | 1:protocol |          |  |    |    |    |    |
 | PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -91,13 +91,13 @@
 | w   |        |           |   |   |   | meis                  | meı             |   |   |   |                         | lat |   |   |   | 318-03 | 2:context |          |  |    |    |    |    |
 | w   |        |           |   |   |   | .v(idelicet).         | .ỽꝫ.             |   |   |   |                         | lat |   |   |   | 318-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AndSve001 |   |   |   |                       |                  |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |           |   |   |   | andrea                | andrea           |   |   |   |                         | lat |   |   |   | 318-03 | 2:context |          |  |    |    |    |    |
-| w   |        |           |   |   |   | swenonis              | ſwenoni         |   |   |   |                         | lat |   |   |   | 318-03 | 2:context |          |  |    |    |    |    |
+| w   |        |           |   |   |   | andrea                | andrea           |   |   |   |                         | lat |   |   |   | 318-03 | 2:context |          |  |1263|    |    |    |
+| w   |        |           |   |   |   | swenonis              | ſwenoni         |   |   |   |                         | lat |   |   |   | 318-03 | 2:context |          |  |1263|    |    |    |
 | PE  | e      | AndSve001 |   |   |   |                       |                  |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |           |   |   |   | (et)                  | ⁊                |   |   |   |                         | lat |   |   |   | 318-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | ÅstSve001 |   |   |   |                       |                  |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |           |   |   |   | ostrado               | oﬅrado           |   |   |   |                         | lat |   |   |   | 318-03 | 2:context |          |  |    |    |    |    |
-| w   |        |           |   |   |   | swenon&iaccute;s      | ſwenon&iaccute; |   |   |   |                         | lat |   |   |   | 318-03 | 2:context |          |  |    |    |    |    |
+| w   |        |           |   |   |   | ostrado               | oﬅrado           |   |   |   |                         | lat |   |   |   | 318-03 | 2:context |          |  |1264|    |    |    |
+| w   |        |           |   |   |   | swenon&iaccute;s      | ſwenon&iaccute; |   |   |   |                         | lat |   |   |   | 318-03 | 2:context |          |  |1264|    |    |    |
 | PE  | e      | ÅstSve001 |   |   |   |                       |                  |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |           |   |   |   | tale(st)              | tale̅             |   |   |   |                         | lat |   |   |   | 318-03 | 2:context |          |  |    |    |    |    |
 | w   |        |           |   |   |   | diui&slongione(st)    | diui&slongıone̅   |   |   |   |                         | lat |   |   |   | 318-03 | 2:context |          |  |    |    |    |    |
@@ -134,9 +134,9 @@
 | w   |        |           |   |   |   | libere                | lıbere           |   |   |   |                         | lat |   |   |   | 318-05 | 2:context |          |  |    |    |    |    |
 | w   |        |           |   |   |   | cedat                 | cedat            |   |   |   |                         | lat |   |   |   | 318-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AndSve001 |   |   |   |                       |                  |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |           |   |   |   | and(e)e               | andͤe             |   |   |   |                         | lat |   |   |   | 318-05 | 2:context |          |  |    |    |    |    |
+| w   |        |           |   |   |   | and(e)e               | andͤe             |   |   |   |                         | lat |   |   |   | 318-05 | 2:context |          |  |2459|    |    |    |
 | lm  | 318-06 |           |   |   |   |                       |                  |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |           |   |   |   | swenonis              | ſwenoni         |   |   |   |                         | lat |   |   |   | 318-06 | 2:context |          |  |    |    |    |    |
+| w   |        |           |   |   |   | swenonis              | ſwenoni         |   |   |   |                         | lat |   |   |   | 318-06 | 2:context |          |  |2459|    |    |    |
 | PE  | e      | AndSve001 |   |   |   |                       |                  |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |           |   |   |   | p(er)petue            | p̲petue           |   |   |   |                         | lat |   |   |   | 318-06 | 2:context |          |  |    |    |    |    |
 | w   |        |           |   |   |   | possidenda            | poıdenda        |   |   |   |                         | lat |   |   |   | 318-06 | 2:context |          |  |    |    |    |    |
@@ -167,8 +167,8 @@
 | w   |        |           |   |   |   | cedat                 | cedat            |   |   |   |                         | lat |   |   |   | 318-07 | 2:context |          |  |    |    |    |    |
 | p   |        |           |   |   |   | .                     | .                |   |   |   |                         | lat |   |   |   | 318-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | ÅstSve001 |   |   |   |                       |                  |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |           |   |   |   | ostrado               | oﬅrado           |   |   |   |                         | lat |   |   |   | 318-07 | 2:context |          |  |    |    |    |    |
-| w   |        |           |   |   |   | swenonis              | ſwenoni         |   |   |   |                         | lat |   |   |   | 318-07 | 2:context |          |  |    |    |    |    |
+| w   |        |           |   |   |   | ostrado               | oﬅrado           |   |   |   |                         | lat |   |   |   | 318-07 | 2:context |          |  |2460|    |    |    |
+| w   |        |           |   |   |   | swenonis              | ſwenoni         |   |   |   |                         | lat |   |   |   | 318-07 | 2:context |          |  |2460|    |    |    |
 | PE  | e      | ÅstSve001 |   |   |   |                       |                  |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |           |   |   |   | i(n)                  | ı̅                |   |   |   |                         | lat |   |   |   | 318-07 | 2:context |          |  |    |    |    |    |
 | w   |        |           |   |   |   | qua                   | qua              |   |   |   |                         | lat |   |   |   | 318-07 | 2:context |          |  |    |    |    |    |
@@ -217,19 +217,19 @@
 | w   |        |           |   |   |   | .v(idelicet).         | .ỽꝫ.             |   |   |   |                         | lat |   |   |   | 318-10 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |           |   |   |   | d(omi)nj              | dn̅ȷ              |   |   |   |                         | lat |   |   |   | 318-10 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | JenPed005 |   |   |   |                       |                  |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |           |   |   |   | ioha(m)nis            | ıoha̅nı          |   |   |   |                         | lat |   |   |   | 318-10 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |           |   |   |   | finkenow              | fínkenow         |   |   |   |                         | lat |   |   |   | 318-10 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |           |   |   |   | ioha(m)nis            | ıoha̅nı          |   |   |   |                         | lat |   |   |   | 318-10 | 3:eschatocol |          |  |1265|    |    |    |
+| w   |        |           |   |   |   | finkenow              | fínkenow         |   |   |   |                         | lat |   |   |   | 318-10 | 3:eschatocol |          |  |1265|    |    |    |
 | PE  | e      | JenPed005 |   |   |   |                       |                  |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |           |   |   |   | milit(is)             | mılıtꝭ           |   |   |   |                         | lat |   |   |   | 318-10 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 318-11 |           |   |   |   |                       |                  |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |           |   |   |   | (et)                  | ⁊                |   |   |   |                         | lat |   |   |   | 318-11 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | JakNie004 |   |   |   |                       |                  |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
 | PE | b | JakNie004 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |           |   |   |   | Iacobj                | Iacobȷ           |   |   |   |                         | lat |   |   |   | 318-11 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |           |   |   |   | niel                 | niel            |   |   |   |                         | lat |   |   |   | 318-11 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |           |   |   |   | Iacobj                | Iacobȷ           |   |   |   |                         | lat |   |   |   | 318-11 | 3:eschatocol |          |  |1266|2461|    |    |
+| w   |        |           |   |   |   | niel                 | niel            |   |   |   |                         | lat |   |   |   | 318-11 | 3:eschatocol |          |  |1266|2461|    |    |
 | PE | e | JakNie004 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |           |   |   |   | d(i)c(t)i             | dc̅ı              |   |   |   |                         | lat |   |   |   | 318-11 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |           |   |   |   | rintaf                | ríntaf           |   |   |   |                         | lat |   |   |   | 318-11 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |           |   |   |   | d(i)c(t)i             | dc̅ı              |   |   |   |                         | lat |   |   |   | 318-11 | 3:eschatocol |          |  |    |2461|    |    |
+| w   |        |           |   |   |   | rintaf                | ríntaf           |   |   |   |                         | lat |   |   |   | 318-11 | 3:eschatocol |          |  |    |2461|    |    |
 | PE  | e      | JakNie004 |   |   |   |                       |                  |   |   |   |                         |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |           |   |   |   | p(e)ntib(us)          | pn̅tıbꝫ           |   |   |   |                         | lat |   |   |   | 318-11 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |           |   |   |   | e(st)                 | e̅                |   |   |   |                         | lat |   |   |   | 318-11 | 3:eschatocol |          |  |    |    |    |    |

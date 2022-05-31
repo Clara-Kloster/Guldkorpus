@@ -44,8 +44,8 @@
 | d   | b      | 1             |     | protocol      |   |                            |                            |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | vi            | xPE | vi            |   | Wij                        | Wij                        |   |   |   |   | dan |   |   |    |        443-01 | 1:protocol |          |  |    |    |    |    |
 | PE  |      b | LagUrn001     |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Lage          |   | laghæ                      | laghæ                      |   |   |   |   | dan |   |   |    |        443-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |               | xNP | Urne          |   | vrne                       | vꝛne                       |   |   |   |   | dan |   |   |    |        443-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Lage          |   | laghæ                      | laghæ                      |   |   |   |   | dan |   |   |    |        443-01 | 1:protocol |          |  |2110|    |    |    |
+| w   |        |               | xNP | Urne          |   | vrne                       | vꝛne                       |   |   |   |   | dan |   |   |    |        443-01 | 1:protocol |          |  |2110|    |    |    |
 | PE  |      e | LagUrn001     |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | mæth          | xAP | med           |   | mett                       | mett                       |   |   |   |   | dan |   |   |    |        443-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | guth          | xNC | Guds          |   | gudz                       | gudz                       |   |   |   |   | dan |   |   |    |        443-01 | 1:protocol |          |  |    |    |    |    |
@@ -96,7 +96,7 @@
 | w   |        | ælskelik      | xAJ | elskelige     |   | elsk(elige)                | elſkꝭͤ                      |   |   |   |   | dan |   |   |    |        443-03 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre         | xNC | hr.            |   | her                        | her                        |   |   |   |   | dan |   |   |    |        443-03 | 2:context |          |  |    |    |    |    |
 | PE  |      b | OddCan001     |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Odde          |   | Otthe                      | Otthe                      |   |   |   |   | dan |   |   |    |        443-03 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Odde          |   | Otthe                      | Otthe                      |   |   |   |   | dan |   |   |    |        443-03 | 2:context |          |  |2111|    |    |    |
 | PE  |      e | OddCan001     |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | ga  |      8 |               |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | kanik         | xNC | kannik        |   | Canick                     | Canick                     |   |   |   |   | dan |   |   |    |        443-03 | 2:context |          |  |    |    |    |    |
@@ -130,8 +130,8 @@
 | w   |        | ælskelik      | xAJ | elskelige     |   | elsk(elige)                | elſkꝭͤ                      |   |   |   |   | dan |   |   |    |        443-05 | 2:context |          |  |    |    |    |    |
 | w   |        | mæstere       | xNC | mester        |   | mester                     | meſter                     |   |   |   |   | dan |   |   |    |        443-05 | 2:context |          |  |    |    |    |    |
 | PE  |      b | JørScø001     |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Jørgen        |   | jørgh(e)n                  | jøꝛghn̅                     |   |   |   |   | dan |   |   |    |        443-05 | 2:context |          |  |    |    |    |    |
-| w   |        |               | xNP | Skøtborg      |   | scøtbor(e)g                | ſcøtborg                  |   |   |   |   | dan |   |   |    |        443-05 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Jørgen        |   | jørgh(e)n                  | jøꝛghn̅                     |   |   |   |   | dan |   |   |    |        443-05 | 2:context |          |  |2112|    |    |    |
+| w   |        |               | xNP | Skøtborg      |   | scøtbor(e)g                | ſcøtborg                  |   |   |   |   | dan |   |   |    |        443-05 | 2:context |          |  |2112|    |    |    |
 | PE  |      e | JørScø001     |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | fri           | xAJ | frit          |   | friitt                     | fꝛiitt                     |   |   |   |   | dan |   |   |    |        443-05 | 2:context |          |  |    |    |    |    |
 | w   |        | uti           | xAP | udi           |   | wdj                        | wdj                        |   |   |   |   | dan |   |   |    |        443-05 | 2:context |          |  |    |    |    |    |
@@ -326,9 +326,9 @@
 | w   |        |               | lat |               |   | recordac(i)o(n)is          | ꝛecordac̅oi                |   |   |   |   | lat |   |   |    |        443-17 | 2:context |          |  |    |    |    |    |
 | w   |        |               | lat |               |   | d(omi)ni                   | dn̅ı                        |   |   |   |   | lat |   |   |    |        443-17 | 2:context |          |  |    |    |    |    |
 | PE | b | JenHin001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               | lat |               |   | Johannis                   | Johanni                   |   |   |   |   | lat |   |   |    |        443-17 | 2:context |          |  |    |    |    |    |
+| w   |        |               | lat |               |   | Johannis                   | Johanni                   |   |   |   |   | lat |   |   |    |        443-17 | 2:context |          |  |2113|    |    |    |
 | lm  | 443-18 |               |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        | hin           | xDD | hin           |   | hind                       | hınd                       |   |   |   |   | dan |   |   |    |        443-18 | 2:context |          |  |    |    |    |    |
+| w   |        | hin           | xDD | hin           |   | hind                       | hınd                       |   |   |   |   | dan |   |   |    |        443-18 | 2:context |          |  |2113|    |    |    |
 | PE | e | JenHin001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |               | lat |               |   | ep(iscop)i                 | epı̅                        |   |   |   |   | lat |   |   |    |        443-18 | 2:context |          |  |    |    |    |    |
 | PL  |      b |               |     |               |   |                            |                            |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |

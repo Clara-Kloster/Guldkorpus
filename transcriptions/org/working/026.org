@@ -44,7 +44,7 @@
 | lm  | 26-01 |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | d  | b     | 1  |   | protocol  |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | PE  | b     | PavAle004  |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | ALEXANDER       | ALEXANDER     |   |   |   |   | lat |   |   |   |       26-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | ALEXANDER       | ALEXANDER     |   |   |   |   | lat |   |   |   |       26-01 | 1:protocol |          |  |49|    |    |    |
 | PE  | e     | PavAle004  |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | ep(iscopu)s     | ep&pk;s       |   |   |   |   | lat |   |   |   |       26-01 | 1:protocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | seruus          | ſeruus        |   |   |   |   | lat |   |   |   |       26-01 | 1:protocol |          |  |    |    |    |    |
@@ -59,13 +59,13 @@
 | w   |       |   |   |   |   | nobilj          | obılȷ        |   |   |   |   | lat |   |   |   |       26-01 | 1:protocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | mulieri         | ulıerı       |   |   |   |   | lat |   |   |   |       26-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b     | IngReg001  |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Jngardi         | Jngarꝺı       |   |   |   |   | lat |   |   |   |       26-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Jngardi         | Jngarꝺı       |   |   |   |   | lat |   |   |   |       26-01 | 1:protocol |          |  |50|    |    |    |
 | PE  | e     | IngReg001  |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | lm  | 26-02 |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | Relicte         | Relıe        |   |   |   |   | lat |   |   |   |       26-02 | 1:protocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | quondam         | quonꝺa       |   |   |   |   | lat |   |   |   |       26-02 | 1:protocol |          |  |    |    |    |    |
 | PE  | b     | KonReg001  |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Conradi         | Conraꝺı       |   |   |   |   | lat |   |   |   |       26-02 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Conradi         | Conraꝺı       |   |   |   |   | lat |   |   |   |       26-02 | 1:protocol |          |  |51|    |    |    |
 | PE  | e     | KonReg001  |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | Comitis         | Comıtıs       |   |   |   |   | lat |   |   |   |       26-02 | 1:protocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | de              | ꝺe            |   |   |   |   | lat |   |   |   |       26-02 | 1:protocol |          |  |    |    |    |    |
@@ -112,7 +112,7 @@
 | w   |       |   |   |   |   | ordinem         | orꝺıne       |   |   |   |   | lat |   |   |   |       26-04 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | beati           | beatı         |   |   |   |   | lat |   |   |   |       26-04 | 2:context |          |  |    |    |    |    |
 | PE | b |  |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Damiani         | Damıaní       |   |   |   |   | lat |   |   |   |       26-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Damiani         | Damıaní       |   |   |   |   | lat |   |   |   |       26-04 | 2:context |          |  |52|    |    |    |
 | PE | e |  |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | con¦tingat      | con-¦tıngat   |   |   |   |   | lat |   |   |   | 26-04—26-05 | 2:context |          |  |    |    |    |    |
 | p   |       |   |   |   |   | /               | /             |   |   |   |   | lat |   |   |   |       26-05 | 2:context |          |  |    |    |    |    |
@@ -172,12 +172,12 @@
 | w   |       |   |   |   |   | (et)            | ⁊             |   |   |   |   | lat |   |   |   |       26-09 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | beator(um)      | beatoꝝ        |   |   |   |   | lat |   |   |   |       26-09 | 2:context |          |  |    |    |    |    |
 | PE | b |  |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Petrj           | Petrȷ         |   |   |   |   | lat |   |   |   |       26-09 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Petrj           | Petrȷ         |   |   |   |   | lat |   |   |   |       26-09 | 2:context |          |  |53|    |    |    |
 | PE | e |  |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |       |   |   |   |   | .               | .             |   |   |   |   | lat |   |   |   |       26-09 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | (et)            | ⁊             |   |   |   |   | lat |   |   |   |       26-09 | 2:context |          |  |    |    |    |    |
 | PE | b |  |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Paulj           | Paulȷ         |   |   |   |   | lat |   |   |   |       26-09 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Paulj           | Paulȷ         |   |   |   |   | lat |   |   |   |       26-09 | 2:context |          |  |54|    |    |    |
 | PE | e |  |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | apostolor(um)   | apoſtoloꝝ     |   |   |   |   | lat |   |   |   |       26-09 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | eius            | eıus          |   |   |   |   | lat |   |   |   |       26-09 | 2:context |          |  |    |    |    |    |

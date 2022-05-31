@@ -44,13 +44,13 @@ AM 187 8vo
 | lm  | 361-01 |               |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | d   | b      | 1             |     | protocol       |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | AnnPed001     |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Anne           |   | Annæ              | Annæ          |   |   |   |   | dan |   |   |   |        361-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |               | xNP | Pedersdatter   |   | pæth(er)s dot(er) | pæths dot   |   |   |   |   | dan |   |   |   |        361-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Anne           |   | Annæ              | Annæ          |   |   |   |   | dan |   |   |   |        361-01 | 1:protocol |          |  |1478|    |    |    |
+| w   |        |               | xNP | Pedersdatter   |   | pæth(er)s dot(er) | pæths dot   |   |   |   |   | dan |   |   |   |        361-01 | 1:protocol |          |  |1478|    |    |    |
 | PE  | e      | AnnPed001     |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | hærre         | xNC | hr.             |   | h(er)             | h            |   |   |   |   | dan |   |   |   |        361-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | MikRud001     |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Mikkel         |   | michel            | michel        |   |   |   |   | dan |   |   |   |        361-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |               | xNP | Rud            |   | rud               | rud           |   |   |   |   | dan |   |   |   |        361-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Mikkel         |   | michel            | michel        |   |   |   |   | dan |   |   |   |        361-01 | 1:protocol |          |  |1479|    |    |    |
+| w   |        |               | xNP | Rud            |   | rud               | rud           |   |   |   |   | dan |   |   |   |        361-01 | 1:protocol |          |  |1479|    |    |    |
 | PE  | e      | MikRud001     |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | riddere       | xNC | ridder         |   | redd(er)e         | redde        |   |   |   |   | dan |   |   |   |        361-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | han           | xPE | hans           |   | hans              | hans          |   |   |   |   | dan |   |   |   |        361-01 | 1:protocol |          |  |    |    |    |    |
@@ -184,13 +184,13 @@ AM 187 8vo
 | w   |        | sum           | xRP | som            |   | som               | ſo           |   |   |   |   | dan |   |   |   |        361-11 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | være          | xVB | er             |   | ær                | ær            |   |   |   |   | dan |   |   |   |        361-11 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | JenRud002     |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Jens           |   | iens              | iens          |   |   |   |   | dan |   |   |   |        361-11 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |               | xNP | Rud            |   | rud               | rud           |   |   |   |   | dan |   |   |   |        361-11 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Jens           |   | iens              | iens          |   |   |   |   | dan |   |   |   |        361-11 | 3:eschatocol |          |  |1480|    |    |    |
+| w   |        |               | xNP | Rud            |   | rud               | rud           |   |   |   |   | dan |   |   |   |        361-11 | 3:eschatocol |          |  |1480|    |    |    |
 | PE  | e      | JenRud002     |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | ok            | xCC | og             |   | oc                | oc            |   |   |   |   | dan |   |   |   |        361-11 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | VilRud001     |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Vilhelm        |   | wilhelm           | wilhel       |   |   |   |   | dan |   |   |   |        361-11 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |               | xNP | Rud            |   | rud               | rud           |   |   |   |   | dan |   |   |   |        361-11 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Vilhelm        |   | wilhelm           | wilhel       |   |   |   |   | dan |   |   |   |        361-11 | 3:eschatocol |          |  |1481|    |    |    |
+| w   |        |               | xNP | Rud            |   | rud               | rud           |   |   |   |   | dan |   |   |   |        361-11 | 3:eschatocol |          |  |1481|    |    |    |
 | PE  | e      | VilRud001     |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | af+vapn       | xNC | åvåben         |   | awapn             | awap         |   |   |   |   | dan |   |   |   |        361-11 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 361-12 |               |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |

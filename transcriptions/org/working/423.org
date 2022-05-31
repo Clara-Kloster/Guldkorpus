@@ -45,8 +45,8 @@ Modbrev til SDHK 32745
 | d  | b      | 1  |   | protocol  |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Jach           | Jach         |   |   |   |    | swe |   |   |   | 423-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | SteStu001  |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Sten           | ten         |   |   |   |    | swe |   |   |   | 423-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | stur(e)        | ﬅur         |   |   |   |    | swe |   |   |   | 423-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Sten           | ten         |   |   |   |    | swe |   |   |   | 423-01 | 1:protocol |          |  |1988|    |    |    |
+| w   |        |   |   |   |   | stur(e)        | ﬅur         |   |   |   |    | swe |   |   |   | 423-01 | 1:protocol |          |  |1988|    |    |    |
 | PE  | e      | SteStu001  |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Riidd(er)r     | Rııddr      |   |   |   |    | swe |   |   |   | 423-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
@@ -94,8 +94,8 @@ Modbrev til SDHK 32745
 | w   |        |   |   |   |   | welbyrdigh     | welbyꝛdigh   |   |   |   |    | swe |   |   |   | 423-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | man            | ma          |   |   |   |    | swe |   |   |   | 423-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | LarBud001  |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lasse          | lae         |   |   |   |    | swe |   |   |   | 423-03 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | budde          | budde        |   |   |   |    | swe |   |   |   | 423-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | lasse          | lae         |   |   |   |    | swe |   |   |   | 423-03 | 2:context |          |  |1989|    |    |    |
+| w   |        |   |   |   |   | budde          | budde        |   |   |   |    | swe |   |   |   | 423-03 | 2:context |          |  |1989|    |    |    |
 | PE  | e      | LarBud001  |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | och            | och          |   |   |   |    | swe |   |   |   | 423-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | hans           | han         |   |   |   |    | swe |   |   |   | 423-03 | 2:context |          |  |    |    |    |    |
@@ -104,7 +104,7 @@ Modbrev til SDHK 32745
 | lm  | 423-04 |   |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | husttru        | huﬅtꝛu       |   |   |   |    | swe |   |   |   | 423-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | SigBud001  |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Sigridh        | igꝛidh      |   |   |   |    | swe |   |   |   | 423-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Sigridh        | igꝛidh      |   |   |   |    | swe |   |   |   | 423-04 | 2:context |          |  |1990|    |    |    |
 | PE  | e      | SigBud001  |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | om             | o           |   |   |   |    | swe |   |   |   | 423-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | eth            | eth          |   |   |   |    | swe |   |   |   | 423-04 | 2:context |          |  |    |    |    |    |
@@ -142,8 +142,8 @@ Modbrev til SDHK 32745
 | w   |        |   |   |   |   | jach           | ȷach         |   |   |   |    | swe |   |   |   | 423-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | fforsc(riffne) | ﬀoꝛſcꝭᷠͤ       |   |   |   |    | swe |   |   |   | 423-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | LarBud001  |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lasse          | lae         |   |   |   |    | swe |   |   |   | 423-05 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | budde          | bűdde        |   |   |   |    | swe |   |   |   | 423-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | lasse          | lae         |   |   |   |    | swe |   |   |   | 423-05 | 2:context |          |  |1991|    |    |    |
+| w   |        |   |   |   |   | budde          | bűdde        |   |   |   |    | swe |   |   |   | 423-05 | 2:context |          |  |1991|    |    |    |
 | PE  | e      | LarBud001  |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | och            | och          |   |   |   |    | swe |   |   |   | 423-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | hans           | han         |   |   |   |    | swe |   |   |   | 423-05 | 2:context |          |  |    |    |    |    |
@@ -152,7 +152,7 @@ Modbrev til SDHK 32745
 | w   |        |   |   |   |   | hust(rv)       | huﬅͮ          |   |   |   |    | swe |   |   |   | 423-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | hust(rv)       | huﬅͮ          |   |   |   |    | swe |   |   |   | 423-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | SigBud001  |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Sigridh        | ıgꝛıdh      |   |   |   |    | swe |   |   |   | 423-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Sigridh        | ıgꝛıdh      |   |   |   |    | swe |   |   |   | 423-06 | 2:context |          |  |1992|    |    |    |
 | PE  | e      | SigBud001  |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | eth            | eth          |   |   |   |    | swe |   |   |   | 423-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | mjt            | mjt          |   |   |   |    | swe |   |   |   | 423-06 | 2:context |          |  |    |    |    |    |
@@ -170,7 +170,7 @@ Modbrev til SDHK 32745
 | w   |        |   |   |   |   | nest           | neﬅ          |   |   |   |    | swe |   |   |   | 423-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | widh           | widh         |   |   |   |    | swe |   |   |   | 423-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | ClaXxx001  |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | claues         | claue       |   |   |   |    | swe |   |   |   | 423-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | claues         | claue       |   |   |   |    | swe |   |   |   | 423-07 | 2:context |          |  |1993|    |    |    |
 | PE  | e      | ClaXxx001  |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | screddere      | ſcꝛeddeꝛe    |   |   |   |    | swe |   |   |   | 423-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | med            | med          |   |   |   |    | swe |   |   |   | 423-07 | 2:context |          |  |    |    |    |    |
@@ -219,8 +219,8 @@ Modbrev til SDHK 32745
 | w   |        |   |   |   |   | och            | och          |   |   |   |    | swe |   |   |   | 423-09 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | torp           | toꝛp         |   |   |   |    | swe |   |   |   | 423-09 | 2:context |          |  |    |    |    |    |
 | PE  | b      | LarBud001  |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | lasse          | lae         |   |   |   |    | swe |   |   |   | 423-09 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | budde          | budde        |   |   |   |    | swe |   |   |   | 423-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | lasse          | lae         |   |   |   |    | swe |   |   |   | 423-09 | 2:context |          |  |1994|    |    |    |
+| w   |        |   |   |   |   | budde          | budde        |   |   |   |    | swe |   |   |   | 423-09 | 2:context |          |  |1994|    |    |    |
 | PE  | e      | LarBud001  |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | och            | och          |   |   |   |    | swe |   |   |   | 423-09 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | hans           | han         |   |   |   |    | swe |   |   |   | 423-09 | 2:context |          |  |    |    |    |    |
@@ -229,7 +229,7 @@ Modbrev til SDHK 32745
 | w   |        |   |   |   |   | hust(rv)       | huﬅͮ          |   |   |   |    | swe |   |   |   | 423-10 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | hust(rv)       | huﬅͮ          |   |   |   |    | swe |   |   |   | 423-10 | 2:context |          |  |    |    |    |    |
 | PE  | b      | SigBud001  |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Sigridh        | ıgꝛıdh      |   |   |   |    | swe |   |   |   | 423-10 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Sigridh        | ıgꝛıdh      |   |   |   |    | swe |   |   |   | 423-10 | 2:context |          |  |1995|    |    |    |
 | PE  | e      | SigBud001  |   |   |   |                |              |   |   |   |    |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | til            | til          |   |   |   |    | swe |   |   |   | 423-10 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ewærdelige     | ewæꝛdelıge   |   |   |   |    | swe |   |   |   | 423-10 | 2:context |          |  |    |    |    |    |

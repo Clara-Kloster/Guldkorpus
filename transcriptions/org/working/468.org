@@ -46,7 +46,7 @@
 | w   |        | kær         | xAJ | kære           |   | Kiere          | Kiere          |   |   |   |                          | dan |   |   |    | 468-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | doktor      | xNC | doktor         |   | doctor         | doctor         |   |   |   |                          | lat |   |   |    | 468-01 | 1:protocol |          |  |    |    |    |    |
 | PE  |      b | AndXxx002   |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Anders         |   | Anders         | Anders         |   |   |   |                          | dan |   |   |    | 468-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Anders         |   | Anders         | Anders         |   |   |   |                          | dan |   |   |    | 468-01 | 1:protocol |          |  |2423|    |    |    |
 | PE  |      e | AndXxx002   |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | synderlik   | xAJ | synderlig      |   | synderlig      | ſÿnderlig      |   |   |   |                          | dan |   |   |    | 468-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | til+forlate | xVB | tilforladendes |   | tilforladindis | tilforladindi |   |   |   |                          | dan |   |   |    | 468-01 | 1:protocol |          |  |    |    |    |    |
@@ -107,8 +107,8 @@
 | w   |        | universitet | xNC | universitets   |   | Uniuersitetz   | Uniŭerſitetz   |   |   |   |                          | dan |   |   |    | 468-06 | 2:context |          |  |    |    |    |    |
 | w   |        | foghet      | xNC | foged          |   | fogidt         | fogidt         |   |   |   |                          | dan |   |   |    | 468-06 | 2:context |          |  |    |    |    |    |
 | PE  |      b | NieWin003   |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Niels          |   | Nils           | Nil           |   |   |   |                          | dan |   |   |    | 468-06 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Wincke         |   | Wincke         | Wincke         |   |   |   |                          | dan |   |   |    | 468-06 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Niels          |   | Nils           | Nil           |   |   |   |                          | dan |   |   |    | 468-06 | 2:context |          |  |2424|    |    |    |
+| w   |        |             | xNP | Wincke         |   | Wincke         | Wincke         |   |   |   |                          | dan |   |   |    | 468-06 | 2:context |          |  |2424|    |    |    |
 | PE  |      e | NieWin003   |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |             |     |                |   | ,              | ,              |   |   |   |                          | dan |   |   |    | 468-06 | 2:context |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og             |   | Och            | Och            |   |   |   |                          | dan |   |   |    | 468-06 | 2:context |          |  |    |    |    |    |
@@ -188,8 +188,8 @@
 | w   |        | ok          | xCC | og             |   | Och            | Och            |   |   |   |                          | dan |   |   |    | 468-13 | 2:context |          |  |    |    |    |    |
 | w   |        | æfter+thi   | xAV | efterdi        |   | effterthij     | effterthij     |   |   |   |                          | dan |   |   |    | 468-13 | 2:context |          |  |    |    |    |    |
 | PE  |      b | NieWin003   |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Niels          |   | Nils           | Nil           |   |   |   |                          | dan |   |   |    | 468-13 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Wincke         |   | wincke         | wincke         |   |   |   |                          | dan |   |   |    | 468-13 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Niels          |   | Nils           | Nil           |   |   |   |                          | dan |   |   |    | 468-13 | 2:context |          |  |2425|    |    |    |
+| w   |        |             | xNP | Wincke         |   | wincke         | wincke         |   |   |   |                          | dan |   |   |    | 468-13 | 2:context |          |  |2425|    |    |    |
 | PE  |      e | NieWin003   |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |          |          |  |    |    |    |    |
 | lm  | 468-14 |             |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | nu          | xAV | nu             |   | nu             | nŭ             |   |   |   |                          | dan |   |   |    | 468-14 | 2:context |          |  |    |    |    |    |
@@ -234,7 +234,7 @@
 | w   |        | vin         | xNC | ven            |   | wenn           | wenn           |   |   |   |                          | dan |   |   |    | 468-17 | 2:context |          |  |    |    |    |    |
 | w   |        | doktor      | xNC | doktor         |   | doctor         | doctor         |   |   |   |                          | lat |   |   |    | 468-17 | 2:context |          |  |    |    |    |    |
 | PE  |      b | JakWin001   |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Jakob          |   | Jacob          | Jacob          |   |   |   |                          | dan |   |   |    | 468-17 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Jakob          |   | Jacob          | Jacob          |   |   |   |                          | dan |   |   |    | 468-17 | 2:context |          |  |2426|    |    |    |
 | PE  |      e | JakWin001   |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |          |          |  |    |    |    |    |
 | p   |        |             |     |                |   | ,              | ,              |   |   |   |                          | dan |   |   |    | 468-17 | 2:context |          |  |    |    |    |    |
 | lm  | 468-18 |             |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |          |          |  |    |    |    |    |
@@ -377,9 +377,9 @@
 | n   |        |             |     |                |   | 85             | 85             |   |   |   |                          | lat |   |   |    | 468-29 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 468-30 |             |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |          |          |  |    |    |    |    |
 | PE  |      b | JakWin001   |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             |     |                |   | Jacob          | Jacob          |   |   |   |                          | dan |   |   |    | 468-30 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             |     |                |   | Jacob          | Jacob          |   |   |   |                          | dan |   |   |    | 468-30 | 3:eschatocol |          |  |2427|    |    |    |
 | lm  | 468-31 |             |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |          |          |  |    |    |    |    |
-| w   |        |             |     |                |   | Wind           | Wind           |   |   |   |                          | dan |   |   |    | 468-31 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |             |     |                |   | Wind           | Wind           |   |   |   |                          | dan |   |   |    | 468-31 | 3:eschatocol |          |  |2427|    |    |    |
 | PE  |      e | JakWin001   |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |          |          |  |    |    |    |    |
 | d   | e      | 3           |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |          |          |  |    |    |    |    |
 | :e: |        |             |     |                |   |                |                |   |   |   |                          |     |   |   |    |        |          |          |  |    |    |    |    |

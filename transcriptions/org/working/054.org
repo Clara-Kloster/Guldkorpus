@@ -44,7 +44,7 @@
 | lm  | 54-01 |   |   |   |   |                  |                |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | d  | b     | 1  |   | protocol  |   |                  |                |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | PE  | b     | PavCle004  |   |   |   |                  |                |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | CLEMENS          | CLEMENS        |   |   |   |   | lat |   |   |   |       54-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | CLEMENS          | CLEMENS        |   |   |   |   | lat |   |   |   |       54-01 | 1:protocol |          |  |245|    |    |    |
 | PE  | e     | PavCle004  |   |   |   |                  |                |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | ep(iscopu)s      | ep̅s            |   |   |   |   | lat |   |   |   |       54-01 | 1:protocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | seruus           | ſeruus         |   |   |   |   | lat |   |   |   |       54-01 | 1:protocol |          |  |    |    |    |    |
@@ -151,7 +151,7 @@
 | w   |       |   |   |   |   | sub              | ſub            |   |   |   |   | lat |   |   |   |       54-07 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | beati            | beatí          |   |   |   |   | lat |   |   |   |       54-07 | 2:context |          |  |    |    |    |    |
 | PE | b |  |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Petri            | Petrí          |   |   |   |   | lat |   |   |   |       54-07 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Petri            | Petrí          |   |   |   |   | lat |   |   |   |       54-07 | 2:context |          |  |246|    |    |    |
 | PE | e |  |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | et               | et             |   |   |   |   | lat |   |   |   |       54-07 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | n(ost)ra         | nr̅a            |   |   |   |   | lat |   |   |   |       54-07 | 2:context |          |  |    |    |    |    |
@@ -222,11 +222,11 @@
 | w   |       |   |   |   |   | (et)             | ⁊              |   |   |   |   | lat |   |   |   |       54-11 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | beator(um)       | beatoꝝ         |   |   |   |   | lat |   |   |   |       54-11 | 2:context |          |  |    |    |    |    |
 | PE | b |  |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Petri            | Petrí          |   |   |   |   | lat |   |   |   |       54-11 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Petri            | Petrí          |   |   |   |   | lat |   |   |   |       54-11 | 2:context |          |  |247|    |    |    |
 | PE | e |  |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | (et)             | ⁊              |   |   |   |   | lat |   |   |   |       54-11 | 2:context |          |  |    |    |    |    |
 | PE | b |  |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Pauli            | Paulí          |   |   |   |   | lat |   |   |   |       54-11 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Pauli            | Paulí          |   |   |   |   | lat |   |   |   |       54-11 | 2:context |          |  |248|    |    |    |
 | PE | e |  |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | apostolor(um)    | apoﬅoloꝝ       |   |   |   |   | lat |   |   |   |       54-11 | 2:context |          |  |    |    |    |    |
 | lm  | 54-12 |   |   |   |   |                  |                |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |

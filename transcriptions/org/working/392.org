@@ -54,8 +54,8 @@
 | w   |        | helse         | xVB | hilser        |   | Helsær               | Helſæꝛ         |   |   |   |        | dan |   |   |   |        392-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | jak           | xPE | jeg           |   | jek                  | ȷek            |   |   |   |        | dan |   |   |   |        392-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | JepJen003     |     |               |   |                      |                |   |   |   |        |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Jakob         |   | jeop                 | ȷeop           |   |   |   |        | dan |   |   |   |        392-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |               | xNP | Jensen        |   | jenss(øn)            | enſ          |   |   |   |        | dan |   |   |   |        392-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Jakob         |   | jeop                 | ȷeop           |   |   |   |        | dan |   |   |   |        392-01 | 1:protocol |          |  |1668|    |    |    |
+| w   |        |               | xNP | Jensen        |   | jenss(øn)            | enſ          |   |   |   |        | dan |   |   |   |        392-01 | 1:protocol |          |  |1668|    |    |    |
 | PE  | e      | JepJen003     |     |               |   |                      |                |   |   |   |        |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | riddere       | xNC | ridder        |   | rider(e)             | ríder         |   |   |   |        | dan |   |   |   |        392-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i             | xAP | i             |   | j                    | j              |   |   |   |        | dan |   |   |   |        392-01 | 1:protocol |          |  |    |    |    |    |
@@ -83,12 +83,12 @@
 | w   |        | brevførere    | xNC | brevfører     |   | b(re)fførær(e)       | b̅fførær       |   |   |   |        | dan |   |   |   |        392-02 | 2:context |          |  |    |    |    |    |
 | w   |        | frue          | xNC | frue          |   | ffruæ                | ffꝛűæ          |   |   |   |        | dan |   |   |   |        392-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AnnAlb001     |     |               |   |                      |                |   |   |   |        |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Anne          |   | Annæ                 | Annæ           |   |   |   |        | dan |   |   |   |        392-02 | 2:context |          |  |    |    |    |    |
-| w   |        |               | xNP | Albertsdatter |   | alb(er)tz¦datthr(um) | albtz¦datthꝝ  |   |   |   |        | dan |   |   |   | 392-02—392-03 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Anne          |   | Annæ                 | Annæ           |   |   |   |        | dan |   |   |   |        392-02 | 2:context |          |  |1669|    |    |    |
+| w   |        |               | xNP | Albertsdatter |   | alb(er)tz¦datthr(um) | albtz¦datthꝝ  |   |   |   |        | dan |   |   |   | 392-02—392-03 | 2:context |          |  |1669|    |    |    |
 | PE  | e      | AnnAlb001     |     |               |   |                      |                |   |   |   |        |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | EriJen002     |     |               |   |                      |                |   |   |   |        |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Erik          |   | Erik                 | Erik           |   |   |   |        | dan |   |   |   |        392-03 | 2:context |          |  |    |    |    |    |
-| w   |        |               | xNP | Jensen        |   | jenss(øn)            | jenſ          |   |   |   |        | dan |   |   |   |        392-03 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Erik          |   | Erik                 | Erik           |   |   |   |        | dan |   |   |   |        392-03 | 2:context |          |  |1670|    |    |    |
+| w   |        |               | xNP | Jensen        |   | jenss(øn)            | jenſ          |   |   |   |        | dan |   |   |   |        392-03 | 2:context |          |  |1670|    |    |    |
 | PE  | e      | EriJen002     |     |               |   |                      |                |   |   |   |        |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | æfterliverske | xNC | efterleverske |   | efth(e)rleweske      | efth̅ꝛleweſke   |   |   |   |        | dan |   |   |   |        392-03 | 2:context |          |  |    |    |    |    |
 | w   |        | af            | xAP | af            |   | aff                  | aff            |   |   |   |        | dan |   |   |   |        392-03 | 2:context |          |  |    |    |    |    |
@@ -121,7 +121,7 @@
 | w   |        | fornævnd      | xAJ | fornævnte     |   | for(nefnde)          | foꝛ           |   |   |   | de-sup | dan |   |   |   |        392-04 | 2:context |          |  |    |    |    |    |
 | w   |        | frue          | xNC | frue          |   | fruæ                 | fꝛűæ           |   |   |   |        | dan |   |   |   |        392-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AnnAlb001     |     |               |   |                      |                |   |   |   |        |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Anne          |   | Annæ                 | Annæ           |   |   |   |        | dan |   |   |   |        392-04 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP | Anne          |   | Annæ                 | Annæ           |   |   |   |        | dan |   |   |   |        392-04 | 2:context |          |  |1671|    |    |    |
 | PE  | e      | AnnAlb001     |     |               |   |                      |                |   |   |   |        |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | fornævnd      | xAJ | fornævnte     |   | for(nefnde)          | foꝛ           |   |   |   | de-sup | dan |   |   |   |        392-04 | 2:context |          |  |    |    |    |    |
 | w   |        | garth         | xNC | gård          |   | gord                 | goꝛd           |   |   |   |        | dan |   |   |   |        392-04 | 2:context |          |  |    |    |    |    |
@@ -166,8 +166,8 @@
 | w   |        | insighle      | xNC | indsegl       |   | jndzegle             | ȷndzegle       |   |   |   |        | dan |   |   |   |        392-07 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | hærre         | xNC | hr.            |   | h(er)                | h̅              |   |   |   |        | dan |   |   |   |        392-07 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | PerSti001     |     |               |   |                      |                |   |   |   |        |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP | Per           |   | p(er)                | ꝑ              |   |   |   |        | dan |   |   |   |        392-07 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |               | xNP | Stirm         |   | stirm                | ſtır          |   |   |   |        | dan |   |   |   |        392-07 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |               | xNP | Per           |   | p(er)                | ꝑ              |   |   |   |        | dan |   |   |   |        392-07 | 3:eschatocol |          |  |1672|    |    |    |
+| w   |        |               | xNP | Stirm         |   | stirm                | ſtır          |   |   |   |        | dan |   |   |   |        392-07 | 3:eschatocol |          |  |1672|    |    |    |
 | PE  | e      | PerSti001     |     |               |   |                      |                |   |   |   |        |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | vicaris       | xNC | vikar         |   | vicaris              | vicaris        |   |   |   |        | dan |   |   |   |        392-07 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | i             | xAP | i             |   | j                    | ȷ              |   |   |   |        | dan |   |   |   |        392-07 | 3:eschatocol |          |  |    |    |    |    |

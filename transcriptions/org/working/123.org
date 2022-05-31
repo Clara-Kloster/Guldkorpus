@@ -48,7 +48,7 @@
 | w   |        |   |   |   |   | sc(ri)ptu(m)       | ſcptu    |   |   |   |   | lat |   |   |   | 123-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | inspecturis        | ınſpeurıſ |   |   |   |   | lat |   |   |   | 123-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | MarMon001  |   |   |   |                    |            |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | m(argareta)        | .         |   |   |   |   | lat |   |   |   | 123-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | m(argareta)        | .         |   |   |   |   | lat |   |   |   | 123-01 | 1:protocol |          |  |484|    |    |    |
 | PE  | e      | MarMon001  |   |   |   |                    |            |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | abbatissa          | bbatıſſa  |   |   |   |   | lat |   |   |   | 123-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | soror(um)          | ſoꝛoꝝ      |   |   |   |   | lat |   |   |   | 123-01 | 1:protocol |          |  |    |    |    |    |
@@ -81,16 +81,16 @@
 | lm  | 123-03 |   |   |   |   |                    |            |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)n(u)s        | dn̅ſ        |   |   |   |   | lat |   |   |   | 123-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | PedGru001  |   |   |   |                    |            |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | petrus             | petruſ     |   |   |   |   | lat |   |   |   | 123-03 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | dictus             | dıuſ      |   |   |   |   | lat |   |   |   | 123-03 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | grubby             | grubby     |   |   |   |   | lat |   |   |   | 123-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | petrus             | petruſ     |   |   |   |   | lat |   |   |   | 123-03 | 2:context |          |  |485|    |    |    |
+| w   |        |   |   |   |   | dictus             | dıuſ      |   |   |   |   | lat |   |   |   | 123-03 | 2:context |          |  |485|    |    |    |
+| w   |        |   |   |   |   | grubby             | grubby     |   |   |   |   | lat |   |   |   | 123-03 | 2:context |          |  |485|    |    |    |
 | PE  | e      | PedGru001  |   |   |   |                    |            |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (et)               |           |   |   |   |   | lat |   |   |   | 123-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)n(u)s        | dn̅ſ        |   |   |   |   | lat |   |   |   | 123-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | NieMan001  |   |   |   |                    |            |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | N(icholaus)        | N.         |   |   |   |   | lat |   |   |   | 123-03 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | d(i)c(tu)s         | dcs       |   |   |   |   | lat |   |   |   | 123-03 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | manthorp           | anthoꝛp   |   |   |   |   | lat |   |   |   | 123-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | N(icholaus)        | N.         |   |   |   |   | lat |   |   |   | 123-03 | 2:context |          |  |486|    |    |    |
+| w   |        |   |   |   |   | d(i)c(tu)s         | dcs       |   |   |   |   | lat |   |   |   | 123-03 | 2:context |          |  |486|    |    |    |
+| w   |        |   |   |   |   | manthorp           | anthoꝛp   |   |   |   |   | lat |   |   |   | 123-03 | 2:context |          |  |486|    |    |    |
 | PE  | e      | NieMan001  |   |   |   |                    |            |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | vna                | vn        |   |   |   |   | lat |   |   |   | 123-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | c(um)              | c̅          |   |   |   |   | lat |   |   |   | 123-03 | 2:context |          |  |    |    |    |    |
@@ -98,7 +98,7 @@
 | w   |        |   |   |   |   | n(ost)ro           | nro       |   |   |   |   | lat |   |   |   | 123-03 | 2:context |          |  |    |    |    |    |
 | lm  | 123-04 |   |   |   |   |                    |            |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | PE  | b      | AagXxx001  |   |   |   |                    |            |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Akone              | kone      |   |   |   |   | lat |   |   |   | 123-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Akone              | kone      |   |   |   |   | lat |   |   |   | 123-04 | 2:context |          |  |487|    |    |    |
 | PE  | e      | AagXxx001  |   |   |   |                    |            |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ex                 | ex         |   |   |   |   | lat |   |   |   | 123-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | parte              | parte      |   |   |   |   | lat |   |   |   | 123-04 | 2:context |          |  |    |    |    |    |
@@ -117,13 +117,13 @@
 | lm  | 123-05 |   |   |   |   |                    |            |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)ne           | dne       |   |   |   |   | lat |   |   |   | 123-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | GydAss001  |   |   |   |                    |            |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | gythe              | gythe      |   |   |   |   | lat |   |   |   | 123-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | gythe              | gythe      |   |   |   |   | lat |   |   |   | 123-05 | 2:context |          |  |488|    |    |    |
 | PE  | e      | GydAss001  |   |   |   |                    |            |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | relicte            | relıe     |   |   |   |   | lat |   |   |   | 123-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JenNaf001  |   |   |   |                    |            |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ioh(ann)is         | ıohıſ     |   |   |   |   | lat |   |   |   | 123-05 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | d(i)c(t)i          | dc̅ı        |   |   |   |   | lat |   |   |   | 123-05 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nafstok            | nafﬅok     |   |   |   |   | lat |   |   |   | 123-05 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ioh(ann)is         | ıohıſ     |   |   |   |   | lat |   |   |   | 123-05 | 2:context |          |  |489|    |    |    |
+| w   |        |   |   |   |   | d(i)c(t)i          | dc̅ı        |   |   |   |   | lat |   |   |   | 123-05 | 2:context |          |  |489|    |    |    |
+| w   |        |   |   |   |   | nafstok            | nafﬅok     |   |   |   |   | lat |   |   |   | 123-05 | 2:context |          |  |489|    |    |    |
 | PE  | e      | JenNaf001  |   |   |   |                    |            |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | i(n)               | ı̅          |   |   |   |   | lat |   |   |   | 123-05 | 2:context |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                    |            |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
@@ -143,7 +143,7 @@
 | w   |        |   |   |   |   | (etiam)            | ̅          |   |   |   |   | lat |   |   |   | 123-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(i)c(tu)m         | dc       |   |   |   |   | lat |   |   |   | 123-06 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AagXxx001  |   |   |   |                    |            |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Akone(m)           | kone     |   |   |   |   | lat |   |   |   | 123-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Akone(m)           | kone     |   |   |   |   | lat |   |   |   | 123-06 | 2:context |          |  |490|    |    |    |
 | PE  | e      | AagXxx001  |   |   |   |                    |            |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(ro)c(ur)atore(m) | ꝓcatoꝛe  |   |   |   |   | lat |   |   |   | 123-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | n(ost)r(u)m        | nr       |   |   |   |   | lat |   |   |   | 123-06 | 2:context |          |  |    |    |    |    |

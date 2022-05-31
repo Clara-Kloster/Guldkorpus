@@ -53,10 +53,10 @@
 | w   |        | kungøre      | xVB | kundgør       |   | kungør              | kungøꝛ       |   |   |   |   | dan |   |   |    |        373-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | jak          | xPE | jeg           |   | jech                | ȷech         |   |   |   |   | dan |   |   |    |        373-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | CecPed002    |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Cecilie       |   | Cecilie             | Cecılıe      |   |   |   |   | dan |   |   |    |        373-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |              | xNP | Peder         |   | pæth(e)r            | pæthr       |   |   |   |   | dan |   |   |    |        373-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |              | xNP | Krags         |   | krags               | krag        |   |   |   |   | dan |   |   |    |        373-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        | dotter       | xNC | datter        |   | Dott(er)            | Dott        |   |   |   |   | dan |   |   |    |        373-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |              | xNP | Cecilie       |   | Cecilie             | Cecılıe      |   |   |   |   | dan |   |   |    |        373-01 | 1:protocol |          |  |1567|    |    |    |
+| w   |        |              | xNP | Peder         |   | pæth(e)r            | pæthr       |   |   |   |   | dan |   |   |    |        373-01 | 1:protocol |          |  |1567|    |    |    |
+| w   |        |              | xNP | Krags         |   | krags               | krag        |   |   |   |   | dan |   |   |    |        373-01 | 1:protocol |          |  |1567|    |    |    |
+| w   |        | dotter       | xNC | datter        |   | Dott(er)            | Dott        |   |   |   |   | dan |   |   |    |        373-01 | 1:protocol |          |  |1567|    |    |    |
 | PE  | e      | CecPed002    |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | d   | e      | 1            |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | d   | b      | 2            |     | context       |   |                     |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -80,9 +80,9 @@
 | w   |        | kær          | xAJ | kære          |   | ker(e)              | ker         |   |   |   |   | dan |   |   |    |        373-02 | 2:context |          |  |    |    |    |    |
 | w   |        | husbonde     | xNC | husbonde      |   | hosbonde            | hoſbonde     |   |   |   |   | dan |   |   |    |        373-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AndJen003    |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Anders        |   | anders              | ander       |   |   |   |   | dan |   |   |    |        373-02 | 2:context |          |  |    |    |    |    |
+| w   |        |              | xNP | Anders        |   | anders              | ander       |   |   |   |   | dan |   |   |    |        373-02 | 2:context |          |  |1568|    |    |    |
 | lm  | 373-03 |              |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Jensens       |   | jenssons            | ȷenſſon     |   |   |   |   | dan |   |   |    |        373-03 | 2:context |          |  |    |    |    |    |
+| w   |        |              | xNP | Jensens       |   | jenssons            | ȷenſſon     |   |   |   |   | dan |   |   |    |        373-03 | 2:context |          |  |1568|    |    |    |
 | PE  | e      | AndJen003    |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ok           | xCC | og            |   | oc                  | oc           |   |   |   |   | dan |   |   |    |        373-03 | 2:context |          |  |    |    |    |    |
 | w   |        | flere        | xAJ | flere         |   | fler(e)             | fler        |   |   |   |   | dan |   |   |    |        373-03 | 2:context |          |  |    |    |    |    |
@@ -113,8 +113,8 @@
 | PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | sum          | xRP | som           |   | som                 | ſo          |   |   |   |   | dan |   |   |    |        373-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | NieMar001    |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Niels         |   | nis                 | nis          |   |   |   |   | dan |   |   |    |        373-04 | 2:context |          |  |    |    |    |    |
-| w   |        |              | xNP | Marth         |   | march               | march        |   |   |   |   | dan |   |   |    |        373-04 | 2:context |          |  |    |    |    |    |
+| w   |        |              | xNP | Niels         |   | nis                 | nis          |   |   |   |   | dan |   |   |    |        373-04 | 2:context |          |  |1569|    |    |    |
+| w   |        |              | xNP | Marth         |   | march               | march        |   |   |   |   | dan |   |   |    |        373-04 | 2:context |          |  |1569|    |    |    |
 | PE  | e      | NieMar001    |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | uti          | xAV | udi           |   | vd(e)               | v           |   |   |   |   | dan |   |   |    |        373-04 | 2:context |          |  |    |    |    |    |
 | w   |        | bo           | xVB | bor           |   | boor                | boor         |   |   |   |   | dan |   |   |    |        373-04 | 2:context |          |  |    |    |    |    |
@@ -138,8 +138,8 @@
 | w   |        | samestaths   | xAV | sammesteds    |   | sa(m)me stetz       | ſa̅me ſtetz   |   |   |   |   | dan |   |   |    |        373-05 | 2:context |          |  |    |    |    |    |
 | w   |        | sum          | xRP | som           |   | som                 | ſo          |   |   |   |   | dan |   |   |    |        373-05 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AndMar001    |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Anders        |   | and(e)rs            | andr       |   |   |   |   | dan |   |   |    |        373-05 | 2:context |          |  |    |    |    |    |
-| w   |        |              | xNP | Marth         |   | march               | march        |   |   |   |   | dan |   |   |    |        373-05 | 2:context |          |  |    |    |    |    |
+| w   |        |              | xNP | Anders        |   | and(e)rs            | andr       |   |   |   |   | dan |   |   |    |        373-05 | 2:context |          |  |2507|    |    |    |
+| w   |        |              | xNP | Marth         |   | march               | march        |   |   |   |   | dan |   |   |    |        373-05 | 2:context |          |  |2507|    |    |    |
 | PE  | e      | AndMar001    |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | uti          | xAV | udi           |   | vd(e)               | v           |   |   |   |   | dan |   |   |    |        373-05 | 2:context |          |  |    |    |    |    |
 | w   |        | bo           | xVB | bor           |   | boor                | boor         |   |   |   |   | dan |   |   |    |        373-05 | 2:context |          |  |    |    |    |    |
@@ -206,8 +206,8 @@
 | w   |        | min          | xDD | min           |   | my(n)               | my̅           |   |   |   |   | dan |   |   |    |        373-09 | 2:context |          |  |    |    |    |    |
 | w   |        | husbonde     | xNC | husbonde      |   | hosbonde            | hoſbonde     |   |   |   |   | dan |   |   |    |        373-09 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AndJen003    |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Anders        |   | andr(is)            | andrꝭ        |   |   |   |   | dan |   |   |    |        373-09 | 2:context |          |  |    |    |    |    |
-| w   |        |              | xNP | Jensen        |   | je(n)ss(øn)         | ȷe̅ſ         |   |   |   |   | dan |   |   |    |        373-09 | 2:context |          |  |    |    |    |    |
+| w   |        |              | xNP | Anders        |   | andr(is)            | andrꝭ        |   |   |   |   | dan |   |   |    |        373-09 | 2:context |          |  |2508|    |    |    |
+| w   |        |              | xNP | Jensen        |   | je(n)ss(øn)         | ȷe̅ſ         |   |   |   |   | dan |   |   |    |        373-09 | 2:context |          |  |2508|    |    |    |
 | PE  | e      | AndJen003    |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | fornævnd     | xAJ | fornævnte     |   | for(nefnde)         | forͩͤ          |   |   |   |   | dan |   |   |    |        373-09 | 2:context |          |  |    |    |    |    |
 | w   |        | ok           | xCC | og            |   | oc                  | oc           |   |   |   |   | dan |   |   |    |        373-09 | 2:context |          |  |    |    |    |    |
@@ -384,28 +384,28 @@
 | w   |        | svasum       | xRP | såsom         |   | soso(m)             | ſoſo̅         |   |   |   |   | dan |   |   |    |        373-20 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | være         | xVB | ere           |   | ær(e)               | ær          |   |   |   |   | dan |   |   |    |        373-20 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | JenKra004    |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Jens          |   | jens                | ȷen         |   |   |   |   | dan |   |   |    |        373-20 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |              | xNP | Krag          |   | kragh               | kragh        |   |   |   |   | dan |   |   |    |        373-20 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |              | xNP | Jens          |   | jens                | ȷen         |   |   |   |   | dan |   |   |    |        373-20 | 3:eschatocol |          |  |1570|    |    |    |
+| w   |        |              | xNP | Krag          |   | kragh               | kragh        |   |   |   |   | dan |   |   |    |        373-20 | 3:eschatocol |          |  |1570|    |    |    |
 | PE  | e      | JenKra004    |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | min          | xDP | min           |   | my(n)               | my̅           |   |   |   |   | dan |   |   |    |        373-20 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | brother      | xNC | broder        |   | broth(er)           | broth       |   |   |   |   | dan |   |   |    |        373-20 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | JenTho001    |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Jens          |   | jens                | ȷen         |   |   |   |   | dan |   |   |    |        373-20 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |              | xNP | Torbensen     |   | thorb(e)nss(øn)     | thorb̅nſ     |   |   |   |   | dan |   |   |    |        373-20 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |              | xNP | Jens          |   | jens                | ȷen         |   |   |   |   | dan |   |   |    |        373-20 | 3:eschatocol |          |  |1571|    |    |    |
+| w   |        |              | xNP | Torbensen     |   | thorb(e)nss(øn)     | thorb̅nſ     |   |   |   |   | dan |   |   |    |        373-20 | 3:eschatocol |          |  |1571|    |    |    |
 | PE  | e      | JenTho001    |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | lm  | 373-21 |              |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | PE  | b      | KleGri001    |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Klement       |   | cleme(n)t           | cleme̅t       |   |   |   |   | dan |   |   |    |        373-21 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |              | xNP | Griis         |   | griis               | griis        |   |   |   |   | dan |   |   |    |        373-21 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |              | xNP | Klement       |   | cleme(n)t           | cleme̅t       |   |   |   |   | dan |   |   |    |        373-21 | 3:eschatocol |          |  |1572|    |    |    |
+| w   |        |              | xNP | Griis         |   | griis               | griis        |   |   |   |   | dan |   |   |    |        373-21 | 3:eschatocol |          |  |1572|    |    |    |
 | PE  | e      | KleGri001    |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | PE  | b      | LarHen001    |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Lasse         |   | lasse               | laſſe        |   |   |   |   | dan |   |   |    |        373-21 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |              | xNP | Henriksen     |   | hinr(is)ss(øn)      | hınrꝭſ      |   |   |   |   | dan |   |   |    |        373-21 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |              | xNP | Lasse         |   | lasse               | laſſe        |   |   |   |   | dan |   |   |    |        373-21 | 3:eschatocol |          |  |1573|    |    |    |
+| w   |        |              | xNP | Henriksen     |   | hinr(is)ss(øn)      | hınrꝭſ      |   |   |   |   | dan |   |   |    |        373-21 | 3:eschatocol |          |  |1573|    |    |    |
 | PE  | e      | LarHen001    |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ok           | xCC | og            |   | oc                  | oc           |   |   |   |   | dan |   |   |    |        373-21 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | frue         | xNC | fru           |   | frw                 | frw          |   |   |   |   | dan |   |   |    |        373-21 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | KriXxx003    |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |              | xNP | Kirstine      |   | kirstine            | kırstıne     |   |   |   |   | dan |   |   |    |        373-21 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |              | xNP | Kirstine      |   | kirstine            | kırstıne     |   |   |   |   | dan |   |   |    |        373-21 | 3:eschatocol |          |  |1574|    |    |    |
 | PE  | e      | KriXxx003    |     |               |   |                     |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | min          | xDP | min           |   | my(n)               | my̅           |   |   |   |   | dan |   |   |    |        373-21 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | systerdotter | xNC | søsterdatters |   | søst(er)dott(er)s   | ſøſtdott  |   |   |   |   | dan |   |   |    |        373-21 | 3:eschatocol |          |  |    |    |    |    |

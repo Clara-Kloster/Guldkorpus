@@ -55,8 +55,8 @@ Entity vdblac = v with breve
 | w   |        | helse       | xVB | hilse        |   | Helse            | Helſe       |   |   |   |            | dan |   |   |   |        458-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | vi          | xPE | vi           |   | wij              | wij         |   |   |   |            | dan |   |   |   |        458-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | PerOls001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Per          |   | p(er)            | p̲           |   |   |   |            | dan |   |   |   |        458-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Olsen        |   | olss(øn)         | olſ        |   |   |   |            | dan |   |   |   |        458-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Per          |   | p(er)            | p̲           |   |   |   |            | dan |   |   |   |        458-01 | 1:protocol |          |  |2243|    |    |    |
+| w   |        |             | xNP | Olsen        |   | olss(øn)         | olſ        |   |   |   |            | dan |   |   |   |        458-01 | 1:protocol |          |  |2243|    |    |    |
 | PE  | e      | PerOls001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-01 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -71,16 +71,16 @@ Entity vdblac = v with breve
 | PL  | e      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | hæreth      | xNC | herred       |   | H(e)ridtt        | H̅ꝛıdtt      |   |   |   |            | dan |   |   |   |        458-02 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | JenJep001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Jens         |   | iens             | ıen        |   |   |   |            | dan |   |   |   |        458-02 | 1:protocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Jepsen       |   | ieps(øn)         | ıep        |   |   |   |            | dan |   |   |   |        458-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Jens         |   | iens             | ıen        |   |   |   |            | dan |   |   |   |        458-02 | 1:protocol |          |  |2244|    |    |    |
+| w   |        |             | xNP | Jepsen       |   | ieps(øn)         | ıep        |   |   |   |            | dan |   |   |   |        458-02 | 1:protocol |          |  |2244|    |    |    |
 | PE  | e      | JenJep001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-02 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |             | xNP | Stenlille    |   | stenlille        | ﬅenlille    |   |   |   |            | dan |   |   |   |        458-02 | 1:protocol |          |  |    |    |    |    |
 | PL  | e      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | NieLau003   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Niels        |   | niels            | niel       |   |   |   |            | dan |   |   |   |        458-02 | 1:protocol |          |  |    |    |    |    |
-| w   |        |             | xNP | Larsen       |   | lauridzen(n)     | laŭꝛidzen̅   |   |   |   |            | dan |   |   |   |        458-02 | 1:protocol |          |  |    |    |    |    |
+| w   |        |             | xNP | Niels        |   | niels            | niel       |   |   |   |            | dan |   |   |   |        458-02 | 1:protocol |          |  |2245|    |    |    |
+| w   |        |             | xNP | Larsen       |   | lauridzen(n)     | laŭꝛidzen̅   |   |   |   |            | dan |   |   |   |        458-02 | 1:protocol |          |  |2245|    |    |    |
 | PE  | e      | NieLau003   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-02 | 1:protocol |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -130,8 +130,8 @@ Entity vdblac = v with breve
 | w   |        | man         | xNC | mænd         |   | me(n)d           | me̅d         |   |   |   |            | dan |   |   |   |        458-05 | 2:context |          |  |    |    |    |    |
 | lm  | 458-06 |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | MogAnd002   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Mogens       |   | moens            | moen       |   |   |   |            | dan |   |   |   |        458-06 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Andersen     |   | anderss(øn)      | andeꝛſ     |   |   |   |            | dan |   |   |   |        458-06 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Mogens       |   | moens            | moen       |   |   |   |            | dan |   |   |   |        458-06 | 2:context |          |  |2246|    |    |    |
+| w   |        |             | xNP | Andersen     |   | anderss(øn)      | andeꝛſ     |   |   |   |            | dan |   |   |   |        458-06 | 2:context |          |  |2246|    |    |    |
 | PE  | e      | MogAnd002   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-06 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -150,8 +150,8 @@ Entity vdblac = v with breve
 | w   |        | beskethen   | xAJ | beskeden     |   | beskenn(n)       | beſkenn̅     |   |   |   |            | dan |   |   |   |        458-07 | 2:context |          |  |    |    |    |    |
 | w   |        | man         | xNC | mand         |   | mandtt           | mandtt      |   |   |   |            | dan |   |   |   |        458-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | HanSve001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Hans         |   | Hans             | Han        |   |   |   |            | dan |   |   |   |        458-07 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Svendsen     |   | Suenss(øn)       | ŭenſ      |   |   |   |            | dan |   |   |   |        458-07 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Hans         |   | Hans             | Han        |   |   |   |            | dan |   |   |   |        458-07 | 2:context |          |  |2247|    |    |    |
+| w   |        |             | xNP | Svendsen     |   | Suenss(øn)       | ŭenſ      |   |   |   |            | dan |   |   |   |        458-07 | 2:context |          |  |2247|    |    |    |
 | PE  | e      | HanSve001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-07 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -210,9 +210,9 @@ Entity vdblac = v with breve
 | w   |        | bo          | xVB | boede        |   | bødd             | bødd        |   |   |   |            | dan |   |   |   |        458-10 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-10 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MogAnd002   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Mogens       |   | moe(n)s          | moe̅        |   |   |   |            | dan |   |   |   |        458-10 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Mogens       |   | moe(n)s          | moe̅        |   |   |   |            | dan |   |   |   |        458-10 | 2:context |          |  |2248|    |    |    |
 | lm  | 458-11 |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Andersens    |   | anders           | andeꝛ      |   |   |   |            | dan |   |   |   |        458-11 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Andersens    |   | anders           | andeꝛ      |   |   |   |            | dan |   |   |   |        458-11 | 2:context |          |  |2248|    |    |    |
 | PE  | e      | MogAnd002   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | garth       | xNC | gård         |   | gaard            | gaaꝛd       |   |   |   |            | dan |   |   |   |        458-11 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | ij               | ij          |   |   |   |            | dan |   |   |   |        458-11 | 2:context |          |  |    |    |    |    |
@@ -226,7 +226,7 @@ Entity vdblac = v with breve
 | w   |        | beskethen   | xAJ | beskeden     |   | beskenn(n)       | beſkenn̅     |   |   |   |            | dan |   |   |   |        458-11 | 2:context |          |  |    |    |    |    |
 | w   |        | man         | xNC | mand         |   | mandtt           | mandtt      |   |   |   |            | dan |   |   |   |        458-11 | 2:context |          |  |    |    |    |    |
 | PE  | b      | PerOls001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Per          |   | p(er)            | p̲           |   |   |   |            | dan |   |   |   |        458-11 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Per          |   | p(er)            | p̲           |   |   |   |            | dan |   |   |   |        458-11 | 2:context |          |  |2249|    |    |    |
 | PE  | e      | PerOls001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | foghet      | xNC | foged        |   | fogidtt          | fogidtt     |   |   |   |            | dan |   |   |   |        458-11 | 2:context |          |  |    |    |    |    |
 | lm  | 458-12 |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -276,8 +276,8 @@ Entity vdblac = v with breve
 | w   |        | man         | xNC | mand         |   | mandtt           | mandtt      |   |   |   |            | dan |   |   |   |        458-14 | 2:context |          |  |    |    |    |    |
 | lm  | 458-15 |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | HenAnd001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Henning      |   | Henning          | Henning     |   |   |   |            | dan |   |   |   |        458-15 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Andersen     |   | anders(øn)       | andeꝛ      |   |   |   |            | dan |   |   |   |        458-15 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Henning      |   | Henning          | Henning     |   |   |   |            | dan |   |   |   |        458-15 | 2:context |          |  |2250|    |    |    |
+| w   |        |             | xNP | Andersen     |   | anders(øn)       | andeꝛ      |   |   |   |            | dan |   |   |   |        458-15 | 2:context |          |  |2250|    |    |    |
 | PE  | e      | HenAnd001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-15 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -323,8 +323,8 @@ Entity vdblac = v with breve
 | lm  | 458-18 |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | man         | xNC | mand         |   | mandtt           | mandtt      |   |   |   |            | dan |   |   |   |        458-18 | 2:context |          |  |    |    |    |    |
 | PE  | b      | NieLau004   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Niels        |   | niels            | niel       |   |   |   |            | dan |   |   |   |        458-18 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Larsen       |   | laurids(øn)      | lauꝛid     |   |   |   |            | dan |   |   |   |        458-18 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Niels        |   | niels            | niel       |   |   |   |            | dan |   |   |   |        458-18 | 2:context |          |  |2251|    |    |    |
+| w   |        |             | xNP | Larsen       |   | laurids(øn)      | lauꝛid     |   |   |   |            | dan |   |   |   |        458-18 | 2:context |          |  |2251|    |    |    |
 | PE  | e      | NieLau004   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-18 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -367,9 +367,9 @@ Entity vdblac = v with breve
 | w   |        | af          | xAP | af           |   | aff              | aﬀ          |   |   |   |            | dan |   |   |   |        458-20 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd    | xAJ | fornævnte    |   | for(nefnde)      | foꝛᷠͤ         |   |   |   |            | dan |   |   |   |        458-20 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MogAnd002   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Mogens       |   | moens            | moen       |   |   |   |            | dan |   |   |   |        458-20 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Mogens       |   | moens            | moen       |   |   |   |            | dan |   |   |   |        458-20 | 2:context |          |  |2252|    |    |    |
 | lm  | 458-21 |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Andersen     |   | anderss(øn)      | andeꝛſ     |   |   |   |            | dan |   |   |   |        458-21 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Andersen     |   | anderss(øn)      | andeꝛſ     |   |   |   |            | dan |   |   |   |        458-21 | 2:context |          |  |2252|    |    |    |
 | PE  | e      | MogAnd002   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og           |   | oc               | oc          |   |   |   |            | dan |   |   |   |        458-21 | 2:context |          |  |    |    |    |    |
 | w   |        | af          | xAP | af           |   | aff              | aﬀ          |   |   |   |            | dan |   |   |   |        458-21 | 2:context |          |  |    |    |    |    |
@@ -382,8 +382,8 @@ Entity vdblac = v with breve
 | w   |        | fa          | xVB | fik          |   | fick             | fıck        |   |   |   |            | dan |   |   |   |        458-21 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd    | xAJ | fornævnte    |   | ffor(nefnde)     | ﬀoꝛᷠͤ         |   |   |   |            | dan |   |   |   |        458-21 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MogAnd002   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Mogens       |   | moens            | moen       |   |   |   |            | dan |   |   |   |        458-21 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Andersen     |   | and(er)ss(øn)    | andſ      |   |   |   |            | dan |   |   |   |        458-21 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Mogens       |   | moens            | moen       |   |   |   |            | dan |   |   |   |        458-21 | 2:context |          |  |2253|    |    |    |
+| w   |        |             | xNP | Andersen     |   | and(er)ss(øn)    | andſ      |   |   |   |            | dan |   |   |   |        458-21 | 2:context |          |  |2253|    |    |    |
 | PE  | e      | MogAnd002   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 458-22 |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | en          | xAT | et           |   | Ett              | Ett         |   |   |   |            | dan |   |   |   |        458-22 | 2:context |          |  |    |    |    |    |
@@ -407,8 +407,8 @@ Entity vdblac = v with breve
 | w   |        | en          | xPI | en           |   | enn(n)           | enn̅         |   |   |   |            | dan |   |   |   |        458-23 | 2:context |          |  |    |    |    |    |
 | w   |        | sum         | xRP | som          |   | som(m)           | ſom̅         |   |   |   |            | dan |   |   |   |        458-23 | 2:context |          |  |    |    |    |    |
 | PE  | b      | SveHof001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Sven         |   | Suend            | ŭend       |   |   |   |            | dan |   |   |   |        458-23 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Hoffman      |   | Hoffmandtt       | Hoﬀmandtt   |   |   |   |            | dan |   |   |   |        458-23 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Sven         |   | Suend            | ŭend       |   |   |   |            | dan |   |   |   |        458-23 | 2:context |          |  |2254|    |    |    |
+| w   |        |             | xNP | Hoffman      |   | Hoffmandtt       | Hoﬀmandtt   |   |   |   |            | dan |   |   |   |        458-23 | 2:context |          |  |2254|    |    |    |
 | PE  | e      | SveHof001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-23 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -416,26 +416,26 @@ Entity vdblac = v with breve
 | PL  | e      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 458-24 |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | AriAnd001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Arild        |   | arild            | aꝛild       |   |   |   |            | dan |   |   |   |        458-24 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Andersen     |   | and(er)ss(øn)    | andſ      |   |   |   |            | dan |   |   |   |        458-24 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Arild        |   | arild            | aꝛild       |   |   |   |            | dan |   |   |   |        458-24 | 2:context |          |  |2255|    |    |    |
+| w   |        |             | xNP | Andersen     |   | and(er)ss(øn)    | andſ      |   |   |   |            | dan |   |   |   |        458-24 | 2:context |          |  |2255|    |    |    |
 | PE  | e      | AriAnd001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-24 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |             | xNP | Uggerløse    |   | vgg(er)løsse     | vggløe    |   |   |   |            | dan |   |   |   |        458-24 | 2:context |          |  |    |    |    |    |
 | PL  | e      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | LarNie003   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Lasse        |   | lase             | laſe        |   |   |   |            | dan |   |   |   |        458-24 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Nielsen      |   | nielss(øn)       | nielſ      |   |   |   |            | dan |   |   |   |        458-24 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Lasse        |   | lase             | laſe        |   |   |   |            | dan |   |   |   |        458-24 | 2:context |          |  |2256|    |    |    |
+| w   |        |             | xNP | Nielsen      |   | nielss(øn)       | nielſ      |   |   |   |            | dan |   |   |   |        458-24 | 2:context |          |  |2256|    |    |    |
 | PE  | e      | LarNie003   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | ibidem      | xAV |             |   | ibid(em)         | ibi        |   |   |   |            | lat |   |   |   |        458-24 | 2:context |          |  |    |    |    |    |
 | PE  | b      | PerMad001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Per          |   | p(er)            | p̲           |   |   |   |            | dan |   |   |   |        458-24 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Madsen       |   | mattzenn(n)      | mattzenn̅    |   |   |   |            | dan |   |   |   |        458-24 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Per          |   | p(er)            | p̲           |   |   |   |            | dan |   |   |   |        458-24 | 2:context |          |  |2257|    |    |    |
+| w   |        |             | xNP | Madsen       |   | mattzenn(n)      | mattzenn̅    |   |   |   |            | dan |   |   |   |        458-24 | 2:context |          |  |2257|    |    |    |
 | PE  | e      | PerMad001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | ibidem      | xAV |             |   | ibid(em)         | ıbi        |   |   |   |            | lat |   |   |   |        458-24 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JenOls002   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Jens         |   | iens             | ıen        |   |   |   |            | dan |   |   |   |        458-24 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Olsen        |   | olss(øn)         | olſ        |   |   |   |            | dan |   |   |   |        458-24 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Jens         |   | iens             | ıen        |   |   |   |            | dan |   |   |   |        458-24 | 2:context |          |  |2258|    |    |    |
+| w   |        |             | xNP | Olsen        |   | olss(øn)         | olſ        |   |   |   |            | dan |   |   |   |        458-24 | 2:context |          |  |2258|    |    |    |
 | PE  | e      | JenOls002   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-24 | 2:context |          |  |    |    |    |    |
 | lm  | 458-25 |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -443,21 +443,21 @@ Entity vdblac = v with breve
 | w   |        |             | xNP | Østrup       |   | øst(rv)p         | øﬅͮp         |   |   |   |            | dan |   |   |   |        458-25 | 2:context |          |  |    |    |    |    |
 | PL  | e      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | PerEri002   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Per          |   | p(er)            | p̲           |   |   |   |            | dan |   |   |   |        458-25 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Eriksen      |   | Erickss(øn)      | Eꝛickſ     |   |   |   |            | dan |   |   |   |        458-25 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Per          |   | p(er)            | p̲           |   |   |   |            | dan |   |   |   |        458-25 | 2:context |          |  |2259|    |    |    |
+| w   |        |             | xNP | Eriksen      |   | Erickss(øn)      | Eꝛickſ     |   |   |   |            | dan |   |   |   |        458-25 | 2:context |          |  |2259|    |    |    |
 | PE  | e      | PerEri002   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-25 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |             | xNP | Vanløse      |   | vandløse         | vandløſe    |   |   |   |            | dan |   |   |   |        458-25 | 2:context |          |  |    |    |    |    |
 | PL  | e      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | OluPed004   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Oluf         |   | oluf             | oluf        |   |   |   |            | dan |   |   |   |        458-25 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Persen       |   | p(er)ss(øn)      | p̲ſ         |   |   |   |            | dan |   |   |   |        458-25 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Oluf         |   | oluf             | oluf        |   |   |   |            | dan |   |   |   |        458-25 | 2:context |          |  |2260|    |    |    |
+| w   |        |             | xNP | Persen       |   | p(er)ss(øn)      | p̲ſ         |   |   |   |            | dan |   |   |   |        458-25 | 2:context |          |  |2260|    |    |    |
 | PE  | e      | OluPed004   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | ibidem      | xAV |             |   | ibid(em)         | ibi        |   |   |   |            | lat |   |   |   |        458-25 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JenHan002   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Jens         |   | iens             | ıen        |   |   |   |            | dan |   |   |   |        458-25 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Hansen       |   | Hanss(øn)        | Hanſ       |   |   |   |            | dan |   |   |   |        458-25 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Jens         |   | iens             | ıen        |   |   |   |            | dan |   |   |   |        458-25 | 2:context |          |  |2261|    |    |    |
+| w   |        |             | xNP | Hansen       |   | Hanss(øn)        | Hanſ       |   |   |   |            | dan |   |   |   |        458-25 | 2:context |          |  |2261|    |    |    |
 | PE  | e      | JenHan002   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-25 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -465,13 +465,13 @@ Entity vdblac = v with breve
 | PL  | e      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 458-26 |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | NieMog001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Niels        |   | nielß            | nielß       |   |   |   |            | dan |   |   |   |        458-26 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Mogensen     |   | moenss(øn)       | moenſ      |   |   |   |            | dan |   |   |   |        458-26 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Niels        |   | nielß            | nielß       |   |   |   |            | dan |   |   |   |        458-26 | 2:context |          |  |2262|    |    |    |
+| w   |        |             | xNP | Mogensen     |   | moenss(øn)       | moenſ      |   |   |   |            | dan |   |   |   |        458-26 | 2:context |          |  |2262|    |    |    |
 | PE  | e      | NieMog001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | ibidem      | xAV |              |   | ibid(em)         | ibi        |   |   |   |            | lat |   |   |   |        458-26 | 2:context |          |  |    |    |    |    |
 | PE  | b      | LarGal001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Lars         |   | lasse            | laſſe       |   |   |   |            | dan |   |   |   |        458-26 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Galind       |   | galind           | galind      |   |   |   |            | dan |   |   |   |        458-26 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Lars         |   | lasse            | laſſe       |   |   |   |            | dan |   |   |   |        458-26 | 2:context |          |  |2263|    |    |    |
+| w   |        |             | xNP | Galind       |   | galind           | galind      |   |   |   |            | dan |   |   |   |        458-26 | 2:context |          |  |2263|    |    |    |
 | PE  | e      | LarGal001   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-26 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -479,8 +479,8 @@ Entity vdblac = v with breve
 | PL  | e      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og           |   | och              | och         |   |   |   |            | dan |   |   |   |        458-26 | 2:context |          |  |    |    |    |    |
 | PE  | b      | OluJen005   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |             | xNP | Oluf         |   | oluff            | oluﬀ        |   |   |   |            | dan |   |   |   |        458-26 | 2:context |          |  |    |    |    |    |
-| w   |        |             | xNP | Jensen       |   | ienss(øn)        | ıenſ       |   |   |   |            | dan |   |   |   |        458-26 | 2:context |          |  |    |    |    |    |
+| w   |        |             | xNP | Oluf         |   | oluff            | oluﬀ        |   |   |   |            | dan |   |   |   |        458-26 | 2:context |          |  |2264|    |    |    |
+| w   |        |             | xNP | Jensen       |   | ienss(øn)        | ıenſ       |   |   |   |            | dan |   |   |   |        458-26 | 2:context |          |  |2264|    |    |    |
 | PE  | e      | OluJen005   |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i            |   | i                | i           |   |   |   |            | dan |   |   |   |        458-26 | 2:context |          |  |    |    |    |    |
 | PL  | b      |             |     |              |   |                  |             |   |   |   |            |     |   |   |   |               |          |          |  |    |    |    |    |

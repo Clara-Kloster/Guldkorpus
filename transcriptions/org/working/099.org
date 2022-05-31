@@ -50,7 +50,7 @@
 | p   |       |   |   |   |   | /                | /            |   |   |   |   | lat |   |   |   |       99-01 | 1:protocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | mag(iste)r       | agr        |   |   |   |   | lat |   |   |   |       99-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b     |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Rano             | Rano         |   |   |   |   | lat |   |   |   |       99-01 | 1:protocol |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Rano             | Rano         |   |   |   |   | lat |   |   |   |       99-01 | 1:protocol |          |  |393|    |    |    |
 | PE  | e     |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | p   |       |   |   |   |   | /                | /            |   |   |   |   | lat |   |   |   |       99-01 | 1:protocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | Decanus          | Decanus      |   |   |   |   | lat |   |   |   |       99-01 | 1:protocol |          |  |    |    |    |    |
@@ -74,9 +74,9 @@
 | w   |       |   |   |   |   | nos              | nos          |   |   |   |   | lat |   |   |   |       99-02 | 2:context |          |  |    |    |    |    |
 | p   |       |   |   |   |   | /                | /            |   |   |   |   | lat |   |   |   |       99-02 | 2:context |          |  |    |    |    |    |
 | PE  | b     |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Olauo            | Olauo        |   |   |   |   | lat |   |   |   |       99-02 | 2:context |          |  |    |    |    |    |
-| w   |       |   |   |   |   | d(i)c(t)o        | ꝺco         |   |   |   |   | lat |   |   |   |       99-02 | 2:context |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Lunggæ           | Lunggæ       |   |   |   |   | lat |   |   |   |       99-02 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Olauo            | Olauo        |   |   |   |   | lat |   |   |   |       99-02 | 2:context |          |  |394|    |    |    |
+| w   |       |   |   |   |   | d(i)c(t)o        | ꝺco         |   |   |   |   | lat |   |   |   |       99-02 | 2:context |          |  |394|    |    |    |
+| w   |       |   |   |   |   | Lunggæ           | Lunggæ       |   |   |   |   | lat |   |   |   |       99-02 | 2:context |          |  |394|    |    |    |
 | PE  | e     |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | p   |       |   |   |   |   | /                | /            |   |   |   |   | lat |   |   |   |       99-02 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | dil(e)c(t)o      | ꝺılco       |   |   |   |   | lat |   |   |   |       99-02 | 2:context |          |  |    |    |    |    |
@@ -116,9 +116,9 @@
 | p   |       |   |   |   |   | /                | /            |   |   |   |   | lat |   |   |   |       99-04 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | D(omi)n(u)m      | Dn         |   |   |   |   | lat |   |   |   |       99-04 | 2:context |          |  |    |    |    |    |
 | PE  | b     |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Olauum           | Olauu       |   |   |   |   | lat |   |   |   |       99-04 | 2:context |          |  |    |    |    |    |
-| w   |       |   |   |   |   | d(i)c(tu)m       | ꝺc         |   |   |   |   | lat |   |   |   |       99-04 | 2:context |          |  |    |    |    |    |
-| w   |       |   |   |   |   | Rostok           | Roﬅok        |   |   |   |   | lat |   |   |   |       99-04 | 2:context |          |  |    |    |    |    |
+| w   |       |   |   |   |   | Olauum           | Olauu       |   |   |   |   | lat |   |   |   |       99-04 | 2:context |          |  |395|    |    |    |
+| w   |       |   |   |   |   | d(i)c(tu)m       | ꝺc         |   |   |   |   | lat |   |   |   |       99-04 | 2:context |          |  |395|    |    |    |
+| w   |       |   |   |   |   | Rostok           | Roﬅok        |   |   |   |   | lat |   |   |   |       99-04 | 2:context |          |  |395|    |    |    |
 | PE  | e     |   |   |   |   |                  |              |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | p   |       |   |   |   |   | /                | /            |   |   |   |   | lat |   |   |   |       99-04 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | jure             | ȷure         |   |   |   |   | lat |   |   |   |       99-04 | 2:context |          |  |    |    |    |    |

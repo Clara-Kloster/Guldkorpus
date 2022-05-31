@@ -55,8 +55,8 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | jak           | xPE         | jeg           |   | jegh                  | ȷegh         |   |   |   |   | dan |   |   |    |        408-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | mæstere       | xNC         | mester        |   | mesth(e)r             | meﬅh̅ꝛ        |   |   |   |   | dan |   |   |    |        408-01 | 1:protocol |          |  |    |    |    |    |
 | PE  | b      | HanOlu001     |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP         | hans          |   | hans                  | han         |   |   |   |   | dan |   |   |    |        408-01 | 1:protocol |          |  |    |    |    |    |
-| w   |        |               | xNP         | Olsen         |   | Olss(øn)              | Olſ         |   |   |   |   | dan |   |   |    |        408-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |               | xNP         | hans          |   | hans                  | han         |   |   |   |   | dan |   |   |    |        408-01 | 1:protocol |          |  |1854|    |    |    |
+| w   |        |               | xNP         | Olsen         |   | Olss(øn)              | Olſ         |   |   |   |   | dan |   |   |    |        408-01 | 1:protocol |          |  |1854|    |    |    |
 | PE  | e      | HanOlu001     |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | kanik         | xNC         | kannik        |   | Canich                | Canich       |   |   |   |   | dan |   |   |    |        408-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i             | xAP         | i             |   | i                     | i            |   |   |   |   | dan |   |   |    |        408-01 | 1:protocol |          |  |    |    |    |    |
@@ -84,8 +84,8 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | hærre         | xNC         | herres        |   | h(er)r(is)            | h̅rꝭ          |   |   |   |   | dan |   |   |    |        408-02 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre         | xNC         | hr.            |   | her                   | heꝛ          |   |   |   |   | dan |   |   |    |        408-02 | 2:context |          |  |    |    |    |    |
 | PE  | b      | OluMor001     |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP         | Oluf          |   | Oluff                 | Oluff        |   |   |   |   | dan |   |   |    |        408-02 | 2:context |          |  |    |    |    |    |
-| w   |        |               | xNP         | Mortensen     |   | morth(e)nss(øn)       | moꝛth̅nſ     |   |   |   |   | dan |   |   |    |        408-02 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP         | Oluf          |   | Oluff                 | Oluff        |   |   |   |   | dan |   |   |    |        408-02 | 2:context |          |  |1855|    |    |    |
+| w   |        |               | xNP         | Mortensen     |   | morth(e)nss(øn)       | moꝛth̅nſ     |   |   |   |   | dan |   |   |    |        408-02 | 2:context |          |  |1855|    |    |    |
 | PE  | e      | OluMor001     |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | biskop        | xNC         | biskop        |   | biscop                | bıſcop       |   |   |   |   | dan |   |   |    |        408-02 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP         | i             |   | i                     | i            |   |   |   |   | dan |   |   |    |        408-02 | 2:context |          |  |    |    |    |    |
@@ -117,8 +117,8 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | man           | xNC         | mand          |   | ma(n)                 | ma̅           |   |   |   |   | dan |   |   |    |        408-04 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre         | xNC         | hr.            |   | h(er)                 | h̅            |   |   |   |   | dan |   |   |    |        408-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | OddHan001     |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP         | Odde          |   | Oddæ                  | Oddæ         |   |   |   |   | dan |   |   |    |        408-04 | 2:context |          |  |    |    |    |    |
-| w   |        |               | xNP         | Hansen        |   | hanss(øn)             | hanſ        |   |   |   |   | dan |   |   |    |        408-04 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP         | Odde          |   | Oddæ                  | Oddæ         |   |   |   |   | dan |   |   |    |        408-04 | 2:context |          |  |1856|    |    |    |
+| w   |        |               | xNP         | Hansen        |   | hanss(øn)             | hanſ        |   |   |   |   | dan |   |   |    |        408-04 | 2:context |          |  |1856|    |    |    |
 | PE  | e      | OddHan001     |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | kantor        | xNC         | kantor        |   | Cantor(e)             | Cantor      |   |   |   |   | dan |   |   |    |        408-04 | 2:context |          |  |    |    |    |    |
 | w   |        | ok            | xCC         | og            |   | och                   | och          |   |   |   |   | dan |   |   |    |        408-04 | 2:context |          |  |    |    |    |    |
@@ -160,7 +160,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | hærre         | xNC         | hr.            |   | h(er)                 | h̅            |   |   |   |   | dan |   |   |    |        408-05 | 2:context |          |  |    |    |    |    |
 | lm  | 408-06 |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | PE  | b      | OddHan001     |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP         | Odde          |   | oddæ                  | oddæ         |   |   |   |   | dan |   |   |    |        408-06 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP         | Odde          |   | oddæ                  | oddæ         |   |   |   |   | dan |   |   |    |        408-06 | 2:context |          |  |1857|    |    |    |
 | PE  | e      | OddHan001     |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ok            | xCC         | og            |   | och                   | och          |   |   |   |   | dan |   |   |    |        408-06 | 2:context |          |  |    |    |    |    |
 | w   |        | al            | xAJ         | alle          |   | allæ                  | allæ         |   |   |   |   | dan |   |   |    |        408-06 | 2:context |          |  |    |    |    |    |
@@ -243,8 +243,8 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | sum           | xRP         | som           |   | som                   | ſom          |   |   |   |   | dan |   |   |    |        408-10 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre         | xNC         | hr.            |   | h(er)                 | h̅            |   |   |   |   | dan |   |   |    |        408-10 | 2:context |          |  |    |    |    |    |
 | PE  | b      | MogHan001     |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP         | Mogens        |   | mawens                | mawen       |   |   |   |   | dan |   |   |    |        408-10 | 2:context |          |  |    |    |    |    |
-| w   |        |               | xNP         | Hansen        |   | hanss(øn)             | hanſ        |   |   |   |   | dan |   |   |    |        408-10 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP         | Mogens        |   | mawens                | mawen       |   |   |   |   | dan |   |   |    |        408-10 | 2:context |          |  |1858|    |    |    |
+| w   |        |               | xNP         | Hansen        |   | hanss(øn)             | hanſ        |   |   |   |   | dan |   |   |    |        408-10 | 2:context |          |  |1858|    |    |    |
 | PE  | e      | MogHan001     |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | nu            | xAV         | nu            |   | nw                    | nw           |   |   |   |   | dan |   |   |    |        408-10 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAV         | i             |   | i                     | ı            |   |   |   |   | dan |   |   |    |        408-10 | 2:context |          |  |    |    |    |    |
@@ -364,7 +364,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | forskreven    | xAJ         | forskrevne    |   | for(skreffne)         | foꝛᷠͤ          |   |   |   |   | dan |   |   |    |        408-16 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre         | xNC         | hr.            |   | h(er)                 | h̅            |   |   |   |   | dan |   |   |    |        408-16 | 2:context |          |  |    |    |    |    |
 | PE  | b      | OddHan001     |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP         | Odde          |   | Odd(e)                | Od          |   |   |   |   | dan |   |   |    |        408-16 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP         | Odde          |   | Odd(e)                | Od          |   |   |   |   | dan |   |   |    |        408-16 | 2:context |          |  |1859|    |    |    |
 | PE  | e      | OddHan001     |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | garth         | xNC         | gård          |   | gardh                 | gaꝛdh        |   |   |   |   | dan |   |   |    |        408-16 | 2:context |          |  |    |    |    |    |
 | w   |        | ok            | xCC         | og            |   | {oc}                  | {oc}         |   |   |   |   | dan |   |   |    |        408-16 | 2:context |          |  |    |    |    |    |
@@ -386,7 +386,7 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | fyrste        | xNC         | fyrste        |   | førstæ                | føꝛﬅæ        |   |   |   |   | dan |   |   |    |        408-17 | 2:context |          |  |    |    |    |    |
 | w   |        | kunung        | xNC         | konge         |   | ko(n)ni(n)gh          | ko̅ni̅gh       |   |   |   |   | dan |   |   |    |        408-17 | 2:context |          |  |    |    |    |    |
 | PE  | b      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP         | Christian     |   | Cristiern             | Criﬅıeꝛ     |   |   |   |   | dan |   |   |    |        408-17 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP         | Christian     |   | Cristiern             | Criﬅıeꝛ     |   |   |   |   | dan |   |   |    |        408-17 | 2:context |          |  |1860|    |    |    |
 | PE  | e      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | stifte        | xVB         | stiftede      |   | stifftedhæ            | ﬅıfftedhæ    |   |   |   |   | dan |   |   |    |        408-17 | 2:context |          |  |    |    |    |    |
 | w   |        | hvilik        | xDD         | hvilken       |   | hwilken               | hwılken      |   |   |   |   | dan |   |   |    |        408-17 | 2:context |          |  |    |    |    |    |
@@ -398,8 +398,8 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | køpe          | xVB         | købte         |   | køptæ                 | køptæ        |   |   |   |   | dan |   |   |    |        408-18 | 2:context |          |  |    |    |    |    |
 | w   |        | af            | xAP         | af            |   | aff                   | aff          |   |   |   |   | dan |   |   |    |        408-18 | 2:context |          |  |    |    |    |    |
 | PE  | b      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP         | Hans          |   | hans                  | han         |   |   |   |   | dan |   |   |    |        408-18 | 2:context |          |  |    |    |    |    |
-| w   |        |               | xNP         | Dargher       |   | dargh(e)r             | daꝛgh̅ꝛ       |   |   |   |   | dan |   |   |    |        408-18 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP         | Hans          |   | hans                  | han         |   |   |   |   | dan |   |   |    |        408-18 | 2:context |          |  |2545|    |    |    |
+| w   |        |               | xNP         | Dargher       |   | dargh(e)r             | daꝛgh̅ꝛ       |   |   |   |   | dan |   |   |    |        408-18 | 2:context |          |  |2545|    |    |    |
 | PE  | e      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | rathman       | xNC         | rådmand       |   | radma(n)              | radma̅        |   |   |   |   | dan |   |   |    |        408-18 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP         | i             |   | i                     | i            |   |   |   |   | dan |   |   |    |        408-18 | 2:context |          |  |    |    |    |    |
@@ -435,8 +435,8 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | ok            | xCC         | og            |   | oc                    | oc           |   |   |   |   | dan |   |   |    |        408-19 | 2:context |          |  |    |    |    |    |
 | w   |        | forskreven    | xAJ         | forskrevne    |   | for(skreffne)         | foꝛᷠͤ          |   |   |   |   | dan |   |   |    |        408-19 | 2:context |          |  |    |    |    |    |
 | PE  | b      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP         | Hans          |   | ha(n)s                | ha̅          |   |   |   |   | dan |   |   |    |        408-19 | 2:context |          |  |    |    |    |    |
-| w   |        |               | xNP         |               |   | ⸠0⸡erli¦ghe           | ⸠0⸡eꝛli¦ghe  |   |   |   |   | dan |   |   |    | 408-19-408-20 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP         | Hans          |   | ha(n)s                | ha̅          |   |   |   |   | dan |   |   |    |        408-19 | 2:context |          |  |2546|    |    |    |
+| w   |        |               | xNP         |               |   | ⸠0⸡erli¦ghe           | ⸠0⸡eꝛli¦ghe  |   |   |   |   | dan |   |   |    | 408-19-408-20 | 2:context |          |  |2546|    |    |    |
 | PE  | e      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | kapitel       | xNC         | kapitel       |   | Capitel               | Capıtel      |   |   |   |   | dan |   |   |    |        408-20 | 2:context |          |  |    |    |    |    |
 | w   |        | unne          | xVB         | undte         |   | Vnttæ                 | Vnttæ        |   |   |   |   | dan |   |   |    |        408-20 | 2:context |          |  |    |    |    |    |
@@ -457,8 +457,8 @@ ASK: Remember to replace XML-tags with correct notation.
 | lm  | 408-21 |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | hærre         | xNC         | hr.            |   | h(er)                 | h̅            |   |   |   |   | dan |   |   |    |        408-21 | 2:context |          |  |    |    |    |    |
 | PE  | b      | HenHan001     |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| w   |        |               | xNP         | Henrik        |   | hænrich               | hænrich      |   |   |   |   | dan |   |   |    |        408-21 | 2:context |          |  |    |    |    |    |
-| w   |        |               | xNP         | Hansen        |   | hanss(øn)             | hanſ        |   |   |   |   | dan |   |   |    |        408-21 | 2:context |          |  |    |    |    |    |
+| w   |        |               | xNP         | Henrik        |   | hænrich               | hænrich      |   |   |   |   | dan |   |   |    |        408-21 | 2:context |          |  |1861|    |    |    |
+| w   |        |               | xNP         | Hansen        |   | hanss(øn)             | hanſ        |   |   |   |   | dan |   |   |    |        408-21 | 2:context |          |  |1861|    |    |    |
 | PE  | e      | HenHan001     |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | upa           | xAP         | på            |   | paa                   | paa          |   |   |   |   | dan |   |   |    |        408-21 | 2:context |          |  |    |    |    |    |
 | w   |        | thæn          | xAT         | den           |   | th(e)n                | th̅          |   |   |   |   | dan |   |   |    |        408-21 | 2:context |          |  |    |    |    |    |

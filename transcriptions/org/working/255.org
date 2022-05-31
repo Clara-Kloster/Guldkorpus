@@ -44,7 +44,7 @@
 | lm  | 255-01 |   |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | d  | b      | 1  |   | protocol  |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | RexVal004  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Waldemarus         | Wldemaru   |   |   |   |   | lat |   |   |   |        255-01 | 1:protocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Waldemarus         | Wldemaru   |   |   |   |   | lat |   |   |   |        255-01 | 1:protocol |          |  |1021|    |    |    |
 | PE  | e      | RexVal004  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | dei                | deí          |   |   |   |   | lat |   |   |   |        255-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | gr(aci)a           | gra         |   |   |   |   | lat |   |   |   |        255-01 | 1:protocol |          |  |    |    |    |    |
@@ -102,9 +102,9 @@
 | w   |        |   |   |   |   | vir                | vír          |   |   |   |   | lat |   |   |   |        255-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | D(omi)ns           | Dn̅          |   |   |   |   | lat |   |   |   |        255-03 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JenCap001  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Ioh(ann)es         | Ioh̅e        |   |   |   |   | lat |   |   |   |        255-03 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | de                 | de           |   |   |   |   | lat |   |   |   |        255-03 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Capella            | Capella      |   |   |   |   | lat |   |   |   |        255-03 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Ioh(ann)es         | Ioh̅e        |   |   |   |   | lat |   |   |   |        255-03 | 2:context |          |  |1022|    |    |    |
+| w   |        |   |   |   |   | de                 | de           |   |   |   |   | lat |   |   |   |        255-03 | 2:context |          |  |1022|    |    |    |
+| w   |        |   |   |   |   | Capella            | Capella      |   |   |   |   | lat |   |   |   |        255-03 | 2:context |          |  |1022|    |    |    |
 | PE  | e      | JenCap001  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                  | .            |   |   |   |   | lat |   |   |   |        255-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(re)positus       | ̅oſıtu      |   |   |   |   | lat |   |   |   |        255-03 | 2:context |          |  |    |    |    |    |
@@ -126,7 +126,7 @@
 | p   |        |   |   |   |   | .                  | .            |   |   |   |   | lat |   |   |   |        255-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | D(omi)ni           | Dn̅í          |   |   |   |   | lat |   |   |   |        255-04 | 2:context |          |  |    |    |    |    |
 | PE  | b      | RexEri006  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Erici              | Eʀící        |   |   |   |   | lat |   |   |   |        255-04 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Erici              | Eʀící        |   |   |   |   | lat |   |   |   |        255-04 | 2:context |          |  |1023|    |    |    |
 | PE  | e      | RexEri006  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Dei                | Deı          |   |   |   |   | lat |   |   |   |        255-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | gr(aci)a           | gr̅a          |   |   |   |   | lat |   |   |   |        255-04 | 2:context |          |  |    |    |    |    |
@@ -158,7 +158,7 @@
 | w   |        |   |   |   |   | co(n)tinentes      | co̅tínente   |   |   |   |   | lat |   |   |   |        255-05 | 2:context |          |  |    |    |    |    |
 | lm  | 255-06 |   |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | RexEri006  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Ericus             | ʀıcu       |   |   |   |   | lat |   |   |   |        255-06 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Ericus             | ʀıcu       |   |   |   |   | lat |   |   |   |        255-06 | 2:context |          |  |1024|    |    |    |
 | PE  | e      | RexEri006  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | dei                | deí          |   |   |   |   | lat |   |   |   |        255-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | gr(aci)a           | gra         |   |   |   |   | lat |   |   |   |        255-06 | 2:context |          |  |    |    |    |    |
@@ -181,73 +181,73 @@
 | w   |        |   |   |   |   | p(rese)nc(ium)     | pn̅          |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                  | .            |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | PedNie004  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Petrus             | Petru       |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | niclesson          | ıcleſſon    |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Petrus             | Petru       |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |1025|    |    |    |
+| w   |        |   |   |   |   | niclesson          | ıcleſſon    |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |1025|    |    |    |
 | PE  | e      | PedNie004  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                  | .            |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JenViv001  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Ionas              | Iona        |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | wiue               | wíue         |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | søn                | ſøn          |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Ionas              | Iona        |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |1026|    |    |    |
+| w   |        |   |   |   |   | wiue               | wíue         |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |1026|    |    |    |
+| w   |        |   |   |   |   | søn                | ſøn          |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |1026|    |    |    |
 | PE  | e      | JenViv001  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /                  | /            |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | TroXxx001  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | thrugillus         | thrugıllu   |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | thrugillus         | thrugıllu   |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |1027|    |    |    |
 | PE  | e      | TroXxx001  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /                  | /            |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | NieOlu002  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicholaus          | ıcholau    |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | oluf               | oluf         |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | s(un)              |             |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nicholaus          | ıcholau    |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |1028|    |    |    |
+| w   |        |   |   |   |   | oluf               | oluf         |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |1028|    |    |    |
+| w   |        |   |   |   |   | s(un)              |             |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |1028|    |    |    |
 | PE  | e      | NieOlu002  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                  | .            |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | PedHem001  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Petrus             | Petru       |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | he(m)mings(un)     | he̅míng      |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Petrus             | Petru       |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |1029|    |    |    |
+| w   |        |   |   |   |   | he(m)mings(un)     | he̅míng      |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |1029|    |    |    |
 | PE  | e      | PedHem001  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /                  | /            |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |    |    |    |    |
 | PE  | b      | AssXxx001  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | ascerus            | aſceɼu      |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | ascerus            | aſceɼu      |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |1030|    |    |    |
 | PE  | e      | AssXxx001  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /                  | /            |   |   |   |   | lat |   |   |   |        255-07 | 2:context |          |  |    |    |    |    |
 | lm  | 255-08 |   |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | SveViv001  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | sweno              | ſweno        |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | wiue               | wíue         |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | s(un)              |             |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | sweno              | ſweno        |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |1031|    |    |    |
+| w   |        |   |   |   |   | wiue               | wíue         |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |1031|    |    |    |
+| w   |        |   |   |   |   | s(un)              |             |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |1031|    |    |    |
 | PE  | e      | SveViv001  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                  | .            |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |    |    |    |    |
 | PE  | b      | NieFri001  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicholaus          | ıcholau    |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | friis              | fríí        |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nicholaus          | ıcholau    |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |1032|    |    |    |
+| w   |        |   |   |   |   | friis              | fríí        |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |1032|    |    |    |
 | PE  | e      | NieFri001  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | OluBry001  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Olauus             | Olauu       |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | bryty              | brẏtẏ        |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Olauus             | Olauu       |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |1033|    |    |    |
+| w   |        |   |   |   |   | bryty              | brẏtẏ        |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |1033|    |    |    |
 | PE  | e      | OluBry001  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | PE  | b      | PouAss001  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Paulus             | Paulu       |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Ascermaugh         | ſcermaugh   |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Paulus             | Paulu       |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |1034|    |    |    |
+| w   |        |   |   |   |   | Ascermaugh         | ſcermaugh   |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |1034|    |    |    |
 | PE  | e      | PouAss001  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                  | .            |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |    |    |    |    |
 | PE  | b      | JenLar001  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Ioh(ann)es         | Ioh̅e        |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Laurens            | Lauren      |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |    |    |    |    |
-| w   |        |   |   |   |   | s(un)              |             |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Ioh(ann)es         | Ioh̅e        |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |1035|    |    |    |
+| w   |        |   |   |   |   | Laurens            | Lauren      |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |1035|    |    |    |
+| w   |        |   |   |   |   | s(un)              |             |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |1035|    |    |    |
 | PE  | e      | JenLar001  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                  | .            |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |    |    |    |    |
 | PE  | b      | KnuXxx001  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | kanutus            | kanutu      |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | kanutus            | kanutu      |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |1036|    |    |    |
 | PE  | e      | KnuXxx001  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | /                  | /            |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |    |    |    |    |
 | PE  | b      | SakXxx001  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Saxo               | Saxo         |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Saxo               | Saxo         |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |1037|    |    |    |
 | PE  | e      | SakXxx001  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (et)               |             |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |    |    |    |    |
 | PE  | b      | PedTru002  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Petrus             | Petru       |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | Petrus             | Petru       |   |   |   |   | lat |   |   |   |        255-08 | 2:context |          |  |1038|    |    |    |
 | lm  | 255-09 |   |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | thrugoti           | thrugotí     |   |   |   |   | lat |   |   |   |        255-09 | 2:context |          |  |    |    |    |    |
+| w   |        |   |   |   |   | thrugoti           | thrugotí     |   |   |   |   | lat |   |   |   |        255-09 | 2:context |          |  |1038|    |    |    |
 | PE  | e      | PedTru002  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                  | .            |   |   |   |   | lat |   |   |   |        255-09 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | co(m)posessores    | co̅poſeſſoꝛe |   |   |   |   | lat |   |   |   |        255-09 | 2:context |          |  |    |    |    |    |
@@ -390,8 +390,8 @@
 | w   |        |   |   |   |   | sup(ra)d(i)c(t)is  | ſupᷓdc̅ı      |   |   |   |   | lat |   |   |   |        255-14 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | teste              | teﬅe         |   |   |   |   | lat |   |   |   |        255-14 | 3:eschatocol |          |  |    |    |    |    |
 | PE  | b      | NieJen008  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| w   |        |   |   |   |   | nicho¦lao          | ıcho¦lao    |   |   |   |   | lat |   |   |   | 255-14—255-15 | 3:eschatocol |          |  |    |    |    |    |
-| w   |        |   |   |   |   | Iohannis           | Iohanní     |   |   |   |   | lat |   |   |   |        255-15 | 3:eschatocol |          |  |    |    |    |    |
+| w   |        |   |   |   |   | nicho¦lao          | ıcho¦lao    |   |   |   |   | lat |   |   |   | 255-14—255-15 | 3:eschatocol |          |  |1039|    |    |    |
+| w   |        |   |   |   |   | Iohannis           | Iohanní     |   |   |   |   | lat |   |   |   |        255-15 | 3:eschatocol |          |  |1039|    |    |    |
 | PE  | e      | NieJen008  |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | de                 | de           |   |   |   |   | lat |   |   |   |        255-15 | 3:eschatocol |          |  |    |    |    |    |
 | PL  | b      |   |   |   |   |                    |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
