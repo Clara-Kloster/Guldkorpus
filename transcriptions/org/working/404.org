@@ -53,43 +53,43 @@ Date unclear
 | w   |        | læse          | xVB | læses       |   | læs(es)           | læ           |   |   |   |   | dan     |   |   |    |        404-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | helse         | xVB | hilse       |   | Helse             | Helſe         |   |   |   |   | dan     |   |   |    |        404-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | vi            | xPE | vi          |   | wy                | wy            |   |   |   |   | dan     |   |   |    |        404-01 | 1:protocol |          |  |    |    |    |    |
-| PE  | b      | OluJep001     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | OluJep001     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1785|    |    |    |
 | w   |        |               | xNP | Oluf        |   | Oleff             | Oleff         |   |   |   |   | dan     |   |   |    |        404-01 | 1:protocol |          |  |1785|    |    |    |
 | w   |        |               | xNP | Jepsen      |   | Jeips(øn)         | Jeip         |   |   |   |   | dan     |   |   |    |        404-01 | 1:protocol |          |  |1785|    |    |    |
-| PE  | e      | OluJep001     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | OluJep001     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1785|    |    |    |
 | w   |        | byfoghet      | xNC | byfoged     |   | byfogh(et)        | byfoghꝫ       |   |   |   |   | dan     |   |   |    |        404-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i             | xAP | i           |   | j                 | ȷ             |   |   |   |   | dan     |   |   |    |        404-01 | 1:protocol |          |  |    |    |    |    |
-| PL  | b      |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |               149195|     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    1693|    |
 | w   |        |               | xNP | Roskilde    |   | roskilde          | roſkılde      |   |   |   |   | dan     |   |   |    |        404-01 | 1:protocol |          |  |    |    |1693|    |
-| PL  | e      |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
-| PE  | b      | HenBon001     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |               149195|     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    1693|    |
+| PE  | b      | HenBon001     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1786|    |    |    |
 | w   |        |               | xNP | Henrik      |   | henrik            | henrik        |   |   |   |   | dan     |   |   |    |        404-01 | 1:protocol |          |  |1786|    |    |    |
 | w   |        |               | xNP | Bonschot    |   | bonschot          | bonſchot      |   |   |   |   | dan     |   |   |    |        404-01 | 1:protocol |          |  |1786|    |    |    |
-| PE  | e      | HenBon001     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | HenBon001     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1786|    |    |    |
 | w   |        | burghemæstere | xNC | boregmester  |   | burgemest(er)     | burgemeſt    |   |   |   |   | dan     |   |   |    |        404-01 | 1:protocol |          |  |    |    |    |    |
 | lm  | 404-02 |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
-| PE  | b      | OluJen001     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | OluJen001     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1787|    |    |    |
 | w   |        |               | xNP | Oluf        |   | oleff             | oleff         |   |   |   |   | dan     |   |   |    |        404-02 | 1:protocol |          |  |1787|    |    |    |
 | w   |        |               | xNP | Hørff       |   | hørff             | høꝛff         |   |   |   |   | dan     |   |   |    |        404-02 | 1:protocol |          |  |1787|    |    |    |
-| PE  | e      | OluJen001     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | OluJen001     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1787|    |    |    |
 | p   |        |               |     |             |   | /                 | /             |   |   |   |   | dan     |   |   |    |        404-02 | 1:protocol |          |  |    |    |    |    |
-| PE  | b      | HanDar001     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | HanDar001     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1788|    |    |    |
 | w   |        |               | xNP | Hans        |   | hans              | han          |   |   |   |   | dan     |   |   |    |        404-02 | 1:protocol |          |  |1788|    |    |    |
 | w   |        |               | xNP | Dargher     |   | dargh(e)r         | daꝛghꝛ       |   |   |   |   | dan     |   |   |    |        404-02 | 1:protocol |          |  |1788|    |    |    |
-| PE  | e      | HanDar001     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
-| PE  | b      | OluPed002     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | HanDar001     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1788|    |    |    |
+| PE  | b      | OluPed002     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1789|    |    |    |
 | w   |        |               | xNP | Oluf        |   | oleff             | oleff         |   |   |   |   | dan     |   |   |    |        404-02 | 1:protocol |          |  |1789|    |    |    |
 | w   |        |               | xNP | Baghere     |   | bagher(er)        | bagher       |   |   |   |   | dan     |   |   |    |        404-02 | 1:protocol |          |  |1789|    |    |    |
-| PE  | e      | OluPed002     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
-| PE  | b      | JepMad001     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | OluPed002     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1789|    |    |    |
+| PE  | b      | JepMad001     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1790|    |    |    |
 | w   |        |               | xNP | Jep         |   | jep               | ȷep           |   |   |   |   | dan     |   |   |    |        404-02 | 1:protocol |          |  |1790|    |    |    |
 | w   |        |               | xNP | Fynbo       |   | fiwnbo            | fiwnbo        |   |   |   |   | dan     |   |   |    |        404-02 | 1:protocol |          |  |1790|    |    |    |
-| PE  | e      | JepMad001     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | JepMad001     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1790|    |    |    |
 | w   |        | ok            | xCC | og          |   | oc                | oc            |   |   |   |   | dan     |   |   |    |        404-02 | 1:protocol |          |  |    |    |    |    |
-| PE  | b      |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1791|    |    |    |
 | w   |        |               | xNP | Jep         |   | jep               | ȷep           |   |   |   |   | dan     |   |   |    |        404-02 | 1:protocol |          |  |1791|    |    |    |
 | w   |        |               | xNP | Olufsen     |   | oleffs(øn)        | oleff        |   |   |   |   | dan     |   |   |    |        404-02 | 1:protocol |          |  |1791|    |    |    |
-| PE  | e      |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1791|    |    |    |
 | w   |        | rathman       | xNC | rådmænd     |   | rodhme(n)         | rodhme̅        |   |   |   |   | dan     |   |   |    |        404-02 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i             | xAP | i           |   | j                 | ȷ             |   |   |   |   | dan     |   |   |    |        404-02 | 1:protocol |          |  |    |    |    |    |
 | w   |        | same+stath    | xNC | samme sted  |   | samest(et)        | ſameſtꝫ       |   |   |   |   | dan     |   |   |    |        404-02 | 1:protocol |          |  |    |    |    |    |
@@ -130,23 +130,23 @@ Date unclear
 | w   |        | goth          | xAJ | gode        |   | godhe             | godhe         |   |   |   |   | dan     |   |   |    |        404-04 | 2:context |          |  |    |    |    |    |
 | w   |        | man           | xNC | mænd        |   | me(n)             | me̅            |   |   |   |   | dan     |   |   |    |        404-04 | 2:context |          |  |    |    |    |    |
 | w   |        | upa           | xAP | på          |   | paa               | paa           |   |   |   |   | dan     |   |   |    |        404-04 | 2:context |          |  |    |    |    |    |
-| PL  | b      |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |               149195|     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    1694|    |
 | w   |        |               | xNP | Roskilde    |   | roskilde          | roſkilde      |   |   |   |   | dan     |   |   |    |        404-04 | 2:context |          |  |    |    |1694|    |
-| PL  | e      |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |               149195|     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    1694|    |
 | w   |        | bything       | xNC | byting      |   | bytingh           | bytíngh       |   |   |   |   | dan     |   |   |    |        404-04 | 2:context |          |  |    |    |    |    |
 | w   |        | skikke        | xVB | skikket     |   | skicket           | ſkıcket       |   |   |   |   | dan     |   |   |    |        404-04 | 2:context |          |  |    |    |    |    |
 | w   |        | være          | xVB | var         |   | wor               | wor           |   |   |   |   | dan     |   |   |    |        404-04 | 2:context |          |  |    |    |    |    |
 | w   |        | beskethen     | xAJ | beskeden    |   | beskedhin         | beſkedhin     |   |   |   |   | dan     |   |   |    |        404-04 | 2:context |          |  |    |    |    |    |
 | w   |        | man           | xNC | mand        |   | man               | man           |   |   |   |   | dan     |   |   |    |        404-04 | 2:context |          |  |    |    |    |    |
-| PE  | b      | BoxJen001     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | BoxJen001     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1792|    |    |    |
 | w   |        |               | xNP | Bo          |   | boo               | boo           |   |   |   |   | dan     |   |   |    |        404-04 | 2:context |          |  |1792|    |    |    |
 | w   |        |               | xNP | Jensen      |   | Jens(øn)          | Jen          |   |   |   |   | dan     |   |   |    |        404-04 | 2:context |          |  |1792|    |    |    |
-| PE  | e      | BoxJen001     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | BoxJen001     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1792|    |    |    |
 | w   |        | burghemæstere | xNC | borgemester  |   | burgemest(er)     | burgemeſt    |   |   |   |   | dan     |   |   |    |        404-04 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i           |   | i                 | ı             |   |   |   |   | dan     |   |   |    |        404-04 | 2:context |          |  |    |    |    |    |
-| PL  | b      |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |               149195|     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    1695|    |
 | w   |        |               | xNP | Roskilde    |   | roskilde          | roſkılde      |   |   |   |   | dan     |   |   |    |        404-04 | 2:context |          |  |    |    |1695|    |
-| PL  | e      |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |               149195|     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    1695|    |
 | lm  | 404-05 |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ok            | xCC | og          |   | oc                | oc            |   |   |   |   | dan     |   |   |    |        404-05 | 2:context |          |  |    |    |    |    |
 | w   |        | sæghje        | xVB | sagde       |   | sadhe             | ſadhe         |   |   |   |   | dan     |   |   |    |        404-05 | 2:context |          |  |    |    |    |    |
@@ -163,11 +163,11 @@ Date unclear
 | w   |        | hetherlik     | xAJ | hæderlig    |   | hedhr(er)lich     | hedhꝛlıch    |   |   |   |   | dan     |   |   |    |        404-05 | 2:context |          |  |    |    |    |    |
 | w   |        | jungfrue      | xNC | jomfru      |   | jomfrw            | ȷomfrw        |   |   |   |   | dan     |   |   |    |        404-05 | 2:context |          |  |    |    |    |    |
 | w   |        | syster        | xNC | søster      |   | søsth(e)r         | ſøſthꝛ       |   |   |   |   | dan     |   |   |    |        404-05 | 2:context |          |  |    |    |    |    |
-| PE  | b      | KriOlu002     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | KriOlu002     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1793|    |    |    |
 | w   |        |               | xNP | Kristine    |   | kirstine          | kirſtine      |   |   |   |   | dan     |   |   |    |        404-05 | 2:context |          |  |1793|    |    |    |
 | w   |        |               | xNP | Olufs       |   | oleffs            | oleff        |   |   |   |   | dan     |   |   |    |        404-05 | 2:context |          |  |1793|    |    |    |
 | w   |        | dotter        | xNC | datter      |   | dott(er)          | dott         |   |   |   |   | dan     |   |   |    |        404-05 | 2:context |          |  |1793|    |    |    |
-| PE  | e      | KriOlu002     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | KriOlu002     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1793|    |    |    |
 | lm  | 404-06 |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ingive        | xVB | indgiven    |   | Ingiffuen         | Ingiffuen     |   |   |   |   | dan     |   |   |    |        404-06 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i           |   | j                 | ȷ             |   |   |   |   | dan     |   |   |    |        404-06 | 2:context |          |  |    |    |    |    |
@@ -175,9 +175,9 @@ Date unclear
 | w   |        |               | xNP | Clara       |   | clara             | claꝛa         |   |   |   |   | lat/dan |   |   |    |        404-06 | 2:context |          |  |    |    |    |    |
 | w   |        | kloster       | xNC | kloster     |   | clost(er)         | cloſt        |   |   |   |   | dan     |   |   |    |        404-06 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i           |   | i                 | i             |   |   |   |   | dan     |   |   |    |        404-06 | 2:context |          |  |    |    |    |    |
-| PL  | b      |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |               149380|     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    1696|    |
 | w   |        |               | xNP | Roskilde    |   | rosk(ilde)        | roſk̅          |   |   |   |   | dan     |   |   |    |        404-06 | 2:context |          |  |    |    |1696|    |
-| PL  | e      |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |               149380|     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    1696|    |
 | w   |        | at            | xIM | at          |   | at                | at            |   |   |   |   | dan     |   |   |    |        404-06 | 2:context |          |  |    |    |    |    |
 | w   |        | skøte         | xVB | skøde       |   | skøde             | ſkøde         |   |   |   |   | dan     |   |   |    |        404-06 | 2:context |          |  |    |    |    |    |
 | w   |        | ok            | xCC | og          |   | ok                | ok            |   |   |   |   | dan     |   |   |    |        404-06 | 2:context |          |  |    |    |    |    |
@@ -194,44 +194,44 @@ Date unclear
 | w   |        | hær           | xAV | her         |   | h(er)             | h̅             |   |   |   |   | dan     |   |   |    |        404-06 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i           |   | i                 | i             |   |   |   |   | dan     |   |   |    |        404-06 | 2:context |          |  |    |    |    |    |
 | lm  | 404-07 |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
-| PL  | b      |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |               149195|     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    1697|    |
 | w   |        |               | xNP | Roskilde    |   | roskilde          | roſkılde      |   |   |   |   | dan     |   |   |    |        404-07 | 2:context |          |  |    |    |1697|    |
-| PL  | e      |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |               149195|     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    1697|    |
 | w   |        | ligje         | xVB | liggende    |   | liggend(e)        | liggen       |   |   |   |   | dan     |   |   |    |        404-07 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i           |   | i                 | i             |   |   |   |   | dan     |   |   |    |        404-07 | 2:context |          |  |    |    |    |    |
-| PL  | b      |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    1698|    |
 | w   |        | sankte        | xAJ | sankt       |   | s(anc)ti          | sti̅           |   |   |   |   | lat     |   |   |    |        404-07 | 2:context |          |  |    |    |1698|    |
 | w   |        |               | xNP | Bodil       |   | bothel            | bothel        |   |   |   |   | dan     |   |   |    |        404-07 | 2:context |          |  |    |    |1698|    |
 | w   |        | sokn          | xNC | sogn        |   | soghn             | ſoghn         |   |   |   |   | dan     |   |   |    |        404-07 | 2:context |          |  |    |    |1698|    |
-| PL  | e      |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    1698|    |
 | w   |        | sunnen        | xAJ | sønden      |   | sønne(n)          | ſønne̅         |   |   |   |   | dan     |   |   |    |        404-07 | 2:context |          |  |    |    |    |    |
 | w   |        | vither        | xAP | ved         |   | wedh              | wedh          |   |   |   |   | dan     |   |   |    |        404-07 | 2:context |          |  |    |    |    |    |
-| PL  | b      |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    1699|    |
 | w   |        | torgh+gate    | xNC | torvgaden   |   | torffgaden        | toꝛffgaden    |   |   |   |   | dan     |   |   |    |        404-07 | 2:context |          |  |    |    |1699|    |
-| PL  | e      |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    1699|    |
 | w   |        | sum           | xRP | som         |   | som               | ſom           |   |   |   |   | dan     |   |   |    |        404-07 | 2:context |          |  |    |    |    |    |
 | w   |        | hun           | xPE | hendes      |   | hen(n)is          | hen̅i         |   |   |   |   | dan     |   |   |    |        404-07 | 2:context |          |  |    |    |    |    |
 | w   |        | brother       | xNC | broder      |   | brodh(e)r         | brodhꝛ       |   |   |   |   | dan     |   |   |    |        404-07 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre         | xNC | hr.          |   | her               | her           |   |   |   |   | dan     |   |   |    |        404-07 | 2:context |          |  |    |    |    |    |
-| PE  | b      | AndOlu004     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | AndOlu004     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1794|    |    |    |
 | w   |        |               | xNP | Anders      |   | anders            | ander        |   |   |   |   | dan     |   |   |    |        404-07 | 2:context |          |  |1794|    |    |    |
 | w   |        |               | xNP | Olufsen     |   | oleffs(øn)        | oleff        |   |   |   |   | dan     |   |   |    |        404-07 | 2:context |          |  |1794|    |    |    |
-| PE  | e      | AndOlu004     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | AndOlu004     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1794|    |    |    |
 | w   |        | sum           | xRP | som         |   | so(m)             | ſo̅            |   |   |   |   | dan     |   |   |    |        404-07 | 2:context |          |  |    |    |    |    |
 | w   |        | være          | xVB | var         |   | wor               | woꝛ           |   |   |   |   | dan     |   |   |    |        404-07 | 2:context |          |  |    |    |    |    |
 | w   |        | perpetuus     | xNC |             |   | p(er)pet(uus)     | ̲etꝭ          |   |   |   |   | lat     |   |   |    |        404-07 | 2:context |          |  |    |    |    |    |
 | lm  | 404-08 |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | vicarius      | xNC |             |   | vicari(us)        | vicari       |   |   |   |   | lat     |   |   |    |        404-08 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i           |   | j                 | ȷ             |   |   |   |   | dan     |   |   |    |        404-08 | 2:context |          |  |    |    |    |    |
-| PL  | b      |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |               149380|     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    1700|    |
 | w   |        |               | xNP | Roskilde    |   | roskilde          | roſkılde      |   |   |   |   | dan     |   |   |    |        404-08 | 2:context |          |  |    |    |1700|    |
-| PL  | e      |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |               149380|     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    1700|    |
 | w   |        | køpe          | xVB | købte       |   | køpte             | køpte         |   |   |   |   | dan     |   |   |    |        404-08 | 2:context |          |  |    |    |    |    |
 | w   |        | af            | xAP | af          |   | aff               | aff           |   |   |   |   | dan     |   |   |    |        404-08 | 2:context |          |  |    |    |    |    |
-| PE  | b      | AndPed004     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | AndPed004     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1795|    |    |    |
 | w   |        |               | xNP | Anders      |   | anders            | ander        |   |   |   |   | dan     |   |   |    |        404-08 | 2:context |          |  |1795|    |    |    |
 | w   |        |               | xNP | Skytte      |   | skyttæ            | ſkyttæ        |   |   |   |   | dan     |   |   |    |        404-08 | 2:context |          |  |1795|    |    |    |
-| PE  | e      | AndPed004     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | AndPed004     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1795|    |    |    |
 | w   |        | sum           | xRP | som         |   | so(m)             | ſo̅            |   |   |   |   | dan     |   |   |    |        404-08 | 2:context |          |  |    |    |    |    |
 | w   |        | burghere      | xNC | borger      |   | burg(er)          | burg         |   |   |   |   | dan     |   |   |    |        404-08 | 2:context |          |  |    |    |    |    |
 | w   |        | være          | xVB | var         |   | wor               | wor           |   |   |   |   | dan     |   |   |    |        404-08 | 2:context |          |  |    |    |    |    |
@@ -278,10 +278,10 @@ Date unclear
 | w   |        | tha           | xAV | da          |   | Tha               | Tha           |   |   |   |   | dan     |   |   |    |        404-10 | 2:context |          |  |    |    |    |    |
 | w   |        | sta           | xVB | stod        |   | stodh             | ſtodh         |   |   |   |   | dan     |   |   |    |        404-10 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd      | xAJ | fornævnte   |   | for(nefnde)       | foꝛͩͤ           |   |   |   |   | dan     |   |   |    |        404-10 | 2:context |          |  |    |    |    |    |
-| PE  | b      | BoxJen001     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | BoxJen001     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1796|    |    |    |
 | w   |        |               | xNP | Bo          |   | boo               | boo           |   |   |   |   | dan     |   |   |    |        404-10 | 2:context |          |  |1796|    |    |    |
 | w   |        |               | xNP | Jensen      |   | Jens(øn)          | Jen          |   |   |   |   | dan     |   |   |    |        404-10 | 2:context |          |  |1796|    |    |    |
-| PE  | e      | BoxJen001     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | BoxJen001     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1796|    |    |    |
 | w   |        | i             | xAP | i           |   | j                 | ȷ             |   |   |   |   | dan     |   |   |    |        404-10 | 2:context |          |  |    |    |    |    |
 | w   |        | dagh          | xNC | dag         |   | dagh              | dagh          |   |   |   |   | dan     |   |   |    |        404-10 | 2:context |          |  |    |    |    |    |
 | w   |        | innen         | xAP | inden       |   | Jnne(n)           | Jnne̅          |   |   |   |   | dan     |   |   |    |        404-10 | 2:context |          |  |    |    |    |    |
@@ -291,21 +291,21 @@ Date unclear
 | w   |        | fornævnd      | xAJ | fornævnte   |   | for(nefnde)       | foꝛᷠͤ           |   |   |   |   | dan     |   |   |    |        404-10 | 2:context |          |  |    |    |    |    |
 | w   |        | syster        | xNC | søster      |   | søsth(e)r         | ſøſthꝛ       |   |   |   |   | dan     |   |   |    |        404-10 | 2:context |          |  |    |    |    |    |
 | lm  | 404-11 |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
-| PE  | b      | KriOlu002     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | KriOlu002     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1797|    |    |    |
 | w   |        |               | xNP | Kristine    |   | kirstine          | kirſtine      |   |   |   |   | dan     |   |   |    |        404-11 | 2:context |          |  |1797|    |    |    |
 | w   |        |               | xNP | Olufs       |   | oleffs            | oleff        |   |   |   |   | dan     |   |   |    |        404-11 | 2:context |          |  |1797|    |    |    |
 | w   |        | dotter        | xNC | datter      |   | dott(er)          | dott         |   |   |   |   | dan     |   |   |    |        404-11 | 2:context |          |  |1797|    |    |    |
-| PE  | e      | KriOlu002     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | KriOlu002     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1797|    |    |    |
 | w   |        | vægh          | xNC | vegne       |   | weg(ra)           | weg          |   |   |   |   | dan     |   |   |    |        404-11 | 2:context |          |  |    |    |    |    |
 | w   |        | ok            | xCC | og          |   | ok                | ok            |   |   |   |   | dan     |   |   |    |        404-11 | 2:context |          |  |    |    |    |    |
 | w   |        | skøte         | xNC | skødede     |   | skøtthe           | ſkøtthe       |   |   |   |   | dan     |   |   |    |        404-11 | 2:context |          |  |    |    |    |    |
 | w   |        | hetherlik     | xAV | hæderlig    |   | hedh(e)rlich      | hedhꝛlıch    |   |   |   |   | dan     |   |   |    |        404-11 | 2:context |          |  |    |    |    |    |
 | w   |        | man           | xNC | mand        |   | ma(n)             | ma̅            |   |   |   |   | dan     |   |   |    |        404-11 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre         | xNC | hr.          |   | her               | her           |   |   |   |   | dan     |   |   |    |        404-11 | 2:context |          |  |    |    |    |    |
-| PE  | b      | JenHem002     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | JenHem002     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1798|    |    |    |
 | w   |        |               | xNP | Jens        |   | Jens              | Jen          |   |   |   |   | dan     |   |   |    |        404-11 | 2:context |          |  |1798|    |    |    |
 | w   |        |               | xNP | Hemmingsen  |   | hemi(n)gss(øn)    | hemi̅gſ       |   |   |   |   | dan     |   |   |    |        404-11 | 2:context |          |  |1798|    |    |    |
-| PE  | e      | JenHem002     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | JenHem002     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1798|    |    |    |
 | w   |        | forestandere  | xNC | forstander  |   | forstonde(r)      | foꝛſtonde    |   |   |   |   | dan     |   |   |    |        404-11 | 2:context |          |  |    |    |    |    |
 | w   |        | at            | xCS | at          |   | at                | at            |   |   |   |   | dan     |   |   |    |        404-11 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd      | xAJ | fornævnte   |   | for(nefnde)       | foꝛᷠͤ           |   |   |   |   | dan     |   |   |    |        404-11 | 2:context |          |  |    |    |    |    |
@@ -349,11 +349,11 @@ Date unclear
 | w   |        | at            | xCS | at          |   | at                | at            |   |   |   |   | dan     |   |   |    |        404-13 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd      | xAJ | fornævnte   |   | for(nefnde)       | foꝛᷠͤ           |   |   |   |   | dan     |   |   |    |        404-13 | 2:context |          |  |    |    |    |    |
 | w   |        | syster        | xNC | søster      |   | søsth(e)r         | ſøſthꝛ       |   |   |   |   | dan     |   |   |    |        404-13 | 2:context |          |  |    |    |    |    |
-| PE  | b      | KriOlu002     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | KriOlu002     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1799|    |    |    |
 | w   |        |               | xNP | Kristine    |   | kirstine          | kırſtıne      |   |   |   |   | dan     |   |   |    |        404-13 | 2:context |          |  |1799|    |    |    |
 | w   |        |               | xNP | Olufs       |   | oleffs            | oleff        |   |   |   |   | dan     |   |   |    |        404-13 | 2:context |          |  |1799|    |    |    |
 | w   |        | dotter        | xNC | datter      |   | dott(er)          | dott         |   |   |   |   | dan     |   |   |    |        404-13 | 2:context |          |  |1799|    |    |    |
-| PE  | e      | KriOlu002     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | KriOlu002     |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    1799|    |    |    |
 | lm  | 404-14 |               |     |             |   |                   |               |   |   |   |   |         |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | skule         | xVB | skal        |   | skall             | ſkall         |   |   |   |   | dan     |   |   |    |        404-14 | 2:context |          |  |    |    |    |    |
 | w   |        | upbære        | xVB | opbære      |   | vpbær(e)          | vpbær        |   |   |   |   | dan     |   |   |    |        404-14 | 2:context |          |  |    |    |    |    |

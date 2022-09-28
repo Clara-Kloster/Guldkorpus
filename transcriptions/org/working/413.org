@@ -44,17 +44,17 @@
 | lm  | 413-01 |             |     |             |   |                   |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | d   | b      | 1           |     | protocol    |   |                   |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | vi          | xPE | vi          |   | Wij               | Wij          |   |   |   |   | dan |   |   |    | 413-01 | 1:protocol |          |  |    |    |    |    |
-| PE  |      b | JakFri001   |     |             |   |                   |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      b | JakFri001   |     |             |   |                   |              |   |   |   |   |     |   |   |    |        |          |          |  |    1906|    |    |    |
 | w   |        |             | xNP | Jep         |   | Jeb               | Jeb          |   |   |   |   | dan |   |   |    | 413-01 | 1:protocol |          |  |1906|    |    |    |
-| PE  |      e | JakFri001   |     |             |   |                   |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      e | JakFri001   |     |             |   |                   |              |   |   |   |   |     |   |   |    |        |          |          |  |    1906|    |    |    |
 | w   |        | mæth        | xAP | med         |   | met               | met          |   |   |   |   | dan |   |   |    | 413-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | guth        | xNC | Guds        |   | gudz              | gudz         |   |   |   |   | dan |   |   |    | 413-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | nate        | xNC | nåde        |   | nadhe             | nadhe        |   |   |   |   | dan |   |   |    | 413-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | biskop      | xNC | biskop      |   | biskop            | biſkop       |   |   |   |   | dan |   |   |    | 413-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i           | xAP | i           |   | i                 | i            |   |   |   |   | dan |   |   |    | 413-01 | 1:protocol |          |  |    |    |    |    |
-| PL  |      b |             |     |             |   |                   |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  |      b |             128781|     |             |   |                   |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1778|    |
 | w   |        |             | xNP | Børglum     |   | børglom           | bøꝛglo      |   |   |   |   | dan |   |   |    | 413-01 | 1:protocol |          |  |    |    |1778|    |
-| PL  |      e |             |     |             |   |                   |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  |      e |             128781|     |             |   |                   |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1778|    |
 | w   |        | gøre        | xVB | gøre        |   | Giør(e)           | Gıøꝛ        |   |   |   |   | dan |   |   |    | 413-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | al          | xAJ | alle        |   | alle              | alle         |   |   |   |   | dan |   |   |    | 413-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | vitherlik   | xAJ | vitterligt  |   | wiitth(e)rligt    | wiitthꝛligt |   |   |   |   | dan |   |   |    | 413-01 | 1:protocol |          |  |    |    |    |    |
@@ -79,9 +79,9 @@
 | w   |        |             | xNP | Clara       |   | Clare             | Claꝛe        |   |   |   |   | dan |   |   |    | 413-02 | 2:context |          |  |    |    |    |    |
 | w   |        | kloster     | xNC | kloster     |   | klosth(e)r        | kloſthꝛ     |   |   |   |   | dan |   |   |    | 413-02 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i           |   | i                 | i            |   |   |   |   | dan |   |   |    | 413-02 | 2:context |          |  |    |    |    |    |
-| PL  |      b |             |     |             |   |                   |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  |      b |             149380|     |             |   |                   |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1779|    |
 | w   |        |             | xNP | Roskilde    |   | roskildh          | roſkildh     |   |   |   |   | dan |   |   |    | 413-02 | 2:context |          |  |    |    |1779|    |
-| PL  |      e |             |     |             |   |                   |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  |      e |             149380|     |             |   |                   |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1779|    |
 | w   |        | mughe       | xVB | må          |   | mo                | mo           |   |   |   |   | dan |   |   |    | 413-02 | 2:context |          |  |    |    |    |    |
 | w   |        | thænne      | xDD | disse       |   | thesse            | theſſe       |   |   |   |   | dan |   |   |    | 413-02 | 2:context |          |  |    |    |    |    |
 | w   |        | ytermere    | xAV | ydermere      |   | ydh(e)rmer(e)     | ÿdhꝛmeꝛ    |   |   |   |   | dan |   |   |    | 413-02 | 2:context |          |  |    |    |    |    |
@@ -224,9 +224,9 @@
 | w   |        |             |     |             |   | est               | eſt          |   |   |   |   | lat |   |   |    | 413-10 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |             |     |             |   | App(e)ns(um)      | An̅ſ        |   |   |   |   | lat |   |   |    | 413-10 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |             |     |             |   | Dat(um)           | Datͫ          |   |   |   |   | lat |   |   |    | 413-10 | 3:eschatocol |          |  |    |    |    |    |
-| PL  |      b |             |     |             |   |                   |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  |      b |             149195|     |             |   |                   |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1780|    |
 | w   |        |             |     |             |   | roskiild(is)      | roſkiil     |   |   |   |   | lat |   |   |    | 413-10 | 3:eschatocol |          |  |    |    |1780|    |
-| PL  |      e |             |     |             |   |                   |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  |      e |             149195|     |             |   |                   |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1780|    |
 | w   |        |             |     |             |   | An(n)o            | An̅o          |   |   |   |   | lat |   |   |    | 413-10 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |             |     |             |   | d(omi)ni          | dn̅ı          |   |   |   |   | lat |   |   |    | 413-10 | 3:eschatocol |          |  |    |    |    |    |
 | n   |        |             |     |             |   | mcdlxxx           | cdlxxx      |   |   |   |   | lat |   |   |    | 413-10 | 3:eschatocol |          |  |    |    |    |    |

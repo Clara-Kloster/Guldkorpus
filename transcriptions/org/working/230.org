@@ -55,9 +55,9 @@
 | w   |        |   |   |   |   | scriptum           | ſcriptum       |   |   |   |   | lat |   |   |    |        230-01 | 1:protocol |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                  | .              |   |   |   |   | lat |   |   |    |        230-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Nos                | No            |   |   |   |   | lat |   |   |    |        230-01 | 1:protocol |          |  |    |    |    |    |
-| PE  |      b | RexVal004  |   |   |   |                    |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  |      b | RexVal004  |   |   |   |                    |                |   |   |   |   |     |   |   |    |               |          |          |  |    940|    |    |    |
 | w   |        |   |   |   |   | woldemar(us)       | woldemarꝰ      |   |   |   |   | lat |   |   |    |        230-01 | 1:protocol |          |  |940|    |    |    |
-| PE  |      e | RexVal004  |   |   |   |                    |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  |      e | RexVal004  |   |   |   |                    |                |   |   |   |   |     |   |   |    |               |          |          |  |    940|    |    |    |
 | w   |        |   |   |   |   | dei                | deı            |   |   |   |   | lat |   |   |    |        230-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | gr(aci)a           | gra           |   |   |   |   | lat |   |   |    |        230-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Danor(um)          | Ꝺanoꝝ          |   |   |   |   | lat |   |   |    |        230-01 | 1:protocol |          |  |    |    |    |    |
@@ -138,9 +138,9 @@
 | w   |        |   |   |   |   | vna                | ỽna            |   |   |   |   | lat |   |   |    |        230-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | cum                | cum            |   |   |   |   | lat |   |   |    |        230-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Illustri           | Illuﬅri        |   |   |   |   | lat |   |   |    |        230-04 | 2:context |          |  |    |    |    |    |
-| PE  |      b | RegHel001  |   |   |   |                    |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  |      b | RegHel001  |   |   |   |                    |                |   |   |   |   |     |   |   |    |               |          |          |  |    941|    |    |    |
 | w   |        |   |   |   |   | Heylewigi          | Heylewigi      |   |   |   |   | lat |   |   |    |        230-04 | 2:context |          |  |941|    |    |    |
-| PE  |      e | RegHel001  |   |   |   |                    |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  |      e | RegHel001  |   |   |   |                    |                |   |   |   |   |     |   |   |    |               |          |          |  |    941|    |    |    |
 | w   |        |   |   |   |   | Regi¦na            | Regi¦na        |   |   |   |   | lat |   |   |    | 230-04—230-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | coniuge            | conıuge        |   |   |   |   | lat |   |   |    |        230-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | nostra             | noﬅra          |   |   |   |   | lat |   |   |    |        230-05 | 2:context |          |  |    |    |    |    |
@@ -168,9 +168,9 @@
 | w   |        |   |   |   |   | sancte             | ſane          |   |   |   |   | lat |   |   |    |        230-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Clare              | Clare          |   |   |   |   | lat |   |   |    |        230-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | virginis           | virgini       |   |   |   |   | lat |   |   |    |        230-06 | 2:context |          |  |    |    |    |    |
-| PL  |      b |   |   |   |   |                    |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  |      b |   149380|   |   |   |                    |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    1012|    |
 | w   |        |   |   |   |   | Roskildis          | Roſkıldı      |   |   |   |   | lat |   |   |    |        230-06 | 2:context |          |  |    |    |1012|    |
-| PL  |      e |   |   |   |   |                    |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  |      e |   149380|   |   |   |                    |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    1012|    |
 | w   |        |   |   |   |   | Ciuitatis          | Cıuıtatı      |   |   |   |   | lat |   |   |    |        230-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (et)               |               |   |   |   |   | lat |   |   |    |        230-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | dyoc(esis)         | dẏo           |   |   |   |   | lat |   |   |    |        230-06 | 2:context |          |  |    |    |    |    |
@@ -293,9 +293,9 @@
 | w   |        |   |   |   |   | familia            | famılıa        |   |   |   |   | lat |   |   |    |        230-11 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | infra              | ınfra          |   |   |   |   | lat |   |   |    |        230-11 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Ci¦uitatem         | Ci¦uitate     |   |   |   |   | lat |   |   |    | 230-11—230-12 | 2:context |          |  |    |    |    |    |
-| PL  |      b |   |   |   |   |                    |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  |      b |   149195|   |   |   |                    |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    1013|    |
 | w   |        |   |   |   |   | Rosk(ildensem)     | Roſꝃ           |   |   |   |   | lat |   |   |    |        230-12 | 2:context |          |  |    |    |1013|    |
-| PL  |      e |   |   |   |   |                    |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  |      e |   149195|   |   |   |                    |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    1013|    |
 | w   |        |   |   |   |   | infra              | ınfra          |   |   |   |   | lat |   |   |    |        230-12 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | villas             | ỽılla         |   |   |   |   | lat |   |   |    |        230-12 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | forenses           | foꝛenſe       |   |   |   |   | lat |   |   |    |        230-12 | 2:context |          |  |    |    |    |    |
@@ -544,9 +544,9 @@
 | w   |        |   |   |   |   | et                 | et             |   |   |   |   | lat |   |   |    |        230-24 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Dat(um)            | Ꝺatͫ            |   |   |   |   | lat |   |   |    |        230-24 | 3:eschatocol |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                  | .              |   |   |   |   | lat |   |   |    |        230-24 | 3:eschatocol |          |  |    |    |    |    |
-| PL  |      b |   |   |   |   |                    |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  |      b |   |   |   |   |                    |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    1014|    |
 | w   |        |   |   |   |   | skarsøholm         | karſøhol     |   |   |   |   | lat |   |   |    |        230-24 | 3:eschatocol |          |  |    |    |1014|    |
-| PL  |      e |   |   |   |   |                    |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  |      e |   |   |   |   |                    |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    1014|    |
 | p   |        |   |   |   |   | .                  | .              |   |   |   |   | lat |   |   |    |        230-24 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | anno               | nno           |   |   |   |   | lat |   |   |    |        230-24 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | domini             | domini         |   |   |   |   | lat |   |   |    |        230-24 | 3:eschatocol |          |  |    |    |    |    |

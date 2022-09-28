@@ -53,20 +53,20 @@
 | w   |        | læse          | xVB | læses          |   | læs(es)           | læ          |   |   |   |   | dan     |   |   |   | 409-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | helse         | xVB | hilser         |   | helser            | helſer       |   |   |   |   | dan     |   |   |   | 409-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | jak           | xPE | jeg            |   | jek               | ȷek          |   |   |   |   | dan     |   |   |   | 409-01 | 1:protocol |          |  |    |    |    |    |
-| PE  | b      | JepJen001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | b      | JepJen001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    1862|    |    |    |
 | w   |        |               | xNP | Jep            |   | jep               | ȷep          |   |   |   |   | dan     |   |   |   | 409-01 | 1:protocol |          |  |1862|    |    |    |
 | w   |        |               | xNP | Jensen         |   | jens(øn)          | ȷen         |   |   |   |   | dan     |   |   |   | 409-01 | 1:protocol |          |  |1862|    |    |    |
-| PE  | e      | JepJen001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | JepJen001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    1862|    |    |    |
 | w   |        | i             | xAP | i              |   | i                 | ı            |   |   |   |   | dan     |   |   |   | 409-01 | 1:protocol |          |  |    |    |    |    |
-| PL  | b      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PL  | b      |               3624|     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    1740|    |
 | w   |        |               | xNP | Kyndby         |   | kyndby            | kyndby       |   |   |   |   | dan     |   |   |   | 409-01 | 1:protocol |          |  |    |    |1740|    |
-| PL  | e      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PL  | e      |               3624|     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    1740|    |
 | w   |        | ok            | xCC | og             |   | oc                | oc           |   |   |   |   | dan     |   |   |   | 409-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | høveth+man    | xNC | høvedsmand     |   | høuitzma(n)       | høuitzma̅     |   |   |   |   | dan     |   |   |   | 409-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | upa           | xAP | på             |   | pa                | pa           |   |   |   |   | dan     |   |   |   | 409-01 | 1:protocol |          |  |    |    |    |    |
-| PL  | b      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PL  | b      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    1741|    |
 | w   |        |               | xNP | Ravnsborg      |   | raffnsb(ur)gh     | raffnſb᷑gh    |   |   |   |   | dan     |   |   |   | 409-01 | 1:protocol |          |  |    |    |1741|    |
-| PL  | e      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PL  | e      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    1741|    |
 | w   |        | ævinnelik     | xAJ | evindelige     |   | ewi(n)nelige      | ewi̅nelıge    |   |   |   |   | dan     |   |   |   | 409-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | mæth          | xAP | med            |   | m(et)             | mꝫ           |   |   |   |   | dan     |   |   |   | 409-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | guth          | xNC | Gud            |   | gudh              | gudh         |   |   |   |   | dan     |   |   |   | 409-01 | 1:protocol |          |  |    |    |    |    |
@@ -103,20 +103,20 @@
 | w   |        | jungfrue      | xNC | jomfruer       |   | jomf(rv)er        | ȷomfͮer       |   |   |   |   | dan     |   |   |   | 409-02 | 2:context |          |  |    |    |    |    |
 | lm  | 409-03 |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | syster        | xNC | søster         |   | søsth(e)r         | ſøﬅhꝛ̅        |   |   |   |   | dan     |   |   |   | 409-03 | 2:context |          |  |    |    |    |    |
-| PE  | b      | EliMad001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | b      | EliMad001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    1863|    |    |    |
 | w   |        |               | xNP | Eline          |   | elene             | elene        |   |   |   |   | dan     |   |   |   | 409-03 | 2:context |          |  |1863|    |    |    |
 | w   |        |               | xNP | Mads           |   | matese            | mateſe       |   |   |   |   | dan     |   |   |   | 409-03 | 2:context |          |  |1863|    |    |    |
 | w   |        | dotter        | xNC | datter         |   | dotthr(m)         | dotthꝛ̅       |   |   |   |   | dan     |   |   |   | 409-03 | 2:context |          |  |1863|    |    |    |
-| PE  | e      | EliMad001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | EliMad001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    1863|    |    |    |
 | w   |        | abbetisse     | xNC | abbedisse      |   | abbatissa         | abbatıa     |   |   |   |   | lat     |   |   |   | 409-03 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | j                 | j            |   |   |   |   | dan     |   |   |   | 409-03 | 2:context |          |  |    |    |    |    |
 | w   |        | sankte        | xAJ | sankt          |   | s(anc)ta          | ﬅa̅           |   |   |   |   | dan     |   |   |   | 409-03 | 2:context |          |  |    |    |    |    |
 | w   |        |               | xNP | Clara          |   | clara             | clara        |   |   |   |   | lat/dan |   |   |   | 409-03 | 2:context |          |  |    |    |    |    |
 | w   |        | kloster       | xNC | kloster        |   | clost(er)         | cloﬅ        |   |   |   |   | lat/dan |   |   |   | 409-03 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | i                 | ı            |   |   |   |   | dan     |   |   |   | 409-03 | 2:context |          |  |    |    |    |    |
-| PL  | b      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PL  | b      |               149380|     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    1742|    |
 | w   |        |               | xNP | Roskilde       |   | roskilde          | roſkılde     |   |   |   |   | dan     |   |   |   | 409-03 | 2:context |          |  |    |    |1742|    |
-| PL  | e      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PL  | e      |               149380|     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    1742|    |
 | w   |        | ok            | xCC | og             |   | oc                | oc           |   |   |   |   | dan     |   |   |   | 409-03 | 2:context |          |  |    |    |    |    |
 | w   |        | al            | xAJ | alt            |   | alt               | alt          |   |   |   |   | dan     |   |   |   | 409-03 | 2:context |          |  |    |    |    |    |
 | w   |        | konvent       | xNC | konvent        |   | (con)ue(n)t       | ꝯue̅t         |   |   |   |   | dan     |   |   |   | 409-03 | 2:context |          |  |    |    |    |    |
@@ -144,13 +144,13 @@
 | w   |        | jak           | xPE | mig            |   | mik               | mik          |   |   |   |   | dan     |   |   |   | 409-04 | 2:context |          |  |    |    |    |    |
 | w   |        | ligje         | xVB | liggende       |   | ligge(n)d(e)      | lıgge̅       |   |   |   |   | dan     |   |   |   | 409-04 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | i                 | i            |   |   |   |   | dan     |   |   |   | 409-04 | 2:context |          |  |    |    |    |    |
-| PL  | b      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PL  | b      |               125054|     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    1743|    |
 | w   |        |               | xNP | Herlev         |   | herløwe           | herløwe      |   |   |   |   | dan     |   |   |   | 409-04 | 2:context |          |  |    |    |1743|    |
-| PL  | e      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PL  | e      |               125054|     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    1743|    |
 | w   |        | i             | xAP | i              |   | j                 | ȷ            |   |   |   |   | dan     |   |   |   | 409-04 | 2:context |          |  |    |    |    |    |
-| PL  | b      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PL  | b      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    1744|    |
 | w   |        |               | xNP | Smørums Herred |   | smøremsher(et)    | ſmøremherꝫ  |   |   |   |   | dan     |   |   |   | 409-04 | 2:context |          |  |    |    |1744|    |
-| PL  | e      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PL  | e      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    1744|    |
 | w   |        | sum           | xRP | som            |   | so(m)             | ſo̅           |   |   |   |   | dan     |   |   |   | 409-04 | 2:context |          |  |    |    |    |    |
 | w   |        | nu            | xAV | nu             |   | nw                | nw           |   |   |   |   | dan     |   |   |   | 409-04 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAV | i              |   | j                 | ȷ            |   |   |   |   | dan     |   |   |   | 409-04 | 2:context |          |  |    |    |    |    |
@@ -189,19 +189,19 @@
 | w   |        | garth         | xNC | gård           |   | gordh             | goꝛdh        |   |   |   |   | dan     |   |   |   | 409-05 | 2:context |          |  |    |    |    |    |
 | w   |        | ligje         | xVB | liggende       |   | ligge(n)d(e)      | ligge̅       |   |   |   |   | dan     |   |   |   | 409-05 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | j                 | ȷ            |   |   |   |   | dan     |   |   |   | 409-05 | 2:context |          |  |    |    |    |    |
-| PL  | b      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PL  | b      |               3624|     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    1745|    |
 | w   |        |               | xNP | Kyndby         |   | kyndby            | kẏndbẏ       |   |   |   |   | dan     |   |   |   | 409-05 | 2:context |          |  |    |    |1745|    |
-| PL  | e      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PL  | e      |               3624|     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    1745|    |
 | w   |        | i             | xAP | i              |   | j                 | ȷ            |   |   |   |   | dan     |   |   |   | 409-05 | 2:context |          |  |    |    |    |    |
-| PL  | b      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PL  | b      |               3562|     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    1746|    |
 | w   |        |               | xNP | Horns Herred   |   | hornsheret        | hoꝛnſheret   |   |   |   |   | dan     |   |   |   | 409-05 | 2:context |          |  |    |    |1746|    |
-| PL  | e      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PL  | e      |               3562|     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    1746|    |
 | w   |        | sum           | xRP | som            |   | so(m)             | ſo̅           |   |   |   |   | dan     |   |   |   | 409-05 | 2:context |          |  |    |    |    |    |
 | lm  | 409-06 |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
-| PE  | b      | AndDwn001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | b      | AndDwn001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    1864|    |    |    |
 | w   |        |               | xNP | Anders         |   | Anders            | Ander       |   |   |   |   | dan     |   |   |   | 409-06 | 2:context |          |  |1864|    |    |    |
 | w   |        |               | xNP | Dwn            |   | dwn               | dw          |   |   |   |   | dan     |   |   |   | 409-06 | 2:context |          |  |1864|    |    |    |
-| PE  | e      | AndDwn001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | AndDwn001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    1864|    |    |    |
 | w   |        | nu            | xAV | nu             |   | nw                | nw           |   |   |   |   | dan     |   |   |   | 409-06 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAV | i              |   | i                 | i            |   |   |   |   | dan     |   |   |   | 409-06 | 2:context |          |  |    |    |    |    |
 | w   |        | bo            | xVB | bor            |   | boor              | booꝛ         |   |   |   |   | dan     |   |   |   | 409-06 | 2:context |          |  |    |    |    |    |
@@ -259,9 +259,9 @@
 | w   |        |               | xNP | Clara          |   | clara             | clara        |   |   |   |   | lat/dan |   |   |   | 409-08 | 2:context |          |  |    |    |    |    |
 | w   |        | kloster       | xNC | kloster        |   | clost(er)         | cloﬅ        |   |   |   |   | dan     |   |   |   | 409-08 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | i                 | ı            |   |   |   |   | dan     |   |   |   | 409-08 | 2:context |          |  |    |    |    |    |
-| PL  | b      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PL  | b      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    2303|    |
 | w   |        |               | xNP | Roskilde       |   | rosk(ilde)        | roſkꝭ        |   |   |   |   | dan     |   |   |   | 409-08 | 2:context |          |  |    |    |2303|    |
-| PL  | e      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PL  | e      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    2303|    |
 | w   |        | til           | xAP | til            |   | till              | tıll         |   |   |   |   | dan     |   |   |   | 409-08 | 2:context |          |  |    |    |    |    |
 | w   |        | ævinnelik     | xAJ | evindelige     |   | ewi(n)nelighe     | ewı̅nelıghe   |   |   |   |   | dan     |   |   |   | 409-08 | 2:context |          |  |    |    |    |    |
 | w   |        | eghe          | xNC | eje            |   | eyæ               | eyæ          |   |   |   |   | dan     |   |   |   | 409-08 | 2:context |          |  |    |    |    |    |
@@ -283,21 +283,21 @@
 | w   |        | garth         | xNC | gård           |   | gordh             | goꝛdh        |   |   |   |   | dan     |   |   |   | 409-08 | 2:context |          |  |    |    |    |    |
 | lm  | 409-09 |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | j                 | j            |   |   |   |   | dan     |   |   |   | 409-09 | 2:context |          |  |    |    |    |    |
-| PL  | b      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PL  | b      |               125054|     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    1747|    |
 | w   |        |               | xNP | Herlev         |   | h(er)løwe         | h̅løwe        |   |   |   |   | dan     |   |   |   | 409-09 | 2:context |          |  |    |    |1747|    |
-| PL  | e      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PL  | e      |               125054|     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    1747|    |
 | w   |        | i             | xAP | i              |   | j                 | ȷ            |   |   |   |   | dan     |   |   |   | 409-09 | 2:context |          |  |    |    |    |    |
-| PL  | b      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PL  | b      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    1748|    |
 | w   |        |               | xNP | Smærums Herred |   | smør(er)msher(et) | ſmørmſherꝫ  |   |   |   |   | dan     |   |   |   | 409-09 | 2:context |          |  |    |    |1748|    |
-| PL  | e      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PL  | e      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    1748|    |
 | w   |        | sum           | xRP | som            |   | so(m)             | ſo̅           |   |   |   |   | dan     |   |   |   | 409-09 | 2:context |          |  |    |    |    |    |
 | w   |        | nu            | xAV | nu             |   | nw                | nw           |   |   |   |   | dan     |   |   |   | 409-09 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAV | i              |   | j                 | ȷ            |   |   |   |   | dan     |   |   |   | 409-09 | 2:context |          |  |    |    |    |    |
 | w   |        | bo            | xVB | bor            |   | boor              | booꝛ         |   |   |   |   | dan     |   |   |   | 409-09 | 2:context |          |  |    |    |    |    |
-| PE  | b      | TroJen001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | b      | TroJen001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    1865|    |    |    |
 | w   |        |               | xNP | Troels         |   | ⸝trwells          | ⸝trwell     |   |   |   |   | dan     |   |   |   | 409-09 | 2:context |          |  |1865|    |    |    |
 | w   |        |               | xNP | Jensen         |   | jenss(øn)⸜        | ȷenſ⸜       |   |   |   |   | dan     |   |   |   | 409-09 | 2:context |          |  |1865|    |    |    |
-| PE  | e      | TroJen001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | TroJen001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    1865|    |    |    |
 | w   |        | ok            | xCC | og             |   | oc                | oc           |   |   |   |   | dan     |   |   |   | 409-09 | 2:context |          |  |    |    |    |    |
 | w   |        | give          | xVB | giver          |   | giffu(er)         | giffu       |   |   |   |   | dan     |   |   |   | 409-09 | 2:context |          |  |    |    |    |    |
 | w   |        | en            | xNA | en             |   | en                | en           |   |   |   |   | dan     |   |   |   | 409-09 | 2:context |          |  |    |    |    |    |
@@ -465,9 +465,9 @@
 | w   |        | thæn          | xPE | deres          |   | ther(is)          | therꝭ        |   |   |   |   | dan     |   |   |   | 409-15 | 2:context |          |  |    |    |    |    |
 | w   |        | garth         | xNC | gård           |   | gordh             | goꝛdh        |   |   |   |   | dan     |   |   |   | 409-15 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | i                 | i            |   |   |   |   | dan     |   |   |   | 409-15 | 2:context |          |  |    |    |    |    |
-| PL  | b      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PL  | b      |               3624|     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    1749|    |
 | w   |        |               | xNP | Kyndby         |   | kindby            | kindby       |   |   |   |   | dan     |   |   |   | 409-15 | 2:context |          |  |    |    |1749|    |
-| PL  | e      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PL  | e      |               3624|     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    1749|    |
 | w   |        | sva           | xAV | så             |   | so                | ſo           |   |   |   |   | dan     |   |   |   | 409-15 | 2:context |          |  |    |    |    |    |
 | w   |        | goth          | xAJ | god            |   | godh              | godh         |   |   |   |   | dan     |   |   |   | 409-15 | 2:context |          |  |    |    |    |    |
 | w   |        | af            | xAP | af             |   | aff               | aff          |   |   |   |   | dan     |   |   |   | 409-15 | 2:context |          |  |    |    |    |    |
@@ -520,41 +520,41 @@
 | w   |        | ærlik         | xAJ | ærlige         |   | erlighe           | erlıghe      |   |   |   |   | dan     |   |   |   | 409-17 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | man           | xNC | mand           |   | man               | ma          |   |   |   |   | dan     |   |   |   | 409-17 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | doktor        | xNC | doktor         |   | Doctor            | Doctoꝛ       |   |   |   |   | dan     |   |   |   | 409-17 | 3:eschatocol |          |  |    |    |    |    |
-| PE  | b      | KriPre002     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | b      | KriPre002     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    1866|    |    |    |
 | w   |        |               | xNP | Kristoffer     |   | c(ri)stoffer      | cﬅoffer     |   |   |   |   | dan     |   |   |   | 409-17 | 3:eschatocol |          |  |1866|    |    |    |
-| PE  | e      | KriPre002     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | KriPre002     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    1866|    |    |    |
 | lm  | 409-18 |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | domprovest    | xNC | domprovst      |   | Domp(ro)st        | Domꝓﬅ        |   |   |   |   | dan     |   |   |   | 409-18 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | j                 | ȷ            |   |   |   |   | dan     |   |   |   | 409-18 | 3:eschatocol |          |  |    |    |    |    |
-| PL  | b      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PL  | b      |               149195|     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    1750|    |
 | w   |        |               | xNP | Roskilde       |   | roskilde          | roſkılde     |   |   |   |   | dan     |   |   |   | 409-18 | 3:eschatocol |          |  |    |    |1750|    |
-| PL  | e      |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
-| PE  | b      | OddHan001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PL  | e      |               149195|     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    1750|    |
+| PE  | b      | OddHan001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    1867|    |    |    |
 | w   |        |               | xNP | Odde           |   | Odde              | Odde         |   |   |   |   | dan     |   |   |   | 409-18 | 3:eschatocol |          |  |1867|    |    |    |
 | w   |        |               | xNP | Hansen         |   | hans(øn)          | han         |   |   |   |   | dan     |   |   |   | 409-18 | 3:eschatocol |          |  |1867|    |    |    |
-| PE  | e      | OddHan001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | OddHan001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    1867|    |    |    |
 | w   |        | kantor        | xNC | kantor         |   | Cantor            | Cantoꝛ       |   |   |   |   | dan     |   |   |   | 409-18 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | j                 | ȷ            |   |   |   |   | dan     |   |   |   | 409-18 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | same+stath    | xNC | samme sted     |   | sam(m)est(et)     | ſam̅eﬅꝫ       |   |   |   |   | dan     |   |   |   | 409-18 | 3:eschatocol |          |  |    |    |    |    |
-| PE  | b      | HanKje001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | b      | HanKje001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    1868|    |    |    |
 | w   |        |               | xNP | hans           |   | ha(n)s            | ha̅          |   |   |   |   | dan     |   |   |   | 409-18 | 3:eschatocol |          |  |1868|    |    |    |
 | w   |        |               | xNP | Kjeldsen       |   | kelds(øn)         | keld        |   |   |   |   | dan     |   |   |   | 409-18 | 3:eschatocol |          |  |1868|    |    |    |
-| PE  | e      | HanKje001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | HanKje001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    1868|    |    |    |
 | w   |        | forstandere   | xNC | forstandere    |   | forstender(e)     | foꝛﬅender   |   |   |   |   | dan     |   |   |   | 409-18 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | til           | xAP | til            |   | til               | tıl          |   |   |   |   | dan     |   |   |   | 409-18 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | sankte        | xAJ | sankt          |   | s(anc)ta          | ﬅa̅           |   |   |   |   | lat/dan |   |   |   | 409-18 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |               | xNP | Clara          |   | cla(ra)           | claᷓ          |   |   |   |   | lat/dan |   |   |   | 409-18 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | kloster       | xNC | kloster        |   | clost(er)         | cloﬅ        |   |   |   |   | dan     |   |   |   | 409-18 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | ibidem        | xAV |                |   | i(bidem)          | i           |   |   |   |   | lat     |   |   |   | 409-18 | 3:eschatocol |          |  |    |    |    |    |
-| PE  | b      | HenBon001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | b      | HenBon001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    1869|    |    |    |
 | w   |        |               | xNP | Henrik         |   | he(n)rik          | he̅rık        |   |   |   |   | dan     |   |   |   | 409-18 | 3:eschatocol |          |  |1869|    |    |    |
 | w   |        |               | xNP | Bonschot       |   | bonschot          | bonſchot     |   |   |   |   | dan     |   |   |   | 409-18 | 3:eschatocol |          |  |1869|    |    |    |
-| PE  | e      | HenBon001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | HenBon001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    1869|    |    |    |
 | w   |        | ok            | xCC | og             |   | oc                | oc           |   |   |   |   | dan     |   |   |   | 409-18 | 3:eschatocol |          |  |    |    |    |    |
-| PE  | b      | JenKru001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | b      | JenKru001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    1870|    |    |    |
 | w   |        |               | xNP | Jens           |   | jens              | ȷen         |   |   |   |   | dan     |   |   |   | 409-18 | 3:eschatocol |          |  |1870|    |    |    |
 | w   |        |               | xNP | Kruse          |   | krwse             | krwſe        |   |   |   |   | dan     |   |   |   | 409-18 | 3:eschatocol |          |  |1870|    |    |    |
-| PE  | e      | JenKru001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | JenKru001     |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    1870|    |    |    |
 | w   |        | burghemæstere | xNC | borgemestere     |   | burgemeste(re)    | buꝛgemeﬅe   |   |   |   |   | dan     |   |   |   | 409-18 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 409-19 |               |     |                |   |                   |              |   |   |   |   |         |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | j                 | ȷ            |   |   |   |   | dan     |   |   |   | 409-19 | 3:eschatocol |          |  |    |    |    |    |

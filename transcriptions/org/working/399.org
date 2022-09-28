@@ -53,15 +53,15 @@
 | w   |        | læse            | xVB | læset          |   | læset            | læſet        |   |   |   |   | dan     |   |   |    | 399-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | helse           | xVB | hilser         |   | Hels(er)         | Hel         |   |   |   |   | dan     |   |   |    | 399-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | jak             | xPE | jeg            |   | ieg              | ıeg          |   |   |   |   | dan     |   |   |    | 399-01 | 1:protocol |          |  |    |    |    |    |
-| PE  |      b | GriJen001       |     |                |   |                  |              |   |   |   |   |         |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      b | GriJen001       |     |                |   |                  |              |   |   |   |   |         |   |   |    |        |          |          |  |    1737|    |    |    |
 | w   |        |                 | xNP | Grib           |   | gryb             | grẏb         |   |   |   |   | dan     |   |   |    | 399-01 | 1:protocol |          |  |1737|    |    |    |
 | w   |        |                 | xNP | Jensen         |   | jenss(øn)        | jen        |   |   |   |   | dan     |   |   |    | 399-01 | 1:protocol |          |  |1737|    |    |    |
-| PE  |      e | GriJen001       |     |                |   |                  |              |   |   |   |   |         |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      e | GriJen001       |     |                |   |                  |              |   |   |   |   |         |   |   |    |        |          |          |  |    1737|    |    |    |
 | w   |        | af              | xAP | af             |   | aff              | aff          |   |   |   |   | dan     |   |   |    | 399-01 | 1:protocol |          |  |    |    |    |    |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1666|    |
 | w   |        |                 | xNP | Olstrup        |   | ollstørp         | ollſtøꝛp     |   |   |   |   | dan     |   |   |    | 399-01 | 1:protocol |          |  |    |    |1666|    |
 | w   |        |                 | xNP | Åby            |   | aawaby           | aawaby       |   |   |   |   | dan     |   |   |    | 399-01 | 1:protocol |          |  |    |    |1666|    |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1666|    |
 | w   |        | ok              | xCC | og             |   | oc               | oc           |   |   |   |   | dan     |   |   |    | 399-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | kungøre         | xVB | kundgør        |   | ku(n)giør        | ku̅gíøꝛ       |   |   |   |   | dan     |   |   |    | 399-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | mæth            | xAP | med            |   | m(et)            | mꝫ           |   |   |   |   | dan     |   |   |    | 399-01 | 1:protocol |          |  |    |    |    |    |
@@ -93,14 +93,14 @@
 | w   |        |                 | xNP | Clara          |   | clare            | clare        |   |   |   |   | lat     |   |   |    | 399-03 | 2:context |          |  |    |    |    |    |
 | w   |        | kloster         | xNC | kloster        |   | clost(er)        | cloſt       |   |   |   |   | dan     |   |   |    | 399-03 | 2:context |          |  |    |    |    |    |
 | w   |        | i               | xAP | i              |   | j                | ȷ            |   |   |   |   | dan     |   |   |    | 399-03 | 2:context |          |  |    |    |    |    |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | b |    149380|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1667|    |
 | w   |        |                 | xNP | Roskilde       |   | rosk(ilde)       | roſkꝭ        |   |   |   |   | dan     |   |   |    | 399-03 | 2:context |          |  |    |    |1667|    |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | e |    149380|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1667|    |
 | w   |        | ligje           | xVB | liggende       |   | liggend(e)       | líggen      |   |   |   |   | dan     |   |   |    | 399-03 | 2:context |          |  |    |    |    |    |
 | w   |        | i               | xAP | i              |   | j                | ȷ            |   |   |   |   | dan     |   |   |    | 399-03 | 2:context |          |  |    |    |    |    |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1668|    |
 | w   |        |                 | xNP | Høve           |   | høwæ             | høwæ         |   |   |   |   | dan     |   |   |    | 399-03 | 2:context |          |  |    |    |1668|    |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1668|    |
 | w   |        | hvilik          | xPI | hvilken        |   | hwilken          | hwilke      |   |   |   |   | dan     |   |   |    | 399-03 | 2:context |          |  |    |    |    |    |
 | w   |        | sum             | xRP | som            |   | som              | ſo          |   |   |   |   | dan     |   |   |    | 399-03 | 2:context |          |  |    |    |    |    |
 | w   |        | skylde          | xVB | skylder        |   | skylder          | ſkẏldeꝛ      |   |   |   |   | dan     |   |   |    | 399-03 | 2:context |          |  |    |    |    |    |
@@ -125,11 +125,11 @@
 | w   |        | mothersyster    | xNC | modersøster    |   | modh(e)rsyst(er) | modhꝛ̅ſẏſt   |   |   |   |   | dan     |   |   |    | 399-04 | 2:context |          |  |    |    |    |    |
 | w   |        | dotter          | xNC | datter         |   | dott(er)         | dott        |   |   |   |   | dan     |   |   |    | 399-04 | 2:context |          |  |    |    |    |    |
 | w   |        | syster          | xNC | søster         |   | syst(er)         | ſyſt        |   |   |   |   | dan     |   |   |    | 399-04 | 2:context |          |  |    |    |    |    |
-| PE  |      b | EliNie003       |     |                |   |                  |              |   |   |   |   |         |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      b | EliNie003       |     |                |   |                  |              |   |   |   |   |         |   |   |    |        |          |          |  |    1738|    |    |    |
 | w   |        |                 | xNP | Eline          |   | elnæ             | elnæ         |   |   |   |   | dan     |   |   |    | 399-04 | 2:context |          |  |1738|    |    |    |
 | w   |        |                 | xNP | Niels          |   | nielsæ           | nielſæ       |   |   |   |   | dan     |   |   | =  | 399-04 | 2:context |          |  |1738|    |    |    |
 | w   |        | dotter          | xNC | datter         |   | dott(er)         | dott        |   |   |   |   | dan     |   |   | == | 399-04 | 2:context |          |  |1738|    |    |    |
-| PE  |      e | EliNie003       |     |                |   |                  |              |   |   |   |   |         |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      e | EliNie003       |     |                |   |                  |              |   |   |   |   |         |   |   |    |        |          |          |  |    1738|    |    |    |
 | w   |        | hun             | xPE | hendes         |   | hennes           | henne       |   |   |   |   | dan     |   |   |    | 399-04 | 2:context |          |  |    |    |    |    |
 | w   |        | ræt             | xAJ | rette          |   | rættæ            | rættæ        |   |   |   |   | dan     |   |   |    | 399-04 | 2:context |          |  |    |    |    |    |
 | lm  | 399-05 |                 |     |                |   |                  |              |   |   |   |   |         |   |   |    |        |          |          |  |    |    |    |    |

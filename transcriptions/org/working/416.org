@@ -44,18 +44,18 @@
 | lm  | 416-01 |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | d   | b      | 1             |     | protocol    |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | vi            | xPE | vi          |   | Wii              | Wii              |   |   |   |   | dan |   |   |    | 416-01 | 1:protocol |          |  |    |    |    |    |
-| PE  | b      | RexHan001     |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | b      | RexHan001     |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    1937|    |    |    |
 | w   |        |               | xNP | Hans        |   | Hans             | Han             |   |   |   |   | dan |   |   |    | 416-01 | 1:protocol |          |  |1937|    |    |    |
-| PE  | e      | RexHan001     |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | e      | RexHan001     |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    1937|    |    |    |
 | w   |        | mæth          | xAP | med         |   | m(et)            | mꝫ               |   |   |   |   | dan |   |   |    | 416-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | guth          | xNC | Guds        |   | gudz             | gudz             |   |   |   |   | dan |   |   |    | 416-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | nathe         | xNC | nåde        |   | Nade             | Nade             |   |   |   |   | dan |   |   |    | 416-01 | 1:protocol |          |  |    |    |    |    |
-| PL  | b      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | b      |               128854|     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1808|    |
 | w   |        |               | xNP | Danmarks    |   | Danmarcks        | Danmaꝛck        |   |   |   |   | dan |   |   |    | 416-01 | 1:protocol |          |  |    |    |1808|    |
-| PL  | e      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| PL  | b      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |               128854|     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1808|    |
+| PL  | b      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1809|    |
 | w   |        |               | xNP | Norges      |   | Norg(is)         | Noꝛgꝭ            |   |   |   |   | dan |   |   |    | 416-01 | 1:protocol |          |  |    |    |1809|    |
-| PL  | e      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1809|    |
 | w   |        | vind          | xNC | Vendes      |   | Vend(is)         | Vendꝭ            |   |   |   |   | dan |   |   |    | 416-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | ok            | xCC | og          |   | oc               | oc               |   |   |   |   | dan |   |   |    | 416-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | gote          | xNC | Gotes       |   | Gothes           | Gothe           |   |   |   |   | dan |   |   |    | 416-01 | 1:protocol |          |  |    |    |    |    |
@@ -64,30 +64,30 @@
 | lm  | 416-02 |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | kunung        | xNC | konge       |   | konni(n)g        | konni̅g           |   |   |   |   | dan |   |   |    | 416-02 | 1:protocol |          |  |    |    |    |    |
 | w   |        | til           | xAP | til         |   | till             | tıll             |   |   |   |   | dan |   |   |    | 416-02 | 1:protocol |          |  |    |    |    |    |
-| PL  | b      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | b      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1810|    |
 | w   |        |               | xNP | Sverige     |   | Su(er)rige       | uꝛıge          |   |   |   |   | dan |   |   |    | 416-02 | 1:protocol |          |  |    |    |1810|    |
-| PL  | e      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1810|    |
 | w   |        | hærtugh       | xNC | hertug      |   | h(er)tug         | htug            |   |   |   |   | dan |   |   |    | 416-02 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i             | xAP | i           |   | i                | i                |   |   |   |   | dan |   |   |    | 416-02 | 1:protocol |          |  |    |    |    |    |
-| PL  | b      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | b      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1811|    |
 | w   |        |               | xNP | Holsten     |   | Holsten          | Holſten          |   |   |   |   | dan |   |   |    | 416-02 | 1:protocol |          |  |    |    |1811|    |
-| PL  | e      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| PL  | b      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1811|    |
+| PL  | b      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1812|    |
 | w   |        |               | xNP | Stormarn    |   | Storma(re)n      | toꝛman         |   |   |   |   | dan |   |   |    | 416-02 | 1:protocol |          |  |    |    |1812|    |
-| PL  | e      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1812|    |
 | w   |        | ok            | xCC | og          |   | oc               | oc               |   |   |   |   | dan |   |   |    | 416-02 | 1:protocol |          |  |    |    |    |    |
-| PL  | b      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | b      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1813|    |
 | w   |        |               | xNP | Ditmarsken  |   | ditmersche(n)    | dıtmeꝛſche̅       |   |   |   |   | dan |   |   |    | 416-02 | 1:protocol |          |  |    |    |1813|    |
-| PL  | e      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1813|    |
 | w   |        | greve         | xNC | greve       |   | Greffue          | Gꝛeffue          |   |   |   |   | dan |   |   |    | 416-02 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i             | xAP | i           |   | i                | i                |   |   |   |   | dan |   |   |    | 416-02 | 1:protocol |          |  |    |    |    |    |
-| PL  | b      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | b      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1814|    |
 | w   |        |               | xNP | Oldenborg   |   | Oldenborg        | Oldenboꝛg        |   |   |   |   | dan |   |   |    | 416-02 | 1:protocol |          |  |    |    |1814|    |
-| PL  | e      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1814|    |
 | w   |        | ok            | xCC | og          |   | oc               | oc               |   |   |   |   | dan |   |   |    | 416-02 | 1:protocol |          |  |    |    |    |    |
-| PL  | b      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | b      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1815|    |
 | w   |        |               | xNP | Delmenhorst |   | delm(en)horst    | delm̅horſt        |   |   |   |   | dan |   |   |    | 416-02 | 1:protocol |          |  |    |    |1815|    |
-| PL  | e      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1815|    |
 | lm  | 416-03 |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | gøre          | xVB | gøre        |   | gøre             | gøꝛe             |   |   |   |   | dan |   |   |    | 416-03 | 1:protocol |          |  |    |    |    |    |
 | w   |        | al            | xAJ | alle        |   | alle             | alle             |   |   |   |   | dan |   |   |    | 416-03 | 1:protocol |          |  |    |    |    |    |
@@ -122,16 +122,16 @@
 | w   |        | hetherlik     | xAJ | hæderlig    |   | heth(e)rlig      | hethꝛlıg        |   |   |   |   | dan |   |   |    | 416-04 | 2:context |          |  |    |    |    |    |
 | w   |        | man           | xNC | mand        |   | ma(n)            | ma̅               |   |   |   |   | dan |   |   |    | 416-04 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre         | xNC | hr.          |   | h(er)            | h               |   |   |   |   | dan |   |   |    | 416-04 | 2:context |          |  |    |    |    |    |
-| PE  | b      | OddHan001     |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | b      | OddHan001     |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    1938|    |    |    |
 | w   |        |               | xNP | Odde        |   | odde             | odde             |   |   |   |   | dan |   |   |    | 416-04 | 2:context |          |  |1938|    |    |    |
 | lm  | 416-05 |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        |               | xNP | Hansen      |   | hanss(øn)        | hanſ            |   |   |   |   | dan |   |   |    | 416-05 | 2:context |          |  |1938|    |    |    |
-| PE  | e      | OddHan001     |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | e      | OddHan001     |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    1938|    |    |    |
 | w   |        | kantor        | xNC | kantor      |   | cantor           | cantor           |   |   |   |   | dan |   |   |    | 416-05 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i           |   | i                | i                |   |   |   |   | dan |   |   |    | 416-05 | 2:context |          |  |    |    |    |    |
-| PL  | b      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | b      |               149195|     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1816|    |
 | w   |        |               | xNP | Roskilde    |   | Roskilde         | Roſkılde         |   |   |   |   | dan |   |   |    | 416-05 | 2:context |          |  |    |    |1816|    |
-| PL  | e      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |               149195|     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1816|    |
 | w   |        | han           | xPE | hans        |   | hans             | han             |   |   |   |   | dan |   |   |    | 416-05 | 2:context |          |  |    |    |    |    |
 | w   |        | goths         | xNC | gods        |   | gotz             | gotz             |   |   |   |   | dan |   |   |    | 416-05 | 2:context |          |  |    |    |    |    |
 | w   |        | røre          | xVB | rørendes    |   | rør(e)nd(is)     | rørndꝭ          |   |   |   |   | dan |   |   |    | 416-05 | 2:context |          |  |    |    |    |    |
@@ -164,9 +164,9 @@
 | w   |        | var           | xDP | vor         |   | wor              | wor              |   |   |   |   | dan |   |   |    | 416-07 | 2:context |          |  |    |    |    |    |
 | w   |        | kapel         | xNC | kapel       |   | Capelle          | Capelle          |   |   |   |   | dan |   |   |    | 416-07 | 2:context |          |  |    |    |    |    |
 | w   |        | uti           | xAP | udi         |   | vdi              | vdi              |   |   |   |   | dan |   |   |    | 416-07 | 2:context |          |  |    |    |    |    |
-| PL  | b      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | b      |               149195|     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1817|    |
 | w   |        |               | xNP | Roskilde    |   | roskilde         | roſkilde         |   |   |   |   | dan |   |   |    | 416-07 | 2:context |          |  |    |    |1817|    |
-| PL  | e      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |               149195|     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1817|    |
 | w   |        | sum           | xRP | som         |   | {som}            | {ſo}            |   |   |   |   | dan |   |   |    | 416-07 | 2:context |          |  |    |    |    |    |
 | w   |        |               | XX  |             |   | 00000            | 00000            |   |   |   |   | dan |   |   |    | 416-07 | 2:context |          |  |    |    |    |    |
 | w   |        |               | XX  |             |   | 00000            | 00000            |   |   |   |   | dan |   |   |    | 416-07 | 2:context |          |  |    |    |    |    |
@@ -213,10 +213,10 @@
 | lm  | 416-10 |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | forskreven    | xAJ | forskrevne  |   | forsc(re)ffne    | foꝛſcͤffne        |   |   |   |   | dan |   |   |    | 416-10 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre         | xNC | hr.          |   | h(er)            | h               |   |   |   |   | dan |   |   |    | 416-10 | 2:context |          |  |    |    |    |    |
-| PE  | b      | OddHan001     |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | b      | OddHan001     |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    1939|    |    |    |
 | w   |        |               | xNP | Odde        |   | odde             | odde             |   |   |   |   | dan |   |   |    | 416-10 | 2:context |          |  |1939|    |    |    |
 | w   |        |               | xNP | Hansen      |   | hanss(øn)        | hanſ            |   |   |   |   | dan |   |   |    | 416-10 | 2:context |          |  |1939|    |    |    |
-| PE  | e      | OddHan001     |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | e      | OddHan001     |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    1939|    |    |    |
 | w   |        | upa           | xAP | opå         |   | vpa              | vpa              |   |   |   |   | dan |   |   |    | 416-10 | 2:context |          |  |    |    |    |    |
 | w   |        | persone       | xNC | person      |   | p(er)s{one}      | ꝑſ{one}          |   |   |   |   | dan |   |   |    | 416-10 | 2:context |          |  |    |    |    |    |
 | w   |        | goths         | xNC | gods        |   | gotz             | gotz             |   |   |   |   | dan |   |   |    | 416-10 | 2:context |          |  |    |    |    |    |
@@ -294,9 +294,9 @@
 | w   |        |               |     |             |   | In               | In               |   |   |   |   | lat |   |   |    | 416-15 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |               |     |             |   | castro           | caſtro           |   |   |   |   | lat |   |   |    | 416-15 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |               |     |             |   | n(ost)ro         | nr̅o              |   |   |   |   | lat |   |   |    | 416-15 | 3:eschatocol |          |  |    |    |    |    |
-| PL  | b      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | b      |               131422|     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1818|    |
 | w   |        |               |     |             |   | haffnen(sis)     | haffne̅          |   |   |   |   | lat |   |   |    | 416-15 | 3:eschatocol |          |  |    |    |1818|    |
-| PL  | e      |               |     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |               131422|     |             |   |                  |                  |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1818|    |
 | w   |        |               |     |             |   | die              | die              |   |   |   |   | lat |   |   |    | 416-15 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |               |     |             |   | b(ea)ti          | btı̅              |   |   |   |   | lat |   |   |    | 416-15 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |               |     |             |   | Sixti            | ıxti            |   |   |   |   | lat |   |   |    | 416-15 | 3:eschatocol |          |  |    |    |    |    |

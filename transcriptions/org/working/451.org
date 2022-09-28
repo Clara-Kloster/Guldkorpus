@@ -44,21 +44,21 @@
 | lm  | 451-01 |               |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | d   |      b | 1             |     | protocol       |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | vi            | xPE | vi             |   | Wij                 | Wij            |   |   |   |   | dan |   |   |    |        451-01 | 1:protocol |          |  |    |    |    |    |
-| PE  |      b | KriOld001     |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  |      b | KriOld001     |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    2166|    |    |    |
 | w   |        |               | xNP | Kristoffer     |   | Christoffer         | Chriſtoffer    |   |   |   |   | dan |   |   |    |        451-01 | 1:protocol |          |  |2166|    |    |    |
-| PE  |      e | KriOld001     |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  |      e | KriOld001     |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    2166|    |    |    |
 | w   |        | mæth          | xAP | med            |   | mett                | mett           |   |   |   |   | dan |   |   |    |        451-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | guth          | xNC | Guds           |   | guds                | guds           |   |   |   |   | dan |   |   |    |        451-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | nathe         | xNC | nåde           |   | Naade               | Naade          |   |   |   |   | dan |   |   |    |        451-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | greve         | xNC | greve          |   | Greffue             | Greffŭe        |   |   |   |   | dan |   |   |    |        451-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | til           | xAP | til            |   | till                | till           |   |   |   |   | dan |   |   |    |        451-01 | 1:protocol |          |  |    |    |    |    |
-| PL  |      b |               |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  |      b |               |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2026|    |
 | w   |        |               | xNP | Oldenborg      |   | Oldenborg           | Oldenborg      |   |   |   |   | dan |   |   |    |        451-01 | 1:protocol |          |  |    |    |2026|    |
-| PL  |      e |               |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  |      e |               |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2026|    |
 | w   |        | ok            | xCC | og             |   | oc                  | oc             |   |   |   |   | dan |   |   |    |        451-01 | 1:protocol |          |  |    |    |    |    |
-| PL  |      b |               |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  |      b |               |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2027|    |
 | w   |        |               | xNP | Delmenhorst    |   | Delmenhorst         | Delmenhorſt    |   |   |   |   | dan |   |   |    |        451-01 | 1:protocol |          |  |    |    |2027|    |
-| PL  |      e |               |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  |      e |               |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2027|    |
 | w   |        | etcetera      | xAV |                |   | (et) c(etera)       | ⁊cᷓ             |   |   |   |   | lat |   |   |    |        451-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | gøre          | xVB | gøre           |   | Giør(e)             | Giør          |   |   |   |   | dan |   |   |    |        451-01 | 1:protocol |          |  |    |    |    |    |
 | lm  | 451-02 |               |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -100,9 +100,9 @@
 | w   |        | kapitel       | xNC | kapitel        |   | Capitell            | Capitell       |   |   |   |   | dan |   |   |    |        451-04 | 2:context |          |  |    |    |    |    |
 | p   |        |               |     |                |   | ,                   | ,              |   |   |   |   | dan |   |   |    |        451-04 | 2:context |          |  |    |    |    |    |
 | w   |        | thæslike      | xAV | desligest      |   | Thesligest          | Theſligeſt     |   |   |   |   | dan |   |   |    |        451-04 | 2:context |          |  |    |    |    |    |
-| PL  |      b |               |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  |      b |               149195|     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2028|    |
 | w   |        |               | xNP | Roskilde       |   | Rosk(ilde)          | Roſkꝭͤ          |   |   |   |   | dan |   |   |    |        451-04 | 2:context |          |  |    |    |2028|    |
-| PL  |      e |               |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  |      e |               149195|     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2028|    |
 | w   |        | domkirkje     | xNC | domkirke       |   | Domkircke           | Domkircke      |   |   |   |   | dan |   |   |    |        451-04 | 2:context |          |  |    |    |    |    |
 | p   |        |               |     |                |   | ,                   | ,              |   |   |   |   | dan |   |   |    |        451-04 | 2:context |          |  |    |    |    |    |
 | w   |        | thæn          | xPE | deres          |   | ther(is)            | therꝭ          |   |   |   |   | dan |   |   |    |        451-04 | 2:context |          |  |    |    |    |    |
@@ -190,9 +190,9 @@
 | w   |        | prelate       | xNC | prælater       |   | p(re)lather         | plather       |   |   |   |   | dan |   |   |    |        451-09 | 2:context |          |  |    |    |    |    |
 | p   |        |               |     |                |   | ,                   | ,              |   |   |   |   | dan |   |   |    |        451-09 | 2:context |          |  |    |    |    |    |
 | w   |        | kanik         | xNC | kannikker      |   | canic¦ker           | canic¦ker      |   |   |   |   | dan |   |   |    | 451-09—451-10 | 2:context |          |  |    |    |    |    |
-| PL  |      b |               |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  |      b |               149195|     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2029|    |
 | w   |        |               | xNP | Roskilde       |   | Rosk(ilde)          | Roſkꝭͤ          |   |   |   |   | dan |   |   |    |        451-10 | 2:context |          |  |    |    |2029|    |
-| PL  |      e |               |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  |      e |               149195|     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2029|    |
 | w   |        | kapitel       | xNC | kapitel        |   | Capitell            | Capitell       |   |   |   |   | dan |   |   |    |        451-10 | 2:context |          |  |    |    |    |    |
 | w   |        | ok            | xCC | og             |   | oc                  | oc             |   |   |   |   | dan |   |   |    |        451-10 | 2:context |          |  |    |    |    |    |
 | w   |        | domkirkje     | xNC | domkirke       |   | Domkircke           | Domkircke      |   |   |   |   | dan |   |   |    |        451-10 | 2:context |          |  |    |    |    |    |
@@ -214,9 +214,9 @@
 | w   |        | ok            | xCC | og             |   | oc                  | oc             |   |   |   |   | dan |   |   |    |        451-11 | 2:context |          |  |    |    |    |    |
 | w   |        | drotning      | xNC | dronninger     |   | Drotni(n)ger        | Drotni̅ger      |   |   |   |   | dan |   |   |    |        451-11 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | ij                  | ij             |   |   |   |   | dan |   |   |    |        451-11 | 2:context |          |  |    |    |    |    |
-| PL  |      b |               |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  |      b |               128854|     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2030|    |
 | w   |        |               | xNP | Danmark        |   | Da(n)m(ar)ck        | Da̅mᷓck          |   |   |   |   | dan |   |   |    |        451-11 | 2:context |          |  |    |    |2030|    |
-| PL  |      e |               |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  |      e |               128854|     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2030|    |
 | p   |        |               |     |                |   | ,                   | ,              |   |   |   |   | dan |   |   |    |        451-11 | 2:context |          |  |    |    |    |    |
 | w   |        | uti           | xAP | udi            |   | wtj                 | wtj            |   |   |   |   | dan |   |   |    |        451-11 | 2:context |          |  |    |    |    |    |
 | w   |        | al            | xAJ | alle           |   | alle                | alle           |   |   |   |   | dan |   |   |    |        451-11 | 2:context |          |  |    |    |    |    |
@@ -254,9 +254,9 @@
 | w   |        | thæn          | xPE | deres          |   | ther(is)            | therꝭ          |   |   |   |   | dan |   |   |    |        451-13 | 2:context |          |  |    |    |    |    |
 | w   |        | ok            | xCC | og             |   | oc                  | oc             |   |   |   |   | dan |   |   |    |        451-13 | 2:context |          |  |    |    |    |    |
 | w   |        | forskreven    | xAJ | forskrevne     |   | for(screffne)       | forꝭᷠͤ           |   |   |   |   | dan |   |   |    |        451-13 | 2:context |          |  |    |    |    |    |
-| PL  |      b |               |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  |      b |               149195|     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2031|    |
 | w   |        |               | xNP | Roskilde       |   | Rosk(ilde)          | Roſkꝭͤ          |   |   |   |   | dan |   |   |    |        451-13 | 2:context |          |  |    |    |2031|    |
-| PL  |      e |               |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  |      e |               149195|     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2031|    |
 | w   |        | domkirkje     | xNC | domkirkes      |   | Domkirck(is)        | Domkırckꝭ      |   |   |   |   | dan |   |   |    |        451-13 | 2:context |          |  |    |    |    |    |
 | w   |        | goths         | xNC | gods           |   | gods                | god           |   |   |   |   | dan |   |   |    |        451-13 | 2:context |          |  |    |    |    |    |
 | lm  | 451-14 |               |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -326,9 +326,9 @@
 | w   |        | høghboren     | xAJ | højbårne       |   | høgborne            | høgborne       |   |   |   |   | dan |   |   |    |        451-17 | 2:context |          |  |    |    |    |    |
 | w   |        | fyrste        | xNC | fyrstes        |   | furst(is)           | furſtꝭ         |   |   |   |   | dan |   |   |    |        451-17 | 2:context |          |  |    |    |    |    |
 | w   |        | kunung        | xNC | kong           |   | koni(n)g            | koni̅g          |   |   |   |   | dan |   |   |    |        451-17 | 2:context |          |  |    |    |    |    |
-| PE  |      b | RexChr003     |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  |      b | RexChr003     |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    2167|    |    |    |
 | w   |        |               | xNP | Christians     |   | Christierns         | Chriſtiern    |   |   |   |   | dan |   |   |    |        451-17 | 2:context |          |  |2167|    |    |    |
-| PE  |      e | RexChr003     |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  |      e | RexChr003     |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    2167|    |    |    |
 | w   |        | var           | xDP | vor            |   | vor                 | vor            |   |   |   |   | dan |   |   |    |        451-17 | 2:context |          |  |    |    |    |    |
 | w   |        | kær           | xAJ | kære           |   | k(ære)              | kꝭͤ             |   |   |   |   | dan |   |   |    |        451-17 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre         | xNC | herre          |   | herr(e)             | herr          |   |   |   |   | dan |   |   |    |        451-17 | 2:context |          |  |    |    |    |    |
@@ -409,9 +409,9 @@
 | w   |        | sva           | xAV | så             |   | saa                 | ſaa            |   |   |   |   | dan |   |   |    |        451-22 | 2:context |          |  |    |    |    |    |
 | w   |        | føghe         | xVB | føjede         |   | føgedhe             | føgedhe        |   |   |   |   | dan |   |   |    |        451-22 | 2:context |          |  |    |    |    |    |
 | w   |        | at            | xCS | at             |   | att                 | att            |   |   |   |   | dan |   |   |    |        451-22 | 2:context |          |  |    |    |    |    |
-| PL  |      b |               |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  |      b |               128854|     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2032|    |
 | w   |        |               | xNP | Danmarks       |   | Da(n)m(ar)ck(is)    | Da̅mᷓckꝭ         |   |   |   |   | dan |   |   |    |        451-22 | 2:context |          |  |    |    |2032|    |
-| PL  |      e |               |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  |      e |               128854|     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2032|    |
 | w   |        | rike          | xNC | riges          |   | Riig(is)            | Riigꝭ          |   |   |   |   | dan |   |   |    |        451-22 | 2:context |          |  |    |    |    |    |
 | w   |        | prelate       | xNC | prælater       |   | p(re)lather         | plather       |   |   |   |   | dan |   |   |    |        451-22 | 2:context |          |  |    |    |    |    |
 | w   |        | ok            | xCC | og             |   | oc                  | oc             |   |   |   |   | dan |   |   |    |        451-22 | 2:context |          |  |    |    |    |    |
@@ -536,9 +536,9 @@
 | w   |        | upa           | xAP | på             |   | paa                 | paa            |   |   |   |   | dan |   |   |    |        451-29 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | var           | xDP | vort           |   | wort                | wort           |   |   |   |   | dan |   |   |    |        451-29 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | slot          | xNC | slot           |   | Slott               | lott          |   |   |   |   | dan |   |   |    |        451-29 | 3:eschatocol |          |  |    |    |    |    |
-| PL  |      b |               |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  |      b |               131422|     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2033|    |
 | w   |        |               | xNP | København      |   | Kiøbenhaffn(n)      | Kiøbenhaffn̅    |   |   |   |   | dan |   |   |    |        451-29 | 3:eschatocol |          |  |    |    |2033|    |
-| PL  |      e |               |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  |      e |               131422|     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2033|    |
 | w   |        | othensdagh    | xNC | onsdagen       |   | Onsdagen(n)         | Onſdagen̅       |   |   |   |   | dan |   |   |    |        451-29 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | næst          | xAV | næst           |   | nest                | neſt           |   |   |   |   | dan |   |   |    |        451-29 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 451-30 |               |     |                |   |                     |                |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |

@@ -44,16 +44,16 @@ Not in Dipl.Dan? Bekendtgørelse DD 14111217001
 | d   | b      | 1            |      | protocol       |   |                     |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 337-01 |              |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | vi           | xPE  | vi             |   | Wy                  | Wy                 |   |   |   |   | dan |   |   |    |        337-01 | 1:protocol |          |  |    |    |    |    |
-| PE  | b      | RegMar001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | RegMar001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    1370|    |    |    |
 | w   |        |              | xNP  | Margrete       |   | Margareta           | Margareta          |   |   |   |   | dan |   |   |    |        337-01 | 1:protocol |          |  |1370|    |    |    |
-| PE  | e      | RegMar001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | RegMar001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    1370|    |    |    |
 | w   |        | mæth         | xAP  | med            |   | mæth                | mæth               |   |   |   |   | dan |   |   |    |        337-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | guth         | xNC  | Guds           |   | gudz                | gudz               |   |   |   |   | dan |   |   |    |        337-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | nathe        | xNC  | nåde           |   | nadhæ               | nadhæ              |   |   |   |   | dan |   |   |    |        337-01 | 1:protocol |          |  |    |    |    |    |
 | p   |        |              |      |                |   | .                   | .                  |   |   |   |   | dan |   |   |    |        337-01 | 1:protocol |          |  |    |    |    |    |
-| PE  | b      | RexVal004    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | RexVal004    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    1371|    |    |    |
 | w   |        |              | xNP  | Valdemars      |   | Waldemars           | Waldemar          |   |   |   |   | dan |   |   |    |        337-01 | 1:protocol |          |  |1371|    |    |    |
-| PE  | e      | RexVal004    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | RexVal004    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    1371|    |    |    |
 | w   |        | danekunung   | xNC  | danekonges     |   | danæ konu(n)gx      | danæ konu̅gx        |   |   |   |   | dan |   |   |    |        337-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | dotter       | xNC  | datter         |   | dotter              | dotter             |   |   |   |   | dan |   |   |    |        337-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | kungøre      | xVB  | kundgøre       |   | Kwngøræ             | Kwngøræ            |   |   |   |   | dan |   |   |    |        337-01 | 1:protocol |          |  |    |    |    |    |
@@ -75,10 +75,10 @@ Not in Dipl.Dan? Bekendtgørelse DD 14111217001
 | w   |        | man          | xNC  | mand           |   | man                 | ma                |   |   |   |   | dan |   |   |    |        337-02 | 2:context |          |  |    |    |    |    |
 | p   |        |              |      |                |   | .                   | .                  |   |   |   |   | dan |   |   |    |        337-02 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre        | xNC  | hr.             |   | Her                 | Her                |   |   |   |   | dan |   |   |    |        337-02 | 2:context |          |  |    |    |    |    |
-| PE  | b      | AbrBro001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | AbrBro001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    1372|    |    |    |
 | w   |        |              | xNP  | Abraham        |   | abram               | abram              |   |   |   |   | dan |   |   |    |        337-02 | 2:context |          |  |1372|    |    |    |
 | w   |        |              | xNP  | Brodersen      |   | brothersson         | brotherſſon        |   |   |   |   | dan |   |   |    |        337-02 | 2:context |          |  |1372|    |    |    |
-| PE  | e      | AbrBro001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | AbrBro001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    1372|    |    |    |
 | w   |        | riddere      | xNC  | ridder         |   | ridderæ             | rıdderæ            |   |   |   |   | dan |   |   |    |        337-02 | 2:context |          |  |    |    |    |    |
 | w   |        | forthum      | xAV  | fordum         |   | foordhum            | fooꝛdhu           |   |   |   |   | dan |   |   |    |        337-02 | 2:context |          |  |    |    |    |    |
 | w   |        | var          | xDP  | vor            |   | war                 | war                |   |   |   |   | dan |   |   |    |        337-02 | 2:context |          |  |    |    |    |    |
@@ -240,9 +240,9 @@ Not in Dipl.Dan? Bekendtgørelse DD 14111217001
 | lm  | 337-08 |              |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | fornævnd     | xAJ  | fornævnte      |   | for(nefnde)         | foꝛͩͤ                |   |   |   |   | dan |   |   |    |        337-08 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre        | xNC  | hr.             |   | her                 | her                |   |   |   |   | dan |   |   |    |        337-08 | 2:context |          |  |    |    |    |    |
-| PE  | b      | AbrBro001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | AbrBro001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    2477|    |    |    |
 | w   |        |              | xNP  | Abrahams       |   | abrams              | abram             |   |   |   |   | dan |   |   |    |        337-08 | 2:context |          |  |2477|    |    |    |
-| PE  | e      | AbrBro001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | AbrBro001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    2477|    |    |    |
 | w   |        | vilje        | xNC  | vilje          |   | wilyæ               | wílyæ              |   |   |   |   | dan |   |   |    |        337-08 | 2:context |          |  |    |    |    |    |
 | p   |        |              |      |                |   | /                   | /                  |   |   |   |   | dan |   |   |    |        337-08 | 2:context |          |  |    |    |    |    |
 | w   |        | ok           | xCC  | og             |   | oc                  | oc                 |   |   |   |   | dan |   |   |    |        337-08 | 2:context |          |  |    |    |    |    |
@@ -273,9 +273,9 @@ Not in Dipl.Dan? Bekendtgørelse DD 14111217001
 | w   |        | upa          | xAV  | upå            |   | vppa                | va                |   |   |   |   | dan |   |   |    |        337-09 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd     | xAJ  | fornævnte      |   | for(nefnde)         | foꝛͩͤ                |   |   |   |   | dan |   |   |    |        337-09 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre        | xNC  | hr.             |   | her                 | her                |   |   |   |   | dan |   |   |    |        337-09 | 2:context |          |  |    |    |    |    |
-| PE  | b      | AbrBro001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | AbrBro001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    2478|    |    |    |
 | w   |        |              | prop | Abrahams       |   | abrams              | abram             |   |   |   |   | dan |   |   |    |        337-09 | 2:context |          |  |2478|    |    |    |
-| PE  | e      | AbrBro001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | AbrBro001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    2478|    |    |    |
 | w   |        | vægh         | xNC  | vegne          |   | weynæ               | weynæ              |   |   |   |   | dan |   |   |    |        337-09 | 2:context |          |  |    |    |    |    |
 | w   |        | stifte       | xVB  | skifte         |   | styfftæ             | ſtyfftæ            |   |   |   |   | dan |   |   |    |        337-09 | 2:context |          |  |    |    |    |    |
 | w   |        | ok           | xCC  | og             |   | oc                  | oc                 |   |   |   |   | dan |   |   |    |        337-09 | 2:context |          |  |    |    |    |    |
@@ -289,9 +289,9 @@ Not in Dipl.Dan? Bekendtgørelse DD 14111217001
 | w   |        | hetherlik    | xAJ  | hæderlig       |   | heth(e)rlich        | hethrlıch         |   |   |   |   | dan |   |   |    |        337-09 | 2:context |          |  |    |    |    |    |
 | w   |        | father       | xNC  | faders         |   | fadh(e)rs           | fadhr            |   |   |   |   | dan |   |   |    |        337-09 | 2:context |          |  |    |    |    |    |
 | w   |        | biskop       | xNC  | biskop         |   | bisscop             | bıſſcop            |   |   |   |   | dan |   |   |    |        337-09 | 2:context |          |  |    |    |    |    |
-| PE  | b      | PedLod001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | PedLod001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    1373|    |    |    |
 | w   |        |              | xNC  | Peders         |   | Pæthers             | Pæther            |   |   |   |   | dan |   |   |    |        337-09 | 2:context |          |  |1373|    |    |    |
-| PE  | e      | PedLod001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | PedLod001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    1373|    |    |    |
 | w   |        | i            | xAP  | i              |   | j                   | ȷ                  |   |   |   |   | dan |   |   |    |        337-09 | 2:context |          |  |    |    |    |    |
 | w   |        |              | xVB  | Roskilde       |   | Roskilde            | Roſkılde           |   |   |   |   | dan |   |   |    |        337-09 | 2:context |          |  |    |    |    |    |
 | w   |        | vilje        | xNC  | vilje          |   | wilyæ               | wılyæ              |   |   |   |   | dan |   |   |    |        337-09 | 2:context |          |  |    |    |    |    |
@@ -311,9 +311,9 @@ Not in Dipl.Dan? Bekendtgørelse DD 14111217001
 | w   |        | artith       | xNC  | årtid          |   | aartidh             | aartıdh            |   |   |   |   | dan |   |   |    |        337-10 | 2:context |          |  |    |    |    |    |
 | w   |        | i            | xAP  | i              |   | j                   | ȷ                  |   |   |   |   | dan |   |   |    |        337-10 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd     | xAJ  | fornævnd       |   | for(nefnde)         | foꝛͩͤ                |   |   |   |   | dan |   |   |    |        337-10 | 2:context |          |  |    |    |    |    |
-| PL  | b      |              |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |              |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2281|    |
 | w   |        |              | xNP  | Roskilde       |   | Roskilde            | Roſkılde           |   |   |   |   | dan |   |   |    |        337-10 | 2:context |          |  |    |    |2281|    |
-| PL  | e      |              |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |              |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2281|    |
 | w   |        | domkirkje    | xNC  | domkirke       |   | domkirkæ            | domkırkæ           |   |   |   |   | dan |   |   |    |        337-10 | 2:context |          |  |    |    |    |    |
 | w   |        | intil        | xAP  | indtil         |   | Jn til              | Jn tıl             |   |   |   |   | dan |   |   |    |        337-10 | 2:context |          |  |    |    |    |    |
 | w   |        | domedagh     | xNC  | dommedag       |   | domedagh            | domedagh           |   |   |   |   | dan |   |   |    |        337-10 | 2:context |          |  |    |    |    |    |
@@ -334,9 +334,9 @@ Not in Dipl.Dan? Bekendtgørelse DD 14111217001
 | w   |        | kapitel      | xNC  | kapitel        |   | Capitel             | Capıtel            |   |   |   |   | dan |   |   |    |        337-11 | 2:context |          |  |    |    |    |    |
 | w   |        | i            | xAP  | i              |   | j                   | ȷ                  |   |   |   |   | dan |   |   |    |        337-11 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd     | xAJ  | fornævnte      |   | for(nefnde)         | foꝛͩͤ                |   |   |   |   | dan |   |   |    |        337-11 | 2:context |          |  |    |    |    |    |
-| PL  | b      |              |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |              |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2280|    |
 | w   |        |              | xNP  | Roskilde       |   | Roskilde            | Roſkılde           |   |   |   |   | dan |   |   |    |        337-11 | 2:context |          |  |    |    |2280|    |
-| PL  | e      |              |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |              |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2280|    |
 | w   |        | domkirkje    | xNC  | domkirke       |   | domkirkæ            | domkirkæ           |   |   |   |   | dan |   |   |    |        337-11 | 2:context |          |  |    |    |    |    |
 | p   |        |              |      |                |   | .                   | .                  |   |   |   |   | dan |   |   |    |        337-11 | 2:context |          |  |    |    |    |    |
 | w   |        | skule        | xVB  | skal           |   | scal                | ſcal               |   |   |   |   | dan |   |   |    |        337-11 | 2:context |          |  |    |    |    |    |
@@ -355,9 +355,9 @@ Not in Dipl.Dan? Bekendtgørelse DD 14111217001
 | w   |        |              | xNP  | Lucii          |   | lucij               | luciȷ              |   |   |   |   | lat |   |   |    |        337-12 | 2:context |          |  |    |    |    |    |
 | w   |        | kirkje       | xNC  | Kirke          |   | kirkæ               | kırkæ              |   |   |   |   | dan |   |   |    |        337-12 | 2:context |          |  |    |    |    |    |
 | w   |        | i            | xAP  | i              |   | j                   | ȷ                  |   |   |   |   | dan |   |   |    |        337-12 | 2:context |          |  |    |    |    |    |
-| PL  | b      |              |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |              |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2279|    |
 | w   |        |              | xNP  | Roskilde       |   | Roskilde            | Roſkılde           |   |   |   |   | dan |   |   |    |        337-12 | 2:context |          |  |    |    |2279|    |
-| PL  | e      |              |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |              |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2279|    |
 | p   |        |              |      |                |   | .                   | .                  |   |   |   |   | dan |   |   |    |        337-12 | 2:context |          |  |    |    |    |    |
 | w   |        | en           | xAT  | en             |   | een                 | ee                |   |   |   |   | dan |   |   |    |        337-12 | 2:context |          |  |    |    |    |    |
 | w   |        | kapel        | xNC  | Kapelle        |   | Capellæ             | Capellæ            |   |   |   |   | dan |   |   |    |        337-12 | 2:context |          |  |    |    |    |    |
@@ -440,9 +440,9 @@ Not in Dipl.Dan? Bekendtgørelse DD 14111217001
 | w   |        | ok           | xCC  | og             |   | oc                  | oc                 |   |   |   |   | dan |   |   |    |        337-15 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd     | xAJ  | fornævnte      |   | for(nefnde)         | foꝛͩͤ                |   |   |   |   | dan |   |   |    |        337-15 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre        | xNC  | hr.             |   | her                 | her                |   |   |   |   | dan |   |   |    |        337-15 | 2:context |          |  |    |    |    |    |
-| PE  | b      | AbrBro001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | AbrBro001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    2479|    |    |    |
 | w   |        |              | xNP  | Abrahams       |   | abrams              | abram             |   |   |   |   | dan |   |   |    |        337-15 | 2:context |          |  |2479|    |    |    |
-| PE  | e      | AbrBro001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | AbrBro001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    2479|    |    |    |
 | w   |        | sjal         | xNC  | sjæl           |   | siæl                | ſıæl               |   |   |   |   | dan |   |   |    |        337-15 | 2:context |          |  |    |    |    |    |
 | w   |        | til          | xAP  | til            |   | til                 | tıl                |   |   |   |   | dan |   |   |    |        337-15 | 2:context |          |  |    |    |    |    |
 | w   |        | ro           | xNC  | ro             |   | roo                 | roo                |   |   |   |   | dan |   |   |    |        337-15 | 2:context |          |  |    |    |    |    |
@@ -518,9 +518,9 @@ Not in Dipl.Dan? Bekendtgørelse DD 14111217001
 | w   |        | for          | xAP  | for            |   | for                 | foꝛ                |   |   |   |   | dan |   |   |    |        337-17 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd     | xAJ  | fornævnte      |   | for(nefnde)         | foꝛͩͤ                |   |   |   |   | dan |   |   |    |        337-17 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre        | xNC  | hr.             |   | her                 | her                |   |   |   |   | dan |   |   |    |        337-17 | 2:context |          |  |    |    |    |    |
-| PE  | b      | AbrBro001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | AbrBro001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    2480|    |    |    |
 | w   |        |              | xNP  | Abrahams       |   | abrams              | abram             |   |   |   |   | dan |   |   |    |        337-17 | 2:context |          |  |2480|    |    |    |
-| PE  | e      | AbrBro001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | AbrBro001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    2480|    |    |    |
 | w   |        | sjal         | xNC  | sjæl           |   | syæl                | ſyæl               |   |   |   |   | dan |   |   |    |        337-17 | 2:context |          |  |    |    |    |    |
 | w   |        | upa          | xAP  | opå            |   | vppa                | va                |   |   |   |   | dan |   |   |    |        337-17 | 2:context |          |  |    |    |    |    |
 | lm  | 337-18 |              |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -634,17 +634,17 @@ Not in Dipl.Dan? Bekendtgørelse DD 14111217001
 | w   |        | fa           | xVB  | finge          |   | fingæ               | fıngæ              |   |   |   |   | dan |   |   |    |        337-22 | 2:context |          |  |    |    |    |    |
 | w   |        | af           | xAP  | af             |   | aff                 | aff                |   |   |   |   | dan |   |   |    |        337-22 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre        | xNC  | hr.             |   | her                 | her                |   |   |   |   | dan |   |   |    |        337-22 | 2:context |          |  |    |    |    |    |
-| PE  | b      | AndJak001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | AndJak001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    2481|    |    |    |
 | w   |        |              | xNP  | Anders         |   | Anders              | Ander             |   |   |   |   | dan |   |   |    |        337-22 | 2:context |          |  |2481|    |    |    |
 | w   |        |              | xNP  | Jepsen         |   | jæipss(øn)          | ȷæıpſ             |   |   |   |   | dan |   |   |    |        337-22 | 2:context |          |  |2481|    |    |    |
-| PE  | e      | AndJak001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | AndJak001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    2481|    |    |    |
 | w   |        | riddere      | xNC  | ridder         |   | ridder(e)           | rıdder            |   |   |   |   | dan |   |   |    |        337-22 | 2:context |          |  |    |    |    |    |
 | w   |        | ok           | xCC  | og             |   | oc                  | oc                 |   |   |   |   | dan |   |   |    |        337-22 | 2:context |          |  |    |    |    |    |
 | w   |        | frue         | xNC  | frue           |   | frwæ                | frwæ               |   |   |   |   | dan |   |   |    |        337-22 | 2:context |          |  |    |    |    |    |
-| PE  | b      | IngNie005    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | IngNie005    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    2482|    |    |    |
 | w   |        |              |      | Ingeborg       |   | Jngeborgh           | Jngeboꝛgh          |   |   |   |   | dan |   |   |    |        337-22 | 2:context |          |  |2482|    |    |    |
 | w   |        |              |      | Nielsdatter    |   | nielsdotter         | nıelſdotter        |   |   |   |   | dan |   |   |    |        337-22 | 2:context |          |  |2482|    |    |    |
-| PE  | e      | IngNie005    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | IngNie005    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    2482|    |    |    |
 | w   |        | han          | xPE  | hans           |   | hans                | han               |   |   |   |   | dan |   |   |    |        337-22 | 2:context |          |  |    |    |    |    |
 | w   |        | husfrue      | xNC  | husfrue        |   | husfrwe             | huſfrwe            |   |   |   |   | dan |   |   |    |        337-22 | 2:context |          |  |    |    |    |    |
 | p   |        |              |      |                |   | /                   | /                  |   |   |   |   | dan |   |   |    |        337-22 | 2:context |          |  |    |    |    |    |
@@ -663,9 +663,9 @@ Not in Dipl.Dan? Bekendtgørelse DD 14111217001
 | w   |        | var          | xDP  | vor            |   | war                 | war                |   |   |   |   | dan |   |   |    |        337-23 | 2:context |          |  |    |    |    |    |
 | w   |        | father       | xNC  | fader          |   | fadh(e)r            | fadhr             |   |   |   |   | dan |   |   |    |        337-23 | 2:context |          |  |    |    |    |    |
 | w   |        | kunung       | xNC  | kong           |   | konu(n)g            | konu̅g              |   |   |   |   | dan |   |   |    |        337-23 | 2:context |          |  |    |    |    |    |
-| PE  | b      | RexVal004    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | RexVal004    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    2484|    |    |    |
 | w   |        |              | xNP  | Valdemar       |   | waldemar            | waldemar           |   |   |   |   | dan |   |   |    |        337-23 | 2:context |          |  |2484|    |    |    |
-| PE  | e      | RexVal004    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | RexVal004    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    2484|    |    |    |
 | w   |        | hvær         | xPI  | hvis           |   | hwes                | hwe               |   |   |   |   | dan |   |   |    |        337-23 | 2:context |          |  |    |    |    |    |
 | w   |        | sjal         | xNC  | sjæl           |   | syæl                | ſyæl               |   |   |   |   | dan |   |   |    |        337-23 | 2:context |          |  |    |    |    |    |
 | w   |        | guth         | xNC  | Gud            |   | guth                | guth               |   |   |   |   | dan |   |   |    |        337-23 | 2:context |          |  |    |    |    |    |
@@ -678,10 +678,10 @@ Not in Dipl.Dan? Bekendtgørelse DD 14111217001
 | w   |        |              |      |                |   | Anæs                | Anæ               |   |   |   |   | dan |   |   |    |        337-23 | 2:context |          |  |    |    |    |    |
 | w   |        | af           | xAP  | af             |   | aff                 | aff                |   |   |   |   | dan |   |   |    |        337-23 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre        | xNC  | hr.             |   | her                 | her                |   |   |   |   | dan |   |   |    |        337-23 | 2:context |          |  |    |    |    |    |
-| PE  | b      | NieOve001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | NieOve001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    2483|    |    |    |
 | w   |        |              | xNP  | Niels          |   | Niels               | Nıel              |   |   |   |   | dan |   |   |    |        337-23 | 2:context |          |  |2483|    |    |    |
 | w   |        |              | xNP  | Ovesen         |   | awess(øn)           | aweſ              |   |   |   |   | dan |   |   |    |        337-23 | 2:context |          |  |2483|    |    |    |
-| PE  | e      | NieOve001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | NieOve001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    2483|    |    |    |
 | w   |        | i            | xAP  | i              |   | j                   | ȷ                  |   |   |   |   | dan |   |   |    |        337-23 | 2:context |          |  |    |    |    |    |
 | w   |        |              | xNP  | Skåne          |   | schane              | ſchane             |   |   |   |   | dan |   |   |    |        337-23 | 2:context |          |  |    |    |    |    |
 | lm  | 337-24 |              |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -758,9 +758,9 @@ Not in Dipl.Dan? Bekendtgørelse DD 14111217001
 | w   |        | skikke       | xVB  | skikkes        |   | schickes            | ſchıckes           |   |   |   |   | dan |   |   |    |        337-26 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd     | xAJ  | fornævnte      |   | for(nefnde)         | foꝛͩͤ                |   |   |   |   | dan |   |   |    |        337-26 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre        | xNC  | hr.             |   | her                 | her                |   |   |   |   | dan |   |   |    |        337-26 | 2:context |          |  |    |    |    |    |
-| PE  | b      | AbrBro001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | AbrBro001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    2485|    |    |    |
 | w   |        |              | xNP  | Abrahams       |   | abrams              | abram             |   |   |   |   | dan |   |   |    |        337-26 | 2:context |          |  |2485|    |    |    |
-| PE  | e      | AbrBro001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | AbrBro001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    2485|    |    |    |
 | w   |        | sjal         | xNC  | sjæl           |   | syæl                | ſyæl               |   |   |   |   | dan |   |   |    |        337-26 | 2:context |          |  |    |    |    |    |
 | w   |        | til          | xAP  | til            |   | til                 | tıl                |   |   |   |   | dan |   |   |    |        337-26 | 2:context |          |  |    |    |    |    |
 | w   |        | goth         | xAJ  | gode           |   | godhæ               | godhæ              |   |   |   |   | dan |   |   |    |        337-26 | 2:context |          |  |    |    |    |    |
@@ -808,18 +808,18 @@ Not in Dipl.Dan? Bekendtgørelse DD 14111217001
 | w   |        | thær         | xAV  | der            |   | th(e)r              | thr               |   |   |   |   | dan |   |   |    |        337-28 | 2:context |          |  |    |    |    |    |
 | w   |        | til          | xAV  | til            |   | til                 | tıl                |   |   |   |   | dan |   |   |    |        337-28 | 2:context |          |  |    |    |    |    |
 | w   |        | thrihundreth | xNA  | tre hundrede   |   | Thryhundræthe       | Thryhundræthe      |   |   |   |   | dan |   |   |    |        337-28 | 2:context |          |  |    |    |    |    |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1397|    |
 | w   |        | lybisk       | xAJ  | lybiske        |   | lubischæ            | lubıſchæ           |   |   |   |   | dan |   |   |    |        337-28 | 2:context |          |  |    |    |1397|    |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1397|    |
 | w   |        | mark         | xNC  | mark           |   | march               | march              |   |   |   |   | dan |   |   |    |        337-28 | 2:context |          |  |    |    |    |    |
 | p   |        |              |      |                |   | .                   | .                  |   |   |   |   | dan |   |   |    |        337-28 | 2:context |          |  |    |    |    |    |
 | w   |        | ok           | xCC  | og             |   | oc                  | oc                 |   |   |   |   | dan |   |   |    |        337-28 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd     | xAJ  | fornævnte      |   | for(nefnde)         | foꝛͩͤ                |   |   |   |   | dan |   |   |    |        337-28 | 2:context |          |  |    |    |    |    |
 | w   |        | kapitel      | xNC  | kapitel        |   | Capitel             | Capıtel            |   |   |   |   | dan |   |   |    |        337-28 | 2:context |          |  |    |    |    |    |
 | w   |        | i            | xAP  | i              |   | j                   | ȷ                  |   |   |   |   | dan |   |   |    |        337-28 | 2:context |          |  |    |    |    |    |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | b |    149195|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1398|    |
 | w   |        |              | xNP  | Roskilde       |   | Rosk(ilde)          | Roſkꝭ              |   |   |   |   | dan |   |   |    |        337-28 | 2:context |          |  |    |    |1398|    |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | e |    149195|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1398|    |
 | lm  | 337-29 |              |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | nu           | xAV  | nu             |   | nw                  | nw                 |   |   |   |   | dan |   |   |    |        337-29 | 2:context |          |  |    |    |    |    |
 | w   |        | i            | xAP  | i              |   | j                   | ȷ                  |   |   |   |   | dan |   |   |    |        337-29 | 2:context |          |  |    |    |    |    |
@@ -833,9 +833,9 @@ Not in Dipl.Dan? Bekendtgørelse DD 14111217001
 | w   |        | fornævnd     | xAJ  | fornævnte      |   | for(nefnde)         | foꝛͩͤ                |   |   |   |   | dan |   |   |    |        337-29 | 2:context |          |  |    |    |    |    |
 | w   |        | kapitel      | xNC  | kapitel        |   | Capitel             | Capıtel            |   |   |   |   | dan |   |   |    |        337-29 | 2:context |          |  |    |    |    |    |
 | w   |        | i            | xAP  | i              |   | j                   | ȷ                  |   |   |   |   | dan |   |   |    |        337-29 | 2:context |          |  |    |    |    |    |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | b |    149195|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1399|    |
 | w   |        |              | xNP  | Roskilde       |   | Roskilde            | Roſkılde           |   |   |   |   | dan |   |   |    |        337-29 | 2:context |          |  |    |    |1399|    |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | e |    149195|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1399|    |
 | p   |        |              |      |                |   | .                   | .                  |   |   |   |   | dan |   |   |    |        337-29 | 2:context |          |  |    |    |    |    |
 | w   |        | thæn         | xAT  | den            |   | the(n)              | the̅                |   |   |   |   | dan |   |   |    |        337-29 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd     | xAJ  | fornævnte      |   | for(nefnde)         | foꝛͩͤ                |   |   |   |   | dan |   |   |    |        337-29 | 2:context |          |  |    |    |    |    |
@@ -883,9 +883,9 @@ Not in Dipl.Dan? Bekendtgørelse DD 14111217001
 | w   |        | for          | xAP  | for            |   | ⸡for⸠               | ⸡foꝛ⸠              |   |   |   |   | dan |   |   |    |        337-31 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | fornævnd     | xAJ  | fornævnte      |   | for(nefnde)         | foꝛͩͤ                |   |   |   |   | dan |   |   |    |        337-31 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | hærre        | xNC  | hr.             |   | her                 | her                |   |   |   |   | dan |   |   |    |        337-31 | 3:eschatocol |          |  |    |    |    |    |
-| PE  | b      | AbrBro001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | AbrBro001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    2486|    |    |    |
 | w   |        |              | xNP  | Abrahams       |   | abrams              | abram             |   |   |   |   | dan |   |   |    |        337-31 | 3:eschatocol |          |  |2486|    |    |    |
-| PE  | e      | AbrBro001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | AbrBro001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    2486|    |    |    |
 | w   |        | sjal         | xNC  | sjæl           |   | syæl                | ſyæl               |   |   |   |   | dan |   |   |    |        337-31 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | at           | xIM  | at             |   | at                  | at                 |   |   |   |   | dan |   |   | =  |        337-31 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | gøre         | xVB  | gøre           |   | gøræ                | gøræ               |   |   |   |   | dan |   |   | == |        337-31 | 3:eschatocol |          |  |    |    |    |    |
@@ -919,12 +919,12 @@ Not in Dipl.Dan? Bekendtgørelse DD 14111217001
 | w   |        | have         | xVB  | have           |   | hafwe               | hafwe              |   |   |   |   | dan |   |   |    |        337-32 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | vi           | xPE  | vi             |   | wi                  | wı                 |   |   |   |   | dan |   |   |    |        337-32 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | drotning     | xNC  | dronning       |   | drotni(n)g          | drotnı̅g            |   |   |   |   | dan |   |   |    |        337-32 | 3:eschatocol |          |  |    |    |    |    |
-| PE  | b      | RegMar001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | RegMar001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    2487|    |    |    |
 | w   |        |              | xNP  | Margrete       |   | Marga(reta)         | Margaͭͣ              |   |   |   |   | dan |   |   |    |        337-32 | 3:eschatocol |          |  |2487|    |    |    |
-| PE  | e      | RegMar001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| PE  | b      | RexVal004    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | RegMar001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    2487|    |    |    |
+| PE  | b      | RexVal004    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    2488|    |    |    |
 | w   |        |              | xNP  | Valdemars      |   | waldemars           | waldemar          |   |   |   |   | dan |   |   |    |        337-32 | 3:eschatocol |          |  |2488|    |    |    |
-| PE  | e      | RexVal004    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | RexVal004    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    2488|    |    |    |
 | w   |        | danekunung   | xNC  | danekonges     |   | danækonu(n)gx       | danækonu̅gx         |   |   |   |   | dan |   |   |    |        337-32 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | dotter       | xNC  | datter         |   | dott(e)r            | dottr             |   |   |   |   | dan |   |   |    |        337-32 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | var          | xDD  | vort           |   | wart                | wart               |   |   |   |   | dan |   |   |    |        337-32 | 3:eschatocol |          |  |    |    |    |    |
@@ -944,55 +944,55 @@ Not in Dipl.Dan? Bekendtgørelse DD 14111217001
 | w   |        | ærlik        | xVB  | ærlig          |   | ærlich              | ærlıch             |   |   |   |   | dan |   |   |    |        337-33 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | father       | xNC  | faders         |   | fadh(e)rs           | fadhr            |   |   |   |   | dan |   |   |    |        337-33 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | biskop       | xNC  | biskop         |   | biscop              | bıſcop             |   |   |   |   | dan |   |   |    |        337-33 | 3:eschatocol |          |  |    |    |    |    |
-| PE  | b      | PedLod001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | PedLod001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    1374|    |    |    |
 | w   |        |              | xNP  | Peders         |   | Pædh(e)rs           | Pædhr            |   |   |   |   | dan |   |   |    |        337-33 | 3:eschatocol |          |  |1374|    |    |    |
-| PE  | e      | PedLod001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | PedLod001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    1374|    |    |    |
 | w   |        | i            | xAP  | i              |   | j                   | ȷ                  |   |   |   |   | dan |   |   |    |        337-33 | 3:eschatocol |          |  |    |    |    |    |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | b |    149195|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1400|    |
 | w   |        |              | xNP  | Roskilde       |   | Rosk(ilde)          | Roſkꝭ              |   |   |   |   | dan |   |   |    |        337-33 | 3:eschatocol |          |  |    |    |1400|    |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | e |    149195|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1400|    |
 | p   |        |              |      |                |   | .                   | .                  |   |   |   |   | dan |   |   |    |        337-33 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | hærre        | xNC  | hr.             |   | Her                 | Her                |   |   |   |   | dan |   |   |    |        337-33 | 3:eschatocol |          |  |    |    |    |    |
-| PE  | b      | ClaGru001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | ClaGru001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    1375|    |    |    |
 | w   |        |              | xNP  | Klaus          |   | Clawes              | Clawe             |   |   |   |   | dan |   |   |    |        337-33 | 3:eschatocol |          |  |1375|    |    |    |
 | w   |        |              | xNP  | Grubendal      |   | grubendal           | grubendal̅          |   |   |   |   | dan |   |   |    |        337-33 | 3:eschatocol |          |  |1375|    |    |    |
-| PE  | e      | ClaGru001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | ClaGru001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    1375|    |    |    |
 | w   |        | hærre        | xNC  | hr.             |   | her                 | her                |   |   |   |   | dan |   |   |    |        337-33 | 3:eschatocol |          |  |    |    |    |    |
-| PE  | b      | MorJen002    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | MorJen002    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    1376|    |    |    |
 | w   |        |              | xNP  | Morten         |   | Martin              | Martí             |   |   |   |   | dan |   |   |    |        337-33 | 3:eschatocol |          |  |1376|    |    |    |
 | w   |        |              | xNP  | Jenssens       |   | ienssons            | ıenſſon           |   |   |   |   | dan |   |   |    |        337-33 | 3:eschatocol |          |  |1376|    |    |    |
-| PE  | e      | MorJen002    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | MorJen002    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    1376|    |    |    |
 | w   |        | riddere      | xNC  | ridders        |   | ridde(re)s          | ridde            |   |   |   |   | dan |   |   |    |        337-33 | 3:eschatocol |          |  |    |    |    |    |
 | p   |        |              |      |                |   | .                   | .                  |   |   |   |   | dan |   |   |    |        337-33 | 3:eschatocol |          |  |    |    |    |    |
-| PE  | b      | JenGyr001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | JenGyr001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    1377|    |    |    |
 | w   |        |              | xNP  | Jens           |   | Jens                | Jen               |   |   |   |   | dan |   |   |    |        337-33 | 3:eschatocol |          |  |1377|    |    |    |
 | w   |        |              | xNP  | Gyrstinge      |   | gørsti(n)gx         | gøꝛſtı̅gx           |   |   |   |   | dan |   |   |    |        337-33 | 3:eschatocol |          |  |1377|    |    |    |
-| PE  | e      | JenGyr001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | JenGyr001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    1377|    |    |    |
 | lm  | 337-34 |              |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |              | xNP  | Brems          |   | Brems               | Brem              |   |   |   |   | dan |   |   |    |        337-34 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | kantseleri   | xNP  | kansler        |   | Canceller(is)       | Cancelleꝛꝭ         |   |   |   |   | dan |   |   |    |        337-34 | 3:eschatocol |          |  |    |    |    |    |
 | p   |        |              |      |                |   | .                   | .                  |   |   |   |   | dan |   |   |    |        337-34 | 3:eschatocol |          |  |    |    |    |    |
-| PE  | b      | HenBæk001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | HenBæk001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    1378|    |    |    |
 | w   |        |              | xNP  | Henneke        |   | He(n)neke           | He̅neke             |   |   |   |   | dan |   |   |    |        337-34 | 3:eschatocol |          |  |1378|    |    |    |
 | w   |        |              | xNP  | Bækmans        |   | bækmans             | bækman            |   |   |   |   | dan |   |   |    |        337-34 | 3:eschatocol |          |  |1378|    |    |    |
-| PE  | e      | HenBæk001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| PE  | b      | HanKrø001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | HenBæk001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    1378|    |    |    |
+| PE  | b      | HanKrø001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    1379|    |    |    |
 | w   |        |              | xNP  | Hans           |   | Hannes              | Hanne             |   |   |   |   | dan |   |   |    |        337-34 | 3:eschatocol |          |  |1379|    |    |    |
 | w   |        |              | xNP  | Krøpelins      |   | krøpelins           | krøpelín          |   |   |   |   | dan |   |   |    |        337-34 | 3:eschatocol |          |  |1379|    |    |    |
-| PE  | e      | HanKrø001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | HanKrø001    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    1379|    |    |    |
 | p   |        |              |      |                |   | .                   | .                  |   |   |   |   | dan |   |   |    |        337-34 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | ok           | xCC  | og             |   | oc                  | oc                 |   |   |   |   | dan |   |   |    |        337-34 | 3:eschatocol |          |  |    |    |    |    |
-| PE  | b      | JenNie005    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | JenNie005    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    1380|    |    |    |
 | w   |        |              | xNP  | Jens           |   | Jens                | Jen               |   |   |   |   | dan |   |   |    |        337-34 | 3:eschatocol |          |  |1380|    |    |    |
 | w   |        |              | xNP  | Nielsens       |   | nielssøns           | nıelſſøn          |   |   |   |   | dan |   |   |    |        337-34 | 3:eschatocol |          |  |1380|    |    |    |
-| PE  | e      | JenNie005    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | JenNie005    |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    1380|    |    |    |
 | w   |        | insighle     | xNC  | indsegle       |   | Inciglæ             | Incıglæ            |   |   |   |   | dan |   |   |    |        337-34 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | til          | xAP  | til            |   | til                 | tıl                |   |   |   |   | dan |   |   |    |        337-34 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | vitnesbyrth  | xNC  | vidnesbyrd     |   | widnesbyrth         | wıdneſbyrth        |   |   |   |   | dan |   |   |    |        337-34 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |              | lat  |                |   | Datum               | Datu              |   |   |   |   | lat |   |   |    |        337-34 | 3:eschatocol |          |  |    |    |    |    |
-| PL  | b      |              |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |              130838|      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    1401|    |
 | w   |        |              | lat  |                |   | Calundeborg(is)     | Calundeboꝛgꝭ       |   |   |   |   | lat |   |   |    |        337-34 | 3:eschatocol |          |  |    |    |1401|    |
-| PL  | e      |              |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |              130838|      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    1401|    |
 | lm  | 337-35 |              |      |                |   |                     |                    |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |              | lat  |                |   | Anno                | Anno               |   |   |   |   | lat |   |   |    |        337-35 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |              | lat  |                |   | d(omi)nj            | dnȷ̅                |   |   |   |   | lat |   |   |    |        337-35 | 3:eschatocol |          |  |    |    |    |    |

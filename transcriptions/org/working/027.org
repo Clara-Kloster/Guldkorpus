@@ -43,9 +43,9 @@
 | pm  | 1r    |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | lm  | 27-01 |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | d  | b     | 1  |   | protocol  |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
-| PE  | b     | PavAle004  |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
+| PE  | b     | PavAle004  |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    55|    |    |    |
 | w   |       |   |   |   |   | Alexander       | Alexanꝺer     |   |   |   |   | lat |   |   |   |       27-01 | 1:protocol |          |  |55|    |    |    |
-| PE  | e     | PavAle004  |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
+| PE  | e     | PavAle004  |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    55|    |    |    |
 | w   |       |   |   |   |   | ep(iscopu)s     | ep̅s           |   |   |   |   | lat |   |   |   |       27-01 | 1:protocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | seruus          | ſeruus        |   |   |   |   | lat |   |   |   |       27-01 | 1:protocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | seruor(um)      | ſeruoꝝ        |   |   |   |   | lat |   |   |   |       27-01 | 1:protocol |          |  |    |    |    |    |
@@ -73,20 +73,20 @@
 | w   |       |   |   |   |   | filia           | fılıa         |   |   |   |   | lat |   |   |   |       27-02 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | nobilis         | obılıs       |   |   |   |   | lat |   |   |   |       27-02 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | mulier          | mulıer        |   |   |   |   | lat |   |   |   |       27-02 | 2:context |          |  |    |    |    |    |
-| PE  | b     | IngReg001  |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
+| PE  | b     | IngReg001  |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    56|    |    |    |
 | w   |       |   |   |   |   | Jngardis        | Jngarꝺıs      |   |   |   |   | lat |   |   |   |       27-02 | 2:context |          |  |56|    |    |    |
-| PE  | e     | IngReg001  |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
+| PE  | e     | IngReg001  |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    56|    |    |    |
 | w   |       |   |   |   |   | relicta         | relıcta       |   |   |   |   | lat |   |   |   |       27-02 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | quondam         | quonꝺa       |   |   |   |   | lat |   |   |   |       27-02 | 2:context |          |  |    |    |    |    |
-| PE  | b     | KonReg001  |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
+| PE  | b     | KonReg001  |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    57|    |    |    |
 | w   |       |   |   |   |   | Conradi         | Conraꝺí       |   |   |   |   | lat |   |   |   |       27-02 | 2:context |          |  |57|    |    |    |
-| PE  | e     | KonReg001  |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
+| PE  | e     | KonReg001  |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    57|    |    |    |
 | w   |       |   |   |   |   | Comitis         | Comıtıs       |   |   |   |   | lat |   |   |   |       27-02 | 2:context |          |  |    |    |    |    |
 | lm  | 27-03 |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | de              | ꝺe            |   |   |   |   | lat |   |   |   |       27-03 | 2:context |          |  |    |    |    |    |
-| PL  | b     |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
+| PL  | b     |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    39|    |
 | w   |       |   |   |   |   | Regesten        | Regeſte      |   |   |   |   | lat |   |   |   |       27-03 | 2:context |          |  |    |    |39|    |
-| PL  | e     |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
+| PL  | e     |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    39|    |
 | w   |       |   |   |   |   | diuinis         | ꝺıuínıs       |   |   |   |   | lat |   |   |   |       27-03 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | accensa         | accenſa       |   |   |   |   | lat |   |   |   |       27-03 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | monitis         | monıtıs       |   |   |   |   | lat |   |   |   |       27-03 | 2:context |          |  |    |    |    |    |
@@ -105,9 +105,9 @@
 | w   |       |   |   |   |   | quod            | quoꝺ          |   |   |   |   | lat |   |   |   |       27-04 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | ordinis         | orꝺınıs       |   |   |   |   | lat |   |   |   |       27-04 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | sancti          | anctı        |   |   |   |   | lat |   |   |   |       27-04 | 2:context |          |  |    |    |    |    |
-| PE | b |  |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE | b |  |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    58|    |    |    |
 | w   |       |   |   |   |   | Damiani         | Damıaní       |   |   |   |   | lat |   |   |   |       27-04 | 2:context |          |  |58|    |    |    |
-| PE | e |  |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE | e |  |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    58|    |    |    |
 | w   |       |   |   |   |   | regularibus     | regularıbus   |   |   |   |   | lat |   |   |   |       27-04 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | institutis      | ınſtıtutís    |   |   |   |   | lat |   |   |   |       27-04 | 2:context |          |  |    |    |    |    |
 | w   |       |   |   |   |   | informarj       | ínformarȷ     |   |   |   |   | lat |   |   |   |       27-04 | 2:context |          |  |    |    |    |    |
@@ -203,9 +203,9 @@
 | d  | e     | 2  |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | d  | b     | 3  |   | eschatocol  |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
 | w   |       |   |   |   |   | Dat(um)         | Dat̅           |   |   |   |   | lat |   |   |   |       27-10 | 3:eschatocol |          |  |    |    |    |    |
-| PL  | b     |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
+| PL  | b     |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    40|    |
 | w   |       |   |   |   |   | Lateran(i)      | Latera̅       |   |   |   |   | lat |   |   |   |       27-10 | 3:eschatocol |          |  |    |    |40|    |
-| PL  | e     |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    |    |
+| PL  | e     |   |   |   |   |                 |               |   |   |   |   |     |   |   |   |             |          |          |  |    |    |    40|    |
 | n   |       |   |   |   |   | xvj             | xỽȷ           |   |   |   |   | lat |   |   |   |       27-10 | 3:eschatocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | k(a)l(endas)    | kl           |   |   |   |   | lat |   |   |   |       27-10 | 3:eschatocol |          |  |    |    |    |    |
 | w   |       |   |   |   |   | Februa(rii)     | Februaꝶ       |   |   |   |   | lat |   |   |   |       27-10 | 3:eschatocol |          |  |    |    |    |    |

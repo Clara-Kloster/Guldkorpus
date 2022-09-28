@@ -48,15 +48,15 @@
 | w   |        |   |   |   |   | quos           | quo         |   |   |   |   | lat |   |   |    | 140-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | P(rese)ntes    | Pn̅te        |   |   |   |   | lat |   |   |    | 140-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(er)uenerint  | p̲uenerint    |   |   |   |   | lat |   |   |    | 140-01 | 1:protocol |          |  |    |    |    |    |
-| PE  | b      | PedLod001  |   |   |   |                |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | b      | PedLod001  |   |   |   |                |              |   |   |   |   |     |   |   |    |        |          |          |  |    565|    |    |    |
 | w   |        |   |   |   |   | Petrus         | Petru       |   |   |   |   | lat |   |   |    | 140-01 | 1:protocol |          |  |565|    |    |    |
-| PE  | e      | PedLod001  |   |   |   |                |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | e      | PedLod001  |   |   |   |                |              |   |   |   |   |     |   |   |    |        |          |          |  |    565|    |    |    |
 | w   |        |   |   |   |   | dej            | dej          |   |   |   |   | lat |   |   |    | 140-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | gr(ati)a       | gr̅a          |   |   |   |   | lat |   |   |    | 140-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | EP(iscop)us    | EPu̅         |   |   |   |   | lat |   |   |    | 140-01 | 1:protocol |          |  |    |    |    |    |
-| PL  | b      |   |   |   |   |                |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | b      |   149195|   |   |   |                |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    653|    |
 | w   |        |   |   |   |   | roskilden(sis) | roskilde̅    |   |   |   |   | lat |   |   |    | 140-01 | 1:protocol |          |  |    |    |653|    |
-| PL  | e      |   |   |   |   |                |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |   149195|   |   |   |                |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    653|    |
 | w   |        |   |   |   |   | S(a)l(ute)m    | Sl̅          |   |   |   |   | lat |   |   |    | 140-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Jn             | Jn           |   |   |   |   | lat |   |   |    | 140-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)no       | dn̅o          |   |   |   |   | lat |   |   |    | 140-01 | 1:protocol |          |  |    |    |    |    |
@@ -76,9 +76,9 @@
 | w   |        |   |   |   |   | monasterij     | monaﬅerij    |   |   |   |   | lat |   |   |    | 140-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Sancte         | Sane        |   |   |   |   | lat |   |   |    | 140-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Clare          | Clare        |   |   |   |   | lat |   |   |    | 140-02 | 2:context |          |  |    |    |    |    |
-| PL  | b      |   |   |   |   |                |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | b      |   149380|   |   |   |                |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    654|    |
 | w   |        |   |   |   |   | Roskild(is)    | Roſkil      |   |   |   |   | lat |   |   |    | 140-02 | 2:context |          |  |    |    |654|    |
-| PL  | e      |   |   |   |   |                |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |   149380|   |   |   |                |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    654|    |
 | p   |        |   |   |   |   | .              | .            |   |   |   |   | lat |   |   |    | 140-02 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Omne           | Omne         |   |   |   |   | lat |   |   |    | 140-02 | 2:context |          |  |    |    |    |    |
 | lm  | 140-03 |   |   |   |   |                |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
@@ -94,16 +94,16 @@
 | w   |        |   |   |   |   | (Christ)o      | xp̅o          |   |   |   |   | lat |   |   |    | 140-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Patre          | Patre        |   |   |   |   | lat |   |   |    | 140-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)no       | dn̅o          |   |   |   |   | lat |   |   |    | 140-03 | 2:context |          |  |    |    |    |    |
-| PE  | b      | OluEps001  |   |   |   |                |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | b      | OluEps001  |   |   |   |                |              |   |   |   |   |     |   |   |    |        |          |          |  |    566|    |    |    |
 | w   |        |   |   |   |   | Olauo          | Olauo        |   |   |   |   | lat |   |   |    | 140-03 | 2:context |          |  |566|    |    |    |
-| PE  | e      | OluEps001  |   |   |   |                |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | e      | OluEps001  |   |   |   |                |              |   |   |   |   |     |   |   |    |        |          |          |  |    566|    |    |    |
 | w   |        |   |   |   |   | dej            | dej          |   |   |   |   | lat |   |   |    | 140-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | gr(ati)a       | gr̅a          |   |   |   |   | lat |   |   |    | 140-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (quon)d(am)    | ꝯ           |   |   |   |   | lat |   |   |    | 140-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ep(iscop)o     | ep̅o          |   |   |   |   | lat |   |   |    | 140-03 | 2:context |          |  |    |    |    |    |
-| PL  | b      |   |   |   |   |                |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | b      |   149195|   |   |   |                |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    655|    |
 | w   |        |   |   |   |   | Rosk(ildense)  | Roſꝃ         |   |   |   |   | lat |   |   |    | 140-03 | 2:context |          |  |    |    |655|    |
-| PL  | e      |   |   |   |   |                |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |   149195|   |   |   |                |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    655|    |
 | p   |        |   |   |   |   | .              | .            |   |   |   |   | lat |   |   |    | 140-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | p(re)decessore | p̅deceſſore   |   |   |   |   | lat |   |   |    | 140-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | n(ost)ro       | nr̅o          |   |   |   |   | lat |   |   |    | 140-03 | 2:context |          |  |    |    |    |    |
@@ -133,9 +133,9 @@
 | w   |        |   |   |   |   | P(rese)nt(es)  | Pn̅          |   |   |   |   | lat |   |   |    | 140-05 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ip(s)ius       | ıp̅ıu        |   |   |   |   | lat |   |   |    | 140-05 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)nj       | dn̅ȷ          |   |   |   |   | lat |   |   |    | 140-05 | 3:eschatocol |          |  |    |    |    |    |
-| PE  | b      | OluEps001  |   |   |   |                |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | b      | OluEps001  |   |   |   |                |              |   |   |   |   |     |   |   |    |        |          |          |  |    567|    |    |    |
 | w   |        |   |   |   |   | Olaui          | Olaui        |   |   |   |   | lat |   |   |    | 140-05 | 3:eschatocol |          |  |567|    |    |    |
-| PE  | e      | OluEps001  |   |   |   |                |              |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | e      | OluEps001  |   |   |   |                |              |   |   |   |   |     |   |   |    |        |          |          |  |    567|    |    |    |
 | w   |        |   |   |   |   | l(itte)ris     | lr̅ı         |   |   |   |   | lat |   |   |    | 140-05 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | originalibus   | originalibu |   |   |   |   | lat |   |   |    | 140-05 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | sup(er)        | ſup̲          |   |   |   |   | lat |   |   |    | 140-05 | 3:eschatocol |          |  |    |    |    |    |

@@ -53,10 +53,10 @@
 | w   |        | læse          | xVB | læses          |   | læs(es)           | læ           |   |   |   |        | dan     |   |   |   | 396-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | helse         | xVB | hilse          |   | helsæ             | helſæ         |   |   |   |        | dan     |   |   |   | 396-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | vi            | xPE | vi             |   | wii               | wii           |   |   |   |        | dan     |   |   |   | 396-01 | 1:protocol |          |  |    |    |    |    |
-| PE  | b      | JenLyd001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | b      | JenLyd001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    1718|    |    |    |
 | w   |        |               | xNP | Jens           |   | Jens              | Jen          |   |   |   |        | dan     |   |   |   | 396-01 | 1:protocol |          |  |1718|    |    |    |
 | w   |        |               | xNP | Lydekesen      |   | Lydekess(øn)      | Lydekeſ      |   |   |   |        | dan     |   |   |   | 396-01 | 1:protocol |          |  |1718|    |    |    |
-| PE  | e      | JenLyd001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | JenLyd001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    1718|    |    |    |
 | w   |        | sum           | xRP | som            |   | som               | ſom           |   |   |   |        | dan     |   |   |   | 396-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | thæn          | xAT | den            |   | th(e)n            | thn̅           |   |   |   |        | dan     |   |   |   | 396-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | dagh          | xNC | dag            |   | daw               | daw           |   |   |   |        | dan     |   |   |   | 396-01 | 1:protocol |          |  |    |    |    |    |
@@ -65,36 +65,36 @@
 | w   |        | byfoghet      | xNC | byfoged        |   | byfogede          | byfogede      |   |   |   |        | dan     |   |   |   | 396-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | stath         | xNC | sted           |   | stædh             | ſtædh         |   |   |   |        | dan     |   |   |   | 396-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | i                 | ı             |   |   |   |        | dan     |   |   |   | 396-01 | 1:protocol |          |  |    |    |    |    |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | b |    149195|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1648|    |
 | w   |        |               | xNP | Roskilde       |   | Roskilde          | Roſkılde      |   |   |   |        | dan     |   |   |   | 396-01 | 1:protocol |          |  |    |    |1648|    |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | e |    149195|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1648|    |
 | lm  | 396-02 |               |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
-| PE  | b      | BoxJen001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | b      | BoxJen001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    1719|    |    |    |
 | w   |        |               | xNP | Bo             |   | boo               | boo           |   |   |   |        | dan     |   |   |   | 396-02 | 1:protocol |          |  |1719|    |    |    |
 | w   |        |               | xNP | Jensen         |   | ie(n)ss(øn)       | ıe̅ſ          |   |   |   |        | dan     |   |   |   | 396-02 | 1:protocol |          |  |1719|    |    |    |
-| PE  | e      | BoxJen001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
-| PE  | b      | HenBon001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | BoxJen001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    1719|    |    |    |
+| PE  | b      | HenBon001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    1720|    |    |    |
 | w   |        |               | xNP | Henrik         |   | henr(i)k          | henrk        |   |   |   |        | dan     |   |   |   | 396-02 | 1:protocol |          |  |1720|    |    |    |
 | w   |        |               | xNP | Bonschot       |   | bonschot          | bonſchot      |   |   |   |        | dan     |   |   |   | 396-02 | 1:protocol |          |  |1720|    |    |    |
-| PE  | e      | HenBon001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | HenBon001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    1720|    |    |    |
 | w   |        | burghemæstere | xNC | borgmester     |   | b(or)gemester(e)  | bᷣgemeſter    |   |   |   |        | dan     |   |   |   | 396-02 | 1:protocol |          |  |    |    |    |    |
-| PE  | b      | KleJen001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | b      | KleJen001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    1721|    |    |    |
 | w   |        |               | xNP | Klement        |   | clemit            | clemit        |   |   |   |        | dan     |   |   |   | 396-02 | 1:protocol |          |  |1721|    |    |    |
 | w   |        |               | xNP | Jensen         |   | ienss(øn)         | ıenſ         |   |   |   |        | dan     |   |   |   | 396-02 | 1:protocol |          |  |1721|    |    |    |
-| PE  | e      | KleJen001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
-| PE  | b      | HemPed002     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | KleJen001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    1721|    |    |    |
+| PE  | b      | HemPed002     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    1722|    |    |    |
 | w   |        |               | xNP | Hemming        |   | hemi(n)gh         | hemi̅gh        |   |   |   |        | dan     |   |   |   | 396-02 | 1:protocol |          |  |1722|    |    |    |
 | w   |        |               | xNP | Persen         |   | p(er)ss(øn)       | ꝑſ           |   |   |   |        | dan     |   |   |   | 396-02 | 1:protocol |          |  |1722|    |    |    |
-| PE  | e      | HemPed002     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
-| PE  | b      | OluJen001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | HemPed002     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    1722|    |    |    |
+| PE  | b      | OluJen001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    1723|    |    |    |
 | w   |        |               | xNP | Oluf           |   | oleff             | oleff         |   |   |   |        | dan     |   |   |   | 396-02 | 1:protocol |          |  |1723|    |    |    |
 | w   |        |               | xNP | Jensen         |   | ie(n)ss(øn)       | ıe̅ſ          |   |   |   |        | dan     |   |   |   | 396-02 | 1:protocol |          |  |1723|    |    |    |
-| PE  | e      | OluJen001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | OluJen001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    1723|    |    |    |
 | w   |        | ok            | xCC | og             |   | oc                | oc            |   |   |   |        | dan     |   |   |   | 396-02 | 1:protocol |          |  |    |    |    |    |
-| PE  | b      | LarNie002     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | b      | LarNie002     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    1724|    |    |    |
 | w   |        |               | xNP | Lars           |   | lass              | laſſ          |   |   |   |        | dan     |   |   |   | 396-02 | 1:protocol |          |  |1724|    |    |    |
 | w   |        |               | xNP | Nielsen        |   | nielss(øn)        | nıelſ        |   |   |   |        | dan     |   |   |   | 396-02 | 1:protocol |          |  |1724|    |    |    |
-| PE  | e      | LarNie002     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | LarNie002     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    1724|    |    |    |
 | w   |        | rathman       | xNC | rådmænd        |   | radhme(n)         | radhme̅        |   |   |   |        | dan     |   |   |   | 396-02 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | i                 | ı             |   |   |   |        | dan     |   |   |   | 396-02 | 1:protocol |          |  |    |    |    |    |
 | w   |        | same+stath    | xNC | samme sted     |   | samest(et)        | ſameſtꝫ       |   |   |   |        | dan     |   |   |   | 396-02 | 1:protocol |          |  |    |    |    |    |
@@ -146,29 +146,29 @@
 | lm  | 396-05 |               |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | bything       | xNC | byting         |   | bytingh           | bẏtingh       |   |   |   |        | dan     |   |   |   | 396-05 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | i                 | ı             |   |   |   |        | dan     |   |   |   | 396-05 | 2:context |          |  |    |    |    |    |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | b |    149195|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1649|    |
 | w   |        |               | xNP | Roskilde       |   | Rosk(ilde)        | Roſkꝭ         |   |   |   |        | dan     |   |   |   | 396-05 | 2:context |          |  |    |    |1649|    |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | e |    149195|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1649|    |
 | w   |        | være          | xVB | var            |   | wor               | wor           |   |   |   |        | dan     |   |   |   | 396-05 | 2:context |          |  |    |    |    |    |
 | w   |        | skikke        | xVB | skikket        |   | skikket           | ſkikket       |   |   |   |        | dan     |   |   |   | 396-05 | 2:context |          |  |    |    |    |    |
 | w   |        | skjallik      | xAJ | skellig        |   | skælich           | ſkælich       |   |   |   |        | dan     |   |   |   | 396-05 | 2:context |          |  |    |    |    |    |
 | w   |        | man           | xNC | mand           |   | man               | ma           |   |   |   |        | dan     |   |   |   | 396-05 | 2:context |          |  |    |    |    |    |
-| PE  | b      | JepVær001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
-| PE | b | JepVær001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | b      | JepVær001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    1725|    |    |    |
+| PE | b | JepVær001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    2526|    |    |
 | w   |        |               | xNP | Jep            |   | jep               | ȷep           |   |   |   |        | dan     |   |   |   | 396-05 | 2:context |          |  |1725|2526|    |    |
-| PE  | e      | JepVær001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | JepVær001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    2526|    |    |
 | w   |        | værkmæstere   | xNC | værkmester     |   | w(er)kmest(er)    | wkmeſt      |   |   |   |        | dan     |   |   |   | 396-05 | 2:context |          |  |1725|    |    |    |
-| PE | e | JepVær001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE | e | JepVær001 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    1725|    |    |    |
 | w   |        | var           | xDP | vor            |   | wor               | woꝛ           |   |   |   |        | dan     |   |   |   | 396-05 | 2:context |          |  |    |    |    |    |
 | w   |        | byman         | xNC | bymand         |   | byma(n)           | bẏma̅          |   |   |   |        | dan     |   |   |   | 396-05 | 2:context |          |  |    |    |    |    |
 | w   |        | upovena           | xAP | påne           |   | pon(n)æ           | pon̅æ          |   |   |   |        | dan     |   |   |   | 396-05 | 2:context |          |  |    |    |    |    |
 | w   |        | beskethen+man | xNC | beskeden mands |   | besketh(e)nsmans  | beſkethn̅man |   |   |   |        | dan     |   |   |   | 396-05 | 2:context |          |  |    |    |    |    |
 | w   |        | vægh          | xNC | vegne          |   | weyne             | weyne         |   |   |   |        | dan     |   |   |   | 396-05 | 2:context |          |  |    |    |    |    |
-| PE  | b      | AndPed004     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | b      | AndPed004     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    1726|    |    |    |
 | w   |        |               | xNP | Anders         |   | anders            | andeꝛ        |   |   |   |        | dan     |   |   |   | 396-05 | 2:context |          |  |1726|    |    |    |
 | lm  | 396-06 |               |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        |               | xNP | Persen         |   | p(er)ss(øn)       | ꝑſ           |   |   |   |        | dan     |   |   |   | 396-06 | 2:context |          |  |1726|    |    |    |
-| PE  | e      | AndPed004     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | AndPed004     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    1726|    |    |    |
 | w   |        | kalle         | xVB | kaldet         |   | kall(it)          | kal̅l          |   |   |   |        | dan     |   |   |   | 396-06 | 2:context |          |  |    |    |    |    |
 | w   |        |               | xNP | Skytte         |   | skyttæ            | ſkyttæ        |   |   |   |        | dan     |   |   |   | 396-06 | 2:context |          |  |    |    |    |    |
 | w   |        | burghere      | xNC | borger         |   | b(or)gher(e)      | bᷣgher        |   |   |   |        | dan     |   |   |   | 396-06 | 2:context |          |  |    |    |    |    |
@@ -177,16 +177,16 @@
 | w   |        | ok            | xCC | og             |   | oc                | oc            |   |   |   |        | dan     |   |   |   | 396-06 | 2:context |          |  |    |    |    |    |
 | w   |        | hetherlik     | xAJ | hæderlig       |   | hethr(er)ligh     | hethꝛlıgh    |   |   |   |        | dan     |   |   |   | 396-06 | 2:context |          |  |    |    |    |    |
 | w   |        | kone          | xNC | kvinde         |   | qwin(c)æ          | qwin̅æ         |   |   |   |        | dan     |   |   |   | 396-06 | 2:context |          |  |    |    |    |    |
-| PE  | b      | CecPed003     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | b      | CecPed003     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    1727|    |    |    |
 | w   |        |               | xNP | Cecilie        |   | sice              | ſice          |   |   |   |        | dan     |   |   |   | 396-06 | 2:context |          |  |1727|    |    |    |
 | w   |        |               | xNP | Peders         |   | pæth(e)rs         | pæthꝛ̅        |   |   |   |        | dan     |   |   |   | 396-06 | 2:context |          |  |1727|    |    |    |
 | w   |        | dotter        | xNC | datter         |   | dott(er)          | dott         |   |   |   |        | dan     |   |   |   | 396-06 | 2:context |          |  |1727|    |    |    |
-| PE  | e      | CecPed003     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | CecPed003     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    1727|    |    |    |
 | w   |        | fore          | xAP | for            |   | ford(e)           | foꝛ          |   |   |   | de-sup | dan     |   |   |   | 396-06 | 2:context |          |  |    |    |    |    |
-| PE  | b      | AndPed004     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | b      | AndPed004     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    2527|    |    |    |
 | w   |        |               | xNP | Anders         |   | andr(is)          | andrꝭ         |   |   |   |        | dan     |   |   |   | 396-06 | 2:context |          |  |2527|    |    |    |
 | w   |        |               | xNP | Skyttes        |   | skyttes           | ſkytte       |   |   |   |        | dan     |   |   |   | 396-06 | 2:context |          |  |2527|    |    |    |
-| PE  | e      | AndPed004     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | AndPed004     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    2527|    |    |    |
 | w   |        | husfrue       | xNC | husfrue        |   | husfrw            | huſfrw        |   |   |   |        | dan     |   |   |   | 396-06 | 2:context |          |  |    |    |    |    |
 | w   |        | halde         | xVB | holdende       |   | holdend(e)        | holden       |   |   |   |        | dan     |   |   |   | 396-06 | 2:context |          |  |    |    |    |    |
 | lm  | 396-07 |               |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
@@ -206,17 +206,17 @@
 | w   |        | sta           | xVB | stod           |   | stodhe            | ſtodhe        |   |   |   |        | dan     |   |   |   | 396-07 | 2:context |          |  |    |    |    |    |
 | w   |        | tha           | xAV | da             |   | tha               | tha           |   |   |   |        | dan     |   |   |   | 396-07 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd      | xAJ | fornævnte      |   | for(nefnde)       | foꝛͩͤ           |   |   |   |        | dan     |   |   |   | 396-07 | 2:context |          |  |    |    |    |    |
-| PE  | b      | JepVær001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | b      | JepVær001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    2528|    |    |    |
 | w   |        |               | xNP | Jep            |   | jep               | ȷep           |   |   |   |        | dan     |   |   |   | 396-07 | 2:context |          |  |2528|    |    |    |
-| PE  | e      | JepVær001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | JepVær001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    2528|    |    |    |
 | w   |        | værkmæstere   | xNC | værkmester     |   | w(r)kmest(er)     | wkmeſt      |   |   |   |        | dan     |   |   |   | 396-07 | 2:context |          |  |    |    |    |    |
 | w   |        | ok            | xCC | og             |   | oc                | oc            |   |   |   |        | dan     |   |   |   | 396-07 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd      | xAJ | fornævnte      |   | for(nefnde)       | foꝛͩͤ           |   |   |   |        | dan     |   |   |   | 396-07 | 2:context |          |  |    |    |    |    |
-| PE  | b      | CecPed003     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | b      | CecPed003     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    2529|    |    |    |
 | w   |        |               | xNP | Cecilie        |   | sice              | ſice          |   |   |   |        | dan     |   |   |   | 396-07 | 2:context |          |  |2529|    |    |    |
 | w   |        |               | xNP | Peders         |   | pædh(e)rs         | pædhꝛ̅        |   |   |   |        | dan     |   |   |   | 396-07 | 2:context |          |  |2529|    |    |    |
 | w   |        | dotter        | xNC | datter         |   | dott(er)          | dott         |   |   |   |        | dan     |   |   |   | 396-07 | 2:context |          |  |2529|    |    |    |
-| PE  | e      | CecPed003     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | CecPed003     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    2529|    |    |    |
 | lm  | 396-08 |               |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | innen         | xAP | inden          |   | jnne(n)           | ȷnne̅          |   |   |   |        | dan     |   |   |   | 396-08 | 2:context |          |  |    |    |    |    |
 | w   |        | fjure         | xNA | fire           |   | firæ              | firæ          |   |   |   |        | dan     |   |   |   | 396-08 | 2:context |          |  |    |    |    |    |
@@ -232,17 +232,17 @@
 | w   |        | hetherlik     | xAJ | hæderlig       |   | heth(e)rligh      | hethꝛ̅ligh     |   |   |   |        | dan     |   |   |   | 396-08 | 2:context |          |  |    |    |    |    |
 | w   |        | man           | xNC | mand           |   | ma(n)             | ma̅            |   |   |   |        | dan     |   |   |   | 396-08 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre         | xNC | hr.             |   | her               | her           |   |   |   |        | dan     |   |   |   | 396-08 | 2:context |          |  |    |    |    |    |
-| PE  | b      | AndOlu004     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | b      | AndOlu004     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    1728|    |    |    |
 | w   |        |               | xNP | Anders         |   | Anders            | Andeꝛ        |   |   |   |        | dan     |   |   |   | 396-08 | 2:context |          |  |1728|    |    |    |
 | w   |        |               | xNP | Olufsen        |   | oleffs(øn)        | oleff        |   |   |   |        | dan     |   |   |   | 396-08 | 2:context |          |  |1728|    |    |    |
-| PE  | e      | AndOlu004     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | AndOlu004     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    1728|    |    |    |
 | w   |        | perpetuus     | xNC | perpetuus      |   | p(er)pet(uus)     | ̲etꝭ          |   |   |   |        | lat/dan |   |   |   | 396-08 | 2:context |          |  |    |    |    |    |
 | lm  | 396-09 |               |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | vicarius      | xNC | vicarius       |   | vicar(ius)        | vıcarꝭ        |   |   |   |        | lat/dan |   |   |   | 396-09 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | i                 | ı             |   |   |   |        | dan     |   |   |   | 396-09 | 2:context |          |  |    |    |    |    |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | b |    149195|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1650|    |
 | w   |        |               | xNP | Roskilde       |   | Rosk(ilde)        | Roſkꝭ         |   |   |   |        | dan     |   |   |   | 396-09 | 2:context |          |  |    |    |1650|    |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | e |    149195|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1650|    |
 | w   |        | en            | xAT | en             |   | en                | e            |   |   |   |        | dan     |   |   |   | 396-09 | 2:context |          |  |    |    |    |    |
 | w   |        | garth         | xNC | gård           |   | gordh             | goꝛdh         |   |   |   |        | dan     |   |   |   | 396-09 | 2:context |          |  |    |    |    |    |
 | w   |        | mæth          | xAP | med            |   | m(et)             | mꝫ            |   |   |   |        | dan     |   |   |   | 396-09 | 2:context |          |  |    |    |    |    |
@@ -251,9 +251,9 @@
 | w   |        | jorth         | xNC | jord           |   | jordh             | ȷoꝛdh         |   |   |   |        | dan     |   |   |   | 396-09 | 2:context |          |  |    |    |    |    |
 | w   |        | hær           | xAV | her            |   | hær               | hær           |   |   |   |        | dan     |   |   |   | 396-09 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | i                 | ı             |   |   |   |        | dan     |   |   |   | 396-09 | 2:context |          |  |    |    |    |    |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | b |    149195|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1651|    |
 | w   |        |               | xNP | Roskilde       |   | Rosk(ilde)        | Roſkꝭ         |   |   |   |        | dan     |   |   |   | 396-09 | 2:context |          |  |    |    |1651|    |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | e |    149195|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1651|    |
 | w   |        | ligje         | xVB | liggende       |   | liggend(e)        | lıggen       |   |   |   |        | dan     |   |   |   | 396-09 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | i                 | ı             |   |   |   |        | dan     |   |   |   | 396-09 | 2:context |          |  |    |    |    |    |
 | w   |        | sankte        | xAJ | sankt          |   | s(an)c(t)i        | ſcı̅           |   |   |   |        | lat     |   |   |   | 396-09 | 2:context |          |  |    |    |    |    |
@@ -267,10 +267,10 @@
 | w   |        | thæn          | xAT | den            |   | th(e)n            | thn̅           |   |   |   |        | dan     |   |   |   | 396-10 | 2:context |          |  |    |    |    |    |
 | w   |        | jorth         | xNC | jord           |   | iordh             | ıoꝛdh         |   |   |   |        | dan     |   |   |   | 396-10 | 2:context |          |  |    |    |    |    |
 | w   |        | sum           | xRP | som            |   | so(m)             | ſo̅            |   |   |   |        | dan     |   |   |   | 396-10 | 2:context |          |  |    |    |    |    |
-| PE  | b      | BjøSud001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | b      | BjøSud001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    1729|    |    |    |
 | w   |        |               | xNP | Bjørn          |   | biørn             | bıøꝛ         |   |   |   |        | dan     |   |   |   | 396-10 | 2:context |          |  |1729|    |    |    |
 | w   |        |               | xNP | Sudere         |   | suder(e)          | ſuder        |   |   |   |        | dan     |   |   |   | 396-10 | 2:context |          |  |1729|    |    |    |
-| PE  | e      | BjøSud001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | BjøSud001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    1729|    |    |    |
 | w   |        | nu            | xAV | nu             |   | nw                | nw            |   |   |   |        | dan     |   |   |   | 396-10 | 2:context |          |  |    |    |    |    |
 | w   |        | upa           | xAV | på             |   | pa                | pa            |   |   |   |        | dan     |   |   |   | 396-10 | 2:context |          |  |    |    |    |    |
 | w   |        | bo            | xVB | bor            |   | boor              | booꝛ          |   |   |   |        | dan     |   |   |   | 396-10 | 2:context |          |  |    |    |    |    |
@@ -300,11 +300,11 @@
 | w   |        | ok            | xCC | og             |   | oc                | oc            |   |   |   |        | dan     |   |   |   | 396-11 | 2:context |          |  |    |    |    |    |
 | w   |        | grund         | xNC | grund          |   | gru(n)dh          | gru̅dh         |   |   |   |        | dan     |   |   |   | 396-11 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd      | xAJ | fornævnte      |   | for(nefnde)       | foꝛͩͤ           |   |   |   |        | dan     |   |   |   | 396-11 | 2:context |          |  |    |    |    |    |
-| PE  | b      | CecPed003     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | b      | CecPed003     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    2530|    |    |    |
 | w   |        |               | xNP | Cecilie        |   | sice              | ſıce          |   |   |   |        | dan     |   |   |   | 396-11 | 2:context |          |  |2530|    |    |    |
 | w   |        |               | xNP | Peders         |   | pæth(e)rs         | pæthꝛ̅        |   |   |   |        | dan     |   |   |   | 396-11 | 2:context |          |  |2530|    |    |    |
 | w   |        | dotter        | xNC | datter         |   | dott(er)          | dott         |   |   |   |        | dan     |   |   |   | 396-11 | 2:context |          |  |2530|    |    |    |
-| PE  | e      | CecPed003     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | CecPed003     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    2530|    |    |    |
 | w   |        | kænne         | xVB | kendes         |   | kænd(es)          | kæn          |   |   |   |        | dan     |   |   |   | 396-11 | 2:context |          |  |    |    |    |    |
 | lm  | 396-12 |               |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | at            | xIM | at             |   | at                | at            |   |   |   |        | dan     |   |   |   | 396-12 | 2:context |          |  |    |    |    |    |
@@ -318,10 +318,10 @@
 | w   |        | af            | xAP | af             |   | aff               | aff           |   |   |   |        | dan     |   |   |   | 396-12 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd      | xAJ | fornævnte      |   | for(nefnde)       | foꝛͩͤ           |   |   |   |        | dan     |   |   |   | 396-12 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre         | xNC | hr.             |   | h(er)             | h̅             |   |   |   |        | dan     |   |   |   | 396-12 | 2:context |          |  |    |    |    |    |
-| PE  | b      | AndOlu004     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | b      | AndOlu004     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    2531|    |    |    |
 | w   |        |               | xNP | Anders         |   | Anders            | Andeꝛ        |   |   |   |        | dan     |   |   |   | 396-12 | 2:context |          |  |2531|    |    |    |
 | w   |        |               | xNP | Olufsen        |   | oleffs(øn)        | oleff        |   |   |   |        | dan     |   |   |   | 396-12 | 2:context |          |  |2531|    |    |    |
-| PE  | e      | AndOlu004     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | AndOlu004     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    2531|    |    |    |
 | w   |        | sva           | xAV | så             |   | swo               | ſwo           |   |   |   |        | dan     |   |   |   | 396-12 | 2:context |          |  |    |    |    |    |
 | w   |        | at            | xCS | at             |   | at                | at            |   |   |   |        | dan     |   |   |   | 396-12 | 2:context |          |  |    |    |    |    |
 | w   |        | hun           | xPE | hendes         |   | he(n)nis          | he̅nı         |   |   |   |        | dan     |   |   |   | 396-12 | 2:context |          |  |    |    |    |    |
@@ -335,16 +335,16 @@
 | w   |        | ytermere      | xAV | ydermere       |   | yd(er)mer(e)      | ydmer       |   |   |   |        | dan     |   |   |   | 396-13 | 2:context |          |  |    |    |    |    |
 | w   |        | sæghje        | xVB | sagde          |   | sathe             | ſathe         |   |   |   |        | dan     |   |   |   | 396-13 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd      | xAJ | fornævnte      |   | for(nefnde)       | foꝛͩͤ           |   |   |   |        | dan     |   |   |   | 396-13 | 2:context |          |  |    |    |    |    |
-| PE  | b      | JepVær001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | b      | JepVær001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    2533|    |    |    |
 | w   |        |               | xNP | Jep            |   | jep               | ȷep           |   |   |   |        | dan     |   |   |   | 396-13 | 2:context |          |  |2533|    |    |    |
-| PE  | e      | JepVær001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | JepVær001     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    2533|    |    |    |
 | w   |        | værkmæstere   | xNC | værkmester     |   | w(er)kmest(er)    | wkmeſt      |   |   |   |        | dan     |   |   |   | 396-13 | 2:context |          |  |    |    |    |    |
 | w   |        | at            | xCS | at             |   | at                | at            |   |   |   |        | dan     |   |   |   | 396-13 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd      | xAJ | fornævnte      |   | for(nefnde)       | foꝛͩͤ           |   |   |   |        | dan     |   |   |   | 396-13 | 2:context |          |  |    |    |    |    |
-| PE  | b      | AndPed004     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | b      | AndPed004     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    2532|    |    |    |
 | w   |        |               | xNP | Anders         |   | Anders            | Ander        |   |   |   |        | dan     |   |   |   | 396-13 | 2:context |          |  |2532|    |    |    |
 | w   |        |               | xNP | Skytte         |   | skyttæ            | ſkẏttæ        |   |   |   |        | dan     |   |   |   | 396-13 | 2:context |          |  |2532|    |    |    |
-| PE  | e      | AndPed004     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | AndPed004     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    2532|    |    |    |
 | w   |        | tilbinde      | xVB | tilbandt       |   | tilbant           | tılbant       |   |   |   |        | dan     |   |   |   | 396-13 | 2:context |          |  |    |    |    |    |
 | w   |        | sik           | xPE | sig            |   | sik               | ſık           |   |   |   |        | dan     |   |   |   | 396-13 | 2:context |          |  |    |    |    |    |
 | w   |        | ok            | xCC | og             |   | oc                | oc            |   |   |   |        | dan     |   |   |   | 396-13 | 2:context |          |  |    |    |    |    |
@@ -353,11 +353,11 @@
 | lm  | 396-14 |               |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | ok            | xCC | og             |   | oc                | oc            |   |   |   |        | dan     |   |   |   | 396-14 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd      | xAJ | fornævnte      |   | for(nefnde)       | foꝛͩͤ           |   |   |   |        | dan     |   |   |   | 396-14 | 2:context |          |  |    |    |    |    |
-| PE  | b      | CecPed003     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | b      | CecPed003     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    2534|    |    |    |
 | w   |        |               | xNP | Cecilie        |   | sice              | ſıce          |   |   |   |        | dan     |   |   |   | 396-14 | 2:context |          |  |2534|    |    |    |
 | w   |        |               | xNP | Peders         |   | pædh(e)rs         | pædhꝛ̅        |   |   |   |        | dan     |   |   |   | 396-14 | 2:context |          |  |2534|    |    |    |
 | w   |        | dotter        | xNC | datter         |   | dott(er)          | dott         |   |   |   |        | dan     |   |   |   | 396-14 | 2:context |          |  |2534|    |    |    |
-| PE  | e      | CecPed003     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | CecPed003     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    2534|    |    |    |
 | w   |        | tilbinde      | xVB | tilbandt       |   | tilba(n)t         | tılba̅t        |   |   |   |        | dan     |   |   |   | 396-14 | 2:context |          |  |    |    |    |    |
 | w   |        | sik           | xPE | sig            |   | sik               | ſık           |   |   |   |        | dan     |   |   |   | 396-14 | 2:context |          |  |    |    |    |    |
 | w   |        | ok            | xCC | og             |   | oc                | oc            |   |   |   |        | dan     |   |   |   | 396-14 | 2:context |          |  |    |    |    |    |
@@ -374,10 +374,10 @@
 | w   |        | fornævnd      | xAJ | fornævnte      |   | for(nefnde)       | foꝛͩͤ           |   |   |   |        | dan     |   |   |   | 396-14 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre         | xNC | hr.             |   | her               | her           |   |   |   |        | dan     |   |   |   | 396-14 | 2:context |          |  |    |    |    |    |
 | lm  | 396-15 |               |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
-| PE  | b      | AndOlu004     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | b      | AndOlu004     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    2535|    |    |    |
 | w   |        |               | xNP | Anders         |   | Anders            | Andeꝛ        |   |   |   |        | dan     |   |   |   | 396-15 | 2:context |          |  |2535|    |    |    |
 | w   |        |               | xNP | Olufsen        |   | oleffs(øn)        | oleff        |   |   |   |        | dan     |   |   |   | 396-15 | 2:context |          |  |2535|    |    |    |
-| PE  | e      | AndOlu004     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    |    |    |    |
+| PE  | e      | AndOlu004     |     |                |   |                   |               |   |   |   |        |         |   |   |   |        |          |          |  |    2535|    |    |    |
 | w   |        | ok            | xCC | og             |   | oc                | oc            |   |   |   |        | dan     |   |   |   | 396-15 | 2:context |          |  |    |    |    |    |
 | w   |        | han           | xPE | hans           |   | hans              | han          |   |   |   |        | dan     |   |   |   | 396-15 | 2:context |          |  |    |    |    |    |
 | w   |        | arving        | xNC | arvinge        |   | arwinge           | aꝛwinge       |   |   |   |        | dan     |   |   |   | 396-15 | 2:context |          |  |    |    |    |    |

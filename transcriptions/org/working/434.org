@@ -44,17 +44,17 @@
 | lm  | 434-01 |               |     |                |   |                      |                |   |   |   |         |     |   |   |    |               |          |          |  |    |    |    |    |
 | d   | b      | 1             |     | protocol       |   |                      |                |   |   |   |         |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | vi            | xPE | vi             |   | Wii                  | Wıı            |   |   |   |         | dan |   |   |    |        434-01 | 1:protocol |          |  |    |    |    |    |
-| PE  |      b | BirGun001     |     |                |   |                      |                |   |   |   |         |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  |      b | BirGun001     |     |                |   |                      |                |   |   |   |         |     |   |   |    |               |          |          |  |    2065|    |    |    |
 | w   |        |               | xNP | Birger         |   | Birgh(e)r            | Bırgh̅r         |   |   |   |         | dan |   |   |    |        434-01 | 1:protocol |          |  |2065|    |    |    |
-| PE  |      e | BirGun001     |     |                |   |                      |                |   |   |   |         |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  |      e | BirGun001     |     |                |   |                      |                |   |   |   |         |     |   |   |    |               |          |          |  |    2065|    |    |    |
 | w   |        | mæth          | xAP | med            |   | m(et)                | mꝫ             |   |   |   |         | dan |   |   |    |        434-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | guth          | xNC | Guds           |   | g(uds)               | g             |   |   |   | de-sup  | dan |   |   |    |        434-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | nathe         | xNC | nåde           |   | naade                | naade          |   |   |   |         | dan |   |   |    |        434-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | ærkebiskop    | xNC | ærkebiskop     |   | Ærchebiscop          | Ærchebıſcop    |   |   |   |         | dan |   |   |    |        434-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | i                    | ı              |   |   |   |         | dan |   |   |    |        434-01 | 1:protocol |          |  |    |    |    |    |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1936|    |
 | w   |        |               | xNP | Lund           |   | Lund                 | Lund           |   |   |   |         | dan |   |   |    |        434-01 | 1:protocol |          |  |    |    |1936|    |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1936|    |
 | w   |        |               | xNP | Sveriges       |   | Sue(er)g(is)         | Sue͛gꝭ          |   |   |   |         | dan |   |   |    |        434-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | fyrste        | xNC | fyrste         |   | førsthe              | føꝛﬅhe         |   |   |   |         | dan |   |   |    |        434-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | ok            | xCC | og             |   | oc                   | oc             |   |   |   |         | dan |   |   |    |        434-01 | 1:protocol |          |  |    |    |    |    |
@@ -111,9 +111,9 @@
 | w   |        | kær           | xAJ | kære           |   | kær(e)               | kær           |   |   |   |         | dan |   |   |    |        434-04 | 2:context |          |  |    |    |    |    |
 | w   |        | dotter        | xNC | datter         |   | dottræ               | dottræ         |   |   |   |         | dan |   |   |    |        434-04 | 2:context |          |  |    |    |    |    |
 | w   |        | frue          | xNC | fru            |   | frw                  | frw            |   |   |   |         | dan |   |   |    |        434-04 | 2:context |          |  |    |    |    |    |
-| PE  |      b | MetPri001     |     |                |   |                      |                |   |   |   |         |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  |      b | MetPri001     |     |                |   |                      |                |   |   |   |         |     |   |   |    |               |          |          |  |    2066|    |    |    |
 | w   |        |               | xNP | Mette          |   | met⟨-⟩¦the           | met⟨-⟩¦the     |   |   |   |         | dan |   |   |    | 434-04—434-05 | 2:context |          |  |2066|    |    |    |
-| PE  |      e | MetPri001     |     |                |   |                      |                |   |   |   |         |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  |      e | MetPri001     |     |                |   |                      |                |   |   |   |         |     |   |   |    |               |          |          |  |    2066|    |    |    |
 | w   |        | priorisse     | xNC | priorisse      |   | p(ri)orissæ          | poꝛıæ        |   |   |   |         | dan |   |   |    |        434-05 | 2:context |          |  |    |    |    |    |
 | w   |        | ok            | xCC | og             |   | oc                   | oc             |   |   |   |         | dan |   |   |    |        434-05 | 2:context |          |  |    |    |    |    |
 | w   |        | hun           | xPE | hendes         |   | henness              | henne         |   |   |   |         | dan |   |   |    |        434-05 | 2:context |          |  |    |    |    |    |
@@ -328,9 +328,9 @@
 | d   | e      | 2             |     |                |   |                      |                |   |   |   |         |     |   |   |    |               |          |          |  |    |    |    |    |
 | d   | b      | 3             |     | eschatocol     |   |                      |                |   |   |   |         |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |               |     |                |   | Dat(um)              | Datꝭ           |   |   |   |         | lat |   |   |    |        434-19 | 3:eschatocol |          |  |    |    |    |    |
-| PL  |      b |               |     |                |   |                      |                |   |   |   |         |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  |      b |               |     |                |   |                      |                |   |   |   |         |     |   |   |    |               |          |          |  |    |    |    1937|    |
 | w   |        |               |     |                |   | Lund(is)             | Lun           |   |   |   |         | lat |   |   |    |        434-19 | 3:eschatocol |          |  |    |    |1937|    |
-| PL  |      e |               |     |                |   |                      |                |   |   |   |         |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  |      e |               |     |                |   |                      |                |   |   |   |         |     |   |   |    |               |          |          |  |    |    |    1937|    |
 | w   |        |               |     |                |   | Anno                 | Anno           |   |   |   |         | lat |   |   |    |        434-19 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |               |     |                |   | d(omi)nj             | d̅nȷ            |   |   |   |         | lat |   |   |    |        434-19 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 434-20 |               |     |                |   |                      |                |   |   |   |         |     |   |   |    |               |          |          |  |    |    |    |    |

@@ -54,17 +54,17 @@
 | w   |        | læse          | xVB | læst            |   | læsæt                | læſæt          |   |   |   |   | dan |   |   |   | 339-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | helse         | xVB | hilse           |   | Helssæ               | Helſſæ         |   |   |   |   | dan |   |   |   | 339-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | vi            | xPE | vi              |   | wy                   | wẏ             |   |   |   |   | dan |   |   |   | 339-01 | 1:protocol |          |  |    |    |    |    |
-| PE  |      b | PedLod001     |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
+| PE  |      b | PedLod001     |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    1389|    |    |    |
 | w   |        |               |     | Peder           |   | pæthær               | pæthær         |   |   |   |   | dan |   |   |   | 339-01 | 1:protocol |          |  |1389|    |    |    |
-| PE  |      e | PedLod001     |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
+| PE  |      e | PedLod001     |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    1389|    |    |    |
 | w   |        | mæth          | xAP | med             |   | m(et)                | mꝫ             |   |   |   |   | dan |   |   |   | 339-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | guth          | xNC | Guds            |   | gutz                 | gutz           |   |   |   |   | dan |   |   |   | 339-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | nathe         | xNC | nåde            |   | nathæ                | nathæ          |   |   |   |   | dan |   |   |   | 339-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | biskop        | xNC | biskop          |   | biscop               | bıſcop         |   |   |   |   | dan |   |   |   | 339-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i             | xAP | i               |   | j                    | j              |   |   |   |   | dan |   |   |   | 339-01 | 1:protocol |          |  |    |    |    |    |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | b |    149195|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1410|    |
 | w   |        |               | xAJ | Roskilde        |   | Roskildæ             | Roſkıldæ       |   |   |   |   | dan |   |   |   | 339-01 | 1:protocol |          |  |    |    |1410|    |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | e |    149195|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1410|    |
 | lm  | 339-02 |               |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | kærlik        | xAJ | kærlige         |   | kerleghæ             | kerleghæ       |   |   |   |   | dan |   |   |   | 339-02 | 1:protocol |          |  |    |    |    |    |
 | w   |        | mæth          | xAP | med             |   | m(et)                | mꝫ             |   |   |   |   | dan |   |   |   | 339-02 | 1:protocol |          |  |    |    |    |    |
@@ -92,14 +92,14 @@
 | w   |        | hetherlik     | xAJ | hæderlig        |   | heth(er)ligh         | hethligh      |   |   |   |   | dan |   |   |   | 339-02 | 2:context |          |  |    |    |    |    |
 | lm  | 339-03 |               |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | kone          | xNC | kvinde          |   | qwi(n)næ             | qwı̅næ          |   |   |   |   | dan |   |   |   | 339-03 | 2:context |          |  |    |    |    |    |
-| PE  |      b | KriPed003     |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
+| PE  |      b | KriPed003     |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    1390|    |    |    |
 | w   |        |               |     | Kristine        |   | kerstinæ             | kerſtınæ       |   |   |   |   | dan |   |   |   | 339-03 | 2:context |          |  |1390|    |    |    |
-| PE  |      e | KriPed003     |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
+| PE  |      e | KriPed003     |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    1390|    |    |    |
 | p   |        |               |     |                 |   | /                    | /              |   |   |   |   | dan |   |   |   | 339-03 | 2:context |          |  |    |    |    |    |
-| PE  |      b | OveSte001     |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
+| PE  |      b | OveSte001     |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    1391|    |    |    |
 | w   |        |               | xNP | Ove             |   | awæ                  | awæ            |   |   |   |   | dan |   |   |   | 339-03 | 2:context |          |  |1391|    |    |    |
 | w   |        |               | xNP | Stegs           |   | stegs                | ſteg          |   |   |   |   | dan |   |   |   | 339-03 | 2:context |          |  |1391|    |    |    |
-| PE  |      e | OveSte001     |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
+| PE  |      e | OveSte001     |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    1391|    |    |    |
 | w   |        | æfterlivere   | xNC | efterlever      |   | eft(er)lewæræ        | eftlewæræ     |   |   |   |   | dan |   |   |   | 339-03 | 2:context |          |  |    |    |    |    |
 | p   |        |               |     |                 |   | .                    | .              |   |   |   |   | dan |   |   |   | 339-03 | 2:context |          |  |    |    |    |    |
 | w   |        | sæks          | xNA | seks            |   | Siex                 | iex           |   |   |   |   | dan |   |   |   | 339-03 | 2:context |          |  |    |    |    |    |
@@ -178,10 +178,10 @@
 | p   |        |               |     |                 |   | .                    | .              |   |   |   |   | dan |   |   |   | 339-06 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd      | xAJ | fornævnte       |   | for(nefnde)          | foꝛͩͤ            |   |   |   |   | dan |   |   |   | 339-06 | 2:context |          |  |    |    |    |    |
 | p   |        |               |     |                 |   | .                    | .              |   |   |   |   | dan |   |   |   | 339-06 | 2:context |          |  |    |    |    |    |
-| PE  |      b | KriPed003     |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
+| PE  |      b | KriPed003     |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    2489|    |    |    |
 | w   |        |               |     | Kristine        |   | kerstinæ             | kerſtinæ       |   |   |   |   | dan |   |   |   | 339-06 | 2:context |          |  |2489|    |    |    |
 | w   |        |               |     | Oves            |   | awæs                 | awæ           |   |   |   |   | dan |   |   |   | 339-06 | 2:context |          |  |2489|    |    |    |
-| PE  |      e | KriPed003     |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
+| PE  |      e | KriPed003     |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    2489|    |    |    |
 | w   |        | var           | xDP | vort            |   | wort                 | woꝛt           |   |   |   |   | dan |   |   |   | 339-06 | 2:context |          |  |    |    |    |    |
 | lm  | 339-07 |               |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | goths         | xNC | gods            |   | gotz                 | gotz           |   |   |   |   | dan |   |   |   | 339-07 | 2:context |          |  |    |    |    |    |
@@ -194,10 +194,10 @@
 | w   |        | en            | xNA | en              |   | een                  | ee            |   |   |   |   | dan |   |   |   | 339-07 | 2:context |          |  |    |    |    |    |
 | w   |        | garth         | xNC | gård            |   | gardh                | gardh          |   |   |   |   | dan |   |   |   | 339-07 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i               |   | j                    | j              |   |   |   |   | dan |   |   |   | 339-07 | 2:context |          |  |    |    |    |    |
-| PL  |      b |               |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
+| PL  |      b |               148932|     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    1411|    |
 | w   |        |               | xNP | Ølse            |   | ølsiyæ               | ølſıẏæ         |   |   |   |   | dan |   |   |   | 339-07 | 2:context |          |  |    |    |1411|    |
 | w   |        |               | xAJ | magle           |   | maglæ                | maglæ          |   |   |   |   | dan |   |   |   | 339-07 | 2:context |          |  |    |    |1411|    |
-| PL  |      e |               |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
+| PL  |      e |               148932|     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    1411|    |
 | w   |        | i             | xAP | i               |   | j                    | j              |   |   |   |   | dan |   |   |   | 339-07 | 2:context |          |  |    |    |    |    |
 | w   |        | hvilik        | xPI | hvilken         |   | hwilken              | hwılke        |   |   |   |   | dan |   |   |   | 339-07 | 2:context |          |  |    |    |    |    |
 | p   |        |               |     |                 |   | .                    | .              |   |   |   |   | dan |   |   |   | 339-07 | 2:context |          |  |    |    |    |    |
@@ -205,10 +205,10 @@
 | p   |        |               |     |                 |   | .                    | .              |   |   |   |   | dan |   |   |   | 339-07 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i               |   | j                    | j              |   |   |   |   | dan |   |   |   | 339-07 | 2:context |          |  |    |    |    |    |
 | w   |        | bo            | xVB | bor             |   | boor                 | booꝛ           |   |   |   |   | dan |   |   |   | 339-07 | 2:context |          |  |    |    |    |    |
-| PE  |      b | JenPed017     |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
+| PE  |      b | JenPed017     |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    1392|    |    |    |
 | w   |        |               |     | Jens            |   | Jens                 | Jen           |   |   |   |   | dan |   |   |   | 339-07 | 2:context |          |  |1392|    |    |    |
 | w   |        |               |     | Pedersen        |   | patherss(øn).        | patherſ.      |   |   |   |   | dan |   |   |   | 339-07 | 2:context |          |  |1392|    |    |    |
-| PE  |      e | JenPed017     |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
+| PE  |      e | JenPed017     |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    1392|    |    |    |
 | p   |        |               |     |                 |   | /                    | /              |   |   |   |   | dan |   |   |   | 339-07 | 2:context |          |  |    |    |    |    |
 | w   |        | ok            | xCC | og              |   | oc                   | oc             |   |   |   |   | dan |   |   |   | 339-07 | 2:context |          |  |    |    |    |    |
 | p   |        |               |     |                 |   | .                    | .              |   |   |   |   | dan |   |   |   | 339-07 | 2:context |          |  |    |    |    |    |
@@ -218,28 +218,28 @@
 | w   |        | garth         | xNC | gårde           |   | garthæ               | garthæ         |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |    |    |    |    |
 | p   |        |               |     |                 |   | .                    | .              |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i               |   | j                    | j              |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |    |    |    |    |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1412|    |
 | w   |        |               |     | Skensved        |   | skentswith           | ſkentſwith     |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |    |    |1412|    |
 | w   |        |               |     | magle           |   | maglæ                | magl̅æ          |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |    |    |1412|    |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1412|    |
 | w   |        | i             | xAP | i               |   | j                    | j              |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |    |    |    |    |
 | w   |        | en            | xNA | en              |   | een                  | ee            |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |    |    |    |    |
 | p   |        |               |     |                 |   | .                    | .              |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |    |    |    |    |
 | w   |        | bo            | xVB | bor             |   | boor                 | booꝛ           |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |    |    |    |    |
-| PE  |      b | JonTys001     |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
+| PE  |      b | JonTys001     |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    1393|    |    |    |
 | w   |        |               |     | Jon             |   | Jon                  | Jo            |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |1393|    |    |    |
 | p   |        |               |     |                 |   | .                    | .              |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |1393|    |    |    |
 | w   |        | thythisk      | xAJ | Tysk            |   | thyisk               | thyiſk         |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |1393|    |    |    |
-| PE  |      e | JonTys001     |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
+| PE  |      e | JonTys001     |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    1393|    |    |    |
 | p   |        |               |     |                 |   | .                    | .              |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |    |    |    |    |
 | w   |        | ok            | xCC | og              |   | oc                   | oc             |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |    |    |    |    |
 | p   |        |               |     |                 |   | .                    | .              |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i               |   | j                    | j              |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |    |    |    |    |
 | w   |        | thæn          | xAT | den             |   | then                 | then           |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |    |    |    |    |
 | w   |        | anner         | xPI | anden           |   | an(n)æn              | an̅æn           |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |    |    |    |    |
-| PE  |      b | IngXxx004     |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
+| PE  |      b | IngXxx004     |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    1394|    |    |    |
 | w   |        |               |     | Ingmar          |   | Jngemar              | Jngemar        |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |1394|    |    |    |
-| PE  |      e | IngXxx004     |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
+| PE  |      e | IngXxx004     |     |                 |   |                      |                |   |   |   |   |     |   |   |   |        |          |          |  |    1394|    |    |    |
 | w   |        | mæth          | xAP | med             |   | meth                 | eth           |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |    |    |    |    |
 | p   |        |               |     |                 |   | .                    | .              |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |    |    |    |    |
 | w   |        | al            | xAJ | al              |   | all                  | all            |   |   |   |   | dan |   |   |   | 339-08 | 2:context |          |  |    |    |    |    |

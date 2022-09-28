@@ -43,19 +43,19 @@
 | pm  | 1r     |   |   |   |   |                       |                 |             |   |   |                |     |   |   |    |               |          |          |  |    |    |    |    |
 | lm  | 431-01 |   |   |   |   |                       |                 |             |   |   |                |     |   |   |    |               |          |          |  |    |    |    |    |
 | d  | b      | 1  |   | protocol  |   |                       |                 |             |   |   |                |     |   |   |    |               |          |          |  |    |    |    |    |
-| PE  | b      | JenBil001  |   |   |   |                       |                 |             |   |   |                |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | JenBil001  |   |   |   |                       |                 |             |   |   |                |     |   |   |    |               |          |          |  |    2059|    |    |    |
 | w   |        |   |   |   |   | JOhannes              | JOhanne        |             |   |   |                | lat |   |   |    |        431-01 | 1:protocol |          |  |2059|    |    |    |
 | w   |        |   |   |   |   | biltzemann            | bıltzemann      |             |   |   | flourish above | lat |   |   |    |        431-01 | 1:protocol |          |  |2059|    |    |    |
-| PE  | e      | JenBil001  |   |   |   |                       |                 |             |   |   |                |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | JenBil001  |   |   |   |                       |                 |             |   |   |                |     |   |   |    |               |          |          |  |    2059|    |    |    |
 | w   |        |   |   |   |   | sacre                 | ſacre           |             |   |   |                | lat |   |   |    |        431-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | theologie             | theologıe       |             |   |   |                | lat |   |   |    |        431-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | alme                  | alme            |             |   |   |                | lat |   |   |    |        431-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Vniuersitatis         | Vniuerſıtatı   |             |   |   |                | lat |   |   |    |        431-01 | 1:protocol |          |  |    |    |    |    |
 | lm  | 431-02 |   |   |   |   |                       |                 |             |   |   |                |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Studij                | Studí          |             |   |   |                | lat |   |   |    |        431-02 | 1:protocol |          |  |    |    |    |    |
-| PL  | b      |   |   |   |   |                       |                 |             |   |   |                |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |   |   |   |   |                       |                 |             |   |   |                |     |   |   |    |               |          |          |  |    |    |    1924|    |
 | w   |        |   |   |   |   | Grijpeßwolden(sis)    | Grıȷpeßwolden̅   |             |   |   |                | lat |   |   |    |        431-02 | 1:protocol |          |  |    |    |1924|    |
-| PL  | e      |   |   |   |   |                       |                 |             |   |   |                |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |   |   |   |   |                       |                 |             |   |   |                |     |   |   |    |               |          |          |  |    |    |    1924|    |
 | w   |        |   |   |   |   | Ordinarius            | Ordınaríű      |             |   |   |                | lat |   |   |    |        431-02 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | necno(n)              | necno̅           |             |   |   |                | lat |   |   |    |        431-02 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Co(m)missarius        | Co̅mıarıu      |             |   |   |                | lat |   |   |    |        431-02 | 1:protocol |          |  |    |    |    |    |
@@ -105,9 +105,9 @@
 | w   |        |   |   |   |   | Clare                 | Clare           |             |   |   |                | lat |   |   |    |        431-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Co(n)uentus           | Co̅uentu        |             |   |   |                | lat |   |   |    |        431-07 | 2:context |          |  |    |    |    |    |
 | lm  | 431-08 |   |   |   |   |                       |                 |             |   |   |                |     |   |   |    |               |          |          |  |    |    |    |    |
-| PL  | b      |   |   |   |   |                       |                 |             |   |   |                |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |   149380|   |   |   |                       |                 |             |   |   |                |     |   |   |    |               |          |          |  |    |    |    1925|    |
 | w   |        |   |   |   |   | Roskild(e)n(sis)      | Roskild̅        |             |   |   |                | lat |   |   |    |        431-08 | 2:context |          |  |    |    |1925|    |
-| PL  | e      |   |   |   |   |                       |                 |             |   |   |                |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |   149380|   |   |   |                       |                 |             |   |   |                |     |   |   |    |               |          |          |  |    |    |    1925|    |
 | w   |        |   |   |   |   | ac                    | ac              |             |   |   |                | lat |   |   |    |        431-08 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | per                   | peꝛ             |             |   |   |                | lat |   |   |    |        431-08 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | easd(em)              | eaſ            |             |   |   |                | lat |   |   |    |        431-08 | 2:context |          |  |    |    |    |    |
@@ -198,9 +198,9 @@
 | lm  | 431-17 |   |   |   |   |                       |                 |             |   |   |                |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | n(ost)rj              | nr̅ȷ             |             |   |   |                | lat |   |   |    |        431-17 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | pape                  | pape            |             |   |   |                | lat |   |   |    |        431-17 | 2:context |          |  |    |    |    |    |
-| PE  | b      | PavAle006  |   |   |   |                       |                 |             |   |   |                |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | PavAle006  |   |   |   |                       |                 |             |   |   |                |     |   |   |    |               |          |          |  |    2060|    |    |    |
 | w   |        |   |   |   |   | Alexandrj             | Alexandrȷ       |             |   |   |                | lat |   |   |    |        431-17 | 2:context |          |  |2060|    |    |    |
-| PE  | e      | PavAle006  |   |   |   |                       |                 |             |   |   |                |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | PavAle006  |   |   |   |                       |                 |             |   |   |                |     |   |   |    |               |          |          |  |    2060|    |    |    |
 | w   |        |   |   |   |   | moderni               | modernı         |             |   |   |                | lat |   |   |    |        431-17 | 2:context |          |  |    |    |    |    |
 | d  | e      | 2  |   |   |   |                       |                 |             |   |   |                |     |   |   |    |               |          |          |  |    |    |    |    |
 | d  | b      | 3  |   | eschatocol  |   |                       |                 |             |   |   |                |     |   |   |    |               |          |          |  |    |    |    |    |
@@ -219,9 +219,9 @@
 | w   |        |   |   |   |   | Co(m)missa-¦riatus    | Co̅mıa-¦rıatu  |             |   |   |                | lat |   |   |    | 431-18—431-19 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | co(m)munirj           | co̅munırȷ        |             |   |   |                | lat |   |   |    |        431-19 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Dat(is)               | Datꝭ            |             |   |   |                | lat |   |   |    |        431-19 | 3:eschatocol |          |  |    |    |    |    |
-| PL  | b      |   |   |   |   |                       |                 |             |   |   |                |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |   149195|   |   |   |                       |                 |             |   |   |                |     |   |   |    |               |          |          |  |    |    |    1926|    |
 | w   |        |   |   |   |   | Roskildie             | Roıldıe        |             |   |   |                | lat |   |   |    |        431-19 | 3:eschatocol |          |  |    |    |1926|    |
-| PL  | e      |   |   |   |   |                       |                 |             |   |   |                |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |   149195|   |   |   |                       |                 |             |   |   |                |     |   |   |    |               |          |          |  |    |    |    1926|    |
 | w   |        |   |   |   |   | anno                  | Anno            |             |   |   |                | lat |   |   |    |        431-19 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | M(illesimo)           | M                |             |   |   |                | lat |   |   |    |        431-19 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Qui(n)ge(n)tesimo     | Quı̅ge̅teſımo     |             |   |   |                | lat |   |   |    |        431-19 | 3:eschatocol |          |  |    |    |    |    |

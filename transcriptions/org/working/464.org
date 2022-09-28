@@ -52,9 +52,9 @@
 | w   |        | professor   | xNC |             |   | p(ro)fessores | ꝓfeſſore    |   |             |   |   | lat |   |   |   |        464-01 | 1:protocol |          |  |    |    |    |    |
 | lm  | 464-02 |             |     |             |   |               |              |   |             |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | uti         | xAP | udi         |   | vtj           | vtj          |   |             |   |   | dan |   |   |   |        464-02 | 1:protocol |          |  |    |    |    |    |
-| PL  |      b |             |     |             |   |               |              |   |             |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  |      b |             131422|     |             |   |               |              |   |             |   |   |     |   |   |   |               |          |          |  |    |    |    2178|    |
 | w   |        |             | xNP | Københavns  |   | køb(e)nhaffns | købn̅haffn   |   |             |   |   | dan |   |   |   |        464-02 | 1:protocol |          |  |    |    |2178|    |
-| PL  |      e |             |     |             |   |               |              |   |             |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  |      e |             131422|     |             |   |               |              |   |             |   |   |     |   |   |   |               |          |          |  |    |    |    2178|    |
 | w   |        | universitet | xNC | universitet |   | Vniuersitett  | Vniŭerſitett |   |             |   |   | dan |   |   |   |        464-02 | 1:protocol |          |  |    |    |    |    |
 | p   |        |             |     |             |   | ,             | ,            |   |             |   |   | dan |   |   |   |        464-02 | 1:protocol |          |  |    |    |    |    |
 | w   |        | kænne       | xVB | kendes      |   | kend(is)      | ken         |   |             |   |   | dan |   |   |   |        464-02 | 1:protocol |          |  |    |    |    |    |
@@ -115,10 +115,10 @@
 | w   |        | ok          | xCC | og          |   | oc            | oc           |   |             |   |   | dan |   |   |   |        464-08 | 2:context |          |  |    |    |    |    |
 | w   |        | vælbyrthigh | xAJ | velbyrdig   |   | velbyrdig     | velbyrdig    |   |             |   |   | dan |   |   |   |        464-08 | 2:context |          |  |    |    |    |    |
 | w   |        | man         | xNC | mand        |   | Mandt         | Mandt        |   |             |   |   | dan |   |   |   |        464-08 | 2:context |          |  |    |    |    |    |
-| PE  |      b | LagBec001   |     |             |   |               |              |   |             |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  |      b | LagBec001   |     |             |   |               |              |   |             |   |   |     |   |   |   |               |          |          |  |    2337|    |    |    |
 | w   |        |             | xNP | Lage        |   | Lauge         | Laŭge        |   |             |   |   | dan |   |   |   |        464-08 | 2:context |          |  |2337|    |    |    |
 | w   |        |             | xNP | Beck        |   | Beck          | Beck         |   |             |   |   | dan |   |   |   |        464-08 | 2:context |          |  |2337|    |    |    |
-| PE  |      e | LagBec001   |     |             |   |               |              |   |             |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  |      e | LagBec001   |     |             |   |               |              |   |             |   |   |     |   |   |   |               |          |          |  |    2337|    |    |    |
 | w   |        | kanik       | xNC | kannik      |   | Canick        | Canick       |   |             |   |   | dan |   |   |   |        464-08 | 2:context |          |  |    |    |    |    |
 | w   |        | uti         | xAP | udi         |   | vtj           | vtj          |   |             |   |   | dan |   |   |   |        464-08 | 2:context |          |  |    |    |    |    |
 | lm  | 464-09 |             |     |             |   |               |              |   |             |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -210,10 +210,10 @@
 | w   |        | skule       | xVB | skal        |   | skall         | ſkall        |   |             |   |   | dan |   |   |   |        464-16 | 2:context |          |  |    |    |    |    |
 | lm  | 464-17 |             |     |             |   |               |              |   |             |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | fornævnd    | xAJ | fornævnte   |   | for(nefnde)   | forᷠͤ          |   |             |   |   | dan |   |   |   |        464-17 | 2:context |          |  |    |    |    |    |
-| PE  |      b | LagBec001   |     |             |   |               |              |   |             |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  |      b | LagBec001   |     |             |   |               |              |   |             |   |   |     |   |   |   |               |          |          |  |    2338|    |    |    |
 | w   |        |             | xNP | Lage        |   | Lauge         | Laŭge        |   |             |   |   | dan |   |   |   |        464-17 | 2:context |          |  |2338|    |    |    |
 | w   |        |             | xNP | Beck        |   | Beck          | Beck         |   |             |   |   | dan |   |   |   |        464-17 | 2:context |          |  |2338|    |    |    |
-| PE  |      e | LagBec001   |     |             |   |               |              |   |             |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  |      e | LagBec001   |     |             |   |               |              |   |             |   |   |     |   |   |   |               |          |          |  |    2338|    |    |    |
 | w   |        | æller       | xCC | eller       |   | Eller         | Eller        |   |             |   |   | dan |   |   |   |        464-17 | 2:context |          |  |    |    |    |    |
 | w   |        | han         | xPE | hans        |   | hans          | han         |   |             |   |   | dan |   |   |   |        464-17 | 2:context |          |  |    |    |    |    |
 | w   |        | arving      | xNC | arvinge     |   | Arff(inge)    | Arffꝭͤ        |   |             |   |   | dan |   |   |   |        464-17 | 2:context |          |  |    |    |    |    |

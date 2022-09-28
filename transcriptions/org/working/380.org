@@ -44,31 +44,31 @@
 | lm  | 380-01 |               |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | d   | b      | 1             |     | protocol     |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | vi            | xPE | vi           |   | Wy                 | Wy                 |   |   |   |   | dan |   |   |    | 380-01 | 1:protocol |          |  |    |    |    |    |
-| PE  | b      | RexChr001     |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | b      | RexChr001     |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    1615|    |    |    |
 | w   |        |               | xNP | Christian    |   | Cristiern          | Crıſtıeꝛn          |   |   |   |   | dan |   |   |    | 380-01 | 1:protocol |          |  |1615|    |    |    |
-| PE  | e      | RexChr001     |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | e      | RexChr001     |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    1615|    |    |    |
 | w   |        | mæth          | xAP | med          |   | meth               | meth               |   |   |   |   | dan |   |   |    | 380-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | guth          | xNC | Guds         |   | gudhs              | gudh              |   |   |   |   | dan |   |   |    | 380-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | nathe         | xNC | nåde         |   | nathe              | nathe              |   |   |   |   | dan |   |   |    | 380-01 | 1:protocol |          |  |    |    |    |    |
-| PL  | b      |               |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | b      |               128854|     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1572|    |
 | w   |        |               | xNP | Danmarks     |   | Da(n)marks         | Da̅mark            |   |   |   |   | dan |   |   |    | 380-01 | 1:protocol |          |  |    |    |1572|    |
-| PL  | e      |               |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| PL  | b      |               |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |               128854|     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1572|    |
+| PL  | b      |               |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1573|    |
 | w   |        |               | xNP | Norges       |   | Norghes            | Norghe            |   |   |   |   | dan |   |   |    | 380-01 | 1:protocol |          |  |    |    |1573|    |
-| PL  | e      |               |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |               |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1573|    |
 | w   |        | vind          | xNC | vendes       |   | Wendes             | Wende             |   |   |   |   | dan |   |   |    | 380-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | ok            | xCC | og           |   | oc                 | oc                 |   |   |   |   | dan |   |   |    | 380-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | gote          | xNC | gotes        |   | godes              | gode              |   |   |   |   | dan |   |   |    | 380-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | kunung        | xNC | konge        |   | koning             | koning             |   |   |   |   | dan |   |   |    | 380-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | greve         | xNC | greve        |   | Greue              | Greue              |   |   |   |   | dan |   |   |    | 380-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i             | xAP | i            |   | i                  | i                  |   |   |   |   | dan |   |   |    | 380-01 | 1:protocol |          |  |    |    |    |    |
-| PL  | b      |               |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | b      |               |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1574|    |
 | w   |        |               | xNP | Oldenburg    |   | Oldenborgh         | Oldenborgh         |   |   |   |   | dan |   |   |    | 380-01 | 1:protocol |          |  |    |    |1574|    |
-| PL  | e      |               |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |               |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1574|    |
 | w   |        | ok            | xCC | og           |   | oc                 | oc                 |   |   |   |   | dan |   |   |    | 380-01 | 1:protocol |          |  |    |    |    |    |
-| PL  | b      |               |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | b      |               |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1575|    |
 | w   |        |               | xNP | Delmenhorst  |   | Delmenhorst        | Delmenhoꝛſt        |   |   |   |   | dan |   |   |    | 380-01 | 1:protocol |          |  |    |    |1575|    |
-| PL  | e      |               |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |               |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1575|    |
 | lm  | 380-02 |               |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | gøre          | xVB | gøre         |   | gøre               | gøꝛe               |   |   |   |   | dan |   |   |    | 380-02 | 1:protocol |          |  |    |    |    |    |
 | w   |        | vitherlik     | xAJ | vitterligt   |   | widerlicht         | wıderlıcht         |   |   |   |   | dan |   |   |    | 380-02 | 1:protocol |          |  |    |    |    |    |
@@ -111,9 +111,9 @@
 | w   |        |               | xNP | Clara        |   | Clare              | Claꝛe              |   |   |   |   | dan |   |   |    | 380-04 | 2:context |          |  |    |    |    |    |
 | w   |        | kloster       | xNC | kloster      |   | closter            | cloſteꝛ            |   |   |   |   | dan |   |   |    | 380-04 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i            |   | i                  | i                  |   |   |   |   | dan |   |   |    | 380-04 | 2:context |          |  |    |    |    |    |
-| PL  | b      |               |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | b      |               149380|     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1576|    |
 | w   |        |               | xNP | Roskilde     |   | Roskilde           | Roſkılde           |   |   |   |   | dan |   |   |    | 380-04 | 2:context |          |  |    |    |1576|    |
-| PL  | e      |               |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |               149380|     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1576|    |
 | w   |        | ok            | xCC | og           |   | oc                 | oc                 |   |   |   |   | dan |   |   |    | 380-04 | 2:context |          |  |    |    |    |    |
 | w   |        | al            | xAJ | alt          |   | alt                | alt                |   |   |   |   | dan |   |   |    | 380-04 | 2:context |          |  |    |    |    |    |
 | w   |        | thæn          | xPE | deres        |   | theris             | theri             |   |   |   |   | dan |   |   |    | 380-04 | 2:context |          |  |    |    |    |    |
@@ -189,9 +189,9 @@
 | w   |        |               | lat |              |   | Datum              | Datu              |   |   |   |   | lat |   |   |    | 380-08 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |               | lat |              |   | castro             | caſtro             |   |   |   |   | lat |   |   |    | 380-08 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |               | lat |              |   | n(ost)ro           | nr̅o                |   |   |   |   | lat |   |   |    | 380-08 | 3:eschatocol |          |  |    |    |    |    |
-| PL  | b      |               |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | b      |               131422|     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1577|    |
 | w   |        |               | lat |              |   | haffnen(sis)       | haffnen̅            |   |   |   |   | lat |   |   |    | 380-08 | 3:eschatocol |          |  |    |    |1577|    |
-| PL  | e      |               |     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |               131422|     |              |   |                    |                    |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1577|    |
 | w   |        |               | lat |              |   | fer(ia)            | ferꝭ               |   |   |   |   | lat |   |   |    | 380-08 | 3:eschatocol |          |  |    |    |    |    |
 | n   |        |               | lat |              |   | 2ͣ                  | 2ͣ                  |   |   |   |   | lat |   |   |    | 380-08 | 3:eschatocol |          |  |    |    |    |    |
 | p   |        |               |     |              |   | .                  | .                  |   |   |   |   | lat |   |   |    | 380-08 | 3:eschatocol |          |  |    |    |    |    |

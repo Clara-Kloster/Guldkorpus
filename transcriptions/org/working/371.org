@@ -52,10 +52,10 @@ AM 187 8vo
 | w   |        | høre      | xVB | høre       |   | høre            | høre       |   |   |   |   | dan |   |   |    | 371-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | helse     | xVB | hilser     |   | hels(er)        | hel       |   |   |   |   | dan |   |   |    | 371-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | jak       | xPE | jeg        |   | jæk             | ȷæk        |   |   |   |   | dan |   |   |    | 371-01 | 1:protocol |          |  |    |    |    |    |
-| PE  | b      | PerBra001 |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | b      | PerBra001 |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |          |          |  |    1560|    |    |    |
 | w   |        |           | xNP | Peder      |   | pær             | pær        |   |   |   |   | dan |   |   |    | 371-01 | 1:protocol |          |  |1560|    |    |    |
 | w   |        |           | xNP | Brahe      |   | brathe          | bꝛathe     |   |   |   |   | dan |   |   |    | 371-01 | 1:protocol |          |  |1560|    |    |    |
-| PE  | e      | PerBra001 |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | e      | PerBra001 |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |          |          |  |    1560|    |    |    |
 | w   |        | af+vapn   | xNC | åvåben     |   | awapn           | awap      |   |   |   |   | dan |   |   |    | 371-01 | 1:protocol |          |  |    |    |    |    |
 | d   | e      | 1         |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | d   | b      | 2         |     | context    |   |                 |            |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
@@ -82,9 +82,9 @@ AM 187 8vo
 | w   |        |           | xNP | Clara      |   | ⸌clar(e)⸍       | ⸌claꝛ⸍    |   |   |   |   | dan |   |   |    | 371-03 | 2:context |          |  |    |    |    |    |
 | w   |        | kloster   | xNC | kloster    |   | clost(er)       | cloſt     |   |   |   |   | dan |   |   |    | 371-03 | 2:context |          |  |    |    |    |    |
 | w   |        | i         | xAP | i          |   | j               | ȷ          |   |   |   |   | dan |   |   |    | 371-03 | 2:context |          |  |    |    |    |    |
-| PL  | b      |           |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | b      |           149380|     |            |   |                 |            |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1529|    |
 | w   |        |           | xNP | Roskilde   |   | Rosk(ilde)      | Roſkꝭ      |   |   |   |   | dan |   |   |    | 371-03 | 2:context |          |  |    |    |1529|    |
-| PL  | e      |           |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |           149380|     |            |   |                 |            |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1529|    |
 | p   |        |           |     |            |   | /               | /          |   |   |   |   | dan |   |   |    | 371-03 | 2:context |          |  |    |    |    |    |
 | w   |        | sum       | xRP | som        |   | som             | ſo        |   |   |   |   | dan |   |   |    | 371-03 | 2:context |          |  |    |    |    |    |
 | w   |        | være      | xVB | er         |   | ær              | ær         |   |   |   |   | dan |   |   |    | 371-03 | 2:context |          |  |    |    |    |    |
@@ -139,36 +139,36 @@ AM 187 8vo
 | w   |        |           | lat |            |   | p(at)ris        | pꝛ̅ı       |   |   |   |   | lat |   |   |    | 371-06 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |           | lat |            |   | (et)            |           |   |   |   |   | lat |   |   |    | 371-06 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |           | lat |            |   | d(omi)ni        | dn̅ı        |   |   |   |   | lat |   |   |    | 371-06 | 3:eschatocol |          |  |    |    |    |    |
-| PE  | b      | JenPed007 |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | b      | JenPed007 |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |          |          |  |    1561|    |    |    |
 | w   |        |           | lat |            |   | ioh(ann)is      | ıoh̅ı      |   |   |   |   | lat |   |   |    | 371-06 | 3:eschatocol |          |  |1561|    |    |    |
-| PE  | e      | JenPed007 |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | e      | JenPed007 |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |          |          |  |    1561|    |    |    |
 | lm  | 371-07 |           |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | b |    149195|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1530|    |
 | w   |        |           | lat |            |   | Rosk(ildensis)  | Roſkꝭ      |   |   |   |   | lat |   |   |    | 371-07 | 3:eschatocol |          |  |    |    |1530|    |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | e |    149195|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1530|    |
 | w   |        |           | lat |            |   | ep(iscop)i      | epı̅        |   |   |   |   | lat |   |   |    | 371-07 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |           | lat |            |   | (et)            |           |   |   |   |   | lat |   |   |    | 371-07 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |           | lat |            |   | d(omi)ni        | dn̅ı        |   |   |   |   | lat |   |   |    | 371-07 | 3:eschatocol |          |  |    |    |    |    |
-| PE  | b      | OluDaa001 |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | b      | OluDaa001 |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |          |          |  |    1562|    |    |    |
 | w   |        |           | lat |            |   | olæf            | olæf       |   |   |   |   | lat |   |   |    | 371-07 | 3:eschatocol |          |  |1562|    |    |    |
 | w   |        |           | lat |            |   | da              | da         |   |   |   |   | lat |   |   |    | 371-07 | 3:eschatocol |          |  |1562|    |    |    |
-| PE  | e      | OluDaa001 |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | e      | OluDaa001 |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |          |          |  |    1562|    |    |    |
 | w   |        |           | lat |            |   | p(re)positi     | ̅oſıtí     |   |   |   |   | lat |   |   |    | 371-07 | 3:eschatocol |          |  |    |    |    |    |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | b |    149195|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1531|    |
 | w   |        |           | lat |            |   | Rosk(ildensis)  | Roſkꝭ      |   |   |   |   | lat |   |   |    | 371-07 | 3:eschatocol |          |  |    |    |1531|    |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | e |    149195|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1531|    |
 | w   |        |           | lat |            |   | (et)            |           |   |   |   |   | lat |   |   |    | 371-07 | 3:eschatocol |          |  |    |    |    |    |
-| PE  | b      | BonJep001 |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | b      | BonJep001 |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |          |          |  |    1563|    |    |    |
 | w   |        |           | lat |            |   | bonde           | bonde      |   |   |   |   | lat |   |   |    | 371-07 | 3:eschatocol |          |  |1563|    |    |    |
 | w   |        |           | lat |            |   | ieps(øn)        | ıep       |   |   |   |   | lat |   |   |    | 371-07 | 3:eschatocol |          |  |1563|    |    |    |
-| PE  | e      | BonJep001 |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | e      | BonJep001 |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |          |          |  |    1563|    |    |    |
 | w   |        |           | lat |            |   | armigeri        | armıgerí   |   |   |   |   | lat |   |   |    | 371-07 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |           |     |            |   |                 |            |   |   |   |   | lat |   |   |    | 371-07 |          |          |  |    |    |    |    |
 | lm  | 371-08 |           |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        |           | lat |            |   | Datu(m)         | Datu̅       |   |   |   |   | lat |   |   |    | 371-08 | 3:eschatocol |          |  |    |    |    |    |
-| PL  | b      |           |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | b      |           149195|     |            |   |                 |            |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1532|    |
 | w   |        |           | lat |            |   | Rosk(ildis)     | Roſkꝭ      |   |   |   |   | lat |   |   |    | 371-08 | 3:eschatocol |          |  |    |    |1532|    |
-| PL  | e      |           |     |            |   |                 |            |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |           149195|     |            |   |                 |            |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1532|    |
 | w   |        |           | lat |            |   | an(n)o          | an̅o        |   |   |   |   | lat |   |   |    | 371-08 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |           | lat |            |   | d(omi)ni        | dn̅ı        |   |   |   |   | lat |   |   |    | 371-08 | 3:eschatocol |          |  |    |    |    |    |
 | n   |        |           | lat |            |   | M.              | .         |   |   |   |   | lat |   |   |    | 371-08 | 3:eschatocol |          |  |    |    |    |    |

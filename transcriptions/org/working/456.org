@@ -44,10 +44,10 @@
 | lm  | 456-01 |             |     |            |   |               |               |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | d   | b      | 1           |     | protocol   |   |               |               |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | jak         | xPE | jeg        |   | Jeg           | Jeg           |   |   |   |   | dan |   |   |   | 456-01 | 1:protocol |          |  |    |    |    |    |
-| PE  |      b | OluMik001   |     |            |   |               |               |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
+| PE  |      b | OluMik001   |     |            |   |               |               |   |   |   |   |     |   |   |   |        |          |          |  |    2230|    |    |    |
 | w   |        |             | xNP | Oluf       |   | oluff         | oluff         |   |   |   |   | dan |   |   |   | 456-01 | 1:protocol |          |  |2230|    |    |    |
 | w   |        |             | xNP | Mikkelsen  |   | meckælss(øn)  | meckælſ      |   |   |   |   | dan |   |   |   | 456-01 | 1:protocol |          |  |2230|    |    |    |
-| PE  |      e | OluMik001   |     |            |   |               |               |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
+| PE  |      e | OluMik001   |     |            |   |               |               |   |   |   |   |     |   |   |   |        |          |          |  |    2230|    |    |    |
 | w   |        | kænne       | xVB | kendes     |   | kiennd(is)    | kienn        |   |   |   |   | dan |   |   |   | 456-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | jak         | xPE | jeg        |   | Ieg           | Ieg           |   |   |   |   | dan |   |   |   | 456-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | jak         | xPE | mig        |   | meg           | meg           |   |   |   |   | dan |   |   |   | 456-01 | 1:protocol |          |  |    |    |    |    |
@@ -68,16 +68,16 @@
 | w   |        | jungfrue    | xNC | jomfruer   |   | Iomff(rve)r   | Iomffͮr        |   |   |   |   | dan |   |   |   | 456-02 | 2:context |          |  |    |    |    |    |
 | lm  | 456-03 |             |     |            |   |               |               |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | syster      | xNC | søster     |   | søster        | ſøſter        |   |   |   |   | dan |   |   |   | 456-03 | 2:context |          |  |    |    |    |    |
-| PE  |      b | BodBos002   |     |            |   |               |               |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
+| PE  |      b | BodBos002   |     |            |   |               |               |   |   |   |   |     |   |   |   |        |          |          |  |    2231|    |    |    |
 | w   |        |             | xNP | Bodil      |   | bovll         | bovll         |   |   |   |   | dan |   |   |   | 456-03 | 2:context |          |  |2231|    |    |    |
 | w   |        |             | xNP | Bosdatter  |   | bosdott(er)   | boſdott      |   |   |   |   | dan |   |   |   | 456-03 | 2:context |          |  |2231|    |    |    |
-| PE  |      e | BodBos002   |     |            |   |               |               |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
+| PE  |      e | BodBos002   |     |            |   |               |               |   |   |   |   |     |   |   |   |        |          |          |  |    2231|    |    |    |
 | w   |        | ok          | xCC | og         |   | och           | och           |   |   |   |   | dan |   |   |   | 456-03 | 2:context |          |  |    |    |    |    |
 | w   |        | syster      | xNC | søster     |   | Søster        | øſter        |   |   |   |   | dan |   |   |   | 456-03 | 2:context |          |  |    |    |    |    |
-| PE  |      b | AnnBos001   |     |            |   |               |               |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
+| PE  |      b | AnnBos001   |     |            |   |               |               |   |   |   |   |     |   |   |   |        |          |          |  |    2232|    |    |    |
 | w   |        |             | xNP | Anne       |   | Ann(n)e       | Ann̅e          |   |   |   |   | dan |   |   |   | 456-03 | 2:context |          |  |2232|    |    |    |
 | w   |        |             | xNP | Bosdatter  |   | bosdatt(er)   | boſdatt      |   |   |   |   | dan |   |   |   | 456-03 | 2:context |          |  |2232|    |    |    |
-| PE  |      e | AnnBos001   |     |            |   |               |               |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
+| PE  |      e | AnnBos001   |     |            |   |               |               |   |   |   |   |     |   |   |   |        |          |          |  |    2232|    |    |    |
 | w   |        | hva         | xPI | hvis       |   | hwis          | hı          |   |   |   |   | dan |   |   |   | 456-03 | 2:context |          |  |    |    |    |    |
 | lm  | 456-04 |             |     |            |   |               |               |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | sjal        | xNC | sjæl       |   | Siæll         | ıæll         |   |   |   |   | dan |   |   |   | 456-04 | 2:context |          |  |    |    |    |    |
@@ -92,9 +92,9 @@
 | w   |        |             | xNP | Clara      |   | Cla(er)       | Cla          |   |   |   |   | dan |   |   |   | 456-05 | 2:context |          |  |    |    |    |    |
 | w   |        | kloster     | xNC | kloster    |   | kloster       | kloſter       |   |   |   |   | dan |   |   |   | 456-05 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i          |   | i             | ı             |   |   |   |   | dan |   |   |   | 456-05 | 2:context |          |  |    |    |    |    |
-| PL  |      b |             |     |            |   |               |               |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
+| PL  |      b |             149380|     |            |   |               |               |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    2076|    |
 | w   |        |             | xNP | Roskilde   |   | Roskylle      | Roſkylle      |   |   |   |   | dan |   |   |   | 456-05 | 2:context |          |  |    |    |2076|    |
-| PL  |      e |             |     |            |   |               |               |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
+| PL  |      e |             149380|     |            |   |               |               |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    2076|    |
 | w   |        | thakke      | xVB | takkendes  |   | Tackynnd(is)  | Tackynn      |   |   |   |   | dan |   |   |   | 456-05 | 2:context |          |  |    |    |    |    |
 | w   |        | thæn        | xPE | dem        |   | thønom(m)     | thønom̅        |   |   |   |   | dan |   |   |   | 456-05 | 2:context |          |  |    |    |    |    |
 | w   |        | al          | xAJ | alle       |   | alle          | alle          |   |   |   |   | dan |   |   |   | 456-05 | 2:context |          |  |    |    |    |    |
@@ -137,10 +137,10 @@
 | w   |        | handel      | xNC | handel     |   | handell       | handell       |   |   |   |   | dan |   |   |   | 456-09 | 2:context |          |  |    |    |    |    |
 | w   |        | sum         | xRP | som        |   | som           | ſom           |   |   |   |   | dan |   |   |   | 456-09 | 2:context |          |  |    |    |    |    |
 | w   |        | syster      | xNC | søster     |   | søster        | ſøſter        |   |   |   |   | dan |   |   |   | 456-09 | 2:context |          |  |    |    |    |    |
-| PE  |      b | BodBos002   |     |            |   |               |               |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
+| PE  |      b | BodBos002   |     |            |   |               |               |   |   |   |   |     |   |   |   |        |          |          |  |    2233|    |    |    |
 | w   |        |             | xNP | Bodil      |   | bol           | bol           |   |   |   |   | dan |   |   |   | 456-09 | 2:context |          |  |2233|    |    |    |
 | w   |        |             | xNP | Bosdatter  |   | bosdatt(er)   | boſdatt      |   |   |   |   | dan |   |   |   | 456-09 | 2:context |          |  |2233|    |    |    |
-| PE  |      e | BodBos002   |     |            |   |               |               |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
+| PE  |      e | BodBos002   |     |            |   |               |               |   |   |   |   |     |   |   |   |        |          |          |  |    2233|    |    |    |
 | w   |        | ok          | xCC | og         |   | och           | och           |   |   |   |   | dan |   |   |   | 456-09 | 2:context |          |  |    |    |    |    |
 | lm  | 456-10 |             |     |            |   |               |               |   |   |   |   |     |   |   |   |        |          |          |  |    |    |    |    |
 | w   |        | jak         | xPE | jeg        |   | ieg           | ıeg           |   |   |   |   | dan |   |   |   | 456-10 | 2:context |          |  |    |    |    |    |

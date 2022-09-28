@@ -53,10 +53,10 @@
 | w   |        | helse       | xVB | hilse       |   | helse            | helſe       |   |   |   |   | dan |   |   |    | 372-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | vi          | xPE | vi          |   | wy               | wy          |   |   |   |   | dan |   |   |    | 372-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | syster      | xNC | søster      |   | søst(er)         | ſøſt       |   |   |   |   | dan |   |   |    | 372-01 | 1:protocol |          |  |    |    |    |    |
-| PE  |      b | CecBos001   |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      b | CecBos001   |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    1564|    |    |    |
 | w   |        |             | xNP | Cecilie     |   | citze            | cıtze       |   |   |   |   | dan |   |   |    | 372-01 | 1:protocol |          |  |1564|    |    |    |
 | w   |        |             | xNP | Bodatter    |   | bodott(er)       | bodott     |   |   |   |   | dan |   |   |    | 372-01 | 1:protocol |          |  |1564|    |    |    |
-| PE  |      e | CecBos001   |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      e | CecBos001   |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    1564|    |    |    |
 | w   |        | abbetisse   | xNC | abetisse    |   | abb(a)tissa      | ab̅btiſſa    |   |   |   |   | lat |   |   |    | 372-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og          |   | oc               | oc          |   |   |   |   | dan |   |   |    | 372-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | al          | xAJ | alt         |   | alt              | alt         |   |   |   |   | dan |   |   |    | 372-01 | 1:protocol |          |  |    |    |    |    |
@@ -67,9 +67,9 @@
 | w   |        | kloster     | xNC | kloster     |   | clost(er)        | cloſt      |   |   |   |   | dan |   |   |    | 372-01 | 1:protocol |          |  |    |    |    |    |
 | lm  | 372-02 |             |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | i           | xAP | i           |   | j                | ȷ           |   |   |   |   | dan |   |   |    | 372-02 | 1:protocol |          |  |    |    |    |    |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | b |    149380|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1533|    |
 | w   |        |             | xNP | Roskilde    |   | Rosk(ilde)       | Roſkꝭ       |   |   |   |   | dan |   |   |    | 372-02 | 1:protocol |          |  |    |    |1533|    |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | e |    149380|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1533|    |
 | w   |        | ævinnelik   | xAJ | evindelige  |   | Ewy(n)nelighe    | Ewy̅nelıghe  |   |   |   |   | dan |   |   |    | 372-02 | 1:protocol |          |  |    |    |    |    |
 | w   |        | mæth        | xAP | med         |   | meth             | meth        |   |   |   |   | dan |   |   |    | 372-02 | 1:protocol |          |  |    |    |    |    |
 | w   |        | var         | xDP | vor         |   | wor              | wor         |   |   |   |   | dan |   |   |    | 372-02 | 1:protocol |          |  |    |    |    |    |
@@ -92,17 +92,17 @@
 | lm  | 372-03 |             |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | thænne      | xDD | denne       |   | the(n)ne         | the̅ne       |   |   |   |   | dan |   |   |    | 372-03 | 2:context |          |  |    |    |    |    |
 | w   |        | brevvisere  | xNC | brevviser   |   | b(re)ffuise(r)   | b̅ffuiſe    |   |   |   |   | dan |   |   |    | 372-03 | 2:context |          |  |    |    |    |    |
-| PE  |      b | MikLau001   |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      b | MikLau001   |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    1565|    |    |    |
 | w   |        |             | xNP | Mikkel      |   | mickell          | mickell     |   |   |   |   | dan |   |   |    | 372-03 | 2:context |          |  |1565|    |    |    |
 | w   |        |             | xNP | Laurensen   |   | laur(e)ntzss(øn) | laurntzſ  |   |   |   |   | dan |   |   |    | 372-03 | 2:context |          |  |1565|    |    |    |
-| PE  |      e | MikLau001   |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      e | MikLau001   |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    1565|    |    |    |
 | w   |        | en          | xNA | en          |   | een              | ee         |   |   |   |   | dan |   |   |    | 372-03 | 2:context |          |  |    |    |    |    |
 | w   |        | var         | xDP | vor         |   | wor              | wor         |   |   |   |   | dan |   |   |    | 372-03 | 2:context |          |  |    |    |    |    |
 | w   |        | øthegarth   | xNC | ødegård     |   | øthe garth       | øthe garth  |   |   |   |   | dan |   |   |    | 372-03 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i           |   | j                | ȷ           |   |   |   |   | dan |   |   |    | 372-03 | 2:context |          |  |    |    |    |    |
-| PL  |      b |             |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  |      b |             127943|     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1534|    |
 | w   |        |             | xNP | Gæshøj      |   | gæshøw           | gæſhøw      |   |   |   |   | dan |   |   |    | 372-03 | 2:context |          |  |    |    |1534|    |
-| PL  |      e |             |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  |      e |             127943|     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1534|    |
 | w   |        | upa         | xAP | på          |   | pa               | pa          |   |   |   |   | dan |   |   |    | 372-03 | 2:context |          |  |    |    |    |    |
 | w   |        | tve         | xNA | to          |   | tw               | tw          |   |   |   |   | dan |   |   |    | 372-03 | 2:context |          |  |    |    |    |    |
 | w   |        | pund        | xNC | pund        |   | p(und)           | pͩ           |   |   |   |   | dan |   |   |    | 372-03 | 2:context |          |  |    |    |    |    |
@@ -291,21 +291,21 @@
 | w   |        |             | lat |             |   | p(ro)uisor(is)   | ꝓuiſorꝭ     |   |   |   |   | lat |   |   |    | 372-13 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |             | lat |             |   | n(ost)ri         | nr̅ı         |   |   |   |   | lat |   |   |    | 372-13 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |             | lat |             |   | d(omi)nj         | dn̅ȷ         |   |   |   |   | lat |   |   |    | 372-13 | 3:eschatocol |          |  |    |    |    |    |
-| PE  |      b | OluBos001   |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      b | OluBos001   |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    1566|    |    |    |
 | w   |        |             | lat |             |   | olauj            | olauj       |   |   |   |   | lat |   |   |    | 372-13 | 3:eschatocol |          |  |1566|    |    |    |
 | w   |        |             | lat |             |   | boecij           | boecij      |   |   |   |   | lat |   |   |    | 372-13 | 3:eschatocol |          |  |1566|    |    |    |
-| PE  |      e | OluBos001   |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      e | OluBos001   |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    1566|    |    |    |
 | w   |        |             | lat |             |   | ca(no)n(ici)     | ca̅ꝰ        |   |   |   |   | lat |   |   |    | 372-13 | 3:eschatocol |          |  |    |    |    |    |
-| PL  |      b |             |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  |      b |             149195|     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1535|    |
 | w   |        |             | lat |             |   | Rosk(ildensis)   | Roſkꝭ       |   |   |   |   | lat |   |   |    | 372-13 | 3:eschatocol |          |  |    |    |1535|    |
-| PL  |      e |             |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  |      e |             149195|     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1535|    |
 | w   |        |             | lat |             |   | p(rese)ntib(us)  | pn̅tıb      |   |   |   |   | lat |   |   |    | 372-13 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |             | lat |             |   | e(st)            | e̅           |   |   |   |   | lat |   |   |    | 372-13 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |             | lat |             |   | appe(n)s(um)     | ae̅        |   |   |   |   | lat |   |   |    | 372-13 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |             | lat |             |   | Dat(um)          | Dat        |   |   |   |   | lat |   |   |    | 372-13 | 3:eschatocol |          |  |    |    |    |    |
-| PL  |      b |             |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  |      b |             149195|     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1536|    |
 | w   |        |             | lat |             |   | Rosk(ildis)      | Roſkꝭ       |   |   |   |   | lat |   |   |    | 372-13 | 3:eschatocol |          |  |    |    |1536|    |
-| PL  |      e |             |     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  |      e |             149195|     |             |   |                  |             |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    1536|    |
 | w   |        |             | lat |             |   | a(n)no           | a̅no         |   |   |   |   | lat |   |   |    | 372-13 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |             | lat |             |   | do(mini)         | do̅          |   |   |   |   | lat |   |   |    | 372-13 | 3:eschatocol |          |  |    |    |    |    |
 | n   |        |             | lat |             |   | mcd°             | cd°        |   |   |   |   | lat |   |   |    | 372-13 | 3:eschatocol |          |  |    |    |    |    |

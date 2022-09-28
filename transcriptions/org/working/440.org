@@ -44,13 +44,13 @@
 | lm  | 440-01 |               |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | d   | b      | 1             |     | protocol      |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | jak           | xPE | jeg           |   | Jegh                     | Jegh                  |   |   |   |   | dan |   |   |   |        440-01 | 1:protocol |          |  |    |    |    |    |
-| PE  | b      | ElsGri001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | b      | ElsGri001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    2098|    |    |    |
 | w   |        |               | xNP | Elsebe        |   | ælsebæ                   | ælſebæ                |   |   |   |   | dan |   |   |   |        440-01 | 1:protocol |          |  |2098|    |    |    |
-| PE  | e      | ElsGri001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| PE  | b      | OluJør001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | e      | ElsGri001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    2098|    |    |    |
+| PE  | b      | OluJør001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    2099|    |    |    |
 | w   |        |               | xNP | Oluf          |   | oluff                    | oluff                 |   |   |   |   | dan |   |   |   |        440-01 | 1:protocol |          |  |2099|    |    |    |
 | w   |        |               | xNP | Jørgensens    |   | iørgh(e)nss(øns)         | ıøꝛghn̅ſ              |   |   |   |   | dan |   |   |   |        440-01 | 1:protocol |          |  |2099|    |    |    |
-| PE  | e      | OluJør001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | e      | OluJør001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    2099|    |    |    |
 | w   |        | æfterliverske | xNC | efterleverske |   | effth(e)rleffw(er)skæ    | effthꝛleffwſkæ      |   |   |   |   | dan |   |   |   |        440-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | forstanderske | xNC | forstanderske |   | forstandh(e)rskæ         | foꝛſtandhꝛſkæ        |   |   |   |   | dan |   |   |   |        440-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | til           | xAP | til           |   | till                     | tıll                  |   |   |   |   | dan |   |   |   |        440-01 | 1:protocol |          |  |    |    |    |    |
@@ -59,9 +59,9 @@
 | w   |        | kloster       | xNC | kloster       |   | closth(e)r               | cloſthꝛ              |   |   |   |   | dan |   |   |   |        440-01 | 1:protocol |          |  |    |    |    |    |
 | lm  | 440-02 |               |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | uti           | xAP | udi           |   | wdi                      | wdi                   |   |   |   |   | dan |   |   |   |        440-02 | 1:protocol |          |  |    |    |    |    |
-| PL  | b      |               |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  | b      |               149380|     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    1961|    |
 | w   |        |               | xNP | Roskilde      |   | Roskildhe                | Roſkıldhe             |   |   |   |   | dan |   |   |   |        440-02 | 1:protocol |          |  |    |    |1961|    |
-| PL  | e      |               |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  | e      |               149380|     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    1961|    |
 | w   |        | ok            | xCC | og            |   | Oc                       | Oc                    |   |   |   |   | dan |   |   |   |        440-02 | 1:protocol |          |  |    |    |    |    |
 | w   |        | menigh        | xAJ | menig         |   | menigh                   | menigh                |   |   |   |   | dan |   |   |   |        440-02 | 1:protocol |          |  |    |    |    |    |
 | w   |        | konvent       | xNC | konvent       |   | (con)wenth               | ↄwenth                |   |   |   |   | dan |   |   |   |        440-02 | 1:protocol |          |  |    |    |    |    |
@@ -88,27 +88,27 @@
 | w   |        | skyld         | xNC | skyld         |   | skild                    | ſkild                 |   |   |   |   | dan |   |   |   |        440-03 | 2:context |          |  |    |    |    |    |
 | lm  | 440-04 |               |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | hærre         | xNC | hr.            |   | h(er)                    | h̅                     |   |   |   |   | dan |   |   |   |        440-04 | 2:context |          |  |    |    |    |    |
-| PE  | b      | JenLau001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | b      | JenLau001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    2100|    |    |    |
 | w   |        |               | xNP | Jens          |   | jenss                    | ȷenſſ                 |   |   |   |   | dan |   |   |   |        440-04 | 2:context |          |  |2100|    |    |    |
 | w   |        |               | xNP | Lauridsen     |   | law(ri)tss(øn)           | lawtſ               |   |   |   |   | dan |   |   |   |        440-04 | 2:context |          |  |2100|    |    |    |
-| PE  | e      | JenLau001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | e      | JenLau001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    2100|    |    |    |
 | w   |        | ærkedjakn     | xNC | ærkedegn      |   | erchedegn                | eꝛchedegn             |   |   |   |   | dan |   |   |   |        440-04 | 2:context |          |  |    |    |    |    |
 | w   |        | have          | xVB | have          |   | haffwe                   | haffwe                |   |   |   |   | dan |   |   |   |        440-04 | 2:context |          |  |    |    |    |    |
 | w   |        | give          | xVB | givet         |   | giffw(et)                | gıffwꝫ                |   |   |   |   | dan |   |   |   |        440-04 | 2:context |          |  |    |    |    |    |
 | w   |        | thænne        | xDD | denne         |   | th(en)ne                 | thn̅e                  |   |   |   |   | dan |   |   |   |        440-04 | 2:context |          |  |    |    |    |    |
 | w   |        | brevvisere    | xNC | brevviser     |   | breffwis(e)r             | bꝛeffwıſꝛ            |   |   |   |   | dan |   |   |   |        440-04 | 2:context |          |  |    |    |    |    |
-| PE  | b      | LauJep001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | b      | LauJep001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    2101|    |    |    |
 | w   |        |               | xNP | Laurids       |   | law(ri)tz                | lawtz                |   |   |   |   | dan |   |   |   |        440-04 | 2:context |          |  |2101|    |    |    |
 | w   |        |               | xNP | Jepsen        |   | ieipss(øn)               | ieipſ                |   |   |   |   | dan |   |   |   |        440-04 | 2:context |          |  |2101|    |    |    |
-| PE  | e      | LauJep001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | e      | LauJep001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    2101|    |    |    |
 | lm  | 440-05 |               |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | sum           | xRP | som           |   | som                      | ſom                   |   |   |   |   | dan |   |   |   |        440-05 | 2:context |          |  |    |    |    |    |
 | w   |        | føthe         | xVB | føder         |   | fødh(e)r                 | fødhꝛ                |   |   |   |   | dan |   |   |   |        440-05 | 2:context |          |  |    |    |    |    |
 | w   |        | være          | xVB | er            |   | er                       | eꝛ                    |   |   |   |   | dan |   |   |   |        440-05 | 2:context |          |  |    |    |    |    |
 | w   |        | uti           | xAP | udi           |   | wdi                      | wdi                   |   |   |   |   | dan |   |   |   |        440-05 | 2:context |          |  |    |    |    |    |
-| PL  | b      |               |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  | b      |               131544|     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    1962|    |
 | w   |        |               | xNP | Østrup        |   | øst(ro)pp                | øſtͦ                  |   |   |   |   | dan |   |   |   |        440-05 | 2:context |          |  |    |    |1962|    |
-| PL  | e      |               |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  | e      |               131544|     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    1962|    |
 | w   |        | upa           | xAP | på            |   | paa                      | paa                   |   |   |   |   | dan |   |   |   |        440-05 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd      | xAJ | fornævnte     |   | for(nefnde)              | foꝛͩͤ                   |   |   |   |   | dan |   |   |   |        440-05 | 2:context |          |  |    |    |    |    |
 | w   |        | sankte        | xAJ | sankt         |   | s(anc)te                 | ſt̅e                   |   |   |   |   | dan |   |   |   |        440-05 | 2:context |          |  |    |    |    |    |
@@ -136,9 +136,9 @@
 | lm  | 440-07 |               |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | fornævnd      | xAJ | fornævnte           |   | for(nefnde)              | foꝛͩͤ                   |   |   |   |   | dan |   |   |   |        440-07 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre         | xNC | hr.            |   | h(er)                    | h̅                     |   |   |   |   | dan |   |   |   |        440-07 | 2:context |          |  |    |    |    |    |
-| PE  | b      | JenLau001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | b      | JenLau001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    2102|    |    |    |
 | w   |        |               | xNP | Jensen        |   | ienss(øn)                | ıenſ                 |   |   |   |   | dan |   |   |   |        440-07 | 2:context |          |  |2102|    |    |    |
-| PE  | e      | JenLau001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | e      | JenLau001     |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    2102|    |    |    |
 | w   |        | goths         | xNC | gods          |   | gotz                     | gotz                  |   |   |   |   | dan |   |   |   |        440-07 | 2:context |          |  |    |    |    |    |
 | w   |        | ok            | xCC | og            |   | Oc                       | Oc                    |   |   |   |   | dan |   |   |   |        440-07 | 2:context |          |  |    |    |    |    |
 | w   |        | bygje         | xVB | bygge         |   | byghe                    | byghe                 |   |   |   |   | dan |   |   |   |        440-07 | 2:context |          |  |    |    |    |    |
@@ -196,9 +196,9 @@
 | w   |        | open          | xAJ | åbne          |   | obne                     | obne                  |   |   |   |   | dan |   |   |   |        440-11 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | brev          | xNC | brev          |   | breff                    | bꝛeff                 |   |   |   |   | dan |   |   |   |        440-11 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |               |     |               |   | Dat(um)                  | Datꝭ                  |   |   |   |   | lat |   |   |   |        440-11 | 3:eschatocol |          |  |    |    |    |    |
-| PL  | b      |               |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  | b      |               149195|     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    1963|    |
 | w   |        |               |     |               |   | Rosk(ildis)              | Roſkꝭ                 |   |   |   |   | lat |   |   |   |        440-11 | 3:eschatocol |          |  |    |    |1963|    |
-| PL  | e      |               |     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  | e      |               149195|     |               |   |                          |                       |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    1963|    |
 | w   |        |               |     |               |   | die                      | dıe                   |   |   |   |   | lat |   |   |   |        440-11 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |               |     |               |   | b(ea)te                  | bt̅e                   |   |   |   |   | lat |   |   |   |        440-11 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |               |     |               |   | lucij                    | lucij                 |   |   |   |   | lat |   |   |   |        440-11 | 3:eschatocol |          |  |    |    |    |    |

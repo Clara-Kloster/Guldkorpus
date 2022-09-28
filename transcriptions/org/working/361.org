@@ -43,15 +43,15 @@ AM 187 8vo
 | pm  | 1r     |               |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 361-01 |               |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | d   | b      | 1             |     | protocol       |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| PE  | b      | AnnPed001     |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | b      | AnnPed001     |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    1478|    |    |    |
 | w   |        |               | xNP | Anne           |   | Annæ              | Annæ          |   |   |   |   | dan |   |   |   |        361-01 | 1:protocol |          |  |1478|    |    |    |
 | w   |        |               | xNP | Pedersdatter   |   | pæth(er)s dot(er) | pæths dot   |   |   |   |   | dan |   |   |   |        361-01 | 1:protocol |          |  |1478|    |    |    |
-| PE  | e      | AnnPed001     |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | e      | AnnPed001     |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    1478|    |    |    |
 | w   |        | hærre         | xNC | hr.             |   | h(er)             | h            |   |   |   |   | dan |   |   |   |        361-01 | 1:protocol |          |  |    |    |    |    |
-| PE  | b      | MikRud001     |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | b      | MikRud001     |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    1479|    |    |    |
 | w   |        |               | xNP | Mikkel         |   | michel            | michel        |   |   |   |   | dan |   |   |   |        361-01 | 1:protocol |          |  |1479|    |    |    |
 | w   |        |               | xNP | Rud            |   | rud               | rud           |   |   |   |   | dan |   |   |   |        361-01 | 1:protocol |          |  |1479|    |    |    |
-| PE  | e      | MikRud001     |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | e      | MikRud001     |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    1479|    |    |    |
 | w   |        | riddere       | xNC | ridder         |   | redd(er)e         | redde        |   |   |   |   | dan |   |   |   |        361-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | han           | xPE | hans           |   | hans              | hans          |   |   |   |   | dan |   |   |   |        361-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | æfterlivere   | xNC | efterlever     |   | æft(er)leu(er)e   | æftleue     |   |   |   |   | dan |   |   |   |        361-01 | 1:protocol |          |  |    |    |    |    |
@@ -94,9 +94,9 @@ AM 187 8vo
 | p   |        |               |     |                |   | .                 | .             |   |   |   |   | dan |   |   |   |        361-04 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | j                 | ȷ             |   |   |   |   | dan |   |   |   |        361-04 | 2:context |          |  |    |    |    |    |
 | p   |        |               |     |                |   | .                 | .             |   |   |   |   | dan |   |   |   |        361-04 | 2:context |          |  |    |    |    |    |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1488|    |
 | w   |        |               | xNP | Dalby          |   | dalby             | dalbẏ         |   |   |   |   | dan |   |   |   |        361-04 | 2:context |          |  |    |    |1488|    |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1488|    |
 | w   |        | til           | xAP | til            |   | tel               | tel           |   |   |   |   | dan |   |   |   |        361-04 | 2:context |          |  |    |    |    |    |
 | w   |        |               | xNP | Clara          |   | claræ             | claræ         |   |   |   |   | dan |   |   |   |        361-04 | 2:context |          |  |    |    |    |    |
 | w   |        | kloster       | xNC | kloster        |   | clost(er)         | cloﬅ         |   |   |   |   | dan |   |   |   |        361-04 | 2:context |          |  |    |    |    |    |
@@ -104,9 +104,9 @@ AM 187 8vo
 | p   |        |               |     |                |   | .                 | .             |   |   |   |   | dan |   |   |   |        361-05 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | j                 | ȷ             |   |   |   |   | dan |   |   |   |        361-05 | 2:context |          |  |    |    |    |    |
 | p   |        |               |     |                |   | .                 | .             |   |   |   |   | dan |   |   |   |        361-05 | 2:context |          |  |    |    |    |    |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | b |    149380|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1489|    |
 | w   |        |               | xNP | Roskilde       |   | rosk(ilde)        | roſkꝭ         |   |   |   |   | dan |   |   |   |        361-05 | 2:context |          |  |    |    |1489|    |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | e |    149380|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1489|    |
 | w   |        | til           | xAP | til            |   | tel               | tel           |   |   |   |   | dan |   |   |   |        361-05 | 2:context |          |  |    |    |    |    |
 | w   |        | ævinnelik     | xAJ | evindelige     |   | ewinnelekhe       | ewinnelekhe   |   |   |   |   | dan |   |   |   |        361-05 | 2:context |          |  |    |    |    |    |
 | w   |        | eghe          | xNC | eje            |   | eghie             | eghie         |   |   |   |   | dan |   |   |   |        361-05 | 2:context |          |  |    |    |    |    |
@@ -183,15 +183,15 @@ AM 187 8vo
 | w   |        | insighle      | xNC | indsegle        |   | inzighlæ          | inzighlæ      |   |   |   |   | dan |   |   |   |        361-11 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | sum           | xRP | som            |   | som               | ſo           |   |   |   |   | dan |   |   |   |        361-11 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | være          | xVB | er             |   | ær                | ær            |   |   |   |   | dan |   |   |   |        361-11 | 3:eschatocol |          |  |    |    |    |    |
-| PE  | b      | JenRud002     |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | b      | JenRud002     |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    1480|    |    |    |
 | w   |        |               | xNP | Jens           |   | iens              | iens          |   |   |   |   | dan |   |   |   |        361-11 | 3:eschatocol |          |  |1480|    |    |    |
 | w   |        |               | xNP | Rud            |   | rud               | rud           |   |   |   |   | dan |   |   |   |        361-11 | 3:eschatocol |          |  |1480|    |    |    |
-| PE  | e      | JenRud002     |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | e      | JenRud002     |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    1480|    |    |    |
 | w   |        | ok            | xCC | og             |   | oc                | oc            |   |   |   |   | dan |   |   |   |        361-11 | 3:eschatocol |          |  |    |    |    |    |
-| PE  | b      | VilRud001     |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | b      | VilRud001     |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    1481|    |    |    |
 | w   |        |               | xNP | Vilhelm        |   | wilhelm           | wilhel       |   |   |   |   | dan |   |   |   |        361-11 | 3:eschatocol |          |  |1481|    |    |    |
 | w   |        |               | xNP | Rud            |   | rud               | rud           |   |   |   |   | dan |   |   |   |        361-11 | 3:eschatocol |          |  |1481|    |    |    |
-| PE  | e      | VilRud001     |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | e      | VilRud001     |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    1481|    |    |    |
 | w   |        | af+vapn       | xNC | åvåben         |   | awapn             | awap         |   |   |   |   | dan |   |   |   |        361-11 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 361-12 |               |     |                |   |                   |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | thæn          | xAT | dette          |   | thættæ            | thættæ        |   |   |   |   | dan |   |   |   |        361-12 | 3:eschatocol |          |  |    |    |    |    |

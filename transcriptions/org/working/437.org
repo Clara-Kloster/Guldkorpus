@@ -53,15 +53,15 @@
 | w   |        | læse          | xVB | læses       |   | læss(es)        | læſ         |   |   |   |           | dan |   |   |    | 437-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | helse         | xVB | hilser      |   | helsser         | helſſer      |   |   |   |           | dan |   |   |    | 437-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | jak           | xPE | jeg         |   | jegh            | jegh         |   |   |   |           | dan |   |   |    | 437-01 | 1:protocol |          |  |    |    |    |    |
-| PE  |      b | HanMik001     |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      b | HanMik001     |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    2080|    |    |    |
 | w   |        |               | xNP | Hans        |   | hans            | han         |   |   |   |           | dan |   |   |    | 437-01 | 1:protocol |          |  |2080|    |    |    |
 | w   |        |               | xNP | Mikkelsen   |   | mickelss(øn)    | mickelſ     |   |   |   |           | dan |   |   |    | 437-01 | 1:protocol |          |  |2080|    |    |    |
-| PE  |      e | HanMik001     |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      e | HanMik001     |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    2080|    |    |    |
 | w   |        | burghemæstere | xNC | borgmester  |   | borgemest(er)   | boꝛgemeſt   |   |   |   |           | dan |   |   |    | 437-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | uti           | xAP | udi         |   | vdij            | vdij         |   |   |   |           | dan |   |   |    | 437-01 | 1:protocol |          |  |    |    |    |    |
-| PL  |      b |               |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  |      b |               |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    |    |    1944|    |
 | w   |        |               | xNP | Malmø       |   | malmøge         | malmøge      |   |   |   |           | dan |   |   |    | 437-01 | 1:protocol |          |  |    |    |1944|    |
-| PL  |      e |               |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  |      e |               |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    |    |    1944|    |
 | lm  | 437-02 |               |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | ævinnelik     | xAJ | evindeligen |   | ewindeligh(e)n  | eindelighn̅  |   |   |   |           | dan |   |   |    | 437-02 | 1:protocol |          |  |    |    |    |    |
 | w   |        | mæth          | xAP | med         |   | meth            | meth         |   |   |   |           | dan |   |   |    | 437-02 | 1:protocol |          |  |    |    |    |    |
@@ -114,25 +114,25 @@
 | w   |        | ærlik         | xAJ | ærlig       |   | erlegh          | erlegh       |   |   |   |           | dan |   |   |    | 437-04 | 2:context |          |  |    |    |    |    |
 | w   |        | man           | xNC | mand        |   | ma(n)           | ma̅           |   |   |   |           | dan |   |   |    | 437-04 | 2:context |          |  |    |    |    |    |
 | w   |        | hærre         | xNC | hr.          |   | h(er)           | h̅            |   |   |   |           | dan |   |   |    | 437-04 | 2:context |          |  |    |    |    |    |
-| PE  |      b | PerDid001     |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      b | PerDid001     |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    2081|    |    |    |
 | w   |        |               | xNP | Per         |   | per             | per          |   |   |   |           | dan |   |   |    | 437-04 | 2:context |          |  |2081|    |    |    |
 | lm  | 437-05 |               |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        |               | xNP | Didriksen   |   | didericss(øn)   | didericſ    |   |   |   |           | dan |   |   |    | 437-05 | 2:context |          |  |2081|    |    |    |
-| PE  |      e | PerDid001     |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      e | PerDid001     |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    2081|    |    |    |
 | w   |        | kanik         | xNC | kanik       |   | Canick          | Canick       |   |   |   |           | dan |   |   |    | 437-05 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i           |   | i               | i            |   |   |   |           | dan |   |   |    | 437-05 | 2:context |          |  |    |    |    |    |
-| PL  |      b |               |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  |      b |               149195|     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    |    |    1945|    |
 | w   |        |               | xNP | Roskilde    |   | Rosskilde       | Roſſkilde    |   |   |   |           | dan |   |   |    | 437-05 | 2:context |          |  |    |    |1945|    |
-| PL  |      e |               |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  |      e |               149195|     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    |    |    1945|    |
 | w   |        | en            | xNA | en          |   | En              | En           |   |   |   |           | dan |   |   |    | 437-05 | 2:context |          |  |    |    |    |    |
 | w   |        | min           | xDP | min         |   | my(n)           | mÿ̅           |   |   |   |           | dan |   |   |    | 437-05 | 2:context |          |  |    |    |    |    |
 | w   |        | garth         | xNC | gård        |   | gard            | gard         |   |   |   |           | dan |   |   |    | 437-05 | 2:context |          |  |    |    |    |    |
 | w   |        | ligje         | xVB | liggende    |   | liggend(e)      | liggen      |   |   |   |           | dan |   |   |    | 437-05 | 2:context |          |  |    |    |    |    |
 | w   |        | hær           | xAV | her         |   | h(er)           | h̅            |   |   |   |           | dan |   |   |    | 437-05 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i           |   | i               | i            |   |   |   |           | dan |   |   |    | 437-05 | 2:context |          |  |    |    |    |    |
-| PL  |      b |               |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  |      b |               |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    |    |    1946|    |
 | w   |        |               | xNP | Malmø       |   | malmøge         | malmøge      |   |   |   |           | dan |   |   |    | 437-05 | 2:context |          |  |    |    |1946|    |
-| PL  |      e |               |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  |      e |               |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    |    |    1946|    |
 | p   |        |               |     |             |   | /               | /            |   |   |   |           | dan |   |   |    | 437-05 | 2:context |          |  |    |    |    |    |
 | w   |        | uti           | xAP | udi         |   | vtii            | vtii         |   |   |   |           | dan |   |   |    | 437-05 | 2:context |          |  |    |    |    |    |
 | w   |        | thæn          | xAT | det         |   | th(et)          | thꝫ          |   |   |   |           | dan |   |   |    | 437-05 | 2:context |          |  |    |    |    |    |
@@ -301,9 +301,9 @@
 | w   |        |               |     |             |   | est             | eſt          |   |   |   |           | lat |   |   |    | 437-15 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |               |     |             |   | appens(um)      | aenſ       |   |   |   |           | lat |   |   |    | 437-15 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |               |     |             |   | Dat(um)         | Datꝭͫ         |   |   |   |           | lat |   |   |    | 437-15 | 3:eschatocol |          |  |    |    |    |    |
-| PL  |      b |               |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  |      b |               |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    |    |    1947|    |
 | w   |        |               |     |             |   | malmog(e)       | malmogꝭ      |   |   |   |           | lat |   |   |    | 437-15 | 3:eschatocol |          |  |    |    |1947|    |
-| PL  |      e |               |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  |      e |               |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    |    |    1947|    |
 | w   |        |               |     |             |   | die             | die          |   |   |   |           | lat |   |   |    | 437-15 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 437-16 |               |     |             |   |                 |              |   |   |   |           |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        |               |     |             |   | sancti          | ſancti       |   |   |   |           | lat |   |   |    | 437-16 | 3:eschatocol |          |  |    |    |    |    |

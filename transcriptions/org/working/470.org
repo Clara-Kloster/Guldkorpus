@@ -45,10 +45,10 @@
 | d   | b      | 1              |     | protocol       |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | kænne          | xVB | kendes         |   | Kendis         | Kendi         |   |   |   |   | dan |   |   |   |        470-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | jak            | xPE | jeg            |   | Jeg            | Jeg            |   |   |   |   | dan |   |   |   |        470-01 | 1:protocol |          |  |    |    |    |    |
-| PE  |      b | NieHem001      |     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  |      b | NieHem001      |     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    2435|    |    |    |
 | w   |        |                | xNP | Niels          |   | Nicolaus       | Nicolaŭ       |   |   |   |   | lat |   |   |   |        470-01 | 1:protocol |          |  |2435|    |    |    |
 | w   |        |                | xNP | Hemmingsen     |   | Hemmingius     | Hemmingiŭ     |   |   |   |   | lat |   |   |   |        470-01 | 1:protocol |          |  |2435|    |    |    |
-| PE  |      e | NieHem001      |     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  |      e | NieHem001      |     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    2435|    |    |    |
 | w   |        | ok             | xCC | og             |   | oc             | oc             |   |   |   |   | dan |   |   |   |        470-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | gøre           | xVB | gør            |   | giør           | giør           |   |   |   |   | dan |   |   |   |        470-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | vitherlik      | xAJ | vitterligt     |   | Vit¦terligt    | Vit¦terligt    |   |   |   |   | dan |   |   |   | 470-01—470-02 | 1:protocol |          |  |    |    |    |    |
@@ -75,11 +75,11 @@
 | w   |        | kær            | xAJ | kære           |   | Kiere          | Kiere          |   |   |   |   | dan |   |   |   |        470-03 | 2:context |          |  |    |    |    |    |
 | w   |        | husfrue        | xNC | hustru         |   | Hustrue        | Hŭſtrŭe        |   |   |   |   | dan |   |   |   |        470-03 | 2:context |          |  |    |    |    |    |
 | lm  | 470-04 |                |     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| PE  |      b | BirLau001      |     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  |      b | BirLau001      |     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    2436|    |    |    |
 | w   |        |                | xNP | Birgitte       |   | Birgitte       | Birgitte       |   |   |   |   | dan |   |   |   |        470-04 | 2:context |          |  |2436|    |    |    |
 | w   |        |                | xNP | Laurids        |   | Lauritz        | Laŭritz        |   |   |   |   | dan |   |   |   |        470-04 | 2:context |          |  |2436|    |    |    |
 | w   |        | dotter         | xNC | datter         |   | Daater         | Daater         |   |   |   |   | dan |   |   |   |        470-04 | 2:context |          |  |2436|    |    |    |
-| PE  |      e | BirLau001      |     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  |      e | BirLau001      |     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    2436|    |    |    |
 | p   |        |                |     |                |   | ,              | ,              |   |   |   |   | dan |   |   |   |        470-04 | 2:context |          |  |    |    |    |    |
 | w   |        | af             | xAP | af             |   | aff            | aff            |   |   |   |   | dan |   |   |   |        470-04 | 2:context |          |  |    |    |    |    |
 | w   |        |                |     |                |   | Rectore        | Reore         |   |   |   |   | dan |   |   |   |        470-04 | 2:context |          |  |    |    |    |    |
@@ -88,9 +88,9 @@
 | lm  | 470-05 |                |     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |                |     |                |   | Professoribus  | Profeſſoribŭ  |   |   |   |   | lat |   |   |   |        470-05 | 2:context |          |  |    |    |    |    |
 | w   |        | uti            | xAP | udi            |   | Vdj            | Vdj            |   |   |   |   | dan |   |   |   |        470-05 | 2:context |          |  |    |    |    |    |
-| PL  |      b |                |     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  |      b |                184091|     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    2243|    |
 | w   |        |                | xNP | Københavns     |   | Københaffns    | Københaffn    |   |   |   |   | dan |   |   |   |        470-05 | 2:context |          |  |    |    |2243|    |
-| PL  |      e |                |     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  |      e |                184091|     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    2243|    |
 | w   |        | universitet    | xNC | universitet    |   | Vniuersitet    | Vniŭerſitet    |   |   |   |   | dan |   |   |   |        470-05 | 2:context |          |  |    |    |    |    |
 | p   |        |                |     |                |   | ,              | ,              |   |   |   |   | dan |   |   |   |        470-05 | 2:context |          |  |    |    |    |    |
 | w   |        | en             | xNA | en             |   | Een            | Een            |   |   |   |   | dan |   |   |   |        470-05 | 2:context |          |  |    |    |    |    |
@@ -99,9 +99,9 @@
 | w   |        | universitet    | xNC | universitets   |   | Vniuersitetz   | Vniuerſitetz   |   |   |   |   | dan |   |   |   |        470-06 | 2:context |          |  |    |    |    |    |
 | w   |        | ænghaghe       | xNC | enghave        |   | Enghauffue     | Enghaŭffŭe     |   |   |   |   | dan |   |   |   |        470-06 | 2:context |          |  |    |    |    |    |
 | w   |        | uti            | xAP | udi            |   | Vdj            | Vdj            |   |   |   |   | dan |   |   |   |        470-06 | 2:context |          |  |    |    |    |    |
-| PL  |      b |                |     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  |      b |                149195|     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    2244|    |
 | w   |        |                | xNP | Roskilde       |   | Roskilde       | Roſkilde       |   |   |   |   | dan |   |   |   |        470-06 | 2:context |          |  |    |    |2244|    |
-| PL  |      e |                |     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  |      e |                149195|     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    2244|    |
 | p   |        |                |     |                |   | ,              | ,              |   |   |   |   | dan |   |   |   |        470-06 | 2:context |          |  |    |    |    |    |
 | w   |        | kalle          | xVB | kaldes         |   | kaldis         | kaldi         |   |   |   |   | dan |   |   |   |        470-06 | 2:context |          |  |    |    |    |    |
 | w   |        |                | xNP | Clara          |   | Clare          | Clare          |   |   |   |   | dan |   |   |   |        470-06 | 2:context |          |  |    |    |    |    |
@@ -121,10 +121,10 @@
 | p   |        |                |     |                |   | ,              | ,              |   |   |   |   | dan |   |   |   |        470-08 | 2:context |          |  |    |    |    |    |
 | w   |        | sum            | xRP | som            |   | Som            | om            |   |   |   |   | dan |   |   |   |        470-08 | 2:context |          |  |    |    |    |    |
 | w   |        | doktor         | xNC | doktor         |   | D(octor)       | D.             |   |   |   |   | dan |   |   |   |        470-08 | 2:context |          |  |    |    |    |    |
-| PE | b | AndLau002 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE | b | AndLau002 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    2437|    |    |    |
 | w   |        |                | xNP | Anders         |   | Anders         | Ander         |   |   |   |   | dan |   |   |   |        470-08 | 2:context |          |  |2437|    |    |    |
 | w   |        |                | xNP | Lauridsen      |   | Lau¦rissen     | Laŭ¦riſſen     |   |   |   |   | dan |   |   |   | 470-08—470-09 | 2:context |          |  |2437|    |    |    |
-| PE | e | AndLau002 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE | e | AndLau002 |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    2437|    |    |    |
 | w   |        | nu             | xAV | nu             |   | nu             | nŭ             |   |   |   |   | dan |   |   |   |        470-09 | 2:context |          |  |    |    |    |    |
 | w   |        | sitherst       | xAV | sidst          |   | sidst          | ſidſt          |   |   |   |   | dan |   |   |   |        470-09 | 2:context |          |  |    |    |    |    |
 | w   |        | uti            | xAP | udi            |   | Vdi            | Vdi            |   |   |   |   | dan |   |   |   |        470-09 | 2:context |          |  |    |    |    |    |
@@ -270,10 +270,10 @@
 | w   |        | sum            | xRP | som            |   | Som            | om            |   |   |   |   | dan |   |   |   |        470-23 | 2:context |          |  |    |    |    |    |
 | w   |        | ok             | xAV | og             |   | oc             | oc             |   |   |   |   | dan |   |   |   |        470-23 | 2:context |          |  |    |    |    |    |
 | w   |        | doktor         | xNC | doktor         |   | D(octor)       | D.             |   |   |   |   | dan |   |   |   |        470-23 | 2:context |          |  |    |    |    |    |
-| PE  |      b | AndLau002      |     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  |      b | AndLau002      |     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    2438|    |    |    |
 | w   |        |                | xNP | Anders         |   | Anders         | Ander         |   |   |   |   | dan |   |   |   |        470-23 | 2:context |          |  |2438|    |    |    |
 | w   |        |                | xNP | Lauridsen      |   | Laurissen      | Laŭriſſen      |   |   |   |   | dan |   |   |   |        470-23 | 2:context |          |  |2438|    |    |    |
-| PE  |      e | AndLau002      |     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  |      e | AndLau002      |     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    2438|    |    |    |
 | lm  | 470-24 |                |     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | have           | xVB | havde          |   | haffde         | haffde         |   |   |   |   | dan |   |   |   |        470-24 | 2:context |          |  |    |    |    |    |
 | w   |        | af             | xAP | af             |   | aff            | aff            |   |   |   |   | dan |   |   |   |        470-24 | 2:context |          |  |    |    |    |    |
@@ -346,9 +346,9 @@
 | p   |        |                |     |                |   | ,              | ,              |   |   |   |   | dan |   |   |   |        470-31 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |                | lat |                |   | Datum          | Datŭm          |   |   |   |   | lat |   |   |   |        470-31 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 470-32 |                |     |                |   |                |                |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | b |    149195|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    2245|    |
 | w   |        |                | lat |                |   | Roskilde       | Roſkilde       |   |   |   |   | dan |   |   |   |        470-32 | 3:eschatocol |          |  |    |    |2245|    |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | e |    149195|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    2245|    |
 | w   |        | thæn           | xAT | den            |   | den            | den            |   |   |   |   | dan |   |   |   |        470-32 | 3:eschatocol |          |  |    |    |    |    |
 | n   |        | 2              |     | 2.             |   | 2              | 2              |   |   |   |   | dan |   |   |   |        470-32 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |                | lat |                |   | Januarii       | Janŭarii       |   |   |   |   | lat |   |   |   |        470-32 | 3:eschatocol |          |  |    |    |    |    |

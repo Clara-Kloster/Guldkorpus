@@ -53,15 +53,15 @@
 | w   |        | læse          | xVB | læst           |   | læsith           | læſith       |   |   |   |   | dan |   |   |    |        387-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | helse         | xVB | hilser         |   | hielss(er)       | hıelſ       |   |   |   |   | dan |   |   |    |        387-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | jak           | xPE | jeg            |   | jek              | ȷek          |   |   |   |   | dan |   |   |    |        387-01 | 1:protocol |          |  |    |    |    |    |
-| PE  | b      | EliAnd001     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | EliAnd001     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    1625|    |    |    |
 | w   |        |               | xNP | Eline          |   | Elnæ             | Elnæ         |   |   |   |   | dan |   |   |    |        387-01 | 1:protocol |          |  |1625|    |    |    |
 | w   |        |               | xNP | Anders         |   | And(er)sse       | Andſſe      |   |   |   |   | dan |   |   |    |        387-01 | 1:protocol |          |  |1625|    |    |    |
 | w   |        | dotter        | xNC | datter         |   | dott(er)         | dott        |   |   |   |   | dan |   |   |    |        387-01 | 1:protocol |          |  |1625|    |    |    |
-| PE  | e      | EliAnd001     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| PE  | b      | MogJep001     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | EliAnd001     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    1625|    |    |    |
+| PE  | b      | MogJep001     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    1626|    |    |    |
 | w   |        |               | xNP | Mogens         |   | moens            | moen        |   |   |   |   | dan |   |   |    |        387-01 | 1:protocol |          |  |1626|    |    |    |
 | w   |        |               | xNP | Jepsen         |   | jepss(øn)        | ȷepſ        |   |   |   |   | dan |   |   |    |        387-01 | 1:protocol |          |  |1626|    |    |    |
-| PE  | e      | MogJep001     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | MogJep001     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    1626|    |    |    |
 | lm  | 387-02 |               |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | æfterlive     | xNC | efterlive      |   | efft(er)løwe     | efftløwe    |   |   |   |   | dan |   |   |    |        387-02 | 1:protocol |          |  |    |    |    |    |
 | w   |        | hvær          | xPI | hvis           |   | hwes             | hwe         |   |   |   |   | dan |   |   |    |        387-02 | 1:protocol |          |  |    |    |    |    |
@@ -119,14 +119,14 @@
 | w   |        | kloster       | xNC | kloster        |   | Clost(er)        | Cloſt       |   |   |   |   | dan |   |   |    |        387-05 | 2:context |          |  |    |    |    |    |
 | w   |        | ligje         | xVB | liggende       |   | lige(n)d(e)      | lıge̅        |   |   |   |   | dan |   |   |    |        387-05 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | j                | j            |   |   |   |   | dan |   |   |    |        387-05 | 2:context |          |  |    |    |    |    |
-| PL  | b      |               |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |               103136|     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    1586|    |
 | w   |        |               | xNP | Herluf         |   | helløff          | helløff      |   |   |   |   | dan |   |   |    |        387-05 | 2:context |          |  |    |    |1586|    |
 | w   |        |               | xNP | magle          |   | magle            | magle        |   |   |   |   | dan |   |   |    |        387-05 | 2:context |          |  |    |    |1586|    |
-| PL  | e      |               |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |               103136|     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    1586|    |
 | w   |        | i             | xAP | i              |   | j                | j            |   |   |   |   | dan |   |   |    |        387-05 | 2:context |          |  |    |    |    |    |
-| PL  | b      |               |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |               |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    1587|    |
 | w   |        |               | xNP | Tybjerg        |   | tyde¦biærghr(um) | tyde¦bıærghꝝ |   |   |   |   | dan |   |   |    | 387-05—387-06 | 2:context |          |  |    |    |1587|    |
-| PL  | e      |               |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |               |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    1587|    |
 | w   |        | ok            | xCC | og             |   | oc               | oc           |   |   |   |   | dan |   |   |    |        387-06 | 2:context |          |  |    |    |    |    |
 | w   |        | skylde        | xVB | skylder        |   | skyldh(e)r       | ſkyldh̅ꝛ      |   |   |   |   | dan |   |   |    |        387-06 | 2:context |          |  |    |    |    |    |
 | w   |        | arlik         | xAJ | årlig          |   | arlich           | arlıch       |   |   |   |   | dan |   |   |    |        387-06 | 2:context |          |  |    |    |    |    |
@@ -295,49 +295,49 @@
 | w   |        | sva           | xAV | så             |   | so               | ſo           |   |   |   |   | dan |   |   |    |        387-17 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | sum           | xRP | som            |   | som              | ſo          |   |   |   |   | dan |   |   |    |        387-17 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | være          | xVB | er             |   | ær               | ær           |   |   |   |   | dan |   |   |    |        387-17 | 3:eschatocol |          |  |    |    |    |    |
-| PE  | b      | JepJen001     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | JepJen001     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    1627|    |    |    |
 | w   |        |               | xNP | Jep            |   | jep              | ȷep          |   |   |   |   | dan |   |   |    |        387-17 | 3:eschatocol |          |  |1627|    |    |    |
 | w   |        |               | xNP | Jensen         |   | jenss(øn)        | ȷenſ        |   |   |   |   | dan |   |   |    |        387-17 | 3:eschatocol |          |  |1627|    |    |    |
-| PE  | e      | JepJen001     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | JepJen001     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    1627|    |    |    |
 | w   |        | hovethsman    | xNC | hovedsmand     |   | høff¦uitzma(m)   | høff¦uitzma̅  |   |   |   |   | dan |   |   |    | 387-17—387-18 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | upa           | xAP | på             |   | pa               | pa           |   |   |   |   | dan |   |   |    |        387-18 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |               | xNP | Haritzborg     |   | haritzborg       | harıtzborg   |   |   |   |   | dan |   |   |    |        387-18 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |               | xNC | hr.             |   | h(er)            | h̅            |   |   |   |   | dan |   |   |    |        387-18 | 3:eschatocol |          |  |    |    |    |    |
-| PE  | b      | JenSiu001     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | JenSiu001     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    1628|    |    |    |
 | w   |        |               | xNP | Jens           |   | jens             | ȷen         |   |   |   |   | dan |   |   |    |        387-18 | 3:eschatocol |          |  |1628|    |    |    |
 | w   |        |               | xNP | Siundesen      |   | s(i)wndhæss(øn)  | ſwndhæſ    |   |   |   |   | dan |   |   |    |        387-18 | 3:eschatocol |          |  |1628|    |    |    |
-| PE  | e      | JenSiu001     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | JenSiu001     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    1628|    |    |    |
 | w   |        | kanik         | xNC | kannik         |   | Canik            | Canik        |   |   |   |   | dan |   |   |    |        387-18 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | j                | j            |   |   |   |   | dan |   |   |    |        387-18 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |               | xNP | Roskilde       |   | rosk(ilde)       | roſkꝭ        |   |   |   |   | dan |   |   |    |        387-18 | 3:eschatocol |          |  |    |    |    |    |
-| PE  | b      | JenMor003     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | JenMor003     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    1629|    |    |    |
 | w   |        |               | xNP | Jens           |   | jens             | ȷen         |   |   |   |   | dan |   |   |    |        387-18 | 3:eschatocol |          |  |1629|    |    |    |
 | w   |        |               | xNP | Mortensen      |   | mortinss(øn)     | mortınſ     |   |   |   |   | dan |   |   |    |        387-18 | 3:eschatocol |          |  |1629|    |    |    |
-| PE  | e      | JenMor003     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | JenMor003     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    1629|    |    |    |
 | w   |        | af+vapn       | xNC | afvåben        |   | aff¦waph(e)n     | aff¦waph̅    |   |   |   |   | dan |   |   |    | 387-18-387-19 | 3:eschatocol |          |  |    |    |    |    |
-| PE  | b      | HenJen002     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | HenJen002     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    1630|    |    |    |
 | w   |        |               | xNP | Henrik         |   | he(n)ric         | he̅rıc        |   |   |   |   | dan |   |   |    |        387-19 | 3:eschatocol |          |  |1630|    |    |    |
 | w   |        |               | xNP | Jensen         |   | jenss(øn)        | ȷenſ        |   |   |   |   | dan |   |   |    |        387-19 | 3:eschatocol |          |  |1630|    |    |    |
-| PE  | e      | HenJen002     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| PE  | b      | BoxJen001     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | HenJen002     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    1630|    |    |    |
+| PE  | b      | BoxJen001     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    1631|    |    |    |
 | w   |        |               | xNP | Bo             |   | boo              | boo          |   |   |   |   | dan |   |   |    |        387-19 | 3:eschatocol |          |  |1631|    |    |    |
 | w   |        |               | xNP | Jensen         |   | jenss(øn)        | ȷenſ        |   |   |   |   | dan |   |   |    |        387-19 | 3:eschatocol |          |  |1631|    |    |    |
-| PE  | e      | BoxJen001     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | BoxJen001     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    1631|    |    |    |
 | w   |        | burghemæstere | xNC | borgmester     |   | borgmest(er)     | borgmeſt    |   |   |   |   | dan |   |   |    |        387-19 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | i                | ı            |   |   |   |   | dan |   |   |    |        387-19 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |               | xNP | Roskilde       |   | rosk(ilde)       | roſkꝭ        |   |   |   |   | dan |   |   |    |        387-19 | 3:eschatocol |          |  |    |    |    |    |
-| PE  | b      | HemPed002     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | HemPed002     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    1632|    |    |    |
 | w   |        |               | xNP | Hemming        |   | he(m)mi(n)g      | he̅mi̅g        |   |   |   |   | dan |   |   |    |        387-19 | 3:eschatocol |          |  |1632|    |    |    |
 | w   |        |               | xNP | Pedersen       |   | p(er)ss(øn)      | ꝑſ          |   |   |   |   | dan |   |   |    |        387-19 | 3:eschatocol |          |  |1632|    |    |    |
-| PE  | e      | HemPed002     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | HemPed002     |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    1632|    |    |    |
 | w   |        | rathman       | xNC | rådmand        |   | radma(n)         | radma̅        |   |   |   |   | dan |   |   |    |        387-19 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 387-20 |               |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | i             | xAP | i              |   | j                | j            |   |   |   |   | dan |   |   |    |        387-20 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | samestath     | xAV | sammested      |   | samest(et)       | ſameſtꝫ      |   |   |   |   | dan |   |   |    |        387-20 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |               | lat |                |   | Sc(ri)ptu(m)     | Scptu̅       |   |   |   |   | lat |   |   |    |        387-20 | 3:eschatocol |          |  |    |    |    |    |
-| PL  | b      |               |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |               149195|     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    1588|    |
 | w   |        |               | lat |                |   | rosk(ildis)      | roſkꝭ        |   |   |   |   | lat |   |   |    |        387-20 | 3:eschatocol |          |  |    |    |1588|    |
-| PL  | e      |               |     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |               149195|     |                |   |                  |              |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    1588|    |
 | w   |        |               | lat |                |   | natiuitas        | natiuita    |   |   |   |   | lat |   |   |    |        387-20 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |               | lat |                |   | s(an)c(t)i       | ſcı̅          |   |   |   |   | lat |   |   |    |        387-20 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |               | lat |                |   | !jho(anne)s¡     | !ȷho̅¡       |   |   |   |   | lat |   |   |    |        387-20 | 3:eschatocol |          |  |    |    |    |    |

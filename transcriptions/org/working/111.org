@@ -50,13 +50,13 @@ ASK: Remember to remove XML-tag and introduce correct notation instead.
 | w   |        |   |   |   |   | v(e)l             | ỽl̅           |   |   |   |   | lat |   |   |   |        111-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | audituris         | uꝺıturıs    |   |   |   |   | lat |   |   |   |        111-01 | 1:protocol |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-01 | 1:protocol |          |  |    |    |    |    |
-| PE  | b      | NieHer001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | b      | NieHer001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    437|    |    |    |
 | w   |        |   |   |   |   | N(icholaus)       | N.           |   |   |   |   | lat |   |   |   |        111-01 | 1:protocol |          |  |437|    |    |    |
 | w   |        |   |   |   |   | h(er)mans(un)     | h͛mn        |   |   |   |   | dan |   |   |   |        111-01 | 1:protocol |          |  |437|    |    |    |
-| PE  | e      | NieHer001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| PL  | b      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | e      | NieHer001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    437|    |    |    |
+| PL  | b      |   149195|   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    514|    |
 | w   |        |   |   |   |   | !roskidis¡        | !roſkıꝺís¡   |   |   |   |   | lat |   |   |   |        111-01 | 1:protocol |          |  |    |    |514|    |
-| PL  | e      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  | e      |   149195|   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    514|    |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | in                | ín           |   |   |   |   | lat |   |   |   |        111-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | om(n)ium          | om̅ıum        |   |   |   |   | lat |   |   |   |        111-01 | 1:protocol |          |  |    |    |    |    |
@@ -88,13 +88,13 @@ ASK: Remember to remove XML-tag and introduce correct notation instead.
 | ad  | b      |   |   |   |   | scribe-2          |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ⸌sororib(us)⸍     | ⸌soꝛoꝛíbꝫ⸍   |   |   |   |   | lat |   |   |   |        111-03 | 2:context |          |  |    |    |    |    |
 | ad  | e      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | b |    149380|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    515|    |
 | w   |        |   |   |   |   | S(an)c(t)e        | Sc̅e          |   |   |   |   | lat |   |   |   |        111-03 | 2:context |          |  |    |    |515|    |
 | w   |        |   |   |   |   | clare             | clre        |   |   |   |   | lat |   |   |   |        111-03 | 2:context |          |  |    |    |515|    |
-| PL  | b      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  | b      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    2257|
 | w   |        |   |   |   |   | rosk(ildis)       | roſꝃ         |   |   |   |   | lat |   |   |   |        111-03 | 2:context |          |  |    |    |515|2257|
-| PL  | e      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| PL  | e      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  | e      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    2257|
+| PL  | e      |   149380|   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    515|    |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | molendinu(m)      | molenꝺínu̅    |   |   |   |   | lat |   |   |   |        111-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | meum              | meum         |   |   |   |   | lat |   |   |   |        111-03 | 2:context |          |  |    |    |    |    |
@@ -106,18 +106,18 @@ ASK: Remember to remove XML-tag and introduce correct notation instead.
 | w   |        |   |   |   |   | meo               | meo          |   |   |   |   | lat |   |   |   |        111-03 | 2:context |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-03 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)no          | ꝺn̅o          |   |   |   |   | lat |   |   |   |        111-03 | 2:context |          |  |    |    |    |    |
-| PE  | b      | TruRom001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | b      | TruRom001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    438|    |    |    |
 | w   |        |   |   |   |   | thrugoto          | thrugoto     |   |   |   |   | lat |   |   |   |        111-03 | 2:context |          |  |438|    |    |    |
 | lm  | 111-04 |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Romildæ           | Romíldæ      |   |   |   |   | dan |   |   |   |        111-04 | 2:context |          |  |438|    |    |    |
 | w   |        |   |   |   |   | s(un)             |             |   |   |   |   | dan |   |   |   |        111-04 | 2:context |          |  |438|    |    |    |
-| PE  | e      | TruRom001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | e      | TruRom001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    438|    |    |    |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-04 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | &amp;             | &amp;        |   |   |   |   | lat |   |   |   |        111-04 | 2:context |          |  |    |    |    |    |
-| PE  | b      | TueArn001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | b      | TueArn001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    439|    |    |    |
 | w   |        |   |   |   |   | tuuone            | tuuone       |   |   |   |   | lat |   |   |   |        111-04 | 2:context |          |  |439|    |    |    |
 | w   |        |   |   |   |   | Arnfasts(un)      | rnfﬅ      |   |   |   |   | dan |   |   |   |        111-04 | 2:context |          |  |439|    |    |    |
-| PE  | e      | TueArn001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | e      | TueArn001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    439|    |    |    |
 | w   |        |   |   |   |   | p(ro)             | ꝓ            |   |   |   |   | lat |   |   |   |        111-04 | 2:context |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-04 | 2:context |          |  |    |    |    |    |
 | n   |        |   |   |   |   | c                 | c            |   |   |   |   | lat |   |   |   |        111-04 | 2:context |          |  |    |    |    |    |
@@ -144,9 +144,9 @@ ASK: Remember to remove XML-tag and introduce correct notation instead.
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)n(n)i       | ꝺn̅í          |   |   |   |   | lat |   |   |   |        111-05 | 2:context |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-05 | 2:context |          |  |    |    |    |    |
-| PE  | b      | RexEri005  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | b      | RexEri005  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    440|    |    |    |
 | w   |        |   |   |   |   | E(rici)           | E.           |   |   |   |   | lat |   |   |   |        111-05 | 2:context |          |  |440|    |    |    |
-| PE  | e      | RexEri005  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | e      | RexEri005  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    440|    |    |    |
 | w   |        |   |   |   |   | regis             | regıs        |   |   |   |   | lat |   |   |   |        111-05 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | danor(um)         | ꝺnoꝝ        |   |   |   |   | lat |   |   |   |        111-05 | 2:context |          |  |    |    |    |    |
 | lm  | 111-06 |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -166,14 +166,14 @@ ASK: Remember to remove XML-tag and introduce correct notation instead.
 | w   |        |   |   |   |   | ac                | c           |   |   |   |   | lat |   |   |   |        111-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | b(e)n(e)placito   | bn̅plcíto    |   |   |   |   | lat |   |   |   |        111-06 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | ciui¦tatis        | cíuí¦ttís   |   |   |   |   | lat |   |   |   | 111-06—111-07 | 2:context |          |  |    |    |    |    |
-| PL  | b      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  | b      |   149195|   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    516|    |
 | w   |        |   |   |   |   | roskildensis      | roſkılꝺenſís |   |   |   |   | lat |   |   |   |        111-07 | 2:context |          |  |    |    |516|    |
-| PL  | e      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  | e      |   149195|   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    516|    |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (et)              |             |   |   |   |   | lat |   |   |   |        111-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | est               | eﬅ           |   |   |   |   | lat |   |   |   |        111-07 | 2:context |          |  |    |    |    |    |
 | w   |        |   |   |   |   | situ(m)           | sıtu̅         |   |   |   |   | lat |   |   |   |        111-07 | 2:context |          |  |    |    |    |    |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    517|    |
 | w   |        |   |   |   |   | foris             | foꝛıs        |   |   |   |   | lat |   |   |   |        111-07 | 2:context |          |  |    |    |517|    |
 | w   |        |   |   |   |   | ruffam            | ruffm       |   |   |   |   | lat |   |   |   |        111-07 | 2:context |          |  |    |    |517|    |
 | w   |        |   |   |   |   | portam            | poꝛtm       |   |   |   |   | lat |   |   |   |        111-07 | 2:context |          |  |    |    |517|    |
@@ -181,10 +181,10 @@ ASK: Remember to remove XML-tag and introduce correct notation instead.
 | w   |        |   |   |   |   | aquilone(m)       | quılone̅     |   |   |   |   | lat |   |   |   |        111-07 | 2:context |          |  |    |    |517|    |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-07 | 2:context |          |  |    |    |517|    |
 | w   |        |   |   |   |   | ciuitatis         | cíuıttís    |   |   |   |   | lat |   |   |   |        111-07 | 2:context |          |  |    |    |517|    |
-| PL  | b      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  | b      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    2256|
 | w   |        |   |   |   |   | roskilden(sis)    | roſkılꝺen̅    |   |   |   |   | lat |   |   |   |        111-07 | 2:context |          |  |    |    |517|2256|
-| PL  | e      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| PL  | e      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  | e      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    2256|
+| PL  | e      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    517|    |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-07 | 2:context |          |  |    |    |    |    |
 | lm  | 111-08 |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | d   | e      | 2 |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -206,34 +206,34 @@ ASK: Remember to remove XML-tag and introduce correct notation instead.
 | lm  | 111-09 |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | fr(atr)is         | fr̅ıs         |   |   |   |   | lat |   |   |   |        111-09 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | mei               | meı          |   |   |   |   | lat |   |   |   |        111-09 | 3:eschatocol |          |  |    |    |    |    |
-| PE  | b      | LydHer001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | b      | LydHer001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    441|    |    |    |
 | w   |        |   |   |   |   | ludikæ            | luꝺıkæ       |   |   |   |   | dan |   |   |   |        111-09 | 3:eschatocol |          |  |441|    |    |    |
-| PE  | e      | LydHer001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | e      | LydHer001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    441|    |    |    |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-09 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | generor(um)       | generoꝝ      |   |   |   |   | lat |   |   |   |        111-09 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | meor(um)          | meoꝝ         |   |   |   |   | lat |   |   |   |        111-09 | 3:eschatocol |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-09 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | videlic(et)       | ỽıꝺelıcꝫ     |   |   |   |   | lat |   |   |   |        111-09 | 3:eschatocol |          |  |    |    |    |    |
-| PE  | b      | BjøPed001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | b      | BjøPed001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    442|    |    |    |
 | w   |        |   |   |   |   | beronis           | beronís      |   |   |   |   | lat |   |   |   |        111-09 | 3:eschatocol |          |  |442|    |    |    |
 | w   |        |   |   |   |   | pæter             | pæter        |   |   |   |   | lat |   |   |   |        111-09 | 3:eschatocol |          |  |442|    |    |    |
 | w   |        |   |   |   |   | s(un)             |             |   |   |   |   | lat |   |   |   |        111-09 | 3:eschatocol |          |  |442|    |    |    |
-| PE  | e      | BjøPed001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | e      | BjøPed001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    442|    |    |    |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-09 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (et)              |             |   |   |   |   | lat |   |   |   |        111-09 | 3:eschatocol |          |  |    |    |    |    |
-| PE  | b      | LarPed001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | b      | LarPed001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    443|    |    |    |
 | w   |        |   |   |   |   | laurencii         | lurencíí    |   |   |   |   | lat |   |   |   |        111-09 | 3:eschatocol |          |  |443|    |    |    |
 | lm  | 111-10 |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | peter             | peter        |   |   |   |   | dan |   |   |   |        111-10 | 3:eschatocol |          |  |443|    |    |    |
 | w   |        |   |   |   |   | s(un)             |             |   |   |   |   | dan |   |   |   |        111-10 | 3:eschatocol |          |  |443|    |    |    |
-| PE  | e      | LarPed001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | e      | LarPed001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    443|    |    |    |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-10 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (et)              |             |   |   |   |   | lat |   |   |   |        111-10 | 3:eschatocol |          |  |    |    |    |    |
-| PE  | b      | OluLun001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | b      | OluLun001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    444|    |    |    |
 | w   |        |   |   |   |   | olaui             | oluí        |   |   |   |   | lat |   |   |   |        111-10 | 3:eschatocol |          |  |444|    |    |    |
 | w   |        |   |   |   |   | d(i)c(t)i         | ꝺc̅ı          |   |   |   |   | lat |   |   |   |        111-10 | 3:eschatocol |          |  |444|    |    |    |
 | w   |        |   |   |   |   | lunga             | lung        |   |   |   |   | lat |   |   |   |        111-10 | 3:eschatocol |          |  |444|    |    |    |
-| PE  | e      | OluLun001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | e      | OluLun001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    444|    |    |    |
 | w   |        |   |   |   |   | p(re)sentib(us)   | p͛ſentıbꝫ     |   |   |   |   | lat |   |   |   |        111-10 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | e(st)             | e̅            |   |   |   |   | lat |   |   |   |        111-10 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | apensum           | penſum      |   |   |   |   | lat |   |   |   |        111-10 | 3:eschatocol |          |  |    |    |    |    |
@@ -241,9 +241,9 @@ ASK: Remember to remove XML-tag and introduce correct notation instead.
 | w   |        |   |   |   |   | Actum             | um         |   |   |   |   | lat |   |   |   |        111-10 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | (et)              |             |   |   |   |   | lat |   |   |   |        111-10 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | datum             | ꝺtum        |   |   |   |   | lat |   |   |   |        111-10 | 3:eschatocol |          |  |    |    |    |    |
-| PL  | b      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  | b      |   149195|   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    518|    |
 | w   |        |   |   |   |   | ros¦kildis        | roſ¦kılꝺís   |   |   |   |   | lat |   |   |   | 111-10—111-11 | 3:eschatocol |          |  |    |    |518|    |
-| PL  | e      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  | e      |   149195|   |   |   |                   |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    518|    |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-11 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | anno              | nno         |   |   |   |   | lat |   |   |   |        111-11 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | d(omi)ni          | ꝺn̅ı          |   |   |   |   | lat |   |   |   |        111-11 | 3:eschatocol |          |  |    |    |    |    |

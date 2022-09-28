@@ -54,11 +54,11 @@
 | w   |        | helse       | xVB | hilser      |   | hels(er)      | hel          |            |   |   |          | dan |   |   |    |        433-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | jak         | xPE | jeg         |   | ieg           | ıeg           |            |   |   |          | dan |   |   |    |        433-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | syster      | xNC | søster      |   | søst(er)      | ſøſtꝭ         |            |   |   |          | dan |   |   |    |        433-01 | 1:protocol |          |  |    |    |    |    |
-| PE  |      b | EliAnd002   |     |             |   |               |               |            |   |   |          |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  |      b | EliAnd002   |     |             |   |               |               |            |   |   |          |     |   |   |    |               |          |          |  |    2063|    |    |    |
 | w   |        |             | xNP | Eline       |   | illinæ        | ıllınæ        |            |   |   |          | dan |   |   |    |        433-01 | 1:protocol |          |  |2063|    |    |    |
 | w   |        |             | xNP | Anders      |   | anders        | andeꝛ        |            |   |   |          | dan |   |   |    |        433-01 | 1:protocol |          |  |2063|    |    |    |
 | w   |        | dotter      | xNC | datter      |   | dott(er)      | dott         |            |   |   |          | dan |   |   |    |        433-01 | 1:protocol |          |  |2063|    |    |    |
-| PE  |      e | EliAnd002   |     |             |   |               |               |            |   |   |          |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  |      e | EliAnd002   |     |             |   |               |               |            |   |   |          |     |   |   |    |               |          |          |  |    2063|    |    |    |
 | w   |        | abbetisse   | xNC | abbedisse   |   | abb(atiss)æ   | abb̅æ          |            |   |   |          | dan |   |   |    |        433-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i           | xAP | i           |   | i             | i             |            |   |   |          | dan |   |   |    |        433-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | sankte      | xAJ | sankt       |   | s(an)c(t)æ    | ſc̅æ           |            |   |   |          | dan |   |   |    |        433-01 | 1:protocol |          |  |    |    |    |    |
@@ -66,9 +66,9 @@
 | w   |        | kloster     | xNC | kloster     |   | clost(er)     | cloſtꝭ        |            |   |   |          | dan |   |   |    |        433-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i           | xAP | i           |   | i             | ı             |            |   |   |          | dan |   |   |    |        433-01 | 1:protocol |          |  |    |    |    |    |
 | lm  | 433-02 |             |     |             |   |               |               |            |   |   |          |     |   |   |    |               |          |          |  |    |    |    |    |
-| PL  |      b |             |     |             |   |               |               |            |   |   |          |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  |      b |             149380|     |             |   |               |               |            |   |   |          |     |   |   |    |               |          |          |  |    |    |    1933|    |
 | w   |        |             | xNP | Roskilde    |   | rosk(ilde)    | roſkꝭ         |            |   |   |          | dan |   |   |    |        433-02 | 1:protocol |          |  |    |    |1933|    |
-| PL  |      e |             |     |             |   |               |               |            |   |   |          |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  |      e |             149380|     |             |   |               |               |            |   |   |          |     |   |   |    |               |          |          |  |    |    |    1933|    |
 | ad  |      b |             |     |             |   | scribe        |               | margin-top |   |   |          |     |   |   |    |        433-02 |          |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og          |   | oc            | oc            |            |   |   |          |     |   |   |    |        433-02 | 1:protocol |          |  |    |    |    |    |
 | w   |        | al          | xAJ | al          |   | all           | all           |            |   |   |          |     |   |   |    |        433-02 | 1:protocol |          |  |    |    |    |    |
@@ -112,16 +112,16 @@
 | w   |        | ok          | xCC | og          |   | oc            | oc            |            |   |   |          | dan |   |   |    |        433-03 | 2:context |          |  |    |    |    |    |
 | w   |        | ærlik       | xAJ | ærlig       |   | ærlegh        | æꝛlegh        |            |   |   |          | dan |   |   |    |        433-03 | 2:context |          |  |    |    |    |    |
 | w   |        | man         | xNC | mand        |   | man           | ma           |            |   |   |          | dan |   |   |    |        433-03 | 2:context |          |  |    |    |    |    |
-| PE  |      b | JepNie002   |     |             |   |               |               |            |   |   |          |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  |      b | JepNie002   |     |             |   |               |               |            |   |   |          |     |   |   |    |               |          |          |  |    2064|    |    |    |
 | w   |        |             | xNP | Jep         |   | Jæp           | Jæp           |            |   |   |          | dan |   |   |    |        433-03 | 2:context |          |  |2064|    |    |    |
 | w   |        |             | xNP | Nielsen     |   | nielss(øn)    | nielſ        |            |   |   |          | dan |   |   |    |        433-03 | 2:context |          |  |2064|    |    |    |
-| PE  |      e | JepNie002   |     |             |   |               |               |            |   |   |          |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  |      e | JepNie002   |     |             |   |               |               |            |   |   |          |     |   |   |    |               |          |          |  |    2064|    |    |    |
 | lm  | 433-04 |             |     |             |   |               |               |            |   |   |          |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | burghere    | xNC | borger      |   | burwæræ       | buꝛwæræ       |            |   |   |          | dan |   |   |    |        433-04 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i           |   | i             | i             |            |   |   |          | dan |   |   |    |        433-04 | 2:context |          |  |    |    |    |    |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1934|    |
 | w   |        |             | xNP | Malmø       |   | malmøwæ       | malmøwæ       |            |   |   |          | dan |   |   |    |        433-04 | 2:context |          |  |    |    |1934|    |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1934|    |
 | w   |        | en          | xNA | en          |   | en            | en            |            |   |   |          | dan |   |   |    |        433-04 | 2:context |          |  |    |    |    |    |
 | w   |        | var         | xDP | vor         |   | wor           | woꝛ           |            |   |   |          | dan |   |   |    |        433-04 | 2:context |          |  |    |    |    |    |
 | w   |        | garth       | xNC | gård        |   | goordh        | gooꝛdh        |            |   |   |          | dan |   |   |    |        433-04 | 2:context |          |  |    |    |    |    |
@@ -131,10 +131,10 @@
 | w   |        | stath       | xNC | stad        |   | stadh         | ſtadh         |            |   |   |          | dan |   |   |    |        433-04 | 2:context |          |  |    |    |    |    |
 | w   |        | væster      | xAJ | vester      |   | wæster        | wæſteꝛ        |            |   |   |          | dan |   |   |    |        433-04 | 2:context |          |  |    |    |    |    |
 | w   |        | næst        | xAJ | næst        |   | næst          | næſt          |            |   |   |          | dan |   |   |    |        433-04 | 2:context |          |  |    |    |    |    |
-| PL  |      b |             |     |             |   |               |               |            |   |   |          |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  |      b |             |     |             |   |               |               |            |   |   |          |     |   |   |    |               |          |          |  |    |    |    1935|    |
 | w   |        |             | xNP |             |   | b(e)ranzwikx  | bꝛanzwikx    |            |   |   |          | dan |   |   |    |        433-04 | 2:context |          |  |    |    |1935|    |
 | w   |        | garth       | xNC | gård        |   | gardh         | gaꝛdh         |            |   |   |          | dan |   |   |    |        433-04 | 2:context |          |  |    |    |1935|    |
-| PL  |      e |             |     |             |   |               |               |            |   |   |          |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  |      e |             |     |             |   |               |               |            |   |   |          |     |   |   |    |               |          |          |  |    |    |    1935|    |
 | w   |        | ok          | xCC | og          |   | oc            | oc            |            |   |   |          | dan |   |   |    |        433-04 | 2:context |          |  |    |    |    |    |
 | lm  | 433-05 |             |     |             |   |               |               |            |   |   |          |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | halde       | xVB | holder      |   | hold(er)      | hold         |            |   |   |          | dan |   |   |    |        433-05 | 2:context |          |  |    |    |    |    |

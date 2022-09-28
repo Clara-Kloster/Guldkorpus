@@ -44,15 +44,15 @@ ASK: Remember to replace XML-tag with correct notation.
 | lm  | 156-01 |   |   |   |   |                   |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | d  | b      | 1  |   | protocol  |   |                   |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |   |   |   |   | NOS               | NOS              |   |   |   |   | lat |   |   |   |        156-01 | 1:protocol |          |  |    |    |    |    |
-| PE  | b      | OluEps001  |   |   |   |                   |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | b      | OluEps001  |   |   |   |                   |                  |   |   |   |   |     |   |   |   |               |          |          |  |    650|    |    |    |
 | w   |        |   |   |   |   | Olauus            | Olauu           |   |   |   |   | lat |   |   |   |        156-01 | 1:protocol |          |  |650|    |    |    |
-| PE  | e      | OluEps001  |   |   |   |                   |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | e      | OluEps001  |   |   |   |                   |                  |   |   |   |   |     |   |   |   |               |          |          |  |    650|    |    |    |
 | w   |        |   |   |   |   | mis(er)ac(i)o(n)e | mıac̅oe          |   |   |   |   | lat |   |   |   |        156-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | diuina            | ꝺíuín           |   |   |   |   | lat |   |   |   |        156-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Ep(iscopu)s       | p              |   |   |   |   | lat |   |   |   |        156-01 | 1:protocol |          |  |    |    |    |    |
-| PL  | b      |   |   |   |   |                   |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  | b      |   149195|   |   |   |                   |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    718|    |
 | w   |        |   |   |   |   | Roskilden(sis)    | Roſkílꝺen̅        |   |   |   |   | lat |   |   |   |        156-01 | 1:protocol |          |  |    |    |718|    |
-| PL  | e      |   |   |   |   |                   |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  | e      |   149195|   |   |   |                   |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    718|    |
 | p   |        |   |   |   |   | .                 | .                |   |   |   |   | lat |   |   |   |        156-01 | 1:protocol |          |  |    |    |    |    |
 | d  | e      | 1  |   |   |   |                   |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | d  | b      | 2  |   | context  |   |                   |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -261,9 +261,9 @@ ASK: Remember to replace XML-tag with correct notation.
 | w   |        |   |   |   |   | appensum          | aenſu          |   |   |   |   | lat |   |   |   |        156-07 | 3:eschatocol |          |  |    |    |    |    |
 | p   |        |   |   |   |   | .                 | .                |   |   |   |   | lat |   |   |   |        156-07 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Datum             | Datu            |   |   |   |   | lat |   |   |   |        156-07 | 3:eschatocol |          |  |    |    |    |    |
-| PL  | b      |   |   |   |   |                   |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  | b      |   149195|   |   |   |                   |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    719|    |
 | w   |        |   |   |   |   | Roskildis         | Roſkílꝺıs        |   |   |   |   | lat |   |   |   |        156-07 | 3:eschatocol |          |  |    |    |719|    |
-| PL  | e      |   |   |   |   |                   |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  | e      |   149195|   |   |   |                   |                  |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    719|    |
 | p   |        |   |   |   |   | .                 | .                |   |   |   |   | lat |   |   |   |        156-07 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | Anno              | nno             |   |   |   |   | lat |   |   |   |        156-07 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |   |   |   |   | dominj            | ꝺomın           |   |   |   |   | lat |   |   |   |        156-07 | 3:eschatocol |          |  |    |    |    |    |

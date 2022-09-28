@@ -44,15 +44,15 @@ AM 187 8vo
 | d   | b      | 1            |     | protocol       |   |                  |               |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | lm  | 334-01 |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | jak          | xPE | jeg            |   | Jæk              | Jæk           |   |   |   |   | dan |   |   |    | 334-01 | 1:protocol |          |  |    |    |    |    |
-| PE  |      b |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      b |              AnnPed001|     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    1363|    |    |    |
 | w   |        |              | xNP | Anna           |   | annæ             | annæ          |   |   |   |   | dan |   |   |    | 334-01 | 1:protocol |          |  |1363|    |    |    |
 | w   |        |              | xNP | Petersdatter   |   | pæthærs doter    | pæthær doter |   |   |   |   | dan |   |   |    | 334-01 | 1:protocol |          |  |1363|    |    |    |
-| PE  |      e |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      e |              AnnPed001|     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    1363|    |    |    |
 | w   |        | hærre        | xNC | herre          |   | hærræ            | hærræ         |   |   |   |   | dan |   |   |    | 334-01 | 1:protocol |          |  |    |    |    |    |
-| PE  |      b |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      b |              MikRud001|     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    1364|    |    |    |
 | w   |        |              | xNP | Mikkel         |   | Michæl           | Mıchæl        |   |   |   |   | dan |   |   |    | 334-01 | 1:protocol |          |  |1364|    |    |    |
 | w   |        |              | xNP | Ruds           |   | Rwds             | Rwd          |   |   |   |   | dan |   |   |    | 334-01 | 1:protocol |          |  |1364|    |    |    |
-| PE  |      e |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      e |              MikRud001|     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    1364|    |    |    |
 | w   |        | æfterlivende | xNC | efterlevende   |   | æfter lewend(e)  | æfter lewen  |   |   |   |   | dan |   |   |    | 334-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | helse        | xVB | hilser         |   | helser           | helſer        |   |   |   |   | dan |   |   |    | 334-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | al           | xAJ | alle           |   | allæ             | allæ          |   |   |   |   | dan |   |   |    | 334-01 | 1:protocol |          |  |    |    |    |    |
@@ -112,9 +112,9 @@ AM 187 8vo
 | w   |        | kær          | xAJ | kære           |   | kære             | kære          |   |   |   |   | dan |   |   |    | 334-05 | 2:context |          |  |    |    |    |    |
 | w   |        | dotter       | xNC | datter         |   | doter            | doter         |   |   |   |   | dan |   |   |    | 334-05 | 2:context |          |  |    |    |    |    |
 | w   |        | jungfrue     | xNC | jomfru         |   | jumfruæ          | ȷumfruæ       |   |   |   |   | dan |   |   |    | 334-05 | 2:context |          |  |    |    |    |    |
-| PE  |      b |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      b |              MarMik001|     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    1365|    |    |    |
 | w   |        |              | xNP | Margrethe      |   | margretæ         | margretæ      |   |   |   |   | dan |   |   |    | 334-05 | 2:context |          |  |1365|    |    |    |
-| PE  |      e |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      e |              MarMik001|     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    1365|    |    |    |
 | w   |        | syster       | xNC | søster         |   | søster           | ſøſter        |   |   |   |   | dan |   |   |    | 334-05 | 2:context |          |  |    |    |    |    |
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-05 | 2:context |          |  |    |    |    |    |
 | w   |        | i            | xAP | i              |   | j                | j             |   |   |   |   | dan |   |   |    | 334-05 | 2:context |          |  |    |    |    |    |
@@ -127,9 +127,9 @@ AM 187 8vo
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-06 | 2:context |          |  |    |    |    |    |
 | w   |        | i            | xAP | i              |   | j                |              |   |   |   |   | dan |   |   |    | 334-06 | 2:context |          |  |    |    |    |    |
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-06 | 2:context |          |  |    |    |    |    |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | b |    149380|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1392|    |
 | w   |        |              | xNP | Roskilde       |   | rosk(ilde)       | roſkꝭ         |   |   |   |   | dan |   |   |    | 334-06 | 2:context |          |  |    |    |1392|    |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | e |    149380|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1392|    |
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-06 | 2:context |          |  |    |    |    |    |
 | w   |        | tve          | xNA | to             |   | too              | too           |   |   |   |   | dan |   |   |    | 334-06 | 2:context |          |  |    |    |    |    |
 | w   |        | garth        | xNC | gårde          |   | garthæ           | garthæ        |   |   |   |   | dan |   |   |    | 334-06 | 2:context |          |  |    |    |    |    |
@@ -138,17 +138,17 @@ AM 187 8vo
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-06 | 2:context |          |  |    |    |    |    |
 | w   |        | i            | xAP | i              |   | j                | ȷ             |   |   |   |   | dan |   |   |    | 334-06 | 2:context |          |  |    |    |    |    |
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-06 | 2:context |          |  |    |    |    |    |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | b |    102564|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1393|    |
 | w   |        |              | xNP | Hastrup        |   | hasthorp         | haſthoꝛp      |   |   |   |   | dan |   |   |    | 334-06 | 2:context |          |  |    |    |1393|    |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | e |    102564|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1393|    |
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-06 | 2:context |          |  |    |    |    |    |
 | w   |        | hvilik       | xPI | hvilken        |   | hwilkæn          | hwılkæ       |   |   |   |   | dan |   |   |    | 334-06 | 2:context |          |  |    |    |    |    |
 | w   |        | upa          | xAV | på             |   | pa               | pa            |   |   |   |   | dan |   |   |    | 334-06 | 2:context |          |  |    |    |    |    |
 | w   |        | bo           | xVB | bor            |   | boor             | booꝛ          |   |   |   |   | dan |   |   |    | 334-06 | 2:context |          |  |    |    |    |    |
-| PE  |      b |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      b |              PedMad002|     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    1366|    |    |    |
 | w   |        |              | xNP | Peder          |   | Pæthær           | Pæthær        |   |   |   |   | dan |   |   | =  | 334-06 | 2:context |          |  |1366|    |    |    |
 | w   |        |              | xNP | Madsen         |   | mattess(øn)      | matteſ       |   |   |   |   | dan |   |   | == | 334-06 | 2:context |          |  |1366|    |    |    |
-| PE  |      e |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      e |              PedMad002|     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    1366|    |    |    |
 | w   |        | ok           | xCC | ok             |   | ok               | ok            |   |   |   |   | dan |   |   |    | 334-06 | 2:context |          |  |    |    |    |    |
 | w   |        | give         | xVB | giver          |   | giuer            | giuer         |   |   |   |   | dan |   |   |    | 334-06 | 2:context |          |  |    |    |    |    |
 | lm  | 334-07 |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
@@ -162,16 +162,16 @@ AM 187 8vo
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-07 | 2:context |          |  |    |    |    |    |
 | w   |        | i            | xAP | i              |   | j                | ȷ             |   |   |   |   | dan |   |   |    | 334-07 | 2:context |          |  |    |    |    |    |
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-07 | 2:context |          |  |    |    |    |    |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | b |    102582|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1394|    |
 | w   |        |              | xNP | Svansbjerg     |   | swansbiærgh      | ſwansbıærgh   |   |   |   |   | dan |   |   |    | 334-07 | 2:context |          |  |    |    |1394|    |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | e |    102582|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1394|    |
 | w   |        | hvilik       | xPI | hvilken        |   | hwilkæn          | hwılkæ       |   |   |   |   | dan |   |   |    | 334-07 | 2:context |          |  |    |    |    |    |
 | w   |        | upa          | xAV | på             |   | pa               | pa            |   |   |   |   | dan |   |   |    | 334-07 | 2:context |          |  |    |    |    |    |
 | w   |        | bo           | xVB | bor            |   | boor             | booꝛ          |   |   |   |   | dan |   |   |    | 334-07 | 2:context |          |  |    |    |    |    |
-| PE  |      b |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      b |              LarBru001|     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    1367|    |    |    |
 | w   |        |              | xNP | Lasse          |   | lassæ            | laſſæ         |   |   |   |   | dan |   |   |    | 334-07 | 2:context |          |  |1367|    |    |    |
 | w   |        |              | xNP | Brun           |   | brun             | bꝛu          |   |   |   |   | dan |   |   |    | 334-07 | 2:context |          |  |1367|    |    |    |
-| PE  |      e |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      e |              LarBru001|     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    1367|    |    |    |
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-07 | 2:context |          |  |    |    |    |    |
 | w   |        | ok           | xCC | og             |   | ok               | ok            |   |   |   |   | dan |   |   |    | 334-07 | 2:context |          |  |    |    |    |    |
 | lm  | 334-08 |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
@@ -187,18 +187,18 @@ AM 187 8vo
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-08 | 2:context |          |  |    |    |    |    |
 | w   |        | i            | xAP | i              |   | j                | j             |   |   |   |   | dan |   |   |    | 334-08 | 2:context |          |  |    |    |    |    |
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-08 | 2:context |          |  |    |    |    |    |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | b |    102566|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1395|    |
 | w   |        |              | xNP | Herfølge       |   | hærfyhlæ         | hærfẏhlæ      |   |   |   |   | dan |   |   |    | 334-08 | 2:context |          |  |    |    |1395|    |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | e |    102566|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1395|    |
 | w   |        | sokn         | xNC | sogn           |   | sagn             | sag          |   |   |   |   | dan |   |   |    | 334-08 | 2:context |          |  |    |    |    |    |
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-08 | 2:context |          |  |    |    |    |    |
 | w   |        | i            | xAP | i              |   | j                | ȷ             |   |   |   |   | dan |   |   |    | 334-08 | 2:context |          |  |    |    |    |    |
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-08 | 2:context |          |  |    |    |    |    |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | b |    102497|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1396|    |
 | w   |        |              | xNP | Bjæverskovs    |   | bawærskows       | bawærſkow    |   |   |   |   | dan |   |   |    | 334-08 | 2:context |          |  |    |    |1396|    |
 | lm  | 334-09 |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | hæreth       | xNC | herred         |   | hæreth           | hæreth        |   |   |   |   | dan |   |   |    | 334-09 | 2:context |          |  |    |    |1396|    |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL | e |    102497|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |          |          |  |    |    |    1396|    |
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-09 | 2:context |          |  |    |    |    |    |
 | w   |        | til          | xAP | til            |   | tel              | tel           |   |   |   |   | dan |   |   |    | 334-09 | 2:context |          |  |    |    |    |    |
 | w   |        | sin          | xDP | sine           |   | sinæ             | ſinæ          |   |   |   |   | dan |   |   |    | 334-09 | 2:context |          |  |    |    |    |    |
@@ -287,19 +287,19 @@ AM 187 8vo
 | w   |        |              | lat |                |   | videlicet        | vıdelıcet     |   |   |   |   | lat |   |   |    | 334-14 | 3:eschatocol |          |  |    |    |    |    |
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | lat |   |   |    | 334-14 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |              | lat |                |   | d(omi)ni         | dn̅ı           |   |   |   |   | lat |   |   |    | 334-14 | 3:eschatocol |          |  |    |    |    |    |
-| PE  |      b |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      b |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    1368|    |    |    |
 | w   |        |              | lat |                |   | jacobi           | ȷacobı        |   |   |   |   | lat |   |   |    | 334-14 | 3:eschatocol |          |  |1368|    |    |    |
 | w   |        |              | lat |                |   | lungæ            | lungæ         |   |   |   |   | dan |   |   |    | 334-14 | 3:eschatocol |          |  |1368|    |    |    |
-| PE  |      e |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      e |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    1368|    |    |    |
 | w   |        |              | lat |                |   | milit(is)        | mılıtꝭ        |   |   |   |   | lat |   |   |    | 334-14 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |              | lat |                |   | (et)             |              |   |   |   |   | lat |   |   |    | 334-14 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |              |     |                |   |                  |               |   |   |   |   | lat |   |   |    | 334-14 |          |          |  |    |    |    |    |
 | lm  | 334-15 |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        |              | lat |                |   | d(omi)ni         | dn̅ı           |   |   |   |   | lat |   |   |    | 334-15 | 3:eschatocol |          |  |    |    |    |    |
-| PE  |      b |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      b |              JørMik001|     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    1369|    |    |    |
 | w   |        |              | lat |                |   | yryæn            | ẏrẏæ         |   |   |   |   | dan |   |   |    | 334-15 | 3:eschatocol |          |  |1369|    |    |    |
 | w   |        |              | lat |                |   | Rwth             | Rwth          |   |   |   |   | dan |   |   |    | 334-15 | 3:eschatocol |          |  |1369|    |    |    |
-| PE  |      e |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  |      e |              JørMik001|     |                |   |                  |               |   |   |   |   |     |   |   |    |        |          |          |  |    1369|    |    |    |
 | w   |        |              | lat |                |   | milit(is)        | mılıtꝭ        |   |   |   |   | lat |   |   |    | 334-15 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |              | lat |                |   | p(rese)ntib(us)  | pn̅tıbꝫ        |   |   |   |   | lat |   |   |    | 334-15 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |              | lat |                |   | est              | eſt           |   |   |   |   | lat |   |   |    | 334-15 | 3:eschatocol |          |  |    |    |    |    |

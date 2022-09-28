@@ -55,14 +55,14 @@ initial Ff unique to scribe
 | w   |        | læse          | xVB | læses               |   | læsæs                | læſæ            |   |   |   |            | dan |   |   |    | 418-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | helse         | xVB | hilser              |   | hilsær               | hılſær           |   |   |   |            | dan |   |   |    | 418-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | jak           | xPE | jeg                 |   | iegh                 | ıegh             |   |   |   |            | dan |   |   |    | 418-01 | 1:protocol |          |  |    |    |    |    |
-| PE  | b      | AxeLag001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | b      | AxeLag001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    1946|    |    |    |
 | w   |        |               | xNP | Axel                |   | axel                 | axel             |   |   |   |            | dan |   |   |    | 418-01 | 1:protocol |          |  |1946|    |    |    |
 | w   |        |               | xNP | Lavesen             |   | lauess(øn)           | laueſ           |   |   |   |            | dan |   |   |    | 418-01 | 1:protocol |          |  |1946|    |    |    |
-| PE  | e      | AxeLag001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | e      | AxeLag001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    1946|    |    |    |
 | w   |        | upa           | xAP | på                  |   | ppa                  | a               |   |   |   |            | dan |   |   |    | 418-01 | 1:protocol |          |  |    |    |    |    |
-| PL  | b      |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | b      |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    1824|    |
 | w   |        |               | xNP | Klaksholm           |   | claxholm             | claxholm         |   |   |   |            | dan |   |   |    | 418-01 | 1:protocol |          |  |    |    |1824|    |
-| PL  | e      |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    1824|    |
 | w   |        | riddere       | xNC | ridder              |   | Ridder(e)            | Rıddeꝛ          |   |   |   |            | dan |   |   |    | 418-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | ævinnelik     | xAJ | evindelig           |   | ewi(n)nelig          | ewı̅nelig         |   |   |   |            | dan |   |   |    | 418-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | mæth          | xAP | med                 |   | m(et)                | mꝫ               |   |   |   |            | dan |   |   |    | 418-01 | 1:protocol |          |  |    |    |    |    |
@@ -90,9 +90,9 @@ initial Ff unique to scribe
 | w   |        | renliveth     | xAJ | renlivet            |   | Renliffw(et)         | Renlıffwꝫ        |   |   |   |            | dan |   |   |    | 418-02 | 2:context |          |  |    |    |    |    |
 | w   |        | jungfrue      | xNC | jomfru              |   | Jomff(rv)            | Jomffͮ            |   |   |   |            | dan |   |   |    | 418-02 | 2:context |          |  |    |    |    |    |
 | w   |        | syster        | xNC | søster              |   | Søst(e)r             | øﬅꝛ            |   |   |   |            | dan |   |   |    | 418-02 | 2:context |          |  |    |    |    |    |
-| PE  | b      | AnnNie001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | b      | AnnNie001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    1947|    |    |    |
 | w   |        |               | xNP | Anne                |   | anne                 | anne             |   |   |   |            | dan |   |   |    | 418-02 | 2:context |          |  |1947|    |    |    |
-| PE  | e      | AnnNie001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | e      | AnnNie001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    1947|    |    |    |
 | w   |        | abbetisse     | xNC | abbedisse           |   | abbedisæ             | abbedıſæ         |   |   |   |            | dan |   |   |    | 418-02 | 2:context |          |  |    |    |    |    |
 | w   |        | ok            | xCC | og                  |   | och                  | och              |   |   |   |            | dan |   |   |    | 418-02 | 2:context |          |  |    |    |    |    |
 | lm  | 418-03 |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
@@ -102,9 +102,9 @@ initial Ff unique to scribe
 | w   |        |               | xNP | Clara               |   | claræ                | claræ            |   |   |   |            | dan |   |   |    | 418-03 | 2:context |          |  |    |    |    |    |
 | w   |        | kloster       | xNC | kloster             |   | clost(e)r            | cloﬅꝛ           |   |   |   |            | dan |   |   |    | 418-03 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i                   |   | i                    | ı                |   |   |   |            | dan |   |   |    | 418-03 | 2:context |          |  |    |    |    |    |
-| PL  | b      |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | b      |               149380|     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    1825|    |
 | w   |        |               | xNP | Roskilde            |   | Roskillæ             | Roſkıllæ         |   |   |   |            | dan |   |   |    | 418-03 | 2:context |          |  |    |    |1825|    |
-| PL  | e      |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |               149380|     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    1825|    |
 | w   |        | mæth          | xAP | med                 |   | m(et)                | mꝫ               |   |   |   |            | dan |   |   |    | 418-03 | 2:context |          |  |    |    |    |    |
 | w   |        | al            | xAJ | alle                |   | allæ                 | allæ             |   |   |   |            | dan |   |   |    | 418-03 | 2:context |          |  |    |    |    |    |
 | w   |        | thæn          | xPE | deres               |   | th(e)rræs            | thꝛræ          |   |   |   |            | dan |   |   |    | 418-03 | 2:context |          |  |    |    |    |    |
@@ -116,14 +116,14 @@ initial Ff unique to scribe
 | w   |        | mæth          | xAP | med                 |   | m(et)                | mꝫ               |   |   |   |            | dan |   |   |    | 418-03 | 2:context |          |  |    |    |    |    |
 | w   |        | thæn          | xPE | deres               |   | th(e)rræs            | thꝛræ          |   |   |   |            | dan |   |   |    | 418-03 | 2:context |          |  |    |    |    |    |
 | w   |        | forstandere   | xNC | forstanders         |   | forsta(n)de(r)s      | foꝛﬅa̅de        |   |   |   |            | dan |   |   |    | 418-03 | 2:context |          |  |    |    |    |    |
-| PE  | b      | HanKje001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | b      | HanKje001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    1948|    |    |    |
 | w   |        |               | xNP | Hans                |   | hans                 | han             |   |   |   |            | dan |   |   |    | 418-03 | 2:context |          |  |1948|    |    |    |
 | w   |        |               | xNP | Kjeldsen            |   | kelss(øn)            | kelſ            |   |   |   |            | dan |   |   |    | 418-03 | 2:context |          |  |1948|    |    |    |
-| PE  | e      | HanKje001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | e      | HanKje001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    1948|    |    |    |
 | lm  | 418-04 |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
-| PL  | b      |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | b      |               128854|     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    1826|    |
 | w   |        |               | xNP | Danmarks            |   | Da(n)marks           | Da̅maꝛk          |   |   |   |            | dan |   |   |    | 418-04 | 2:context |          |  |    |    |1826|    |
-| PL  | e      |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |               128854|     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    1826|    |
 | w   |        | rike          | xNC | rigens              |   | rigens               | rıgen           |   |   |   |            | dan |   |   |    | 418-04 | 2:context |          |  |    |    |    |    |
 | w   |        | ??            | xNC | kansler             |   | kancelæe             | kancelæe         |   |   |   |            | dan |   |   |    | 418-04 | 2:context |          |  |    |    |    |    |
 | w   |        | rath          | xNC | råd                 |   | raad                 | raad             |   |   |   |            | dan |   |   |    | 418-04 | 2:context |          |  |    |    |    |    |
@@ -136,9 +136,9 @@ initial Ff unique to scribe
 | w   |        | ok            | xCC | og                  |   | och                  | och              |   |   |   |            | dan |   |   |    | 418-04 | 2:context |          |  |    |    |    |    |
 | w   |        | goths         | xNC | gods                |   | gotz                 | gotz             |   |   |   |            | dan |   |   |    | 418-04 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i                   |   | i                    | ı                |   |   |   |            | dan |   |   |    | 418-04 | 2:context |          |  |    |    |    |    |
-| PL  | b      |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | b      |               123140|     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    1827|    |
 | w   |        |               | xNP | Flakkebjergs Herred |   | flackæbiærsh(er)ret  | flackæbıæꝛſhret |   |   |   |            | dan |   |   |    | 418-04 | 2:context |          |  |    |    |1827|    |
-| PL  | e      |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |               123140|     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    1827|    |
 | w   |        | ligje         | xVB | liggende            |   | liggind(e)           | lıggin          |   |   |   |            | dan |   |   |    | 418-04 | 2:context |          |  |    |    |    |    |
 | w   |        | sum           | xRP | som                 |   | Som                  | om              |   |   |   |            | dan |   |   |    | 418-04 | 2:context |          |  |    |    |    |    |
 | w   |        | være          | xVB | er                  |   | ær                   | ær               |   |   |   |            | dan |   |   |    | 418-04 | 2:context |          |  |    |    |    |    |
@@ -147,14 +147,14 @@ initial Ff unique to scribe
 | w   |        | en            | xAT | en                  |   | een                  | een              |   |   |   |            | dan |   |   |    | 418-05 | 2:context |          |  |    |    |    |    |
 | w   |        | garth         | xNC | gård                |   | gard                 | gaꝛd             |   |   |   |            | dan |   |   |    | 418-05 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i                   |   | i                    | ı                |   |   |   |            | dan |   |   |    | 418-05 | 2:context |          |  |    |    |    |    |
-| PL  | b      |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | b      |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    1828|    |
 | w   |        |               | xNP | Sneslev             |   | snesløff             | ſneſløff         |   |   |   |            | dan |   |   |    | 418-05 | 2:context |          |  |    |    |1828|    |
-| PL  | e      |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    1828|    |
 | w   |        | sum           | xRP | som                 |   | som                  | ſom              |   |   |   |            | dan |   |   |    | 418-05 | 2:context |          |  |    |    |    |    |
-| PE  | b      | JepHin001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | b      | JepHin001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    1949|    |    |    |
 | w   |        |               | xNP | Jep                 |   | iepp                 | ıepp             |   |   |   |            | dan |   |   |    | 418-05 | 2:context |          |  |1949|    |    |    |
 | w   |        |               | xNP | Hind                |   | hind                 | hind             |   |   |   |            | dan |   |   |    | 418-05 | 2:context |          |  |1949|    |    |    |
-| PE  | e      | JepHin001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | e      | JepHin001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    1949|    |    |    |
 | w   |        | nu            | xAV | nu                  |   | nw                   | nw               |   |   |   |            | dan |   |   |    | 418-05 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAV | i                   |   | i                    | ı                |   |   |   |            | dan |   |   |    | 418-05 | 2:context |          |  |    |    |    |    |
 | w   |        | bo            | xVB | bor                 |   | boor                 | booꝛ             |   |   |   |            | dan |   |   |    | 418-05 | 2:context |          |  |    |    |    |    |
@@ -175,10 +175,10 @@ initial Ff unique to scribe
 | w   |        | ibidem        | xAV |                   |   | i(bidem)             | ı               |   |   |   | de-sup     | lat |   |   |    | 418-05 | 2:context |          |  |    |    |    |    |
 | lm  | 418-06 |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | sum           | xRP | som                 |   | som                  | ſom              |   |   |   |            | dan |   |   |    | 418-06 | 2:context |          |  |    |    |    |    |
-| PE  | b      | PerJen001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | b      | PerJen001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    1950|    |    |    |
 | w   |        |               | xNP | Per                 |   | p(er)                | ꝑ                |   |   |   |            | dan |   |   |    | 418-06 | 2:context |          |  |1950|    |    |    |
 | w   |        |               | xNP | Jensen              |   | ienss(øn)            | ıenſ            |   |   |   |            | dan |   |   |    | 418-06 | 2:context |          |  |1950|    |    |    |
-| PE  | e      | PerJen001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | e      | PerJen001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    1950|    |    |    |
 | w   |        | i             | xAV | i                   |   | i                    | ı                |   |   |   |            | dan |   |   |    | 418-06 | 2:context |          |  |    |    |    |    |
 | w   |        | bo            | xVB | bor                 |   | boor                 | booꝛ             |   |   |   |            | dan |   |   |    | 418-06 | 2:context |          |  |    |    |    |    |
 | w   |        | ok            | xCC | og                  |   | och                  | och              |   |   |   |            | dan |   |   |    | 418-06 | 2:context |          |  |    |    |    |    |
@@ -196,10 +196,10 @@ initial Ff unique to scribe
 | w   |        | garth         | xNC | gård                |   | gard                 | gaꝛd             |   |   |   |            | dan |   |   |    | 418-06 | 2:context |          |  |    |    |    |    |
 | w   |        | ibidem        | xAV |                   |   | i(bidem)             | ı               |   |   |   | de-sup     | lat |   |   |    | 418-06 | 2:context |          |  |    |    |    |    |
 | w   |        | sum           | xRP | som                 |   | som                  | ſom              |   |   |   |            | dan |   |   |    | 418-06 | 2:context |          |  |    |    |    |    |
-| PE  | b      | JenTho002     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | b      | JenTho002     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    1951|    |    |    |
 | w   |        |               | xNP | Jens                |   | jens                 | ȷen             |   |   |   |            | dan |   |   |    | 418-06 | 2:context |          |  |1951|    |    |    |
 | w   |        |               | xNP | Thomsen             |   | Ta(r)mess(øn)        | Tameſ          |   |   |   |            | dan |   |   |    | 418-06 | 2:context |          |  |1951|    |    |    |
-| PE  | e      | JenTho002     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | e      | JenTho002     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    1951|    |    |    |
 | w   |        | i             | xAV | i                   |   | i                    | ı                |   |   |   |            | dan |   |   |    | 418-06 | 2:context |          |  |    |    |    |    |
 | w   |        | bo            | xVB | bor                 |   | boor                 | booꝛ             |   |   |   |            | dan |   |   |    | 418-06 | 2:context |          |  |    |    |    |    |
 | w   |        | give          | xVB | givende             |   | giffwe(n)d(e)        | gıffwe̅          |   |   |   |            | dan |   |   |    | 418-06 | 2:context |          |  |    |    |    |    |
@@ -218,10 +218,10 @@ initial Ff unique to scribe
 | w   |        | garth         | xNC | gård                |   | gard                 | gaꝛd             |   |   |   |            | dan |   |   |    | 418-07 | 2:context |          |  |    |    |    |    |
 | w   |        | same+stath    | xNC | samme sted          |   | sa(m)mest(et)        | ſa̅meﬅꝫ           |   |   |   |            | dan |   |   |    | 418-07 | 2:context |          |  |    |    |    |    |
 | w   |        | sum           | xRP | som                 |   | som                  | ſom              |   |   |   |            | dan |   |   |    | 418-07 | 2:context |          |  |    |    |    |    |
-| PE  | b      | BodPer001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | b      | BodPer001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    1952|    |    |    |
 | w   |        |               | xNP | Bodil               |   | boel                 | boel             |   |   |   |            | dan |   |   |    | 418-07 | 2:context |          |  |1952|    |    |    |
 | w   |        |               | xNP | Pers                |   | perss                | peꝛ             |   |   |   |            | dan |   |   |    | 418-07 | 2:context |          |  |1952|    |    |    |
-| PE  | e      | BodPer001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | e      | BodPer001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    1952|    |    |    |
 | w   |        | nu            | xAV | nu                  |   | nw                   | nw               |   |   |   |            | dan |   |   |    | 418-07 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAV | i                   |   | i                    | ı                |   |   |   |            | dan |   |   |    | 418-07 | 2:context |          |  |    |    |    |    |
 | w   |        | bo            | xVB | bor                 |   | boor                 | booꝛ             |   |   |   |            | dan |   |   |    | 418-07 | 2:context |          |  |    |    |    |    |
@@ -240,14 +240,14 @@ initial Ff unique to scribe
 | w   |        | en            | xAT | en                  |   | een                  | een              |   |   |   |            | dan |   |   |    | 418-08 | 2:context |          |  |    |    |    |    |
 | w   |        | garth         | xNC | gård                |   | gard                 | gaꝛd             |   |   |   |            | dan |   |   |    | 418-08 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i                   |   | i                    | ı                |   |   |   |            | dan |   |   |    | 418-08 | 2:context |          |  |    |    |    |    |
-| PL  | b      |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | b      |               123442|     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    1829|    |
 | w   |        |               | xNP | Høgebjerg           |   | høgæbiærg            | høgæbıæꝛg        |   |   |   |            | dan |   |   |    | 418-08 | 2:context |          |  |    |    |1829|    |
-| PL  | e      |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |               123442|     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    1829|    |
 | w   |        | sum           | xRP | som                 |   | Som                  | om              |   |   |   |            | dan |   |   |    | 418-08 | 2:context |          |  |    |    |    |    |
-| PE  | b      | MadAnd001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | b      | MadAnd001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    1953|    |    |    |
 | w   |        |               | xNP | Mads                |   | matt(is)             | mattꝭ            |   |   |   |            | dan |   |   |    | 418-08 | 2:context |          |  |1953|    |    |    |
 | w   |        |               | xNP | Andersen            |   | and(e)rss(øn)        | andꝛſ          |   |   |   |            | dan |   |   |    | 418-08 | 2:context |          |  |1953|    |    |    |
-| PE  | e      | MadAnd001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | e      | MadAnd001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    1953|    |    |    |
 | w   |        | nu            | xAV | nu                  |   | nw                   | nw               |   |   |   |            | dan |   |   |    | 418-08 | 2:context |          |  |    |    |    |    |
 | w   |        | i             | xAP | i                   |   | i                    | ı                |   |   |   |            | dan |   |   |    | 418-08 | 2:context |          |  |    |    |    |    |
 | w   |        | bo            | xVB | bor                 |   | boor                 | booꝛ             |   |   |   |            | dan |   |   |    | 418-08 | 2:context |          |  |    |    |    |    |
@@ -550,30 +550,30 @@ initial Ff unique to scribe
 | w   |        | insighle      | xNC | indsegl             |   | indceglæ             | ındceglæ         |   |   |   |            | dan |   |   |    | 418-21 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | sum           | xRP | som                 |   | som                  | ſom              |   |   |   |            | dan |   |   |    | 418-21 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | være          | xVB | er                  |   | ær                   | ær               |   |   |   |            | dan |   |   |    | 418-21 | 3:eschatocol |          |  |    |    |    |    |
-| PE  | b      | JusEri001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | b      | JusEri001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    1954|    |    |    |
 | w   |        |               | xNP | Just                |   | Jost                 | Joﬅ              |   |   |   |            | dan |   |   |    | 418-21 | 3:eschatocol |          |  |1954|    |    |    |
 | w   |        |               | xNP | Eriksen             |   | e(ri)css(øn)         | ecſ            |   |   |   |            | dan |   |   |    | 418-21 | 3:eschatocol |          |  |1954|    |    |    |
-| PE  | e      | JusEri001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | e      | JusEri001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    1954|    |    |    |
 | lm  | 418-22 |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
 | w   |        | forstandere   | xNC | forstander          |   | forsta(n)de(r)       | foꝛﬅa̅de         |   |   |   |            | dan |   |   |    | 418-22 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | i             | xAP | i                   |   | i                    | ı                |   |   |   |            | dan |   |   |    | 418-22 | 3:eschatocol |          |  |    |    |    |    |
-| PL  | b      |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | b      |               3400|     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    1830|    |
 | w   |        |               | xNP | Slangerup           |   | slonge(rv)p          | ſlongeͮp          |   |   |   |            | dan |   |   |    | 418-22 | 3:eschatocol |          |  |    |    |1830|    |
-| PL  | e      |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |               3400|     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    1830|    |
 | w   |        | ok            | xCC | og                  |   | och                  | och              |   |   |   |            | dan |   |   |    | 418-22 | 3:eschatocol |          |  |    |    |    |    |
-| PE  | b      | OluIps001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | b      | OluIps001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    1955|    |    |    |
 | w   |        |               | xNP | Oluf                |   | Olaff                | Olaff            |   |   |   |            | dan |   |   |    | 418-22 | 3:eschatocol |          |  |1955|    |    |    |
 | w   |        |               | xNP | Ipsen               |   | ippss(øn)            | ıſ             |   |   |   |            | dan |   |   |    | 418-22 | 3:eschatocol |          |  |1955|    |    |    |
-| PE  | e      | OluIps001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PE  | e      | OluIps001     |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    1955|    |    |    |
 | w   |        | burghemæstere | xNC | borgmester          |   | burgæmestæ(r)        | burgæmeﬅæᷓ        |   |   |   |            | dan |   |   |    | 418-22 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        | i             | xAP | i                   |   | i                    | ı                |   |   |   |            | dan |   |   |    | 418-22 | 3:eschatocol |          |  |    |    |    |    |
-| PL  | b      |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | b      |               149195|     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    1831|    |
 | w   |        |               | xNP | Roskilde            |   | Rosk(ilde)           | Roſk̅             |   |   |   |            | dan |   |   |    | 418-22 | 3:eschatocol |          |  |    |    |1831|    |
-| PL  | e      |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |               149195|     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    1831|    |
 | w   |        |               |     |                     |   | Dat(um)              | Datꝭ             |   |   |   |            | lat |   |   |    | 418-22 | 3:eschatocol |          |  |    |    |    |    |
-| PL  | b      |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | b      |               149195|     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    1832|    |
 | w   |        |               |     |                     |   | Rosk(ildis)          | Roſk̅             |   |   |   |            | lat |   |   |    | 418-22 | 3:eschatocol |          |  |    |    |1832|    |
-| PL  | e      |               |     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    |    |
+| PL  | e      |               149195|     |                     |   |                      |                  |   |   |   |            |     |   |   |    |        |          |          |  |    |    |    1832|    |
 | w   |        |               |     |                     |   | ip(s)o               | ıp̅o              |   |   |   |            | lat |   |   |    | 418-22 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |               |     |                     |   | die                  | die              |   |   |   |            | lat |   |   |    | 418-22 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |               |     |                     |   | s(anc)ti             | ﬅ̅ı               |   |   |   |            | lat |   |   |    | 418-22 | 3:eschatocol |          |  |    |    |    |    |

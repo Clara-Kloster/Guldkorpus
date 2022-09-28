@@ -44,20 +44,20 @@
 | lm  | 461-01 |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | d   | b      | 1           |     | protocol  |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | jak         | xPE | jeg       |   | Jegh             | Jegh         |   |   |   |   | dan |   |   |   |        461-01 | 1:protocol |          |  |    |    |    |    |
-| PE  | b      | PerOls001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | b      | PerOls001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    2305|    |    |    |
 | w   |        |             | xNP | Peder     |   | ped(er)          | ped         |   |   |   |   | dan |   |   |   |        461-01 | 1:protocol |          |  |2305|    |    |    |
 | w   |        |             | xNP | Olsen     |   | ollsße(n)nd      | ollſße̅nd     |   |   |   |   | dan |   |   |   |        461-01 | 1:protocol |          |  |2305|    |    |    |
-| PE  | e      | PerOls001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | e      | PerOls001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    2305|    |    |    |
 | w   |        | af          | xAP | af        |   | aff              | aff          |   |   |   |   | dan |   |   |   |        461-01 | 1:protocol |          |  |    |    |    |    |
-| PL  | b      |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  | b      |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    2145|    |
 | w   |        |             | xNP | Bonderup  |   | bonder(v)p       | bondeꝛͮp      |   |   |   |   | dan |   |   |   |        461-01 | 1:protocol |          |  |    |    |2145|    |
-| PL  | e      |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  | e      |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    2145|    |
 | w   |        | hæreth      | xNC | herreds   |   | heriitths        | heꝛiitth    |   |   |   |   | dan |   |   |   |        461-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | foghet      | xNC | foged     |   | fogetth          | fogetth      |   |   |   |   | dan |   |   |   |        461-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i           | xAP | i         |   | y                | ÿ            |   |   |   |   | dan |   |   |   |        461-01 | 1:protocol |          |  |    |    |    |    |
-| PL  | b      |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  | b      |             131979|     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    2146|    |
 | w   |        |             | xNP | Merløse   |   | me(er)løsße      | meløſße     |   |   |   |   | dan |   |   |   |        461-01 | 1:protocol |          |  |    |    |2146|    |
-| PL  | e      |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  | e      |             131979|     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    2146|    |
 | w   |        | hæreth      | xNC | Herred    |   | he(r)ytth        | heÿtth      |   |   |   |   | dan |   |   |   |        461-01 | 1:protocol |          |  |    |    |    |    |
 | lm  | 461-02 |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | kænne       | xVB | kendes    |   | kend(is)         | ken         |   |   |   |   | dan |   |   |   |        461-02 | 1:protocol |          |  |    |    |    |    |
@@ -99,18 +99,18 @@
 | w   |        | beskethen   | xAJ | beskeden  |   | beskedend        | beſkedend    |   |   |   |   | dan |   |   |   |        461-04 | 2:context |          |  |    |    |    |    |
 | w   |        | sven        | xNC | svend     |   | ßue(n)nd         | ßűe̅nd        |   |   |   |   | dan |   |   |   |        461-04 | 2:context |          |  |    |    |    |    |
 | lm  | 461-05 |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
-| PE  | b      | BenFyn001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | b      | BenFyn001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    2306|    |    |    |
 | w   |        |             | xNP | Bent      |   | bentth           | bentth       |   |   |   |   | dan |   |   |   |        461-05 | 2:context |          |  |2306|    |    |    |
 | w   |        |             | xNP | Fynbo     |   | føndboff         | føndboff     |   |   |   |   | dan |   |   |   |        461-05 | 2:context |          |  |2306|    |    |    |
-| PE  | e      | BenFyn001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | e      | BenFyn001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    2306|    |    |    |
 | w   |        | foghet      | xNC | foged     |   | fogetth          | fogetth      |   |   |   |   | dan |   |   |   |        461-05 | 2:context |          |  |    |    |    |    |
 | w   |        | til         | xAP | til       |   | tyll             | tyll         |   |   |   |   | dan |   |   |   |        461-05 | 2:context |          |  |    |    |    |    |
 | w   |        |             | xNP | Clara     |   | Clare            | Claꝛe        |   |   |   |   | dan |   |   |   |        461-05 | 2:context |          |  |    |    |    |    |
 | w   |        | kloster     | xNC | kloster   |   | Closter(e)       | Cloſteꝛ     |   |   |   |   | dan |   |   |   |        461-05 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i         |   | y                | ÿ            |   |   |   |   | dan |   |   |   |        461-05 | 2:context |          |  |    |    |    |    |
-| PL  | b      |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  | b      |             149380|     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    2147|    |
 | w   |        |             | xNP | Roskilde  |   | roskylle         | ꝛoſkylle     |   |   |   |   | dan |   |   |   |        461-05 | 2:context |          |  |    |    |2147|    |
-| PL  | e      |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  | e      |             149380|     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    2147|    |
 | w   |        | ænge        | xDD | ingen     |   | Jngend           | Jngend       |   |   |   |   | dan |   |   |   |        461-05 | 2:context |          |  |    |    |    |    |
 | w   |        | thing       | xNC | tinge     |   | tynge            | tÿnge        |   |   |   |   | dan |   |   |   |        461-05 | 2:context |          |  |    |    |    |    |
 | lm  | 461-06 |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -119,16 +119,16 @@
 | w   |        | i           | xAP | i         |   | y                | ÿ            |   |   |   |   | dan |   |   |   |        461-06 | 2:context |          |  |    |    |    |    |
 | w   |        | ræt         | xNC | rette     |   | rette            | ꝛette        |   |   |   |   | dan |   |   |   |        461-06 | 2:context |          |  |    |    |    |    |
 | w   |        | kalle       | xVB | kaldt     |   | kalled           | kalled       |   |   |   |   | dan |   |   |   |        461-06 | 2:context |          |  |    |    |    |    |
-| PE  | b      | JepJør001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | b      | JepJør001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    2307|    |    |    |
 | w   |        |             | xNP | Jep       |   | Jep              | Jep          |   |   |   |   | dan |   |   |   |        461-06 | 2:context |          |  |2307|    |    |    |
 | w   |        |             | XX  |           |   | ⸠00⸡             | ⸠00⸡         |   |   |   |   | dan |   |   |   |        461-06 | 2:context |          |  |2307|    |    |    |
 | w   |        |             | xNP | Jørgensen |   | Jørgensend       | Jøꝛgenſend   |   |   |   |   | dan |   |   |   |        461-06 | 2:context |          |  |2307|    |    |    |
-| PE  | e      | JepJør001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | e      | JepJør001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    2307|    |    |    |
 | w   |        | af          | xAP | af        |   | aff              | aff          |   |   |   |   | dan |   |   |   |        461-06 | 2:context |          |  |    |    |    |    |
-| PL  | b      |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  | b      |             132124|     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    2148|    |
 | w   |        |             | xNP | Mølle     |   | mølle            | mølle        |   |   |   |   | dan |   |   |   |        461-06 | 2:context |          |  |    |    |2148|    |
 | w   |        |             | xNP | Borup     |   | bor(v)r          | boꝛpͮ         |   |   |   |   | dan |   |   |   |        461-06 | 2:context |          |  |    |    |2148|    |
-| PL  | e      |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  | e      |             132124|     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    2148|    |
 | w   |        | for         | xAP | for       |   | for              | foꝛ          |   |   |   |   | dan |   |   |   |        461-06 | 2:context |          |  |    |    |    |    |
 | w   |        | noker       | xDD | nogen     |   | Noge(n)d         | Noge̅d        |   |   |   |   | dan |   |   |   |        461-06 | 2:context |          |  |    |    |    |    |
 | lm  | 461-07 |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
@@ -142,17 +142,17 @@
 | w   |        | sum         | xRP | som       |   | Szom(m)          | zom̅         |   |   |   |   | dan |   |   |   |        461-07 | 2:context |          |  |    |    |    |    |
 | w   |        | ligje       | xVB | ligger    |   | lyge(r)          | lÿge        |   |   |   |   | dan |   |   |   |        461-07 | 2:context |          |  |    |    |    |    |
 | w   |        | til         | xAP | til       |   | tyll             | tÿll         |   |   |   |   | dan |   |   |   |        461-07 | 2:context |          |  |    |    |    |    |
-| PE  | b      | MogAnd002   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | b      | MogAnd002   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    2308|    |    |    |
 | w   |        |             | xNP | Mogens    |   | moe(n)s          | moe̅         |   |   |   |   | dan |   |   |   |        461-07 | 2:context |          |  |2308|    |    |    |
 | p   |        |             |     |           |   | :                | :            |   |   |   |   | dan |   |   |   |        461-07 | 2:context |          |  |2308|    |    |    |
 | lm  | 461-08 |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        |             | xNP | Andensens |   | ande(er)ßend(is) | andeßen    |   |   |   |   | dan |   |   |   |        461-08 | 2:context |          |  |2308|    |    |    |
-| PE  | e      | MogAnd002   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | e      | MogAnd002   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    2308|    |    |    |
 | w   |        | garth       | xNC | gård      |   | ⸠0⸡g{ar}d        | ⸠0⸡g{aꝛ}d    |   |   |   |   | dan |   |   |   |        461-08 | 2:context |          |  |    |    |    |    |
 | w   |        | i           | xAP | i         |   | y                | ÿ            |   |   |   |   | dan |   |   |   |        461-08 | 2:context |          |  |    |    |    |    |
-| PL  | b      |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  | b      |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    2308|    |
 | w   |        |             | xNP | Tåstrup   |   | tost(rv)p        | toſtpͮ        |   |   |   |   | dan |   |   |   |        461-08 | 2:context |          |  |    |    |2308|    |
-| PL  | e      |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PL  | e      |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    2308|    |
 | w   |        | af          | xAP | af        |   | aff              | aff          |   |   |   |   | dan |   |   |   |        461-08 | 2:context |          |  |    |    |    |    |
 | w   |        | ræt         | xNC | rette     |   | rette            | ꝛette        |   |   |   |   | dan |   |   |   |        461-08 | 2:context |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og        |   | Och              | Och          |   |   |   |   | dan |   |   |   |        461-08 | 2:context |          |  |    |    |    |    |
@@ -165,10 +165,10 @@
 | w   |        | husbonde    | xNC | husbonde  |   | hosbonde         | hoſbonde     |   |   |   |   | dan |   |   |   |        461-09 | 2:context |          |  |    |    |    |    |
 | w   |        | ok          | xCC | og        |   | Och              | Och          |   |   |   |   | dan |   |   |   |        461-09 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd    | xAJ | fornævnte |   | for(nefnde)      | foꝛᷠͤ          |   |   |   |   | dan |   |   |   |        461-09 | 2:context |          |  |    |    |    |    |
-| PE  | b      | JepJør001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | b      | JepJør001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    2309|    |    |    |
 | w   |        |             | xNP | Jep       |   | Jep              | Jep          |   |   |   |   | dan |   |   |   |        461-09 | 2:context |          |  |2309|    |    |    |
 | w   |        |             | xNP | Jørgensen |   | Jørgensend       | Jøꝛgenſend   |   |   |   |   | dan |   |   |   |        461-09 | 2:context |          |  |2309|    |    |    |
-| PE  | e      | JepJør001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | e      | JepJør001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    2309|    |    |    |
 | w   |        | um          | xAP | om        |   | om(m)            | om̅           |   |   |   |   | dan |   |   |   |        461-09 | 2:context |          |  |    |    |    |    |
 | w   |        | same        | xAJ | samme     |   | same             | ſame         |   |   |   |   | dan |   |   |   |        461-09 | 2:context |          |  |    |    |    |    |
 | w   |        | skogh       | xNC | skov      |   | skoff            | ſkoff        |   |   |   |   | dan |   |   |   |        461-09 | 2:context |          |  |    |    |    |    |
@@ -199,10 +199,10 @@
 | w   |        | jak         | xPE | jeg       |   | Jeg              | Jeg          |   |   |   |   | dan |   |   |   |        461-11 | 2:context |          |  |    |    |    |    |
 | lm  | 461-12 |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | fornævnd    | xAJ | fornævnte |   | for(nefnde)      | foꝛᷠͤ          |   |   |   |   | dan |   |   |   |        461-12 | 2:context |          |  |    |    |    |    |
-| PE  | b      | JepJør001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | b      | JepJør001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    2310|    |    |    |
 | w   |        |             | xNP | Jep       |   | Jep              | Jep          |   |   |   |   | dan |   |   |   |        461-12 | 2:context |          |  |2310|    |    |    |
 | w   |        |             | xNP | Jørgensen |   | Jørgensend       | Jøꝛgenſend   |   |   |   |   | dan |   |   |   |        461-12 | 2:context |          |  |2310|    |    |    |
-| PE  | e      | JepJør001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | e      | JepJør001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    2310|    |    |    |
 | w   |        | til         | xAP | til       |   | tyll             | tÿll         |   |   |   |   | dan |   |   |   |        461-12 | 2:context |          |  |    |    |    |    |
 | w   |        | at          | xIM | at        |   | atth             | atth         |   |   |   |   | dan |   |   |   |        461-12 | 2:context |          |  |    |    |    |    |
 | w   |        | bøte        | xVB | bøde      |   | bøde             | bøde         |   |   |   |   | dan |   |   |   |        461-12 | 2:context |          |  |    |    |    |    |
@@ -229,18 +229,18 @@
 | w   |        | sva         | xAV | så        |   | so               | ſo           |   |   |   |   | dan |   |   |   |        461-13 | 2:context |          |  |    |    |    |    |
 | w   |        | skjal       | xNC | skel      |   | skell            | ſkell        |   |   |   |   | dan |   |   |   |        461-13 | 2:context |          |  |    |    |    |    |
 | w   |        | at          | xCS | at        |   | atth             | atth         |   |   |   |   | dan |   |   |   |        461-13 | 2:context |          |  |    |    |    |    |
-| PE  | b      | FraBon001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | b      | FraBon001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    2311|    |    |    |
 | w   |        |             | xNP | Franz     |   | franttz          | fꝛanttz      |   |   |   |   | dan |   |   |   |        461-13 | 2:context |          |  |2311|    |    |    |
 | w   |        |             | xNP | Bonere    |   | bone(r)e         | bonee       |   |   |   |   | dan |   |   |   |        461-13 | 2:context |          |  |2311|    |    |    |
-| PE  | e      | FraBon001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | e      | FraBon001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    2311|    |    |    |
 | lm  | 461-14 |             |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
 | w   |        | vilje       | xVB | vil       |   | vell             | vell         |   |   |   |   | dan |   |   |   |        461-14 | 2:context |          |  |    |    |    |    |
 | w   |        | ække        | xAV | ikke      |   | Jcke             | Jcke         |   |   |   |   | dan |   |   |   |        461-14 | 2:context |          |  |    |    |    |    |
 | w   |        | være        | xVB | være      |   | vere             | veꝛe         |   |   |   |   | dan |   |   |   |        461-14 | 2:context |          |  |    |    |    |    |
-| PE  | b      | JepJør001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | b      | JepJør001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    2312|    |    |    |
 | w   |        |             | xNP | Jep       |   | Jep              | Jep          |   |   |   |   | dan |   |   |   |        461-14 | 2:context |          |  |2312|    |    |    |
 | w   |        |             | xNP | Jørgensen |   | Jørgensend(is)   | Jøꝛgenſen   |   |   |   |   | dan |   |   |   |        461-14 | 2:context |          |  |2312|    |    |    |
-| PE  | e      | JepJør001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    |    |    |    |
+| PE  | e      | JepJør001   |     |           |   |                  |              |   |   |   |   |     |   |   |   |               |          |          |  |    2312|    |    |    |
 | w   |        | hemel       | xNC | hjemmel   |   | hemell           | hemell       |   |   |   |   | dan |   |   |   |        461-14 | 2:context |          |  |    |    |    |    |
 | w   |        | for         | xAP | for       |   | for              | foꝛ          |   |   |   |   | dan |   |   |   |        461-14 | 2:context |          |  |    |    |    |    |
 | w   |        | same        | xAJ | samme     |   | so(m)me          | ſo̅me         |   |   |   |   | dan |   |   |   |        461-14 | 2:context |          |  |    |    |    |    |

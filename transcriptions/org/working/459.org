@@ -53,39 +53,39 @@
 | w   |        | læse       | xVB | læse        |   | lesse            | lee        |   |   |   |   | dan |   |   |    |        459-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | helse      | xVB | hilse       |   | Helße            | Helße       |   |   |   |   | dan |   |   |    |        459-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | vi         | xPE | vi          |   | wij              | wij         |   |   |   |   | dan |   |   |    |        459-01 | 1:protocol |          |  |    |    |    |    |
-| PE  | b      | PerOls001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | PerOls001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2265|    |    |    |
 | w   |        |            | xNP | Per         |   | p(er)            | p̲           |   |   |   |   | dan |   |   |    |        459-01 | 1:protocol |          |  |2265|    |    |    |
 | w   |        |            | xNP | Olsen       |   | olßenn           | olßenn      |   |   |   |   | dan |   |   |    |        459-01 | 1:protocol |          |  |2265|    |    |    |
-| PE  | e      | PerOls001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | PerOls001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2265|    |    |    |
 | w   |        | i          | xAP | i           |   | i                | i           |   |   |   |   | dan |   |   |    |        459-01 | 1:protocol |          |  |    |    |    |    |
 | lm  | 459-02 |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| PL  | b      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2108|    |
 | w   |        |            | xNP | Bonderup    |   | bonde(rv)p       | bondeͮp      |   |   |   |   | dan |   |   |    |        459-02 | 1:protocol |          |  |    |    |2108|    |
-| PL  | e      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2108|    |
 | w   |        | hæreth     | xNC | herreds     |   | herritz          | heꝛꝛitz     |   |   |   |   | dan |   |   |    |        459-02 | 1:protocol |          |  |    |    |    |    |
 | w   |        | foghet     | xNC | foged       |   | ffogidtt         | ﬀogidtt     |   |   |   |   | dan |   |   |    |        459-02 | 1:protocol |          |  |    |    |    |    |
 | w   |        | i          | xAP | i           |   | y                | ÿ           |   |   |   |   | dan |   |   |    |        459-02 | 1:protocol |          |  |    |    |    |    |
-| PL  | b      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |            131979|     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2109|    |
 | w   |        |            | xNP | Merløse     |   | mierløsse        | mieꝛløe    |   |   |   |   | dan |   |   |    |        459-02 | 1:protocol |          |  |    |    |2109|    |
-| PL  | e      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |            131979|     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2109|    |
 | w   |        | hæreth     | xNC | herred      |   | Herid            | Heꝛid       |   |   |   |   | dan |   |   |    |        459-02 | 1:protocol |          |  |    |    |    |    |
-| PE  | b      | JenJep001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | JenJep001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2266|    |    |    |
 | w   |        |            | xNP | Jens        |   | iens             | ıen        |   |   |   |   | dan |   |   |    |        459-02 | 1:protocol |          |  |2266|    |    |    |
 | w   |        |            | xNP | Jepsen      |   | iepss(øn)        | ıepſ       |   |   |   |   | dan |   |   |    |        459-02 | 1:protocol |          |  |2266|    |    |    |
-| PE  | e      | JenJep001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | JenJep001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2266|    |    |    |
 | w   |        | i          | xAP | i           |   | i                | i           |   |   |   |   | dan |   |   |    |        459-02 | 1:protocol |          |  |    |    |    |    |
-| PL  | b      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2110|    |
 | w   |        |            | xNP | Stenlille   |   | stenlille        | ﬅenlılle    |   |   |   |   | dan |   |   |    |        459-02 | 1:protocol |          |  |    |    |2110|    |
-| PL  | e      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| PE  | b      | NieLau003  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2110|    |
+| PE  | b      | NieLau003  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2267|    |    |    |
 | w   |        |            | xNP | Niels       |   | niels            | niel       |   |   |   |   | dan |   |   |    |        459-02 | 1:protocol |          |  |2267|    |    |    |
 | lm  | 459-03 |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        |            | xNP | Larsen      |   | lau(ri)ss(øn)    | laŭ̅ſ       |   |   |   |   | dan |   |   |    |        459-03 | 1:protocol |          |  |2267|    |    |    |
-| PE  | e      | NieLau003  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | NieLau003  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2267|    |    |    |
 | w   |        | i          | xAP | i           |   | i                | i           |   |   |   |   | dan |   |   |    |        459-03 | 1:protocol |          |  |    |    |    |    |
-| PL  | b      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2111|    |
 | w   |        |            | xNP | Butterup    |   | bute(rv)p        | bŭteͮp       |   |   |   |   | dan |   |   |    |        459-03 | 1:protocol |          |  |    |    |2111|    |
-| PL  | e      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2111|    |
 | w   |        | ævinnelik  | xAJ | evindelige  |   | Euindelighe      | Eŭindelıghe |   |   |   |   | dan |   |   |    |        459-03 | 1:protocol |          |  |    |    |    |    |
 | w   |        | mæth       | xAP | med         |   | m(et)            | mꝫ          |   |   |   |   | dan |   |   |    |        459-03 | 1:protocol |          |  |    |    |    |    |
 | w   |        | var        | xDP | vor         |   | wor              | woꝛ         |   |   |   |   | dan |   |   |    |        459-03 | 1:protocol |          |  |    |    |    |    |
@@ -128,10 +128,10 @@
 | w   |        | beskethen  | xAJ | beskeden    |   | beskenn(n)       | beſkenn̅     |   |   |   |   | dan |   |   |    |        459-06 | 2:context |          |  |    |    |    |    |
 | lm  | 459-07 |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | sven       | xNC | svend       |   | Suendtt          | ŭendtt     |   |   |   |   | dan |   |   |    |        459-07 | 2:context |          |  |    |    |    |    |
-| PE  | b      | JørSkr001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | JørSkr001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2268|    |    |    |
 | w   |        |            | xNP | Jørgen      |   | iørenn(n)        | iøꝛenn̅      |   |   |   |   | dan |   |   |    |        459-07 | 2:context |          |  |2268|    |    |    |
 | w   |        |            | xNP | Skriver     |   | Schriffuer(e)    | chꝛiﬀŭeꝛ̅   |   |   |   |   | dan |   |   |    |        459-07 | 2:context |          |  |2268|    |    |    |
-| PE  | e      | JørSkr001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | JørSkr001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2268|    |    |    |
 | w   |        | innen      | xAP | inden       |   | indenn(n)        | indenn̅      |   |   |   |   | dan |   |   |    |        459-07 | 2:context |          |  |    |    |    |    |
 | w   |        | thing      | xNC | tinge       |   | tinghe           | tinghe      |   |   |   |   | dan |   |   |    |        459-07 | 2:context |          |  |    |    |    |    |
 | w   |        | mæth       | xAP | med         |   | m(et)            | mꝫ          |   |   |   |   | dan |   |   |    |        459-07 | 2:context |          |  |    |    |    |    |
@@ -160,19 +160,19 @@
 | w   |        | thæn       | xAT | de          |   | de               | de          |   |   |   |   | dan |   |   |    |        459-09 | 2:context |          |  |    |    |    |    |
 | lm  | 459-10 |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | orth       | xNC | ord         |   | ordtt            | oꝛdtt       |   |   |   |   | dan |   |   |    |        459-10 | 2:context |          |  |    |    |    |    |
-| PE  | b      | JepJør001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | JepJør001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2269|    |    |    |
 | w   |        |            | xNP | Jep         |   | iep              | ıep         |   |   |   |   | dan |   |   |    |        459-10 | 2:context |          |  |2269|    |    |    |
 | w   |        |            | xNP | Jørgensen   |   | iørenss(øn)      | ıøꝛenſ     |   |   |   |   | dan |   |   |    |        459-10 | 2:context |          |  |2269|    |    |    |
-| PE  | e      | JepJør001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | JepJør001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2269|    |    |    |
 | w   |        | i          | xAP | i           |   | i                | i           |   |   |   |   | dan |   |   |    |        459-10 | 2:context |          |  |    |    |    |    |
-| PL  | b      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |            132124|     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2112|    |
 | w   |        |            | xNP | Mølle Borup |   | mølleboe(rv)p    | mølleboeͮp   |   |   |   |   | dan |   |   |    |        459-10 | 2:context |          |  |    |    |2112|    |
-| PL  | e      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |            132124|     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2112|    |
 | w   |        | sta        | xVB | stod        |   | stod             | ſtod        |   |   |   |   | dan |   |   |    |        459-10 | 2:context |          |  |    |    |    |    |
 | w   |        | upa        | xAP | på          |   | paa              | paa         |   |   |   |   | dan |   |   |    |        459-10 | 2:context |          |  |    |    |    |    |
-| PL  | b      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |            131979|     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2113|    |
 | w   |        |            | xNP | Merløse     |   | mierløsse        | mieꝛløe    |   |   |   |   | dan |   |   |    |        459-10 | 2:context |          |  |    |    |2113|    |
-| PL  | e      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |            131979|     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2113|    |
 | w   |        | hæreth     | xNC | herreds     |   | heridttz         | heꝛidttz    |   |   |   |   | dan |   |   |    |        459-10 | 2:context |          |  |    |    |    |    |
 | lm  | 459-11 |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | thing      | xNC | ting        |   | tingh            | tingh       |   |   |   |   | dan |   |   |    |        459-11 | 2:context |          |  |    |    |    |    |
@@ -197,20 +197,20 @@
 | w   |        | grund      | xNC | grund       |   | grund            | gꝛŭnd       |   |   |   |   | dan |   |   |    |        459-12 | 2:context |          |  |    |    |    |    |
 | w   |        | sum        | xRP | som         |   | som(m)           | ſom̅         |   |   |   |   | dan |   |   |    |        459-12 | 2:context |          |  |    |    |    |    |
 | lm  | 459-13 |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| PE  |  b     | MogAnd002  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  |  b     | MogAnd002  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2270|    |    |    |
 | w   |        |            | xNP | Mogens      |   | moens            | moen       |   |   |   |   | dan |   |   |    |        459-13 | 2:context |          |  |2270|    |    |    |
 | w   |        |            | xNP | Andersen    |   | anderss(øn)      | andeꝛſ     |   |   |   |   | dan |   |   |    |        459-13 | 2:context |          |  |2270|    |    |    |
-| PE  | e      | MogAnd002  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | MogAnd002  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2270|    |    |    |
 | w   |        | i          | xAP | i           |   | i                | i           |   |   |   |   | dan |   |   |    |        459-13 | 2:context |          |  |    |    |    |    |
-| PL  | b      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2114|    |
 | w   |        |            | xNP | Tåstrup     |   | taast(rv)p       | taaﬅͮp       |   |   |   |   | dan |   |   |    |        459-13 | 2:context |          |  |    |    |2114|    |
-| PL  | e      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2114|    |
 | w   |        | ok         | xCC | og          |   | och              | och         |   |   |   |   | dan |   |   |    |        459-13 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd   | xAJ | fornævnte   |   | for(nefnde)      | foꝛᷠͤ         |   |   |   |   | dan |   |   |    |        459-13 | 2:context |          |  |    |    |    |    |
-| PE  | b      | JepJør001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | JepJør001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2271|    |    |    |
 | w   |        |            | xNP | Jep         |   | iep              | ıep         |   |   |   |   | dan |   |   |    |        459-13 | 2:context |          |  |2271|    |    |    |
 | w   |        |            | xNP | Jørgensen   |   | iørens(øn)       | iøꝛen      |   |   |   |   | dan |   |   |    |        459-13 | 2:context |          |  |2271|    |    |    |
-| PE  | e      | JepJør001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | JepJør001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2271|    |    |    |
 | w   |        | i          | xAP | i           |   | i                | i           |   |   |   |   | dan |   |   |    |        459-13 | 2:context |          |  |    |    |    |    |
 | w   |        | thrætte    | xNC | trætte      |   | trætte           | tꝛætte      |   |   |   |   | dan |   |   |    |        459-13 | 2:context |          |  |    |    |    |    |
 | w   |        | have       | xVB | have        |   | Haffue           | Haﬀŭe       |   |   |   |   | dan |   |   |    |        459-13 | 2:context |          |  |    |    |    |    |
@@ -220,14 +220,14 @@
 | w   |        | mæle       | xVB | mæltes      |   | melt(is)         | meltꝭ       |   |   |   |   | dan |   |   |    |        459-14 | 2:context |          |  |    |    |    |    |
 | w   |        | beskethen  | xAJ | beskeden    |   | beskenn(n)       | beſkenn̅     |   |   |   |   | dan |   |   |    |        459-14 | 2:context |          |  |    |    |    |    |
 | w   |        | man        | xNC | mand        |   | mandtt           | mandtt      |   |   |   |   | dan |   |   |    |        459-14 | 2:context |          |  |    |    |    |    |
-| PE  | b      | PerEri002  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | PerEri002  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2272|    |    |    |
 | w   |        |            | xNP | Per         |   | p(er)            | p̲           |   |   |   |   | dan |   |   |    |        459-14 | 2:context |          |  |2272|    |    |    |
 | w   |        |            | xNP | Eriksen     |   | Erickss(øn)      | Eꝛickſ     |   |   |   |   | dan |   |   |    |        459-14 | 2:context |          |  |2272|    |    |    |
-| PE  | e      | PerEri002  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | PerEri002  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2272|    |    |    |
 | w   |        | i          | xAP | i           |   | i                | i           |   |   |   |   | dan |   |   |    |        459-14 | 2:context |          |  |    |    |    |    |
-| PL  | b      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2115|    |
 | w   |        |            | xNP | Vanløse     |   | wandløsse        | wandløe    |   |   |   |   | dan |   |   |    |        459-14 | 2:context |          |  |    |    |2115|    |
-| PL  | e      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2115|    |
 | lm  | 459-15 |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | til        | xAP | til         |   | thill            | thill       |   |   |   |   | dan |   |   |    |        459-15 | 2:context |          |  |    |    |    |    |
 | w   |        | sik        | xPE | sig         |   | sig              | ſig         |   |   |   |   | dan |   |   |    |        459-15 | 2:context |          |  |    |    |    |    |
@@ -245,75 +245,75 @@
 | w   |        | en         | xPI | en          |   | enn(n)           | enn̅         |   |   |   |   | dan |   |   |    |        459-16 | 2:context |          |  |    |    |    |    |
 | w   |        | sum        | xRP | som         |   | som(m)           | ſom̅         |   |   |   |   | dan |   |   |    |        459-16 | 2:context |          |  |    |    |    |    |
 | w   |        | være       | xVB | var         |   | wor              | woꝛ         |   |   |   |   | dan |   |   |    |        459-16 | 2:context |          |  |    |    |    |    |
-| PE  | b      | PerMad001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | PerMad001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2273|    |    |    |
 | w   |        |            | xNP | Per         |   | p(er)            | p̲           |   |   |   |   | dan |   |   |    |        459-16 | 2:context |          |  |2273|    |    |    |
 | w   |        |            | xNP | Mads        |   | mattz            | mattz       |   |   |   |   | dan |   |   |    |        459-16 | 2:context |          |  |2273|    |    |    |
-| PE  | e      | PerMad001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | PerMad001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2273|    |    |    |
 | w   |        | i          | xAP | i           |   | i                | i           |   |   |   |   | dan |   |   |    |        459-16 | 2:context |          |  |    |    |    |    |
-| PL  | b      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2116|    |
 | w   |        |            | xNP | Ugløse      |   | vggløsse         | vggløe     |   |   |   |   | dan |   |   |    |        459-16 | 2:context |          |  |    |    |2116|    |
-| PL  | e      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| PE  | b      | OluJen005  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2116|    |
+| PE  | b      | OluJen005  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2274|    |    |    |
 | w   |        |            | xNP | Oluf        |   | oluff            | olŭﬀ        |   |   |   |   | dan |   |   |    |        459-16 | 2:context |          |  |2274|    |    |    |
 | w   |        |            | xNP | Jensen      |   | iens(øn)         | ıen        |   |   |   |   | dan |   |   |    |        459-16 | 2:context |          |  |2274|    |    |    |
-| PE  | e      | OluJen005  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | OluJen005  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2274|    |    |    |
 | w   |        | vither     | xAP | ved         |   | vid              | vıd         |   |   |   |   | dan |   |   |    |        459-16 | 2:context |          |  |    |    |    |    |
 | w   |        | beskethen  | xAJ | bækken      |   | bec¦kenn(n)      | bec¦kenn̅    |   |   |   |   | dan |   |   |    | 459-16—459-17 | 2:context |          |  |    |    |    |    |
 | w   |        | ibidem     | xAV |             |   | ibid(em)         | ıbı        |   |   |   |   | lat |   |   |    |        459-17 | 2:context |          |  |    |    |    |    |
-| PE  | b      | HanDey001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | HanDey001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2275|    |    |    |
 | w   |        |            | xNP | Hans        |   | Hans             | Han        |   |   |   |   | dan |   |   |    |        459-17 | 2:context |          |  |2275|    |    |    |
 | w   |        |            | xNP | Deyssen     |   | deyss(øn)        | deyſ       |   |   |   |   | dan |   |   |    |        459-17 | 2:context |          |  |2275|    |    |    |
-| PE  | e      | HanDey001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | HanDey001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2275|    |    |    |
 | w   |        | ibidem     | xAV |             |   | ibid(em)         | ibi        |   |   |   |   | lat |   |   |    |        459-17 | 2:context |          |  |    |    |    |    |
-| PE  | b      | LarNie003  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | LarNie003  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2276|    |    |    |
 | w   |        |            | xNP | Lars        |   | lasse            | lae        |   |   |   |   | dan |   |   |    |        459-17 | 2:context |          |  |2276|    |    |    |
 | w   |        |            | xNP | Nielsen     |   | nielss(øn)       | nielſ      |   |   |   |   | dan |   |   |    |        459-17 | 2:context |          |  |2276|    |    |    |
-| PE  | e      | LarNie003  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | LarNie003  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2276|    |    |    |
 | w   |        | ibidem     | xAV |             |   | ibid(em)         | ibi        |   |   |   |   | lat |   |   |    |        459-17 | 2:context |          |  |    |    |    |    |
-| PE  | b      | OluSke001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | OluSke001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2277|    |    |    |
 | w   |        |            | xNP | Oluf        |   | oluff            | olŭﬀ        |   |   |   |   | dan |   |   |    |        459-17 | 2:context |          |  |2277|    |    |    |
 | w   |        |            | xNP | Skenck      |   | skenck           | ſkenck      |   |   |   |   | dan |   |   |    |        459-17 | 2:context |          |  |2277|    |    |    |
-| PE  | e      | OluSke001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | OluSke001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2277|    |    |    |
 | lm  | 459-18 |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | i          | xAP | i           |   | i                | i           |   |   |   |   | dan |   |   |    |        459-18 | 2:context |          |  |    |    |    |    |
-| PL  | b      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2117|    |
 | w   |        |            | xNP | Sten        |   | stenn(n)         | ﬅenn̅        |   |   |   |   | dan |   |   |    |        459-18 | 2:context |          |  |    |    |2117|    |
 | w   |        |            | xNP | Magle       |   | magle            | magle       |   |   |   |   | dan |   |   |    |        459-18 | 2:context |          |  |    |    |2117|    |
-| PL  | e      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| PE  | b      | JenPou004  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2117|    |
+| PE  | b      | JenPou004  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2278|    |    |    |
 | w   |        |            | xNP | Jens        |   | iens             | ıen        |   |   |   |   | dan |   |   |    |        459-18 | 2:context |          |  |2278|    |    |    |
 | w   |        |            | xNP | Poulsen     |   | poelss(øn)       | poelſ      |   |   |   |   | dan |   |   |    |        459-18 | 2:context |          |  |2278|    |    |    |
-| PE  | e      | JenPou004  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | JenPou004  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2278|    |    |    |
 | w   |        | ibidem     | xAV |             |   | !ebid(em)¡       | !ebi¡      |   |   |   |   | lat |   |   |    |        459-18 | 2:context |          |  |    |    |    |    |
-| PE  | b      | LauNie002  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | LauNie002  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2279|    |    |    |
 | w   |        |            | xNP | Laurids     |   | lauridttz        | laŭꝛıdttz   |   |   |   |   | dan |   |   |    |        459-18 | 2:context |          |  |2279|    |    |    |
 | w   |        |            | xNP | Nielsen     |   | nielss(øn)       | nielſ      |   |   |   |   | dan |   |   |    |        459-18 | 2:context |          |  |2279|    |    |    |
-| PE  | e      | LauNie002  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | LauNie002  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2279|    |    |    |
 | w   |        | i          | xAP | i           |   | i                | i           |   |   |   |   | dan |   |   |    |        459-18 | 2:context |          |  |    |    |    |    |
-| PL  | b      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2118|    |
 | w   |        |            | xNP | Eskilstrup  |   | Elskilst(rv)p    | Elſkilﬅͮp    |   |   |   |   | dan |   |   |    |        459-18 | 2:context |          |  |    |    |2118|    |
-| PL  | e      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2118|    |
 | lm  | 459-19 |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| PE  | b      | HanJep001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | b      | HanJep001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2280|    |    |    |
 | w   |        |            | xNP | Hans        |   | Hans             | Han        |   |   |   |   | dan |   |   |    |        459-19 | 2:context |          |  |2280|    |    |    |
 | w   |        |            | xNP | Jepsen      |   | iepss(øn)        | ıepſ       |   |   |   |   | dan |   |   |    |        459-19 | 2:context |          |  |2280|    |    |    |
-| PE  | e      | HanJep001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | HanJep001  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2280|    |    |    |
 | w   |        | i          | xAP | i           |   | i                | i           |   |   |   |   | dan |   |   |    |        459-19 | 2:context |          |  |    |    |    |    |
-| PL  | b      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2119|    |
 | w   |        |            | xNP | Nørup       |   | nørrup           | nøꝛꝛŭp      |   |   |   |   | dan |   |   |    |        459-19 | 2:context |          |  |    |    |2119|    |
-| PL  | e      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| PE  | b      | JepLau002  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2119|    |
+| PE  | b      | JepLau002  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2281|    |    |    |
 | w   |        |            | xNP | Jep         |   | iep              | ıep         |   |   |   |   | dan |   |   |    |        459-19 | 2:context |          |  |2281|    |    |    |
 | w   |        |            | xNP | Lauridsen   |   | lauridzenn(n)    | laŭꝛıdzenn̅  |   |   |   |   | dan |   |   |    |        459-19 | 2:context |          |  |2281|    |    |    |
-| PE  | e      | JepLau002  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | JepLau002  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2281|    |    |    |
 | w   |        | i          | xAP | i           |   | i                | i           |   |   |   |   | dan |   |   |    |        459-19 | 2:context |          |  |    |    |    |    |
-| PL  | b      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2120|    |
 | w   |        |            | xNP | Tåstrup     |   | taast(rv)p       | taaﬅͮp       |   |   |   |   | dan |   |   |    |        459-19 | 2:context |          |  |    |    |2120|    |
-| PL  | e      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
-| PE  | b      | NieJen016  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2120|    |
+| PE  | b      | NieJen016  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2282|    |    |    |
 | w   |        |            | xNP | Niels       |   | niels            | niel       |   |   |   |   | dan |   |   |    |        459-19 | 2:context |          |  |2282|    |    |    |
 | w   |        |            | xNP | Jensen      |   | ienss(øn)        | ienſ       |   |   |   |   | dan |   |   |    |        459-19 | 2:context |          |  |2282|    |    |    |
-| PE  | e      | NieJen016  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PE  | e      | NieJen016  |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    2282|    |    |    |
 | lm  | 459-20 |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
 | w   |        | ibidem     | xAV |             |   | ibid(em)         | ibi        |   |   |   |   | lat |   |   |    |        459-20 | 2:context |          |  |    |    |    |    |
 | w   |        | thænne     | xDD | disse       |   | thesse           | thee       |   |   |   |   | dan |   |   |    |        459-20 | 2:context |          |  |    |    |    |    |
@@ -366,9 +366,9 @@
 | w   |        | ok         | xCC | og          |   | och              | och         |   |   |   |   | dan |   |   |    |        459-24 | 2:context |          |  |    |    |    |    |
 | w   |        | fare       | xVB | for         |   | ffoer            | ﬀoeꝛ        |   |   |   |   | dan |   |   |    |        459-24 | 2:context |          |  |    |    |    |    |
 | w   |        | upa        | xAP | på          |   | paa              | paa         |   |   |   |   | dan |   |   |    |        459-24 | 2:context |          |  |    |    |    |    |
-| PL  | b      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | b      |            131979|     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2121|    |
 | w   |        |            | xNP | Merløse     |   | mierløsse        | mieꝛløe    |   |   |   |   | dan |   |   |    |        459-24 | 2:context |          |  |    |    |2121|    |
-| PL  | e      |            |     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    |    |
+| PL  | e      |            131979|     |             |   |                  |             |   |   |   |   |     |   |   |    |               |          |          |  |    |    |    2121|    |
 | w   |        | hæreth     | xNC | herreds     |   | Herridttz        | Heꝛꝛidttz   |   |   |   |   | dan |   |   |    |        459-24 | 2:context |          |  |    |    |    |    |
 | w   |        | thing      | xNC | ting        |   | tingh            | tingh       |   |   |   |   | dan |   |   |    |        459-24 | 2:context |          |  |    |    |    |    |
 | w   |        | i          | xAP | i           |   | i                | i           |   |   |   |   | dan |   |   |    |        459-24 | 2:context |          |  |    |    |    |    |

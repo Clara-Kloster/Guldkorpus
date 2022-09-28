@@ -51,9 +51,9 @@
 | w   |        |              | xNC |                |   | professores        | profeſſore     |              |   |   |   | lat |   |   |   |          469-01 | 1:protocol |          |  |    |    |    |    |
 | w   |        | uti          | xAP | udi            |   | vdi                | vdi             |              |   |   |   | dan |   |   |   |          469-01 | 1:protocol |          |  |    |    |    |    |
 | lm  | 469-02 |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
-| PL  | b      |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
+| PL  | b      |              184091|     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    2240|    |
 | w   |        |              | xNP | Københavns     |   | københaffns        | københaffn     |              |   |   |   | dan |   |   |   |          469-02 | 1:protocol |          |  |    |    |2240|    |
-| PL  | e      |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
+| PL  | e      |              184091|     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    2240|    |
 | w   |        | universitet  | xNC | Universitet    |   | Vniuersitet        | Vniŭerſitet     |              |   |   |   | dan |   |   |   |          469-02 | 1:protocol |          |  |    |    |    |    |
 | p   |        |              |     |                |   | ,                  | ,               |              |   |   |   | dan |   |   |   |          469-02 | 1:protocol |          |  |    |    |    |    |
 | w   |        | kænne        | xVB | kendes         |   | kendis             | kendi          |              |   |   |   | dan |   |   |   |          469-02 | 1:protocol |          |  |    |    |    |    |
@@ -103,27 +103,27 @@
 | w   |        | man          | xNC | mand           |   | Mand               | Mand            |              |   |   |   | dan |   |   |   |          469-06 | 2:context |          |  |    |    |    |    |
 | p   |        |              |     |                |   | .                  | .               |              |   |   |   | dan |   |   |   |          469-06 | 2:context |          |  |    |    |    |    |
 | w   |        | doktor       | xNC | doktor         |   | D(octor)           | D               |              |   |   |   | dan |   |   |   |          469-06 | 2:context |          |  |    |    |    |    |
-| PE  | b      | NieHem001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
+| PE  | b      | NieHem001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    2428|    |    |    |
 | w   |        |              | xNP | Niels          |   | Niels              | Niel           |              |   |   |   | dan |   |   |   |          469-06 | 2:context |          |  |2428|    |    |    |
 | w   |        |              | xNP | Hemmingsen     |   | Hemmingßenn        | Hemmingßenn     |              |   |   |   | dan |   |   |   |          469-06 | 2:context |          |  |2428|    |    |    |
-| PE  | e      | NieHem001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
+| PE  | e      | NieHem001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    2428|    |    |    |
 | w   |        | ok           | xCC | og             |   | oc                 | oc              |              |   |   |   | dan |   |   |   |          469-06 | 2:context |          |  |    |    |    |    |
 | w   |        | han          | xPE | hans           |   | hans               | han            |              |   |   |   | dan |   |   |   |          469-06 | 2:context |          |  |    |    |    |    |
 | lm  | 469-07 |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
 | w   |        | husfrue      | xNC | hustru         |   | Hustrue            | Hŭſtrŭe         |              |   |   |   | dan |   |   |   |          469-07 | 2:context |          |  |    |    |    |    |
-| PE  | b      | BirLau001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
+| PE  | b      | BirLau001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    2429|    |    |    |
 | w   |        |              | xNP | Birgitte       |   | Birgitte           | Birgitte        |              |   |   |   | dan |   |   |   |          469-07 | 2:context |          |  |2429|    |    |    |
 | ga  |        | 8_chars      |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
 | w   |        | dotter       | xNC | datter         |   | daatter            | daatter         |              |   |   |   | dan |   |   |   |          469-07 | 2:context |          |  |2429|    |    |    |
-| PE  | e      | BirLau001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
+| PE  | e      | BirLau001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    2429|    |    |    |
 | p   |        |              |     |                |   | ,                  | ,               |              |   |   |   | dan |   |   |   |          469-07 | 2:context |          |  |    |    |    |    |
 | w   |        | en           | xNA | en             |   | Een                | Een             |              |   |   |   | dan |   |   |   |          469-07 | 2:context |          |  |    |    |    |    |
 | w   |        | universitet  | xNC | universitetens |   | Vni¦uersitetens    | Vni¦ŭerſiteten |              |   |   |   | dan |   |   |   | 469-07---469-08 | 2:context |          |  |    |    |    |    |
 | w   |        | ænghaghe     | xNC | enghave        |   | Enghauffue         | Enghaŭffŭe      |              |   |   |   | dan |   |   |   |          469-08 | 2:context |          |  |    |    |    |    |
 | w   |        | uti          | xAP | udi            |   | vdi                | vdi             |              |   |   |   | dan |   |   |   |          469-08 | 2:context |          |  |    |    |    |    |
-| PL  | b      |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
+| PL  | b      |              149195|     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    2241|    |
 | w   |        |              | xNP | Roskilde       |   | Roskilde           | Roſkilde        |              |   |   |   | dan |   |   |   |          469-08 | 2:context |          |  |    |    |2241|    |
-| PL  | e      |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
+| PL  | e      |              149195|     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    2241|    |
 | p   |        |              |     |                |   | ,                  | ,               |              |   |   |   | dan |   |   |   |          469-08 | 2:context |          |  |    |    |    |    |
 | w   |        | kalle        | xVB | kaldes         |   | kaldis             | kaldi          |              |   |   |   | dan |   |   |   |          469-08 | 2:context |          |  |    |    |    |    |
 | w   |        |              | xNP | Clara          |   | Clare              | Clare           |              |   |   |   | dan |   |   |   |          469-08 | 2:context |          |  |    |    |    |    |
@@ -144,10 +144,10 @@
 | w   |        | var          | xDP | vor            |   | vor                | vor             |              |   |   |   | dan |   |   |   |          469-10 | 2:context |          |  |    |    |    |    |
 | w   |        | kollegiatus  | xNC | kollega        |   | Colle¦ga           | Colle¦ga        |              |   |   |   | dan |   |   |   | 469-10---469-11 | 2:context |          |  |    |    |    |    |
 | w   |        | doktor       | xNC | doktor         |   | D(octor)           | D.              |              |   |   |   | dan |   |   |   |          469-11 | 2:context |          |  |    |    |    |    |
-| PE  | b      | AndLau002    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
+| PE  | b      | AndLau002    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    2430|    |    |    |
 | w   |        |              | xNP | Anders         |   | Anders             | Ander          |              |   |   |   | dan |   |   |   |          469-11 | 2:context |          |  |2430|    |    |    |
 | w   |        |              | xNP | Lauritsen      |   | Laurissen          | Laŭriſſen       |              |   |   |   | dan |   |   |   |          469-11 | 2:context |          |  |2430|    |    |    |
-| PE  | e      | AndLau002    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
+| PE  | e      | AndLau002    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    2430|    |    |    |
 | w   |        | nu           | xAV | nu             |   | nu                 | nŭ              |              |   |   |   | dan |   |   |   |          469-11 | 2:context |          |  |    |    |    |    |
 | w   |        | sitherst     | xAV | sidst          |   | sidst              | ſidſt           |              |   |   |   | dan |   |   |   |          469-11 | 2:context |          |  |    |    |    |    |
 | w   |        | uti          | xAP | udi            |   | vdi                | vdi             |              |   |   |   | dan |   |   |   |          469-11 | 2:context |          |  |    |    |    |    |
@@ -164,9 +164,9 @@
 | w   |        | uti          | xAP | udi            |   | vdi                | vdi             |              |   |   |   | dan |   |   |   |          469-12 | 2:context |          |  |    |    |    |    |
 | w   |        | al           | xAJ | al             |   | all                | all             |              |   |   |   | dan |   |   |   |          469-12 | 2:context |          |  |    |    |    |    |
 | w   |        | doktor       | xNC | doktor         |   | D(octor)           | D.              |              |   |   |   | dan |   |   |   |          469-12 | 2:context |          |  |    |    |    |    |
-| PE  | b      | NieHem001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
+| PE  | b      | NieHem001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    2431|    |    |    |
 | w   |        |              | xNP | Niels         |   | Nielsis            | Nielſi         |              |   |   |   | dan |   |   |   |          469-12 | 2:context |          |  |2431|    |    |    |
-| PE  | e      | NieHem001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
+| PE  | e      | NieHem001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    2431|    |    |    |
 | lm  | 469-13 |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
 | w   |        | liv          | xNC | livs           |   | liffs              | liff           |              |   |   |   | dan |   |   |   |          469-13 | 2:context |          |  |    |    |    |    |
 | w   |        | tith         | xNC | tid            |   | tid                | tid             |              |   |   |   | dan |   |   |   |          469-13 | 2:context |          |  |    |    |    |    |
@@ -188,9 +188,9 @@
 | w   |        | guth         | xNC | Gud            |   | Gud                | Gŭd             |              |   |   |   | dan |   |   |   |          469-14 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd     | xAJ | fornævnte      |   | for(nefnde)        | forᷠͤ             |              |   |   |   | dan |   |   |   |          469-14 | 2:context |          |  |    |    |    |    |
 | w   |        | doktor       | xNC | doktor         |   | D(octor)           | D.              |              |   |   |   | dan |   |   |   |          469-14 | 2:context |          |  |    |    |    |    |
-| PE  | b      | NieHem001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
+| PE  | b      | NieHem001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    2432|    |    |    |
 | w   |        |              | xNP | Niels          |   | Niels              | Niel           |              |   |   |   | dan |   |   |   |          469-14 | 2:context |          |  |2432|    |    |    |
-| PE  | e      | NieHem001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
+| PE  | e      | NieHem001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    2432|    |    |    |
 | lm  | 469-15 |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
 | w   |        | fyrst        | xAV | først          |   | først              | førſt           |              |   |   |   | dan |   |   |   |          469-15 | 2:context |          |  |    |    |    |    |
 | w   |        | af           | xAP | af             |   | aff                | aff             |              |   |   |   | dan |   |   |   |          469-15 | 2:context |          |  |    |    |    |    |
@@ -284,9 +284,9 @@
 | pm  | 469-26 |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
 | w   |        | fornævnd     | xAJ | fornævnte      |   | for(nefnde)        | forᷠͤ             |              |   |   |   | dan |   |   |   |          469-26 | 2:context |          |  |    |    |    |    |
 | w   |        | doktor       | xNC | doktor         |   | D(octor)           | D.              |              |   |   |   | dan |   |   |   |          469-26 | 2:context |          |  |    |    |    |    |
-| PE  | b      | NieHem001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
+| PE  | b      | NieHem001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    2433|    |    |    |
 | w   |        |              | xNP | Niels          |   | Niels              | Niel           |              |   |   |   | dan |   |   |   |          469-26 | 2:context |          |  |2433|    |    |    |
-| PE  | e      | NieHem001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
+| PE  | e      | NieHem001    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    2433|    |    |    |
 | w   |        | ok           | xCC | og             |   | oc                 | oc              |              |   |   |   | dan |   |   |   |          469-26 | 2:context |          |  |    |    |    |    |
 | w   |        | fornævnd     | xAJ | fornævnte      |   | for(nefnde)        | forᷠͤ             |              |   |   |   | dan |   |   |   |          469-26 | 2:context |          |  |    |    |    |    |
 | w   |        | han          | xPE | hans           |   | hans               | han            |              |   |   |   | dan |   |   |   |          469-26 | 2:context |          |  |    |    |    |    |
@@ -320,10 +320,10 @@
 | ad  | e      |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
 | w   |        | sum          | xRP | som            |   | som                | om             |              |   |   |   | dan |   |   |   |          469-28 | 2:context |          |  |    |    |    |    |
 | w   |        | doktor       | xNC | doktor         |   | D(octor)           | D.              |              |   |   |   | dan |   |   |   |          469-28 | 2:context |          |  |    |    |    |    |
-| PE  | b      | AndLau002    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
+| PE  | b      | AndLau002    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    2434|    |    |    |
 | w   |        |              | xNP | Anders         |   | Anders             | Ander          |              |   |   |   | dan |   |   |   |          469-28 | 2:context |          |  |2434|    |    |    |
 | w   |        |              | xNP | Lauritsen      |   | Laurissen          | Laŭriſſen       |              |   |   |   | dan |   |   |   |          469-28 | 2:context |          |  |2434|    |    |    |
-| PE  | e      | AndLau002    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
+| PE  | e      | AndLau002    |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    2434|    |    |    |
 | lm  | 469-29 |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
 | w   |        | ok           | xAV | og             |   | oc                 | oc              |              |   |   |   | dan |   |   |   |          469-29 | 2:context |          |  |    |    |    |    |
 | w   |        | have         | xVB | havde          |   | haffde             | haffde          |              |   |   |   | dan |   |   |   |          469-29 | 2:context |          |  |    |    |    |    |
@@ -401,9 +401,9 @@
 | w   |        | insighle     | xNC | indsegle        |   | Indsegle           | Indſegle        |              |   |   |   | dan |   |   |   |          469-37 | 3:eschatocol |          |  |    |    |    |    |
 | p   |        |              |     |                |   | .                  | .               |              |   |   |   | dan |   |   |   |          469-37 | 3:eschatocol |          |  |    |    |    |    |
 | w   |        |              | lat |                |   | Dat(um)            | Dat.            |              |   |   |   | lat |   |   |   |          469-37 | 3:eschatocol |          |  |    |    |    |    |
-| PL  | b      |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
+| PL  | b      |              131422|     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    2242|    |
 | w   |        |              | xNP |                |   | Køffuenhaffn       | Køffŭenhaffn    |              |   |   |   | dan |   |   |   |          469-37 | 3:eschatocol |          |  |    |    |2242|    |
-| PL  | e      |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
+| PL  | e      |              131422|     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    2242|    |
 | p   |        |              |     |                |   | ,                  | ,               |              |   |   |   | dan |   |   |   |          469-37 | 3:eschatocol |          |  |    |    |    |    |
 | lm  | 469-38 |              |     |                |   |                    |                 |              |   |   |   |     |   |   |   |                 |          |          |  |    |    |    |    |
 | n   |        |              | lat |                |   | 2                  | 2               |              |   |   |   | dan |   |   |   |          469-38 | 3:eschatocol |          |  |    |    |    |    |
