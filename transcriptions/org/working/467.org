@@ -51,16 +51,16 @@ wdblac = w with breve
 | w   |        |                    | xNP | Andersen            |   | anders(øn)                | ander             |             |   |   |     | dan |   |   |    |        467-01 |
 | PE  | e      | OluAnd003          |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | i                  | xAP | i                   |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-01 |
-| PL  | b      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | b      |                    148997|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |                    | xNP | Gørslev             |   | gørsløff                  | gørſløff           |             |   |   |     | dan |   |   |    |        467-01 |
-| PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | e      |                    148997|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | hæreth             | xNC | herreds             |   | heritz                    | heritz             |             |   |   |     | dan |   |   |    |        467-01 |
 | w   |        | foghet             | xNC | foged               |   | fogitt                    | fogitt             |             |   |   |     | dan |   |   |    |        467-01 |
 | w   |        | i                  | xAP | i                   |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-01 |
-| PL  | b      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | b      |                    102497|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |                    | xNP | Bæverskovs          |   | bieffwirskuffs            | bieffwirſkŭff     |             |   |   |     | dan |   |   |    |        467-01 |
 | w   |        | hæreth             | xNC | Herred              |   | heritt                    | heritt             |             |   |   |     | dan |   |   |    |        467-01 |
-| PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | e      |                    102497|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | lm  | 467-02 |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | PE  | b      | LauChr001          |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |                    | xNP | Laurids             |   | laffwris                  | laffwri           |             |   |   |     | dan |   |   |    |        467-02 |
@@ -72,9 +72,9 @@ wdblac = w with breve
 | w   |        |                    | xNP | Jørgensen           |   | Jørgens(øn)               | Jørgen            |             |   |   |     | dan |   |   |    |        467-02 |
 | PE  | e      | PedJør002          |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | i                  | xAP | i                   |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-02 |
-| PL  | b      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | b      |                    102566|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |                    | xNP | Herfølge            |   | herføgle                  | herføgle           |             |   |   |     | dan |   |   |    |        467-02 |
-| PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | e      |                    102566|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | p   |        |                    |     |                     |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-02 |
 | w   |        | kænne              | xVB | kendes              |   | kiendis                   | kiendi            |             |   |   |     | dan |   |   |    |        467-02 |
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-02 |
@@ -119,9 +119,9 @@ wdblac = w with breve
 | w   |        | ærlik              | xAJ | ærlige              |   | Erliige                   | Erliige            |             |   |   |     | dan |   |   |    |        467-05 |
 | w   |        | man                | xNC | mænder              |   | mender                    | mender             |             |   |   |     | dan |   |   |    |        467-05 |
 | w   |        | af                 | xAP | af                  |   | aff                       | aff                |             |   |   |     | dan |   |   |    |        467-05 |
-| PL  | b      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | b      |                    139738|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | fin                | xAJ | fin                 |   | fiin                      | fiin               |             |   |   | Fyn | dan |   |   |    |        467-05 |
-| PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | e      |                    139738|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | p   |        |                    |     |                     |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-05 |
 | PE  | b      | PedTor003          |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |                    | xNP | Peder               |   | peder                     | peder              |             |   |   |     | dan |   |   |    |        467-05 |
@@ -215,19 +215,19 @@ wdblac = w with breve
 | w   |        |                    | xNP | Rosenkrantz         |   | Rosenkrantz               | Roſenkrantz        |             |   |   |     | dan |   |   |    |        467-10 |
 | PE  | e      | MetRos001          |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | til                | xAP | til                 |   | thill                     | thill              |             |   |   |     | dan |   |   |    |        467-10 |
-| PL  | b      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | b      |                    102614|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |                    | xNP | Vallø               |   | walø                      | walø               |             |   |   |     | dan |   |   |    |        467-10 |
-| PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | e      |                    102614|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | være               | xVB | var                 |   | war                       | war                |             |   |   |     | dan |   |   |    |        467-10 |
 | w   |        | loghlik            | xAJ | lovligen            |   | luffliigen                | lŭffliigen         |             |   |   |     | dan |   |   |    |        467-10 |
 | w   |        | til                | xAV | til                 |   | thiil                     | thiil              |             |   |   |     | dan |   |   |    |        467-10 |
 | w   |        | kalle              | xVB | kaldt               |   | kallitt                   | kallitt            |             |   |   |     | dan |   |   |    |        467-10 |
 | p   |        |                    |     |                     |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-10 |
 | w   |        | at                 | xCS | ad                  |   | ad                        | ad                 |             |   |   |     | dan |   |   |    |        467-10 |
-| PL  | b      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | b      |                    102582|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | rep                | xNC | rebe                |   | rebe                      | rebe               |             |   |   |     | dan |   |   |    |        467-10 |
 | w   |        |                    | xNP | Svansbjerg          |   | suans bierh               | ſŭan bierh        |             |   |   |     | dan |   |   |    |        467-10 |
-| PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | e      |                    102582|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | lm  | 467-11 |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | skogh              | xNC | skov                |   | skuff                     | ſkŭff              |             |   |   |     | dan |   |   |    |        467-11 |
 | p   |        |                    |     |                     |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-11 |
@@ -287,9 +287,9 @@ wdblac = w with breve
 | lm  | 467-15 |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | vægh               | xNC | vegne               |   | wegne                     | wegne              |             |   |   |     | dan |   |   |    |        467-15 |
 | w   |        | til                | xAP | til                 |   | thiil                     | thiil              |             |   |   |     | dan |   |   |    |        467-15 |
-| PL  | b      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | b      |                    102614|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |                    | xNP | Vallø               |   | walø                      | walø               |             |   |   |     | dan |   |   |    |        467-15 |
-| PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | e      |                    102614|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | p   |        |                    |     |                     |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-15 |
 | w   |        | thæslike           | xAV | desligest           |   | dissligest                | diſſligeſt         |             |   |   |     | dan |   |   |    |        467-15 |
 | w   |        | ærlik              | xAJ | ærlige              |   | Erliige                   | Erliige            |             |   |   |     | dan |   |   |    |        467-15 |
@@ -302,9 +302,9 @@ wdblac = w with breve
 | PE  | e      | OluBil001          |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | lm  | 467-16 |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | til                | xAP | til                 |   | thill                     | thill              |             |   |   |     | dan |   |   |    |        467-16 |
-| PL  | b      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | b      |                    3638|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |                    | xNP | Svanholm            |   | Suanholm                  | ŭanhol           |             |   |   |     | dan |   |   |    |        467-16 |
-| PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | e      |                    3638|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-16 |
 | w   |        | upa                | xAP | på                  |   | pa                        | pa                 |             |   |   |     | dan |   |   |    |        467-16 |
 | w   |        | sin                | xDP | sin                 |   | sin                       | ſin                |             |   |   |     | dan |   |   |    |        467-16 |
@@ -347,9 +347,9 @@ wdblac = w with breve
 | w   |        |                    | xNP | Rosenkrantz         |   | Rosenkrantz               | Roſenkrantz        |             |   |   |     | dan |   |   |    |        467-19 |
 | PE  | e      | MetRos001          |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | til                | xAP | til                 |   | thiil                     | thiıl              |             |   |   |     | dan |   |   |    |        467-19 |
-| PL  | b      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | b      |                    102614|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |                    | xNP | Valløs              |   | waløs                     | walø              |             |   |   |     | dan |   |   |    |        467-19 |
-| PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | e      |                    102614|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | vægh               | xNC | vegne               |   | wegne                     | wegne              |             |   |   |     | dan |   |   |    |        467-19 |
 | p   |        |                    |     |                     |   | .                         | .                  |             |   |   |     | dan |   |   |    |        467-19 |
 | w   |        | thæslike           | xAV | desligest          |   | disligest                 | diſligeſt          |             |   |   |     | dan |   |   |    |        467-19 |
@@ -390,9 +390,9 @@ wdblac = w with breve
 | w   |        |                    | xNP | Skriver             |   | skriffwer                 | ſkriffwer          |             |   |   |     | dan |   |   |    |        467-22 |
 | PE  | e      | NieSkr001          |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | af                 | xAP | af                  |   | aff                       | aff                |             |   |   |     | dan |   |   |    |        467-22 |
-| PL  | b      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | b      |                    131422|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |                    | xNP | København           |   | købing haffwin            | købing haffwin     |             |   |   |     | dan |   |   |    |        467-22 |
-| PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | e      |                    131422|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | upa                | xAP | på                  |   | pa                        | pa                 |             |   |   |     | dan |   |   |    |        467-22 |
 | w   |        | thæn               | xAT | de                  |   | dij                       | dij                |             |   |   |     | dan |   |   |    |        467-22 |
 | w   |        | høgh+lære          | xVB | højlærdes           |   | høglerdes                 | høglerde          |             |   |   |     | dan |   |   |    |        467-22 |
@@ -400,9 +400,9 @@ wdblac = w with breve
 | w   |        | i                  | xAP | i                   |   | ij                        | ij                 |             |   |   |     | dan |   |   |    |        467-22 |
 | w   |        | fornævnd           | xAJ | fornævnte           |   | for(nefnde)               | for.ᷠͤ               |             |   |   |     | dan |   |   |    |        467-22 |
 | lm  | 467-23 |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
-| PL  | b      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | b      |                    131422|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |                    | xNP | København           |   | købing haffwin            | købing haffwin     |             |   |   |     | dan |   |   |    |        467-23 |
-| PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | e      |                    131422|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | p   |        |                    |     |                     |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-23 |
 | w   |        | hvilik             | xDD | hvilke              |   | huilke                    | hŭilke             |             |   |   |     | dan |   |   |    |        467-23 |
 | w   |        | fornævnd           | xAJ | fornævnte           |   | for(nefnde)               | for.ᷠͤ               |             |   |   |     | dan |   |   |    |        467-23 |
@@ -444,9 +444,9 @@ wdblac = w with breve
 | p   |        |                    |     |                     |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-25 |
 | lm  | 467-26 |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | uti                | xAP | udi                 |   | ud ij                     | ŭd ij              |             |   |   |     | dan |   |   |    |        467-26 |
-| PL  | b      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | b      |                    102582|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |                    | xNP | Svansbjerg          |   | Suansbierh                | ŭanſbierh         |             |   |   |     | dan |   |   |    |        467-26 |
-| PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | e      |                    102582|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | ligje              | xVB | ligger              |   | liiger                    | liiger             |             |   |   |     | dan |   |   |    |        467-26 |
 | w   |        | mæth               | xAP | med                 |   | med                       | med                |             |   |   |     | dan |   |   |    |        467-26 |
 | w   |        | thæn               | xPE | deres               |   | deris                     | deri              |             |   |   |     | dan |   |   |    |        467-26 |
@@ -478,9 +478,9 @@ wdblac = w with breve
 | w   |        | ænde               | xNC | ende                |   | ende                      | ende               |             |   |   |     | dan |   |   |    |        467-28 |
 | w   |        | upa                | xAP | på                  |   | pa                        | pa                 |             |   |   |     | dan |   |   |    |        467-28 |
 | w   |        | fornævnd           | xAJ | fornævnte           |   | for(nefnde)               | for.ᷠͤ               |             |   |   |     | dan |   |   |    |        467-28 |
-| PL  | b      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | b      |                    102582|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |                    | xNP | Svansbjerg          |   | Suansbierh                | ŭanſbierh         |             |   |   |     | dan |   |   |    |        467-28 |
-| PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | e      |                    102582|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | skogh              | xNC | skov                |   | skuff                     | ſkŭff              |             |   |   |     | dan |   |   |    |        467-28 |
 | w   |        | vither             | xAP | ved                 |   | wid                       | wid                |             |   |   |     | dan |   |   |    |        467-28 |
 | p   |        |                    |     |                     |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-28 |
@@ -494,10 +494,10 @@ wdblac = w with breve
 | w   |        | skogh              | xNC | skov                |   | skuff                     | ſkŭff              |             |   |   |     | dan |   |   |    |        467-29 |
 | PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-29 |
-| PL  | b      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | b      |                    102582|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |                    | xNP | Svansbjerg          |   | Suansbierh                | ŭanſbierh         |             |   |   |     | dan |   |   |    |        467-29 |
 | w   |        | skogh              | xNC | skov                |   | skuff                     | ſkŭff              |             |   |   |     | dan |   |   |    |        467-29 |
-| PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | e      |                    102582|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | sum                | xRP | som                 |   | som(m)                    | ſom̅                |             |   |   |     | dan |   |   |    |        467-29 |
 | lm  | 467-30 |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | være               | xVB | var                 |   | war                       | war                |             |   |   |     | dan |   |   |    |        467-30 |
@@ -591,10 +591,10 @@ wdblac = w with breve
 | p   |        |                    |     |                     |   | .                         | .                  |             |   |   |     | dan |   |   |    |        467-35 |
 | lm  | 467-36 |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-36 |
-| PL  | b      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | b      |                    102582|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |                    | xNP | Svansbjerg          |   | Suansbierh                | ŭanſbierh         |             |   |   |     | dan |   |   |    |        467-36 |
 | w   |        | skogh              | xNC | skov                |   | skuff                     | ſkŭff              |             |   |   |     | dan |   |   |    |        467-36 |
-| PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | e      |                    102582|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | p   |        |                    |     |                     |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-36 |
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-36 |
 | w   |        | blive              | xVB | blev                |   | bliff                     | bliff              |             |   |   |     | dan |   |   |    |        467-36 |
@@ -622,10 +622,10 @@ wdblac = w with breve
 | w   |        | skogh              | xNC | skov                |   | skuff                     | ſkŭff              |             |   |   |     | dan |   |   |    |        467-37 |
 | PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-37 |
-| PL  | b      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | b      |                    102582|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |                    | xNP | Svansbjerg          |   | Suansbierh                | ŭanſbierh         |             |   |   |     | dan |   |   |    |        467-37 |
 | w   |        | skogh              | xNC | skov                |   | skuff                     | ſkŭff              |             |   |   |     | dan |   |   |    |        467-37 |
-| PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | e      |                    102582|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | lm  | 467-38 |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | vither             | xAP | ved                 |   | wid                       | wid                |             |   |   |     | dan |   |   |    |        467-38 |
 | w   |        | en                 | xAT | en                  |   | en                        | en                 |             |   |   |     | dan |   |   |    |        467-38 |
@@ -803,10 +803,10 @@ wdblac = w with breve
 | w   |        | væsten             | xAV | vesten              |   | westen                    | weſten             |             |   |   |     | dan |   |   |    |        467-49 |
 | w   |        | upa                | xAP | på                  |   | pa                        | pa                 |             |   |   |     | dan |   |   |    |        467-49 |
 | w   |        | fornævnd           | xAJ | fornævnte           |   | for(nefnde)               | for.ᷠͤ               |             |   |   |     | dan |   |   |    |        467-49 |
-| PL  | b      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | b      |                    102582|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |                    | xNP | Svansbjerg          |   | Suansbierh                | ŭanſbierh         |             |   |   |     | dan |   |   |    |        467-49 |
 | w   |        | skogh              | xNC | skov                |   | skuff                     | ſkŭff              |             |   |   |     | dan |   |   |    |        467-49 |
-| PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | e      |                    102582|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | af                 | xAP | af                  |   | aff                       | aff                |             |   |   |     | dan |   |   |    |        467-49 |
 | w   |        | north                | xNC | nør                 |   | Nør                       | Nør                |             |   |   |     | dan |   |   |    |        467-49 |
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-49 |
@@ -823,10 +823,10 @@ wdblac = w with breve
 | w   |        | skogh              | xNC | skov                |   | skuff                     | ſkŭff              |             |   |   |     | dan |   |   |    |        467-50 |
 | PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-50 |
-| PL  | b      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | b      |                    102582|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |                    | xNP | Svansbjerg          |   | Suansbierh                | ŭanſbierh         |             |   |   |     | dan |   |   |    |        467-50 |
 | w   |        | skogh              | xNC | skov                |   | skuff                     | ſkŭff              |             |   |   |     | dan |   |   |    |        467-50 |
-| PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | e      |                    102582|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | p   |        |                    |     |                     |   | ,                         | ,                  |             |   |   |     | dan |   |   |    |        467-50 |
 | w   |        | ok                 | xCC | og                  |   | oc                        | oc                 |             |   |   |     | dan |   |   |    |        467-50 |
 | w   |        | blive              | xVB | blev                |   | bliff                     | bliff              |             |   |   |     | dan |   |   |    |        467-50 |
@@ -1198,9 +1198,9 @@ wdblac = w with breve
 | w   |        |                    | xNP | Skriver             |   | skriffwere                | ſkriffwere         |             |   |   |     | dan |   |   |    |        467-73 |
 | PE  | e      | NieSkr001          |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | af                 | xAP | af                  |   | aff                       | aff                |             |   |   |     | dan |   |   |    |        467-73 |
-| PL  | b      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | b      |                    131422|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |                    | xNP | København           |   | kø¦bing haffwin           | kø¦bing haffwin    |             |   |   |     | dan |   |   |    | 467-73—467-74 |
-| PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | e      |                    131422|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | upa                | xAP | på                  |   | pa                        | pa                 |             |   |   |     | dan |   |   |    |        467-74 |
 | ad  | b      |                    |     |                     |   |                           |                    | supralinear |   |   |     |     |   |   |    |               |
 | w   |        | thæn               | xAT | de                  |   | di                        | di                 |             |   |   |     | dan |   |   |    |        467-74 |
@@ -1208,9 +1208,9 @@ wdblac = w with breve
 | w   |        | fornævnd+høgh+lære | xVB | fornævnte hæjlærdes |   | ⸠for(nefnde)⸡⸝høg⸜ lerdis | ⸠for.ᷠͤ⸡⸝høg⸜ lerdi |             |   |   |     | dan |   |   |    |        467-74 |
 | w   |        | i                  | xAP | i                   |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-74 |
 | w   |        | fornævnd           | xAJ | fornævnte           |   | for(nefnde)               | for.ᷠͤ               |             |   |   |     | dan |   |   |    |        467-74 |
-| PL  | b      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | b      |                    131422|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |                    | xNP | København           |   | købing haffwin            | købing haffwin     |             |   |   |     | dan |   |   |    |        467-74 |
-| PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | e      |                    131422|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | en                 | xAT | et                  |   | itt                       | itt                |             |   |   |     | dan |   |   |    |        467-74 |
 | w   |        | uvildigh           | xAJ | uvildigt            |   | uwi¦ligtt                 | ŭwi¦ligtt          |             |   |   |     | dan |   |   |    | 467-74—467-75 |
 | w   |        | thing              | xNC | tings               |   | things                    | thing             |             |   |   |     | dan |   |   |    |        467-75 |
@@ -1269,9 +1269,9 @@ wdblac = w with breve
 | w   |        |                    | xNP | Ipsen               |   | ips(øn)                   | ip                |             |   |   |     | dan |   |   |    |        467-78 |
 | PE  | e      | HanIps002          |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | i                  | xAP | i                   |   | y                         | ÿ                  |             |   |   |     | dan |   |   |    |        467-78 |
-| PL  | b      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | b      |                    102566|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |                    | xNP | Herfølge            |   | herfø⸌l⸍gle               | herfø⸌l⸍gle        |             |   |   |     | dan |   |   |    |        467-78 |
-| PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | e      |                    102566|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | PE  | b      | AndAnd001          |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |                    | xNP | Anders              |   | [a]nders                  | [a]nder           |             |   |   |     | dan |   |   |    |        467-78 |
 | w   |        |                    | xNP | Andersen            |   | anders(øn)                | ander             |             |   |   |     | dan |   |   |    |        467-78 |
@@ -1307,11 +1307,11 @@ wdblac = w with breve
 | w   |        | sanhet             | xNC | sandhed             |   | Sandheid                  | andheid           |             |   |   |     | dan |   |   |    |        467-80 |
 | w   |        | um                 | xAP | om                  |   | om                        | om                 |             |   |   |     | dan |   |   |    |        467-80 |
 | w   |        | fornævnd           | xAJ | fornævnte           |   | for(nefnde)               | for.ᷠͤ               |             |   |   |     | dan |   |   |    |        467-80 |
-| PL  | b      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | b      |                    102582|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        |                    | xNP | Svansbjerg          |   | Suansbierh                | ŭanſbierh         |             |   |   |     | dan |   |   |    |        467-80 |
 | lm  | 467-81 |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | skogh              | xNC | skov                |   | skuff                     | ſkŭff              |             |   |   |     | dan |   |   |    |        467-81 |
-| PL  | e      |                    |     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
+| PL  | e      |                    102582|     |                     |   |                           |                    |             |   |   |     |     |   |   |    |               |
 | w   |        | sum                | xCS | som                 |   | som                       | ſom                |             |   |   |     | dan |   |   |    |        467-81 |
 | w   |        | fornævnd           | xAJ | fornævnt            |   | for(nefnde)               | forᷠͤ                |             |   |   |     | dan |   |   |    |        467-81 |
 | w   |        | sta                | xVB | står                |   | Staar                     | taar              |             |   |   |     | dan |   |   |    |        467-81 |

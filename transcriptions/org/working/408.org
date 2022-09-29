@@ -60,9 +60,9 @@ ASK: Remember to replace XML-tags with correct notation.
 | PE  | e      | HanOlu001     |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        | kanik         | xNC         | kannik        |   | Canich                | Canich       |   |   |   |   | dan |   |   |    |        408-01 |
 | w   |        | i             | xAP         | i             |   | i                     | i            |   |   |   |   | dan |   |   |    |        408-01 |
-| PL  | b      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
+| PL  | b      |               149195|             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        |               | xNP         | Roskilde      |   | roskildh              | roſkıldh     |   |   |   |   | dan |   |   |    |        408-01 |
-| PL  | e      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
+| PL  | e      |               149195|             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        | ævinnelik     | xAJ         | evindelig     |   | ewindeligh            | ewindelıgh   |   |   |   |   | dan |   |   |    |        408-01 |
 | w   |        | mæth          | xAP         | med           |   | m(et)                 | mꝫ           |   |   |   |   | dan |   |   |    |        408-01 |
 | w   |        | var           | xDP         | vor           |   | wor                   | woꝛ          |   |   |   |   | dan |   |   |    |        408-01 |
@@ -89,9 +89,9 @@ ASK: Remember to replace XML-tags with correct notation.
 | PE  | e      | OluMor001     |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        | biskop        | xNC         | biskop        |   | biscop                | bıſcop       |   |   |   |   | dan |   |   |    |        408-02 |
 | w   |        | i             | xAP         | i             |   | i                     | i            |   |   |   |   | dan |   |   |    |        408-02 |
-| PL  | b      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
+| PL  | b      |               149195|             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        |               | xNP         | Roskilde      |   | roskildæ              | roſkıldæ     |   |   |   |   | dan |   |   |    |        408-02 |
-| PL  | e      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
+| PL  | e      |               149195|             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        | ok            | xCC         | og            |   | och                   | och          |   |   |   |   | dan |   |   |    |        408-02 |
 | w   |        | han           | xPE         | hans          |   | hans                  | han         |   |   |   |   | dan |   |   |    |        408-02 |
 | w   |        | nathe         | xNC         | nåde          |   | nad(e)                | na          |   |   |   |   | dan |   |   |    |        408-02 |
@@ -148,9 +148,9 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | nu            | xAV         | nu            |   | nw                    | nw           |   |   |   |   | dan |   |   |    |        408-05 |
 | w   |        | have          | xVB         | have          |   | haffuæ                | haffuæ       |   |   |   |   | dan |   |   |    |        408-05 |
 | w   |        | i             | xAP         | i             |   | i                     | i            |   |   |   |   | dan |   |   |    |        408-05 |
-| PL  | b      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
+| PL  | b      |               149195|             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        |               | xNP         | Roskilde      |   | roskilde              | roſkılde     |   |   |   |   | dan |   |   |    |        408-05 |
-| PL  | e      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
+| PL  | e      |               149195|             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        | domkirkje     | xNC         | domkirke      |   | do(m)kirkæ            | do̅kıꝛkæ      |   |   |   |   | dan |   |   |    |        408-05 |
 | w   |        | i             | xAP         | i             |   | i                     | i            |   |   |   |   | dan |   |   |    |        408-05 |
 | w   |        | sva           | xAV         | så            |   | swo                   | ſwo          |   |   |   |   | dan |   |   |    |        408-05 |
@@ -385,9 +385,9 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        | høghboren     | xAJ         | højbåren      |   | høgh{bo}ren           | høgh{bo}ren  |   |   |   |   | dan |   |   |    |        408-17 |
 | w   |        | fyrste        | xNC         | fyrste        |   | førstæ                | føꝛﬅæ        |   |   |   |   | dan |   |   |    |        408-17 |
 | w   |        | kunung        | xNC         | konge         |   | ko(n)ni(n)gh          | ko̅ni̅gh       |   |   |   |   | dan |   |   |    |        408-17 |
-| PE  | b      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
+| PE  | b      |               RexChr001|             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        |               | xNP         | Christian     |   | Cristiern             | Criﬅıeꝛ     |   |   |   |   | dan |   |   |    |        408-17 |
-| PE  | e      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
+| PE  | e      |               RexChr001|             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        | stifte        | xVB         | stiftede      |   | stifftedhæ            | ﬅıfftedhæ    |   |   |   |   | dan |   |   |    |        408-17 |
 | w   |        | hvilik        | xDD         | hvilken       |   | hwilken               | hwılken      |   |   |   |   | dan |   |   |    |        408-17 |
 | w   |        | forskreven    | xAJ         | forskrevne    |   | for(skreffne)         | foꝛᷠͤ          |   |   |   |   | dan |   |   |    |        408-17 |
@@ -403,9 +403,9 @@ ASK: Remember to replace XML-tags with correct notation.
 | PE  | e      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        | rathman       | xNC         | rådmand       |   | radma(n)              | radma̅        |   |   |   |   | dan |   |   |    |        408-18 |
 | w   |        | i             | xAP         | i             |   | i                     | i            |   |   |   |   | dan |   |   |    |        408-18 |
-| PL  | b      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
+| PL  | b      |               149195|             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        |               | xNP         | Roskilde      |   | rosk(ilde)            | roſkꝭ        |   |   |   |   | dan |   |   |    |        408-18 |
-| PL  | e      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
+| PL  | e      |               149195|             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        | ok            | xCC         | og            |   | Och                   | Och          |   |   |   |   | dan |   |   |    |        408-18 |
 | w   |        | give          | xVB         | gav           |   | gaff                  | gaff         |   |   |   |   | dan |   |   |    |        408-18 |
 | w   |        | ok            | xCC         | og            |   | och                   | och          |   |   |   |   | dan |   |   |    |        408-18 |
@@ -590,17 +590,17 @@ ASK: Remember to replace XML-tags with correct notation.
 | w   |        |               |             |               |   | eius                  | eıu         |   |   |   |   | lat |   |   |    |        408-27 |
 | w   |        |               |             |               |   | venera(bilis)         | venera̅       |   |   |   |   | lat |   |   |    |        408-27 |
 | w   |        |               |             |               |   | capituli              | capıtulı     |   |   |   |   | lat |   |   |    |        408-27 |
-| PL  | b      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
+| PL  | b      |               149195|             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        |               |             |               |   | Roskilden(sis)        | Roſkılde̅    |   |   |   |   | lat |   |   |    |        408-27 |
-| PL  | e      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
+| PL  | e      |               149195|             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        |               |             |               |   | p(rese)ntib(us)       | pn̅tib       |   |   |   |   | lat |   |   |    |        408-27 |
 | lm  | 408-28 |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        |               |             |               |   | est                   | eﬅ           |   |   |   |   | lat |   |   |    |        408-28 |
 | w   |        |               |             |               |   | appensu(m)            | aenſu̅       |   |   |   |   | lat |   |   |    |        408-28 |
 | w   |        |               |             |               |   | Dat(um)               | Datꝭ         |   |   |   |   | lat |   |   |    |        408-28 |
-| PL  | b      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
+| PL  | b      |               149195|             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        |               |             |               |   | Rosk0000              | Roſk0000     |   |   |   |   | lat |   |   |    |        408-28 |
-| PL  | e      |               |             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
+| PL  | e      |               149195|             |               |   |                       |              |   |   |   |   |     |   |   |    |               |
 | w   |        |               |             |               |   | Anno                  | Anno         |   |   |   |   | lat |   |   |    |        408-28 |
 | w   |        |               |             |               |   | d(omi)nj              | dnȷ̅          |   |   |   |   | lat |   |   |    |        408-28 |
 | n   |        |               |             |               |   | mº                    | º           |   |   |   |   | lat |   |   |    |        408-28 |

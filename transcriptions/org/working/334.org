@@ -44,15 +44,15 @@ AM 187 8vo
 | d   | b      | 1            |     | protocol       |   |                  |               |   |   |   |   |     |   |   |   |               |
 | lm  | 334-01 |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |
 | w   |        | jak          | xPE | jeg            |   | Jæk              | Jæk           |   |   |   |   | dan |   |   |    | 334-01 |
-| PE  |      b |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |
+| PE  |      b |              AnnPed001|     |                |   |                  |               |   |   |   |   |     |   |   |    |        |
 | w   |        |              | xNP | Anna           |   | annæ             | annæ          |   |   |   |   | dan |   |   |    | 334-01 |
 | w   |        |              | xNP | Petersdatter   |   | pæthærs doter    | pæthær doter |   |   |   |   | dan |   |   |    | 334-01 |
-| PE  |      e |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |
+| PE  |      e |              AnnPed001|     |                |   |                  |               |   |   |   |   |     |   |   |    |        |
 | w   |        | hærre        | xNC | herre          |   | hærræ            | hærræ         |   |   |   |   | dan |   |   |    | 334-01 |
-| PE  |      b |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |
+| PE  |      b |              MikRud001|     |                |   |                  |               |   |   |   |   |     |   |   |    |        |
 | w   |        |              | xNP | Mikkel         |   | Michæl           | Mıchæl        |   |   |   |   | dan |   |   |    | 334-01 |
 | w   |        |              | xNP | Ruds           |   | Rwds             | Rwd          |   |   |   |   | dan |   |   |    | 334-01 |
-| PE  |      e |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |
+| PE  |      e |              MikRud001|     |                |   |                  |               |   |   |   |   |     |   |   |    |        |
 | w   |        | æfterlivende | xNC | efterlevende   |   | æfter lewend(e)  | æfter lewen  |   |   |   |   | dan |   |   |    | 334-01 |
 | w   |        | helse        | xVB | hilser         |   | helser           | helſer        |   |   |   |   | dan |   |   |    | 334-01 |
 | w   |        | al           | xAJ | alle           |   | allæ             | allæ          |   |   |   |   | dan |   |   |    | 334-01 |
@@ -112,9 +112,9 @@ AM 187 8vo
 | w   |        | kær          | xAJ | kære           |   | kære             | kære          |   |   |   |   | dan |   |   |    | 334-05 |
 | w   |        | dotter       | xNC | datter         |   | doter            | doter         |   |   |   |   | dan |   |   |    | 334-05 |
 | w   |        | jungfrue     | xNC | jomfru         |   | jumfruæ          | ȷumfruæ       |   |   |   |   | dan |   |   |    | 334-05 |
-| PE  |      b |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |
+| PE  |      b |              MarMik001|     |                |   |                  |               |   |   |   |   |     |   |   |    |        |
 | w   |        |              | xNP | Margrethe      |   | margretæ         | margretæ      |   |   |   |   | dan |   |   |    | 334-05 |
-| PE  |      e |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |
+| PE  |      e |              MarMik001|     |                |   |                  |               |   |   |   |   |     |   |   |    |        |
 | w   |        | syster       | xNC | søster         |   | søster           | ſøſter        |   |   |   |   | dan |   |   |    | 334-05 |
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-05 |
 | w   |        | i            | xAP | i              |   | j                | j             |   |   |   |   | dan |   |   |    | 334-05 |
@@ -127,9 +127,9 @@ AM 187 8vo
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-06 |
 | w   |        | i            | xAP | i              |   | j                |              |   |   |   |   | dan |   |   |    | 334-06 |
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-06 |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
+| PL | b |    149380|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
 | w   |        |              | xNP | Roskilde       |   | rosk(ilde)       | roſkꝭ         |   |   |   |   | dan |   |   |    | 334-06 |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
+| PL | e |    149380|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-06 |
 | w   |        | tve          | xNA | to             |   | too              | too           |   |   |   |   | dan |   |   |    | 334-06 |
 | w   |        | garth        | xNC | gårde          |   | garthæ           | garthæ        |   |   |   |   | dan |   |   |    | 334-06 |
@@ -138,17 +138,17 @@ AM 187 8vo
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-06 |
 | w   |        | i            | xAP | i              |   | j                | ȷ             |   |   |   |   | dan |   |   |    | 334-06 |
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-06 |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
+| PL | b |    102564|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
 | w   |        |              | xNP | Hastrup        |   | hasthorp         | haſthoꝛp      |   |   |   |   | dan |   |   |    | 334-06 |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
+| PL | e |    102564|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-06 |
 | w   |        | hvilik       | xPI | hvilken        |   | hwilkæn          | hwılkæ       |   |   |   |   | dan |   |   |    | 334-06 |
 | w   |        | upa          | xAV | på             |   | pa               | pa            |   |   |   |   | dan |   |   |    | 334-06 |
 | w   |        | bo           | xVB | bor            |   | boor             | booꝛ          |   |   |   |   | dan |   |   |    | 334-06 |
-| PE  |      b |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |
+| PE  |      b |              PedMad002|     |                |   |                  |               |   |   |   |   |     |   |   |    |        |
 | w   |        |              | xNP | Peder          |   | Pæthær           | Pæthær        |   |   |   |   | dan |   |   | =  | 334-06 |
 | w   |        |              | xNP | Madsen         |   | mattess(øn)      | matteſ       |   |   |   |   | dan |   |   | == | 334-06 |
-| PE  |      e |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |
+| PE  |      e |              PedMad002|     |                |   |                  |               |   |   |   |   |     |   |   |    |        |
 | w   |        | ok           | xCC | ok             |   | ok               | ok            |   |   |   |   | dan |   |   |    | 334-06 |
 | w   |        | give         | xVB | giver          |   | giuer            | giuer         |   |   |   |   | dan |   |   |    | 334-06 |
 | lm  | 334-07 |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |
@@ -162,16 +162,16 @@ AM 187 8vo
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-07 |
 | w   |        | i            | xAP | i              |   | j                | ȷ             |   |   |   |   | dan |   |   |    | 334-07 |
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-07 |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
+| PL | b |    102582|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
 | w   |        |              | xNP | Svansbjerg     |   | swansbiærgh      | ſwansbıærgh   |   |   |   |   | dan |   |   |    | 334-07 |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
+| PL | e |    102582|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
 | w   |        | hvilik       | xPI | hvilken        |   | hwilkæn          | hwılkæ       |   |   |   |   | dan |   |   |    | 334-07 |
 | w   |        | upa          | xAV | på             |   | pa               | pa            |   |   |   |   | dan |   |   |    | 334-07 |
 | w   |        | bo           | xVB | bor            |   | boor             | booꝛ          |   |   |   |   | dan |   |   |    | 334-07 |
-| PE  |      b |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |
+| PE  |      b |              LarBru001|     |                |   |                  |               |   |   |   |   |     |   |   |    |        |
 | w   |        |              | xNP | Lasse          |   | lassæ            | laſſæ         |   |   |   |   | dan |   |   |    | 334-07 |
 | w   |        |              | xNP | Brun           |   | brun             | bꝛu          |   |   |   |   | dan |   |   |    | 334-07 |
-| PE  |      e |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |
+| PE  |      e |              LarBru001|     |                |   |                  |               |   |   |   |   |     |   |   |    |        |
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-07 |
 | w   |        | ok           | xCC | og             |   | ok               | ok            |   |   |   |   | dan |   |   |    | 334-07 |
 | lm  | 334-08 |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |
@@ -187,18 +187,18 @@ AM 187 8vo
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-08 |
 | w   |        | i            | xAP | i              |   | j                | j             |   |   |   |   | dan |   |   |    | 334-08 |
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-08 |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
+| PL | b |    102566|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
 | w   |        |              | xNP | Herfølge       |   | hærfyhlæ         | hærfẏhlæ      |   |   |   |   | dan |   |   |    | 334-08 |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
+| PL | e |    102566|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
 | w   |        | sokn         | xNC | sogn           |   | sagn             | sag          |   |   |   |   | dan |   |   |    | 334-08 |
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-08 |
 | w   |        | i            | xAP | i              |   | j                | ȷ             |   |   |   |   | dan |   |   |    | 334-08 |
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-08 |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
+| PL | b |    102497|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
 | w   |        |              | xNP | Bjæverskovs    |   | bawærskows       | bawærſkow    |   |   |   |   | dan |   |   |    | 334-08 |
 | lm  | 334-09 |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |
 | w   |        | hæreth       | xNC | herred         |   | hæreth           | hæreth        |   |   |   |   | dan |   |   |    | 334-09 |
-| PL | e |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
+| PL | e |    102497|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
 | p   |        |              |     |                |   | .                | .             |   |   |   |   | dan |   |   |    | 334-09 |
 | w   |        | til          | xAP | til            |   | tel              | tel           |   |   |   |   | dan |   |   |    | 334-09 |
 | w   |        | sin          | xDP | sine           |   | sinæ             | ſinæ          |   |   |   |   | dan |   |   |    | 334-09 |
@@ -296,10 +296,10 @@ AM 187 8vo
 | w   |        |              |     |                |   |                  |               |   |   |   |   | lat |   |   |    | 334-14 |
 | lm  | 334-15 |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |
 | w   |        |              | lat |                |   | d(omi)ni         | dn̅ı           |   |   |   |   | lat |   |   |    | 334-15 |
-| PE  |      b |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |
+| PE  |      b |              JørMik001|     |                |   |                  |               |   |   |   |   |     |   |   |    |        |
 | w   |        |              | lat |                |   | yryæn            | ẏrẏæ         |   |   |   |   | dan |   |   |    | 334-15 |
 | w   |        |              | lat |                |   | Rwth             | Rwth          |   |   |   |   | dan |   |   |    | 334-15 |
-| PE  |      e |              |     |                |   |                  |               |   |   |   |   |     |   |   |    |        |
+| PE  |      e |              JørMik001|     |                |   |                  |               |   |   |   |   |     |   |   |    |        |
 | w   |        |              | lat |                |   | milit(is)        | mılıtꝭ        |   |   |   |   | lat |   |   |    | 334-15 |
 | w   |        |              | lat |                |   | p(rese)ntib(us)  | pn̅tıbꝫ        |   |   |   |   | lat |   |   |    | 334-15 |
 | w   |        |              | lat |                |   | est              | eſt           |   |   |   |   | lat |   |   |    | 334-15 |

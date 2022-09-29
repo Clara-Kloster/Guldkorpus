@@ -53,9 +53,9 @@
 | w   |        | menigh      | xAJ | menige          |   | Meni¦ge               | Meni¦ge               |             |   |   |   | dan |   |   |   | 465-01—465-02 |
 | w   |        | professor   | xNC |                 |   | professores           | profeſſore           |             |   |   |   | lat |   |   |   |        465-02 |
 | w   |        | uti         | xAP | udi             |   | vdj                   | vdj                   |             |   |   |   | dan |   |   |   |        465-02 |
-| PL  | b      |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
+| PL  | b      |             131422|     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | w   |        |             | xNP | Københavns      |   | køffuenhaffnns        | køffŭenhaffnns        |             |   |   |   | dan |   |   |   |        465-02 |
-| PL  | e      |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
+| PL  | e      |             131422|     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | w   |        | universitet | xNC | universitet     |   | Vniuersitedt          | Vniŭerſitedt          |             |   |   |   | dan |   |   |   |        465-02 |
 | lm  | 465-03 |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | w   |        | kænne       | xVB | kendes          |   | kendis                | kendi                |             |   |   |   | dan |   |   |   |        465-03 |
@@ -153,9 +153,9 @@
 | de  | e      |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | w   |        | ænghaghe    | xNC | enghave         |   | Enghauffue            | Enghaŭffŭe            |             |   |   |   | dan |   |   |   |        465-08 |
 | w   |        | uti         | xAP | udi             |   | vdi                   | vdi                   |             |   |   |   | dan |   |   |   |        465-08 |
-| PL  | b      |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
+| PL  | b      |             149195|     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | w   |        |             | xNP | Roskilde        |   | Roskilde              | Roſkılde              |             |   |   |   | dan |   |   |   |        465-08 |
-| PL  | e      |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
+| PL  | e      |             149195|     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | p   |        |             |     |                 |   | ,                     | ,                     |             |   |   |   | dan |   |   |   |        465-08 |
 | w   |        | kalle       | xVB | kaldes          |   | kaldis                | kaldi                |             |   |   |   | dan |   |   |   |        465-08 |
 | w   |        |             | xNP | Clara           |   | Clare                 | Clare                 |             |   |   |   | dan |   |   |   |        465-08 |
@@ -214,8 +214,16 @@
 | w   |        | uti         | xAP | udi             |   | vdj                   | vdj                   |             |   |   |   | dan |   |   |   |        465-11 |
 | w   |        | al          | xAJ | al              |   | all                   | all                   |             |   |   |   | dan |   |   |   |        465-11 |
 | w   |        | doktor      | xNC | doktor          |   | d(octor)              | d(.)                  |             |   |   |   | dan |   |   |   |        465-11 |
+| de  | b      |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
+| PE  | b      | AndLau002   |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
+| w   |        |             | xNP | Anders          |   | Ander                 | Ander                 |             |   |   |   | dan |   |   |   | 465-11        |
+| PE  | e      | AndLau002   |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
+| de  | e      |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | PE  | b      | NieHem001   |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
-| w   |        |             | xNP | Anders Nielsens |   | ⸠Ander⸡¦⸜Niel⸝s(øn)es | ⸠Ander⸡¦⸜Niel⸝e     |             |   |   |   | dan |   |   |   | 465-11—465-12 |
+| ad  | b      |             |     |                 |   |                       |                       | margin-left |   |   |   |     |   |   |   |               |
+| w   |        |             | xNP | Niels           |   | Niel                  | Niel                  |             |   |   |   | dan |   |   |   | 465-12        |
+| ad  | e      |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
+| w   |        |             | xNP | Hemmingsens     |   | s(øn)es               | e                   |             |   |   |   | dan |   |   |   | 465-12        |
 | PE  | e      | NieHem001   |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | w   |        | liv         | xNC | livs            |   | liffs                 | liff                 |             |   |   |   | dan |   |   |   |        465-12 |
 | w   |        | tith        | xNC | tid             |   | tid                   | tid                   |             |   |   |   | dan |   |   |   |        465-12 |
@@ -526,9 +534,9 @@
 | w   |        | ok          | xCC | og              |   | och                   | och                   |             |   |   |   | dan |   |   |   |        465-35 |
 | w   |        | skrive      | xVB | skrevet         |   | skreffuitt            | ſkreffŭitt            |             |   |   |   | dan |   |   |   |        465-35 |
 | w   |        | uti         | xAP | udi             |   | vdj                   | vdj                   |             |   |   |   | dan |   |   |   |        465-35 |
-| PL  | b      |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
+| PL  | b      |             131422|     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | w   |        |             | xNP | København       |   | køffuenhaffn          | køffŭenhaffn          |             |   |   |   | dan |   |   |   |        465-35 |
-| PL  | e      |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
+| PL  | e      |             131422|     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | lm  | 465-36 |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | de  | b      |             |     |                 |   |                       |                       |             |   |   |   |     |   |   |   |               |
 | w   |        | thænne      | xDD | denne           |   | thenne                | thenne                |             |   |   |   | dan |   |   |   |        465-36 |

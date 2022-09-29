@@ -49,9 +49,9 @@
 | w   |        |             | xNP | Degn         |   | diengh          | diengh       |   |   |   |   | dan |   |   |   |        439-01 |
 | PE  | e      | PedDeg001   |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
 | w   |        | af          | xAP | af           |   | aff             | aff          |   |   |   |   | dan |   |   |   |        439-01 |
-| PL  | b      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
+| PL  | b      |             148614|     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
 | w   |        |             | xNP | Vindinge     |   | vindinge        | vindinge     |   |   |   |   | dan |   |   |   |        439-01 |
-| PL  | e      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
+| PL  | e      |             148614|     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
 | w   |        | sum         | xRP | som          |   | som             | ſo          |   |   |   |   | dan |   |   |   |        439-01 |
 | w   |        | i           | xAP | i            |   | i               | i            |   |   |   |   | dan |   |   |   |        439-01 |
 | w   |        | thænne      | xDD | denne        |   | th(en)n(e)      | thn̅ͤ          |   |   |   |   | dan |   |   |   |        439-01 |
@@ -61,11 +61,11 @@
 | w   |        | foghet      | xNC | fogedens     |   | fowedh(e)ns     | fowedhn̅     |   |   |   |   | dan |   |   |   |        439-01 |
 | w   |        | stath       | xNC | sted         |   | stedh           | ſtedh        |   |   |   |   | dan |   |   |   |        439-01 |
 | w   |        | upa         | xAP | på           |   | poo             | poo          |   |   |   |   | dan |   |   |   |        439-01 |
-| PL  | b      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
+| PL  | b      |             123140|     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
 | w   |        |             | xNP | Flakkebjergs |   | flackebiers     | flackebieꝛ  |   |   |   |   | dan |   |   |   |        439-01 |
 | lm  | 439-02 |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
 | w   |        | hæreth      | xNC | Herreds      |   | hær(is)         | hærꝭ         |   |   |   |   | dan |   |   |   |        439-02 |
-| PL  | e      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
+| PL  | e      |             123140|     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
 | w   |        | thing       | xNC | ting         |   | tingh           | tingh        |   |   |   |   | dan |   |   |   |        439-02 |
 | w   |        | gøre        | xVB | gør          |   | Gør             | Gøꝛ          |   |   |   |   | dan |   |   |   |        439-02 |
 | w   |        | vitherlik   | xAJ | vitterligt   |   | with(e)rligt    | withꝛligt   |   |   |   |   | dan |   |   |   |        439-02 |
@@ -107,10 +107,10 @@
 | w   |        | thing       | xNC | ting         |   | tingh           | tingh        |   |   |   |   | dan |   |   |   |        439-04 |
 | w   |        | beskethen   | xAJ | beskeden     |   | beskeden        | beſkede     |   |   |   |   | dan |   |   |   |        439-04 |
 | w   |        | man         | xNC | mand         |   | ma(n)           | ma̅           |   |   |   |   | dan |   |   |   |        439-04 |
-| PE  | b      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
+| PE  | b      |             HanJen001|     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
 | w   |        |             | xNP | Hans         |   | hans            | han         |   |   |   |   | dan |   |   |   |        439-04 |
 | w   |        |             | xNP | Jensen       |   | jenss(øn)       | jenſ        |   |   |   |   | dan |   |   |   |        439-04 |
-| PE  | e      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
+| PE  | e      |             HanJen001|     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
 | w   |        | hæreth      | xNC | herreds      |   | hær(is)         | hærꝭ         |   |   |   |   | dan |   |   |   |        439-04 |
 | w   |        | foghet      | xNC | foged        |   | fowedh          | fowedh       |   |   |   |   | dan |   |   |   |        439-04 |
 | w   |        | i           | xAP | i            |   | i               | i            |   |   |   |   | dan |   |   |   |        439-04 |
@@ -130,9 +130,9 @@
 | w   |        | kloster     | xNC | klosters     |   | klosth(e)rs     | kloſthꝛ    |   |   |   |   | dan |   |   |   |        439-05 |
 | w   |        | thjanere    | xNC | tjenere      |   | tyæner(e)       | tÿæneꝛ      |   |   |   |   | dan |   |   |   |        439-05 |
 | w   |        | af          | xAP | af           |   | aff             | aff          |   |   |   |   | dan |   |   |   |        439-05 |
-| PL  | b      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
+| PL  | b      |             149195|     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
 | w   |        |             | xNP | Roskilde     |   | roskille        | ꝛoſkille     |   |   |   |   | dan |   |   |   |        439-05 |
-| PL  | e      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
+| PL  | e      |             149195|     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
 | w   |        | sum         | xRP | som          |   | som             | ſo          |   |   |   |   | dan |   |   |   |        439-05 |
 | lm  | 439-06 |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
 | w   |        | være        | xVB | var          |   | ⸍vor⸌           | ⸍voꝛ⸌        |   |   |   |   | dan |   |   |   |        439-06 |
@@ -204,9 +204,9 @@
 | w   |        | ok          | xCC | og           |   | ok              | ok           |   |   |   |   | dan |   |   |   |        439-09 |
 | w   |        | kunung      | xNC | konger       |   | konger          | kongeꝛ       |   |   |   |   | dan |   |   |   |        439-09 |
 | w   |        | i           | xAP | i            |   | i               | i            |   |   |   |   | dan |   |   |   |        439-09 |
-| PL  | b      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
+| PL  | b      |             128854|     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
 | w   |        |             | xNP | Danmark      |   | da(n)mark       | da̅maꝛk       |   |   |   |   | dan |   |   |   |        439-09 |
-| PL  | e      |             |     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
+| PL  | e      |             128854|     |              |   |                 |              |   |   |   |   |     |   |   |   |               |
 | w   |        | ok          | xCC | og           |   | ok              | ok           |   |   |   |   | dan |   |   |   |        439-09 |
 | w   |        | æfter       | xAP | efter        |   | effth(e)r       | effthꝛ      |   |   |   |   | dan |   |   |   |        439-09 |
 | w   |        | thæn        | xAT | de           |   | the             | the          |   |   |   |   | dan |   |   |   |        439-09 |

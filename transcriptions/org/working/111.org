@@ -54,9 +54,9 @@ ASK: Remember to remove XML-tag and introduce correct notation instead.
 | w   |        |   |   |   |   | N(icholaus)       | N.           |   |   |   |   | lat |   |   |   |        111-01 |
 | w   |        |   |   |   |   | h(er)mans(un)     | h͛mn        |   |   |   |   | dan |   |   |   |        111-01 |
 | PE  | e      | NieHer001  |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
-| PL  | b      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
+| PL  | b      |   149195|   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | !roskidis¡        | !roſkıꝺís¡   |   |   |   |   | lat |   |   |   |        111-01 |
-| PL  | e      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
+| PL  | e      |   149195|   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-01 |
 | w   |        |   |   |   |   | in                | ín           |   |   |   |   | lat |   |   |   |        111-01 |
 | w   |        |   |   |   |   | om(n)ium          | om̅ıum        |   |   |   |   | lat |   |   |   |        111-01 |
@@ -88,13 +88,13 @@ ASK: Remember to remove XML-tag and introduce correct notation instead.
 | ad  | b      |   |   |   |   | scribe-2          |              |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | ⸌sororib(us)⸍     | ⸌soꝛoꝛíbꝫ⸍   |   |   |   |   | lat |   |   |   |        111-03 |
 | ad  | e      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
-| PL | b |    |   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
+| PL | b |    149380|   |   |   |                     |                  |   |   |   |                                 |     |   |   |   |               |
 | w   |        |   |   |   |   | S(an)c(t)e        | Sc̅e          |   |   |   |   | lat |   |   |   |        111-03 |
 | w   |        |   |   |   |   | clare             | clre        |   |   |   |   | lat |   |   |   |        111-03 |
 | PL  | b      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | rosk(ildis)       | roſꝃ         |   |   |   |   | lat |   |   |   |        111-03 |
 | PL  | e      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
-| PL  | e      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
+| PL  | e      |   149380|   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-03 |
 | w   |        |   |   |   |   | molendinu(m)      | molenꝺínu̅    |   |   |   |   | lat |   |   |   |        111-03 |
 | w   |        |   |   |   |   | meum              | meum         |   |   |   |   | lat |   |   |   |        111-03 |
@@ -166,9 +166,9 @@ ASK: Remember to remove XML-tag and introduce correct notation instead.
 | w   |        |   |   |   |   | ac                | c           |   |   |   |   | lat |   |   |   |        111-06 |
 | w   |        |   |   |   |   | b(e)n(e)placito   | bn̅plcíto    |   |   |   |   | lat |   |   |   |        111-06 |
 | w   |        |   |   |   |   | ciui¦tatis        | cíuí¦ttís   |   |   |   |   | lat |   |   |   | 111-06—111-07 |
-| PL  | b      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
+| PL  | b      |   149195|   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | roskildensis      | roſkılꝺenſís |   |   |   |   | lat |   |   |   |        111-07 |
-| PL  | e      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
+| PL  | e      |   149195|   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-07 |
 | w   |        |   |   |   |   | (et)              |             |   |   |   |   | lat |   |   |   |        111-07 |
 | w   |        |   |   |   |   | est               | eﬅ           |   |   |   |   | lat |   |   |   |        111-07 |
@@ -241,9 +241,9 @@ ASK: Remember to remove XML-tag and introduce correct notation instead.
 | w   |        |   |   |   |   | Actum             | um         |   |   |   |   | lat |   |   |   |        111-10 |
 | w   |        |   |   |   |   | (et)              |             |   |   |   |   | lat |   |   |   |        111-10 |
 | w   |        |   |   |   |   | datum             | ꝺtum        |   |   |   |   | lat |   |   |   |        111-10 |
-| PL  | b      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
+| PL  | b      |   149195|   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | w   |        |   |   |   |   | ros¦kildis        | roſ¦kılꝺís   |   |   |   |   | lat |   |   |   | 111-10—111-11 |
-| PL  | e      |   |   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
+| PL  | e      |   149195|   |   |   |                   |              |   |   |   |   |     |   |   |   |               |
 | p   |        |   |   |   |   | .                 | .            |   |   |   |   | lat |   |   |   |        111-11 |
 | w   |        |   |   |   |   | anno              | nno         |   |   |   |   | lat |   |   |   |        111-11 |
 | w   |        |   |   |   |   | d(omi)ni          | ꝺn̅ı          |   |   |   |   | lat |   |   |   |        111-11 |
