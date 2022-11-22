@@ -53,7 +53,7 @@ n_chunks = math.ceil(size/byte_limit)
 chunks = np.array_split(dataframe, n_chunks)
 
 for i, chunk in  (pbar := tqdm(enumerate(chunks), total=n_chunks)):
-    name = "table{}.csv".format(str(i+1).zfill(len(str(n_chunks))))
+    name = "{}.csv".format(str(i+1).zfill(len(str(n_chunks))))
     pbar.set_description(name)
     chunk.to_csv(OUTPUT_DIR+"eae_csv/"+name, header=False, index=False)
 
