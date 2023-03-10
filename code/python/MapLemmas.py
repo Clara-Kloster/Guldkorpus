@@ -40,16 +40,18 @@ danish.sort()
 print("Number of files: " + str(len(danish)))
 
 for item in danish:
+    print("Checking file: " + item)
     working_file = input_directory + item + ".org"
     data = open(working_file).read()
     mo = re.search("Transcription\n.*\n(\n|$)", data, re.S)
+    print(mo)
     mytable = mo.group(0)
     d = csv.DictReader(mytable.splitlines(), delimiter='|')
     for row in d:
         lemma = row[None][2].strip()
         attestation = row[None][6].strip().lower()
         if normalize == True:
-            attestation = attestation.replace('j','i').replace('w','v')
+            attestation = attestation.replace('j','i').replace('w','u').replace('ffv','ffu').replace('v','u')
         attestation_stripped = re.sub('[^a-zæøA-ZÆØ]', '', attestation)
         if lemma not in lemmata:
             lemmata.append(lemma)
@@ -59,6 +61,8 @@ for item in danish:
         lemmaTable[lemma].append(item)
         attestTable[lemma].append(attestation_stripped)
 
+print("Total files checked: " + str(len(danish)))
+        
 traces = [ ]
 xvals = [ ]
 yvals = [ ]
